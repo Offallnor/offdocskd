@@ -1,1183 +1,274 @@
-# NOU 2023: 11, del 12 av 23 (side 149–159)
+# NOU 2023: 11, del 12 av 29
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2023/ddf789d4-nou-2023-11.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2023-11/id2969126/
 - Original-PDF: https://www.regjeringen.no/contentassets/bc4d7866cdbf4151b35df2ddb8b8f5bb/no/pdfs/nou202320230011000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 32 figurer, 132 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 149]
+## Antallet klager
 
-147
+### Utviklingen av antallet klage- og ankesaker
 
-NOU 2023: 11
-Raskt og riktig
+Det fremgår av mandatet at antallet klager har økt over tid. Oslo Economics har analysert utviklingen i klagevolumet i perioden 2016–2021.[^387] Koronapandemien preger situasjonen i 2020, og delvis i 2021, i både førsteinstansene og NAV Klageinstans med høyere restanser enn normalt. Dette skyldes at Nav omdisponerte ressurser fra klagebehandling til saksbehandling av søknader livsoppholdsytelser, særlig i starten av pandemien da mange hadde behov for rask utbetaling av dagpenger.
 
-Kapittel 12
+Oslo Economics finner at antall innkomne klager i førsteinstansene samlet var på et relativt stabilt nivå i 2016–2020, men med noe økning i 2020–2021. I samme periode har det skjedd en dreining i klagesaksporteføljen ved at andelen klager som gjaldt de helserelaterte ytelsene uføretrygd, arbeidsavklaringspenger og sykepenger, økte fra 33 prosent i 2016 til å omfatte 44 prosent av sakene i 2019, mens andelen dagpengesaker gikk ned i samme periode. Antall innkomne klager på arbeidsavklaringspenger økte fra 8 500 i 2016 til 10 200 i 2018 og antall innkomne klager på uføretrygd økte fra 5 100 i 2016 til 8 100 i 2019. Begge endringene er antatt å ha sammenheng med lovendringer på arbeidsavklaringspenger fra 1. januar 2018. Under pandemien ble antall klager om arbeidsavklaringspenger og uføretrygd igjen redusert. Årsaken er trolig automatisk forlengelse av stønadsperioden for mottakere av arbeidsavklaringspenger. Antall og andel klager i dagpengesaker har økt betydelig igjen under pandemien.
 
-350 000
-310 000 kroner
-300 000
-
-Kroner, pr. sak
-
-250 000
-
-200 000
-
-150 000
-
-100 000
-
-50 000
-
-Utgifter til den private parts
-prosessfullmektig
-Utgifter til statens prosessfullmektig
-Bisitter (Nav klageinstans)
-Sakkyndig (snitt anslag 18 000)
-Behandling av saken
-
-38 000 kroner
-
-Trygderetten
-
-Domstol
-
-20 700
-
-167 000
-63 200
-18 800
-18 000
-43 000
-
-4 300
-13 000
-
-Figur 12.5 Estimerte kostnader, Trygderetten og domstolsbehandling
-
-ender med dom. Domstolkommisjonen bygger på
-at under halvparten av sakene ved tingretten
-avgjøres ved dom.23 Gjennomsnittstallet for trygderettssaker som ender med dom i lagmannsretten er om lag 60 prosent.
-Tallene fra Trygderetten inkluderer utgifter til
-fagkyndige medlemmer. Skal kvaliteten i behandlingen holdes på samme nivå, er det grunn til å
-anta at tingrettene vil ha behov for enten fag- eller
-sakkyndighet i et lignende antall saker. Dette kan
-enten gjøres ved at rettens settes med fagkyndige
-meddommere, eller ved at det føres sakkyndige
-vitner. Tradisjonen i domstolen tilsier nok at det
-oftest vil være aktuelt å føre sakkyndige vitner.
-Uansett vil slik sakkyndighet belaste saken med
-kostnader. Det gjøres et skjønnsmessig tillegg for
-sakkyndige. Utvalget har skjønnsmessig satt tallet
-til 20 000-40 000 kroner per sak. I Trygderetten
-ble det benyttet fagkyndige i om lag to tredjedeler
-av sakene. I om lag en fjerdedel av sakene ble retten anslagsvis satt med to sakkyndig. Et konservativt anslag vil være at det er behov for sakkyndig23
-
-Smln. NOU 2020: 11 Den tredje statsmakt,s. 15.
-
-het i 60 prosent av sakene for tingretten, slik at
-snittkostnadene til sakkyndig er satt til 12 00024 000 kroner.
-Utvalget har også innhentet tall fra NAV Klageinstans på kostnader med deres arbeid forbundet
-med behandling av saker for lagmannsretten.
-Disse er anslått til 18 800 kroner.24 Etter utvalgets
-oppfatning gir faktiske kostnader for bisitter i
-dagens system for lagmannsretten et godt bilde
-på tilsvarende kostnader som må forventes ved en
-eventuell sak for tingretten.
-For å stipulere kostnader forbundet med prosessfullmektiger for en eventuell tingrettsbehandling, er det tatt utgangspunkt i faktiske kostnader
-til prosessfullmektiger for lagmannsretten. Dette
-er gjort ved en gjennomgang av kostnader i alle
-24
-
-Timeprisen for saksbehandler i NAV Klageinstans er hentet fra rapporten fra Oslo Economics: 456 kroner (brukt
-som grunnlag for å beregne kostnaden på 4.300 kroner for
-arbeidet i NAV Klageinstans med ankesaker om uføretrygd
-til Trygderetten). Tidsbruken bygger på en spørrerunde
-blant de som gjør jobben i NAV Klageinstans. Den viser at
-tidsbruken til bistand til Regjeringsadvokaten før og under
-hovedforhandling er 5-6 dagsverk. Hvis Nav Klageinstans
-bruker 5,5 dager, koster hver sak om lag 18.800 kroner.
-
-[Side 150]
-
-148
-
-Kapittel 12
-
-NOU 2023: 11
-Raskt og riktig
-
-trygdesaker behandlet i lagmannsretten i 2021.
-Det gjelder både statens kostnader til egen prosessfullmektig som viser en snittpris på
-63 000 kroner, og kostnader den private parts prosessfullmektig har fremsatt, som viser en snittpris
-på 167 000 kroner.25 Etter utvalgets syn gir denne
-analysen et nokså realistisk bilde på kostnadene
-ved en eventuell sak for tingretten. Utvalgets analyse er nokså konservativ sammenlignet med
-Domstolkommisjonens anslag som viser at
-tapende part i tvistesaker generelt, ofte må betale
-mellom 150 000 og 300 000 kroner for motpartens
-sakskostnader.26
-Samlet gjennomsnittskostnad ved en tenkt
-tingrettsbehandling blir da om lag 310 000 kroner.
-Selv om tallene er beheftet med usikkerhet, er
-forskjellene svært store. Kostnader forbundet
-med en hovedforhandling i tingretten anslås til å
-bli om lag åtte ganger så høye som behandlingen
-av en sak i Trygderetten. Utvalgets funn bekrefter
-Domstolkommisjonens konklusjon om at «tingrettene er et kostbart tvisteløsningsalternativ».27
-Årsaker til kostnadsforskjeller
-En årsak til de store kostnadsforskjellene er nok
-at Trygderetten normalt behandler saker skriftlig.
-Trygderetten kan behandle saker ved muntlige
-forhandlinger, men i praksis skjer det bare helt
-unntaksvis. I tingretten er hovedregelen derimot
-at saker skal behandles muntlig, og at avgjørelsene skal bygge på det som har fremkommet i
-rettsmøtet.28 Dette gjør behandlingen av saker for
-de alminnelige domstolene mer ressurskrevende
-enn i Trygderetten.29
-Det er usikkert hvor stor del av kostnadene i
-domstolene som direkte skyldes behandlingsformen. Undersøkelser Domstolkommisjonen viser
-til, tyder på at dommere i gjennomsnitt bruker en
-nokså liten del av arbeidsdagen i hovedforhand25
-
-Utvalgets gjennomgang av søksmål til lagmannsretten over
-Trygderettens kjennelser som er avsluttet i 2021.
-26
-NOU 2020: 11 Den tredje statsmakt, s. 314. På samme side
-viser kommisjonen til at hovedforhandlingen i de fleste
-sakene som ble behandlet i 2018, gikk over 1–3 dager. Om
-lag 35 prosent av sakene ble behandlet på én dag, 40 prosent på to dager, 15 prosent på tre dager, og 10 prosent på
-fire dager eller mer. Utvalget har fått opplyst at trygdesaker
-i lagmannsretten i gjennomsnitt går over 1,5 dager.
-27
-NOU 2020: 11 Den tredje statsmakt, s. 246.
-28
-Se tvisteloven § 11-1 første ledd, jf. § 21-2 andre ledd.
-29
-Smln. NOU 2020: 11 Den tredje statsmakt,s. 273 som skriver at det er deres inntrykk at det «brukes forholdsvis mye
-tid underhovedforhandling til å lese opp eller gjennomgå
-skriftlige dokumentbevis».
-
-ling.30 Tidsbruken i domstolen er derfor i større
-grad knyttet til forberedelse av saker og skriving
-av dommer. Dette kan tilsi at behandlingsformen
-ikke kan forklare mer enn en del av forskjellen
-knyttet til rettens kostnader ved behandlingen av
-saken.
-En stor del av kostnadsforskjellen kan tilskrives partenes advokater, men også her er behandlingsformen en viktig del av forklaringen. Utvalget
-antar at en større del av partene bruker advokat i
-domstolene, og at årsaken til at kostnadene for
-advokatens arbeid der blir vesentlig høyere, skyldes at gjennomføringen av en rettssak er langt
-mer formalisert og krevende enn en sak for Trygderetten. For domstolene har partene, ved advokatene, ansvaret for sakens opplysning. Det er i
-praksis advokatene som må fremskaffe og fremlegge bevis og planlegge gjennomføringen av
-hovedforhandlingen, blant annet ved å vurdere
-bruk og valg av sakkyndig, utforme forslag til
-mandat, produsere faktiske og juridiske utdrag og
-planlegge parts- og vitneavhør. Domstolene forventer også at partene utarbeider hjelpedokumenter for retten, i form av disposisjoner for både
-saksfremstilling og avsluttende innlegg, i tillegg
-til omforent fremdriftstidsplan. I Trygderetten er
-det retten selv som har ansvaret for sakens opplysning, og fordi prosessen er skriftlig, vil de
-nevnte praktiske advokatoppgavene ikke være
-aktuelle.
-Dommerne i de ordinære domstolene er ikke
-spesialister, noe som antas å ha betydning for ressursbruken. Domstolkommisjonen har ikke gjort
-noen undersøkelser av gjennomsnittlig tidsbruk,
-men antar at en forholdsvis stor andel av arbeidstiden går med til å skrive dommer.31 Kommisjonen
-viser også til at dommerne i all hovedsak er generalister, uten å påstå at det bidrar til at det går mer
-tid til domskriving enn nødvendig.32
-Det antas at det i Trygderetten brukes noe
-mindre tid og ressurser på å skrive kjennelser
-som følge av spesialisering og bruk av fagkyndige. Trygderettens medlemmer har erfaring
-med de juridiske og medisinskfaglige problemstillingene sakene reiser. Utvalget mener at den spesialisering som ligger i Trygderetten vil kunne
-gjøre prosessen mer effektiv.33
-30
-31
-32
-33
-
-NOU 2020: 11 Den tredje statsmakt, s. 242-243.
-NOU 2020: 11 Den tredje statsmakt, s. 242–243.
-NOU 2020: 11 Den tredje statsmakt, s. 246.
-Se også NOU 2017: 8 Særdomstoler på nye områder? s. 52
-som drøfter betydningen av spesialisering.
-
-[Side 151]
-
-NOU 2023: 11
-Raskt og riktig
-
-Kan de alminnelige domstolene gjøres mer effektive?
-Det ligger utenfor utvalgets mandat å foreslå
-generelle endringer i tvisteloven. Utvalget vil likevel vurdere om det kan gjøres grep for å effektivisere tingrettens behandling i eventuelle saker om
-overprøving av Trygderettens kjennelser. Utvalget tar utgangspunkt i de tiltakene Domstolkommisjonen har foreslått, og vil vurdere om disse er
-egnet til å gjøre prosessen så effektiv at tingretten
-kan behandle sakene til tilnærmet samme kostnad
-som Trygderetten.
-Domstolkommisjonen har foreslått en moderat spesialisering i tingrettene. Utvalget er enig i
-at dette vil kunne bidra til økt effektivitet. Kommisjonens forslag bygger imidlertid på at spesialiserte sakstyper ikke bør utgjøre mer enn 20-30
-prosent av porteføljen.34 Dommere behandler
-omtrent 100 saker i året.35 Dersom den enkelte
-dommers portefølje bare skal bestå av omtrent 25
-prosent spesialiserte saker, vil det utgjøre omtrent
-25 trygdesaker i året. Dette er langt færre saker
-enn det som behandles av medlemmene i Trygderetten. Hvert juridisk kyndig rettsmedlem
-behandlet 109 saker i gjennomsnitt i 2021. Domstolkommisjonen forutsetter videre at sakene skal
-behandles i flere forskjellige domstoler. Fagkompetansen vil da måtte spres ut over ulike rettssteder. Kompetansen i de ulike rettskretsene vil være
-sårbar fordi fagmiljøene vil bli fåtallige. Dessuten
-bygger kommisjonens forslag på at dommere over
-tid skal rotere mellom å jobbe med de ulike spesialiserte rettsområdene. Det skaper usikkerhet
-med hensyn til hvilken grad av spesialisering
-dommerne vil oppnå. For utvalget er det derfor
-uklart hvor mye dette vil påvirke effektiviteten i
-domstolenes behandling av trygdesakene.
-Den praktiske muligheten for spesialisering i
-domstolene henger også sammen med sakstilfanget. Ser man bort fra barnevernsakene, mottar
-domstolene omkring 430 saker av forvaltningsrettslig karakter årlig.36 Av disse utgjør utlendingssaker 33 prosent og saker om skatt og avgift
-28 prosent. Størsteparten av den resterende andel
-består av trygdesaker. Årlig antall forvaltningssaker per dommer antas å utgjøre 1/100 saker.37
-Med mindre det gjøres vesentlige endringer i
-reglene om rettshjelp og sakskostnader, vil det
-antagelig fortsatt være et begrenset antall trygdesaker som blir brakt inn for domstolen.
-34
-
-NOU 2020: 11 Den tredje statsmakt, s. 295.
-Smith, Våre perifere domstoler, 1. utgave 2022, s. 36.
-36
-Smith, Våre perifere domstoler, 1. utgave 2022, s. 69-70.
-37
-Smith, Våre perifere domstoler, 1. utgave 2022, s. 36.
-35
-
-149
-
-Kapittel 12
-
-Utvalget mener at den beskjedne graden av
-spesialisering Domstolkommisjonen foreslår, ikke
-vil få noen nevneverdig betydning for kostnadsnivået på dette området. Det vil i for stor grad variere om retten har den spesialkompetansen som er
-nødvendig for en rask og effektiv behandling av
-de rettslige og faktiske problemstillingene sakene
-på dette området reiser.
-Domstolkommisjonen har også foreslått å
-utvide adgangen til å avsi dom på grunnlag av
-skriftlig materiale.38 Dette er et forslag utvalget
-stiller seg positivt til. Utvalget antar at den samlede tidsbruken i retten vil kunne reduseres noe.
-Det er imidlertid vanskelig å vurdere hvor stor
-betydning dette vil kunne få i praksis. Dels er det
-uklart hvordan det faktisk vil påvirke aktørenes
-opptreden og opplegg i retten så lenge rammene
-for hovedforhandlingen ellers likner på det som
-gjelder i dag. Dels er det knyttet usikkerhet til
-evnen til å gjennomføre endringer i domstolen
-som legger opp til utøving av dommerskjønn i den
-enkelte sak. Et hovedformål med ny tvistelov var
-nettopp å gjøre sakene billigere.39 Domstolkommisjonen bekrefter imidlertid at tvistesakene i stedet har blitt vesentlig dyrere, og at økningen er
-høyere enn økningen i tvistesum skulle tilsi.40
-Riksrevisjonens legger i sin undersøkelse fra 2019
-til grunn at tingrettene i for liten grad benytter seg
-av lovens virkemidler for aktiv saksstyring.41
-Slik utvalget ser det, er det uklart om og eventuelt når Domstolkommisjonens forslag til effektiviseringsgrep i domstolene lar seg gjennomføre.
-Det er også uklart i hvilken grad disse grepene vil
-ha ønsket effekt.
-Premisser for utvalgets nærmere vurderinger
-Utvalget legger til grunn at kostnadene forbundet
-med en tenkt behandling for tingretten, gitt
-dagens regler, vil være omkring åtte ganger høyere enn dagens behandling for Trygderetten.
-Domstolkommisjonen anser «utviklingen i tilkjente sakskostnader som alvorlig», og viser til at
-«utviklingen har eskalert også etter innføringen
-av ny tvistelov». Dette fremheves som «særlig
-38
-39
-40
-41
-
-NOU 2020: 11 Den tredje statsmakt, s. 363–364.
-NOU 2001: 32 a Rett på sak, s. 90.
-NOU 2020: 11 Den tredje statsmakt,s. 246.
-Dokument 3:3 (2019–2020) Riksrevisjonens undersøkelse
-av saksbehandlingstid og effektivitet i tingrettene og lagmannsrettene, s. 12. Domstolkommisjonen viser også til at
-tvisteloven åpnet for mer aktiv saksstyring, og konkluderer
-med det er ting som tyder på at «den «kulturendring» tvisteloven var ment å innføre, har latt vente på seg», se Domstolkommisjonen NOU 2020: 11 s. 267.
-
-[Side 152]
-
-150
-
-Kapittel 12
-
-NOU 2023: 11
-Raskt og riktig
-
-bekymringsfullt med tanke på borgernes tilgang
-til domstolene».42 Utvalget er enig i dette.
-Forslagene fra Domstolkommisjonen kan nok
-redusere kostnadsforskjellene mellom behandling
-i tingretten og Trygderetten noe, men neppe med
-så stor effekt at kostnadene kan reduseres til det
-nivå som er i Trygderetten. Utvalget legger til
-grunn at det også med kommisjonens forslag vil
-være vesentlige dyrere for en bruker å føre en sak
-for tingretten enn for Trygderetten. Dette er en
-viktig premiss for utvalgets vurderinger av normalmodellen på trygderettens område.
-Samtidig ser utvalget at det vil variere hvor
-stor vekt som kan og bør legges på hensynet til
-kostnadseffektivitet, avhengig av hvem som til
-slutt skal bære kostandene. I den forbindelse er
-det relevant å se hen til rettshjelpsreglene.
-Domstolsprøving av trygdesaker har ikke
-vært et prioritert saksområde for fri sakførsel. De
-siste årene er det innvilget fri sakførsel i én–to
-trygdesaker i året. Rettshjelpsutvalget har nylig
-gjennomgått reglene om rettshjelp og foreslått
-endringer som kan medføre at noen flere får innvilget fri sakførsel for domstolsbehandling, også i
-trygdesaker. Rettshjelpsutvalgets forslag bygger
-imidlertid på at trygdesaker for domstolen fortsatt ikke skal være et prioritert saksområde. De
-foreslåtte endringene vil derfor ikke gi grunnlag
-for fri sakførsel i et vesentlig høyere antall saker
-enn i dag.
-Uten betydelige endringer i rettshjelpsordningen vil normalmodellen innebære at brukeren
-bærer risikoen for de samlede sakskostnadene for
-tingretten, avhengig av resultatet i saken. Trygderetten stadfester rundt 80 prosent av vedtakene
-som ankes videre fra Nav Klageinstans. Tvistelovens sakskostnadsregler åpner for at retten på
-visse vilkår kan frita private parter som taper
-saken, å dekke statens kostnader, og unntaksvis
-kan den tapende part også tilkjennes dekning for
-egne kostnader.43 Undersøkelser utvalget har
-gjort av lagmannsrettspraksis i 2021 viser at parten måtte dekke statens omkostninger i 29 av 44
-saker der søksmålet ikke fører frem. Det er i tråd
-med tvistelovens hovedregler.44
-Det er ikke til å komme bort fra at en bruker
-som ønsker å få prøvd saken sin for domstolene,
-må ta høyde for at regningen kan bli betydelig.
-Utvalget har stipulert et gjennomsnittlig sakskostnadsansvar (for egne og statens kostnader) til om
-lag 230 000 kroner. Utvalget antar at relativt få
-
-brukere vil ta seg råd til å bringe et klagevedtak
-inn for domstolen dersom risikoen for tap med
-kostnadsansvar er kjent. Normalmodellen uten
-andre endringer i omkostningsreglene, ville derfor trolig ført til at bare et fåtall av sakene som i
-dag bringes inn for Trygderetten, blir gjenstand
-for prøving i domstolene. Utvalget tror ikke at
-antallet saker ville økt vesentlig fra det som i dag
-bringes inn for lagmannsrettene, selv om det antakelig øker noe. Over tid har tallet ligget på årlig
-omkring 100 saker i lagmannsrettene.
-Innføringen av normalmodellen på Navs myndighetsområde vil altså i utgangspunktet gi en
-langt mer kostbar tvisteløsningsprosess enn
-dagens modell. Et alternativ som derfor må vurderes, er om ulempene med normalmodellen avhjelpes ved at staten helt eller delvis bærer kostnadene, for eksempel ved at det gjøres endringer i
-reglene om rettshjelp, eventuelt også i tvistelovens sakskostnadsregler. Uten slike endringer vil
-trolig bare et lite fåtall brukere ha mulighet til å få
-overprøvd vedtakene fra NAV Klageinstans. I realiteten fratas brukerne ett nivå med overprøving
-sammenlignet med dagens system. I et slikt tilfelle vil det kunne være behov for å gjøre mer eller
-mindre vesentlige endringer i klageinstansen.
-
-42
-
-45
-
-NOU 2020: 11 Den tredje statsmakt, s. 316.
-Tvisteloven § 20-2 (3), § 20-3 og § 20-4.
-44 Tvisteloven § 20-2.
-
-12.3.3 Normalmodellen med bedre
-rettshjelpsdekning
-En mulig utforming av normalmodellen er å endre
-rettshjelpsordningen slik at en stor andel av de
-som ønsket å prøve sin sak for tingretten, får innvilget rettshjelp. Som det fremgår ovenfor bærer
-også brukerne risikoen for å bli pålagt å dekke
-statens prosessomkostninger for de ordinære
-domstoler. Gjennomgangen utvalget har foretatt
-av statens fremsatte omkostningskrav i saker for
-lagmannsretten i 2021, viser et gjennomsnitt på
-63 000 kroner.45 Dersom antallet saker for tingretten skal bli tilnærmet det samme som for Trygderetten, må det også foreslås endringer som gjøre
-at brukers risiko for å måtte dekke statens
-sakskostnader reduseres.
-Det er innlysende at et slikt forslag vil få store
-økonomiske konsekvenser for staten. Utvalget
-har utarbeidet noen enkle regnestykker basert på
-en gjennomsnittspris på 38 000 kroner per sak for
-behandling i Trygderetten. Totalkostnaden for en
-hypotetisk behandling i tingretten er stipulert til
-om lag 310 000 kroner.46
-
-43
-
-46
-
-Gjennomgang av søksmål til lagmannsretten over Trygderettens kjennelser som er avsluttet i 2021.
-Se ovenfor i punkt 12.3.2.
-
-[Side 153]
-
-151
-
-NOU 2023: 11
-Raskt og riktig
-
-Kapittel 12
-
-Antall saker
-
-Pris pr sak
-
-Totalt
-
-Trygderett
-
-3 500
-
-38 000
-
-133 000 000
-
-Tingrett
-
-3 500
-
-226 500
-
-792 750 000
-
-Kostnadsøkning
-
-659 750 000
-Antall saker
-
-Pris pr sak
-
-Totalt
-
-Trygderett
-
-2 000
-
-38 000
-
-76 000 000
-
-Tingrett
-
-2 000
-
-226 500
-
-453 000 000
-
-Kostnadsøkning
-
-377 000 000
-Antall saker
-
-Pris pr sak
-
-Totalt
-
-Trygderett
-
-1 000
-
-38 000
-
-38 000 000
-
-Tingrett
-
-1 000
-
-226 500
-
-226 500 000
-
-Kostnadsøkning
-
-188 000 000
-
-Den største delen av disse kostnadene er hentet fra reelle omkostningskrav fremsatt av brukerens prosessfullmektig. I disse omkostningsoppgavene er det benyttet ordinære timesatser. Dersom saken skal finansieres gjennom reglene om
-rettshjelp, er det naturlig at man benytter offentlig
-salærsats. Disse er om lag halvparten av ordinære
-timesatser for denne typen saker. Utvalget har
-derfor i sin sammenlikning halvert kostnadene til
-brukerens advokat.47
-Kostnadene for staten vil avhenge av hvor
-mange som får innvilget rettshjelp og brukers
-risiko for å måtte dekke statens omkostninger.
-Utvalget har stipulert kostnadene under forutsetning av at henholdsvis 3 500, 2 000 og 1 000 brukere velger å ta ut søksmål for tingretten.
-Utvalgets forslag skal etter mandatet vurderes
-opp mot samfunnsøkonomisk effektivitet, herunder forsvarlig ressursbruk. Navs Omverdensanalyse bygger på at det vil bli nødvendig
-med kostnadseffektivisering på Navs myndighetsområde.48 Det er ingen tvil om at normalmodellen
-med utvidet rettshjelp vil bli svært kostbar og gå i
-motsatt retning av de forventninger som ellers er
-
-stilt til effektivisering på Navs myndighetsområde.
-En slik endring i reglene om rettshjelp vil også
-stå i et problematisk forhold til andre sammenlignbare rettsområder innenfor velferdssektoren.
-Mens man innenfor helse- og omsorgssektoren
-bare kan overprøve klagevedtak for de ordinære
-domstolene, og da uten at dette er et prioritert
-område for rettshjelp, har man på Navs myndighetsområde mulighet for å få overprøvd klagevedtak gratis og med betydelig rettshjelpsmuligheter
-for Trygderetten. Det er derfor bedre rettssikkerhetsgarantier for brukerne i saker som blir
-behandlet i NAV Klageinstans og Trygderetten,
-enn på andre sammenlignbare områder. I en situasjon der det ikke kan forventes en kraftig tilførsel
-av midler til offentlig sektor, fremstår det som lite
-naturlig å tilføre denne brukergruppen store midler til mer omfattende rettshjelp. Et slikt forslag vil
-også stå i strid med de avveininger av ulike brukergrupper som Rettshjelpsutvalget har foretatt.
-Etter utvalgets syn er normalmodellen med en
-betydelig utvidelse av rettshjelpsordningen verken økonomisk realistisk eller forsvarlig.
-
-47
-
-12.3.4 Normalmodellen uten endringer i
-rettshjelpsdekningen og uten
-endringer i klageinstansen
-Utvalget har også vurdert normalmodellen under
-forutsetning av at det ikke gjøres vesentlige
-endringer i rettshjelpsordningen, og uten at det
-gjøres store endringer i dagens klagebehandling.
-I et slikt system vil førsteinstansens vedtak kunne
-
-I praksis ser man ofte at brukers advokat inngår en avtale
-der bruker betaler ordinære rettshjelpssatser dersom søksmålet fører frem. Domstolen har akseptert at bruker da får
-erstatning for ordinære timesatser fra staten i saker der
-søksmålet fører frem. Dette kan være aktuelt i 20 prosent
-av sakene. Det er usikkert hvor vanlig slike avtaler er, og
-utvalget har derfor valgt å se bort i fra denne merkostnaden i våre overslag.
-48
-NAVs omverdensanalyse 2021. Utvikling, trender og konsekvenser fram mot 2035, s. 8.
-
-[Side 154]
-
-152
-
-Kapittel 12
-
-NOU 2023: 11
-Raskt og riktig
-
-klages inn til et alminnelig forvaltningsorgan, slik
-som NAV Klageinstans er i dag. Sakene på Navs
-myndighetsområde blir i så fall i realiteten likestilt
-med de fleste andre forvaltningssaker. Vedtak fra
-klageinstans må da bringes inn for de ordinære
-domstoler, med tingretten i første instans. En slik
-normalitet har en verdi i seg selv, og bidrar til å
-sikre blant annet likebehandling og forutsigbarhet. Dette er i dag ordningen for vedtak fra NAV
-Klageinstans etter lover som faller utenfor Trygderettens saklige virkeområde.49
-Også effektivitetshensyn kan tale for en slik
-normalmodell også for sakene som i dag behandles i Trygderetten. Selv om brukerne da fritt kan
-binge saken inn for tingretten, vil brukerne måtte
-bære risikoen for et kostnadsansvar. Som nevnt
-ovenfor er det derfor grunn til å tro at kun et fåtall
-brukere vil ta seg råd til å få prøvd sin sak for
-domstolen.
-Dermed vil også den samlede saksbehandlingstiden reduseres ettersom de fleste sakene
-som i dag behandles i Trygderetten, vil bli endelig
-avgjort av klageinstansen. Tar man utgangspunkt
-i tidsbruken i Trygderetten i dag, kan man legge
-til grunn en redusert saksbehandlingstid på over
-ett år i saker som ikke bringes videre inn for tingretten. Dette er samsvar med utvalgets mål om å
-redusere antallet saker og omganger med ny
-prøving av samme sak. Målt fra et brukerperspektiv ville reduksjonen i saksbehandlingstid bare
-gjelde i saker der brukeren selv velger å anke til
-Trygderetten.
-Utvalget foreslår at klagesaker skal sendes
-rett til klageinstansen, og at førsteinstansen av
-den grunn verken skal saksforberede eller vurdere omgjøring av eget vedtak.50 Dette er et tiltak
-som både vil virke ressurs- og særlig tidsbesparende. Slik utvalget ser det, er dette tiltaket bare
-aktuelt dersom brukerne fortsatt har en reell
-mulighet til å få klagevedtaket overprøvd. Dette
-tiltak vil også fjerne én rettslig overprøving.
-Ved at de fleste saker stopper etter en ordinær
-klagebehandling i forvaltningen, vil denne modellen medføre økonomiske besparelser. Kostnadene
-som i dag brukes på Trygderetten, vil frigjøres.
-Trygderettens har et budsjett på om lag 110 mill.
-kroner. Samtidig må det påregnes at flere saker
-går til domstolen (tingretten), noe som vil gi økte
-utgifter til arbeid med rettssaker. Utvalget antar at
-det vil dreie seg om 100-500 saker årlig. For
-illustrasjonens skyld kan det antas at 200 saker
-
-går til domsavsigelse, at staten taper 20 prosent av
-disse med ansvar for sakskostnadene, og at staten
-i 30 prosent av sakene ikke får dekket sine kostnader selv om de vinner. I så fall blir kostnadsanslaget slik51:
-– Kostnader til domstolens behandling 200 saker
-* 43 000 kroner per sak = 8,6 mill. kroner
-– Saksomkostninger i 40 saker * 230 000 kroner
-= 9,2 mill. kroner
-– Egne omkostninger i 60 saker * 67 000 kroner
-per sak = 4 mill. kroner
-– Totalt 21,8 mill. kroner
-
-49
-
-51
-
-For eksempel kontantstøtteloven, arbeidsmarkedsloven og
-barneloven.
-50
-Se nedenfor i punkt 15.2.2.
-
-Gitt disse forutsetningene vil besparelsen vært på
-omkring 90 mill. kroner. Fra dette beløpet må det
-gjøres fradrag for de tiltak som kan gjøres for å
-begrense saker som bringes inn for Trygderetten.
-Det er likevel ikke tvil om at det ligger både
-potensiale for kortere saksbehandling og lavere
-ressursbruk, med en slik modell. Hensynet til
-effektivitet må imidlertid holdes opp mot verdien
-av at brukerne i dag kan prøve sin sak for Trygderetten gratis og i praksis uten risiko for å måtte
-bære statens kostnader.
-Trygderetten er i dag en høyst reell rettssikkerhetsgaranti for brukerne. Over tid har Trygderetten omgjort om lag 700-750 saker i året.52 Ved
-en overgang til normalmodellen er det grunn til å
-tro at en god del uriktige vedtak, som frem til nå
-har blitt korrigert av Trygderetten, vil bli stående.
-Utvalget har også lagt vekt på at det er spørsmål
-om å ta bort en etablert rettighet. Fra et brukerperspektiv vil en slik endring oppleves som en
-betydelig reduksjon i rettssikkerhetsgarantiene
-på et område der det treffes mange svært viktige
-avgjørelser for ressurssvake brukere. I referansegruppemøter har brukerorganisasjonene fremhevet viktigheten av Trygderettens rolle og arbeid.
-Et annet vektig argument som taler mot en slik
-modell er borgernes rett til å få vedtak som treffes
-prøvd for en domstol. Normalmodellen vil oppfylle
-både Grunnlovens og EMKs minstekrav til at borgerne skal ha tilgang til en domstolsbehandling.
-Derimot er det god grunn til å reise spørsmål ved
-om idealet om at borgernes skal ha en reell tilgang til domstolen kan ivaretas med en slik
-modell. Etter utvalget syn har en formell tilgang til
-domstolen liten verdi for brukerne, dersom risikoen for et kostnadsansvar gjør at svært få kan ta
-seg råd til å få prøvet sin sak. Dette har særlig
-betydning på Navs myndighetsområde, ettersom
-52
-
-Se punkt 12.3.2.
-Omgjøringsprosenten er om lag 20, og det er mellom 3500
-og 4000 saker i året.
-
-[Side 155]
-
-NOU 2023: 11
-Raskt og riktig
-
-153
-
-Kapittel 12
-
-brukerne ofte har begrenset med økonomiske
-ressurser. Fra et brukerperspektiv er det derfor
-særlig viktig å unngå økonomiske barrierer for å
-få sin sak prøvd for en domstol på dette området.
-Dagens system bygger på at Trygderetten er
-et forvaltningsorgan, og denne prøvingsmuligheten ivaretar derfor ikke de formelle sidene av
-Grunnloven § 95. Trygderetten oppfyller imidlertid de materielle kravene til å være en domstol
-etter EMK artikkel 6 og Grunnloven.53 På Navs
-myndighetsområde oppfylles den materielle siden
-av muligheten for domstolsprøving på en god
-måte. Å innføre normalmodellen uten endring i
-reglene om rettshjelp, vil utgjøre en reell økonomisk barriere for domstolsprøving. Det vil frata
-brukerne en viktig rettssikkerhetsgaranti de har i
-dag, og samtidig innebære et overprøvelsessystem som står mye lengre fra de ideal som Grunnloven og EMK bygger på.
-Utvalget har vurdert om kvaliteten i tingrettens prøving er så mye bedre enn i Trygderetten,
-at det i seg selv kan begrunne innføring av normalordningen, selv om dette medfører reduserte
-rettssikkerhetsgarantier for mange av brukerne.
-Vurderingen tar utgangspunkt i forskjellene mellom tingrett og Trygderetten.
-En forskjell er at Trygderettens medlemmer
-utelukkende jobber med trygde- og pensjonssaker, og slik sett er spesialister, mens dommerne i
-tingretten jobber med alle sakstyper, og er generalister. Det har over tid vært ulike synspunkter på
-om generalister eller spesialister treffer flest riktige avgjørelser. Særdomstolsutvalget drøftet
-dette spørsmålet grundig i sin utredning og la til
-grunn at det «vanskelig [lar seg] gjøre å komme
-frem til et kunnskapsbasert, objektivt svar på ‘hva
-som er best’ av generelle og spesialiserte dommere».54 Særdomstolsutvalget redegjør på en god
-måte for ulike argumenter for og imot generalister
-og spesialister i domstolene.55 Dette utvalget har
-vurdert disse hensynene, og mener at de eventuelle fordeler som ligger i at saken behandles av en
-generalist, ikke kan forsvare at så få får en reell tilgang til rettslig overprøving av klageinstansens
-vedtak.
-Utvalget har også vurdert om behandlingsformen i tingretten har vesentlig bedre rettssikkerhetsgarantier enn i Trygderetten. Trygderetten
-behandler stort sett sine saker skriftlig. Loven
-åpner for å behandle trygdesaker ved muntlige
-
-forhandlinger, men i praksis skjer dette helt unntaksvis. I tingretten er hovedregelen derimot at
-sakene behandles muntlig. Rettens bevisvurdering skal bygge på det som har fremkommet i det
-muntlige rettsmøtet.56 Det kan reises spørsmål
-om bevisumiddelbarhet og muntlighet vil gi flere
-riktige avgjørelser i saker på Navs myndighetsområde. Etter utvalgets syn er det vanskelig å gi et
-generelt svar på dette.
-Domstolkommisjonen viser til at sakene på
-Navs myndighetsområde ofte er egnet for skriftlig
-behandling.57 Dette utvalget er enig i at de fleste
-av disse sakene er det den skriftlige dokumentasjonen som blir avgjørende. Det gjelder også når
-sakene behandles av domstolene. Ren opplesing
-av dokumenter, slik dokumentbevis føres for domstolen, har neppe noen egenverdi for kvaliteten på
-sakens avgjørelsesgrunnlag. Dette er en viktig
-grunn til at det at disse sakene normalt behandles
-skriftlig i domstolene i Sverige og Finland.58 Selv
-om utvalget mener at det i enkeltsaker, og i flere
-saker enn i dag, er ønskelig å ha muntlige bevisføring, må det være et supplement til og ikke en
-erstatning av den skriftlige saksbehandlingen. De
-muntlige forhandlingene bør begrenses til de
-temaene som blir bedre belyst gjennom muntlig
-forklaring. En slik håndtering vil være i tråd med
-utviklingen ellers i Europa.59 Behandlingsformen
-i tingretten har således noen styrker.
-I Trygderettens finnes andre og kompenserende rettssikkerhetsgarantier. Medlemmene i en
-sak for Trygderetten er ikke bare jurister, men
-også medisinsk kyndige og attføringskyndige.
-Dette gjør at Trygderetten sitter med etablert fagkompetanse av relevans for behandlingen av
-saken, noe som bidrar til at sakkyndige blir brukt
-i mange saker. Trygderetten kan også treffe realitetsavgjørelser60 og har et selvstendig ansvar for
-sakens opplysning.61 Dette var ifølge Ankelovutvalget ment å oppveie for den ubalanse som er
-mellom partene i disse sakene.62 I domstolen er
-partene formelt likestilt, og det er helt og holdent
-opp til partene å opplyse saken og føre de bevis de
-mener er relevante for rettens avgjørelse.63
-Etter utvalgets syn er det derfor usikkert om
-prosessformen i tingretten har innebygget bedre
-
-53
-
-60
-
-Se tilsvarende NOU 2017: 8 Særdomstoler på nye områder?
-s. 32 og Prop. 139 L (2014–2015) s. 21.
-54
-NOU 2017: 8 Særdomstoler på nye områder? s. 52.
-55
-NOU 2017: 8 Særdomstoler på nye områder? s. 52-53.
-
-56
-57
-58
-59
-61
-62
-63
-
-Tvisteloven § 11-1 første ledd, jf. § 21-2 andre ledd.
-NOU 2020: 11 Den tredje statsmakt,s. 337.
-Se punkt 9.3 og 9.4.
-Smln. NOU 2020: 11 Den tredje statsmakt,s. 277.
-Trygderettsloven § 21 fjerde ledd.
-Trygderettsloven § 20 femte ledd.
-Ankelovutvalgets innstilling s. 19.
-Tvisteloven § 11-2.
-
-[Side 156]
-
-154
-
-Kapittel 12
-
-NOU 2023: 11
-Raskt og riktig
-
-rettssikkerhetsgarantier for denne typen saker.
-Det legges uansett til grunn at fra et alminnelig
-brukerperspektiv er det langt bedre at (så å si)
-alle brukere har en reell mulighet til å få prøvd sin
-sak for Trygderetten, enn et system med betydelig økonomiske barrierer for mange av brukerne.
-Utvalget har også vurdert hvordan normalmodellen vil påvirke tilliten til systemet. Det er vanskelig å måle tillit, men det er gjennomført flere
-undersøkelser som gir grunnlag for enkelte slutninger. Utvalget legger til grunn at norske domstoler nyter stor tillit i befolkningen.64 Det lar seg
-antakelig også hevde at domstolene nyter større
-tillit enn forvaltningen generelt.65 Utvalget mener
-likevel at det er holdepunkter for at Trygderetten
-nyter høyere tillit enn øvrige deler av norsk forvaltning. Trygderetten er uavhengig og har en
-behandlingsform som har store likheter med
-domstolen. Utvalget vil også foreslå tiltak som kan
-bidra til en ytterligere styrking av tilliten til Trygderetten. Utvalget har ikke grunn til å tro at
-behandling for tingretten vil gi vesentlig bedre tillit enn en behandling for Trygderetten.
-Tilliten til systemet vil i langt større grad påvirkes at om befolkningen har en reell tilgang til
-overprøving av klageinstansens vedtak. Tilliten til
-systemet vil derfor klart svekkes om Trygderetten erstattes av tingretten, uten at det gjøre
-vesentlig endringer i rettshjelpsordningen.
-Utvalget foreslår derfor ikke å innføre normalmodellen, uten at det gis rettshjelp.
-
-12.3.5 Normalmodellen uten endring i
-rettshjelp, men med styrking av
-klagebehandlingen
-På mange forvaltningsområder behandles klager
-av et kollegialt organ.66 Ifølge Domstolkommisjonen finnes det per 2020 over 50 statlige klagenemnder.67 Disse nemndene er normalt uavhengige i
-den forstand at de ikke kan instrueres av departementet i sin saksbehandling. Som begrunnelse for
-opprettelsen av uavhengige klageorganer har det
-vært vanlig å vise til at disse i større grad ivaretar
-de sentrale rettssikkerhetsgarantiene og sikrer
-faglig baserte avgjørelser. I tillegg kommer at
-desto mer uavhengig og eventuelt domstollignende den enkelte nemnd er, desto mer kan den
-kompensere for manglende reell tilgang til dom64
-
-Smln. NOU 2020: 11 Den tredje statsmakt,s. 15.
-NOU 2017: 8 Særdomstoler på nye områder? s. 347.
-66 NOU 2019: 5 Ny forvaltningslov s. 368 og Statskonsult-rapport 2003:19 s. 13.
-67
-NOU 2020: 11 Den tredje statsmakt, s. 69.
-65
-
-stolene. I lys av utviklingen på andre forvaltningsområder har utvalget funnet det naturlig også å
-vurdere et normalsystem hvor klageinstansen er
-en uavhengig klagenemnd.
-Et særpreg for Nav er imidlertid den voldsomme saksinngangen et klageorgan må håndtere. NAV Klageinstans behandlet om lag 35 000
-klager i 2021.68 Det er etter utvalgets syn klart at
-dette ikke vil være håndterlig for en nemnd, iallfall
-ikke uten en vesentlig økning i ressurstilgangen.
-Kostnadene ville antakelig langt oversteget
-dagens kostnader for behandling i klageorgan og i
-Trygderetten.
-En mulig løsning utvalget har vurdert, er å
-samle NAV Klageinstans og Trygderetten i ett felles uavhengig klageorgan. Man kunne her vurdert en differensiering etter sakstype, for eksempel slik at klageorganets virksomhet grovt sett
-deles i to. De største og viktigste sakene kan
-behandles av det som i dag er Trygderetten, men
-slik at behandlingen foregikk i nemnd. I et slikt
-system har utvalget tatt som utgangspunkt at
-sykepenger, arbeidsavklaringspenger, uføretrygd
-og yrkesskade bør behandles av nemnda. Andre,
-og presumptivt enklere saker, behandles i en mer
-ordinær klagebehandling, eventuelt av et sekretariat for nemnda.
-En utfordring med en slik organisering er at
-antallet klagesaker for de «store» sakstypene er
-høyt. Navs statistikk for 2021 viser for disse sakstypene69:
-– Arbeidsavklaringspenger 3238
-– Uføretrygd 4201
-– Sykepenger 3200
-– Yrkesskade 1157
-I 2021 var det altså totalt 11 796 slike saker. Hvis
-det forutsettes at tallene ikke synker vesentlig de
-neste årene, vil en ny nemnd måtte behandle
-omtrent fire ganger så mange saker som det
-Trygderetten behandler i dag.
-Utvalget har gjort noen enkle overslag over
-kostnadene knyttet til en slik løsning. I dette regnestykket har utvalget måtte bygge på brutto budsjettall, og tallene vil derfor avvike fra tallene i regnestykkene ovenfor. Klageinstansen har budsjett
-på om lag 200 mill. kroner. De behandler om lag
-35 000 klagesaker. I tillegg behandler klageinstansen om lag 4 000 ankesaker for Trygderetten.
-Dersom vi legger til grunn at arbeidene med klagesak og saker for Trygderetten er omtrent den
-68
-69
-
-Statistikk fra Navs datavarehus, 2121, (SAK610).
-Statistikk fra Navs datavarehus, 2121, (SAK610).
-
-[Side 157]
-
-NOU 2023: 11
-Raskt og riktig
-
-samme, vil klageinstansens samlede kostnader
-per sak være 5 128 kroner.
-Trygderetten har om lag 110 mill. kroner i
-samlet budsjett. Hvis vi legger til grunn at de
-behandler 4000 saker, vil samlet kostnad per
-saker være 27 500 kroner. Dersom kostnaden per
-sak i en klagenemnd er den samme som en
-behandling i Trygderetten, og nemnda skulle
-behandle 11 000 saker, ville nemndsbehandling av
-et så høyt antall saker, krevd over 300 mill. kroner.
-I en slik løsning ville den ordinære klagebehandlingen blitt avlastet med 11 000 saker, og de
-kunne da ha overført om lag en tredjedel av budsjettet, eller om lag 66 mill. kroner, fra klageinstansen til den nye klagenemnden. Ved å overføre
-Trygderettens budsjett, som er om lag 110 mill.
-kroner, gir dette til samme 176 mill. kroner.
-Dersom kostnadene per sak i nemnd ville vært
-den samme som i Trygderetten, vil en nemndsbehandling av så vidt mange saker krevd tilførsel av
-om lag 126,5 mill. kroner. Det er nok mulig å gjøre
-tilpasninger i nemnda slik at kostnadene reduseres noe, men samtidig vil da rettssikkerhetsgarantiene svekkes.
-Slik utvalget ser det, vil derfor ikke en nemndsløsning med saklig avgrenset anvendelsesområde være mulig uten en vesentlig forenkling av
-saksbehandlingen, eller en betydelig økning av
-ressursene.
-En tredje måte å organisere klageinstansen på,
-er å innføre et sekretariat og nemndsløsning, der
-det store flertall av saker ble behandlet av sekretariatet. En slik løsning vil minne om dansk rett, der
-klager behandles av Ankestyrelsen.70 Ankestyrelsens avgjørelser på såvel sosial- og arbeidsområdet treffes av en eller flere medlemmer avhengig
-av sakstype. Det er Ankestyrelsen selv som vurderer hvilken behandlingsform en klage skal ha.
-Som hovedregel treffes klagevedtak av en medarbeider i Ankestyrelsen (på vegne av Direktøren).
-Ankestyrelsen har også regler om utvidet votering
-der en sak har «prinsipiell betydning». Det vedtak
-Ankestyrelsen treffer kan bringes inn for de
-alminnelige domstoler etter de alminnelige regler
-for behandling av sivile saker.
-Det vil også ligne modellen som er valgt for
-Utlendingsnemnda.71 Sakene behandles av nemnder, nemndledere og et sekretariat etter delegasjon. Saker med «vesentlige tvilsspørsmål» skal
-avgjøres av en nemnd.72 Andre saker kan avgjøres
-av en nemndleder eller sekretariatet.
-
-Det ville være opp til sekretariatet eller en
-nemndsleder selv å vurdere sammensetningen i
-den enkelte sak. Erfaringen fra slike ordninger, er
-at relativt få vedtak blir behandlet i nemnd. I
-Utlendingsnemnda ble kun 270 saker avgjort i
-nemnd 2021, noe som utgjorde 5,7 prosent av alle
-ferdigbehandlede saker. Året før var andelen 3,8
-prosent. 81 prosent av sakene ble avgjort av en
-nemndsleder, mens tolv prosent ble avgjort av
-sekretariatet. Det er en nærliggende risiko for en
-lignende utvikling også på Navs myndighetsområde.73
-Dersom en slik modell skulle gitt besparelser,
-ville det være nødvendig å redusere på rettssikkerhetsgarantiene. Det vises her til vurderingen
-av modellen med nemndsbehandling av et saklig
-avgrenset saksområde ovenfor. For brukerne som
-får en ordinær klagesaksbehandling av et sekretariat eller ett nemndsmedlem, ville dette bli opplevd som en klar svekkelse av rettssikkerhetsgarantiene sammenlignet med dagens ordning der
-de kan bringe klagevedtaket inn for domstolslignende behandling.
-En slik organisering vil også ha noen negative
-virkninger for styringen av Nav. En slik modell vil
-også føre til at klageorganet vil organiseres uavhengig av Nav. Et av formålene med klagebehandling er å sikre læring og kontroll fra overordnet
-organ (klageinstansen) over underliggende forvaltningsorgan. Løsrives klageinstansen fra Nav,
-vil læringen og kontrollen svekkes. Basert på
-utvalgets funn, vil dette være uheldig.
-Erfaringene fra slike uavhengig nemnder er
-også at det lett oppstår restanser og lang saksbehandlingstid. Som eksempel kan nevnes skatteklagenemnda, som ble opprettet i 2016. Nemnda har
-over tid hatt lang saksbehandlingstid og økende
-restansemengde. Sivilombudet har i flere saker
-uttrykt bekymring for svært lang saksbehandlingstid i Skatteklagenemnda. En ny undersøkelse
-fra høsten 2022 viste at gjennomsnittlig saksbehandlingstid var 22 måneder.74 Riksrevisjonen har
-uttalt at det fremsto som usikkert om sekretariatet ville klare å bygge ned restansene ytterligere i
-tiden fremover.75 Det et problematisk å møte en
-utfordring knyttet til lang saksbehandlingstid og
-restanser, med en ordning som i praksis har vist
-seg å føre til nettopp lang saksbehandlingstid og
-betydelige restanser.
-
-73
-70
-
-Se nærmere ovenfor i punkt 9.2.
-71
-Se nærmere ovenfor i punkt 8,1.
-72
-Se utlendingsloven § 78 og utlendingsforskriften § 16-9.
-
-155
-
-Kapittel 12
-
-74
-75
-
-Se Utlendingsnemndas årsmelding 2021 s. 12.
-Sivilombudets uttalelse – sak 2022/4813.
-Riksrevisjonens rapport om klagesaksbehandlingen på
-skatteområdet – Del av Dokument 1 (2022–2023).
-
-[Side 158]
-
-156
-
-NOU 2023: 11
-
-Kapittel 12
-
-Raskt og riktig
-
-Utvalget er etter dette kommet til at dagens
-modell er bedre enn normalmodellen uten rettshjelp, selv om klageinstansens styrkes.
-
-vedtakene omgjøres av vedtaksinstansen selv, om
-lag 35 prosent. Resten sendes videre til klageinstansen. I 2021 mottok Klageinstansen om lag
-35 000 klager. I 86 prosent av klagesakene ble førsteinstansens vedtak stadfestet. Klageinstansen
-omgjorde eller opphevet førsteinstansens vedtak i
-14 prosent av sakene. I 2021 mottok klageinstansen om lag 4 600 anker til Trygderetten. Det
-utgjør om lag 15 prosent av sakene der klageinstansen stadfestet førsteinstansens vedtak.77
-Samme år behandlet Trygderetten 3 415 ankesaker. Omtrent 80 prosent av sakene endte med
-stadfestelse av klageinstansens vedtak. Kun 72 av
-disse sakene ble brakt inn for lagmannsretten.78
-Det ble behandlet 67 saker i lagmannsretten i
-2021. 13 saker ble anket til Høyesterett. Høyesterett behandlet to saker i 2021.
-
-12.3.6 Oppsummering
-Saksbehandlingen i forvaltningen og klage- og
-ankesystemet på Navs myndighetsområde skal
-være forholdsmessig. Grundigheten i saksbehandlingen må avpasses etter sakens viktighet og
-tilgjengelige ressurser (kapasitet). Kapasiteten
-styres av sakstilfanget. Systemet er og bør være
-slik at sakstilfanget blir lavere jo høyere opp i
-systemet man kommer. Siden et overordnet organ
-håndterer færre saker, og parten har færre overprøvingsmuligheter, er det naturlig å stille strengere krav til saksbehandlingen jo høyere opp i
-systemet saken er. Man kan si at rettssikkerhetsgarantiene skjerpes jo lenger opp i systemet man
-kommer.
-I 2021 ble det truffet om lag 1,6 millioner vedtak i Nav. Om lag 85 prosent av søknadene ble innvilget. Av om lag 240 000 avslagsvedtak ble cirka
-64 000 vedtak påklaget. Det utgjør 28 prosent av
-avslagene.76 En betydelig andel av de påklagede
-
-76
-
-77
-
-78
-
-På dette punkt er tallene noe upresise ettersom det også er
-en del klager over delvis innvilgelser. Utvalget har ikke fått
-noe data som gjøre det mulig å ta høyde for slike klager.
-Det kan det tenkes anker over delvis omgjøring i klageinstansen. Tallmaterialet gir ikke grunnlag for å ta høyde for
-denne typen anker.
-Domstolkommisjonen legger til grunn at om lag 2,5 prosent
-av sakene behandlet av Trygderetten bringes videre til lagmannsretten, NOU 2020: 11 Den tredje statsmakt, s. 337.
-
-Høyesterett
-Lagmannsretten
-
-Klageinstans
-Vedtaksinstans
-
-Ca. 70%
-stadfestet
-
-Ca. 80%
-stadfestet
-
-67 saker for
-lagmannsretten,
-hvorav
-bruker vant
-frem i 20
-saker (inkl.
-forlik)
-
-Ca. 85%
-stadfestet
-
-Ca. 65%
-stadfestet
-Behandlet
-67 000
-klager
-
-Behandlet
-3 400 anker
-
-Behandlet
-35 000
-klager
-
-20%
-
-1,6 mill. vedtak i Nav
-i 2021, 240 000
-avslag,
-67 000 klager ble
-sendt til
-vedtaksinstans
-
-Trygderetten
-
-To saker ble
-behandlet i
-høyesterett
-(Sykepenger
-og uføre),
-hvorav bruker
-vant frem i én
-
-15%
-
-660
-
-35,5%
-
-5250
-
-23 790
-
-Figur 12.6 Klage- og ankesystemet. Tall fra Nav og Trygderetten.
-
-Samlet ble det
-omgjøringsvedtak i
-29 700 klager og anker
-i 2021
-
-[Side 159]
-
-NOU 2023: 11
-Raskt og riktig
-
-100 %
-90 %
-80 %
-70 %
-60 %
-50 %
-40 %
-30 %
-20 %
-10 %
-0%
-Klage i
-førsteinstans
-
-Behandlet
-klageinstans
-
-Behandlet i
-Trygderetten
-
-Dagpenger
-
-Sykepenger
-
-Arbeidsavklaringspenger**
-
-Uføretrygd
-
-Figur 12.7 Fordeling av de største ytelsene i klageog ankesystemet
-Det er en tydelig tendens til at sakens viktighet, ytelsens betydning for bruker, avgjør hvor
-langt opp i systemet vedkommende løfter saken.
-Etter utvalgets syn ivaretar Trygderettens
-behandling hensynet til riktig resultat og behovet
-for rettssikkerhetsgarantier i form av rettslig overprøving på en god måte. Trygderetten håndterer
-naturligvis langt færre saker enn både førsteinstansen og klageinstansen, men til gjengjeld
-behandles sakene grundigere. Det er harmonerer
-med hvordan systemet bør være.
-Behandlingsformen er i utgangspunktet skriftlig, men med mulighet for muntlighet. Ordningen
-er gratis for brukerne og åpner for at mange får
-prøvd klageinstansens vedtak. Trygderetten fungerer langt på vei i tråd med sitt opprinnelig formål, som var å sikre en vid og reell overprøvingsadgang, uten helt de samme rettssikkerhetsgarantier som ligger i behandlingsformen for de alminnelige domstolene.
-Dersom Trygderetten blir erstattet med tingretten, vil kostnadene ved å behandle den enkelte
-sak øke betraktelig. Utvalgets beregninger tilsier
-at det vil påløpe om lag åtte ganger så høye kostnader ved å få saken prøvd for tingretten. Skal et
-tilnærmelsesvis likt antall saker prøves for tingretten etter normalmodellen, må rettshjelpsordningen og tvistelovens regler om ansvar for dekning
-om motpartens sakskostnader, endres vesentlig.
-Dette fremstår verken som realistisk eller økonomisk forsvarlig.
-Erstattes Trygderetten med tingretten uten en
-endring i rettshjelpsreglene og tvistelovens regler
-
-157
-
-Kapittel 12
-
-om ansvar for dekning om motpartens sakskostnader, vil normalmodellen reelt sett innebære at
-man tar vekk den reelle muligheten for de fleste
-brukerne til å få overprøvd klagevedtak. Det vil
-bety at man fjerner en sentral rettssikkerhetsgaranti på området. Slik utvalget ser det, vil det nødvendigvis føre til at antallet riktige resultater reduseres, og at tilliten til systemet svekkes. I en tid
-der det har blitt avdekket alvorlige feil og mangler
-i Nav-systemet, fremstår det som en dårlig løsning
-å frata borgerne sentrale rettssikkerhetsgarantier.
-Heller ikke forslaget om etablering av en uavhengig nemnd som eneste klageorgan fremstår
-som en farbar løsning i en normalmodell. En slik
-ordning kan nok kompensere for en del av de
-rettssikkerhetsgarantiene Trygderetten gir i dag,
-men når sakstilfanget blir såpass mye større enn
-det Trygderetten har i dag, er det vanskelig å
-sikre en god og rask behandling uten vesentlig
-kostnadsøkning. Resultatet vil bli en ordning med
-færre rettssikkerhetsgarantier til en høyere kostnad.
-For utvalget er det viktig at brukerne har reell
-tilgang til å få prøvd sin sak for et uavhengig
-organ som har en behandlingsform som minner
-om en domstol. Slik sett er Trygderetten godt
-egnet, og bedre egnet enn tingretten til å sikre
-reell overprøvingsadgang. Utvalget går derfor
-ikke inn for å gjennomføre normalmodellen på
-Navs myndighetsområde. I stedet vil utvalget foreslå endringer i trygderettsloven som kan gjøre
-Trygderettens saksbehandling mer effektiv.
-Utvalget mener også at Trygderettens organisatoriske status og plassering bør revurderes.
-
-12.4 Trygderettens formelle rolle og
-status i norsk rett
-12.4.1 Innledning
-Utvalget mener at det ikke er noen god løsning at
-Trygderettens avgjørelser skal bringes inn for
-tingretten i første instans, og ser det heller ikke
-som en god løsning å erstatte Trygderetten med
-behandling i tingretten. Dagens overordnede
-struktur fremstår etter utvalgets syn som den
-beste for både brukerne og samfunnet. Det betyr
-likevel ikke at dagens ordning er ideell. Tvert
-imot er det grunn til å vurdere endringer i Trygderettens organisering, særlig i lys av den uklare
-rollen Trygderetten må kunne sies å ha hatt siden
-etableringen.
-Trygderetten er formelt sett et forvaltningsorgan, men har en organisering og saksavvikling
-som har mange likhetstrekk med en domstol.
+Saksbehandling klagebehandling i førsteinstans
+
+Antall behandlede klager i NAV Klageinstans økte med 32 prosent i 2016-2019, og økningen var særlig høy for arbeidsavklaringspenger og uføretrygd (4 500 saker). Oslo Economics mener at denne økningen delvis kan forklares med at antall behandlede klager i førstesinstansene økte noe i perioden 2016-2018, men også av at omgjøringsandelen har blitt redusert i perioden. Dette har medført at en større andel av klagesakene har blitt overført til og behandlet av klageinstansen. Andel saker om arbeidsavklaringspenger og uføretrygd i klageinstansens portefølje økte fra 29 prosent i 2016 til 38 prosent i 2019, som er antatt å ha sammenheng med lovendringene på arbeidsavklaringspenger fra 1. januar 2018.
+
+I perioden 2016-2021 har NAV Klageinstans i gjennomsnitt behandlet 4 532 ankesaker årlig. Antall ankesaker i NAV Klageinstans har økt noe i perioden og var særlig høyt i 2019 (5 509 saker). Det var særlig en økning i antall anker i saker om uførepensjon og arbeidsavklaringspenger. Saksstatistikken viser at sannsynligheten for å anke dersom bruker ikke får medhold i klagesaken, er betydelig høyere for uførepensjon, arbeidsavklaringspenger og til dels sykepenger, enn for dagpenger og foreldrepenger. Oslo Economics finner at utviklingen i anker henger sammen med utviklingen i klagevolum i klageinstansen.[^388]
+
+Det er ikke gitt at antallet klager er for høyt. Nav treffer om lag 1,6 millioner vedtak. Statistikken viser at 67 000 vedtak ble klagebehandlet i vedtaksinstansen i 2021. Det utgjør om lag 4,1 prosent av vedtakene. Om lag 85 prosent av søknadene til Nav innvilges. Dette utgjør om lag 1,36 millioner vedtak i året. I de fleste tilfeller påklages ikke innvilgede søknader. Statistikken for innvilgede vedtak vil imidlertid omfatte såkalt delvis innvilgelse, og noen slike vedtak påklages. Fordi det ikke finnes tall på antallet klager over delvis innvilgede vedtak, har utvalget valgt å benytte forholdstallet mellom antallet klager og avslag. Selv om dette blir unøyaktig, vil forholdet mellom antallet klager og antallet avslag fra førsteinstansen gi en god nok pekepinn på hvor stor andel av vedtak som påklages.
+
+Førsteinstansene i Nav treffer om lag 240 000 avslagsvedtak og mottar om lag 64 000 klager i året. Klagefrekvensen er om lag 28 prosent. Arbeids- og velferdsdirektoratet har i sine skriftlige innspill til utvalget gitt uttrykk for at andelen klager etter deres oppfatning ikke er spesielt høy. Isolert sett er utvalget enig i det.
+
+I 2021 traff NAV Klageinstans 29 750 stadfestelsesvedtak (vedtak hvor klagen ikke tas til følge). Samme år mottok NAV Klageinstans 4 620 anker. Det vil si at om lag 16 prosent av avslagsvedtakene ble påanket.[^389] Heller ikke andelen anker over klagevedtak er spesielt høy.
+
+Etter utvalgets oppfatning gir ikke antallet eller andelen klager eller anker over henholdsvis vedtak og klagevedtak, svar på om det egentlig er for høyt antall klage- og ankesaker i systemet.
+
+Hovedformålet med prosessene er å sikre riktige resultat. Det er derfor ikke noe mål for utvalget å begrense antallet klager eller anker over uriktige vedtak. Tvert imot har samfunnet en interesse i at uriktige vedtak blir påklaget, og at klagebehandlingen korrigerer slike vedtak. For å vurdere om det er for mange klager og anker, må utvalget derfor vurdere om det treffes mange uriktige vedtak henholdsvis i førsteinstansen eller NAV Klageinstans. Generelt er det imidlertid grunn til å begrense antallet klager og anker over vedtak og klagevedtak som er riktige.
+
+### Sikrer prosessene riktig resultat?
+
+Det er ikke mulig å etablere et feilfritt saksbehandlingssystem i forvaltningen. Innenfor rammen av forsvarlig ressursbruk må det gjøres tiltak for å begrense risiko for feil. Det spørsmålet utvalget her vil se på, er om det treffes så mange uriktige vedtak i Nav at det tilsier at det bør iverksettes særlige tiltak eller gjøres vesentlige endringer i systemet.
+
+Det er naturlig å ta utgangspunkt i antallet omgjøringer som skjer i klage- og ankesaksprosessene. Tallene utvalget har fått, viser at om lag 32 prosent av klagene omgjøres av førsteinstansene.[^390]
+
+Klageinstansen omgjorde 14 prosent av de vedtakene de behandlet i sin klagesaksbehandling.[^391] Omgjøringsprosenten i klageinstans inkluderer både hel og delvis omgjøring av vedtaket. Det omfatter også opphevelser, der saken vil bli sendt tilbake til ny behandling i førsteinstansen. I sistnevnte tilfelle kan man ikke med sikkerhet vite om vedtaket materielt sett var riktig, før det er truffet nytt vedtak i saken. Både fordi det ikke har vært mulig å innhente tall på hvor mange av opphevelsene som leder til samme resultat, og fordi opphevelser også bygger på at det har skjedd en feil, har utvalget likevel valgt å regne med alle opphevelser.
+
+NAV Klageinstans mottok 4 620 anker til Trygderetten i 2021.[^392] Som ledd i saksforberedelsen av en anke foretar klageinstansen en fornyet vurdering av vedtaket, og i den forbindelse omgjøres om lag 14 prosent av vedtakene i klageinstans.[^393] Klageinstansen oversendte til Trygderetten 4 144 anker i 2021. Samme år omgjorde eller opphevet Trygderetten vedtaket i om lag 22 prosent av sakene.[^394]
+
+Av de om lag 67 000 klagene som ble behandlet i førsteinstansen i 2021, ble til sammen 29 700 saker omgjort i førsteinstansen, klageinstansen og Trygderetten. Det utgjør til sammen 44 prosent av klagene.
+
+Utvalget mener omgjøringsprosenten er svært høy. Det er særlig grunn til å reagere på at så mange som 32 prosent av klagene omgjøres av førsteinstansen selv. Det kan være flere grunner til et at vedtak omgjøres, uten at det betyr at det har skjedd en feil i førstegangsvedtaket. For utvalget er det viktig å analysere disse mulige forklaringene.
+
+Årsaker til omgjøring uten at det skyldes feil i førstegangsvedtaket
+
+Et klart eksempel på at både førstegangs- og omgjøringsvedtaket kan være riktig, selv om resultatene er ulike, ser man i de tilfeller hvor brukers situasjon har endret seg i perioden mellom førstegangs- og omgjøringsvedtaket. Både førsteinstansens omgjøringsvurdering, klageinstansens vedtak, klageinstansens omgjøringsvurdering og Trygderettens kjennelse skal bygge på forholdene på avgjørelsestidspunktet (nåtidsvurdering). Flere av folketrygdlovens materielle vilkår krever at søkers funksjonsnivå er avklart, for eksempel arbeidsavklaringspenger som har et krav om nedsatt arbeidsevne (folketrygdloven § 11-5), og uføretrygd som krever nedsatt inntektsevne (folketrygdloven § 12-5). Det er ikke uvanlig at søker er i en prosess med å avklare arbeids- eller inntektsevnen, og at vilkåret ikke var oppfylt da førsteinstansen traff sitt avslagsvedtak, mens vilkåret er oppfylt når klageinstansens treffer sitt omgjøringsvedtak. I tilfellet er det ikke begått noen feil i førsteinstansen.
+
+Det er høyst relevant å vite hvor mange av omgjøringsvedtakene som skyldes slike endringer. Spørsmålet er belyst i Oslo Economics analyse.[^395] De har sett på omgjøringsårsakene som benyttes i NAV Klageinstans, og finner at hovedårsaken til at klager på vedtak om ytelser omgjøres i klageinstansen, varierer på tvers av de ulike ytelsene, men det er relativt få saker som omgjøres som følge av endret faktum i saken. Selv om utvalget saker i undersøkelsen var begrenset, kan det indikere at endrede faktiske forhold bare kan forklare en liten del av den høye omgjøringsprosenten i klageprosessen.
+
+En annen årsak til at omgjøring ikke nødvendigvis har sin årsak i feil i førsteinstansens vedtak, er at saken kan ha blitt bedre opplyst i klageomgangen. Selv om forvaltningsorganet har oppfylt sin utredningsplikt, kan det hende at ikke alle relevante bevis kom på bordet i første runde. En korrekt vurdering av de opplysninger som forelå, tilsa at vilkårene for ytelsen ikke var oppfylt. I klageprosessen kan det fremkomme bevis som endrer denne vurderingen. Bruker kan for eksempel ha lagt frem nye opplysninger og dokumenter i klagen, og disse kan vise at vilkårene for ytelsen er oppfylt. Selv om førsteinstansen vedtak var materielt uriktig, kan vedtaket være formelt riktig.[^396] Det foreligger da ikke noen feil ved førsteinstansens vedtak.
+
+Utvalget har grunn til å tro at et stort antall vedtak omgjøres allerede i førsteinstansen på grunn av nye opplysninger. Samtidig er det holdepunkter for at dette ofte skyldes brudd på utredningsplikten. I tilfellet er det en feil i underinstansens vedtak.
+
+En tredje grunn til å være forsiktig med å ta omgjøringsfrekvensen til inntekt for feil i førsteinstansens vedtak, er at det ikke kan utelukkes at det opprinnelige vedtaket var riktig, og at det er det endelige vedtaket som er galt. Klage- og ankebehandling kan føre til at feil korrigeres, feil opprettholdes, riktige resultat blir stående, og at et riktig resultat endres til et uriktig resultat. Fordelingen mellom disse tilfellene er det lite kunnskap om. Det kan derfor ikke sluttes fra at et vedtak blir omgjort til at det nødvendigvis er førsteinstansens vedtak som er uriktig.
+
+Muligheten for at riktig vedtak blir omgjort, må også sees i sammenheng med hvordan vilkårene for mange av ytelsene er utformet. Mange av Navs vedtak bygger på tolkning av til dels uklare og skjønnspregede regler. Bevistemaene forutsetter ofte skjønnsmessig tolkning og vekting av bevis. I vurderinger av sammensatte og skjønnsmessige temaer vil ulike konklusjoner være forsvarlige. Med andre ord er ingen av de to ulike konklusjonene klart riktig eller klart uriktig i saken.
+
+Siden det kan være mange årsaker til at vedtak omgjøres, må det utvises forsiktighet med å trekke for mye ut av omgjøringstallene. Det høye omgjøringstallet tilsier likevel at det er grunn til å foreta en nærmere analyse av kvaliteten i førsteinstansvedtaket.
+
+Kvaliteten i førsteinstansen
+
+Det foreligger flere undersøkelser som kan tilsi at kvaliteten i saksbehandlingen forut for førstegangsvedtaket ikke er god nok. I 2016 kartla SINTEF årsakene til at vedtak påklages og omgjøres i NAV Forvaltning (nå NAV Arbeid og ytelser og NAV Familie- og pensjonsytelser).[^397] De finner at en hovedårsak til at vedtak påklages og omgjøres på dette nivået i Nav, er mangelfull utredning forut for at førstegangsvedtakene fattes. Dersom faktumgrunnlaget som Nav har når de treffer sine vedtak er mangelfullt, vil vedtaket ofte bli feil.
+
+Også Riksrevisjonen sin undersøkelse legger til grunn at det er svakheter i arbeidet med å sikre tilstrekkelig kvalitetsutvikling i klage- og ankesaksbehandlingen.[^398] I NAV Klageinstans’ kvalitetsrapport fremgår det at kvaliteten på vurderingene av om de materielle vilkårene for å få ytelsene som regel er god, med noen unntak.[^399] Derimot gir klageinstansen uttrykk for utfordringer i saksbehandlingen. Også i Navs egen årsrapport fra 2021 fremkommer det at det er kvalitetsutfordringer knyttet til å sikre tilfredsstillende forvaltningsrettslig kompetanse i Nav.[^400] Utvalget stiller spørsmål ved hvorfor Nav ikke har klart å løse de kvalitetsutfordringene som har vært påpekt over flere år.
+
+Brukeropplevelse
+
+«De (NAV) sitter på mye mer enn vi ser. Jeg visste ikke at min lege hadde skrevet i 2018 at jeg hadde 0 arbeidsevne. Manglende innsyn i hva de sitter på gjør at jeg ikke kan skrive en like god klage»
+
+Kilde: Agenda Kaupang (2022), Brukeropplevelser fra klage- og ankesystemet i NAV og Trygderetten, s. 27
+
+Rammeslutt
+
+Samtidig som det synes å være en bred enighet om at det er utfordringer med kvaliteten i saksbehandlingen i Nav, er det mer uklart hvilke konkrete utfordringer det er snakk om. Utvalget har av den grunn forsøkt å gjennomføre målrettede undersøkelser inn mot ulike sider av kvaliteten i saksbehandlingen. I NAV Klageinstans kvalitetsrapport er det fremhevet at problemene særlig viser seg på områdene dagpenger og sykepenger. Utvalget har gått særlig grundig inn i dagpengesakene.
+
+Utvalgets undersøkelser viser fire mer systematiske svakheter i saksbehandlingen i førstegangsvedtaket; dokumentasjonskrav, foreleggelsesplikt, veiledningsplikt og utredningsplikt.
+
+Utgangspunktet er at Nav skal vurdere opplysningene i saken og legge til grunn de fakta som er mest sannsynlige. I denne vurderingen gjelder både prinsipp om fri bevisføring og fri bevisbedømmelse. Den konkrete vurderingen som disse prinsippene forutsetter, kan ikke erstattes av et krav om at faktiske forhold godtgjøres ved fremleggelse av bestemte dokumenter. Det krever i så fall særskilt hjemmel. På enkelte områder synes Nav likevel å oppstille det som ligner absolutte dokumentasjonskrav. I søknader om dagpenger kreves det for eksempel at søker fremlegger siste arbeidsavtale. Det vises til at arbeidsavtalen gir nødvendig informasjon om arbeidsforholdet. Som et unntak er det åpnet for at arbeidsgiver kan fylle ut et eget skjema som ligger på nav.no som inneholder de nødvendige opplysningene.[^401] Nav opplyser at de bare unntaksvis foretar mer helhetlig vurdering av bevisene i saken. Utvalget har i sine undersøkelser ikke sett spor av at Nav har foretatt slike helhetsvurderinger. Selv om utvalgets undersøkelser har vært rettet mot dagpengesaker, er det grunn til å tro at det også på andre ytelsesområder opereres med tilnærmet absolutte dokumentasjonskrav. Dette er bakgrunnen for at utvalget vil foreslå endringer som tydeliggjør når slike dokumentasjonskrav kan stilles.
+
+Det er et alminnelig forvaltningsrettslig prinsipp at parter skal gis mulighet for kontradiksjon. Det innebærer at de som er direkte berørt av et vedtak, skal få argumentere for sin sak og føre bevis for sitt syn, samt få innsyn i og mulighet for å uttale seg om de opplysninger som inngår i beslutningsgrunnlaget. De fleste saker i Nav starter med en søknad. I slike saker er forhåndsvarsel ikke nødvendig. Derimot skal bruker kunne be om innsyn i sakens dokumenter. Forvaltningen har også i utgangspunktet en plikt til å forelegge for bruker alle de opplysninger de får eller innhenter om bruker fra andre. Denne foreleggelsesplikten gjelder for eksempel opplysninger Nav innhenter fra brukers fastlege og opplysninger de henter fra ulike registre. Nav har imidlertid ingen rutiner for å sikre at slike uttalelser forelegges bruker. Der legens erklæring inneholder opplysninger som bidrar til at søknader avslås, skal slike opplysninger oversendes bruker før vedtak treffes. Heller ikke dette har man rutiner for. Utvalget har særlig undersøkt problemstillingen opp mot arbeidsavklaringspenger, men har også forelagt problemstillingen mer generelt for ledelsen i ytelseslinjen og direktoratet. Manglende rutiner for fremleggelse synes å være en generell mangel i Nav førsteinstans for alle typer ytelser.
+
+Nav har som andre forvaltningsorganer en alminnelig veiledningsplikt. Hvis Nav ser at det er mangler i en søknad, plikter de å varsle søker og veilede slik at søknaden lar seg utfylle. I Nav-systemet gjennomføres slik veiledning oftest ved at Nav sender ut et brev om hva som mangler. Både interne undersøkelser utvalget har fått innsyn i, og utvalgets egen undersøkelse tilsier at Nav i all hovedsak gjør dette, men at det likevel hender at det ikke skjer (om lag fem prosent av tilfellene). I Navs egen undersøkelse av dagpengesaker ble det angitt at kvaliteten på mangelbrevene var god (over 90 prosent av sakene). Undersøkelsen NAV Klageinstans har gjennomført på vegne av utvalget, viser et annet bilde. Den viser at brevene gjennomgående er omfattende og vanskelige å forstå. Brevene er ofte en kombinasjon av standardtekst og fritekst som henger dårlig sammen. Undersøkelsen viser også at brevene etterspør dokumentasjon som åpenbart ikke er nødvendig. For utvalget fremstår det som en generell mangel i førsteinstansens saksbehandling i dagpengesaker at veiledningen ikke holder god nok kvalitet. Utvalget har ikke undersøkt denne problemstillingen for andre ytelser.
+
+Alle forvaltningsorgan har i utgangspunktet en utredningsplikt. Det innebærer at forvaltningen selv skal sørge for at saken blir tilstrekkelig opplyst. Etter folketrygdloven har brukerne også en omfattende opplysningsplikt. Utvalgets undersøkelser tyder på at det internt i Nav har vært og er uenighet om grensene mellom disse reglene, og dermed også hvem som har ansvar for sakens opplysning. Uklarheten reiser spørsmål om brukernes bevisfremleggelsesplikt, medvirkningsplikt og opplysningsplikt på den ene siden og Navs ansvar for sakens faktum, veiledningsplikt og utredningsplikt på den andre.
+
+Utvalget har fått opplyst at det ikke er praksis at Nav gir pålegg til brukers arbeidsgiver om å gi de opplysningene som mangler. Dette er opplysninger brukeren selv ikke kan fremskaffe. Dette på tross av at Nav har hjemmel for å gi slike pålegg til arbeidsgiver.[^402] NAV Arbeid og ytelser har opplyst at de kun tar direkte kontakt med arbeidsgiver hvis det går frem av saken at det er et problem for bruker å få kontakt med arbeidsgiver eller arbeidsgiver ikke sender det bruker ber om. Denne praksisen er ikke nedfelt skriftlig. Utvalgets syn er at Nav i disse sakene ofte bryter utredningsplikten som følger av forvaltningsloven.
+
+Disse fire manglene er ikke enkeltstående svakheter, men utslag av en uriktig forståelse hva som skal til for å oppstille dokumentasjonskrav, samt feil forståelse av rekkevidden av veilednings-, fremleggelses- og utredningsplikten. Utvalget legger til grunn at manglene er en viktig årsak til den høye omgjøringsprosenten i klagesaker i Nav. Fra et brukerperspektiv er det også helt sentralt at forvaltningsloven følges, både for å sikre at brukerne får de ytelser de har krav på, men også for å sikre tilliten til systemet.
+
+Utvalget vil vurdere ulike tiltak, blant annet i form av tydeligere lovregulering. Det vil også vurderes om kravene til saksbehandlingen bør skjerpes.
+
+Utvalget mener det er viktig å sikre at de rammer og signaler som saksbehandlerne får, fører til en forsvarlig saksutredning. Dette har betydning for spørsmålet om hvilken rolle underinstansen skal ha i klagesaker.
+
+Slik utvalget ser det, må disse manglene forstås i sammenheng med styringen av Nav. Nav styres etter klare frister frem til førstegangsvedtak. Selv om direktoratet rapporterer på frister også i de andre fasene, blir de i mindre grad målt på saksbehandlingstiden. Utvalget finner grunn til å reise spørsmål om en utilsiktet virkning av disse parameterne blir at det skjer tilpasninger som senker kvaliteten i saksbehandlingen frem til førstegangsvedtak.
+
+Et eksempel på dette er dagpenger. Fristen for å behandle en dagpengesøknad er 21 dager (gjennomsnitt), mens fristen i NAV Arbeid og ytelser for å saksbehandle dagpengeklagen er 56 dager (ytre grense).[^403] Slik utvalget ser det, er det grunn til å tro at dette har ført til at kvaliteten i saksbehandlingen frem til førstegangsvedtak ikke oppfyller forvaltningslovens krav, noe som fører til uriktige avslag. Mye tyder på at Nav i stedet for å utrede saker selv, treffer avslagsvedtak, for å fremtvinge opplysninger i en klageprosess. Dette fører til flere klager over uriktige vedtak.
+
+Utvalgets forståelse samsvarer med tidligere undersøkelser. Oslo Economics stiller i sin undersøkelse spørsmål ved om fristene til gjennomsnittlig saksbehandlingstid i vedtaksinstansen er for korte til at de rekker å utrede saken tilstrekkelig. Det er få av respondentene i undersøkelsen fra Oslo Economics som opplever at styringskravene til saksbehandlingstider er til hinder for at sakene kan utredes tilstrekkelig, men de finner at et høyt «vedtakspress», det vil si hvor mange vedtak hver saksbehandler skal levere innen en gitt tidsramme, trolig er en medvirkende årsak til at det i en del saker ikke utredes grundig nok. De skriver at det totale sakspresset gjør at saksbehandlerne opplever å ha lite tid til å behandle hver enkelt sak.[^404]
+
+Utvalget har også sett i vedtaksbrev på dagpengeområdet at NAV Arbeid og ytelser har innført en praksis der brukere som får avslått en søknad, ved å legge frem nødvendige opplysninger innenfor seks uker, vil utløse en «fortsatt» saksbehandling. Så vidt utvalget har forstått, blir ikke det nye vedtaket formelt registrert som en omgjøring. Endringen som er gjort vil derfor ikke komme frem av statistikken som rapporteres til departementet. Mye tyder på at praksisen er en tilpasning til de parameterne som Nav styres etter.
+
+Departementet har også stilt som krav i tildelingsbrevet om at det skal skje en måling av andel saker med korrekt vedtak. Disse kvalitetsmålingene viser hovedsakelig god måloppnåelse. For utvalget er det grunn til å reise spørsmål ved kvaliteten i disse undersøkelsene. Når disse kvalitetsundersøkelsene viser at mellom 80–100 prosent av vedtakene er riktige,[^405] harmonerer dette dårlig med en omgjøringsprosent i førsteinstansen på over 40 prosent for enkelte ytelser. Direktoratet har i årsrapporten gitt uttrykk for at det er utfordringer knyttet til kvalitet i saksbehandlingen der de blant annet trekker frem kompetanse, oppdatert faglig støttemateriell, behovet for bedre vedtaksbrev til brukerne og det å sikre tilfredsstillende forvaltningsrettslig kompetanse i Nav.[^406] Dette gir utvalget grunn til å reise spørsmål ved om styringsparameterne i tilstrekkelig grad har klart å fange opp kvaliteten i saksbehandlingen.
+
+Etter utvalgets syn er det grunn til å reise spørsmål om departementet i sin styring har en tilstrekkelig god balanse mellom tilgjengelige ressurser, kravet til saksbehandlingstid og behovet for å sikre kvalitet i førstegangsbehandlingen av saken.
+
+Kvaliteten i NAV Klageinstans
+
+Statistikken viser at NAV Klageinstans stadfester om lag 85 prosent av førsteinstansens vedtak, eller noe i underkant av 30 000 klager, i året. I 2021 mottok NAV Klageinstans 4 620 anker, og av disse behandler Trygderetten over tid om lag 3 500 ankesaker i året. Trygderetten stadfester om lag 80 prosent av klageinstansens vedtak. Omgjøringsprosenten på om lag 20 prosent har ligget relativt stabilt over tid. Av sakene som omgjøres, oppheves om lag 40 prosent, noe som er en indikasjon på at kvaliteten ikke er tilstrekkelig.
+
+Oslo Economics har analysert årsaken til at anker omgjøres i NAV Klageinstans.[^407] En av hovedårsakene til omgjøring, er endret faktum i saken. Dette skyldes sannsynligvis den lange saksbehandlingstiden, som ofte er mellom 1-2 år. Under denne tiden har forholdene ofte endret seg, eller det har innkommet nye bevis, slik at det er grunnlag for å endre det vedtaket klageinstansen opprinnelig traff. Denne typen omgjøringer er ikke utløst av feil i klageinstansen. I det lyset fremstår ikke omgjøringsprosenten som spesielt høy.
+
+NAV Klageinstans er beskrevet å ha svært kompetente saksbehandlere.[^408] Andelen med juridiske kompetanse i klageinstansen er mer enn 90 prosent, og de er spesialiserte slik at saksbehandlerne i klageinstansen bare behandler saker på ett eller to stønadsområder.
+
+Utvalget har heller ikke funnet samme systematiske svakheter knyttet til dokumentasjonskrav, mangler ved veiledning eller svikt i utredningene i klageinstansens. Utvalget har likevel fått opplyst at heller ikke klageinstansen har noen praksis for å fremlegge opplysninger som de innhenter om bruker før vedtak treffes. Som eksempel nevnes medisinske sakkyndigvurderinger.
+
+Kvaliteten i Trygderetten
+
+Utvalget har ikke holdepunkter for å hevde at kvaliteten i Trygderettens arbeid ikke er god nok. Trygderetten behandler om lag 3 500 saker i året. Av de om lag 2 800 vedtakene som stadfestes, blir om lag 100 anket inn for lagmannsretten. I løpet av perioden 2016–2021 brakte staten inn kun tre saker. I praksis er derfor så å si alle sakene brakt inn av brukeren. Av vedtakene som stadfestes i Trygderetten, er det mellom 2,5-3 prosent som bringes inn for lagmannsretten. Av disse får brukeren medhold i om lag en tredjedel av sakene.
+
+I utgangspunktet fremstår andelen saker hvor bruker vinner frem i lagmannsretten som høy. Det må forstås i lys av den lave andelen saker som tas til retten, og den betydelige økonomiske risiko brukere løper ved å gjøre det. Dette kan forklare det lave antallet saker som bringes inn for lagmannsretten, og at mange av søksmålene gjelder saker der partene mener det foreligger klare feil, eller når saken reiser prinsipielle spørsmål. Omgjøringsprosenten kan derfor ikke tas til inntekt for at en tredjedel av Trygderettens avgjørelser er uriktige.
+
+Rettsreglene er kompliserte og skjønnsmessige
+
+Mange av folketrygdlovens regler gir anvisning på til dels kompliserte rettsanvendelsesskjønn og bevisspørsmål. Jo vanskeligere det er å avgjøre om lovens vilkår er oppfylt, jo større risiko er det for at det forekommer feil. Utformingen av vilkårene har derfor betydning for hvilken risiko det er for klager over uriktige vedtak. Jo mer uklare og skjønnsmessige vurderinger som må foretas, jo større grunn er det også for bruker til å få prøvd sin sak flere ganger.
+
+Det faller utenfor utvalgets mandat å foreslå endringer i folketrygdlovens materielle regler, men utvalget finner det naturlig å peke på denne utfordringen. Etter det opplyste har kun et fåtall av saksbehandlerne i NAV Arbeid og ytelser juridisk utdannelse. Bare om lag 10 prosent av medarbeiderne i NAV Arbeid og ytelser er jurister. I tillegg har få ansatte ved Nav- kontorene juridisk utdanning. Med så få jurister i enhetene som treffer vedtak i førsteinstans, øker risikoen for å tolke og anvende folketrygdloven uriktig.
+
+På oppdrag fra det tidligere Arbeids- og sosialdepartementet foretok AFI en evaluering av implementeringen av Stortingsmelding 33 (2015–2016) *Nav i en ny tid*. Denne ble gjennomført i 2020 med blant annet i intervju- og surveydata. Flere av de intervjuede veilederne i evalueringen opplever at de mangler kompetanse om regelverket. I surveyundersøkelsen svarer 47 prosent at de i nokså/svært stor grad har behov for kompetanseoppbygging på regelverk.[^409] I dialog med ansatteorganisasjonene pekes det på at mange medarbeidere i Nav har god juridisk forståelse når de får god opplæring, men at juridisk kompetanse med fordel kan brukes i større grad i opplæring og veiledning av andre medarbeidere for å heve den juridiske forståelsen i Nav-systemet.
+
+Utvalget vil på denne bakgrunn drøfte behovet for bedre opplæring og kompetanseheving i vedtaksorganet, samt vurdere den generelle organiseringen av Nav opp mot behovet for kompetanse.
+
+Oslo Economics finner i sin analyse at førsteinstans og klageinstansen ikke alltid er samstemte i forståelsen og/eller anvendelsen av det konkrete regelverket, og at en del klager kan forhindres ved at vedtaksinstansene får bedre kunnskap om regelverket.[^410] Feil i den konkrete rettsanvendelsen som omgjøringsårsak varierer en del mellom ulike ytelser, men var en sentral omgjøringsårsak for klager på blant annet dagpenge- og foreldrepengeområdet i 2021.[^411]
+
+Opp mot de bevistemaer som de materielle bestemmelsene oppstiller, har utvalget i møter med både ansatte i Nav og leger fått informasjon om at det er manglende trygdemedisinsk kompetanse i Nav. Det oppleves som vanskelig for ansatte i Nav å utforme gode bestillinger til legene og tolke legeopplysningene som kommer i retur. Dette medfører en risiko for feil i saker der de medisinske vilkårene i lovbestemmelsene krever gode vurderinger fra lege og riktig tolkning og forståelse for legens opplysninger fra saksbehandler.
+
+Det gjør ikke situasjonen lettere for de ansatte i Nav og legene at kanalene for å innhente legeopplysninger er utdatert og i liten grad digitalisert, noe som forsinker og kompliserer saksbehandlingen. Utvalget er kjent med at et digitaliseringprosjekt er igangsatt.[^412] I praksis bidrar dette til at det i stor grad innhentes medisinske opplysninger bredt og i liten grad tilpasses den enkelte sak. Dette bidrar også til at det blir mer arbeidsbelastende for den aktuelle lege enn hva det strengt tatt burde være. Når personer med liten erfaring og uten formell utdannelse innenfor de relevante fagdisipliner skal foreta denne typen bevisvurderinger, oppstår det en klar risiko for at det treffes uriktige avgjørelser.
+
+Klageinstansen har pekt på for dårlige kunnskaper om trygdemedisin hos saksbehandlerene i førsteinstans og feil og mangelfull bruk av etatens rådgivende overleger i sine kvalitetsrapporter. I rapporten fra 2021 fremkommer det:[^413]
+
+«Vilkårene for rett til helserelaterte ytelser etter folketrygdloven er vurderinger som ligger i skjæringspunktet mellom juss og medisin. På stønadsområder som sykepenger, AAP og uføretrygd, yrkesskade og grunn- og hjelpestønad er det avgjørende for kvaliteten på vedtakene at saksbehandlerne har den nødvendige trygdemedisinske kompetansen. Det er også nødvendig med tilgang på trygdemedisinsk rådgivning fra NAVs rådgivende overleger. At både saksbehandler og rådgivende overlege har kunnskap om, og forståelse for, både egen rolle og ansvar og den samhandlingen som må være dem imellom, er avgjørende for at vurderingene og avgjørelsene får god nok kvalitet. Dette har vi påpekt i så å si alle våre kvalitetsrapporter.»
+
+NAV Klageinstans skriver videre at de ser en bedring på noen områder, men at de stadig ser utfordringer ved den trygdemedisinske utredningen og/eller bruk av rådgivende lege i klagesakene om sykepenger og arbeidsavklaringspenger. De mener at det fortsatt er store forskjeller og betydelige behov for forbedring i saker som gjelder den medisinske utredningen fra Nav-kontorene i arbeidsavklaringspengesaker.
+
+NAV Klageinstans har opplyst til utvalget at når saken enten ikke har vært forelagt for rådgivende overlege i førsteinstansen, eller kvaliteten på vurderingen ikke har tilstrekkelig kvalitet til at klageinstansen kan bygge på den ved vurderingen av om saken er tilstrekkelig medisinsk belyst og vurderingen av de medisinske opplysningene i saken opp mot vilkårene i loven, må de forelegge saken for sin rådgivende lege, selv om det også har vært gjort i førsteinstansen, i enkelte saker både før vedtaket ble truffet og i forbindelse med klagebehandlingen der. I mellomtiden er det gjerne innhentet opplysninger fra fastlege og spesialister i flere omganger, men det mangler likevel opplysninger som er tilstrekkelige til at vurderingen av vilkårene i loven kan skje på en forsvarlig nok måte. Dette fører også til at mye lege- og saksbehandlerkapasitet blir utnyttet på en uhensiktsmessig måte, uten at saken kommer nærmere et riktig resultat. Utvalget mener det er viktig at man også i denne sammenhengen utviser en kritisk holdning og prioritering til bruk av en helsekompetanse som det er generell mangel på i samfunnet.
+
+Utvalget vil vurdere tiltak som sikrer bedre tilgang til kompetanse i tilknytning til førsteinstansen saksbehandling. Det gjelder både strukturelle endringer, men også anbefalinger knyttet til opplærings- og veiledningstiltak.
+
+### Hvorfor velger bruker å klage eller anke på et riktig vedtak?
+
+Det er ønskelig at brukere klager på uriktige vedtak, men situasjonen er slik at mange klager og anker over vedtak som er riktige. Å behandle klager og anker er både tid- og ressurskrevende. Hensynet til effektiv ressursbruk tilsier at man begrenser antallet klager på riktige vedtak. Samtidig vil alle klagesystemer ha klager over både uriktige og riktige vedtak. Klagesystemet er en viktig rettssikkerhetsgaranti, og det er ikke aktuelt for utvalget å gjøre større endringer i søkeres rett til å klage.[^414] Klager over riktige vedtak har dessuten den verdi at overordnete instanser (eller klageorganer) får ført kontroll med vedtaksinstansen.
+
+Det er grunn til å vurdere om det kan gjøres tiltak for å begrense antallet klager på riktige vedtak. En forutsetning for det må være at det rent faktisk er et stort problem med mange klager og anker på riktige vedtak i Nav-systemet. Tallene som er referert i kapittel 6, viser etter utvalgets syn at problemet iallfall ikke er ubetydelig, og vil derfor se nærmere på mulige årsaker til at riktige vedtak påklages.
+
+Gode rammevilkår som gjør det enkelt og billig å klage og anke
+
+En hovedårsak til klager på riktige førsteinstansvedtak er rammevilkårene i klage- og ankesakssystemet. I praksis har alle parter en nær sagt ubetinget klagerett.[^415] Oslo Economics peker i sin rapport også på at bruker enkelt kan sende inn en klage til Nav.[^416] Det er få formelle krav til klagen, og det informeres bredt om klagemuligheter til bruker både i vedtaksbrev, på nav.no og i mange tilfeller brukers dialog med NAV Kontaktsenter og Nav- kontor. Her har også digitalisering gjort det enklere. Klagefristen etter folketrygdloven er i tillegg seks uker,[^417] og dermed dobbelt så lang som etter forvaltningslovens normalordning.[^418] Å klage er gratis, og klager løper ingen risiko for å bli pålagt omkostningene som er forbundet med forvaltningens behandling av klagen. Forvaltningsloven § 36 gir i utgangspunktet også klager krav på å få dekket egne omkostninger (for eksempel til juridisk eller sakkyndig bistand) dersom vedtak blir endret til gunst. Det gis også behovsprøvd fri rettshjelp til klage etter folketrygdlovens § 21-12.[^419] Rammevilkårene for å påklage vedtak i Nav er imidlertid nokså like de som gjelde for andre velferdstjenester.
+
+Generelt er rammevilkårene for å få overprøvd klagevedtak i norsk rett nokså dårlige. Utgangspunktet er at gyldigheten av klagevedtak kan overprøves av domstolene, men brukere som bringer saker inn for domstolene risikerer et betydelig omkostningsansvar. Domstolsprosessen er også krevende, og mange vil føle et behov for å la seg bistå av advokat. Det gjør at svært få velger å overprøve klagevedtak. Disse rammevilkårene gjelder også for andre velferdsytelser, for eksempel innenfor helse- og omsorgssektoren.
+
+Sammenlignet med de alminnelige reglene, er rammevilkårene for å få overprøvd klageinstansens vedtak på Navs myndighetsområde svært gode. I alminnelighet kan brukere anke klageinstansens vedtak gratis inn for Trygderetten. Det er ikke strenge krav til selve ankeerklæringen, og ankefristen er seks uker. Ankende part har i praksis ingen risiko for å måtte betale statens omkostninger og har mulighet for dekning av egne omkostninger. Det gis også behovsprøvd fri rettshjelp i ankesaker for Trygderetten.
+
+En mulighet for å begrense antallet klager og anker, er å endre rammene for klage- og ankeretten. For utvalget har det gitt grunn til å vurdere om det bør innføres gebyr for klage og anke, endre reglene om saksomkostningsansvar, begrense Trygderettens saklige virkeområde og korte ned klage- og ankefristen.
+
+Tilliten til Nav
+
+Brukere som har høy tillit til systemet vil oftere stole på at et vedtak er riktig, og dermed i mindre grad føle behov for å klage.[^420] Å bedre tilliten til Nav vil derfor være et målrettet tiltak for å begrense klager og anker over riktige vedtak.
+
+I Navs egen brukerundersøkelse fra 2022 svarer 71 prosent av etatens brukere at de har tillit til Nav. Med unntak av pandemiåret 2020 har denne andelen har vært relativt stabil de siste årene.[^421] Brukerundersøkelsene er rettet mot de som har mottatt tjenester i Nav, og må derfor også sees i lys av at Nav innvilger 85 prosent av søknadene. Selv om mange brukere har høy tillit til Nav, skriver direktoratet også i sin analyse av nåsituasjonen i Nav at avhengighetsforholdet til Nav gir mange brukere en følelse av avmakt. Nav kan oppleves som stort og byråkratisk, og mange kan oppleve mangel på tillit i møte med Nav.[^422]
+
+For utvalgets vurdering er det også relevant å se på befolkningens generelle tillit til Nav. DFØ gjennomfører jevnlig en innbyggerundersøkelse for å avdekke blant annet hvor fornøyde innbyggerne er med offentlige tjenester i Norge[^423]. I undersøkelsen fra 2019 ble innbyggerne spurt om sitt inntrykk av en rekke statlige tjenester. På en skala fra 1 til 100 gir innbyggerne en gjennomsnittskåren på 78 til høyskole/universitet og 75 til Lånekassen, mens Nav får en skåre på 56. I 2021-undersøkelsen er innbyggerne ikke stilt spørsmål om inntrykket av de konkrete tjenestene,[^424] men bes om å gi en vurdering av kvaliteten på tjenestene. Resultatene viser alt i alt at innbyggerne er delvis fornøyde med kvaliteten på statlige tjenester, og gir en samlet skåre på 68 poeng.[^425] Etatene som skårer lavest, er imidlertid Barne-, ungdoms- og familieetaten og Nav (hhv. skår 57 og 58 poeng). Informantene i undersøkelsen som i løpet av de siste 12 månedene har hatt erfaring med Nav, er noe mer fornøyd enn andre. Men selv om Nav har lavere skåre enn de fleste andre offentlige virksomheter i innbyggerundersøkelsen, har vurderingen av Nav gått merkbart opp siden 2010 (da skåren lå på 48). Undersøkelsen indikerer likevel at Navs omdømme ikke er så god som man kan ønske.
+
+For utvalgets analyser er det også relevant å se nærmere på klagernes tillit til Nav. Analysene fra Oslo Economics antyder at en betydelig andel av klagerne har svak tillit til kvaliteten på saksbehandlingen i Nav.[^426] 30 prosent av respondentene i brukerundersøkelsen er helt eller delvis enige i påstanden om at det ofte er flaks og tilfeldigheter som avgjør hva brukerne får fra Nav.[^427] Blant de som har klaget, er om lag 40 prosent helt eller delvis enig i denne påstanden. Hvis dette gir et korrekt bilde av brukernes tillit til systemet, er det grunn til å tro at manglende tillit til Nav-systemet bidrar til klager over riktige vedtak.
+
+I Agenda Kaupangs brukerundersøkelse fra klage- og ankesystemet i Nav og Trygderetten står det blant annet følgende om tillit:[^428]
+
+«Flere brukere forteller at de opplever at NAV og Trygderetten velger den dokumentasjonen som passer best til sin avgjørelse. Når vedtak og begrunnelse for vedtaket er uklart for bruker, så bidrar det til å forsterke den mistilliten som vi opplever at flere av brukerne har. Når det er vanskelig å forstå begrunnelsen blir det også krevende for brukerne å påklage eller anke vedtaket videre».
+
+I det følgende vil utvalget ta utgangspunkt i de faktorene som kjennetegner et system med høy tillit. Som nevnt vil tillit blant annet bero på om prosessene er forutsigbare, transparente og forståelige for brukerne og om brukerne gis mulighet til å ta del i og påvirke prosessene. Det er nok også viktig for tillit at brukerne opplever at vedtakene er rimelige og riktige.
+
+Er prosessene forutsigbare og forståelige?
+
+Forutsigbare og forståelige prosesser gir brukerne mulighet til å finne ut hvem som skal veilede dem, hvem som skal treffe vedtaket, forholdet mellom de ulike aktørene, og hvordan prosessen skal drives fremover. Spørsmålet er om Navs organisering oppfyller disse kravene.
+
+I referansegruppemøtene har utvalget fått tilbakemeldinger om at brukerne ikke forstår ansvarsdelingen mellom Nav- kontoret og NAV Arbeid og ytelser. I saker om arbeidsavklaringspenger treffer Nav-kontoret vedtak etter folketrygdloven § 11-5 (arbeidsevnen), mens NAV Arbeid og ytelser treffer vedtak om de øvrige vilkårene. I uføresaker vil Nav-kontoret skrive en vurdering av inntektsevnen, som benyttes når NAV Arbeid og ytelser tar stilling til søknaden. Noen veiledere ved Nav-kontorene som ble intervjuet av AFI i forbindelse med evalueringen av oppfølgingen av Meld. St. 33 (2015–2016), sier at denne ansvarsdelingen kan gjøre det krevende å være «ett Nav», at man er i skvis mellom bruker og ytelsesforvaltning:[^429]
+
+«Situasjonen i dag er at mens lokalkontoret etter beste evne innstiller på ulike vedtak, så er det NAY som tar en beslutning og sender ut et vedtaksbrev. Det blir så opp til det lokale NAV- kontor å fortelle bruker rekkevidden av vedtaksbrev, enten det gjelder innvilgelse eller avslag. Dette beskrives som en krevende situasjon.»
+
+Prakis er at dersom bruker har fått avslag på søknad om uføretrygd, vil veileder ved Nav-kontoret som regel ha et møte med bruker for å gå gjennom avslaget. Formålet med denne gjennomgangen er å hjelpe bruker med å identifisere årsaken til at NAV Arbeid og ytelser har besluttet å avslå søknaden. Utvalget stiller spørsmål ved om det er hensiktsmessig at veileder, som verken har truffet vedtak eller har noen enkelt tilgang til saksbehandleren som har truffet vedtak, skal informere bruker om vedtaket.
+
+I referansegruppemøtene med ansattorganisasjonene har utvalget fått opplyst at hovedregelen er at veilederne ved Nav- kontorene ikke kan ta kontakt med saksbehandlere i ytelsesforvaltningen for å avklare en konkret sak eller stille generelle juridiske spørsmål for avklaring. Videre har utvalget fått opplyst at telefonløsningen som muliggjorde dette tidligere, er nedlagt. Samtidig oppgir flere veiledere i AFIs undersøkelse at de opplever at de mangler kompetanse om regelverket, og at de har behov for opplæring.[^430] Manglende tilgjengelighet til saksbehandler som avgjør saken, kan bidra til at veileder ikke gir brukerne gode nok svar knyttet til søknad eller klage om inntektssikring. Den uklare ansvarsdelingen mellom Nav- kontoret og ytelsesforvaltningen, fra et brukerperspektiv, kan dermed gi brukeren en uoversiktlig og lite forutsigbar søknads- og klageprosess.
+
+Ansvarsdelingen mellom Nav-kontoret og ytelsesforvaltningen kan bidra til å gi brukeren feil forventninger til utfallet av vedtaket i saken, se omtale lenger ned. Utvalget anser begge disse forholdene som årsak til klager og anker.
+
+Utvalget mener også at det er vanskelig også for bruker å komme i kontakt med saksbehandlere i ytelsesforvaltningen. Mens saksbehandlingen hos vedtaksinstansen historisk har vært porteføljestyrt (at den enkelte saksbehandler hadde ansvar for «sine» saker), legges sakene nå i «én kø» og blir behandlet etter dato for søknad eller forlengelse. Metodikken kan medføre at det er flere saksbehandlere inne i en sak i løpet av saksbehandlingstiden, for eksempel dersom det er behov for mer informasjon for at vilkårene kan prøves og det sendes mangelbrev til bruker. Saken legges i disse tilfellene på vent til opplysningene mottas, og behandles når neste ledige saksbehandler vil kunne ta den til behandling.
+
+Utvalget har fått opplyst at begrunnelse for å gå fra «portefølje» til «én kø» i hovedsak var kvalitet, likebehandling og effektivitet. Utvalget ser det imidlertid som en ulempe at bruker ikke har sin «egen» saksbehandler som vedkommende kan komme i kontakt med for en eventuell dialog om egen sak. Særlig kan dette gjelde de som ønsker klage på et vedtak.
+
+Dette forsterkes ved at Nav har som strategi at kommunikasjon med bruker primært skal gå gjennom nav.no, NAV Kontaktsenter og i noen grad gjennom Nav-kontorene. Kontaktsentrene gir brukerne anledning til å stille spørsmål som knytter seg til de ulike tjenestene og ytelsene som Nav tilbyr, og for eksempel bistå brukere i en eventuell søknads- og klageprosess. Nav-kontorene kan også bistå bruker i en eventuell søknad- og klageprosess. Direktoratet opplyser at dersom søker har behov for å kontakte saksbehandler, må vedkommende kontakte NAV Kontaktsenter eller gjennom nav.no. Ved behov kan NAV Kontaktsenter gi beskjed til saksbehandler gjennom et internt kommunikasjonssystem om å kontakte bruker innen utgangen av to virkedager. Oppgaven med å ringe tilbake til bruker går inn i en oppgaveliste, og vil derfor ikke alltid gå til den saksbehandleren som senere skriver vedtaket i saken. Dersom saksbehandleren ikke får tak i bruker, anses oppgaven som utført. Dialogen kan dermed stoppe ved NAV Kontaktsenter. Systemet legger ikke godt nok til rette for at brukerne kan få snakke med sin saksbehandler. Utvalget mener at en rask avklaring av vedtaket overfor bruker kan bidra til færre runder med klager og anker.
+
+For mange brukere vil det være tilstrekkelig å snakke med NAV Kontaktsenter eller ha dialog via nav.no for å få avklart sine spørsmål, men det gjelder ikke alle. I Agenda Kaupangs undersøkelse blant brukerne av klage- og ankesystemet i Nav og Trygderetten er det et gjennomgående funn at de har behov for mer muntlig dialog og bedre informasjon.[^431] Det er mye skriftlig kommunikasjon i klage- og ankesystemet, og brukerne ønsker større mulighet for dialog. Flere av informantene i Agenda Kaupangs undersøkelse opplever det som vanskelig å komme i kontakt med rette vedkommende i Nav og Trygderetten og bruker mye tid på å komme i kontakt via telefon. Flere i referansegruppemøtene påpekte også at en del brukere opplever at det er vanskelig å komme i kontakt med saksbehandler i ytelseslinjen, og mange kan oppleve at avstanden til saksbehandler er stor.
+
+Etter utvalgets syn tilsier disse funnene at det bør vurderes å se på organiseringen av Nav og Trygderetten.
+
+En annen faktor som kan bidra til lite forutsigbare og forståelige prosesser, er brevene som bruker mottar med informasjon om omgjøringer. I referansegruppemøter har utvalget fått opplyst at brukere i mange tilfeller særlig har problemer med å forstå de omgjøringsvurderingene som først vedtaksinstansen og senere klageinstansen gjør av eget vedtak. Når bruker mottar brev om at vedtak ikke omgjøres, tror de gjerne at selve klagen eller anken er avgjort, og da av samme organ som traff det påklagede eller påankede vedtaket. Dette skaper grunnlag for mistillit. Ved sin oppbygging fremstår selve prosessen som lite forståelig. Dette er et problem som både er fremhevet av brukerorganisasjonene og av ansatte i Nav, og underbygges også i brukerundersøkelsen fra Agenda Kaupang.[^432] De skriver at når brukerne mottar brev eller annen informasjon de ikke helt forstår, oppstår et stort behov for å komme i kontakt med Nav for å avklare eller stille spørsmål. Utvalget mener at dette er et vektig argument i vurderingen av førsteinstansens rolle i klagesak, og klageinstansens rolle i anke til Trygderetten.
+
+Har bruker mulighet til å påvirke prosessene?
+
+Tillit til Nav-systemet henger nøye sammen med brukers mulighet til å kunne påvirke prosessene. For å kunne påvirke prosessene er det sentralt å ha innsyn i egen sak og ha mulighet til å komme med sine synspunkt. Dette er kjernen i hensynet til kontradiksjon, som både forvaltningsretten og domstolsprosessene bygger på.
+
+Utvalgets undersøkelser viser at førsteinstansene ikke forelegger brukerne de opplysninger de mottar om bruker før de treffer sitt vedtak. Utvalget har også funnet at Nav i dagpengesaker ikke foretar tilstrekkelig utredning av sakene før det treffes vedtak. Disse funnene er i tråd med undersøkelser som er gjort av brukernes egne opplevelser. Flere av deltakerne i brukerundersøkelsen til Agenda Kaupang forteller at de ikke har blitt forelagt sentrale dokumenter som Nav legger til grunn, og dette gjelder spesielt når det er tredjepart som har sendt inn dokumentene.[^433] Kritikken har særlig gått på at Nav ikke fremlegger uttalelser fra rådgivende lege for søkerne. Brukerne opplever å mangle innsyn i egen sak, og at det er vanskelig å holde oversikt over dokumentasjonen i saken. Flere opplyser at saken deres ikke oppleves å ha blitt tilstrekkelig utredet. Det pekes også på at dokumentasjon og innspill de har sendt inn, ikke synes å bli hensyntatt.
+
+I Agenda Kaupangs undersøkelse av brukeropplevelser er «Mer åpen informasjon og oversikt over dokumentasjon og hva som benyttes i vurderingen» et av forbedringspunktene til klage- og ankeprosessen:
+
+«Skulle ønske at NAV-systemet kunne bli mer smidig – gå inn og lese om meg og mitt – kunne åpne dokumentasjonen – kunne vite at det er noe som mangler»
+
+«En bruker beskrev at det opplevdes sårt at andre kan lese for eksempel svært privat informasjon fra lege og andre uten at man selv vet hva som står der, hvem som har tilgang til det eller hvem som har åpnet dokumentene. (…) Det er få som forteller at de har søkt innsyn, som vet at de kan søke om innsyn eller hva de eventuelt har krav på å se. Noen få brukere fortalte at de har brukt advokat for å få innsyn.»[^434]
+
+Utvalget har fått opplyst at Navs løsning via nav.no, som gir bruker innsyn i dokumenter i egen sak, ikke inneholder alle sakens dokumenter. Det er videre opplyst at måten bruker kan få innsyn på, er ved selv å kreve dette. Brukere og advokater har overfor utvalget gitt uttrykk for at det kan ta lang tid før Nav sender dokumentene og at de har måttet purre for å få innsyn. Det er et generelt problem at brukerne ikke får tilgang til alle sakens dokumenter.
+
+Det er i dag ingen fullgod løsning for innsyn i hvilke dokumenter Nav legger til grunn i sin saksbehandling. Partsinnsyn gis ved at Nav skriver ut det de selv definerer som sakens dokumenter. Brukerne har innsyn gjennom nav.no, men her er langt fra alle sakens opplysninger synlige for bruker. Bruker kan for eksempel ikke se dokumenter som er sendt inn på papir eller digitalt av andre enn hen selv, som legerklæringer, brev fra advokat eller annen fullmektig eller uttalelser fra Navs rådgivende lege. Bruker kan heller ikke se papirer vedkommende selv har sendt til Nav i posten, men bare det som er sendt inn digitalt. Nav har ingen løsning for innsyn gjennom nav.no for advokat eller annen fullmektig eller verge. Utvalget er kjent med at det jobbes med ny innsynsløsning, men det er uklart når denne kan forventes å komme på plass, og i hvilken grad den blir fullgod.
+
+Utvalget legger til grunn at disse manglene i Navs saksbehandling ikke bare bidrar til at det treffes uriktige vedtak, men at de også bidrar til at brukerne ikke føler de kan påvirke egen sak. Dette svekker tilliten til systemet, og bidrar til klager også på riktige vedtak.
+
+Tiltak for å styrke tilliten vil falle sammen med tiltakene som drøftes for å sikre riktige resultat.
+
+Er vedtakene som treffes forutsigbare?
+
+En annen faktor for å sikre tillit til et system er at vedtakene som treffes, fremstår som forutsigbare for brukerne. Også på dette punkt skaper organiseringen av Nav utfordringer. Både i saker om arbeidsavklaringspenger og uføretrygd vil en bruker ha kontakt med en veileder på Nav- kontoret. I arbeidsavklaringspenger vil Nav- kontoret som nevnt over, treffe vedtak etter folketrygdloven § 11-5 (arbeidsevnen), mens NAV Arbeid og ytelser treffer vedtak om de øvrige vilkårene. I uføresaker vil Nav-kontoret skrive en vurdering av inntektsevnen, som benyttes når NAV Arbeid og ytelser tar stilling til søknaden. I undersøkelsen fra Oslo Economics gir de ansatte som har deltatt i undersøkelsen uttrykk for at Nav-kontorets arbeidsevnevurdering i mange tilfeller gir brukerne forventninger om å få innvilget uføretrygd. Hvis det endelige vedtaket ikke stemmer overens med deres forventninger, basert på dialogen med Nav- kontoret, vil det være nærliggende for dem å klage.[^435] Ansatte ved Nav- kontor påpeker også at Nav- veileder i disse tilfellene ofte anbefaler søker å klage. Dette er også et viktig funn i brukerundersøkelsen fra Agenda Kaupang. Noen av de intervjuede brukerne forteller at de har møtt flinke saksbehandlere på sitt lokale Nav- kontor, men disse saksbehandlerne kommer ofte til kort når klagen eller anken er håndtert av vedtaksinstans eller NAV Klageinstans. Da kan de sjelden forklare vurderinger, gi utdypet informasjon eller svare konkret på spørsmål om vedtak som er truffet.[^436]
+
+At det gis motstridende opplysninger fra henholdsvis Nav-kontoret og NAV Arbeid og ytelser, gjør at vedtakene fremstår som lite forutsigbare og bidrar til å skape usikkerhet for de aktuelle brukerne, noe som igjen kan svekke tilliten til Nav. Det er rimelig å anta at dette i sin tur bidrar til klager også over riktige vedtak.
+
+En slik forståelse har støtte i de undersøkelser som er gjort av Oslo Economics.[^437] En betydelig andel av respondentene i undersøkelsen oppgir at de tror at et forbedret samarbeid mellom Nav-kontor og NAV Arbeid og ytelser vil kunne bidra til å redusere klagevolumet knyttet til dagpenger, arbeidsavklaringspenger og uføretrygd.
+
+Utvalget ser det som en utfordring at arbeidsevnevurderingen, som gjøres av veiledere ved Nav- kontoret, kan gi forhåpninger om at de vil få en bestemt ytelse innvilget av førsteinstansen. Utvalget har fått opplyst at vedtak om arbeidsavklaringspenger blir underskrevet av fire saksbehandlere, to fra Nav-kontoret og to fra NAV Arbeid og ytelser. I vedtaket fremgår vurderingene fra begge instanser uten at noen har ansvar for helheten i begrunnelsene. Konklusjonen til NAV Arbeid og ytelser er avgjørende, men praksis er at Nav-kontorets vurdering likevel skal synliggjøres i hele sin bredde. Dette skaper en usikkerhet for bruker om hva som er riktig resultat i saken.
+
+Utvalget vil på denne bakgrunn vurdere tiltak for å sikre at bruker gis riktige forventninger.
+
+Er vedtakene forståelige for brukerne?
+
+En brukers tillit er avhengig av at det er mulig å forstå de vedtak som treffes. Begrunnelsen for vedtakene er helt sentrale. Et godt begrunnet riktig avslagsvedtak kan overbevise en bruker om at et vedtak er riktig og på den måten forhindre klager på vedtak som er riktige.
+
+De undersøkelser utvalget har hatt tilgang til, samt utvalgets egne undersøkelser, viser at begrunnelsene i mange av Navs vedtak ofte ikke oppfyller disse kravene. I kvalitetsrapporten til direktoratet fra 2019 skriver NAV Klageinstans at en del ytelsesområder har vedtak som i stor grad er basert på standardtekster som hentes automatisk fra etatens systemer. Vedtakene blir dermed lite individualisert og tilpasset den enkelte brukeren. Ofte inneholder vedtakene også mye standardtekst som gjør vedtakene vanskelig å forstå.[^438]
+
+Inntrykket underbygges av de innspill utvalget har fått i referansegruppemøtene. Det har her vært vist til at vedtak i mange tilfeller helt mangler individuelle begrunnelser. Dette kan ofte gi brukerne grunnlag til å mistenke at faktum i brukerens sak ikke er vurdert. Dersom standardformuleringene ikke treffer, vil også dette understøtte en mistanke om at saken ikke er tilstrekkelig godt vurdert.
+
+I undersøkelsen fra Oslo Economics var det flere av intervjuobjektene som tok til orde for at vedtaksbrevene i større grad kan tilpasses den enkeltes sak, at de kan være kortere og mer konsise, at språket kan være mindre formelt og generisk utformet.[^439]
+
+I brukerundersøkelsen til Agenda Kaupang beskriver mange av brukerne det som vanskelig å forstå begrunnelsene som både Nav og Trygderetten skriver i sine vedtak, og at det medfører at brukerne er usikre på vedtaket. [^440] Dette kan i neste omgang forsterker mistilliten til systemet.
+
+Etter utvalgets vurdering er svakhetene i begrunnelsene først og fremst knyttet til førsteinstansens vedtak. Utvalget vil vurdere om det er behov for å endre de generelle krav til begrunnelse.
+
+Har brukerne grunn til å tro at det treffes rimelige og riktige vedtak i Nav?
+
+Folketrygdloven inneholder (og andre lover på Navs myndighetsområde) komplekse regler med skjønnsmessige og vanskelige bevistemaer. Dette bidrar nok til at mange brukere ikke fullt ut forstår utfallet i sin egen sak. Det gjelder kanskje særlig innenfor de helserelaterte ytelsene. Graden av skjønn og komplekse vurderinger er trolig en viktig forklaring på at klagefrekvensen er høyere på noen områder enn andre.[^441] Graden av skjønn åpner dessuten for at brukeren kan være uenig i saksbehandlers vurdering i vedtaket. I tillegg kan det påvirke brukers insentiver til å klage ettersom utøvelse av skjønn innebærer at en annen saksbehandler kan gjøre andre vurderinger i saken, og dermed at utfallet av saken kan bli et annet. Ulik praksis kan gjøre at bruker opplever resultatet i saken som tilfeldig. I brukerundersøkelsen fra Agenda Kaupang er det flere som sier at de tror Nav og Trygderetten velger den dokumentasjonen som passer best til sin avgjørelse.[^442]
+
+Anker over vedtak om arbeidsavklaringspenger og uføretrygd utgjør en stor andel av sakene i Trygderetten. For å få innvilget disse ytelsene må henholdsvis arbeidsevnen og inntektsevnen være nedsatt med minst halvparten. I tillegg er det flere andre vilkår som gjelder sykdom.
+
+Det ligger utenfor utvalgets mandat å gå inn i et eventuelt behov for å endringer i stønadsregelverket. Utvalget vurderer at et komplisert regelverk forutsetter tydelig kommunikasjon med bruker både muntlig og skriftlig. Bruker vil da lettere forstå vilkårene og dokumentasjonskravene for ytelsen eller stønaden de søker.
+
+Fremstår reglene som rimelige?
+
+Oslo Economics har i sin undersøkelse vurdert hvordan regelverksendringene i perioden 2016–2021 har påvirket klagevolumet.[^443] Det er særlig innstramningene i regelverket for arbeidsavklaringspenger fra 1. januar 2018 som antas å ha påvirket utviklingen i klagevolumet i perioden. En stor andel av intervjuobjektene peker på denne endringen som en viktig forklaring på at klagevolumet har økt innenfor både arbeidsavklaringspenger og uføretrygd. Målet med regelverksendringene var å få flere mottakere av arbeidsavklaringspenger raskere tilbake i jobb. Endringene besto hovedsakelig av at maksimal ordinær stønadsperiode ble redusert fra 4 til 3 år, det ble innført strengere regler for forlengelse av ytelsen etter maksperioden og det ble innført en karensperiode på ett år for de som nådde maksimal varighet. I tillegg ble perioden for forlengelse satt til to år, mens dette tidligere ikke var regulert[^444].
+
+Regelverksendringene medførte at mange, særlig i 2018, fikk vedtak om at de ikke lenger hadde rett på arbeidsavklaringspenger som følge av at maksimal stønadsperiode var nådd. Dette kan ha ført til at flere søkte om uføretrygd selv om mange antakelig ikke hadde en tilstrekkelig avklart arbeidsevne. Dette kan videre ha bidratt til at flere avslag på søknader om uføretrygd og flere klager.[^445]
+
+Innenfor dagpenger gir også flere respondenter i Oslo Economics sin undersøkelse uttrykk for at regelverksendringer som gjør regelverket strengere, generelt fører til flere klager på områdene som strammes inn.
+
+Oslo Economics peker på at årsakene til at klageandelen går opp ved innstramminger i regelverket, kan være sammensatt og avhenger av den konkrete regelverksendringen. Generelt vil det likevel være slik at jo færre som innvilges ytelser, jo flere er det som har en økonomisk interesse av å klage. Flere ansatte gir både i spørreundersøkelsen og i intervjuer uttrykk for at brukere klager fordi de er uenig i selve regelverksendringen, eller fordi de opplever at endringen gir urimelige utslag. Samtidig kan slike klager skyldes at brukerne ikke er kjent med endringene i regelverket, og har lagt til grunn at de hadde krav på ytelsen.[^446]
+
+Slike innstramninger i regelverk har vært en ønsket politikk, og det ligger utenfor utvalgets mandat å vurdere materielle endringer.[^447] Innstramming av regler må forventes å generere klager. For systemet har det økonomiske og administrative konsekvenser at klage- og ankevolumet endrer seg brått. Ved et økt volum, uten tilsvarende økning i ressurser, vil saksbehandlingstiden gå opp. Det tilsier at lovgiver i forbindelse med innstramminger også vurderer endringens betydning for klager og anker, og eventuelt setter inn nødvendige ressurser for å unngå økte restanser.

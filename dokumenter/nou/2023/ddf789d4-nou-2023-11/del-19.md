@@ -1,979 +1,274 @@
-# NOU 2023: 11, del 19 av 23 (side 233–246)
+# NOU 2023: 11, del 19 av 29
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2023/ddf789d4-nou-2023-11.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2023-11/id2969126/
 - Original-PDF: https://www.regjeringen.no/contentassets/bc4d7866cdbf4151b35df2ddb8b8f5bb/no/pdfs/nou202320230011000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 32 figurer, 132 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 233]
+# Tiltak for å effektivisere saksbehandlingen i Trygderetten og lagmannsretten
 
-NOU 2023: 11
-Raskt og riktig
+Utvalgets forslag
 
-begrunnelse kan overbevise bruker om at vedtaket er riktig, og på den måten forhindre klager.
-Selv om den ikke overbeviser brukeren, kan
-begrunnelsen sette bruker i stand til å vurdere
-om vedtaket skal påklages. Dette kan bidra til en
-spissing av saken, noe som kan føre til mer effektiv behandling i klageinstansen. En god begrunnelse i førsteinstansen kan også lette arbeidet for
-klageinstansen.
-Det krever tid og ressurser å skrive gode, tilpassede begrunnelser. Nav driver med masseforvaltning, og det må forventninger til saksbehandlingen og begrunnelsene ta høyde for. Strenge
-krav til begrunnelsen vil etter utvalgets syn også
-kunne være et hinder for effektivisering ved automatisering. Dette er argumenter som utvalget
-mener det må legges vekt på når kravene til
-begrunnelse av vedtak fastsettes i lov.
-Utvalget er av den oppfatning at forvaltningslovens regler om begrunnelse i hovedsak bygger på
-en god avveining mellom ulike hensyn. På Navs
-myndighetsområde vil det likevel være enkelte
-problemstillinger som kan tilsi at det bør gjelde
-visse særregler for Nav.
-Bør det være et krav at begrunnelsen viser til rundskriv?
-I Nav treffes svært mange vedtak på grunnlag av
-tolkninger som fremgår av rundskriv. Lovene
-inneholder skjønnsmessige begreper, som er klargjort i rundskriv.
-For bruker vil det være av interesse om saken
-er avgjort i tråd med et rundskriv. Det kan være
-tillitsvekkende for mange brukere at utfallet i
-deres sak er i tråd med rundskriv og vanlig praksis. Det gjør det lettere for brukere å slå seg til ro
-med vedtaket. En slik henvisning kan dermed
-redusere antallet klager. Et krav om at relevante
-deler av rundskriv er nevnt i vedtaket, gjør det
-også enklere å kontrollere om rundskrivet er
-anvendt korrekt.
-Utvalget mener at det ikke vil være særlig
-arbeidskrevende å gi slike henvisninger. Ved
-behandling av saken skal saksbehandleren ha
-oversikt over, og anvende, rundskrivene. Utvalget
-har i møter med Nav fått opplyst at et krav om å
-henvise til rundskriv skal være mulig å innarbeide
-også ved automatisk saksbehandling.
-I møte med Nav har utvalget også fått opplyst
-at utviklingen de siste årene har gått i retning av å
-i mindre grad vise til lovtekst og eventuelt rundskriv. Dette har vært begrunnet i klarspråk. Utvalget er enig i at lovtekst og rundskriv kan være
-vanskelig tilgjengelig for brukere. Samtidig vil
-vedtak bygge på en tolkning av disse. For at bru-
-
-231
-
-Kapittel 20
-
-ker skal kunne kontrollere rettsanvendelsen, er
-det nødvendig å få innsikt i ordlyden. Det betyr
-ikke at hele ordlyden i lov, forskrift eller rundskriv
-må siteres. I mange tilfeller vil det være tilstrekkelig å fremheve de delene av teksten som er direkte
-relevant for saken.
-Utvalget foreslår derfor at vedtak etter folketrygdloven må begrunnes med konkrete henvisninger til relevant lovbestemmelse, og aktuelt
-rundskriv.
-Bør begrunnelsen vise til grunnlaget for Navs bevisvurdering?
-Forvaltningsloven krever i utgangspunktet ikke at
-begrunnelsen angir de bevisene som danner
-grunnlag for bevisvurderingen. I referansegruppemøter har dette vært trukket frem som et problem. At Nav avslår søknader uten å vise til for
-eksempel opplysninger fra fastleger, skaper en
-usikkerhet om hva konklusjonen bygger på, og
-om bevis er oversett. Dette reiser spørsmålet om
-det bør stilles som krav at begrunnelsen skal vise
-til de bevis som er trukket inn for å avgjøre
-omtvistet faktum.
-Et generelt krav om at begrunnelser angir
-bevisene som er vektlagt i tvilsspørsmål, vil etter
-utvalgets syn kunne føre for langt. Det vil bli for
-arbeidskrevende.
-Saker om arbeidsavklaringspenger og uføretrygd kan være utfordrende. Det er også i disse
-sakene det oftest foreligger motstridende opplysninger. Utvalget mener derfor at det bare er i
-disse sakene det kan bli aktuelt å oppstille et skjerpet krav til begrunnelse. Utvalget mener videre at
-det bare bør være nødvendig med et slikt krav ved
-avslag. I 2021 ble 6 499 krav om uføretrygd og
-14 155 krav om arbeidsavklaringspenger avslått.
-Selv om dette er et høyt antall, mener utvalget at
-sakenes viktighet for brukeren tilsier at det bør
-gis særlig gode begrunnelser ved avslag.
-Utvalget mener derfor at det bør oppstilles et
-skjerpet krav til angivelse av faktum, og at det i
-begrunnelsen skal vises til de bevisene som er
-trukket inn for å avgjøre omtvistet faktum. Det
-gjelder både de bevisene som støtter vedtakets
-konklusjon, og de som taler i motsatt retning.
-Angivelse av momentene i skjønnsmessige avveininger
-Etter gjeldende rett er det ikke noe tydelig krav
-om å angi momentene som er vektlagt i en
-skjønnsmessig avveining ved rettsanvendelsesskjønn. Forvaltningslovutvalget har foreslått å innføre et slikt krav, slik at kravene samsvarer med
-
-[Side 234]
-
-232
-
-NOU 2023: 11
-
-Kapittel 20
-
-Raskt og riktig
-
-reglene som gjelder for å angi momenter som har
-vært avgjørende for en vurdering av et fritt
-skjønn.45 Om begrunnelsen fremgår det:
-«Utvalget vil fremheve at det sentrale formål
-med begrunnelsen er å forklare sakens utfall
-for parten. For å oppnå det trengs det at
-begrunnelsen nevner de viktigste hensynene
-45
-
-NOU 2019: 5 Ny forvaltningslov, s. 356.
-
-som forvaltningsorganet har lagt vekt på. Her
-er det ingen prinsipiell forskjell mellom vurderingspreget rettsanvendelse og utøving av forvaltningsskjønn.»
-Dette utvalget deler forvaltningslovutvalgets vurdering, og forslår på dette punkt en tilsvarende
-bestemmelse som forvaltningslovutvalget har
-fremmet.
-
-[Side 235]
-
-NOU 2023: 11
-Raskt og riktig
-
-233
-
-Kapittel 21
-
-Kapittel 21
-
-Rammene for å påklage førsteinstansens vedtak
-
-Boks 21.1 Utvalgets forslag
 Utvalget foreslår
-• at klagefristen i alle saker på Navs myndighetsområde skal være tre uker, i tråd med
-forvaltningslovens alminnelige regler
-• at brukere som oppfyller inntektskravene
-etter rettshjelpsloven, kan få dekket kostnader til hjelp med å få vurdert om det er
-grunnlag for å klage
-
-21.1 Innledning
-Oslo Economics peker på at rammevilkårene for å
-klage har betydning for antallet klager. Det fremheves at det er enkelt å sende inn en klage til Nav,
-og at det er få formelle krav til klagen. Det informeres om klagemuligheter til bruker både i vedtaksbrev, på nav.no og i mange tilfeller brukers
-dialog med NAV Kontaktsenter og Nav-kontoret.
-Klagefristen etter folketrygdloven er seks uker1
-og dermed dobbelt så lang som etter forvaltningslovens normalordning.2 Å klage er kostnadsfritt
-og klager løper ingen risiko for å bli pålagt
-omkostningene staten har i forbindelse med
-behandlingen av klagen. Utgangspunktet er også
-at klager som får medhold, har krav på å få dekket
-egne omkostninger (for eksempel til juridisk eller
-sakkyndig bistand).3
-For utvalget reiser dette spørsmål ved om det
-er grunn til å endre rammebetingelsene for å
-klage, for på den måten å begrense antallet klager.
-Retten til å klage utgjør en viktig rettssikkerhetsgaranti. Reglene er utformet for å sikre alle
-brukere, uavhengig av ressurser, en reell mulighet til å få overprøvd forvaltningens vedtak. Generelle innstramminger i klageretten er også lite
-målrettet, og kan også innebære at flere uriktige
-1
-2
-3
-
-Folketrygdloven § 21-12 fjerde ledd.
-Forvaltningsloven § 29.
-Forvaltningsloven § 36.
-
-vedtak blir stående. Som et generelt utgangspunkt er utvalget derfor av den oppfatning at man
-bør være forsiktig med å stramme inn på rammevilkårene for klageretten.
-Mandatet viser eksplisitt til det ikke er forbundet noen kostnader for bruker å klage til NAV
-Klageinstans. Utvalget har derfor vurdert om det
-bør innføres gebyr for å påklage vedtak. Det er
-vanlig i norsk rett at det er kostnadsfritt å klage.
-Et gebyr kan føre til at brukernes økonomiske
-ressurser blir avgjørende for om de får prøvd
-sakene sin gjennom å klage. Særlig innenfor et så
-sentralt område som Nav forvalter, er gebyr for å
-klage etter utvalgets syn ikke et aktuelt virkemiddel.
-Derimot har utvalget funnet grunn til å vurdere nærmere om det er grunn til å opprettholde
-særregelen om klagefristen. Klagefristen etter folketrygdloven er i dag dobbelt så lang som den
-alminnelige klagefristen i forvaltningen. Det gjelder også sammenlignet med fristen som gjelder i
-sammenlignbare saker, for eksempel innenfor
-helse- og omsorgssektoren.
-Et spørsmålet er om det er grunn til å justere
-rammene for behovsprøvd fritt rettsråd i klagesaker etter folketrygdloven § 21-12.4 I dag kan brukere tilkjennes fritt rettsråd i disse sakene hvis
-vedtaket faktisk påklages. Bistand til å vurdere
-om et vedtak skal påklages, dekkes ikke. Ettersom det å klage er gratis, har bruker få hindringer
-for å sende en klage selv om advokaten og bruker
-ser at det ikke er grunnlag for klagen. Dagens
-regulering kan stimulere til unødvendige klager.
-
-21.2 Klagefristen
-21.2.1 Gjeldende rett
-Den alminnelige klagefristen etter forvaltningsloven § 29 er tre uker fra underretningen om vedtaket kom frem til parten. Klagefristen kan «i sær4
-
-Rettshjelpsloven § 11 andre ledd nr. 6.
-
-[Side 236]
-
-234
-
-Kapittel 21
-
-NOU 2023: 11
-Raskt og riktig
-
-lige tilfeller» forlenges av underinstansen eller klageinstansen.5
-Etter folketrygdloven § 21-12 femte ledd er
-fristen for å påklage vedtak etter folketrygdloven
-seks uker.6 For andre typer vedtak på Navs myndighetsområde kan det være fastsatt særskilte klagefrister i den aktuelle særloven. Etter barnetrygdloven og arbeidsmarkedsloven er klagefristen som i folketrygdloven seks uker. Etter kontantstøtteloven, barnelova, forskotteringsloven
-(bidragsforskudd), ektefelleloven (ektefellebidrag) og lønnsgarantiloven gjelder imidlertid forvaltningslovens vanlige treukersfrist. Det gjelder
-altså ulike klagefrister for forskjellige ytelser Nav
-treffer vedtak om.
-Klagefristen var også seks uker etter folketrygdloven av 1966.7 Bakgrunnen for at fristen ble
-satt til seks uker, er ikke nærmere drøftet i forarbeidene, men regelen var en videreføring av gjeldende rett fra folketrygden 1966.
-I utredningen som ligger til grunn for folketrygdloven 1997, ble det foreslått at klagefristen
-skulle endres og følge normalregelen i forvaltningsloven. Utvalget anså det som lite praktisk at
-klagebehandlingen skulle reguleres av to regelverk. Utvalget la til grunn at forvaltningslovens
-regulering garanterte tilstrekkelig rettssikkerhet,
-særlig under henvisning til at det etter forvaltningsloven var adgang til å gi oppreisning for fristoversittelser, og ikke minst at det alltid ville være
-adgang til å fremsette nye krav om fremtidige
-ytelser.8 Departementet valgte imidlertid å videreføre fristen på seks uker.9 Det er denne som gjelder i dag.
-Rettsvirkningen av at en klage er inngitt for sent
-er at den som utgangspunktet skal avvises.10 Brukeren vil da som et utgangspunkt ikke få vurdert
-saken på nytt. Klagen kan allikevel tas under realitetsbehandling innen ett år dersom parten ikke kan
-lastes for å ha oversittet fristen, eller dersom det av
-særlige grunner er rimelig å få klagen prøvd.11
-
-21.2.2 Utvalgets vurderinger
-Det er særlig tre hensyn som gjør seg gjeldende
-når utvalget skal ta stilling til hvilken klagefrist
-som bør gjelde på Navs myndighetsområde.
-5
-
-Forvaltningsloven § 29 fjerde ledd.
-Folketrygdloven § 21-12 femte ledd.
-7
-Folketrygdloven 1966 § 14-7 tredje ledd.
-8
-NOU 1990: 20 – Forenklet folketrygdlov, kapittel 20.
-9
-Ot.prp. nr. 29 (1995–96)
-10
-Forvaltningsloven §§ 33 annet ledd og 34 første ledd.
-11
-Forvaltningsloven § 31.
-6
-
-For det første er det viktig at fristen gir brukeren rom for å områ seg før klagen eventuelt må
-inngis. For flere av ytelsene er regelverket komplisert, og det vil derfor ofte kunne være behov
-for å rådføre seg med andre og eventuelt ta kontakt med en advokat. Dette tilsier at tidsfristen
-ikke må være for kort.
-For det andre er det viktig å sikre at prosessen
-ikke trekker ut i tid. En raskest mulig avklaring er
-positivt både for parten selv og for Nav. Det er ressurskrevende å ha saker i prosess. Dette tilsier at
-fristen bør være så kort at brukerne gis en oppfordring til å handle så raskt som mulig.
-For det tredje mener utvalget at det har en
-verdi for både bruker og Nav at reglene er enhetlige og enkle. Det begrenser sannsynligheten for
-at det skjer feil, noe som igjen er tillitvekkende.
-Basert på disse tre overordnede hensynene
-har Forvaltningslovutvalget foreslått å videreføre
-dagens alminnelige treukersfrist. Forvaltningslovutvalget viser til at dagens regel er godt innarbeidet, og at den gir uttrykk for en god avveining
-mellom de ulike hensynene.12 Samtidig peker
-Forvaltningslovutvalget på at det unntaksvis kan
-det være aktuelt å gi særregler, og da særlig der
-sakene er særlig kompliserte eller har særlig stor
-betydning for parten.
-For dette utvalget blir spørsmålet om det foreligger tilstrekkelig gode grunner til å ha en annen
-klagefrist på folketrygdlovens område. Dagens
-regel er i stor grad historisk betinget.
-Siden seksukersfristen ble fastsatt, både opprinnelig og i 1997, har det skjedd vesentlige
-endringer i samfunnet. Muligheten for å klage
-digitalt eller gjennom andre kommunikasjonsformer gjør det lettere og raskere å klage. Det tilsier
-etter utvalgets syn at det bør være gode grunner
-for å opprettholde en lenger frist enn det som gjelder på andre områder.
-I referansegruppemøte har brukerorganisasjonene gitt uttrykk for at de mener eksisterende klagefrist bør opprettholdes. I Agenda Kaupangs rapport om brukeropplevelser i klage- og ankesystemet er det også flere som gir uttrykk for at
-klagefristen bør forlenges. Det vises til at det
-fremstår som urimelig at klage må sendes inn
-innen seks uker, når forvaltningen selv bruker
-måneder på å avgjøre sakene.13 Utvalget har forståelse for at mange opplever seks uker som for
-kort tid, men utvalget er ikke enig i at lang saksbehandlingstid i forvaltningen er et godt argu12
-13
-
-NOU 2019: 5 Ny forvaltningslov, s. 384.
-Agenda Kaupang (2022) Brukeropplevelser fra klage- og
-ankesystemet i NAV og Trygderetten, s. 24.
-
-[Side 237]
-
-NOU 2023: 11
-Raskt og riktig
-
-ment for lang klagefrist. Mens forvaltningen
-behandler mange hundre tusen saker, har partene
-bare ansvar for sin ene sak. Utvalget foreslår for
-øvrig en rekke tiltak som skal påskynde prosessen, og i et slikt perspektiv bør det legges opp til
-at også brukerne pålegges et visst ansvar for å få
-ned den samlede tidsbruken i systemet.
-Utvalget legger også vekt på at minstekravene
-til en klage ikke er spesielt strenge, og at brukerne
-ikke trenger å sende inn alle relevante opplysninger i selve klagen.
-Urimelige utslag av en kortere klagefrist
-avdempes dessuten ved at loven åpner for at fristen i særlige tilfeller kan forlenges, og at det kan
-gis oppreisning for fristoversittelser.14 I mange
-saker vil også bruker kunne søke på nytt, om enn
-med nytt virkningstidspunkt.
-Etter en samlet vurdering mener utvalget at
-det ikke er tilstrekkelige grunner for å ha en
-annen klagefrist på dette området enn den alminnelige klagefristen i forvaltningen. Utvalget foreslår derfor å endre folketrygdloven § 21-12 femte
-ledd og barnetrygdloven § 15 andre ledd. Klagefristen vil da følge den alminnelige regelen i forvaltningsloven, og være på tre uker. Arbeidsmarkedsloven § 17 andre ledd foreslås endret slik at
-ordlyden «seks uker» erstattes med «tre uker».
-
-21.3 Rettshjelp til å vurdere klage
-21.3.1 Innledning
-Brukere som velger å la seg representere av advokat eller annen fullmektig, må selv dekke utgiftene til slik bistand.15 Etter rettshjelpsloven § 11
-kan det imidlertid innvilges fritt rettsråd i klagesaker som reguleres av folketrygdloven § 21-12.16
-Fritt rettsråd i klagesak er behovsprøvd.
-Kostnader ved bistand i klagesak dekkes bare
-dersom en klage blir satt fram. Kostnader ved
-bistand for å få vurdert om det er grunnlag for
-klage, og om vedtaket i så fall skal påklages, dekkes derimot ikke. Dagens ordning med kostnadsfri klage gir insentiv til å levere en klage selv om
-bruker og advokat ser at det er svært liten sannsynlighet for at klagen vil føre frem. Slik utvalget
-ser det, stimulerer altså systemet til unødvendige
-klager.
-14
-
-Forvaltningsloven § 29 fjerde ledd og § 31.
-Retten til å la seg bistå av fullmektig, følger av forvaltningsloven § 12.
-16
-Rettshjelpsloven § 11 andre ledd nr. 6. Muligheten vil
-omfatte klage i alle saker etter folketrygdloven, og klager
-etter andre lover som henviser til folketrygdloven § 21-12.
-15
-
-235
-
-Kapittel 21
-
-Rettshjelpsutvalget identifiserte også denne
-problemstillingen, og viser i sin utredning til at
-dette systemet i seg selv er en årsak til klager. Klager formulert av advokater, men som åpenbart
-ikke vil føre fram, ble også pekt på som et problem blant flere av informantene i SINTEFs gjennomgang av omgjøring etter klager i 2016. Rettshjelpsutvalget viste også til SINTEFs gjennomgang og foreslo at retten til støtte utvides til å
-omfatte vurdering av klage.17
-
-21.3.2 Utvalgets vurderinger
-Det er uheldig når reglene om rettshjelp gir brukerne oppfordring til å klage også i saker der de
-har bedt om rettsråd, og hvor advokatene mener
-at klagen ikke vil føre frem. Dette utvalget er derfor enig med Rettshjelpsutvalget i at ordningen
-bør justeres slik at det kan gis dekning for arbeid
-med å vurdere om et vedtak skal påklages, og
-fremmer forslag til endring i rettshjelpsloven i
-tråd med dette.
-Det kan spørres om en utvidet rettshjelpsordning, som da også dekker kostnader forbundet
-med å vurdere om et vedtak skal påklages, bør
-kombineres med en noe innsnevret rett til å få
-dekket kostnadene ved selve klagen. Dette vil ha
-økonomiske konsekvenser for staten når brukere
-som oppfyller inntektskravene får dekket kostnadene for å få saken sin vurdert. For å bøte noe på
-dette kan det reises spørsmål ved om reglene bør
-være slik at klager som åpenbart ikke kunne føre
-frem, ikke gir krav på kostnadsdekning. Dette vil
-hindre at brukere som får vurdert klagemulighetene sine, oppfordres til å klage selv om klagen
-ikke har utsikter til å nå frem, bare for å få dekket
-advokatkostnader. En slik ordning vil også virke
-prosessdrivende. Utvalget har derfor valgt å ikke
-foreslå et slikt unntak.
-Utvalgets forslag bygger på det samme saklige
-virkeområde som gjeldende ordning, det vil si klagesaker etter folketrygdloven § 21-12. Loven er
-tolket slik at rettshjelpsordningen også omfatter
-vedtak truffet i medhold av andre lover, dersom
-disse lovene henviser til klagebestemmelsen folketrygdloven § 21-12. Det betyr at rettshjelp også
-er aktuelt ved klager over vedtak truffet i medhold av barnetrygdloven, AFP-tilskottsloven og
-lov om supplerande stønad ved kort butid.18
-I Rettshjelpsutvalgets forslag er det foreslått
-en tilstramming av loven, slik at muligheten for
-17
-18
-
-NOU 2020: 5 Likhet for loven, s. 161.
-Se Barnetrygdloven § 16 og lov om supplerande stønad
-§ 22, og AFP- tilskottsloven § 17 andre ledd.
-
-[Side 238]
-
-236
-
-Kapittel 21
-
-NOU 2023: 11
-Raskt og riktig
-
-fritt rettsråd er begrenset «til den som vurderer å
-klage over vedtak etter folketrygdloven». Dermed
-vil klager på vedtak etter barnetrygdloven, AFPtilskottsloven og Lov om supplerande stønad ved
-kort butid ikke falle inn under ordningen. Det
-fremgår av innstillingen at det var et bevisst valg
-fritt rettsråd ikke skulle gis etter dette alterantivet
-for klager over vedtak etter barnetrygdloven.19
-Derimot er ikke forholdet til AFP-tilskuddsloven20
-og lov om supplerande stønad ved kort butid drøftet.21
-
-I referansegruppemøter har utvalget blitt oppfordret til å adressere denne uklarheten. Slik
-utvalget ser det bør rettshjelpsordningen saklige
-virkeområde begrenses uten at det er vurdert opp
-mot de ulike ytelsene, og da særlig saker etter lov
-om supplerande stønad ved kort butid. Utvalget
-antar at disse spørsmålene vil vurderes i forbindelse med oppfølgningen av rettshjelpsutvalgets
-innstilling. Det fremmes derfor forslag til endring
-som beholder dagens saklige virkeområde for fritt
-rettsråd.
-
-19
-
-21
-
-20
-
-NOU 2020: 5 Likhet for loven, s. 161.
-AFP-tilskottsloven § 17 andre ledd.
-
-Lov om supplerande stønad § 22 som gir folketrygdloven
-§ 21-12 anvendelse «så langt dei høver».
-
-[Side 239]
-
-NOU 2023: 11
-Raskt og riktig
-
-237
-
-Kapittel 22
-
-Kapittel 22
-
-Rammene for søksmål for Trygderetten
-Boks 22.1 Utvalgets forslag
-Utvalget foreslår
-• at det fortsatt skal være gebyrfritt å bringe
-saker inn for Trygderetten
-• at gjeldende regler om Trygderettens saklige
-– ved behov bør det vurderes om gebyr er
-virkeområde videreføres
-hensiktsmessig for enkelte sakstyper
-– ved behov bør departementet vurdere om
-• at ankefristen på seks uker videreføres som
-det i forskrift skal gjøres unntak for visse
-søksmålsfrist
-sakstyper
-
-22.1 Innledning
-De fleste vedtak truffet av NAV Klageinstans kan
-ankes inn for Trygderetten. Årlig blir mellom
-3 500-4 000 vedtak påanket. Sammenliknet med forvaltningssaker for domstolen, er dette et svært
-høyt antall. Årsaken er særlig de gunstige vilkårene
-som gjelder for anke til Trygderetten. For bruker
-er det ofte kostnadsfritt å anke til Trygderetten og
-det er mulig å få dekket egne sakskostnader.1
-Videre har bruker i praksis ingen risiko for å måtte
-betale statens kostnader.2 Det skal heller ikke betales rettsgebyr for anke til Trygderetten.3 I tillegg er
-fristen for å anke seks uker.4
-Disse vilkårene fører til at Trygderetten har
-en helt annen situasjon enn de alminnelige domstolene. Mens man i de alminnelige domstolene,
-etter utvalgets syn, burde hatt flere saker om
-utøving av offentlig myndighet, er det i Trygderetten så mange saker at det tidvis oppstår store
-restanser.5
-I mandatet er det pekt på at det ikke gjelder
-regler om siling av hvilke sakstyper som kan
-ankes inn for Trygderetten, og heller ingen krav
-1
-2
-
-3
-4
-5
-
-Rettshjelpsloven § 17 første ledd og trygderettsloven § 29
-første ledd.
-Etter trygderettsloven § 29 andre ledd kan den ankende
-part ilegges sakskostnader, men bestemmelsen benytte
-kun helt unntaksvis. Trygderetten har visstnok bare i ett
-tilfelle pålagt den ankende part å betale saksomkostninger,
-i TRR-2011-1060, jf. Prop. 139 L (2014–2015) s. 88.
-Trygderettsloven § 30.
-Trygderettsloven § 9.
-NOU 2020: 11 Den tredje statsmakt, s. 67.
-
-til ankens verdi. Det er også nevnt at det ikke er
-forbundet med noen kostnad å anke. Utvalget
-anser det derfor som en del av mandatet å vurdere
-om det skal gjøres endringer i rammevilkårene for
-behandling i Trygderetten med det formål å redusere antall saker.
-Utvalget tar her utgangspunkt i forholdsmessighetsprinsippet. Samtidig som rettssikkerhetsgarantiene skjerpes høyere opp i klage- og ankesystemet, må det skje en reduksjon i antallet
-saker, med det formål at sakenes viktighet øker jo
-høyere oppe i systemet man er. Dette tilsier etter
-utvalgets syn at rammevilkårene må skjerpes for
-hvert trinn oppover i klage- og ankesystemet.
-Spørsmålet for utvalget er om de rammene for å
-bringe en sak inn for Trygderetten er forholdsmessige i lys av det nivået sakene da er på, og
-sakenes viktighet. I vurderingen må det tas hensyn til at sakene for Trygderetten allerede har
-vært klagebehandlet én gang i Nav. Det tilsier at
-det må kunne stilles strengere betingelser for å få
-behandlet saken i Trygderetten enn det som gjelder ved klage til NAV Klageinstans. Det er også
-naturlig for utvalget å se hen til rammevilkårene
-for overprøving av klagevedtak på andre ytelsesområder.
-
-22.2 Trygderettens saklige virkeområde
-22.2.1 Innledning
-Trygderettens saklige virkeområde er definert i
-trygderettsloven § 2. Trygderetten behandler vedtak om individuelle rettigheter og plikter etter fol-
-
-[Side 240]
-
-238
-
-Kapittel 22
-
-NOU 2023: 11
-Raskt og riktig
-
-ketrygdloven, barnetrygdloven, lovgivningen om
-krigspensjonering, bestemmelser for supplerende
-pensjonsordninger som er fastsatt ved lov eller vedtak av Stortinget, samordningsloven og særlige lovbestemmelser som fastsetter at saker kan ankes til
-Trygderetten. Vedtakene etter folketrygdloven
-bare kan bringes inn for Trygderetten etter at klageretten er benyttet.6 Det samme gjelder vedtak
-etter for eksempel barnetrygdloven og lov om
-supplerande stønad.7
-Etter folketrygdloven § 21-12 fjerde ledd kan
-departementet gi forskrift som unntar visse typer
-ytelser fra prøving i Trygderetten. Dette er gjort i
-forskrift om unntak fra anke til Trygderetten, som
-unntar noen få vedtakstyper, blant annet vedtak om
-bidrag til spesielle formål etter folketrygdloven § 522, om reduksjon av arbeidsavklaringspenger etter
-folketrygdloven § 11-9 og om tap av retten til å
-praktisere for trygdens regning etter § 25-6.
-De fleste vedtak som treffes av Nav, kan bringes inn for Trygderetten. En betydelig andel vedtak på Navs myndighetsområde, kan ikke påankes. Det gjelder kontantstøtteloven, barnelova,
-forskotteringsloven, ekteskapsloven, arbeidsmarkedsloven, lønnsgarantiloven, NAV- loven, forvaltningsloven og deler av tilleggsstønadsforskriften.
-På den annen side kan Trygderettens saklige
-virkeområde også være utvidet i særlov. Det følger for eksempel av lov om supplerende stønad til
-personar med kort butid i Noreg § 22 at vedtak
-om supplerende stønad også kan ankes inn for
-Trygderetten.
-
-22.2.2 Utvalgets vurderinger
-Utvalget har vurdert om det bør gjøres endringer
-i Trygderettens virkeområde for å redusere antall
-saker og dermed Trygderettens arbeidsbelastning. For utvalget er det viktig at Trygderetten i
-praksis fungerer som en reell domstol og erstatning for tingrettene. Å gå inn for å unnta hele eller
-deler av ulike saksområder fra Trygderettens virkeområde vil bety å gå inn for en reduksjon av
-reell domstolskontroll.
-I en vurdering av om Trygderettens saklige virkeområde bør innsnevres, er det relevant å spørre
-om tingrettenes behandlingsmåte gir noen fordeler
-som veier opp for ulempene ved at Trygderetten
-ikke er en del av systemet. Særlig sett i lys av kostnadene ved å bringe saker inn for tingretten, bør
-fordelene da være forholdsvis betydelige. Utvalget
-har gjennomgått de ulike vedtakstypene som i dag
-
-behandles for Trygderetten, og kan ikke se at noen
-av disse egner seg spesielt godt for tingrettsbehandling. Tingretten fremstår ikke som et bedre
-tvisteløsningsalternativ for brukerne enn Trygderetten. Selv om behandlingsformen i tingretten for
-enkelte sakstyper kan gi bedre bevisgrunnlag,
-blant annet fordi bruker får anledning til å forklare
-seg muntlig, vil kostnadene forbundet med en slik
-sak gjøre at domstolsprøving får liten realitet.
-Utvalget anbefaler derfor ikke at det gjøres
-endringer i Trygderettens saklige virkeområde.
-Hvis det skulle oppstå et reelt behov for å unnta
-visse (nye) sakstyper fra Trygderettens virkeområde, antar utvalget at det kan reguleres i forskrift,
-for eksempel i medhold av folketrygdloven § 2112 fjerde ledd. For øvrig kan et behov for å
-begrense antallet saker, eller heve terskelen for å
-bringe saken til Trygderetten, møtes med et krav
-om at bruker må betale helt eller delvis for
-behandlingen av enkelte sakstyper.
-
-22.3 Rettsgebyr
-22.3.1 Innledning
-Det er ingen gebyrer for å få behandlet saker i
-Trygderetten.8 Dette gjelder uavhengig av om retten blir satt med fagkyndige medlemmer. Til sammenlikning utløser det et rettsgebyr å bringe
-saker inn for overprøving for en domstol.9 Rettsgebyret fastsettes årlig og er for 2023 1 243 kroner. For saker for forliksrådet er gebyret 1,1 ganger rettsgebyret.10 For behandling av saker i tingretten er inngangsgebyret på fem ganger rettsgebyret, og gebyret øker dersom hovedforhandling
-varer i mer enn en dag. Hvis en part krever retten
-satt med meddommere eller det oppnevnes en
-sakkyndig, må parten i tillegg betale kostnaden
-for dette.11 Den som taper saken, kan pålegges å
-betale rettsgebyret som en del av avgjørelsen om
-sakskostnadene.
-Enkelte sakstyper er unntatt fra rettsgebyr,
-blant annet saker mot Arbeids- og velferdsdirektoratet.12 Det betyr at bruker ikke må betale rettsgebyr dersom vedkommende bringer en kjennelse
-fra Trygderetten inn for lagmannsretten, eller lagmannsrettens dom i slike saker blir anket inn for
-Høyesterett. På sammenliknbare områder som
-8
-9
-10
-
-6
-7
-
-Folketrygdloven § 21-12 sjette ledd.
-Barnetrygdloven § 16 og lov om supplerande stønad § 22.
-
-11
-12
-
-Trygderettsloven § 30.
-Se Rettsgebyrloven § 7 om forliksrådet og § 8 for tingrett,
-lagmannsrett og Høyesterett.
-Rettsgebyrloven § 8.
-Rettsgebyrloven § 2 andre ledd.
-Rettsgebyrloven § 10.
-
-[Side 241]
-
-NOU 2023: 11
-Raskt og riktig
-
-helse- og omsorgssektoren eller sosialsektoren,
-må klagevedtak truffet av statsforvalteren bringes
-inn for de ordinære domstolene, og i disse sakene
-må det betales rettsgebyr.
-Det er ikke opplagt hvorfor det skal betales
-rettsgebyr for saker innenfor helse- og omsorgssektoren, men ikke for Nav-saker. Da trygderettsloven ble vedtatt, ble det vist til at selv «et beskjedent gebyr kan bety en økonomisk belastning for
-en pensjonist eller pensjonssøker og kan i tilfelle
-innebære en faktisk begrensning av den formelle
-ankerett».13 Tilsvarende vil også gjelde for brukere i mange andre saker innenfor helse- og
-omsorgssektoren.
-Spørsmålet om å innføre gebyr for å anke til
-Trygderetten har blitt vurdert flere ganger. Det
-ble blant annet drøftet på 1970-tallet uten at departementet fant å kunne gå inn for det. Begrunnelsen var at man ikke ønsket en utsiling av ankesaker av økonomiske grunner.14
-Spørsmålet kom opp på nytt på 1990-tallet etter
-anbefaling fra Statskonsult og Trygderetten. Trygderetten hadde blant annet vist til en tendens til
-høy ankefrekvens, og at kvaliteten og holdbarheten
-i ankene ville bli bedre om dersom det ble innført
-ankegebyr.15 Departementet valgte heller ikke den
-gangen å innføre en gebyrløsning. Det ble vist til at
-gebyr kunne virke urimelig for den som mener seg
-feil behandlet, og at innkreving av gebyr vil medføre administrativt merarbeid. Departementet tok
-likevel forbehold om å komme tilbake til spørsmålet dersom andre tiltak ikke skulle ha tilfredsstillende virkning på anketilbøyeligheten.
-Gebyr er også omtalt i forbindelse med lovrevisjonen i 2015.16 På det tidspunktet var det imidlertid lave restanser, og departementet valgte derfor å ikke foreslå ankegebyr.
-
-22.3.2 Utvalgets vurderinger
-Utvalget mener at Trygderetten skal være et lavterskeltilbud for brukerne på dette området. Selv et
-mindre gebyr vil bety at enkelte brukere ikke vil
-kunne få prøvd sin sak.
-Så lenge ankebehandling for Trygderetten er
-kostnadsfri, vil brukerne imidlertid ikke ha noen
-økonomiske insentiver til å vurdere om saken er så
-viktig at den må ankes inn for Trygderetten. Tryg13
-
-Ot.prp. nr. 5 (1966–67) Om lov om anke til Trygderetten og
-lov om endringer i lov av 17. juni 1966 om folketrygd og
-andre pensjonsordninger s. 43.
-14
-Ot.prp. nr. 59 (1973–74), s. 5.
-15
-Ot.prp. nr. 25 (1992–93), s. 6.
-16
-Prop.139L (2014–2015), s. 92.
-
-239
-
-Kapittel 22
-
-deretten har ved tidligere vurderinger av dette
-spørsmålet vist til at det i en del saker kan synes
-som om at bruker sender inn en anke mer eller
-mindre automatisk. Et gebyr som dekker deler av
-kostnaden forbundet med saken, vil kunne utløse
-en vurdering hos bruker og begrense antallet
-ugrunnede anker. Utvalget ser derfor på gebyr som
-et egnet virkemiddel for å regulere inngangen av
-ankesaker.
-Utvalget mener at det er relevant å sammenlikne trygderettssakene med saker på andre velferdsytelser og den mulighet som gis for
-domstolsprøving der. Innenfor helse- og omsorgssektoren er utgangspunktet, at klagevedtak bare
-kan bringes inn for de alminnelige domstolene.
-Dette er ytelser som i innhold har lignende betydning for brukerne som mange av ytelsene etter
-folketrygdloven. For domstolsprøving av disse
-sakene skal det betales til dels høye rettsgebyrer,
-og brukerne løper en helt annen risiko for
-omkostningsansvar.17 Sett opp mot dette, fremstår
-ikke et mindre gebyr også på Trygderettens
-område som urimelig.
-Slik utvalget ser det, vil også hensynet til forholdsmessighet i saksbehandlingen være relevant
-her. Jo høyere opp i klage- og ankesystemet man
-er, jo viktigere bør saken være. Dette hensynet
-retter seg både mot verdiene i tvisten og betydningen for brukeren. Resultatet av denne avveiningen, vil være forskjellig for ulike ytelser.
-Samtidig bør det ikke oppstilles krav om gebyr
-som medfører at brukere ikke får en reell mulighet til å få prøvd særlig viktige spørsmål også for
-en domstol. Av den grunn bør man også trekke
-inn i avveiningen hvilke brukergrupper ytelsen
-retter seg mot. Også her vil vurderingen kunne
-være forskjellig for ulike ytelser.
-Utvalget har funnet denne avveiningen vanskelig. Etter utvalgets vurdering er det antakelig
-ingen god løsning å innføre et generelt gebyr for
-behandling i Trygderetten. I stedet må vurderingen gjøres konkret mot de ulike ytelsene på Navs
-myndighetsområde. For sentrale og langvarige
-livsoppholdsytelser, som arbeidsavklaringspenger
-og uføretrygd, mener utvalget det fremstår som
-lite rimelig å innføre gebyr. Dette er ytelser som
-er særlig viktige for brukerne, og denne brukergruppen vil på grunn av manglende tilknytning til
-arbeidslivet, ofte ha begrenset med økonomiske
-ressurser. For ytelser som for eksempel barnetrygd kan avveiningen av hensynene gi et annet
-resultat. Som retthjelpslovutvalget påpekte, er
-barnetrygd vanligvis kurante saker om mindre
-17
-
-Se likevel unntak i rettsgebyrloven § 10.
-
-[Side 242]
-
-240
-
-Kapittel 22
-
-NOU 2023: 11
-Raskt og riktig
-
-beløp.18 Brukergruppen er foreldre generelt, og
-mange av brukerne vil ha tilstrekkelig med ressurser til å betale et mindre gebyr.
-Selv om utvalget altså mener at det er forskjell
-på de ulike ytelsene, og at enkelte ytelser kanskje
-bør bli gjenstand for en gebyrløsning, har utvalget
-under tvil kommet til at det ikke vil anbefale å innføre dette. Utvalget har lagt vekt på at det i denne
-utredningen fremmes en rekke andre forslag som
-skal effektivisere prosessen. De tiltak som foreslås vil, etter utvalgets syn, være tilstrekkelig for
-at Trygderetten kan håndtere ankeinngangen.
-Utvalget har også vektlagt at gebyr har vært
-vurdert og forkastet to ganger tidligere. Selv om
-brukergruppenes økonomi i dag må antas å være
-bedre enn på 1970-tallet, vil selv et lavt gebyr
-kunne medføre en barriere for enkelte brukere.
-Utvalget har sett hen til at Nav har vært utsatt for
-kritikk og negativ medieoppmerksomhet de
-senere årene. I en slik situasjon er det særlig
-betenkelig å innføre økonomiske barrierer for å få
-tilgang til en så viktig rettssikkerhetsgaranti som
-Trygderetten. Dersom utvalgets prognoser slår
-feil, og foreslåtte tiltak ikke gir tilstrekkelig effekt,
-bør departementet vurdere spørsmålet om gebyr
-på nytt.
-
-22.4 Søksmålsfrist
-22.4.1 Innledning
-Fristen for å anke et vedtak inn for Trygderetten
-er seks uker fra det tidspunkt skriftlig underretning om vedtaket, ankeadgang og ankefrist er
-kommet fram til brukeren.19 Fristen har stått uendret siden etableringen av folketrygden og Trygderetten på slutten av 1960- tallet. Regelen er
-begrunnet med hensynet til å få fremskyndet
-ankene, og da departementet i sin tid vurderte
-dette, var spørsmålet om fristen skulle utvides
-snarere enn å kortes ned.20
-Spørsmålet om ankefrist er også omtalt i lovrevisjonen til trygderettsloven i 2015. Det ble i den
-forbindelse foretatt en gjennomgang av ulike problemstillinger som kan oppstå om når fristen
-begynner å løpe, og når og hvordan fristen avbrytes. Spørsmålet om fristen skulle utvides eller kortes ned, ble imidlertid ikke vurdert.21
-18
-
-NOU 2020: 5 Likhet for loven,s. 161.
-Trygderettsloven § 9 første ledd.
-20
-Ot.prp. nr. 5 (1966–67), s. 31
-21
-Prop. 139 L 2014–2015, s. 50
-19
-
-Utvalget foreslår at Trygderetten gis formell
-status som særdomstol, og at brukerne skal fremsette stevning for Trygderetten. I et slikt system
-er det naturlig å omtale fristspørsmålet som et
-spørsmål om søksmålsfrist. Med dagens terminologi er det riktigere å omtale dette som et spørsmål om ankefrist. Realitetene er imidlertid de
-samme, og de hensyn som gjør seg gjeldende,
-påvirkes ikke av Trygderettens formelle status.
-Det følger av Trygderettsloven § 9 andre ledd
-at Trygderetten og ankemotparten kan forlenge
-ankefristen dersom «særlige grunner» foreligger.
-I praksis har dette vilkåret ikke vært praktisert
-særlig strengt.22
-
-22.4.2 Utvalgets vurderinger
-Ettersom utvalget foreslår at Trygderetten skal bli
-en formell domstol, oppstår også spørsmålet om
-reglene om fristforlengelser bør endres.
-Hensynet til effektivitet tilsier at reglene utformes slik at de bidrar til bringe prosessene fremover, og at prosessene ikke trekker unødig ut i tid.
-At saken får sin endelige avklaring innen rimelig
-tid, er et gode både for brukeren, Nav og samfunnet. Det tilsier at fristen bør være så kort at brukerne får en oppfordring til å handle så raskt som
-mulig.
-Samtidig bør ikke fristen være så kort at parten ikke rekker å områ seg. Fristen må ikke forhindre at brukeren får reell mulighet til å benytte
-sine prosessuelle rettigheter.
-Fristens lengde bør ses i sammenheng med
-formkravene som stilles til å få en sak behandlet
-av Trygderetten. Etter utvalgets forslag vil kravene være de samme som gjelder for stevning til
-domstolen. Disse kravene er strengere enn det
-som gjelder for fremsettelse av en klage i forvaltningen. I de fleste sakene vil brukere også engasjere advokat. Når en prosesshandling krever
-bistand fra tredjepart, er også det et hensyn som
-taler for en noe lengre frist enn det som gjelder i
-forvaltningssporet.
-Utvalget legger til grunn at dagens seksukersfrist er godt innarbeidet og at den på en god måte
-tar hensyn til brukerens behov for undersøkelser,
-samt for Navs og Trygderettens behov for rask
-avklaring. Utvalget foreslår derfor at fristen på
-seks uker som i dag gjelder for anker, beholdes
-som en søksmålsfrist.
-22
-
-Jf. for eksempel TRR-2021-3679.
-
-[Side 243]
-
-Del VIII
-Tiltak for å bedre styring og forvaltningsutvikling
-i Nav og Trygderetten
-
-[Side 244]
-
-[Side 245]
-
-NOU 2023: 11
-Raskt og riktig
-
-243
-
-Kapittel 23
-
-Kapittel 23
-
-Styring, organisering og ledelse i Nav og Trygderetten
-Boks 23.1 Utvalgets forslag
-Utvalget foreslår
-– å sikre bedre samhandling mellom veile• at departementet og Nav ser styring av saksder og saksbehandler for arbeids- og helbehandlingstiden til førstegangsvedtaket og
-seytelser
-de ulike delene av klage- og ankeprosessen
-– å bedre brukers muligheter for rask
-mer i sammenheng, samt øker styringsfokus
-avklaring av spørsmål
-mot kvalitet i saksbehandlingen
-• at styring av Trygderetten overføres til Jus• at det lovfestes et krav til internkontroll i Nav
-tis- og beredskapsdepartementet/ Domstolsog at Nav utvikler et helhetlig kvalitetssysadministrasjonen
-tem for bedre oppfølging av kvalitetsavvik
-• at det etableres et restanseprosjekt for Tryg• at Nav iverksetter tiltak for å øke tilliten fra
-deretten administrativt underlagt Trygderetbrukerne ved
-ten
-
-23.1 Styring av Nav
-23.1.1 Innledning
-Utvalget stiller spørsmål ved om departementet i
-sin styring av direktoratet har funnet en god
-balanse mellom kvalitet og effektivitet. Utvalget
-mener det har vært et høyt fokus på tidsfristene
-for førstegangsvedtaket, og at dette har hatt to
-utilsiktede virkninger.
-For det første er det grunn til å tro at tids- eller
-vedtakspress har påvirket kvaliteten i saksbehandlingen negativt. For å oppfylle forventninger
-til produksjon og tidsfrister, har saksbehandlere
-truffet vedtak uten å gjennomføre nødvendige
-saksbehandlingsskritt.
-For det andre synes det å ha skjedd tilpasninger, slik at Nav har prioritert de faser av prosessen som de måles på, til uheldig fortrengsel for
-faser som ikke måles på samme måte. Etter utvalgets syn bør mål- og resultatstyringen gjennomføres slik at den gir insentiver til både å holde høy
-produktivitet, og et ønsket kvalitetsnivå i saksbehandlingen. I dette kapitelet vurderer utvalget
-aktuelle styringstiltak. Utvalget mener tiltakene
-vil gi insentiver til både bedre effektivtet og kvalitet i saksbehandlingen i Nav. Dette vil øke tilliten
-til Nav, og dermed bidra til å redusere antallet
-klager.
-
-23.1.2 Styringens betydning for lang
-saksbehandlingstid
-I tildelingsbrevet til direktoratet har departementet de senere årene hatt et styringsparameter
-med krav om gjennomsnittlig tidsfrist frem til
-første vedtak for de ulike ytelsesområdene. I
-hovedsak har Nav klart å oppfylle forvetningene
-til gjennomsnittlig saksbehandlingstid. Resultatene fra 2021 viser at gjennomsnittlig saksbehandlingstid, frem til førstegangsvedtak for alle
-ytelser, var om lag 31 dager.
-Det er et spørsmål om disse fristene har fått
-utilsiktede virkninger for andre deler av klageog ankeprosessen, ved at saksbehandling frem
-til første vedtak blir prioritert. Det er ikke satt tilsvarende frister til klage- og ankeprosessen.
-Direktoratet er likevel bedt om å rapportere på
-gjennomsnittlig saksbehandlingstid. Videre er
-det satt krav i mål- og disponeringsbrevene fra
-direktoratet til etaten vedrørende saksbehandlingstiden i de ulike fasene i prosessen. Riksrevisjonen har funnet at det er lite oppmerksomhet
-på den totale saksbehandlingstiden i klage- og
-ankesaksprosessen. Dermed er det også lite oppmerksomhet på hvor lenge en bruker må vente
-på svar på sin sak.1
-1
-
-Riksrevisjonen Dokument 3:8 (2020–2021), s. 8.
-
-[Side 246]
-
-244
-
-Kapittel 23
-
-NOU 2023: 11
-Raskt og riktig
-
-Gjennomsnittlig saksbehandlingstid i førsteinstansens behandling av klager er 98 dager i 2021.
-Klagesaksbehandlingen i NAV Klageinstans tok i
-gjennomsnitt 140 dager, mens klageinstansen i
-gjennomsnitt brukte 222 dager på å forberede
-ankesak for Trygderetten. Utvalgets undersøkelser viser videre at saksbehandlingstiden i disse
-fasene i all hovedsak består av liggetid.2 Slik styringsparameterne fra departementet er formulert,
-får Nav insentiver til å prioritere førstegangsvedtakene, og styringen gir lite oppmerksomhet på den
-totale saksbehandlingstiden for klager og anker.
-Selv om det er viktig å gi brukerne som søker om
-livsoppholdsytelse rask avklaring, kan ikke dette
-behovet legitimere de svært lange saksbehandlingstidene. Agenda Kaupang skriver i sin rapport
-at det oppleves som krevende for den som klager
-å gå så lenge uten en avgjørelse, og en avklaring
-på hva som skjer videre. For mange oppleves det
-som at «livet blir satt på vent» i tiden det tar å
-avklare saken. De skriver videre at for flere av
-informantene har ventetiden også fått store økonomiske konsekvenser.3
-Utvalget anbefaler at departementet og Nav i
-fremtiden ser styring av førstegangsvedtaket og
-de ulike delene av klage- og ankeprosessen i sammenheng. Dersom det oppstilles styringsparametere knyttet til bestemte tidsfrister for en del av
-prosessen, er det viktig at dette følger opp med
-frister av samme karakter for øvrige faser av prosessen. Videre må det legges større vekt på hvor
-lenge saken allerede har vært i systemet, det vil si
-hvor lenge brukeren har ventet på avklaring av sin
-sak. Det betyr ikke at alle fristene i prosessen må
-være like lange.
-Utvalget registrer at styringssignalene i tildelingsbrevet til Arbeids- og velferdsdirektoratet for
-2023 er endret sammenliknet med brevene fra tidligere år.4 Styringsparameterne, med krav til saksbehandlingstid for de ulike ytelsene, er endret til
-«Effektiviteten i forvaltningen av ytelsene skal
-bedres». Utvalget mener at dette er riktig vei å gå
-for å få en samlet oversikt og styring av tidsbruken i Nav fra søknad til klager og anker.
-Samtidig vil utvalget påpeke at den nye styringsparameteren (samlet effektivitet) kan være
-vanskeligere å måle enn de tidligere styringsparameterne (saksbehandlingstid). For å øke effektivi2
-
-3
-4
-
-Oslo Economics (2022), Saksflyt i klage- og ankesaker i
-NAV og Trygderetten, s. 35. Analysen omfatter arbeidsavklaringspenger og uføretrygd.
-Agenda Kaupang (2022), Brukeropplevelser fra klage og
-ankesystemet i NAV og Trygderetten, s. 22-23.
-Tildelingsbrev til Arbeids- og velferdsdirektoratet for 2023.
-
-teten og få ned tidsbruken i saksbehandlingen av
-klager og anker, anbefaler utvalget at tidsbruken
-for klager og anke inngår i målingen av parameteren, på lik linje med tidsbruken knyttet til førstegangsvedtakene. Utvalget vurderer at endringen i
-styringsparameteren kan gi insentiver til å oppnå
-kortere saksbehandlingstider i klage- og ankesystemet i Nav enn tilfellet er i dag. Dette er effektivt for Nav, og en viktig del av rettsikkerheten for
-den enkelte bruker.
-
-23.1.3 Styringens betydning for kvaliteten i
-førstegangsvedtaket
-Utvalget legger til grunn at den høye omgjøringsprosenten i klage- og ankesaker må sees i sammenheng med at det treffes for mange vedtak
-med feil resultat i førsteinstans. Mange av disse
-feilene skyldes at Nav ikke har tilstrekkelige opplysninger når vedtaket treffes. Slik utvalget ser
-det, har departementets styring lagt et betydelig
-press på Nav i retning av effektivitet og saksbehandlingstid frem til første vedtak.
-SINTEF la til grunn i sin analyse fra 2016 at det
-er vanskelig å oppfylle kravene til saksbehandlingstid dersom Nav skal gjennomføre flere runder med
-mangelbrev og dokumentasjonsinnhenting:5
-«På spørsmål om hvordan de opplever hverdagen sin som saksbehandler, og forventningene
-om at de skal fatte korrekte vedtak innen normert tid, ga flere uttrykk for frustrasjon, på
-tvers av saksområde. Kjernen er at det kan
-være utfordrende å balansere hensynet til
-effektivitet og kvalitet i saksbehandlingen.
-Mye handler om hvor langt man skal utrede en
-sak og vente på at all dokumentasjon foreligger.»
-Oslo Economics finner at et høyt «vedtakspress»,
-det vil si forventninger til hvor mange vedtak hver
-saksbehandler skal levere innen en gitt tidsramme, trolig er en medvirkende årsak til at det i
-en del saker ikke utredes grundig nok.6 Dette er
-et inntrykk utvalget har fått forsterket gjennom
-samtaler med referansegruppen og undersøkelser
-utvalget selv har gjennomført.
-Tidsfristene for søknadsbehandling er viktig
-for at brukeren skal unngå å stå uten livsoppholdytelse, eller andre viktige ytelser, men behovet
-5
-6
-
-SINTEF (2016), Omgjøring av vedtak i Nav og Trygderetten, s. 88.
-Oslo Economics (2022), Drivere for klager og anker i Nav
-og Trygderetten, s. 75.
+
+- at saker i Trygderetten skal fordeles etter de samme prinsippene som gjelder for fordeling av saker i tingretten og lagmannsretten
+
+  - fordelingen skal baseres på saklige og objektive kriterier som tilfeldighet, kompetanse eller erfaring, under hensyntagen til en rimelig arbeidsfordeling mellom dommerne og en effektiv bruk av domstolenes ressurser
+
+- at Trygderetten som hovedregel setter rett med én juridisk kyndig dommer
+
+- at Trygderetten i tillegg setter rett med medisinsk kyndig og/eller attføringskyndig dommer når hensynet til forsvarlig behandling av den konkrete saken tilsier det
+
+  - avgjørelse om rettens sammensetning treffes av den dommer som forbereder saken (administrator)
+
+- at Trygderettens avgjørelser skjer i forskjellige former, og at det skal få betydning for ankemulighetene
+
+  - avgjørelse av de krav saken gjelder, skjer ved dom, og at dommen skal kunne ankes etter tvistelovens regler om anke over dom
+
+  - avgjørelse om å avvise eller gjenoppta en sak skjer ved kjennelse, og at kjennelsen skal kunne ankes etter tvistelovens regler om anke over kjennelse
+
+  - alle andre avgjørelser skjer ved beslutning, og at beslutningene ikke skal kunne påankes særskilt
+
+- at Trygderetten må tilpasse begrunnelsen av dommer og kjennelser til sakens karakter
+
+  - dommer og kjennelser skal begrunnes på samme måte som i de alminnelige domstolene
+
+  - hvis Trygderetten finner at resultatet i saken er åpenbart, kan Trygderetten gi en forenklet begrunnelse
+
+  - Trygderetten skal alltid kunne sitere fra underliggende instansers vedtak og andre dokumenter i saken, så langt Trygderetten finner det hensiktsmessig
+
+  - dommeren i den enkelte sak skal vurdere selv hvilken form og hvilket omfang begrunnelsen skal ha, så lenge lovens vilkår er oppfylt
+
+- Trygderettens saker skal som hovedregel være avgjort innen seks måneder
+
+Rammeslutt
+
+## Styring av sakstildeling
+
+### Innledning
+
+Hvordan sakene skal fordeles i Trygderetten, er et praktisk og prinsipielt viktig spørsmål. Det har betydning for ressursutnyttelse og kompetansebruken, og det har en side til organets uavhengighet og brukernes tillit til systemet.
+
+Sakene i Trygderetten tildeles etter et tilfeldighetsprinsipp.[^622] Prinsippet ble lovfestet i 2016, og i forarbeidene er det forutsatt at innholdet svarer til kravene til tilfeldig fordeling som gjelder i de alminnelige domstolene.[^623] For de alminnelige domstolene er imidlertid prinsippet ulovfestet.
+
+Det har over tid blitt diskutert om hvor langt tilfeldighetsprinsippet rekker, herunder hvilke forhold som kan begrunne unntak. Spørsmålet er grundig drøftet i Domstolkommisjonens utredning fra 2020.[^624] Det er illustrerende at Høyesterett i et høringssvar til forslag om endringer i domstolloven i 2016 uttalte at det bare var i Høyesterett at det gjaldt et tilfeldighetsprinsipp, og ikke tingrettene og lagmannsrettene.
+
+Domstolkommisjonen har foreslått en lovfesting av det ulovfestede tilfeldighetsprinsippet som gjelder for domstolene i dag. Det går ut på at saksfordelingen ikke skal kunne påvirke utfallet av en sak, og at fordelingen skal baseres på saklige og objektive kriterier som tilfeldighet, særskilt fagkunnskap, kompetanse eller erfaring. Det skal legges til rette for en rimelig arbeidsfordeling mellom dommerne og en effektiv bruk av domstolenes ressurser. Fordeling av en sak som allerede er tildelt en dommer, skal begrunnes skriftlig når dommeren motsetter seg omfordeling.[^625]
+
+Praksis i Trygderetten har i hovedsak vært at sakene tildeles tilfeldig. Det gjelder både mellom avdelinger og mellom administratorer og fagkyndige medlemmer. I de senere årene har det blitt gjennomført restansenedbyggingsprosjekter der rettsmedlemmer har blitt plukket ut til å jobbe med bestemte sakstyper. Formålet har vært å få avgjort sakene mest mulig effektivt.
+
+Fordeling av saker er viktig for ansvarsforholdene, og har en side til Trygderettens veiledningsplikt. Når ankemotparten oversender en anke til Trygderetten, blir saken tatt i mot i en administrativ enhet i Trygderetten, som får ansvar for saken før den er tas opp til behandling. Den administrative enheten håndterer eventuell kontakt med bruker og ulike deler av Nav. Det drives imidlertid ingen aktiv saksstyring, og saken blir i praksis liggende – gjerne i mange måneder – til den plukkes opp av den som skal avgjøre saken. Agenda Kaupang har i sin undersøkelse funnet at mange brukere opplever at det er vanskelig å komme i kontakt med Trygderetten for å få svar på spørsmål, og at de får lite informasjon om hva som skjer med saken.[^626]
+
+I de alminnelige domstolene er dette annerledes. Der tildeles saken en dommer nokså umiddelbart etter at saken er kommet inn. Dommeren har ansvar for å drive aktiv saksstyring.[^627] I tingrettene er det vanligvis samme dommer som forbereder og avgjør saken. I lagmannsretten er det også en dommer som har ansvar for saksforberedelsen, men det er vanlig at det er tre andre dommere som gjennomfører forhandlingen og avsier dom. Uansett er det til enhver tid en dommer med ansvar for saksstyring, og partene er som regel kjent med det.
+
+### Utvalgets vurderinger
+
+Sakene i Trygderetten synes ikke å bli styrt like aktivt som sakene i de alminnelige domstolene. Mens Trygderetten har ansvar for sakens opplysning og kan prøve alle sider av saken, er utgangspunktet i domstolene at det er partene som har ansvaret for bevisføring, og at retten må forholde seg til partenes anførsler (disposisjonsprinsippet).[^628] Likevel opptrer domstolen langt mer aktivt i sin saksstyring.
+
+Etter utvalgets syn er den måten saker fordeles og styres i domstolen på, egnet til å sikre fremdrift, forutsigbarhet og tydelige ansvarslinjer. Dette gjelder helt fra saken kommer inn, til den er avgjort. Spørsmålet er derfor om og i hvilken grad Trygderetten bør operere på samme måte.
+
+Slik utvalget ser det, er det klart at en viss, bevisst styring av saksporteføljen er viktig for effektiviteten i et organ som skal produsere en betydelig mengde avgjørelser, slik som Trygderetten. Det tilsier at sakene ikke fordeles helt tilfeldig, men at det tas hensyn til en del praktiske forhold.
+
+Etter utvalgets syn er det effektivt om en begrenset gruppe dommere i en overgangsfase håndterer en bestemt sakstype, slik at restansene ikke hoper seg opp. I en situasjon med stor generell saksinngang kan det være effektivt å prioritere sakene som krever minst saksforberedelse og behandlingstid. Et strengt tilfeldighetsprinsipp kombinert med et vanlig køsystem begrenser muligheten for slik effektivisering.
+
+Utvalget mener at det tilfeldighetsprinsippet som gjelder for de alminnelige domstolene, slik det kommer til uttrykk i Domstolkommisjonens forslag, vil gi en god regulering av sakstildeling også i Trygderetten.[^629] Det er vanskelig å se hvorfor det skulle være behov for en strengere regel i Trygderetten enn i de alminnelige domstolene. Domstolkommisjonens anbefaling om noe mer spesialisering i de alminnelige domstolene er også et uttrykk for at hensynet til tilfeldighet av og til må vike for praktiske hensyn som gir en mer effektiv og betryggende behandling.
+
+Videre er det viktig at tilfeldighetsprinsippet ikke er til hinder for effektiviserende tiltak. Dette gjelder særlig i perioder med stor saksinngang. Utvalget mener at det bør fremgå av loven hvilke hensyn som er relevante for vurderingen av hvordan saker skal fordeles, slik Domstolkommisjonen har foreslått.
+
+Utvalget vil foreslå at loven gir uttrykk for at tildeling i Trygderetten skal følge de alminnelige reglene som gjelder for domstolen.
+
+Fordelingen av saken bør skje så raskt som mulig etter at den er kommet inn til Trygderetten. Den dommeren som får ansvar for saken, skal sørge for at Nav pålegges å levere tilsvar i saken. Deretter skal dommeren sørge for at saken styres aktivt, og at partene veiledes etter behov.[^630] Som utgangspunkt bør dette være den dommeren som også til slutt skal avgjøre saken, enten alene eller sammen med fagkyndige meddommere. Denne typen saksstyring vil etter utvalgets syn gjøre det mulig å avgjøre sakene innen en eventuell lovfastsatt frist, slik utvalget vil gå inn for.
+
+## Trygderettens sammensetning i den enkelte sak
+
+### Innledning
+
+Hovedregelen i Trygderetten er at retten i en ankebehandling settes med to rettsmedlemmer. Administrator kan ikke avsi kjennelser alene, men kan treffe enkelte prosessledende beslutninger. Minst én av de to rettsmedlemmene skal være juridisk kyndig. Utvalget har fått opplyst at retten settes med to juridisk kyndige dommere i om lag 40 prosent av sakene. Loven åpner også opp for at retten kan settes med tre eller fem medlemmer. I praksis settes rett med tre medlemmer når det er behov for mer enn ett fagkyndig medlem. Det skjer i en fjerdedel av sakene. Praksis de senere årene har vært at retten rent unntaksvis settes med fem medlemmer.
+
+For å redusere ressursbruken i den enkelte sak, og dermed skape høyere produksjon, er det nærliggende å spørre om hovedregelen bør være at retten settes med kun ett juridisk kyndig medlem, og at det deretter kan trekkes inn fagkyndige etter behov.
+
+Generelt har Trygderetten de senere årene fått gradvis flere ankesaker knyttet til helserelaterte ytelser, og de utgjør en stadig høyere andel av porteføljen. Det betyr at andel saker som krever fagkyndig kompetanse i tillegg til juridisk kompetanse, har vært økende. I Trygderettens årsrapport for 2021 er det oppgitt at nærmere 60 prosent av ankesakene gjaldt arbeidsavklaringspenger, yrkesskade og uføretrygd.[^631] I ankesaker som gjelder rett til uføretrygd og arbeidsavklaringspenger, settes rett ofte med tre medlemmer. Statistikken over bruk av medisinsk og attføringskyndig medlem viser en viss økning de siste årene.
+
+I møter med Trygderetten har utvalget fått opplyst at behovet for og tilgangen på fagkyndige medlemmer de senere årene har virket begrensende på produksjonen. Utvalget mener det er betimelig å spørre om det er nødvendig å bruke sakkyndighet i så mange saker som i dag.
+
+### Gjeldende rett
+
+Det følger av trygderettsloven § 7 første ledd at retten settes med to medlemmer i den enkelte sak, hvis ikke annet er bestemt. Etter § 7 annet ledd skal rett likevel settes med tre medlemmer når en av fire grunner foreligger: 1)sakens art tilsier at retten i tillegg settes med et juridisk kyndig medlem, et medisinsk kyndig medlem eller et attføringskyndig medlem, 2) når retten opprinnelig er satt med to medlemmer, men det viser seg at det ikke er enighet om utfallet av saken, 3) når saken reiser vanskelige retts- eller bevisspørsmål, eller 4) når Trygderettens leder bestemmer det.
+
+Opprinnelig bestemte trygderettsloven at rett skulle settes med tre eller fem medlemmer, og henholdsvis en og to av disse skulle være legmenn. Ved en lovendring i 1972 kunne saker som ikke reiste vesentlige tvilsspørsmål, likevel behandles uten legmenn, med tre faste medlemmer, eventuelt med to faste medlemmer dersom utfallet av ankebehandlingen ble funnet utvilsomt.[^632] Hovedregelen om to medlemmer kom inn i loven i 1997.[^633] Det ble åpnet for å sette rett med tre medlemmer blant annet i saker hvor både attføringskyndig og medisinsk kyndig medlem burde delta. Videre skulle det den gang være tre medlemmer i saker som ble avgjort på forenklet måte, dvs. uten grunngiving og ved uenighet om avgjørelsen. Lovendringen var begrunnet med effektivitetshensyn, og man fant at dette ville sikre rimelige krav til rettssikkerhet for brukerne.
+
+Siden 1997 har det fulgt av trygderettsloven § 7 tredje ledd at Trygderetten kan settes med fem medlemmer når avgjørelsen kan bli bestemmende for praksis på et saksområde. Dette vil være aktuelt i saker prinsipiell betydning. Det er Trygderettens leder som avgjør om saken skal settes med fem medlemmer. Alternativet har vært relativt lite brukt.
+
+Kravet i § 7 om at rett skal settes med fagkyndige medlemmer når «sakens art» tilsier det, reiser spørsmål om det er sakstypen som sådan eller behovet for fagkyndighet i den konkrete saken som er avgjørende. I praksis ser det ut til at sakstypen ofte blir avgjørende.
+
+Det kan også reises spørsmål om i hvilken grad domstolene kan overprøve bruken av fagkyndighet, og om rettens sammensetning kan utgjøre en saksbehandlingsfeil. Flere lagmannsrettsavgjørelser synes å bygge på en slik oppfatning.[^634] Lagmannsretten er imidlertid forsiktig med å overprøve Trygderettens egne vurderinger.
+
+### Utvalgets vurderinger
+
+Av hensyn til Trygderettens effektivitet mener utvalget at det bør vurderes en hovedregel om at retten settes med én dommer som skal være juridisk kyndig.
+
+For utvalget er det sentralt å vurdere hvilke besparelser en slik endring vil kunne gi. Det er ikke aktuelt å foreslå dette dersom saken tilsier at retten settes med medisinsk og/eller attføringskyndig medlem. En slik endring har først og fremst betydning i saker der det i dag er to juridisk kyndige medlemmer.
+
+I dag settes rett med to juridisk kyndige medlemmer i om lag 2 000 saker, og det vil være mindre arbeid for den som ikke er administrator.
+
+Utvalget mener at det ikke vil gå ut over kvaliteten på avgjørelsene dersom det innføres en hovedregel med en dommer. Utvalget mener at de juridisk dommerne er godt kvalifisert til å avgjøre sakene alene. Utvalget viser til at saker i tingretten i all hovedsak avgjøres av én dommer. Utvalget vurderer at det er forsvarlig at det samme blir hovedregelen i Trygderetten.
+
+Ordningen med bruk av rettsfullmektiger i Trygderetten er parallell til dommerfullmektigeordningen i tingretten. På samme måte som for dommerfullmektiger må det forventes at disse gis forsvarlig opplæring og at tildeling av saker hensyntar kompetansenivå.
+
+Det er også relevant at Trygderetten har medisinsk kyndig og attføringskyndig kompetanse og at sakene har vært utredet og behandlet i Nav to ganger før de kommer til Trygderetten. Samtidig er det trolig ikke nødvendig med fagkyndighet i alle saker som gjelder helserelaterte ytelser. Når saken behandles i Trygderetten, vil det normalt allerede foreligge sakkyndige uttalelser. Erfarne juridiske medlemmer i Trygderetten vil kunne avgjøre klare saker basert på de sakkyndige uttalelser som foreligger i saken.
+
+Det er ikke opplagt for utvalget om det er sakstypens eller den konkrete sakens art som etter gjeldende rett er avgjørende for bruk av fagkyndig medlem. Utvalgets mener at det bør være konkrete forhold ved den aktuelle saken, og ikke sakstypen som sådan, som begrunner fagkyndighet. Utvalget mener at en tilsvarende bestemmelse som tvisteloven § 9-12 (2), er aktuell på dette området. Retten skal ifølge denne bestemmelsen settes med fagkyndig «om hensynet til forsvarlig behandling av saken tilsier det». Utvalget mener at bruk av fagkyndig meddommere bør begrenses på tilsvarende måte i Trygderetten. Utvalget vil fremme forslag i tråd med dette, samt en hovedregel om at retten settes med en dommer som skal være juridisk kyndig.
+
+## Trygderettens avgjørelsesformer
+
+### Innledning
+
+Trygderettens avgjørelser av krav som er tvistegjenstand, og avgjørelser om avvisning, tilleggskjennelse og gjenopptak, skal i dag treffes i kjennelses form.[^635] Andre avgjørelser om saksbehandlingen, herunder avgjørelser om å heve en sak som bortfaller uten realitetsavgjørelse, treffes ved beslutning.[^636]
+
+Avgjørelsesformen har betydning for hvilke krav som stilles til begrunnelsen, og hvilken adgang partene har til å få overprøvd avgjørelsen. Trygderettslovens krav til skriftlige begrunnelser gjelder bare for kjennelser.[^637] Det er bare kjennelser som kan bringes inn for lagmannsretten.[^638] Formelt er Trygderetten et forvaltningsorgan, og alle avgjørelser Trygderetten treffer, er forvaltningsavgjørelser. Siden forvaltningsloven ikke gjelder for saksbehandling etter trygderettsloven, treffer Trygderetten ikke enkeltvedtak.[^639]
+
+Trygderettens beslutninger er prosessledende avgjørelser og ikke selvstendige vedtak. Det gjelder i utgangspunktet ingen formkrav for beslutningene, og de kan ikke påklages eller danne grunnlag for selvstendig søksmål. De kan imidlertid begjæres omgjort, og rettens leder har adgang til å ta en omgjøringsanomdning til følge.[^640] Retten kan også omgjøre en beslutning av eget tiltak. Når Trygderetten har avgjort saken ved kjennelse, kan en beslutning om saksbehandlingen danne grunnlag for en anførsel om saksbehandlingsfeil som kan føre til ugyldighet. En eventuell saksbehandlingsfeil kan også gi grunnlag for gjenopptak.[^641]
+
+### Utvalgets vurderinger
+
+Det er gode grunner til å stille ulike krav til forskjellige avgjørelsestyper. Noen avgjørelser har større betydning enn andre, og de bør da ha strengere krav og en videre klage- og søksmålsadgang. For eksempel bør krav om å få en livsoppholdsytelse behandles grundigere enn prosessledende avgjørelser. Det er ikke alltid rimelig at en part skal kunne ta ut søksmål om alle avgjørelser som treffes, når det som reelt sett betyr noe, er avgjørelsen av det underliggende kravet.
+
+Utvalget mener at trygderettsloven fortsatt bør regulere Trygderettens ulike avgjørelser på forskjellige måter. Siden utvalget foreslår at Trygderetten skal gis formell status som særdomstol, er det imidlertid grunn til å vurdere på nytt hvilken form som skal gjelde for de ulike avgjørelsestypene.
+
+Trygderettens avgjørelser av krav som er tvistegjenstand bør skje ved dom. Det vil harmonere best med at Trygderetten gis status som særdomstol, og legger til rette for et enkelt og forståelig system. Når utvalget foreslår at Trygderettens avgjørelse av kravet i saken skal kunne ankes etter reglene om anke over dom, er det naturlig at formen dom brukes. Dette trenger imidlertid ikke å føre til noen innholdsmessige endringer i kravene til begrunnelse eller andre formkrav. Også etter tvisteloven skal dommer og kjennelser begrunnes på samme måte.[^642]
+
+Videre mener utvalget at avgjørelser om avvisning og om en sak skal gjenopptas, fortsatt bør skje ved kjennelse. Disse avgjørelsene er så vidt viktige at det bør stilles like strenge krav til begrunnelsen som for dommer. Dessuten vil det at de treffes ved kjennelse, innebære at de kan påankes. Tvistelovens regler om anke over kjennelse kan være godt egnet for disse sakene.
+
+Andre avgjørelser bør fortsatt treffes ved beslutning. Disse kan være mer eller mindre omfattende, og kan komme til uttrykk både skriftlig og gjennom handling. Det er i dag ikke mulig å angripe slike beslutninger særskilt, og det gjelder ikke noen spesielle krav til begrunnelsen. Utvalget mener at det har gode grunner for seg og vil foreslå dette videreført.
+
+## Begrunnelse av Trygderettens avgjørelser
+
+### Innledning
+
+Trygderettens avgjørelser kan begrunnes på forskjellige måter. Mest omfattende er avgjørelsene som begrunnes som dommer, og hvor Trygderetten selv redegjør for faktum, juss og sine vurderinger av det. På den andre siden kan Trygderetten i kurante saker og av hensyn til effektiv ressursbruk gi en enklere begrunnelse, hvor slike beskrivelser og vurderinger gjøres kort (såkalt forenklet kjennelse). Uavhengig av sakens kompleksitet kan Trygderetten oppfylle kravene til begrunnelse ved å bygge på – eller henvise til – redegjørelser eller begrunnelser som fremgår av Navs oversendelsesbrev i saken (såkalt henvisningskjennelse).
+
+Basert på intervju med Trygderetten, har Oslo Economics estimert gjennomsnittlig effektiv saksbehandlingstid i saker om arbeidsavklaringspenger og uføretrygd til 2,5 dager.[^643]
+
+Trygderetten har historisk sett benyttet seg av adgangen til å avsi kjennelser med forenklet begrunnelse i varierende grad. Ved årtusenskiftet var andelen fullt grunngitte kjennelser på under 30 prosent, mens det i dag ligger på godt over 80 prosent.
+
+Behandlede saker, saksbehandlingstid og andel fullt grunngitte kjennelser (høyre akse)
+
+Trygderetten behandlet 3 415 saker i 2021. Per 31. desember 2021 hadde Trygderetten en restanse på 4 826 saker, det vil si godt over et års produksjon. Beregnet saksbehandlingstid er også på over ett år. Likevel ble om lag 80 prosent av Trygderettens avgjørelser i 2021 avsagt med full grunngivning.[^644] I om lag 80 prosent av sakene stadfestet Trygderetten vedtaket som var brakt inn for overprøving. I statistikken registreres henvisningskjennelser som fullt grunngitte kjennelser, slik at det er usikkert hvor ofte henvisningsteknikken benyttes. Trygderetten har i møte med utvalget uttalt at de ikke kan gi et anslag på omfanget. Trygderetten opplyste samtidig at de ikke har funnet kjennelser som bare henviser til oversendelsesbrevet fra NAV Klageinstans. Når Trygderetten henviser til dette, skriver de alltid en egen begrunnelse i tillegg.
+
+Hvilke krav som bør stilles til Trygderettens begrunnelser, beror på en avveining av de hensyn begrunnelsen skal ivareta, og hensynet til effektivitet. Utvalget antar at det ligger et ikke ubetydelig effektiviseringspotensial i denne delen av Trygderettens virksomhet. Trygderetten har selv anslått at dersom man legger til grunn at andelen fullt grunngitte kjennelser skal opp fra dagens nivå på 20 prosent til 60 prosent, og at det i snitt ligger en besparelse på rundt 2 timer per sak (usikkert tidsanslag), vil dette tilsi at Trygderetten kan produsere mellom 190 og 250 flere saker per år. Dette støttes av tall fra den perioden hvor Trygderetten i større grad benyttet seg av forenklede kjennelser.
+
+Utvalget vil på denne bakgrunn vurdere om dagens regulering av Trygderettens begrunnelser er hensiktsmessig, eller om kravene bør endres for å sikre større grad av effektivitet.
+
+### Gjeldende rett og praksis
+
+Trygderettens kjennelser skal som hovedregel begrunnes som dommer.[^645] Så langt det er nødvendig for å forklare avgjørelsen, skal det gis en saksframstilling med angivelse av tvistegjenstand, sakens bakgrunn og partenes rettslige og faktiske anførsler. Trygderetten må redegjøre for sin bevisvurdering og rettsanvendelse. Tvisteloven § 19-6 om krav til begrunnelse av dommer gjelder ellers så langt den passer.
+
+Hvis Trygderetten finner det klart at brukeren ikke kan få medhold, og avgjørelsen ikke antas å kunne få betydning utenfor den foreliggende saken, er det tilstrekkelig at kjennelsen inneholder en kort beskrivelse av hva saken gjelder, og en redegjørelse for de momenter som Trygderetten har lagt avgjørende vekt på.[^646] Det er disse avgjørelsene som gjerne kalles «forenklede kjennelser» (eller «forenklet grunngitt kjennelse»).
+
+Alle kjennelser skal inneholde en slutning som nøyaktig angir resultatet for avgjørelsen som treffes, enten stadfestelse, omgjøring eller opphevelse hvis vilkårene for det er oppfylt.[^647]
+
+Reglene om begrunnelse ivaretar flere formål. Overordnet skal begrunnelsen forklare sakens utfall for partene. Den skal vise hvordan beslutningstakeren har vurdert saken og resonnert omkring de rettslige og faktiske spørsmålene i saken. På den måten sikrer kravet om begrunnelse også at beslutningstakeren rent faktisk foretar de nødvendige vurderingene. En god begrunnelse virker overbevisende overfor sakens parter og gjør det lettere for dem å slå seg til ro med resultatet. For parten som ikke får medhold, er det begrunnelsen som gjør det mulig å argumentere mot avgjørelsen i en klage eller et søksmål. I en overprøvingssituasjon er begrunnelsen viktig for at overordnet organ eller en domstol skal kunne kontrollere vedtaket.
+
+På den annen side er det viktig at kravene til begrunnelse ikke er så strenge at det tar uforholdsmessig mye tid å ferdigstille arbeidet og avgjøre saken. En god regel om begrunnelse balanserer disse hensynene på en hensiktsmessig måte.
+
+Slik trygderettsloven § 21 er formulert, er det i stor grad overlatt til Trygderetten å vurdere hvor grundig begrunnelsen skal være. En overordnet retningslinje er hva som er «nødvendig for å forklare avgjørelsen». Bestemmelsen må tolkes i lys av trygderettsloven § 1, som blant annet fastslår at loven skal legge til rette for «rask» behandling, at saksbehandlingen må stå i et «rimelig forhold til sakens betyding», og at «viktige avgjørelser» skal begrunnes.
+
+Til tross for den fleksibiliteten som ligger i loven, har det i praksis oppstått en usikkerhet om adgangen til å avsi forenklede kjennelser og å bruke henvisningstenkikken. Tendensen de senere årene har vært at Trygderetten i færre og færre saker benytter seg av adgangen til å gi en forenklet begrunnelse og av henvisningsteknikken.
+
+Opprinnelig åpnet trygderettsloven for at Trygderetten helt kunne unnlate å gi begrunnelse i kurante saker. Denne adgangen ble flittig brukt, og i 1999 ble 76 prosent av sakene avgjort uten begrunnelse.[^648] I rettspraksis ble det satt spørsmålstegn ved praksisen, noe som etter hvert førte at adgangen til å unnlate å gi begrunnelse i 2004 ble avløst av adgangen til å avsi forenklede kjennelser.[^649] Det følger av forarbeidene at regelen er ment å sikre at Trygderetten kan avgjøre saker på en enkel måte.[^650]
+
+Fram til og med 2017 var det en uttrykt målsetting at Trygderetten skulle holde antallet forenklede kjennelser nede på et lavt nivå. Departementet satte som krav at 70 prosent av ankesakene skulle avgjøres ved fullt begrunnede kjennelser. Selv om dette ikke lenger gjelder som styringsparameter, viser statistikken at det fortsatt anses viktig å holde antallet nede. I 2019–2021 var andelen saker avgjort med full grunngivning henholsvis 75, 77 og 80 prosent. Dette til tross for lovens sterke vektlegging av hensynet til effektivitet.
+
+Også bruken av henvisningsteknikken har gått ned. Det følger av tvisteloven § 19-6 femte ledd at en overordnet domstol i sin begrunnelse kan «henholde seg helt eller delvis» til underordnede domstolers begrunnelse. Bestemmelsen gjelder for Trygderetten «så langt den passer».[^651] Tidligere fulgte det direkte av ordlyden i § 21 at «\[i\] den utstrekning rettens grunngiving faller sammen med den som er gitt i ankemotpartens utredning i henhold til lovens § 13 sjette ledd, er det tilstrekkelig å henvise til denne». Paragrafen ble endret i 2016, men det følger av forarbeidene at det ikke var meningen å foreta noen innholdsmessige endringer i denne delen av reglene om begrunnelse.[^652] Både lovhistorikken og forarbeidene tilsier altså at Trygderetten i vid utstrekning kan nøye seg med å henvise til Navs oversendelsesbrev til Trygderetten hvis Trygderetten er enig i det som fremgår av det.
+
+Synspunkter i nyere rettspraksis og juridisk teori synes likevel å trekke i en annen retning. I dommen LB-2018-162708 la lagmannsretten til grunn at Trygderettens kjennelse var ugyldig fordi Trygderetten tilsynelatende hadde bygget på feil faktum. Lagmannsretten fant samtidig grunn til å bemerke at «de feilene som hefter ved kjennelsen, ikke kan rettes opp ved at Trygderetten også viser til den begrunnelsen som klageinstansen ga i sitt oversendelsesbrev til retten», og gikk langt i å antyde at Trygderettens plikt til å gi en selvstendig begrunnelse gikk foran en eventuell adgang til å henholde seg til Navs oversendelsesbrev. Det er uklart hvilken lovforståelse lagmannsretten bygger på, og forholdene til forarbeidene er ikke drøftet.
+
+Slik utvalget forstår det, har lagmannsrettens dom påvirket bruken av henvisningskjennelser i Trygderetten. Angivelig er praksis i dag at Trygderetten kun viser til Navs oversendelsesbrev som et tillegg til sin egen selvstendige begrunnelse som oppfyller kravene i trygderettsloven § 21 andre ledd første punktum eller tredje ledd. I juridisk teori er det lagt til grunn at det krever lovendring for å snu praksis på dette punktet.[^653]
+
+Avgjørelser som ikke skal skje i kjennelses form, skal skje ved beslutning.[^654] For beslutninger gjelder det ingen særskilte formkrav, heller ikke begrunnelseskrav.[^655] De kan komme til uttrykk skriftlig eller ved faktiske handlinger. De kan heller ikke angripes særskilt.
+
+### Utvalgets vurderinger
+
+Det følger av trygderettsloven § 1 at saksbehandling og kostnadene i Trygderetten skal stå i «et rimelig forhold til sakens betydning». Utvalget legger til grunn at bruk av henvisningskjennelser og kjennelser med forenklet grunngiving i Trygderetten vil være ressursbesparende og et virkemiddel for å oppnå lovens formål. Der vilkårene for å benytte disse formene er oppfylt, mener utvalget at Trygderetten alltid må vurdere det.
+
+Årsaken til at Trygderetten sjelden benytter forenklede begrunnelser er uklare forventninger, blant annet som følge av rettspraksis. 80 prosent av alle sakene Trygderetten behandler ender med stadfestelse. Det er derfor slående at kun 20 prosent av kjennelsene avsies som forenklede kjennelser. Det gjelder ikke minst i en situasjon hvor Trygderetten har 5 000 saker i restanse, og departementet allerede i 2017 gikk bort fra kravet om 70 prosent fullt grunngitte kjennelser som styringsparameter.
+
+Utvalget mener at det vil kreve tydelig ledelse og styring for å få Trygderetten til å avsi flere kjennelser med forenklet grunngivning. I referansegruppemøte med utvalget har Trygderetten forklart at en dom fra lagmannsretten i 2019 kan ha motvirket bruken av forenklede kjennelser. Det har heller ikke vært satt som et krav fra departementet at Trygderetten bør avsi flere forenklede kjennelser.
+
+Det er i dag tvil om hvorvidt Trygderetten har adgang til å bruke henvisningskjennelser. Dette mener utvalget er uheldig. Uavhengig av hva som er riktig forståelse av dagens regler, mener utvalget at Trygderetten bør ha anledning til å bygge på Navs begrunnelser, og at dette bør fremgå klart av loven.
+
+Det er viktig at brukerne får en god og forståelig begrunnelse for de vedtak som treffes. Dette er avgjørende for tilliten til Nav, og det er bakgrunnen for at utvalget mener at kravene til Navs begrunnelse bør skjerpes. Utvalget ser også at det kan ha en viss betydning for brukerens tillit til systemet dersom den samme argumentasjonen og de samme vurderinger går igjen i alle vedtak og kjennelser.
+
+Etter utvalgets syn må imidlertid hensynet til effektivitet veie tungt når saken blir behandlet i en tredje instans. Dersom Trygderetten er enig med klageinstansens vurdering i vedtaket, og denne vurderingen oppfyller kravene til begrunnelse som gjelder for Trygderetten, bør Trygderetten kunne bygge på den i sin egen begrunnelse. Dette synet har vært lagt til grunn av departementet i en rekke proposisjoner.[^656] Utvalget mener at det bør komme klart frem av trygderettsloven på samme måte som det gjør i tvisteloven § 19-6 for de alminnelige domstolene. Trygderettens adgang til å vise til klageinstansens vurdering, bør gjelde hele eller deler av saken som er til behandling.
+
+Spørsmålet som melder seg, er om Trygderetten bør kunne nøye seg med en ren henvisning, eller om Trygderetten i stedet bør måtte innta de relevante delene av Navs begrunnelse.
+
+Fordelen ved å sitere er at det sikrer at den samlede begrunnelsen kan gjenfinnes i ett dokument.
+
+Utvalget vil anbefale at Trygderetten må sitere fra det som eventuelt skal tjene som en del av rettens begrunnelse. Rene henvisninger er ikke tilstrekkelig.
+
+Mens henvisningskjennelser bare kan brukes der den samlede begrunnelsen oppfyller kravene til kjennelsesgrunner, kan det som i dag kalles for forenklede kjennelser også brukes der bruker tidligere ikke har fått en tilfredsstillende begrunnelse. Forenklede kjennelser utgjør et unntak fra de vanlige kravene til avgjørelsens innhold.
+
+Fordelen med forenklede kjennelser er at det gir Trygderetten anledning til raskt og enkelt å avgjøre mer eller mindre grunnløse saker. Ulempen er at bruker kan få en endelig avgjørelse i Trygderetten uten noen gang å ha fått en tilstrekkelig god begrunnelse. Det kan tilsi at Trygderetten ikke bør ha adgang til å bruke denne begrunnelsesformen. Dersom klageinstansen har gitt en god begrunnelse, kan det hevdes at Trygderetten kan oppnå tilnærmet samme effektivitet gjennom henvisning. Forenklede kjennelser kan ellers skape utfordringer ved senere domstolskontroll.
+
+Til tross for disse innvendingene mener utvalget at Trygderetten bør ha anledning til å treffe avgjørelser med forenklet begrunnelse. Trygderetten har store restanser, og det er nødvendig å effektivisere prosessen. Utvalget mener at systemet ikke er fleksibelt nok hvis Trygderetten tvinges til å skrive fullstendige begrunnelser i alle saker hvor den ikke uten videre kan slutte seg til Navs begrunnelse. Trygderetten har hatt muligheten til å benytte forenklede kjennelser i lang tid, og det virker mot utvalgets mål om en mer effektiv prosess dersom denne adgangen nå fjernes. Muligheten har historisk sett vært viktig for å kunne tilpasse produksjonen til antallet saker, og den er etter utvalgets syn i tråd med lovens formål.
+
+Spørsmålet blir hvilke vilkår som bør gjelde for forenklet begrunnelse. Etter gjeldende rett må det være klart at anken ikke fører frem, og det må antas av avgjørelsen ikke kan få betydning utenfor den foreliggende sak.[^657]
+
+Utvalget mener at det fortsatt bør være et vilkår at det er klart at søksmålet ikke kan føre frem. Dersom Trygderetten mener at Navs vedtak åpenbart er riktig, bør det være tilstrekkelig at Trygderetten gir en helt kort beskrivelse av hva saken gjelder, og hvorfor Trygderetten mener at Navs vedtak var riktig.
+
+Derimot mener utvalget at det ikke bør være et selvstendig vilkår at saken ikke antas å få betydning utenfor gjeldende sak. En sak som er klar, har sjelden betydning utover den foreliggende saken. Trygderetten har uansett alltid mulighet til å begrunne sin avgjørelse etter de vanlige reglene, selv om vilkårene for forenklet begrunnelse er oppfylt. Utvalget anser det derfor unødvendig å oppstille som vilkår at saken ikke er av prinsipiell karakter.
+
+Etter utvalgets syn bør det også være adgang til å bruke denne kjennelsesformen dersom det er klart at et søksmål skal avvises.
+
+Trygderetten i møter med utvalget har etterlyst en mulighet til å gi forenklet begrunnelse også når brukeren gis medhold i at Navs vedtak var uriktig. Dette er det altså ikke anledning til i dag.
+
+I omgjøringssaker vil ikke brukeren ha like stort behov for begrunnelse. Ankemotparten og kan likevel ha et slikt behov. Når Trygderetten omgjør Navs vedtak, sies det oftest samtidig at Nav har begått en feil. I et systemperspektiv er det viktig at det kommuniseres tydelig. Både at det er skjedd en feil, og hva feilen består i. EØS-saken er et eksempel som viser viktigheten av dette.
+
+Å sikre Nav gode nok begrunnelser kan ivaretas ved å formulere et krav om at Trygderetten finner det «klart at anken fører frem». Slik klarhet knytter seg både til faktiske og rettslige spørsmål. Slike forenklede kjennelser vil kunne være egnet der vedtaket i klageinstansen bygger på åpenbare feil enten det gjelder faktum eller juss.
+
+Etter utvalgets syn beror avgjørelsen på en vurdering av eller prioritering i forholdet mellom effektivitet og opplæring. I vurderingen er det viktig å være klar over at Trygderetten har anledning til å gi en fullstendig begrunnelse, selv om vilkårene for forenklet begrunnelse er oppfylt. Konklusjonen vil derfor avhenge av tilliten til at Trygderetten vil utøve et forsvarlig skjønn. Utvalget mener på denne bakgrunn at det bør åpnes opp for å benytte forenklede kjennelser også der Trygderetten omgjør klageinstansens vedtak. Vilkåret er imidlertid at det er klart at anken skal føre frem.
+
+## Tidsfrist for å avsi dom
+
+### Innledning
+
+Hoveddelen av saksbehandlingstiden i Trygderetten er liggetid. Trygderettsloven fastsetter at kjennelse skal avsies snarest mulig etter at Trygderetten har mottatt saken, men gir ikke anvisning på noen konkret tidsfrist.[^658] I domstolene er dette annerledes. Tvisteloven fastslår at hovedforhandling skal berammes innen seks måneder etter at stevning er inngitt, med mindre særlige grunner gjør det nødvendig.[^659] Det er også gitt frist på to eller fire uker for å avsi dom etter gjennomført hoved-/ankeforhandling.[^660] I småkravsaker skal dommen som hovedregel foreligge senest tre måneder etter at stevning ble inngitt.[^661] Når utvalget foreslår at Trygderetten skal formaliseres som en særdomstol, er det naturlig å vurdere om det bør fastsettes lignende tidsfrister i trygderettsloven. Selv om Trygderettens status forblir uendret, kan slike frister ha gode grunner for seg.
+
+### Utvalgets vurderinger
+
+Slik utvalget ser det, har det vært en utfordring i Trygderetten de siste årene at kvaliteten har blitt prioritert på bekostning av effektiviteten. Utvalget tror at manglende konkrete frister er en av årsakene til dette. Konkrete frister vil etter utvalgets syn tydeliggjøre at det er knyttet visse forventninger til tempoet i saksavviklingen.
+
+Trygderetten har i liten grad klart å øke produksjonen av saker til tross for klare styringssignaler fra departementet. Dette tilsier at styringen i større grad bør skje med forankring i lovbestemte frister.
+
+Mens dagens skjønnsmessige krav til tempoet i saksbehandlingen kan tolkes på ulike måter, vil en lovfesting av en seks måneders frist gi klare signaler om hvilken saksbehandlingstid som er forsvarlig. En slik regel vil dermed gi Domstolsadministrasjonen et bedre grunnlag til å styre på tidsfrister. Ved at tidsfristen blir lik som i tingrettene, vil styringen kunne bli lik. Utvalget registrerer også at styring på tidsfrister har hatt god effekt i domstolene.
+
+Utvalget mener at det ikke bør knyttes noen bestemte rettsvirkninger til fristene. En frist vil heller ikke i seg selv bidra til at prosessen blir raskere, og generelt vil frister som er urealistiske, kunne virke mot sin hensikt. Når utvalget likevel mener at det bør gjelde konkrete frister for Trygderetten, er det fordi utvalget mener at erfaringene med slike frister i domstolen alt i alt er gode.
+
+Når det gjelder fristens lengde, er utvalget av den oppfatning at seks måneder bør være tilstrekkelig. I lys av utvalgets øvrige forslag til effektivisering av Trygderettens behandling, herunder at partene skal pålegges å levere stevning og tilsvar, fremstår en halvering av dagens saksbehandlingstid ikke som uforsvarlig. Med god styring antar utvalget at fristene etter hvert blir mulige å nå.
+
+Utvalget foreslår at Trygderetten skal avgjøre sine saker innen seks måneder.
+
+## Anke til lagmannsretten
+
+### Innledning
+
+Trygderettens kjennelser overprøves i dag ved søksmål til lagmannsretten.[^662] Søksmålsfristen er seks måneder fra det tidspunkt underretning om Trygderettens kjennelse er kommet frem til vedkommende part.[^663] Lagmannsretten behandler saken som første instans i domstolene etter reglene i tvisteloven kapittel 9, ikke etter reglene om ankeforhandling i lovens kapittel 29. Det innebærer blant annet at saken som hovedregel skal gjennomføres ved muntlig hovedforhandling.[^664] En annen konsekvens av at lagmannsretten behandler saken i første instans, er at saken ikke kan siles etter tvisteloven § 29-13.
+
+Når utvalget foreslår at Trygderetten skal gis status som særdomstol, er det også naturlig å foreslå at lagmannsretten gjøres til ordinær ankeinstans for disse sakene. Etter utvalgets syn bør avgjørelser fra Trygderetten kunne ankes etter tvistelovens regler om anke til lagmannsretten.[^665] Det vil gjøre det mulig å rendyrke lagmannsretten som ankedomstol, og det legger til rette for en hensiktsmessig behandling av trygderettssakene.
+
+### Utvalgets vurderinger
+
+I utgangspunktet mener utvalget at tvistelovens regler om anke til lagmannsretten bør gjelde så langt de passer, med relevante særregler fastsatt i trygderettsloven, for eksempel en regulering av lagmannsretten prøvingskompetanse.
+
+Et slikt system vil bety at anker over Trygderettens avgjørelser langt på vei skal behandles som andre sivile ankesaker. En anke over dom skal inngis til den domstol som har truffet avgjørelse i saken, med de formkrav som ellers gjelder for ankeerklæringer.[^666] Det vil være Trygderetten som foretar en innledende behandling av ankesaken og som skal blant skal se om det er mangler ved ankeerklæringen og gir frist for å avhjelpe feil.[^667] En formriktig ankeerklæring skal forkynnes for ankemotparten, som gis frist for anketilsvar.[^668] Etter at anketilsvaret er meddelt den ankende part, sendes saken omgående til lagmannsretten.[^669]
+
+Lagmannsretten skal ved mottak av anken foreta en kontroll med at anken kan tas under behandling.[^670] Lagmannsretten kan i saksforberedelsen også oppheve avgjørelsen dersom det foreligger feil som ubetinget skal tillegges virkning etter tvisteloven.
+
+Dersom ankesaken ikke avgjøres etter reglene i § 29-12, skal lagmannsretten vurdere siling etter § 29-13. Etter § 29-13 første ledd kreves i saker om formuesverdier lagmannsrettens samtykke til ankebehandling dersom ankegjenstandens verdi er mindre enn 250 000 kroner. Ved vurderingen av om lagmannsretten skal gi samtykke, skal det blant annet tas hensyn sakens karakter, de behov partene har for overprøving, og om det synes å være svakheter ved den avgjørelse som er anket, eller ved behandlingen av saken. Etter § 29-13 annet ledd kan anke over dom nektes fremmet dersom lagmannsretten finner det klart at anken ikke vil føre frem, og en ankenektelse kan begrenses til enkelte krav eller ankegrunner. Dersom det ikke gis samtykke til ankebehandling eller anken nektes fremmet, er saken dermed avgjort i lagmannsretten. Ved utløpet av ankefristen over lagmannsrettens silingsbeslutning, vil ankesaken bli endelig avgjort og Trygderettens domsslutning vil angi resultatet av domstolsbehandlingen.
+
+At anker over Trygderettens dommer kan bli gjenstand for siling etter tvisteloven § 29-13, er en vesentlig endring i forhold til gjeldende rett. Det vil innebære at brukerne ikke lenger har en krav på å få prøvd saken på vanlig måte for lagmannsretten. Etter utvalget syn er det i tråd med hensynet til forholdsmessighet i saksbehandlingen. Reglene om siling er ment å hindre at lagmannsretten må gjennomføre full behandling av saker saker som gjelder mindre verdier, eller som åpenbart ikke kan føre frem. Når Trygderetten gjøres til en domstol, og brukerne i utgangspunktet har krav på å forklare seg muntlig, mener utvalget at gode grunner tilsier at disse sakene bør kunne siles på lik linje med andre sivile saker.
+
+Utvalget antar videre at Trygderettens kjennelser bør kunne ankes etter reglene om anke over kjennelser så langt de passer. Det innebærer blant annet at anken skal avgjøres etter skriftlig behandling.[^671] Tilsvarende gjelder for Trygderettens beslutninger, men fordi disse ofte ikke skjer skriftlig – og fordi de uansett vil kunne danne grunnlag for en anke over dommen begrunnet i saksbehandlingsfeil – vil det sjelden være mulig å angripe beslutningene. Tvisteloven § 29-2 annet og tredje ledd om begrensninger i adgangen til å anke avgjørelser om saksbehandlingen når saken er avgjort, vil ofte være aktuell.

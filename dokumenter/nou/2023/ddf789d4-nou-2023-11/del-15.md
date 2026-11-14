@@ -1,1094 +1,188 @@
-# NOU 2023: 11, del 15 av 23 (side 185–196)
+# NOU 2023: 11, del 15 av 29
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2023/ddf789d4-nou-2023-11.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2023-11/id2969126/
 - Original-PDF: https://www.regjeringen.no/contentassets/bc4d7866cdbf4151b35df2ddb8b8f5bb/no/pdfs/nou202320230011000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 32 figurer, 132 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 185]
-
-NOU 2023: 11
-Raskt og riktig
-
-15.3 Klageinstansens oppgaver i sak for
-Trygderetten
-15.3.1 Innledning
-De fleste vedtak NAV Klageinstans treffer, kan
-ankes inn for Trygderetten. Behandlingen av
-anker bygger på et liknende system som ved klager, med noen forskjeller. Etter trygderettsloven
-§ 13 er klageinstansens oppgaver blant annet å:11
-1. Motta anken
-2. Foreta en fornyet prøving (vurdere omgjøring)
-3. Tilrettelegge (eller forberede) saken hvis
-anken ikke faller bort
-4. Lage en fremstilling av saken i et oversendelsesbrev til Trygderetten
-De relativt strenge kravene til oversendelsesbrevets innhold påvirker tidsbruken. Klageinstansen
-kan ikke avvise anken, slik førsteinstansen kan
-avvise en klage.
-Saksforberedelsen av anker tar svært lang tid.
-Klageinstansen bruker i gjennomsnitt 222 dager
-fra de mottar en anke, til anken er oversendt til
-Trygderetten.12
-Etter utvalgets syn er dette altfor lang tid. For
-utvalget er det derfor et spørsmål om det bør gjøres endringer i reglene om klageinstansens rolle i
-og oppgaver med ankesaker, for å sikre hurtigere
-behandling.
-
-15.3.2 Utvalgets vurderinger
-Utvalget foreslår at klager skal sendes direkte til
-klageorganet, og at førsteinstansen verken skal
-vurdere omgjøring eller forberede klagesaken.
-Ettersom problemstillingen er parallell, er det
-nærliggende å tenke at løsningen bør være den
-samme for anker. Utvalget mener likevel at klageinstansen bør beholde noen av dagens oppgaver
-med ankesakene. Nedenfor drøfter utvalget hvilke
-oppgaver og ansvar NAV Klageinstans og Trygderetten skal ha i saksforberedelsen i saker for
-Trygderetten, også sett i lys av utvalgets forslag
-om at Trygderetten skal være en særdomstol, se
-kapittel 12.
-Trygderettens behandling av saker bygger på
-en partsprosess. Bruker er part, klageinstansen
-er motpart og Trygderetten skal være et objektivt
-og uavhengig beslutningsorgan. For at prosessen
-skal fungere, er det en forutsetning at klageinstansen opptrer som part i prosessen. Det bør, som i
-11
-12
-
-Trygderettsloven § 2.
-Statistikk fra Navs datavarehus, 2021, (SAK500).
-
-183
-
-Kapittel 15
-
-dag, skje ved at klageinstansen har en del av
-ansvaret for sakens opplysning. Utvalget vil foreslå endringer i arbeidsfordelingen mellom aktørene i prosessen. Målet er at prosessen skal bli
-mest mulig effektiv.
-Stevninger til Trygderetten
-Utvalget har foreslått at Trygderetten får en formalisert status som særdomstol. Et spørsmål er
-da om stevningen til Trygderetten bør sendes til
-klageinstansen, eller om den heller bør sendes
-direkte til Trygderetten.
-En regel om at stevningen leveres direkte til
-Trygderetten, vil harmonere godt med det som
-ellers er vanlig i sivilprosessen. En konsekvens av
-en slik regel er at Trygderetten får ansvaret for å
-be NAV Klageinstans inngi sitt syn på saken. Det
-er naturlig at det gjøres gjennom pålegg om tilsvar
-innen en nærmere angitt frist. Etter tvisteloven er
-utgangspunktet at fristen bør være tre uker.13
-Med en liknende regulering i trygderettsloven vil
-klageinstansen tvinges til å levere sitt syn, og
-legge til rette for avgjørelse i Trygderetten,
-vesentlig raskere enn det som er vanlig i dag.
-Hensynet til effektivitet tilsier derfor en slik endring.
-Dette vil også være positivt for brukernes tillit
-til systemet. For brukerne er det viktig å få en vurdering av saken fra et uavhengig organ. Endringen vil tydeliggjøre at Trygderetten styrer prosessen. Avhengig av hvilke andre endringer som
-gjøres i regelverket, blir Trygderettens rolle mer
-fremtredende, og prosessen mer lik den som gjelder i domstolen. Det gir god sammenheng med
-utvalgets forslag om å formalisere Trygderettens
-status som en domstol.
-Selv om klageinstansen ikke lenger skal motta
-krav om overprøving i Trygderetten, bør klageinstansen fortsatt ha plikt til å vurdere om de skal
-opprettholde sitt klagevedtak eller omgjøre det.
-Dersom klageinstansen mener at stevningen gir
-grunnlag for omgjøring, bør de kunne omgjøre
-vedtaket selv.
-Utvalgets forslag vil innebære at klageinstansen ikke lenger skal utarbeide et oversendelsesbrev. I stedet skal den, etter pålegg fra Trygderetten, gi et tilsvar. Innholdet i tilsvaret kan, og bør,
-inneholde det samme som dagens oversendelsesbrev. NAV Klageinstans må gi en saksfremstilling
-og redegjøre for sitt syn og sine anførsler.
-Det kan innvendes mot utvalgets forslag at en
-normal tilsvarsfrist på tre uker vil kunne føre til
-13
-
-Tvisteloven § 9-3 første ledd andre punktum.
-
-[Side 186]
-
-184
-
-Kapittel 15
-
-NOU 2023: 11
-Raskt og riktig
-
-redusert kvalitet i oversendelsesbrevet. Normalt
-vil klageinstansen ha tid til å utferdige et tilsvar
-innen fristen på tre uker. Det kan her også vises til
-at staten må forholde seg til tre ukers tilsvarsfrist i
-sakene for domstolen. Trygdesaker skal ikke
-være mer krevende å opplyse enn andre tvistesaker. Utvalget antar at klageinstansen kan organiseres slik at dette blir håndterlig. Dersom klageinstansen har behov for mer tid, for eksempel fordi
-det må innhentes mer dokumentasjon, vil det fortsatt være adgang til det. Tilsvarsfrister kan utsettes ved behov, eller det kan inngis tilsvar med forbehold om at klageinstansen undersøker enkelte
-nye sider ved saken. Det vil bli opp til Trygderetten å avgjøre om den finner det nødvendig å vente
-på klageinstansens dokumentasjon, eller om
-saken er klar til avgjørelse.
-Etter utvalgets syn er det gode grunner for å
-innføre et system der Trygderetten mottar stevningen og pålegger klageinstansen å utarbeide et
-tilsvar, innen en gitt frist.
-I dagens system får bruker kopi av klageinstansens oversendelsesbrev, med en merknadsfrist på tre uker. Bruker får deretter kopi av klageinstansens ekspedisjonsbrev, med en ny
-merknadsfrist på tre uker. Disse to foreleggelsesreglene bidra til å forlenge prosessen.
-Det følger av alminnelige regler om kontradiksjon at brukeren skal ha mulighet til å imøtegå
-klageinstansens kommunikasjon med Trygderetten. Derimot fremstår to utsendelser unødvendig
-og virker forsinkende. Etter utvalgets syn kan
-hensynet til kontradiksjon ivaretas som etter tvisteloven, ved at Trygderetten sørger for at tilsvaret
-oversendes brukeren, og oppfordrer brukeren til
-
-å komme med eventuelle merknader innen tre
-uker.
-Hvis stevningen skal sendes direkte til Trygderetten, er det et spørsmål om Trygderetten bør
-ha myndighet til å avgjøre saken uten at klageinstansen er blitt involvert, når det er klart at anken
-ikke kan føre frem. Det kan være aktuelt dersom
-anken er begrunnet i forhold som overhodet ikke
-er egnet til å påvirke resultatet, for eksempel hvis
-et strengt lovbundet vedtak angripes med den
-begrunnelse at det er urimelig.
-En slik mulighet vil spare klageinstansen for
-unødvendig arbeid, og det blir satt punktum for
-ankesaken tidligst mulig. At disse sakene avsluttes raskt, er etter utvalgets syn også til fordel for
-brukeren. Hvis det ikke er utsikter til å vinne
-frem, vil det at Trygderetten avventer klageinstansens syn, kunne gi brukeren urealistiske forhåpninger. For en del vil det å ha en sak mot Nav
-gående for Trygderetten oppleves som en belastning. Klageinstansens tilsvar vil antakelig ofte provosere frem mer argumentasjon fra motparten.
-Dette er unødvendig hvis det er klart at anken
-uansett ikke kan føre frem.
-Ettersom Trygderetten på dette tidspunktet
-ikke har tilgang til sakens dokumenter, og har et
-ansvar for sakens opplysning, har utvalget likevel
-landet på å anbefale at alle saker bør oversendes
-saksøkte, med pålegg om tilsvar. Utvalget foreslår
-også at Trygderetten skal foreta en gjennomgang
-av alle stevninger som kommer inn, for å vurdere
-om vilkårene for å ta søksmålet til behandling er
-oppfylt. Dersom vilkårene ikke er oppfylt, vil
-anken kunne avvises uten å forelegge den for saksøkte.
-
-[Side 187]
-
-185
-
-NOU 2023: 11
-Raskt og riktig
-
-Kapittel 16
-
-Kapittel 16
-
-Tiltak for å unngå at vedtak oppheves og sendes tilbake til
-førsteinstansen
-Boks 16.1 Utvalgets forslag
-Utvalget foreslår
-• at klageinstansen alltid skal treffe nytt vedtak
-i en klagesak (realitetsavgjørelse)
-– klageinstansen skal ikke kunne oppheve
-førsteinstansens vedtak og sende saken
-tilbake til ny behandling der
-– departementet bør likevel i forskrift
-kunne åpne for at klageinstansen i visse
-sakstyper kan oppheve vedtak og sende
-saken tilbake
-• at Trygderettens adgang til å oppheve et vedtak og sende saken tilbake begrenses
-– oppheving bør skje dersom avgjørelsen
-beror på forhold som Nav tidligere ikke
-
-•
-
-har vurdert og Trygderetten av den
-grunn ikke bør behandle saken som første instans
-at saker som sendes tilbake når Trygderetten
-opphever et vedtak, skal behandles og avgjøres av det organet som traff det opphevede
-vedtaket
-– sakene skal prioriteres og avgjøres så
-raskt som mulig
-– sakene behandles etter de alminnelige
-saksbehandlingsreglene som gjelder for
-behandling av slike saker i organet
-
-16.1 Klageinstansens adgang til å
-oppheve vedtak
-
-25
-
-50
-
-16.1.1 Innledning
-
-20
-
-40
-
-15
-
-30
-
-10
-
-20
-
-5
-
-10
-
-Klageinstansen opphever førsteinstansens vedtak
-i for mange saker. Klageinstansen bør etter utvalgets vurdering selv avgjøre realitetene ved stadfesting eller ta klagen til følge. Slik oppheving
-innebærer at saken sendes tilbake til underliggende instans for ny utredning og avgjørelse der. I
-saksbehandlingssystemet vil et vedtak som oppheves, regnes som ferdigbehandlet av klageinstansen, mens saken går inn i førsteinstansens
-vanlige sakskø som en ubehandlet sak. Når førsteinstansen treffer vedtak etter sin fornyede
-behandling, kan vedtaket påklages dersom parten
-ikke har fått medhold. I verste fall har en oppheving i klageinstansen kunne få virkning at
-saken starter helt på nytt i førsteinstansen. Tallene for de seks siste år vises i figur 16.1.1
-1
-
-Tallene er hentet fra NAV Klageinstans – kvalitetsskjemaet.
-
-0
-
-0
-2016
-
-2017
-
-2018
-
-Omgjøringsprosent
-
-2019
-
-2020
-
-2021
-
-Andel oppheving
-
-Figur 16.1 Omgjøringsprosent og andel oppheving
-(høyre akse) i klageinstans
-
-[Side 188]
-
-186
-
-Kapittel 16
-
-NOU 2023: 11
-Raskt og riktig
-
-Den totale andelen opphevinger fra NAV Klageinstans har vært mellom 30 og 40 prosent i
-denne perioden. Dette er svært høyt. I 2021 opphevet klageinstansen førsteinstansens vedtak i
-1 680 saker.
-Hvor stort problemet er, avhenger av hvor
-mye tid som går med til arbeidet med disse
-sakene når de sendes tilbake til førsteinstansen,
-og hvor lang tid det tar for brukeren å få endelige
-avgjørelser. Nav har selv ingen statistikk på denne
-saksbehandlingstiden. På bestilling fra utvalget
-har Oslo Economics forsøkt å finne svaret på
-dette. Oslo Economics har foretatt nærmere
-undersøkelser av 16 saker der NAV Klageinstans
-hadde opphevet vedtak, hvorav 8 gjaldt arbeidsavklaringspenger og 8 gjaldt uføretrygd.
-Oslo Economics’ undersøkelse viser at den
-totale saksbehandlingstiden blir betydelig lengre.
-Særlig gjelder dette når brukeren ikke får medhold etter en fornyet behandling. Undersøkelsen
-viser at det i snitt tar 162 dager før førsteinstansen
-fatter nytt vedtak i saker som er opphevet av NAV
-Klageinstans i saker som arbeidsavklaringspenger og 75 dager i saker om uføretrygd.2 Utvalget
-er kjent med at saksbehandlingstiden ved klage
-på det nye vedtaket kan være fra 8-9 måneder, og
-noen ganger også over et år, i saker som på nytt
-kommer til behandling i klageinstansen.
-Hvert år opplever svært mange brukere å få
-avslag i første instans og deretter vente i lang tid
-på at klagen skal behandles av både førsteinstansen og klageinstansen.3 Fra et brukerperspektiv
-er dette svært uheldig. Det er også et spørsmål
-om slike opphevelser gir god ressursbruk og bygger opp under tilliten til systemet
-
-16.1.2 Gjeldende rett
-Klageinstansens saksbehandling og myndighet er
-regulert i forvaltningsloven §§ 33 og 34. Hvis klageinstansen tar saken under behandling, kan den
-prøve alle sider av saken, herunder ta hensyn til
-nye omstendigheter. Klageinstansen skal vurdere
-klagers synspunkter og kan ta opp forhold som
-klageren selv ikke har påberopt. Klageinstansen
-skal påse at saken er så godt opplyst som mulig,
-men kan som ledd i saksutredning også pålegge
-førsteinstansen å foreta nærmere undersøkelser
-med videre.
-Hvis klageinstansen er enig med førsteinstansen, vil førsteinstansens vedtak stadfestes. Er kla2
-3
-
-Oslo Economics (2022), Saksflyt i klage- og ankesaker i
-NAV og Trygderetten, s. 42.
-Statistikk fra Navs datavarehus, 2021, (SAK610).
-
-geinstansen uenig med førsteinstansen, kan klageinstansen treffe nytt vedtak med et annet innhold, for eksempel ved å innvilge den omsøkte
-ytelsen. Det er ikke et krav at førsteinstansen selv
-har vurdert alle de samme sidene av, og de relevante vilkårene i, saken. Klageinstansen har full
-avgjørelsesmyndighet. På den andre side kan klageinstansen forkaste klagen (avslå søknaden) på
-et annet grunnlag enn førsteinstansen avgjorde
-saken på. Det ligger altså ingen formelle begrensninger i klageinstansens mulighet til å opplyse
-saken og treffe nytt vedtak.4
-Loven åpner også for at klageinstansen istedenfor å treffe ny realitetsavgjørelse kan oppheve
-vedtaket og sende saken tilbake til førsteinstansen
-for helt eller delvis ny behandling. Dette er aktuelt
-når førsteinstansen anses å være i best posisjon til
-å utrede og avgjøre saken. Førsteinstansen kan
-for eksempel ha avslått en søknad fordi den fant at
-ett vilkår ikke var oppfylt, uten at andre vilkår ble
-vurdert. Hvis klageinstansen kommer til at dette
-vilkåret var oppfylt, må klageinstansen vurdere
-om den selv skal ta stilling til de andre vilkårene
-og avgjøre saken, eller om saken skal sendes tilbake til førsteinstansen for avgjørelse der.
-I tråd med dette følger det av Navs rundskriv
-til forvaltningsloven at klageinstansen må vurdere
-om den har de nødvendige opplysninger til å realitetsbehandle saken. Det er vist til at saken kan ha
-endret seg underveis, og at underinstansen til
-enhver tid er oppdatert. Videre heter det at det
-kan være behov for «nærmere utredning», og at
-det «av den grunn er naturlig at underinstansen
-overtar den videre behandling av saken».5 Hensynet til raskest mulig avklaring og den forsinkelsen
-en oppheving vil medføre, er ikke drøftet i rundskrivet.
-
-16.1.3 Utvalgets vurderinger
-Hvert år opplever opp mot to tusen brukere at
-saken deres rykker tilbake til start etter at de har
-ventet i lang tid på en avgjørelse i klagesaken sin.
-Undersøkelser viser at det kan gå seks måneder
-eller mer før førsteinstansen treffer nytt vedtak i
-saken. Det er ikke gitt at resultatet blir innvilgelse. Et nytt avslag kan påklages, og igjen går det
-lang tid før nytt vedtak treffes i klageinstansen.
-Heller ikke denne gangen er det sikkert at klageinstansen vil avgjøre realiteten i saken. Etter utvalgets syn bidrar en slik saksbehandling til å svekke
-både brukerens og allmennhetens tillit til Nav og
-4
-5
-
-Forvaltningsloven § 33 femte ledd.
-R36-00, merknad til forvaltningsloven § 34 fjerde ledd.
-
-[Side 189]
-
-NOU 2023: 11
-Raskt og riktig
-
-systemet. Nedenfor drøfter utvalget klageinstansens adgang for å oppheve førsteinstansens vedtak versus å realitetsbehandle og avgjøre alle klagesaker.
-En av årsakene til at NAV Klageinstans opphever så mange vedtak, er antagelig at sakene ikke
-var tilstrekkelig utredet før førsteinstansen traff
-sitt vedtak og/eller før saken ble sendt til klageinstansen. En annen årsak er at førsteinstansen bare
-har tatt stilling til ett av vilkårene når søknaden
-ble avslått, noe som ofte er helt legitimt. Dersom
-klageinstansen mener at dette vilkåret er oppfylt,
-vil klageinstansen måtte utrede og opplyse saken
-for å kunne ta stilling til de øvrige vilkårene. I
-slike tilfeller vil det være mindre arbeidskrevende
-å oppheve saken.
-Etter utvalgets syn er ikke hensynet til å forenkle klageinstansens arbeid et vektig argument i en
-klageprosess der klageren gjerne har ventet i lang
-tid på å få en avgjørelse i saken. I et ressursperspektiv er det tvilsomt om noe er vunnet ved å la
-dette bli avgjørende. Arbeidet må uansett gjøres,
-enten det er i klage- eller førsteinstansen.
-Dersom førsteinstansen vil kunne utrede
-saken og/eller foreta vurderingene raskere, mer
-effektivt eller med bedre kvalitet enn i klageinstansen, stiller det seg imidlertid annerledes.
-Dette er etter utvalgets syn den egentlige begrunnelse for dagens normalordning. Slik utvalget ser
-det, er det ikke grunn til å tro at førsteinstansen i
-Nav er raskere, mer effektiv eller har høyere kvalitet enn NAV Klageinstans.
-Saksbehandlere i klageinstansen har samme
-tilgang og mulighet til å innhente manglende opplysninger og foreta vurderinger som førsteinstansen. Verken NAV Arbeid og ytelser eller NAV
-Familie og pensjon, som er de organene som treffer de fleste og de viktigste vedtakene i Navsystemet, sitter lokalt. Vedtaksorganene møter
-ikke bruker, og innhenter opplysninger på samme
-måte som klageinstansen.
-I forbindelse med klagen vil saksbehandleren
-som regel måtte ta stilling til spørsmålet om mangelfulle opplysninger og faktiske og rettslig vurderinger. Saksbehandleren i klageinstansen får dermed den nødvendige oversikt og kan ofte sørge
-for innhenting av relevant informasjon. Dersom
-vedtaket oppheves, går saken til førsteinstansen.
-Dette betyr ofte at enda en ny saksbehandler må
-sette seg inn i saken og utrede hva som mangler.
-Dette er tidkrevende og kan føre til misforståelser
-mellom klageinstans og førsteinstans om mangler
-ved vedtaket og hva som er det sentrale for avgjørelsen. Det skaper risiko for at førsteinstansens
-nye vedtak ikke er godt nok, og at vedtaket enda
-
-187
-
-Kapittel 16
-
-en gang oppheves. Alt dette unngås dersom klageinstansen selv foretar de nødvendige utredninger
-og avgjør saken.
-Utvalget mener NAV Klageinstans er kompetente til å behandle disse spørsmålene. Andelen
-med juridiske kompetanse i klageinstansen er
-vesentlig høyere enn i førsteinstansen. Utvalget
-mener at saksbehandlere i NAV Klageinstans er
-minst like effektive og kvalitetsmessig gode som
-saksbehandlerne i førsteinstansen.
-Et mer tungtveiende argument for at klageinstansen bør velge opphevelse fremfor å avgjøre
-saken, er hensynet til brukerens klagemulighet.
-Forvaltningslovens utgangspunkt er at klageinstansens vedtak ikke påklages.6 Dersom klageinstansen innhenter opplysninger og vurderer vilkår
-som tidligere ikke har vært vurdert av førsteinstansen, vil vedtaket få karakter av å være et førstegangsvedtak av disse vilkårene. Bruker vil da
-ikke få noen klagebehandling av disse vilkårene.
-Denne klagemuligheten er sett på som en rettssikkerhetsgaranti.
-Til dette vil utvalget for det første påpeke at
-det klagereglene skal sikre, er at den enkelte får
-sin sak vurdert minst to ganger. Loven krever
-ikke at alle sider av saken skal vurderes minst to
-ganger. Det er helt legitimt – og ofte en fordel for
-alle – at førsteinstansen ikke bruker ressurser på
-å vurdere alle vilkårene i loven hvis den ser det
-klart at ett sentralt vilkår uansett ikke er oppfylt.
-Dersom klageinstansen er uenig med førsteinstansen i vurderingen av det ene vilkåret, innebærer det at klageinstansen blir første instans til å
-vurdere de andre vilkårene. Det er ikke i strid
-med loven. Det sentrale er at brukeren får saken
-vurdert to ganger. Tilsvarende gjelder i prosessretten. Det er ikke noe i veien for at lagmannsretten vurderer påstandsgrunnlag som ikke var tema
-for eller behandlet av tingretten.
-For det andre vil utvalget peke på at sakene
-skiller seg fra de vanlige sakene i forvaltningen
-ved at vedtak fra NAV Klageinstans som regel kan
-ankes kostnadsfritt inn for Trygderetten. Brukeren får altså mulighet til en ny, fullstendig overprøving av de sidene av klageinstansens vedtak
-klageren måtte være misfornøyd med.
-Etter utvalgets syn er heller ikke hensynet til
-behandling av saken i to instanser, noe vektig
-argument mot at klageinstansen skal realitetsbehandle klager. Utvalget vurderer at brukeren vil
-være bedre tjent med en rask avgjørelse enn å få
-vedtaket opphevet og måtte vente på saksbehandlingen i førsteinstansen for så å kunne få over6
-
-Forvaltningsloven § 28 tredje ledd.
-
-[Side 190]
-
-188
-
-Kapittel 16
-
-NOU 2023: 11
-Raskt og riktig
-
-prøvd alle enkeltspørsmål både i klageinstansen
-og Trygderetten.
-Et annet moment av betydning er at NAV Klageinstans inngår som en del av Arbeids- og velferdsetaten og er styrt faglig og administrativt av
-direktoratet, på samme måte som førsteinstansen.
-Norsk forvaltning bygger normalt på at vedtak
-treffes av organ underlagt demokratisk styring og
-ansvar. Dersom førsteinstansen har avslått en søknad etter å ha vurdert ett av vilkårene for en
-ytelse, vil en plikt til å ta stilling til realitetene innebære at klageinstansen må vurdere de øvrige vilkårene og eventuelt utmåling uten at dette har
-vært vurdert av førsteinstansen. Både førsteinstans og NAV Klageinstans er en del av det
-samme forvaltningsorganet (Nav).
-Utvalget vil vurdere hvilke grep som kan tas
-for å hindre at klageinstansen unødig opphever
-vedtak.
-En årsak til det store antallet opphevelser er
-trolig at realitetsbehandling gir klageinstansen
-ekstra arbeid. Samtidig måles saksbehandlerne på
-produksjon. Siden det oftest går fortere å oppheve
-enn å realitetsbehandle, gir dagens krav insentiver til å oppheve. Utvalget har fått opplyst at saksbehandlere i NAV Klageinstans velger opphevelse
-for å oppnå målkrav.
-Utvalget mener at direktoratet bør endre sine
-krav i mål- og disponeringsbrevene. Utvalget
-mener det er uheldig at kravene legger føringer
-på saksbehandlerne som gjør at de velger den
-minst gunstige løsningen for brukeren og
-systemet.
-Samtidig antar utvalget at problemet som drøftes her, ikke bare kan løses gjennom styring.
-Utvalget mener det er behov for å begrense opphevelsesadgangen. Det vil kreve en lovendring.
-En mulig løsning er å angi skranker for klageinstansens adgang til å oppheve vedtak. En slik
-begrensning gjelder allerede for Trygderetten.
-Trygderettsloven § 21 (4) andre punktum fastsetter at Trygderetten kan oppheve vedtaket og henvise saken til ny behandling «[h]vis det ikke foreligger et forsvarlig grunnlag for å avgjøre realiteten».
-En slik regulering beholder en viss fleksibilitet. Samtidig er det vanskelig å sikre etterlevelse
-og mulighet for overprøving av om vilkårene er
-oppfylt. Det blir derfor i praksis helt opp til organets eget skjønn å avgjøre om vedtaket skal kunne
-oppheves. Dersom saksbehandlerne må forholde
-seg til stramme tidsfrister er det grunn til å tro at
-det vil påvirke vurderingen. Dermed vil reguleringen ikke gi ønsket effekt. Utvalget viser til at
-
-Trygderetten i dag opphever om lag 40 prosent av
-sakene som gjøres om.
-Utvalget mener at en bedre løsning vil være å
-pålegge klageinstansen å realitetsbehandle og
-avgjøre alle klagesaker. Det vil si at klageinstansen ikke skal ha adgang til å oppheve vedtak.
-Nav behandler mange forskjellige sakstyper,
-og utvalget vil ikke utelukke at førsteinstansen på
-enkelte områder, eller i noen avgrensete spørsmål
-fremstår som klart best skikket til å foreta utredningen. Selv om klageinstansen kan kreve at førsteinstansen foretar nærmere undersøkelser, vil
-et forbud mot opphevelse være uhensiktsmessig
-dersom førsteinstansen er klart bedre til å innhente opplysninger eller foreta den rettslige vurderingen som første instans.
-Utvalget vil derfor foreslå at loven endres slik
-at klageinstansen som hovedregel skal avgjøre
-saken i realiteten. Samtidig foreslår utvalget at
-departementet gis forskriftskompetanse til å
-åpne for opphevelse av vedtak der ny behandling
-i førsteinstansen fremstår som den klart beste
-løsning for klager.
-
-16.2 Trygderettens adgang til å
-oppheve klagevedtak
-16.2.1 Innledning
-I motsetning til de alminnelige domstoler som
-bare prøver gyldigheten av forvaltningsvedtak,
-har Trygderetten adgang til å prøve alle sider av
-saken og å treffe realitetsvedtak.7 Trygderetten er
-kompetent til å avgjøre alle saker den får til
-behandling, og treffer i realiteten nye vedtak (kalt
-kjennelser). Dette gjelder selv om førsteinstansen
-og klageinstansen har avslått en søknad uten å ta
-stilling til alle vilkårene for en ytelse. Trygderettsloven åpner for at Trygderetten kan oppheve et
-vedtak og henvise saken til ny behandling, men
-bare dersom «det ikke foreligger et forsvarlig
-grunnlag for å avgjøre realiteten».8
-I statistikken regnes både Trygderettens endring og oppheving av klageinstansens vedtak som
-omgjøringer. Utvalget har innhentet informasjon
-om omfanget av slike opphevelser, se figur 16.2
-med tall for de seks siste årene.9
-Opp mot 300 brukere opplever hvert år at de
-står uten vedtak fordi saken er hjemvist til klageeller førsteinstansen etter opphevelse i Trygderetten. Mange av disse brukerne kan ha ventet i flere
-7
-8
-9
-
-Trygderettsloven § 20 første ledd.
-Trygderettsloven § 21 fjerde ledd tredje punktum.
-Tallene er hentet fra NAV Klageinstans – kvalitetsskjemaet.
-
-[Side 191]
-
-NOU 2023: 11
-Raskt og riktig
-
-25
-
-50
-45
-
-20
-
-40
-35
-
-15
-
-30
-25
-
-10
-
-20
-15
-
-5
-
-10
-5
-
-0
-
-0
-2016
-
-2017
-
-2018
-
-Omgjøringsprosent
-
-2019
-
-2020
-
-2021
-
-Andel oppheving
-
-Figur 16.2 Omgjøringsprosent og andel oppheving
-(høyre akse) i Trygderetten
-
-år på det de trodde ville bli endelig avgjørelse i
-Trygderetten. Om lag en tredjedel av sakene gjelder uføretrygd.
-Dersom det påankede vedtaket oppheves,
-foreligger det et ubehandlet krav som Nav må ta
-stilling til. Praksis i Nav er da at saken blir sendt
-tilbake til førsteinstansen, som fatter nytt vedtak.
-Det er ingen regulering av dette i loven eller i
-Navs rundskriv, og det er heller ikke felles rutiner
-for oppfølgingen av Trygderettens opphevinger.
-Utvalget ser det som en egen utfordring og vil
-drøfte om Navs behandling av saker der vedtak er
-blitt opphevet av Trygderetten bør reguleres.
-Oslo Economics har i sin undersøkelse registrert resultatet av den nye behandlingen i Nav
-etter oppheving i Trygderetten i saker som gjelder arbeidsavklaringspenger og uføretrygd.10
-Saksbehandlingssystemene Nav benytter, mangler systemstøtte for effektiv behandling av saker
-som har vært opphevet av Trygderetten. Oslo
-Economics’ undersøkelse viser at sakene blir liggende til dels svært lenge ubehandlet før førsteinstansen innhenter opplysningene som mangler og
-før nytt vedtak blir fattet.
-Utvalget mener at andelen opphevinger fra
-Trygderetten er for høy, og vil vurdere tiltak for å
-redusere antallet opphevelser.
-
-16.2.2 Gjeldende rett
-Etter trygderettsloven § 21 fjerde ledd kan Trygderettens avgjørelse av realitetene i saken gå ut på
-stadfestelse eller omgjøring. En slik avgjørelse vil
-avslutte saken i forvaltningssporet. Den som er
-misfornøyd med Trygderettens avgjørelse, er
-henvist til å bringe saken inn for domstolen for
-gyldighetsprøving.11
-Hvis Trygderetten ikke har et «forsvarlig
-grunnlag for å avgjøre realiteten», følger det av
-trygderettsloven § 21 fjerde ledd at Trygderetten
-kan «oppheve vedtaket og henvise saken til ny
-behandling». Hvis det er grunnlag for det, kan
-Trygderetten også henvise saken uten å oppheve
-vedtaket.
-Ved en lovendring i 2016 ble det tatt inn i loven
-at oppheving krevde at det ikke forelå et «forsvarlig grunnlag» til å ta stilling til sakens materielle
-sider. Det følger av forarbeidene at endringen
-skulle «klargjøre og fremheve at oppheving og/
-eller hjemvisning av vedtak kun kan skje hvis det
-ikke foreligger et forsvarlig grunnlag for å avgjøre
-saken».12 Samtidig påpekte departementet at
-Trygderetten de senere år «i liten grad [har]
-benyttet seg av muligheten til å innhente nye
-bevis».13 Det antas at det har sammenheng med at
-sakene i store trekk er bedre opplyst gjennom
-saksbehandling i underliggende instans, og departementet synes å mene at det ofte er hensiktsmessig å overlate saksutredningen til Nav selv. Det er
-dermed en viss usikkerhet knyttet til hvordan
-«forsvarlig grunnlag» skal forstås.
-16.2.3 Utvalgets vurderinger
-Når Trygderetten opphever vedtak, blir saksbehandlingstiden ofte svært lang. Problemet er altså
-det samme i Trygderetten som i klageinstansen.
-Det er likevel noen relevante forskjeller mellom NAV Klageinstans og Trygderetten som gjør
-at Trygderetten i større grad bør kunne oppheve
-vedtak. Klageinstansen vil ofte være vel så godt
-egnet til å vurdere nye og andre forhold i saken
-som førsteinstansen. Utvalget har også vist til at
-klageinstansens vedtak kan ankes til Trygderetten. Det er dermed er mindre betenkelig at klageinstansen avgjør alle sider av saken, selv om
-saken ikke var godt nok behandlet i første instans.
-For Trygderetten blir dette annerledes. Nedenfor
-drøfter utvalget Trygderettens adgang til å opp11
-
-10
-
-Oslo Economics (2022), Saksflyt i klage- og ankesaker i
-NAV og Trygderetten, s. 41.
-
-189
-
-Kapittel 16
-
-12
-13
-
-Trygderettesloven § 26.
-Prop. 139 L (2014–2015), s. 77.
-Prop. 139 L (2015–2015), s. 66.
-
-[Side 192]
-
-190
-
-Kapittel 16
-
-NOU 2023: 11
-Raskt og riktig
-
-heve klageinstansens vedtak versus å realitetsbehandle og avgjøre ankesaken.
-De formelle rammene for Trygderettens
-prøving er nokså like klageinstansens. Trygderetten har full kompetanse til å prøve alle sider av
-saken, og Trygderetten har plikt til å sørge for et
-«forsvarlig avgjørelsesgrunnlag».14 NAV Klageinstans er et tradisjonelt forvaltningsorgan, mens
-Trygderetten er et domstolslignende organ med
-en behandling basert på en partprosess. Dette
-gjør at Trygderettens utredningsplikt er neddempet sammenlignet med klageinstansen.15 Å
-pålegge Trygderetten å avsi realitetsavgjørelser,
-vil i praksis utvide utredningsplikten og gi en mer
-aktiv rolle. Det kan svekke tilliten til Trygderetten
-som uavhengig organ.
-Klageinstansen behandler om lag ti ganger så
-mange saker som Trygderetten. Dette åpner i
-større grad for spesialisering og effektivitet i saksutredningen.
-NAV Klageinstans er en del av Arbeids- og velferdsetaten og er faglig og administrativt styrt av
-direktoratet, på samme måte som førsteinstansen.
-Dersom førsteinstansen har avslått en søknad
-etter å ha vurdert ett av vilkårene for en ytelse, vil
-en plikt til å ta stilling til realitetene kunne medføre at klageinstansen må vurdere de øvrige vilkårene som første instans. Ettersom både førsteinstans og NAV Klageinstans er styrt av direktoratet, vil det ut fra styringsperspektiv være uproblematisk om klageinstansen gjør dette. Motsatt kan
-det være uheldig om Trygderetten som uavhengig organ vurderer sider av saken som førsteinstansene ikke har tatt stilling til.
-Trygderettens avgjørelser er i all hovedsak
-endelige og kan ikke påklages. Hvis Trygderetten
-realitetsbehandler vilkår som første instans ikke
-har vurdert, vil mange brukere ikke ha noen reell
-overprøvingsmulighet av den siden av saken.
-Utvalget mener at Trygderetten ikke bør ha
-en plikt til å avgjøre realiteten i alle saker og vil
-derfor ikke foreslå at det skal gjelde en slik ubetinget plikt.
-Et annet spørsmål er om Trygderettens
-adgang til å oppheve Navs vedtak bør innsnevres.
-For brukeren vil det ofte være ønskelig å få et
-endelig vedtak i Trygderetten. Det er også en fordel for klage- og ankesystemet at sakene avsluttes
-så raskt som mulig. I perioden 2016-2021 opphevet Trygderetten likevel vedtakene i om lag 40
-
-prosent av sakene der vedtaket ikke ble stadfestet.
-Utvalget har ikke grunnlag for å si noe om riktigheten av disse opphevingene, men viser til at oppheving bare skal skje når det ikke foreligger et forsvarlig grunnlag, og at Trygderetten har ansvar
-for at saken er forsvarlig opplyst.
-Utvalget mener det er hensiktsmessig å
-begrense Trygderettens adgang til å oppheve vedtak. Generelt kan Trygderetten be Nav (og eventuelt bruker) om å gi ytterligere opplysninger. Av
-hensyn til bruker bør derfor Trygderetten innhente slike opplysninger og ta stilling til sakens
-materielle sider i alle saker der Nav har vurdert
-det aktuelle vilkåret. Ettersom Trygderetten er
-uavhengig, er det problematisk at de foretar vurdering av vilkår som Nav ikke har vurdert. Det
-gjelder særlig der retten må ta stilling til kompliserte faktiske eller rettslige spørsmål.
-Utvalget vil på denne bakgrunn foreslå at
-Trygderetten bare skal kunne oppheve vedtak
-dersom en endelig avgjørelse krever at retten må
-ta stilling til sider av saken som ikke har vært vurdert av Nav, og som Trygderetten ikke bør
-behandle som første instans. Terskelen er ment å
-ligge klart høyere enn i dag.
-
-14
-
-16
-
-Trygderettsloven § 20. Utredningsplikten er nok noe svakere enn den er i forvaltningen generelt, se Prop. 139 L
-(2014–2015), s. 77 og Rt. 2012 s. 1810.
-15
-Se Prop. 139 L (2014–2015), s. 77.
-
-16.3 Tiltak for å sikre forsvarlig
-behandling i Nav etter opphevelse i
-Trygderetten
-16.3.1 Innledning
-Utvalget foreslår at Trygderetten fortsatt skal
-kunne oppheve klageinstansens vedtak og henvise saken til ny behandling. Det reiser spørsmål
-om i hvilket organ og hvordan saken skal behandles når den er sendt tilbake til Nav. Dette er ikke
-eksplisitt regulert i dag. I Navs rundskriv til trygderettsloven står det at «[b]ehandlingen av saken
-må starte på nytt»,16 men det er ikke angitt hvem
-som skal behandle saken.
-Saksflyten i opphevingssaker er beskrevet i
-Oslo Economics’ rapport.17 Oslo Economics foretok en utvalgsundersøkelse av 16 opphevingssaker i Trygderetten. Åtte av sakene gjaldt AAP,
-mens de andre åtte gjaldt uføretrygd. Undersøkelsen viser at oppheving innebærer at brukeren må
-påregne en god del ekstra saksbehandlingstid for
-å få saken behandlet på nytt i førsteinstans. Hvis
-brukeren klager på nytt vedtak, går det ytterligere
-
-17
-
-Se merknadene til § 21 fjerde ledd tredje og fjerde punktum.
-Oslo Economics (2022), Saksflyt i klage- og ankesaker i
-NAV og Trygderetten, s. 40.
-
-[Side 193]
-
-NOU 2023: 11
-Raskt og riktig
-
-saksbehandlingstid. Det gjelder ingen særskilte
-tidsfrister for den nye behandlingen.
-
-16.3.2 Utvalgets vurdering
-Utvalget mener at det er uheldig at opphevelser
-fra Trygderetten ofte innebærer vesentlig forlenget saksbehandlingstid.
-Når Trygderetten opphever klageinstansens
-vedtak, er det naturlig at saken håndteres og
-avgjøres av den instansen som traff det opphevede vedtaket. Opphevingen innebærer at vedtaket som ble anket inn for Trygderetten ikke lenger gjelder. Klageinstansen må ta stilling til saken,
-herunder utrede saken videre og avgjøre den med
-nytt vedtak. De vanlige reglene om behandling av
-klager vil da gjelde. Det betyr at klageinstansen
-
-191
-
-Kapittel 16
-
-må avgjøre saken i realiteten. Førsteinstansen kan
-pålegges å foreta nærmere undersøkelser og dermed bistå med utredning.
-Utvalget mener at det er uheldig at saker som
-kommer tilbake til Nav etter oppheving i Trygderetten, ikke prioriteres. Disse sakene kan ha vært i
-systemet i flere år. Når brukeren helt eller delvis
-har fått medhold i Trygderetten, gir det grunnlag
-for forventninger om at saken raskt løser seg.
-Siden en oppheving kan ende med at Nav treffer
-nytt vedtak med samme resultat som sist, kan det
-føre til ytterligere forlengelse og belastning for
-bruker.
-Utvalget vil derfor foreslå at det fremgår av
-loven at oppheving og hjemvisning i Trygderetten
-innebærer at klageinstansen selv skal behandle
-og avgjøre saken uten ugrunnet opphold.
-
-[Side 194]
-
-192
-
-NOU 2023: 11
-
-Kapittel 17
-
-Raskt og riktig
-
-Kapittel 17
-
-Tiltak for å effektivisere saksbehandlingen
-i Trygderetten og lagmannsretten
-
-Boks 17.1 Utvalgets forslag
-Utvalget foreslår
-– avgjørelse om å avvise eller gjenoppta en
-• at saker i Trygderetten skal fordeles etter de
-sak skjer ved kjennelse, og at kjennelsen
-samme prinsippene som gjelder for fordeling
-skal kunne ankes etter tvistelovens regler
-av saker i tingretten og lagmannsretten
-om anke over kjennelse
-– fordelingen skal baseres på saklige og
-– alle andre avgjørelser skjer ved beslutobjektive kriterier som tilfeldighet, komning, og at beslutningene ikke skal kunne
-petanse eller erfaring, under hensyntapåankes særskilt
-gen til en rimelig arbeidsfordeling mel• at Trygderetten må tilpasse begrunnelsen av
-lom dommerne og en effektiv bruk av
-dommer og kjennelser til sakens karakter
-domstolenes ressurser
-– dommer og kjennelser skal begrunnes på
-• at Trygderetten som hovedregel setter rett
-samme måte som i de alminnelige dommed én juridisk kyndig dommer
-stolene
-• at Trygderetten i tillegg setter rett med medi– hvis Trygderetten finner at resultatet i
-saken er åpenbart, kan Trygderetten gi
-sinsk kyndig og/eller attføringskyndig domen forenklet begrunnelse
-mer når hensynet til forsvarlig behandling av
-– Trygderetten skal alltid kunne sitere fra
-den konkrete saken tilsier det
-underliggende instansers vedtak og
-– avgjørelse om rettens sammensetning
-andre dokumenter i saken, så langt Trygtreffes av den dommer som forbereder
-saken (administrator)
-deretten finner det hensiktsmessig
-• at Trygderettens avgjørelser skjer i forskjel– dommeren i den enkelte sak skal vurdere
-selv hvilken form og hvilket omfang
-lige former, og at det skal få betydning for
-begrunnelsen skal ha, så lenge lovens vilankemulighetene
-– avgjørelse av de krav saken gjelder, skjer
-kår er oppfylt
-ved dom, og at dommen skal kunne ankes
-• Trygderettens saker skal som hovedregel
-etter tvistelovens regler om anke over
-være avgjort innen seks måneder
-dom
-
-17.1 Styring av sakstildeling
-17.1.1 Innledning
-Hvordan sakene skal fordeles i Trygderetten, er
-et praktisk og prinsipielt viktig spørsmål. Det har
-betydning for ressursutnyttelse og kompetansebruken, og det har en side til organets uavhengighet og brukernes tillit til systemet.
-Sakene i Trygderetten tildeles etter et tilfeldighetsprinsipp.1 Prinsippet ble lovfestet i 2016, og i
-
-forarbeidene er det forutsatt at innholdet svarer til
-kravene til tilfeldig fordeling som gjelder i de
-alminnelige domstolene.2 For de alminnelige
-domstolene er imidlertid prinsippet ulovfestet.
-Det har over tid blitt diskutert om hvor langt
-tilfeldighetsprinsippet rekker, herunder hvilke
-forhold som kan begrunne unntak. Spørsmålet er
-grundig drøftet i Domstolkommisjonens utred1
-2
-
-Trygderettsloven § 7
-Prop. 139 L (2014–2015) s. 43.
-
-[Side 195]
-
-NOU 2023: 11
-Raskt og riktig
-
-ning fra 2020.3 Det er illustrerende at Høyesterett
-i et høringssvar til forslag om endringer i domstolloven i 2016 uttalte at det bare var i Høyesterett at
-det gjaldt et tilfeldighetsprinsipp, og ikke tingrettene og lagmannsrettene.
-Domstolkommisjonen har foreslått en lovfesting av det ulovfestede tilfeldighetsprinsippet som
-gjelder for domstolene i dag. Det går ut på at saksfordelingen ikke skal kunne påvirke utfallet av en
-sak, og at fordelingen skal baseres på saklige og
-objektive kriterier som tilfeldighet, særskilt fagkunnskap, kompetanse eller erfaring. Det skal
-legges til rette for en rimelig arbeidsfordeling
-mellom dommerne og en effektiv bruk av domstolenes ressurser. Fordeling av en sak som allerede
-er tildelt en dommer, skal begrunnes skriftlig når
-dommeren motsetter seg omfordeling.4
-Praksis i Trygderetten har i hovedsak vært at
-sakene tildeles tilfeldig. Det gjelder både mellom
-avdelinger og mellom administratorer og fagkyndige medlemmer. I de senere årene har det blitt
-gjennomført restansenedbyggingsprosjekter der
-rettsmedlemmer har blitt plukket ut til å jobbe
-med bestemte sakstyper. Formålet har vært å få
-avgjort sakene mest mulig effektivt.
-Fordeling av saker er viktig for ansvarsforholdene, og har en side til Trygderettens veiledningsplikt. Når ankemotparten oversender en
-anke til Trygderetten, blir saken tatt i mot i en
-administrativ enhet i Trygderetten, som får
-ansvar for saken før den er tas opp til behandling.
-Den administrative enheten håndterer eventuell
-kontakt med bruker og ulike deler av Nav. Det drives imidlertid ingen aktiv saksstyring, og saken
-blir i praksis liggende – gjerne i mange måneder –
-til den plukkes opp av den som skal avgjøre saken.
-Agenda Kaupang har i sin undersøkelse funnet at
-mange brukere opplever at det er vanskelig å
-komme i kontakt med Trygderetten for å få svar
-på spørsmål, og at de får lite informasjon om hva
-som skjer med saken.5
-I de alminnelige domstolene er dette annerledes. Der tildeles saken en dommer nokså umiddelbart etter at saken er kommet inn. Dommeren
-har ansvar for å drive aktiv saksstyring.6 I tingrettene er det vanligvis samme dommer som forbereder og avgjør saken. I lagmannsretten er det også
-en dommer som har ansvar for saksforberedelsen,
-men det er vanlig at det er tre andre dommere
-3
-4
-5
-6
-
-NOU 2020: 11 Den tredje statsmakt, kapittel 15.
-NOU 2020: 11 Den tredje statsmakt, punkt 15.6.5.
-Agenda Kaupang (2022) Brukeropplevelser fra klage- og
-ankesystemet i NAV og Trygderetten, s. 21.
-Tvisteloven § 11-6.
-
-193
-
-Kapittel 17
-
-som gjennomfører forhandlingen og avsier dom.
-Uansett er det til enhver tid en dommer med
-ansvar for saksstyring, og partene er som regel
-kjent med det.
-
-17.1.2 Utvalgets vurderinger
-Sakene i Trygderetten synes ikke å bli styrt like
-aktivt som sakene i de alminnelige domstolene.
-Mens Trygderetten har ansvar for sakens opplysning og kan prøve alle sider av saken, er utgangspunktet i domstolene at det er partene som har
-ansvaret for bevisføring, og at retten må forholde
-seg til partenes anførsler (disposisjonsprinsippet).7 Likevel opptrer domstolen langt mer aktivt i
-sin saksstyring.
-Etter utvalgets syn er den måten saker fordeles og styres i domstolen på, egnet til å sikre fremdrift, forutsigbarhet og tydelige ansvarslinjer.
-Dette gjelder helt fra saken kommer inn, til den er
-avgjort. Spørsmålet er derfor om og i hvilken grad
-Trygderetten bør operere på samme måte.
-Slik utvalget ser det, er det klart at en viss,
-bevisst styring av saksporteføljen er viktig for
-effektiviteten i et organ som skal produsere en
-betydelig mengde avgjørelser, slik som Trygderetten. Det tilsier at sakene ikke fordeles helt tilfeldig, men at det tas hensyn til en del praktiske forhold.
-Etter utvalgets syn er det effektivt om en
-begrenset gruppe dommere i en overgangsfase
-håndterer en bestemt sakstype, slik at restansene
-ikke hoper seg opp. I en situasjon med stor generell saksinngang kan det være effektivt å prioritere sakene som krever minst saksforberedelse
-og behandlingstid. Et strengt tilfeldighetsprinsipp
-kombinert med et vanlig køsystem begrenser
-muligheten for slik effektivisering.
-Utvalget mener at det tilfeldighetsprinsippet
-som gjelder for de alminnelige domstolene, slik
-det kommer til uttrykk i Domstolkommisjonens
-forslag, vil gi en god regulering av sakstildeling
-også i Trygderetten.8 Det er vanskelig å se hvorfor det skulle være behov for en strengere regel i
-Trygderetten enn i de alminnelige domstolene.
-Domstolkommisjonens anbefaling om noe mer
-spesialisering i de alminnelige domstolene er også
-et uttrykk for at hensynet til tilfeldighet av og til
-må vike for praktiske hensyn som gir en mer
-effektiv og betryggende behandling.
-Videre er det viktig at tilfeldighetsprinsippet
-ikke er til hinder for effektiviserende tiltak. Dette
-7
-8
-
-Tvisteloven § 11-2.
-Henvisning til Domstolkommisjonens forslag.
-
-[Side 196]
-
-194
-
-NOU 2023: 11
-
-Kapittel 17
-
-Raskt og riktig
-
-gjelder særlig i perioder med stor saksinngang.
-Utvalget mener at det bør fremgå av loven hvilke
-hensyn som er relevante for vurderingen av hvordan saker skal fordeles, slik Domstolkommisjonen har foreslått.
-Utvalget vil foreslå at loven gir uttrykk for at
-tildeling i Trygderetten skal følge de alminnelige
-reglene som gjelder for domstolen.
-Fordelingen av saken bør skje så raskt som
-mulig etter at den er kommet inn til Trygderetten.
-Den dommeren som får ansvar for saken, skal
-sørge for at Nav pålegges å levere tilsvar i saken.
-Deretter skal dommeren sørge for at saken styres
-aktivt, og at partene veiledes etter behov.9 Som
-utgangspunkt bør dette være den dommeren som
-også til slutt skal avgjøre saken, enten alene eller
-sammen med fagkyndige meddommere. Denne
-typen saksstyring vil etter utvalgets syn gjøre det
-mulig å avgjøre sakene innen en eventuell lovfastsatt frist, slik utvalget vil gå inn for.
-
-17.2 Trygderettens sammensetning i
-den enkelte sak
-17.2.1 Innledning
-Hovedregelen i Trygderetten er at retten i en
-ankebehandling settes med to rettsmedlemmer.
-Administrator kan ikke avsi kjennelser alene, men
-kan treffe enkelte prosessledende beslutninger.
-Minst én av de to rettsmedlemmene skal være
-juridisk kyndig. Utvalget har fått opplyst at retten
-settes med to juridisk kyndige dommere i om lag
-40 prosent av sakene. Loven åpner også opp for at
-retten kan settes med tre eller fem medlemmer. I
-praksis settes rett med tre medlemmer når det er
-behov for mer enn ett fagkyndig medlem. Det
-skjer i en fjerdedel av sakene. Praksis de senere
-årene har vært at retten rent unntaksvis settes
-med fem medlemmer.
-For å redusere ressursbruken i den enkelte
-sak, og dermed skape høyere produksjon, er det
-nærliggende å spørre om hovedregelen bør være
-at retten settes med kun ett juridisk kyndig medlem, og at det deretter kan trekkes inn fagkyndige
-etter behov.
-Generelt har Trygderetten de senere årene
-fått gradvis flere ankesaker knyttet til helserelaterte ytelser, og de utgjør en stadig høyere andel
-av porteføljen. Det betyr at andel saker som krever fagkyndig kompetanse i tillegg til juridisk
-kompetanse, har vært økende. I Trygderettens
-årsrapport for 2021 er det oppgitt at nærmere 60
-
-prosent av ankesakene gjaldt arbeidsavklaringspenger, yrkesskade og uføretrygd.10 I ankesaker
-som gjelder rett til uføretrygd og arbeidsavklaringspenger, settes rett ofte med tre medlemmer.
-Statistikken over bruk av medisinsk og attføringskyndig medlem viser en viss økning de siste
-årene.
-I møter med Trygderetten har utvalget fått
-opplyst at behovet for og tilgangen på fagkyndige
-medlemmer de senere årene har virket begrensende på produksjonen. Utvalget mener det er
-betimelig å spørre om det er nødvendig å bruke
-sakkyndighet i så mange saker som i dag.
-
-17.2.2 Gjeldende rett
-Det følger av trygderettsloven § 7 første ledd at
-retten settes med to medlemmer i den enkelte
-sak, hvis ikke annet er bestemt. Etter § 7 annet
-ledd skal rett likevel settes med tre medlemmer
-når en av fire grunner foreligger: 1)sakens art tilsier at retten i tillegg settes med et juridisk kyndig
-medlem, et medisinsk kyndig medlem eller et attføringskyndig medlem, 2) når retten opprinnelig
-er satt med to medlemmer, men det viser seg at
-det ikke er enighet om utfallet av saken, 3) når
-saken reiser vanskelige retts- eller bevisspørsmål,
-eller 4) når Trygderettens leder bestemmer det.
-Opprinnelig bestemte trygderettsloven at rett
-skulle settes med tre eller fem medlemmer, og
-henholdsvis en og to av disse skulle være legmenn. Ved en lovendring i 1972 kunne saker som
-ikke reiste vesentlige tvilsspørsmål, likevel
-behandles uten legmenn, med tre faste medlemmer, eventuelt med to faste medlemmer dersom
-utfallet av ankebehandlingen ble funnet utvilsomt.11 Hovedregelen om to medlemmer kom inn
-i loven i 1997.12 Det ble åpnet for å sette rett med
-tre medlemmer blant annet i saker hvor både attføringskyndig og medisinsk kyndig medlem
-burde delta. Videre skulle det den gang være tre
-medlemmer i saker som ble avgjort på forenklet
-måte, dvs. uten grunngiving og ved uenighet om
-avgjørelsen. Lovendringen var begrunnet med
-effektivitetshensyn, og man fant at dette ville sikre
-rimelige krav til rettssikkerhet for brukerne.
-Siden 1997 har det fulgt av trygderettsloven
-§ 7 tredje ledd at Trygderetten kan settes med
-fem medlemmer når avgjørelsen kan bli bestemmende for praksis på et saksområde. Dette vil
-være aktuelt i saker prinsipiell betydning. Det er
-10
-11
-
-9
-
-Trygderettsloven § 1 annet ledd tredje strekpunkt.
-
-12
-
-Årsrapport, Trygderetten, 2021, s. 14.
-Ot.prp. nr. 5 (1966–67).
-Endringslov 13. juni 1997 nr. 59.
+## Trygderettens formelle rolle og status i norsk rett
+
+### Innledning
+
+Utvalget mener at det ikke er noen god løsning at Trygderettens avgjørelser skal bringes inn for tingretten i første instans, og ser det heller ikke som en god løsning å erstatte Trygderetten med behandling i tingretten. Dagens overordnede struktur fremstår etter utvalgets syn som den beste for både brukerne og samfunnet. Det betyr likevel ikke at dagens ordning er ideell. Tvert imot er det grunn til å vurdere endringer i Trygderettens organisering, særlig i lys av den uklare rollen Trygderetten må kunne sies å ha hatt siden etableringen.
+
+Trygderetten er formelt sett et forvaltningsorgan, men har en organisering og saksavvikling som har mange likhetstrekk med en domstol. Behandlingen i Trygderetten oppfyller de krav som EMK artikkel 6 stiller til en uavhengig og upartisk domstolsbehandling. Trygderetten oppfyller da også de materielle krav til domstolsbehandling etter Grunnloven § 95. Utvalget er enig med høyesterettsdommer Skoghøy når han skriver at Trygderetten «defineres som et forvaltningsorgan, men fungerer langt på veg reelt som en særdomstol».[^527] Ser man nærmere på bakgrunnen for Trygderettens opprettelse, er det etter utvalgets syn klart at Trygderetten nettopp skulle være en særdomstol. Dessuten har de senere års endringer i Trygderettens organisering og saksbehandling forsterket Trygderettens domstolspreg.
+
+Situasjonen i dag er at Trygderetten fungerer som den reelle dømmende myndighet i saker på rettens saklige virkeområde. Av mange brukere oppfattes den nok også som en domstol, selv om det formelt hører under forvaltningen. Når tilgangen til de egentlige domstolene også er så snever som den er i dag, skaper det et prinsipielt problem vurdert opp mot det maktfordelingsprinsipp Grunnloven bygger på. Utvalget vil derfor her vurdere om Trygderetten formelt bør anerkjennes som særdomstol i norsk rett.
+
+### Kort om de historiske forhold og synet på særdomstoler i Norge
+
+#### Bakgrunnen for opprettelsen og organiseringen av Trygderetten
+
+Til grunn for opprettelsen av Trygderetten lå innstilling fra Ankelovutvalget datert 22. oktober 1965. Ankelovutvalget foreslo at Trygderetten skulle være en domstol, og at Trygderettens avgjørelser skulle ankes direkte inn for Høyesterett.
+
+I høringsrunden var høyesterettsjustitiarius kritisk. Det ble vist til at det på forhånd var usikkert hvordan et slikt organ ville fungere, og at det derfor var «naturlig» å gi organet status som forvaltningsorgan. I tillegg problematiserte høyesterettsjustitiarius det prinsipielle ved at man på et avgrenset forvaltningsområde etablerer et spesialorgan som skal tre istedenfor by- og herredsrettene og lagmannsrettene.[^528]
+
+Også Justisdepartementet viste til at særdomstoler var uvanlig, og at det krevde en bredere utredning. Som høyesterettsjustitiarius mente Justisdepartementet at det var naturlig først å høste erfaringer fra Trygderetten som forvaltningsorgan. Justisdepartementet fremsatte også en del av argumentene som har vært anført mot å opprette særdomstoler. Det ble blant annet vist til at det kunne signalisere mistillit til de alminnelige domstoler.
+
+Sosialdepartementet påpekte at trygde- og pensjonssaker i alminnelighet ikke egnet seg så godt for behandling ved de ordinære domstoler. De mente også at slike avgjørelser var lite egnet for anke til lagmannsretten. Det ble særlig begrunnet i behovet for rask avklaring på området. Samtidig viste Sosialdepartementet til de mange innspill som var kommet, og til behovet for å foreta en nærmere drøftelse av Trygderetten som en domstol.[^529]
+
+I lys av høringsinnspillene landet Sosialdepartementet på at Trygderetten burde få status som «frittstående forvaltningsorgan». Samtidig pekte departementet på at det senere ville bli tatt under overveielse å la saken «utredes av et bredt sammensatt utvalg i samsvar med forslagene herom».[^530]
+
+#### Særdomstolsutvalgets syn
+
+Særdomstolsutvalget hadde som mandat å vurdere om det burde innføres særdomstoler på barne-, familie- og utlendingsfeltet. Istedenfor særdomstoler anbefalte Særdomstolsutvalget en mild spesialisering av de eksisterende tingrettene. Det ble lagt stor vekt på hensynet til det som kan kalles omstillingskostnader, og konsekvensene opprettelse av særdomstoler ville ha for tingrettene.
+
+Ved vurderingen av opprettelsen av barne- og familiedomstoler bygget Særdomstolsutvalget på at det ville være nødvendig å overføre en stor del av porteføljen fra de alminnelige domstolene til særdomstolen. Det ble pekt på at barnesakene i snitt utgjorde omtrent 30 prosent av tvistesakene i tingrettene, slik at konsekvensene for tingrettene ville bli betydelig. Det ville bety at en ikke ubetydelig del av tingrettens kompetanse og erfaring ville gå tapt. I tillegg reiste Særdomstolsutvalget spørsmål om hvorvidt det var mulig å opprette like robuste og faglig sterke miljøer i barnedomstoler rundt omkring i landet. Det ble lagt til grunn at det var behov for å behandle sakene muntlig og lokalt. Rent økonomisk ville det for øvrig være behov for betydelige investeringer for å bygge opp nye organisasjoner med lokaler, personell mv.[^531]
+
+Ved vurderingen av opprettelsen av en utledningsdomstol la Særdomstolsutvalget også vekt på behovet for muntlige forhandlinger og utfordringene knyttet til det å vedta en fullstendig ny prosesslov. Særdomstolsutvalget antok at en utlendingsdomstol ville gi mer rettssikkerhet og tillit, men kunne ikke se at fordelene ville så stor at de veide opp for de administrative konsekvensene av å legge om systemet.[^532]
+
+#### Domstolkommisjonens syn
+
+Domstolkommisjonen har også i sin siste utredning uttalt seg om særdomstolenes posisjon i norsk rett. Kommisjonen legger som et generelt standpunkt til grunn at det ikke burde opprettes særdomstoler i Norge med mindre det foreligger «helt spesielle omstendigheter», og viser til at det har vært den rådende oppfatning i norsk rettstradisjon over lang tid.[^533]
+
+I sin begrunnelse bygger kommisjonen i stor grad på et «generalitetsprinsipp», det vil si prinsippet om at allmenndomstoler og generalistdommere er ansett å fremme grunnleggende kvaliteter og verdier ved domstolene som statsmakt. Kommisjonen viser til at dette legger til best rette for domstolenes samfunnskommunikasjon og offentlighet i rettspleien, blant annet ved at det reduserer faren for utvikling av et «stammespråk» som er utilgjengelig eller uforståelig for andre, og at det oppleves betryggende og tillitvekkende at dommere ikke fremstår for fjerne fra folk flest.[^534]
+
+Domstolkommisjonen erkjenner at samfunnsutviklingen har ført til økt behov for, eller et ønske om, mer spesialisering i domstolene, men kommisjonen er av den oppfatning at dette kan ivaretas ved en begrenset spesialisering innad i de alminnelige domstolene. Kommisjonen viser til at brukere synes å verdsette spesialisering som allerede finner sted i domstolene, og minner dessuten om at tvisteloven i vid utstrekning åpner for at det settes rett med fagkyndig kompetanse.[^535]
+
+### Utvalgets vurderinger
+
+Prinsipielle betraktninger om og grunner til å formalisere Trygderettens rolle som særdomstol i norsk rett
+
+Domstolkommisjonen og Særdomstolsutvalget har altså relativt nylig uttalt seg om særdomstolenes posisjon i norsk rett. Mens Domstolkommisjonen mener at det på prinsipielt grunnlag ikke bør opprettes særdomstoler med mindre det foreligger helt spesielle omstendigheter, har Særdomstolsutvalget en mer praktisk tilnærming, hvor det avgjørende for at man ikke foreslo innføringen av barne-, familie- og utlendingsdomstoler, synes å ha vært omstillingskostnadene.
+
+Også dette utvalget tar som utgangspunkt at det må kreves svært gode grunner for å opprette særdomstoler. Slike grunner kan imidlertid være av både prinsipiell og praktisk art. Utvalget vil her drøfte de prinsipielle grunner som gjør seg gjeldende på Navs myndighetsområde.
+
+Retten til å få avgjort sine saker av en uavhengig og upartisk domstol er en grunnleggende rettssikkerhetsgaranti vernet av blant annet Grunnloven § 95 og EMK artikkel 6. Denne rettigheten gjelder også i saker mellom borgerne og staten, hvor domstolene etter Grunnloven § 89 har rett og plikt til å prøve lovligheten av myndighetenes avgjørelser.
+
+Det er ikke uten videre tilstrekkelig at domstolene formelt står til disposisjon for borgerne. Retten til rettferdig rettergang krever også at tilgangen til domstolen er reell.[^536] Det kan derfor hevdes at rettigheten ikke ivaretas når bare en liten del av befolkningen har realistiske muligheter til å bringe sine saker inn for domstolen. I tråd med dette har Den europeiske menneskerettsdomstol i relasjon til EMK artikkel 6 lagt til grunn at borgerne må ha praktiske muligheter til å nyttiggjøre seg av retten til rettferdig rettergang.[^537]
+
+Slik utvalget ser det, er det betimelig å spørre om brukerne har god nok tilgang til domstolene på Navs myndighetsområde, særlig vurdert opp mot Grunnloven § 95 og idealet om at domstolene skal være tilgjengelig for alle med et reelt behov. Det er et faktum at kostnadene ved domstolsbehandling av disse sakene er betydelige. Det gir seg utslag i at domstolene behandler relativt få saker i året, om lag 70 de siste årene. Til sammenlikning behandler Trygderetten 3 500-4 000 saker i året.
+
+Sakene på Navs myndighetsområde er, sammenlignet med saker på andre forvaltningsområder, gjenstand for en særlig betryggende behandling, der det totalt sett også er mer domstolskontroll. Det underbygges av at Trygderetten nok oppfyller de krav som etter EMK artikkel 6 stilles til en uavhengig og upartisk domstolsbehandling. Vurdert opp mot Grunnloven mener utvalget likevel at det er prinsipielle betenkeligheter ved at Trygderetten formelt hører under den utøvende makt. Så lenge bare et fåtall av brukerne har mulighet til å bringe Trygderettens avgjørelser videre inn for domstolene, ivaretas ikke de formelle sider av grunnlovsvernet i tilstrekkelig grad.
+
+Vår konstitusjon, og retten til å få sine saker avgjort av en uavhengig og upartisk domstol, bygger på den grunnleggende idé at det er den dømmende makt (domstolene) som skal kontrollere at den utøvende makt (forvaltningen) holder seg innenfor lovens rammer. Dette idealet oppfylles bare hvis domstolene rent faktisk får saker om forvaltningens myndighetsutøvelse til behandling. Slik Domstolkommisjonen peker på, er situasjonen i dag at det generelt er få forvaltningssaker som bringes inn for domstolen.[^538] Utvalget mener som sagt at det samme gjelder for saker på Navs myndighetsområde.
+
+Opprettelsen av uavhengige forvaltningsorganer, som Trygderetten, er egnet til å løse en del praktiske utfordringer med hensyn til overprøving av forvaltningsvedtak. Tilbake står likevel en ikke ubetydelig prinsipiell utfordring; at et forvaltningsorgan (Trygderetten) i praksis er den reelle dømmende makt på området. Det utfordrer maktfordelingsprinsippet Grunnloven bygger på, og borgernes rett etter Grunnloven § 95 til å få sin sak avgjort av en uavhengig domstol. Utvalget mener det er grunn til å tro at dette har en viss betydning for tilliten til systemet. På Navs myndighetsområde er dette tillitsaspektet særlig viktig.
+
+Når Domstolkommisjonen foreslår at alle saker bør starte i tingretten, bygger også det delvis på hensynet til disse formelle sidene ved den grunnlovfestede retten til rettferdig rettergang. Kommisjonen uttaler at «behandling \[bør\] skje i uavhengige domstoler og ikke i organer som formelt sett er en del av den utøvende makt».[^539] Dette er utvalget enig i, og det er nettopp denne prinsipielle betraktningen utvalget bygger på når det blant annet vil foreslå at man ved lov formaliserer Trygderettens status som domstol i norsk rett. Det vil gi økt formell og reell tilgang til domstolene, økt domstolskontroll med forvaltningen, i tråd med Grunnlovens system og borgernes rett til domstolsbehandling, og økt tillit til systemet.
+
+Praktiske fordeler med Trygderetten som særdomstol
+
+Det er liten grunn å tro at en formalisering av Trygderetten som særdomstol vil ha noen umiddelbare konsekvenser for Trygderettens arbeid. De fleste forslagene utvalget har til effektivisering av Trygderetten, lar seg gjennomføre uavhengig av organets lovfestede stilling. En slik endring legger imidlertid til rette for at Trygderetten kan dra nytte av fordeler som domstolene har. Det kan altså tenkes at det indirekte har positive konsekvenser at Trygderetten anerkjennes som særdomstol.
+
+I dag benytter for eksempel Trygderetten egne saksbehandlersystemer og administrative støttefunksjoner. Systemene kommuniserer dårlig med andre aktører i forvaltningen og domstolene. I møte med ledelsen i Trygderetten har utvalget fått opplyst at det brukes en del ressurser på slikt administrativt arbeid. Etter utvalgets syn er det naturlig at Trygderetten som særdomstol knyttes organisatorisk til Domstoladministrasjonen. Det innebærer at Trygderetten bør kunne kobles på og nyttiggjøre seg av systemene som er utviklet for domstolsvirksomhet, slik som Lovisa og Aktørportalen, som utvalget får opplyst at er mer effektive og brukervennlige enn Trygderettens egne systemer. Trygderetten har eksempelvis ikke et system som svarer til Aktørportalen, som er en heldigital løsning for enkel kommunikasjon mellom partene og retten. Dersom Trygderetten knyttes til i domstolenes systemer og støttefunksjoner, vil det også lette kommunikasjonen mellom Trygderetten og ankemotpartene, og mellom Trygderetten og domstolene.
+
+Å formalisere Trygderetten som særdomstol vil gjøre det lettere å rendyrke lagmannsretten som ankedomstol, slik Domstolkommisjonen har foreslått. Utvalget anser det naturlig at krav om overprøving av klageinstansens vedtak bør skje med stevning til Trygderetten, at Trygderetten så avsier dom, og at dommen kan ankes til lagmannsretten. Anken til lagmannsretten bør i stor grad følge tvistelovens regler om anke, inkludert regler om samtykke og ankesiling. Dermed vil lagmannsretten i disse sakene langt på vei fungere som en ordinær ankedomstol.
+
+Utvalget ser ikke bort fra at en endring og klargjøring av Trygderettens rolle kan påvirke effektiviteten i Trygderetten, om enn i begrenset grad. Saksbehandlingstiden er per i dag over ett år. Det rammer først og fremst brukerne som venter på viktige avklaringer i saker som kan ha stor betydning, men det er også skadelig for tilliten til Trygderetten. Utvalget mener at en del av problemet skyldes Trygderettens uklare rolle som en mellomting mellom forvaltningsorgan og domstol. Det gir på den ene siden forventninger om en kvalitet som om Trygderetten var en domstol, samtidig som at de på ressurssiden møter forventninger om å produsere som et forvaltningsorgan.[^540] Til tross for at Trygderetten gjennomgående har grundigere saksbehandling enn det som er vanlig i forvaltningen, er det en del eksempler fra rettspraksis på at lagmannsretten opphever Trygderettens kjennelser på grunn av saksbehandlingsfeil i form av manglende utredning, bruk av fagkyndige rettsmedlemmer eller mangelfull begrunnelse. Det er forståelig for utvalget at Trygderetten opplever sprikende forventninger til egen saksbehandlingen, og at det har vært utfordrende for Trygderetten å finne balansen mellom kvalitet og effektivitet. Utvalget tror at en klargjøring av Trygderettens rolle kan bidra til å rette opp i dette.
+
+Da Særdomstolsutvalget unnlot å foreslå å etablere barne-, familie- og utledningsdomstoler, var omstillingskostnadene et tungtveiende argument. På Navs myndighetsområde stiller dette seg annerledes. Trygderetten er allerede etablert. Trygderetten har egne lokaler og tilstrekkelig personell, og trygderettsloven regulerer allerede organiseringen av og saksbehandlingen i organet. Dersom Domstoladministrasjonen får administrativt ansvar for Trygderetten, må Domstoladministrasjonen tilføres de nødvendige bevilgninger, men i så fall vil ressursene departementet bruker på Trygderetten frigjøres. Enkelte lovendringer må til for å sikre Trygderettens uavhengighet som særdomstol, men dette har i hovedsak formell betydning. Siden tingrettene stort sett ikke behandler saker på Navs myndighetsområde, vil deres virksomhet være upåvirket av at Trygderettens rolle endres. Oppsummert anser utvalget det klart at en formalisering av Trygderetten som særdomstol ikke vil ha noen nevneverdige økonomiske eller administrative konsekvenser.
+
+Utvalget har fått opplyst at rekrutteringssituasjonen til Trygderetten i perioder ikke har vært ideell, men at den for tiden er god. Utvalget antar at en endring av Trygderettens formelle rolle i lengden virke positivt på Trygderettens rekruttering. Blant norske jurister er dommerstillinger generelt ettertraktet.[^541] Utvalget legger også til grunn at Trygderettens anseelse vil øke hvis organet formelt anerkjennes som særdomstol. Høy anseelse gir god rekruttering, som igjen vil er positivt for kvaliteten i saksbehandlingen.
+
+En endring av Trygderettens status vil etter utvalgets syn kunne øke tilliten til både Trygderetten som organ og systemet i sin helhet. Selv om det ikke er holdepunkter for at tilliten til Trygderetten er spesielt lav, er det en kjensgjerning at domstolene hører til de samfunnsinstitusjoner som nyter høyest tillit i samfunnet. Som særdomstol vil Trygderetten identifiseres med, og nyte godt av, denne tilliten. Slik utvalget ser det, har Trygderetten en saksbehandling og en kvalitet som berettiger en status som domstol. Som særdomstol vil også Trygderettens uavhengighet komme klarere frem, og det vil ikke være grunnlag for å betvile at Trygderetten utøver sin virksomhet uten politiske føringer.
+
+I utvalgets mandat fremheves behovet for å tydeliggjøre hvordan uenighet mellom Nav og Trygderetten om lovforståelse skal håndteres. Det har i praksis også vært reist spørsmål om rettskraftvirkningene av trygderettskjennelser. Utvalget antar at det kan få betydning for rettskildesituasjonen og avklaringer av uenigheter mellom Nav og Trygderetten dersom Trygderetten avsier rettsavgjørelser istedenfor forvaltningsvedtak.
+
+### Oppsummering
+
+Utvalget mener Trygderetten har fungert godt som en rettssikkerhetsgaranti og et godt overprøvelsesalternativ for vedtak truffet av NAV Klageinstans. Omkring 700-750 vedtak har hvert år blitt omgjort av Trygderetten, og kvaliteten i Trygderettens kjennelser er i hovedsak god.
+
+Det kan innvendes mot Trygderetten at det i flere perioder har vært en krevende restansesitasjon og lang saksbehandlingstid. Flere ganger tidligere har dette ført til endringer i trygderettsloven for å øke effektiviteten.
+
+Utvalget mener at Trygderetten de senere år ikke har klart å balansere forholdet mellom effektivitet og kvalitet på en god nok måte. Som utvalget kommer tilbake til, krever dette tiltak. Bekymringene som opprinnelig var knyttet til Trygderettens rolle som tvisteløsningsmekanisme ved opprettelsen, har imidlertid etter utvalget syn ikke gjort seg gjeldende.
+
+De senere år har flere sentrale aktører pekt på at domstolene behandler for få forvaltningssaker. Domstolkommisjonen bygger på dette i sin utredning, og problemet er sentralt i artikkelsamlingen Våre perifere domstoler.[^542] Det kan være ulike oppfatninger om hvorfor det er viktig at forvaltningssaker kommer for domstolen. Et prinsipielt argument er at det er viktig at den tredje statsmakt får utøvd reell kontroll med den utøvende makts avgjørelser. Å lovfeste Trygderettens status som særdomstol er etter utvalgets syn en konkret, realistisk og god løsning på deler av problemet. Slik utvalget ser det er det ikke rimelig å tolke en slik formalisering som noen mistillit til tingretten.
+
+Utvalget kan heller ikke se noen andre vektige argumenter som taler mot å formalisere Trygderetten som en særdomstol. Det synes i enkelte miljøer å være en viss motstand mot å utvide bruken av særdomstoler. Når en slik endring både kan bidra til økt effektivitet, økt tillit og flere riktige resultater, og ikke minst bidra til å sikre borgerne reell tilgang til en domstolsprøving av forvaltningsvedtak, bør ikke en prinsipiell motstand mot nye domstoler tillegges avgjørende vekt. Utvalget legger til grunn at liknende domstoler ser ut til å fungere godt blant annet i Sverige og Finland.
+
+I referansegruppemøter med Nav og Trygderetten har begge virksomhetene vært positive til et mulig forslag om å gjøre Trygderetten til en særdomstol. Signalene derfra ser ut til å bygge på at avgjørelsene fra Trygderetten vil fremstå mer autoritative, og at Nav i større grad vil følge opp Trygderettens praksis, både i den enkelte sak og i andre saker.
+
+Samlet sett er altså utvalget syn at Trygderetten gjennom trygderettsloven bør gis status som særdomstol. Det ligger som forutsetning for utvalgets forslag at brukerne på samme måte som i dag skal ha mulighet for å få fri saksførsel for behandlingen i Trygderetten.
+
+Hvis Trygderetten gis status som særdomstol i loven, oppstår spørsmålet om den organisatorisk bør underlegges Domstoladministrasjonen. I dag er den underlagt Arbeids- og inkluderingsdepartementet.
+
+Det er ingen nødvendighet at en domstol administrativt hører under Domstoladministrasjonen. Arbeidsretten er et eksempel på at det ikke er tilfellet. Arbeidsretten er en særdomstol.[^543] Det vanlige er likevel at domstolene underlegges Domstoladministrasjonen, også når det gjelder særdomstolene.
+
+Utvalget kan vise og slutte seg til Domstolkommisjonens synspunkter, som går ut på at domstolene bør sikres størst mulig grad av uavhengighet, og at det blant annet gjøres ved at de underlegges Domstoladministrasjonen, med mindre særlige grunner tilsier en annen løsning.[^544]
+
+Utvalget kan ikke se at det er noen tungtveiende grunner til at Trygderetten skal være underlagt Arbeids- og inkluderingsdepartementet hvis den ikke formelt skal være en del av forvaltningen. Domstolenes konstitusjonelle stilling, herunder Trygderetten som særdomstol, tilsier for øvrig at de underlegges en annen budsjett- og styringsprosess enn andre statlige virksomheter. Det sikres best ved å knytte organet til Domstoladministrasjonen.
+
+Utvalget legger også vekt på at Trygderetten har opplyst at det ligger gode muligheter for å effektivisere Trygderettens virksomhet hvis den kobles på Domstoladministrasjonens systemer og administrative støttefunksjoner.
+
+Utvalget forslår på denne bakgrunn at Domstoladministrasjonen skal ha det administrative ansvaret for Trygderetten som særdomstol.
+
+## Kvaliteten i saksbehandlingen i Trygderetten – mer muntlighet og bevisumiddelbarhet?
+
+### Innledning
+
+Et viktig kjennetegn ved gode beslutningsprosesser er at partene får delta i og påvirke prosessen og utfallet av den. I forvaltningen skjer dette som hovedregel gjennom skriftlig deltakelse. Hovedregelen i Trygderetten er også at sakene behandles skriftlig.[^545] I praksis innebærer det at Trygderettens medlemmer går igjennom sakens dokumenter og kommer frem til et resultat basert på dokumentgrunnlaget. Trygderettsloven åpner imidlertid for at saken unntaksvis behandles i rettsmøte, hvis det foreligger «særlige grunn».[^546] Muntlig behandling gir brukeren adgang til å møte opp og forklare seg for den som skal avgjøre saken.
+
+Systemet i de alminnelige domstolene er annerledes. Der er hovedregelen at avgjørelsene skal baseres på det som fremføres muntlig for dommeren (muntlighet og bevisumiddelbarhet). Retten skal treffe sin avgjørelse på grunnlag av behandlingen i rettsmøtet.[^547] Regelen ivaretar kravene til muntlighet som følge av Grunnloven § 95 og EMK artikkel 6.[^548]
+
+I forlengelsen av utvalgets forslag om å formalisere og styrke Trygderettens rolle og status som domstol, oppstår spørsmålet om adgangen, eller retten, til muntlig behandling, herunder umiddelbar bevisføring, i Trygderetten bør utvides. Problemstillingen blir særlig aktuell dersom avgjørelser fra Trygderetten skal kunne angripes med anke etter reglene i tvisteloven, slik utvalget foreslår.[^549] For lagmannsrettens vurdering av om en anke skal nektes fremmet, vil det for eksempel ofte ha betydning hvordan saken er blitt behandlet i Trygderetten. Mer muntlighet fremstår slik sett som en integrert del av formaliseringen av Trygderetten som særdomstol.
+
+### Gjeldende rett og praksis
+
+Det følger av trygderettsloven § 19 første ledd at Trygderetten «behandler tvisten på grunnlag av den skriftlige framstillingen som partene har gitt, og sakens øvrige opplysninger, slik de foreligger når retten avgjør saken». Etter § 19 annet ledd «kan» Trygderetten «holde rettsmøte hvis særlige grunner taler for det». Det er rettens administrator som avgjør om det skal bli muntlig behandling.
+
+Trygderettsloven regulerer ikke den konkrete gjennomføringen av en muntlig behandling, ut over slå fast at rettsmøtet som hovedregel skal holdes for åpne dører.[^550] Praksis i saker der det er besluttet å gjennomføre muntlige forhandlinger, har vært å følge reglene i tvisteloven, henholdsvis planmøte, sluttinnlegg og en full «hovedforhandling» med innledningsforedrag, parts- og vitneavhør og prosedyrer.[^551] Loven stenger imidlertid ikke for at de muntlige forhandlingene begrenses vesentlig, for eksempel slik at det bare settes av tid til muntlige forklaringer om enkelte sentrale tvistepunkter. Trygderetten står fritt til å gjennomføre saken muntlig på den måten som er best tilpasset den aktuelle saken.
+
+At sakene i Trygderetten behandles skriftlig, har nok til dels sammenheng med at Trygderetten anses som en del av forvaltningen. For Ankelovutvalget, som utredet forslaget til trygderettsloven, var det imidlertid avgjørende at muntlig behandling som regel ville være «unødvendig og, som alminnelig regel, heller ikke være praktisk mulig».[^552]
+
+Lovens adgang til å gjennomføre muntlige forhandlinger har vært lite brukt. Frem til 2004 hadde det bare vært muntlig behandling i fem saker.[^553] I 2003 avga en arbeidsgruppe en utredning om muntlig behandling i Trygderetten, hvor det ble foreslått at Trygderetten hvert år skulle ta sikte på å behandle 25 saker muntlig. Forslaget bygget på en brukerundersøkelse fra 2001, der flertallet var positive til muntlig behandling, og hvor det særlig ble vist til hensynet til tilliten til og offentlighet omkring Trygderettens prosesser. Det ble samtidig vist til at muntlighet var dyrt og påvirket prosessen negativt. Arbeidsgruppen mente følgende hensyn var relevante ved avgjørelsen om muntlig behandling: [^554]
+
+- Avgjørelsens betydning utenfor den foreliggende sak
+
+- Om muntlig behandling vil kunne tilføre saken nye opplysninger
+
+- Om den ankende part ønsker muntlig behandling
+
+- Hvor stor betydning det vil ha for den ankende part å få redegjøre for sin sak muntlig
+
+- Hvor viktig eller inngripende saken er for den ankende part
+
+- Hvorvidt den ankende part har kunne ivareta sine egne interesserer ved sakens behandling i trygdeetaten
+
+- Kostnadene ved muntlig saksbehandling, blant annet sett i forhold til tvistegjenstandens verdi
+
+- Saksinngangen og antall restanser i Trygderetten
+
+I årene 2004-2016 avsa Trygderetten realitetskjennelse etter en muntlig saksbehandling i totalt 30 saker.[^555] Siden 2018 har Trygderetten hatt interne retningslinjer for muntlig saksbehandling, som ble revidert i 2021,[^556] men heller ikke dette har ført til noen vesentlig økning i muntlighet.
+
+I lovrevisjonen i 2015 foreslo departementet å videreføre hovedregelen om at sakene i Trygderetten skulle avgjøres etter skriftlig behandling. Det ble vist til skriftlig saksbehandling gjør det mulig med høy produksjon. Departementet fryktet at høy grad av umiddelbar bevisføring ville påvirke produksjonen.[^557]
+
+### Utvalgets vurderinger
+
+Muntlighet og bevisumiddelbarhet har i norsk rett tradisjonelt vært ansett som viktige rettssikkerhetsgarantier ved domstolsbehandling. Det er vanlig å hevde at denne behandlingsformen gjør det lettere å bedømme ulike typer bevis, for eksempel partsforklaringer.[^558] Ved en muntlig behandling får beslutningstakerne se partenes reaksjoner, og det blir lettere å avdekke feil. Videre kan det hevdes at en muntlig behandling og dialogen i retten mellom aktørene, gjør det lettere å få oversikt over hva saken gjelder, og å skille det relevante fra det irrelevante og dermed at saken blir bedre opplyst for dommerne enn ved en ren skriflig behandling. Endelig er muntlighet ansett som en forutsetning for offentlighet i rettspleien, som bidrar til legitimitet og tillit.
+
+Selv om muntlighet og bevisumiddelbarhet utvilsomt har visse fordeler, er det vanskelig å si noe sikkert om hvor store fordelene egentlig er. Slik utvalget ser det, vil avgjørelsesgrunnlaget i mange tilfeller blir like godt gjennom skriftlig saksbehandling. Dessuten er det en rekke ulemper knyttet til et strengt muntlighets- og bevisumiddelbarhetsprinsipp.
+
+For mange brukere kan en plikt til å møte og forklare seg om egen sak og svært personlige forhold i retten være vanskelig. I så fall blir muntlighet en barriere for parten, istedenfor en mulighet. Det er også stor forskjell på personers evne og vilje til å fremføre sin sak og argumentere muntlig. Noen vil kunne kommunisere et tydelig budskap som innbyr til tillit, og vil kunne vinne mer eller mindre berettiget sympati, mens andre vil mestre situasjonen dårligere og kunne møte på en mer eller mindre berettiget antipati. Samtidig som muntlighet kan bidra til å belyse en sak, kan det også skape et skjevt bevisbilde. Forskning viser at fysiske tegn på løgn er upålitelige, og det derfor lett å overvurdere verdien av å kunne se vitner og parter.[^559] Det er også grunn til å tro at mer ressurssterke personer gjennomgående vil håndtere muntlige forhandlinger bedre enn mindre ressurssterke.
+
+Selv om dette til dels også gjelder for skriftlige prosesser, vil ulempene der kunne avdempes ved at partene får bistand til å utforme og levere sine skriftlige innlegg til retten. På den måten blir skriftlighet et middel til å sikre likebehandling. I tillegg kommer at dokumentbevis ofte er de mest nøytrale og sikre kildene man har.
+
+Muntlighet stiller også krav til beslutningstakernes oppmerksomhet og hukommelse når informasjon ikke kan gjenfinnes skriftlig.[^560] Skriftlighet åpner derimot for at beslutningstaker kan sette seg inn i materialet og dvele ved teksten. Særlig i kompliserte saker vil dette være gunstig, uavhengig av om det er et faktisk eller juridisk spørsmål som er det springende punkt.
+
+Betydningen av bevisumiddelbarhet og muntlighet som rettssikkerhetsgarantier vil nok variere mellom ulike sakstyper. Utvalget er enig med Ankelovutvalget når det fremhever at mange av sakene på Trygderettens område er godt egnet for skriftlig behandling.[^561] Dels beror svært mange av sakene på krevende medisinsk- eller attføringskyndige spørsmål som må avgjøres på grunnlag av skriftlige sakkyndigvurderinger. I mange andre tilfeller avgjøres sakene utelukkende basert på de juridiske spørsmålene i saken. I begge disse tilfellene er skriftlighet fullt forsvarlig, om ikke optimalt. Utvalget viser for øvrig til at de fleste land som har forvaltningsdomstoler, har regler om at sakene i utgangspunktet skal behandles skriftlig.[^562]
+
+Etter utvalgets syn må eventuelle fordeler med muntlighet avveies mot hensynet til effektivitet. Som departementet påpekte i 2015, er skriftlighet helt sentralt for å opprettholde effektiviteten i Trygderetten. Å opprettholde en vid adgang til å bringe saker inn for Trygderetten helt eller tilnærmet kostnadsfritt, med en prosessform basert på muntlighet og bevisumiddelbarhet, ville krevd vesentlig økte ressurser. I tråd med dette la også Særdomstolsutvalget til grunn at det ikke er realistisk å innføre noe generelt prinsipp om bevisumiddelbarhet og muntlighet i organer som håndterer et høyt antall saker.[^563]
+
+Vesentlig mer muntlighet og bevisumiddelbarhet i Trygderetten vil enten fordre økte bevilgninger eller en innstramming de øvrige rammebetingelsene for å få prøvd sin sakene for Trygderetten. Som i tingretten ville det naturlige vært at brukeren selv måtte bære en langt større kostnadsrisiko. Det ville i praksis betydd at færre brukere ville hatt en realistisk mulighet til å få overprøvd klageinstansens vedtak. Slik utvalget ser det, er det viktigere å sikre at så mange som mulig mulighet til å få overprøvd klageinstansens vedtak for en domstol enn å sikre de rettssikkerhetsgarantier som ligger i bevisumiddelbarhet og muntlighet.
+
+Etter dette mener utvalget at Trygderetten som hovedregel fortsatt skal behandle sine saker skriftlig.
+
+Utvalget ser imidlertid at det kan være grunn til å legge sterkere føringer på bruken av muntlighet enn det som gjelder i dag. Utvalget foreslår at Trygderetten gis formell status som særdomstol og at rettsmiddelet da vil være anke etter tvistelovens regler. Etter utvalget syn vil dette gjøre det hensiktsmessig med noe mer muntlighet.
+
+En vanlig ordning i land med forvaltningsdomstoler er at partene i saken kan be om muntlige forhandlinger. Med mindre muntlighet fremstår som unødvendig eller særlig grunner tale imot det, har parten krav på slik muntlig behandling. En slik regel synes å være nødvendig etter EMK artikkel 6, som etter hovedregelen gir partene krav på å få fremstille sin sak muntlig for en domstol. En tilsvarende regel i Trygderetten vil bidra til å sikre at behandlingen oppfyller kravene til rettferdig rettergang i EMK artikkel 6 og Grunnloven § 95. En konsekvens av det vil være at lagmannsrettene lettere kan nekte å fremme anker over trygderettsavgjørelser som klart ikke kan føre frem. En utvidelse av adgangen til muntlighet vil også kunne øke tilliten til prosessen, og det legger til rette for mer offentlighet.
+
+Etter utvalgets oppfatning bør også muligheten retten har til selv å beslutte muntlige forhandlinger utvides, og da slik at muntlighet kan benyttes i saker der sakens opplysning tilsier dette.
+
+En utvidelse av muntlighetsprinsippet i Trygderetten vil kunne påvirke effektiviteten. Hvor stor effekten er, beror imidlertid på hvordan dette gjennomføres. Etter utvalgets syn er det liten grunn til å gjennomføre en muntlig behandling i Trygderetten som en hovedforhandling i tingretten. Noe slikt vil partene heller ikke ha krav på. Muntlighet må brukes som en del av saksutredningen og begrenses til å gjelde de konkrete spørsmålene som det er en klar fordel å få belyst muntlig. Det vil typisk være partsforklaringer og faktiske forhold som er sentrale for saken, men ikke dokumentert skriftlig. Unntaksvis kan muntlighet være hensiktsmessig for å belyse juridiske eller medisinskfaglige spørsmål.
+
+Dersom Trygderetten praktiserer muntlighetsprinsippet i tråd med disse anvisningene, mener utvalget at det er forsvarlig å utvide retten, og adgangen til å beslutte, muntlig behandling. Utvalget viser til at en tilsvarende regulering gjelder i Sverige, der forvaltningsdomstolen etter det opplyste gjennomfører muntlige forhandlinger i en del saker, men da slik at rettsmøtet er relativt kort.[^564]
+
+Utvalget vil på denne bakgrunn anbefale at brukerne som hovedregel skal kunne kreve muntlig behandling, men slik at rettsmøtet skal avgrenses til de helt sentrale spørsmålene i saken som best lar seg belyse gjennom muntlige forklaringer. I tillegg skal Trygderetten av eget tiltak kunne beslutte muntlig behandling i saker som reiser slike spørsmål som Trygderetten mener best belyses gjennom muntlighet. Også i disse sakene må rettsmøtet begrenses til det absolutt nødvendige.

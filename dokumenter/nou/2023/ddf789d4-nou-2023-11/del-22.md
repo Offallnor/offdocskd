@@ -1,955 +1,258 @@
-# NOU 2023: 11, del 22 av 23 (side 271–280)
+# NOU 2023: 11, del 22 av 29
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2023/ddf789d4-nou-2023-11.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2023-11/id2969126/
 - Original-PDF: https://www.regjeringen.no/contentassets/bc4d7866cdbf4151b35df2ddb8b8f5bb/no/pdfs/nou202320230011000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 32 figurer, 132 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 271]
-
-NOU 2023: 11
-Raskt og riktig
-
-av søknaden. Det betyr ikke at søkeren kan forholde seg passiv når søknaden er levert. Dersom
-søkeren er kjent med relevante opplysninger som
-Nav ikke har, må det opplyses om det. Dette følger også av siste ledd, som fastsetter at konsekvensen av å fortie vesentlig opplysninger av
-betydning for saken kan være at Nav avslår søknaden. Brukeren har plikt til uoppfordret å gi opplysninger som vedkommende har og forstår er relevante for saken. Utgangspunktet er likevel at Nav,
-som ledd i sin saksutredning, skal gi pålegg om å
-gi opplysninger de ser er relevante.
-Selv om rettstilstanden er uklar, antar utvalget
-at dette er en endring i gjeldende rett. Slik utvalget ser det, har endringen likevel ikke så stor
-betydning. I dagens system er det på mange områder en praksis for at Nav, når de ser at det mangler
-opplysninger, veileder parten ved å sende ut et
-brev om hva som mangler til søker. Etter utvalgets
-forslag vil dette brevet også måtte inneholde et
-pålegg om å fremlegge nærmere angitte opplysninger eller dokumenter. I de situasjoner der Nav
-har tatt saker til behandling uten å sende et slikt
-brev, vil forslaget innebære en innstramming.
-Etter utvalgets syn bør Nav i alle tilfeller der det er
-synbare mangler enten pålegge parten å legge
-frem nødvendig opplysninger eller dokumentasjon eller, så langt utredningsplikten rekker, forsøke å innhente opplysningene selv.
-Tredje ledd viderefører dagens § 21-3 tredje
-ledd.
-Fjerde ledd viderefører dagens § 21-3 fjerde
-ledd.
-Femte ledd viderefører dagens § 21-7, med
-noen språklige endringer. Ordlyden er endret for
-å markere at det bare er fortielser som rammes.
-
-Forslag til § 21-Xc:
-§ 21-Xc. Ansvar for sakens opplysning i andre tilfeller enn i søknadssaker
-Den som mottar en ytelse, plikter å underrette
-etaten om endringer i forhold som kan være avgjørende for om vedkommende fortsatt har rett til
-ytelsen eller for å kunne kontrollere ytelsens størrelse.
-Arbeids- og velferdsetaten, Helsedirektoratet
-eller det organ Helsedirektoratet bestemmer kan
-kreve at den som mottar eller har mottatt en ytelse,
-gir de opplysninger og leverer de dokumenter som er
-nødvendige for å kontrollere ytelsens størrelse eller
-vilkårene for rett til ytelsen.
-§ 21-Xb tredje og fjerde ledd gjelder tilsvarende.
-En innvilget ytelse kan holdes tilbake eller stanses helt eller delvis dersom den trygdede unnlater å
-
-269
-
-Kapittel 26
-
-etterkomme påbud som er gitt i eller med hjemmel i
-denne lov.
-Dersom vilkårene i § 21-Xb syvende ledd er til
-stede, kan en innvilget ytelse holdes tilbake eller
-stanses helt eller delvis.
-Paragrafen er delvis ny og er ment å regulere forholdet mellom brukers opplysningsplikt og Nav
-sin veilednings- og utredningsplikt i andre saker
-enn søknadssakene. I innhold er bestemmelsen i
-hovedsak en videreføring av gjeldende rett. Formålet med endringene er først og fremst å klargjøre skille mellom de av bestemmelsen i dagens
-§ 21-3 som gjelder på søknadstidspunktet og de
-som gjelder i andre saker (typisk kontroll- og
-tilbakebetalingssaker). Det vises til punkt 20.3.3
-om utvalgets vurderinger og bakgrunnen for forslaget.
-Første ledd viderefører § 21-3 første ledd
-andre punktum.
-Annet ledd viderefører § 21-3 annet ledd.
-Tredje ledd gir bestemmelsene i forslaget til
-§ 21-Xb tredje og fjerde ledd tilsvarende anvendelse. Det innebærer at Nav også i andre saker
-enn søknadssaker kan pålegge en part å la seg
-undersøke og intervjue av lege eller annen
-sakkyndig, og at den som mottar en ytelse plikter
-å legitimere seg. Innholdet er en videreføring av
-dagens § 21-3 tredje og fjerde ledd.
-Fjerde ledd viderefører folketrygdloven § 21-7,
-men slik at denne bestemmelsen blir splittet opp.
-Bestemmelsens betydning for søknadssituasjoner foreslås regulert i § 21-Xb femte ledd, mens
-andre tilfeller (særlig kontroll og tilbakebetaling)
-foreslås regulert av § 21-Xc fjerde ledd.
-
-Forslag til § 21-Xd:
-§ 21-Xd. Arbeids- og velferdsetatens foreleggelsesplikt
-Arbeids- og velferdsetaten skal av eget tiltak
-legge frem for søkeren faktiske opplysninger som
-mottas, og som er av betydning for avgjørelsen, før
-vedtak treffes. Det samme gjelder opplysninger gitt
-til og innhentet fra en intern rådgivende lege eller
-fra offentlige registre. Som faktiske opplysninger regnes også sammendrag eller annen bearbeidelse av
-faktum. Søkeren skal få uttale seg innen en rimelig
-frist.
-Arbeids- og velferdsetaten trenger ikke å legge
-frem opplysninger
-a) som bekreftes av en fremstilling som parten selv
-har gitt eller kontrollert i forbindelse med saken
-b) når rask avgjørelse er påkrevd eller det av andre
-grunner ikke er praktisk mulig
-c) når det er åpenbart unødvendig
-d) som søkeren etter forvaltningsloven § 19 ikke har
-rett til innsyn i.
-
-[Side 272]
-
-270
-
-Kapittel 26
-
-NOU 2023: 11
-Raskt og riktig
-
-Departementet kan i forskrift bestemme at visse
-opplysninger hentet fra offentlige registre gir så sikre
-opplysninger at de ikke må forelegges for søker.
-Paragrafen er ny og gjelder Navs plikt til å forelegge faktiske opplysninger for søkeren. Bestemmelsen erstatter foreleggelsesplikten som i dag
-følger av forvaltningsloven § 17 annet til fjerde
-ledd. Utvalget har avdekket at Nav i liten grad har
-bevissthet om plikten til å forelegge opplysninger
-de mottar for brukerne. Noe av grunnen er trolig
-at regelen i forvaltningsloven er komplisert. Utvalget mener også det er grunn til å utvide plikten til
-å forelegge opplysninger noe. Det vises ellers til
-punkt 20.2.3 om utvalgets vurderinger og bakgrunnen for forslaget.
-Første ledd angir hovedregelen om at Nav av
-eget tiltak skal legge frem faktiske opplysninger
-som er mottatt i anledning saken, så lenge opplysningene er av betydning for avgjørelsen. Hvorvidt
-opplysningene gjelder brukeren selv eller andre
-forhold, er etter forslaget ikke avgjørende for foreleggelsesplikten.
-Gjeldende rett bygger på at foreleggelsesplikten bare gjelder opplysninger som Nav mottar.
-Utvalgets forslag viderefører dette. I andre punktum er plikten foreslått utvidet slik at opplysninger
-som er gitt til og innhentet fra en intern rådgivende
-lege, også skal forelegges for brukeren. Dette er en
-viktig del av utvalgets forslag som trolig vil være en
-utvidelse av foreleggelsesplikten.
-Utvalget foreslår samtidig at departementet i
-forskrift kan gjøre unntak fra foreleggelsesplikten,
-dersom registeropplysningen er tilstrekkelig sikker.
-Kravet om at opplysningene må ha betydning
-for saken, innebærer at opplysningene kan få innvirkning på resultatet. Opplysninger som ikke har
-denne egenskapen, behøver ikke å forelegges
-bruker.
-Det skal ikke lenger være et selvstendig vilkår
-at brukeren har krav på innsyn i opplysningene
-etter forvaltningsloven §§ 18 følgende. Siden foreleggelsesplikten uansett bare gjelder faktiske opplysninger, inkludert sammendrag eller annen
-bearbeidelse av faktum, vil det stort sett bare
-være aktuelt å forelegge opplysninger som parten
-har krav på etter forvaltningsloven § 18 c. Som i
-dag vil Nav likevel ikke ha noen plikt til å legge
-frem opplysninger som kan unntas etter forvaltningsloven § 19. Dette er foreslått inntatt i annet
-ledd bokstav d.
-Annet ledd bokstav a til c svarer i hovedsak til
-unntakene i forvaltningsloven § 17 annet ledd
-bokstav a til c. Unntaket i forvaltningsloven § 17
-annet ledd bokstav c er antatt å åpne for unntak
-
-fra plikten til å fremlegge opplysninger hentet fra
-særlig sikre registre, se Ot.prp. nr. 3 (1976–77)
-s. 73. Dette unntaket vil få økt betydning ettersom
-saksbehandlingen i Nav i stadig større grad vil bli
-automatisert. Om en registeropplysning er sikker
-nok, bør ikke avgjøres av den enkelte saksbehandler. Dette er et spørsmål som bør avgjøres på et
-høyere nivå, og på en måte som sikrer at for
-eksempel brukerorganisasjoner blir hørt. Utvalget mener derfor at forslaget til § 21-Xd annet ledd
-bokstav c ikke skal kunne brukes til å unnlate å
-fremlegge registeropplysninger. Derimot er det i
-tredje ledd gitt forskriftshjemmel til å unnta visse
-registeropplysninger fra foreleggelsesplikten.
-Tredje ledd gir departementet forskriftskompetanse til å beslutte at bestemte opplysninger
-hentet fra offentlige registre ikke trenger å bli
-forelagt bruker. Bestemmelsen er ment å sikre at
-vurderingen av om kvaliteten i registeropplysninger berettiger unntak fra foreleggelsesplikten
-foretas på et prinsipielt og tilstrekkelig høyt nivå.
-
-Forslag til § 21-Xe:
-§ 21-Xe. Begrunnelse av vedtak
-Enkeltvedtak etter denne loven skal ha skriftlig
-begrunnelse. Begrunnelsen skal tjene til å forklare
-sakens utfall for parten. Omfanget skal tilpasses
-vedtakets betydning.
-Begrunnelsen skal bestå av følgende informasjon:
-a) De faktiske omstendighetene som har hatt
-mye å si for sakens utfall, skal nevnes. Er de faktiske
-forhold beskrevet av parten selv eller i et dokument
-som er gjort kjent for parten, er en henvisning til
-den tidligere fremstilling tilstrekkelig. Hvis opplysninger er innhentet fra et annet forvaltningsorgan,
-skal det opplyses om dette. For vedtak som innebærer avslag på søknad om ytelser etter kapittel 11
-og 12 skal begrunnelsen angi de bevisene som er
-trukket inn og vektlagt i vurderingen av de avgjørende vilkårene.
-b) Det skal vises til reglene som vedtaket bygger
-på, og i nødvendig utstrekning gjøre rede for innholdet i dem. Dersom vedtaket bygger på rundskriv,
-skal det vises til det aktuelle rundskriv og den relevante del av det.
-c) Det skal gjøres rede for de viktigste hensynene
-som er vektlagt i vurderingen.
-Begrunnelsen trenger ikke inneholde opplysninger som kan unntas fra partsinnsyn etter forvaltningsloven.
-Departementet kan for bestemte saksområder gi
-forskrift om at begrunnelse kan unnlates dersom
-særlige forhold gjør det nødvendig, eller at begrunnelse først skal gis når parten ber om det.
-
-[Side 273]
-
-NOU 2023: 11
-Raskt og riktig
-
-Paragrafen er ny og gjelder Nav sin plikt til å
-begrunne vedtak etter folketrygdloven. Bestemmelsen kommer i stedet for forvaltningslovens
-krav til begrunnelse av vedtak. Det vises til punkt
-20.4.3 om utvalgets vurderinger og bakgrunn for
-forslaget.
-Forslaget bygger på Forvaltningslovutvalgets
-utkast til ny forvaltningslov § 48.
-Første ledd første punktum fastsetter at vedtak
-etter bestemmelsen skal være begrunnet. Når
-begrunnelsen skal gis, reguleres, som i dag, av
-forvaltningsloven § 24.
-Begrunnelsen skal være skriftlig. Første ledd
-annet punktum angir begrunnelsens formål, som
-er å forklare sakens utfall for brukeren. Forvaltningsorganet skal, så langt det er praktisk mulig,
-ta hensyn til brukerens behov og forutsetninger
-for å forstå vedtaket.
-Første ledd tredje punktum fastslår at begrunnelsesplikten er relativ. Det stilles større krav til
-begrunnelsen der vedtaket er særlig inngripende,
-og lempeligere krav der vedtaket er trivielt eller
-det ikke er grunn til å tro at brukeren vil være
-misfornøyd med det. Dette innebærer at kravene
-til begrunnelsen normalt vil være strengere for de
-ytelsene på Navs myndighetsområde som har
-størst betydning for brukeren.
-Annet ledd regulerer minstekravet til begrunnelsens innhold og må tolkes i lys av første ledd.
-Annet ledd bokstav a oppstiller kravene til
-begrunnelsens angivelse av de faktiske forholdene som vedtaket bygger på. Begrunnelsen skal
-nevne de faktiske omstendighetene som har hatt
-«mye å si» for sakens utfall. Det er ikke nødvendig
-å redegjøre for alle detaljer som forvaltningen har
-kjennskap til, eller faktiske opplysninger som ikke
-har hatt stor betydning for utfallet. Etter hovedregelen er det heller ikke nødvendig å redegjøre for
-de enkelte bevismidler og slutningene en trekker
-fra dem (selve bevisvurderingen).
-Angivelsen av sakens faktum kan skje ved henvisning til fremstillinger av de faktiske forhold
-som enten brukeren selv har beskrevet eller til
-fremstillinger i andre dokumenter som er gjort
-kjent for vedkommende. Dette er i tråd med gjeldende rett. Hvis avgjørelsen bygger på opplysninger som forvaltningsorganet har fått tilgang til fra
-et annet organ, skal begrunnelsen opplyse om
-dette og organet skal navngis.
-Ved avslag på ytelser etter folketrygdloven
-kapittel 11 og 12 skal det gis noe mer informasjon
-enn ellers. Begrunnelsen skal nevne bevisene
-som er trukket inn og vektlagt i vurderingen av de
-avgjørende vilkårene. Begrunnelsen trenger ikke
-angi detaljene i bevisvurderingen, men skal syn-
-
-271
-
-Kapittel 26
-
-liggjøre bevisene knyttet til de avgjørende vurderingene. Det skal pekes både på bevisene som
-støtter konklusjonen, og på de som trekker i
-andre retninger. Formålet er at brukeren skal se
-at beslutningstaker har sett og vurdert bevisene
-som ligger i saken.
-Annet ledd bokstav b oppstiller krav til beskrivelsen av rettsanvendelsen. Begrunnelsen skal for
-det første vise til reglene som vedtaket bygger på.
-Henvisningen skal være så presis som praktisk
-mulig. For det andre skal begrunnelsen i nødvendig utstrekning gjøre rede for innholdet i reglene.
-Kravet må forstås i lys av at begrunnelsen skal
-kunne forklare sakens utfall for brukeren. Med
-«nødvendig utstrekning» menes at begrunnelsen
-skal sette parten i stand til å forstå hovedtrekkene
-i vedtakets rettslige begrunnelse. I tråd med formålet må dette kravet forstås slik at begrunnelsen
-må tilpasses mottaker. Redegjørelsen skal ta hensyn til at det ikke kan forventes at brukeren uten
-videre forstår juridisk tekst. Som hovedregel er
-det ikke nødvendig å gjøre rede for tolkningsprosessen, men det kan være nødvendig hvis et
-bestemt tolkningsspørsmål er det springende
-punktet i saken. Dersom vedtaket bygger på rundskriv, skal det vises til rundskrivet og den relevante delen av dette.
-Annet ledd bokstav c gjelder beskrivelsen av
-vurderingspregete vilkår og fritt skjønn. I begrunnelsen skal det gjøres rede for de viktigste
-momentene som forvaltningsorganet har lagt vekt
-på ved avgjørelsen. I motsetning til det som gjelder i dag, vil denne plikten også omfatte forvaltningens vurderinger av vilkår i lov eller forskrift
-(vurderingspreget rettsanvendelse). Det er ikke
-nødvendig å nevne alle momentene som har hatt
-betydning. Kravet til omfanget må vurderes i lys
-av første ledd om at begrunnelsen skal tjene til å
-forklare sakens utfall for parten, og at omfanget
-skal tilpasses vedtakets betydning. Det er ikke
-nødvendig å gjengi eller kommentere alle argumentene som parten har gjort gjeldende i saken.
-Ofte vil det likevel være hensiktsmessig at
-begrunnelsen tar opp sentrale punkter i partens
-argumentasjon og forklarer hvorfor den ikke førte
-frem.
-Tredje ledd gjør unntak fra annet ledd.
-Begrunnelsen trenger ikke å inneholde opplysninger som kan unntas partsinnsyn etter forvaltningsloven.
-Fjerde ledd gir hjemmel til å fastsette forskrift
-om unntak fra plikten til å gi begrunnelse eller om
-adgang til å gi etterfølgende begrunnelse.
-Bestemmelsen er en innholdsmessig videreføring av forvaltningsloven § 24 fjerde ledd, men
-
-[Side 274]
-
-272
-
-Kapittel 26
-
-NOU 2023: 11
-Raskt og riktig
-
-slik at myndigheten er lagt til departementet, og
-ikke Kongen. I tråd med den praksis som har vært
-i bruken av unntaket i forvaltningsloven § 24
-fjerde ledd, er terskelen for å benytte dette unntaket ment å være høy.
-
-Forslag til § 21-Xf:
-§ 21-Xf. Klage i trygdesaker
-Vedtak etter folketrygdloven kan påklages til det
-overordnede organet som departementet har
-bestemt. Vedtak etter kapittel 5 kan påklages til
-Nasjonalt klageorgan for helsetjenesten.
-Klagen skal fremsettes for klageinstansen, som
-selv forbereder og treffer nytt vedtak i saken. Departementet kan i forskrift åpne for at klageinstansen
-kan oppheve vedtak der nytt vedtak i underinstansen fremstår som den klart beste løsning for klager.
-Annet ledd gjelder ikke klage over vedtak etter
-kapittel 5, med mindre Helsedirektoratet bestemmer
-noe annet.
-Et vedtak etter folketrygdloven kan ikke bringes
-inn for domstolene før mulighetene til å klage er nyttet fullt ut.
-Paragrafen er delvis ny og er ment å erstatte folketrygdloven § 21-12, som gjelder klage og anke i
-trygdesaker. Folketrygdloven § 21-12 regulerer i
-dag klage til klageorganet og anke til Trygderetten. Reguleringen av anke til Trygderetten er i
-hovedsak en dobbeltregulering, da det samme
-fremgår av bestemmelser i trygderettsloven.
-Utvalget foreslår derfor at de fleste elementene i
-bestemmelsen som regulerer forholdet til Trygderetten, tas ut. Dette vil ikke medføre noen innholdsmessig endring.
-Gjeldende § 21-12 femte ledd fastsetter en
-klage- og ankefrist på seks uker. Utvalget foreslår
-at klagefristen skal følge hovedregelen i forvaltningsloven, og at den dermed reduseres til tre
-uker. Det vises til punkt 21.2.2 om utvalgets vurderinger og bakgrunnen for forslaget.
-Utvalget foreslår også at Trygderetten skal bli
-en særdomstol, og at saker bringes inn ved stevning. Utvalget foreslår en søksmålsfrist på seks
-uker, som er i samsvar med dagens ankefrist.
-Denne fristen fremgår av trygderettsloven § 9 første ledd, og dagens regulering i folketrygdloven
-er dermed unødvendig. Utvalget foreslår derfor å
-oppheve dagens § 21-12 femte ledd. Det vises til
-punkt 22.4.1 om utvalgets vurderinger og bakgrunnen for forslaget.
-Første ledd første punktum fastslår at klager
-skal behandles i et overordnet organ som departementet har bestemt. Forslaget innebærer en innstramming av Nav sin valgfrihet til å organisere
-klagebehandling i Nav, og at det ikke er adgang til
-
-å organisere klageinstansen som et sideordnet
-organ, slik den er i dag. Det vises til punkt 13.2.2
-om utvalgets vurderinger og bakgrunnen for forslaget. Klageinstansen trenger likevel ikke å være
-nærmeste overordnede organ. Bestemmelsen er
-ikke til hinder for at det etableres en felles klageinstans for alle vedtak i Nav, selv om dette organet
-ikke er nærmeste overordnede organ til førsteinstansen.
-Utvalget foreslår også at kompetansen til å
-bestemme hvilket organ som skal være klageinstans, skal ligge til departementet.
-Første ledd andre punktum viderefører § 21-12
-første ledd andre punktum.
-Annet ledd første punktum erstatter gjeldende
-§ 21-12 tredje ledd første punktum, og innebærer
-at klager skal fremsettes for klageinstansen.
-Videre er det bestemt at klageinstansen skal forberede klagen selv. Førsteinstansen skal verken
-motta klagen, vurdere avvisning, forberede klagebehandlingen eller vurdere omgjøring av det
-påklagede vedtaket. Det vises til punkt 15.2.2 for
-utvalgets vurderinger og bakgrunnen for forslaget. De vanlige reglene om klageinstansens kompetanse vil langt på vei gjelde, jfr. forvaltningsloven § 33 første og femte ledd og § 34. Klageinstansen kan derfor blant annet pålegge førsteinstansen å foreta nærmere undersøkelser som ledd i
-sin saksforberedelse, jf. forvaltningsloven § 33
-femte ledd. En forskjell er at klageinstansen etter
-utvalgets forslag skal treffe «nytt vedtak i saken».
-Klageinstansen skal altså ikke kunne oppheve
-vedtaket og sende saken tilbake til førsteinstansen, med mindre departementet i forskrift har
-åpnet for det, jf. annet ledd annet punktum. Det
-vises til punkt 16.1.3 om utvalgets vurderinger og
-bakgrunnen for forslaget.
-Tredje ledd fastsetter at klager på vedtak etter
-kapittel 5 skal fremsettes for underinstansen, med
-mindre Helsedirektoratet bestemmer noe annet.
-Denne delen av bestemmelsen inneholder en
-språklig justering, men er innholdsmessig en videreføring av § 21-12 tredje ledd andre punktum.
-Gjeldende § 21-12 tredje ledd gjelder også
-anke over vedtak og fastsetter at slik anke skal
-fremsettes for det organet som har truffet det
-påankede vedtaket. Utvalget foreslår at saker skal
-bringes inn ved stevning som sendes direkte til
-Trygderetten, og foreslår dette regulert i trygderettsloven. Dette vil også gjelde i saker etter kapittel 5. Den delen av gjeldende § 21-12 tredje ledd
-andre punktum som gjelder anke til Trygderetten, foreslås derfor opphevet.
-Fjerde ledd fastslår at vedtak etter folketrygdloven ikke kan bringes inn for domstolene før
-
-[Side 275]
-
-NOU 2023: 11
-Raskt og riktig
-
-273
-
-Kapittel 26
-
-mulighetene til å klage er nyttet fullt ut. Ettersom
-utvalget foreslår at Trygderetten skal bli en særdomstol, vil bestemmelsen innebære at parten må
-utnytte klagemuligheter før det tas stevning ut for
-Trygderetten. Dette er i samsvar med gjeldende
-rett.
-Etter gjeldende § 21-12 sjette ledd kan sakene
-ikke kan bringes inn for de alminnelige domstolene før muligheten for klage og anke er benyttet
-fullt ut. Dersom Trygderetten blir en særdomstol,
-vil det følge av det alminnelige instanssystemet i
-domstolen at forvaltningsvedtak ikke kan bringes
-direkte inn for lagmannsretten. Denne delen av
-bestemmelsen er derfor unødvendig og foreslås
-derfor ikke videreført.
-
-b) nevne vedtaket som anmodes omgjort, og angi de
-grunner som kravet bygger på, og som er nødvendig for å vurdere vilkårene i første ledd.
-Paragrafen er ny og gjelder Nav sin plikt til å realitetsbehandle en anmodning om omgjøring (revurderingsplikt). Forslaget er utformet etter mønster
-av trygderettsloven § 27. Det vises til punkt 19.3
-om utvalgets vurderinger og bakgrunnen for forslaget.
-
-Forslag til § 21-Xg:
-§ 21-Xg. Behandling av saker som Trygderetten har
-sendt tilbake etter søksmål
-I saker hvor Trygderetten har opphevet et vedtak og
-sendt saken tilbake til klageinstansen, skal klageinstansen prioritere saken og avgjøre den uten
-ugrunnet opphold.
-Paragrafen er ny og slår fast at klageinstansen
-skal gi prioritet til saker som kommer tilbake fra
-Trygderetten etter oppheving der. Bortsett fra at
-saken skal gis prioritet, skal saken behandles
-etter de ordinære saksbehandlingsreglene som
-gjelder for klageinstansen. Det innebærer for det
-første at klageinstansen ikke skal kunne oppheve
-sitt vedtak og sende saken tilbake til førsteinstansen. For det annet betyr det at klageinstansen
-ikke kan la kravet til hurtig behandling gå ut over
-kravet til forsvarlig behandling. Det vises til punkt
-16.3.2 om utvalgets vurderinger og bakgrunnen
-for forslaget.
-
-Utvalgets mandat omfatter heller ikke en generell
-gjennomgang av trygderettsloven, og utvalgets
-forslag begrenses derfor til å gjelde de konkrete
-tiltakene utvalget har foreslått endret.
-Forslaget om å formalisere Trygderetten som
-en særdomstol tilsier at terminologien bør endres,
-blant annet slik at
-– ‘anke’ til Trygderetten bør endres til ‘stevning’
-til Trygderetten
-– partene som i dag betegnes, ‘ankende part’ og
-‘ankemotpart’, bør endres til ‘saksøker’ og ‘saksøkte’
-– betegnelsen rettens ‘medlemmer’, bør betegnes ‘dommere’
-– avgjørelsene av sakens materielle krav, som i
-dag skjer ved ‘kjennelse’, bør treffes ved ‘dom’
-– overprøving av Trygderettens kjennelser, skjer
-i dag ved ‘søksmål’ til lagmannsretten, bør
-endres til ‘anke’ til lagmannsretten
-
-Forslag til § 21-Xh:
-§ 21-Xh. Plikt til å revurdere vedtak etter anmodning
-Det forvaltningsorganet som sist fattet vedtak i
-saken, skal etter anmodning fra en part vurdere om
-vedtaket er ugyldig, dersom
-a) det fremlegges nye opplysninger om det tidligere
-faktiske forholdet som er egnet til å føre til et
-annet resultat,
-b) det sannsynliggjøres alvorlige saksbehandlingsfeil, eller
-c) det sannsynliggjøres uforsvarlig rettsanvendelse
-eller skjønnsutøvelse.
-Anmodningen om at saken revurderes og vedtaket
-omgjøres, skal
-a) fremsettes skriftlig for det forvaltningsorganet
-som har truffet det siste vedtak i saken
-
-26.3 Forslag til endringer i
-trygderettsloven med merknader
-26.3.1 Generelle synspunkter på
-trygderettsloven
-
-Disse uttrykkene brukes mange steder i loven,
-men utvalget har ikke formulert forslag for å gjøre
-nødvendige korrigeringer.
-Utvalget har i sitt arbeid sett at det kan være
-grunn til å vurdere andre endringer i trygderettsloven, men overlater til departementet å vurdere
-om det ved en gjennomføring av utvalgets forslag,
-også bør foretas en bredere gjennomgang av trygderettsloven.
-
-26.3.2 Utvalgets konkrete endringsforslag
-Lov 16. desember 1966 nr. 9 om anke til Trygderetten (trygderettsloven) endres slik:
-
-Forslag til § 1 første ledd:
-(1) Loven skal legge til rette for en betryggende,
-rask og tillitsskapende domstolsbehandling av
-
-[Side 276]
-
-274
-
-Kapittel 26
-
-NOU 2023: 11
-Raskt og riktig
-
-trygde- og pensjonstvister av en uavhengig og upartisk Trygderett.
-Formålsparagrafen foreslås endret slik at det
-går frem at Trygderetten er, og skal behandle
-sakene som en domstol. Dette foreslås tydeliggjort i første ledd. Ut over dette er bestemmelsen
-en videreføring av gjeldende bestemmelse.
-
-Forslag til § 6 første ledd:
-§ 6. Regler om fordeling av saker, saksforberedelse og
-rettens sammensetning
-(1) Ved fordeling av saker gjelder domstolloven
-§ 19 fjerde ledd så langt den passer.
-Som nytt første ledd foreslås at sakene i Trygderetten skal fordeles på samme måte som i de
-alminnelige domstolene. Det omfatter både kravet
-i domstolloven § 19 om at domstol- og avdelingsleder har ansvaret for å få fordelt sakene, og det
-ulovfestede prinsippet om at dommerne oppnevnes tilfeldig så langt det er mulig og hensiktsmessig. Domstolkommisjonen har foreslått å lovfeste
-tilfeldighetsprinsippet i domstolloven § 19 femte
-ledd (NOU 2020: 11 s. 355 og 358–359), og i den
-grad dette skjer, er det naturlig at Trygderettsloven henviser til denne. Det vises til punkt 17.1.2
-om utvalgets vurderinger og bakgrunnen for forslaget.
-Nåværende første ledd blir annet ledd.
-Forslag til § 7:
-§ 7. Rettens sammensetning i den enkelte sak. Administrator
-(1) Retten settes med en juridisk kyndig dommer
-i den enkelte sak, hvis ikke annet er bestemt. Vedkommende er rettens administrator.
-(2) Administrator skal beslutte å utvide retten
-med en medisinsk kyndig dommer, en attføringskyndig dommer eller begge deler når hensynet til forsvarlig behandling av saken tilsier det.
-(3) Ved uenighet mellom dommere i saker med
-to dommere settes retten med tre dommere.
-(4) I de tilfellene hvor det må antas at rettens
-avgjørelse kan bli bestemmende for praksis på et
-saksområde, kan retten settes med fem dommere.
-Spørsmålet om å sette retten med fem dommere,
-avgjøres av Trygderettens leder. Alle medlemmene
-skal være faste.
-Paragrafen regulerer rettens sammensetning i
-den enkelte sak. Det vises til punkt 17.2.3 om
-utvalgets vurderinger og bakgrunnen for forslaget.
-Første ledd fastsetter hovedregelen om at retten settes med én juridisk kyndig dommer, som
-også blir rettens administrator.
-
-Annet ledd fastsetter at retten skal utvides med
-henholdsvis en medisinsk kyndig dommer og/
-eller en attføringskyndig dommer hvis hensynet
-til forsvarlig behandling av saken tilsier det.
-Bestemmelsen åpner for å sette rett med to eller
-tre dommere. Det er behovet i den konkrete
-saken som skal være styrende for vurderingen.
-Tredje ledd viderefører innholdsmessig annet
-ledd bokstav b.
-Fjerde ledd viderefører tredje ledd.
-
-Forslag til § 9
-§ 9. Søksmålsfrist
-(1) Fristen for søksmål til Trygderetten er seks
-uker fra det tidspunkt skriftlig underretning om vedtaket og om adgangen til å reise søksmål og søksmålsfrist er kommet frem til vedkommende.
-(2) Har en part krevd å få oppgitt begrunnelsen
-for vedtaket etter forvaltningsloven § 24 annet ledd,
-avbrytes søksmålsfristen. Ny søksmålsfrist tar til å
-løpe fra det tidspunkt meddelelse om begrunnelsen
-er kommet frem til vedkommende.
-(3) Ved oversittelse av fristen etter første ledd
-gjelder reglene om oppfriskning i tvisteloven §§ 1612 til 16-14 så langt de passer.
-Paragrafen regulerer fristen for å ta ut søksmål for
-Trygderetten. Det vises til punkt 22.4.2 om utvalgets vurderinger og bakgrunnen for forslaget.
-Første ledd er endret slik at anke til Trygderetten nå skal betegnes søksmål til Trygderetten.
-Fristen for bringe saken inn for Trygderetten er
-fortsatt seks uker. Annet ledd er endret språklig
-slik at «ankefrist» er erstattet med «søksmålsfrist».
-Tredje ledd erstatter dagens tredje og fjerde
-ledd. Forslaget bygger på at parten ikke lenger
-skal kunne be Trygderetten eller Nav om å få fristen forlenget. Trygderetten skal heller ikke kunne
-se bort fra at fristen er oversittet når særlig grunner taler for det. I stedet skal oversittelse av fristen behandles etter tvistelovens regler om oppfriskning. Forslaget er ment å gjøre behandlingen
-i Trygderetten mer lik behandlingen i domstolene.
-Forslag til § 11:
-§ 11. Stevning
-(1) Sak innenfor Trygderettens saklige virkeområde reises ved stevning til Trygderetten.
-(2) Stevningen kan settes frem skriftlig eller
-muntlig. Ved muntlig stevning skal Trygderetten
-sørge for å sette den opp skriftlig og underskrive den
-sammen med saksøker.
-(3) Stevning må være underskrevet og nevne
-a) at det er en stevning til Trygderetten,
-
-[Side 277]
-
-NOU 2023: 11
-Raskt og riktig
-
-b) navn, fødselsdag og fødselsår samt adresse til saksøker,
-c) det vedtak som kreves overprøvd,
-d) den endring i vedtaket som kreves, og så vidt
-mulig de nærmere omstendigheter som anføres,
-e) erklæringer og andre bevis som påberopes,
-f) om saksøker krever muntlig behandling og eventuelt begrunnelsen for dette, og
-g) bilag som følger stevningen.
-Paragrafen er ny og erstatter gjeldende § 11 om
-innholdet i ankeerklæringen (stevningen) og
-hvem som skal motta den. Det vises til punkt
-15.3.2 om utvalgets vurderinger og bakgrunnen
-for forslaget.
-Mens brukeren i dag skal inngi ankeerklæringen til NAV Klageinstans, bygger forslaget på at
-søksmålet reises ved stevning som fremsettes
-direkte for Trygderetten. Forslaget må ses i sammenheng med at Trygderetten skal ha ansvaret
-for saksforberedelsen og aktiv saksstyring. Dette
-er i samsvar med det som gjelder i sivile saker, jf.
-tvisteloven § 9-2, som paragrafen her er utformet
-etter mønster av.
-Annet ledd viderefører innholdsmessig
-dagens annet ledd, men slik at «anke» er erstattet
-med «stevning» og «ankende part» med «saksøker». Etter utvalgets forslag vil plikten til å bistå
-bruker å sette opp stevning ligge på Trygderetten, og ikke lenger på Nav.
-Tredje ledd viderefører i hovedsak dagens
-tredje ledd, men slik at «anke» er erstattet med
-«stevning», «ankende part» med «saksøker».
-Bokstav f er ny og fastsetter at saksøker i stevningen skal gi uttrykk for om det kreves muntlig
-behandling. Utvalget foreslår at partene i utgangspunktet har krav på muntlig behandling. Av hensyn til effektiv saksavvikling er det hensiktsmessig at slike krav fremkommer tidlig som mulig i
-prosessen. Det er også et krav om at det i stevningen gis en begrunnelse for ønske om muntlig forhandling.
-Dagens bokstav f flyttes til bokstav g.
-Fjerde ledd foreslås opphevet, og erstattet av
-§ 13 første ledd, som regulerer virkningen av mangelfull stevning.
-
-Forslag til § 13:
-§ 13. Trygderettens forberedelse av saken. Aktiv saksstyring
-(1) Administrator skal vurdere om vilkårene for
-å behandle saken er oppfylt. Ved mangler skal saksøker gjøres oppmerksom på manglene og gis nødvendig veiledning med opplysning om følgene av retting
-ikke foretas. Det skal settes en frist for retting. Dersom mangelen ikke rettes innen fristen, skal admi-
-
-275
-
-Kapittel 26
-
-nistrator avvise saken uten å pålegge saksøkte å
-inngi tilsvar etter § 13 a.
-(2) Administrator har ansvaret for saksstyringen og sakens fremdrift. Administrator kan sette
-frister for prosesshandlinger etter reglene i domstolloven og ellers treffe avgjørelser som er nødvendige
-for behandlingen av saken.
-Paragrafen er ny og erstatter gjeldende § 13 om
-ankemotpartens (Navs) forberedelse av ankesaken. Forslaget går ut på at saker skal reises ved
-stevning som sendes direkte til Trygderetten, der
-en dommer skal ha ansvar for saken. Administrator skal ha plikt til å drive aktiv saksstyring allerede fra saken kommer inn. Det vises til punkt
-15.3.2 og 17.1.2 om utvalgets vurderinger og bakgrunnen for forslaget.
-Første ledd første punktum pålegger administrator å vurdere om kravene til stevning er oppfylt.
-Annet punktum erstatter § 11 fjerde ledd og pålegger administrator å gjøre saksøker oppmerksom
-på eventuelle mangler og gi nødvendig veiledning
-med opplysning om følgene av at retting ikke foretas. Bestemmelsen samsvarer med tvisteloven
-§ 16-5 første ledd og skal tolkes samme måte.
-Tredje punktum fastlegger at administrator skal gi
-saksøker en frist til å rette mangler i stevningen.
-Fjerde punktum regulerer virkningen av at stevningen ikke rettes. Saken skal da avvises. Dersom
-stevningen oppfyller lovens vilkår, skal den forkynnes for saksøkte med pålegg om tilsvar, jf. forslaget til ny § 13 a.
-Annet ledd første punktum fastsetter administrators ansvar for aktiv saksstyring og sakens
-fremdrift. Bestemmelsen forutsetter at alle saker
-skal tildeles en juridisk dommer når den kommer
-inn til Trygderetten. Endringsforslaget legger opp
-til at administrator blir tillagt et større ansvar enn
-etter gjeldende rett. Andre punktum fastslår at
-administrator skal kunne sette frister for prosesshandlinger og treffe nødvendige avgjørelser for
-behandlingen. Administrator kan for eksempel
-avgjøre hvilke frister som settes for tilsvar, og kan
-også avgjøre når saksforberedelsen er avsluttet.
-
-Forslag til § 13 a:
-§ 13 a. Pålegg om tilsvar
-(1) Trygderetten gir saksøkte pålegg om å inngi
-tilsvar og skal fastsette en frist, som normalt bør
-være tre uker.
-(2) Tilsvaret skal angi
-a. om det fremsatte krav godtas eller bestrides,
-b. om det er innsigelser mot at retten behandler
-saken,
-c. saksøktes påstand, som angir det domsresultat
-saksøkte krever,
-
-[Side 278]
-
-276
-
-Kapittel 26
-
-NOU 2023: 11
-Raskt og riktig
-
-d. den faktiske og rettslige begrunnelse for saksøktes
-påstand,
-e. de bevis som saksøkte ønsker å føre, og
-f. saksøktes syn på den videre behandling av saken,
-herunder behovet for muntlig bevisførsel.
-(3) Sammen med tilsvaret skal saksøkte fremlegge alle dokumenter av betydning for saken.
-Paragrafen er ny og regulerer saksøktes (som
-regel Navs) plikt til å inngi tilsvar i saken. Den er
-utformet etter mønster av tvisteloven § 9-3, men
-tilpasset Trygderettens sakstyper. Det vises til
-punkt 15.3.2 om utvalgets vurderinger og bakgrunnen for forslaget.
-Første ledd fastslår at Trygderetten skal gi
-pålegg til saksøkte om å inngi tilsvar til Trygderetten. Tilsvar skal innhentes i alle saker med mindre retten avviser saken etter § 13 fjerde ledd. I
-pålegget skal det fastsettes en tilsvarsfrist som
-normalt bør være tre uker, men retten kan forlenge, eventuelt forkorte fristen. Formålet er å
-sikre fremdrift i søksmålet. Saken kan ikke lenger
-ligge hos Nav i flere måneder før Trygderetten får
-den til behandling.
-Annet ledd angir kravene til tilsvaret. Bestemmelsen inneholder mange av de samme kravene
-som følger av tvisteloven § 9-3, men slik at kravene er skjerpet ettersom saksøkte i disse
-sakene er det statlige forvaltningsorganet som
-har truffet vedtaket saken gjelder. Forslaget er
-ment å sikre at Trygderetten får en god fremstilling av saken og et godt grunnlag for å behandle
-saken.
-Tredje ledd pålegger saksøkte å fremlegge
-alle dokumenter av betydning for saken. I disse
-sakene er det saksøkte som er den profesjonelle
-part, og som sitter på arkivene med alle sakspapirene fra førsteinstans- og klagebehandlingen. For
-at Trygderetten skal få et forsvarlig grunnlag til å
-ta stilling til saken, er det viktig at saksøkte fremlegger alle relevante dokumenter. Dette gjelde
-både de dokumenter som støtter saksøkers og
-saksøktes syn.
-
-Forslag til § 19:
-§ 19. Avgjørelsesgrunnlaget. Muntlig behandling
-(1) Retten behandler tvisten på grunnlag av de
-skriftlige bevis og sakens øvrige opplysninger, slik de
-foreligger når retten avgjør saken.
-(2) Dersom det er nødvendig for å sikre et forsvarlig avgjørelsesgrunnlag, innkaller retten partene og eventuelle vitner og sakkyndige til rettsmøte.
-Det samme gjelder dersom en av partene krever det,
-med mindre administrator anser det åpenbart
-unødvendig.
-
-(3) Rettsmøtet skal ikke være mer omfattende
-enn behovet for forsvarlig bevisføring tilsier. Retten
-skal i innkallingen orientere parter, vitner og
-sakkyndige om hvilke forhold møtet skal omhandle.
-(4) Parter, vitner og sakkyndige gir sin forklaring i rettsmøte etter reglene i tvisteloven kapittel
-23, 24 og 25.
-Paragrafen gjelder behandlingsform og avgjørelsesgrunnlaget for Trygderetten, herunder retten
-til å kreve muntlig behandling. Generelt utvider
-bestemmelsen adgangen til bruk av muntlig
-behandling. Det vises til punkt 12.5.3 om utvalgets
-vurderinger og bakgrunnen for forslaget.
-Første ledd er en innholdsmessig videreføring
-av dagens § 19 første ledd og fastslår hovedregelen om at Trygderetten behandler sine saker etter
-skriftlig behandling. Utvalget har foretatt en mindre språklig endring som følge av at oversendelsesskriv erstattes av tilsvar. Som bevis regnes alt
-skriftlig materiale, også partenes fremstilling av
-saken.
-Annet ledd første punktum medfører en materiell endring, idet det fastslås at det skal holdes
-muntlig rettsmøte dersom det er nødvendig for å
-sikre et forsvarlig avgjørelsesgrunnlag. Ordlyden
-er i hovedsak lik den som ble foreslått av Særdomstolsutvalgets skisse til lovregulering av en utlendingsdomstol, jf. NOU 2017: 8 s. 366. I dag kan et
-slikt rettsmøte avholdes hvis «særlige grunner
-tale for det». I praksis har rettsmøte vært benyttet
-i svært få saker, og utvalgets forslag er ment å gi
-en videre adgang til å avholde muntlige forhandlinger. Første punktum fastsetter også at ved
-muntlig behandling er det rettens ansvar å innkalle parter, vitner og sakkyndige til rettsmøtet.
-Annet ledd annet punktum bygger på at det
-«normalt» skal avholdes rettsmøte dersom en av
-partene krever det. Dette er en utvidelse sammenlignet med gjeldende rett. Forslaget må ses i
-lys av retten til å få fremstilt sin sak muntlig for
-en domstol. Administrator kan likevel nekte kravet om muntlig behandling hvis det fremstår som
-åpenbart unødvendig, for eksempel dersom
-ingen av bevistemaene vil bli bedre belyst gjennom muntlige forklaringer fordi den skriftlige
-dokumentasjonen er fullgod. Slik bestemmelsen
-er formulert, vil det i stor grad bero på rettens
-skjønn om det må avholdes rettsmøte. Det må
-her likevel ses hen til EMK artikkel 6, og det er
-meningen at retten skal legge til grunn de krav
-til muntlighet som er utviklet i tilknytning til retten til en rettferdig rettergang. Ved vurderingen
-må det blant annet tas i betraktning hva saken
-gjelder, og særlig hvilken betydning utfallet kan
-få for den private part.
-
-[Side 279]
-
-NOU 2023: 11
-Raskt og riktig
-
-Tredje ledd er også ny. Praksis i Trygderetten
-har vært at saker som har vært behandlet muntlig, i stor grad har vært behandlet i tråd med tvistelovens behandlingsregler. Utvalget foreslår at
-rettsmøte bør begrenses. Den muntlige bevisførselen skal ikke være mer omfattende enn behovet
-for forsvarlig bevisføring tilsier. Omfattende og
-detaljerte forklaring skal unngås dersom det ikke
-er nødvendig. Til grunn for bestemmelsen ligger
-den tanke at administrator har en plikt til å sikre
-forholdsmessighet i behandlingen av sakene.
-Utvalget foreslår en utvidelse av bruken av rettsmøter, men samtidig at rettsmøtene skal tilpasses
-behovet. Utvalget legger til grunn at dette vil føre
-til at slike rettsmøter kan avvikles raskt. Innholdet
-i møtet kan typisk være at den private part gir sin
-forklaring om de sentrale temaene i saken, eller at
-noen av partene fører et vitne.
-Tredje punktum fastslår at retten i innkallingen
-skal orientere partene om rammene for møtet. En
-slik avklaring er helt sentralt for å oppnå den effektivitet som tredje ledd legger opp til.
-Fjerde ledd viderefører trygderettslov § 19
-annet ledd andre og tredje punktum.
-
-Forslag til § 21:
-§ 21. Trygderettens avgjørelser
-(1) Trygderettens avgjørelser av krav som er
-tvistegjenstand, treffes ved alminnelig flertall ved
-dom av de dommerne som har deltatt i saken. Det
-samme gjelder tilleggsdom.
-(2) Trygderettens avgjørelser om avvisning og
-gjenopptak treffes ved alminnelig flertall ved kjennelse av de dommerne som har deltatt i saken.
-(3) Trygderettens dommer og kjennelser skal
-være skriftlige og undertegnet av dommerne. I
-avgjørelsen skal følgende opplysninger fremkomme:
-a) domstolen, rettens medlemmer og partene,
-b) sakens nummer, tiden og stedet for avsigelsen,
-c) en slutning som nøyaktig angir resultatet for de
-avgjørelser som treffes,
-d) om avgjørelsen er enstemmig, og ved dissens
-hvem som er uenig, og hvilke punkter uenigheten gjelder.
-(5) Dersom søksmålet ikke fører frem, stadfestes
-vedtaket. I motsatt fall omgjør Trygderetten vedtaket
-ved å treffe ny realitetsavgjørelse. Trygderetten kan
-oppheve vedtaket bare dersom avgjørelsen krever at
-det tas stilling til sider av saken som ikke er vurdert
-tidligere, og videre behandling av saken heller bør
-finne sted i forvaltningen. Ved oppheving sendes
-saken tilbake til det organet som traff vedtaket som
-er til overprøving[, for behandling der]. Dersom det
-er grunnlag for det, kan retten også henvise uten å
-oppheve vedtaket.
-
-277
-
-Kapittel 26
-
-(6) Trygderettens dommer og kjennelser skal
-begrunnes etter § 21 a.
-Paragrafen regulerer hvilken form Trygderettens
-avgjørelser skal treffes i, og hvilke formkrav og
-innholdsmessige krav som gjelder, herunder hva
-avgjørelsene kan gå ut på. Bestemmelsen må ses i
-sammenheng med og utfylles av forslaget til § 21 a
-om krav til begrunnelse. Det vises til punktene
-17.3.2 og 16.2.3 om utvalgets vurderinger og bakgrunnen for forslagene.
-Første ledd fastlegger at Trygderetten skal
-avgjøre sakens tvistegjenstand ved dom. Gjeldende rett er at slike avgjørelser treffes ved kjennelser. Ettersom utvalget foreslår at Trygderetten
-skal bli en særdomstol, er det naturlig at avgjørelsen av tvistegjenstanden skal avgjøres ved dom.
-Bestemmelsen fastsetter, som i dag, at avgjørelser
-treffes ved alminnelig flertall av de om har deltatt i
-saken.
-Annet ledd fastsetter at avgjørelser om avvisning og gjenopptak treffes som i dag ved kjennelse. Alle andre avgjørelser treffes ved beslutning. Avgjørelsesformen har først og fremst
-betydning for hvilke regler som gjelder for anke,
-jf. utvalgets forslag til § 26.
-Tredje ledd er ny. Innholdet tilsvarer tvisteloven § 19-6 første ledd, og skal tolkes på samme
-måte.
-Fjerde ledd er også ny. Innholdet tilsvarer tvisteloven § 19-6 tredje ledd.
-Femte ledd erstatter dagens fjerde ledd andre
-til fjerde punktum. Bestemmelsen regulerer de
-ulike utfallene av rettens behandling.
-Femte ledd første punktum regulerer de situasjon at søksmålet til Trygderetten ikke fører frem.
-I tilfellet stadfestes vedtaket. Annet punktum
-regulerer hovedregelen for den situasjon at Trygderetten mener at vedtaket må endres. Trygderetten skal da foreta endringen i sin avgjørelse. Det
-er en egenskap ved Trygderetten som særdomstol at den kan avsi dom for «realiteten». Både første og andre punktum er i tråd med gjeldende rett.
-Femte ledd tredje punktum fastsetter at oppheving bare er aktuelt dersom realitetsbehandling
-av saken krever at Trygderetten må ta stilling til
-sider av saken som vedtaksorganet ikke har vurdert, og Trygderetten ikke bør behandle deler av
-saken som første instans. Et eksempel kan være at
-utmålingen beror på kompliserte utregninger som
-Trygderetten ikke enkelt kan gjøre, eventuelt inntektsopplysninger eller andre opplysninger som
-Nav har best forutsetninger for å fremskaffe.
-Bestemmelsen er ment å begrense Trygderettens
-adgang til å oppheve vedtak sammenliknet med i
-dag.
-
-[Side 280]
-
-278
-
-Kapittel 26
-
-NOU 2023: 11
-Raskt og riktig
-
-Femte ledd fjerde punktum regulerer virkningen av opphevelse. Saken sendes da tilbake til det
-organ som traff vedtaket som er til overprøving
-for behandling der. Dersom det er NAV Klageinstans som har truffet vedtaket som er opphevet,
-sendes saken tilbake til klageinstansen. Det følger
-av utvalgets forslag til § 21-Xg klageinstansen skal
-klageinstansen prioritere slike saker og selv
-avgjøre dem uten ugrunnet opphold.
-Femte ledd femte punktum viderefører siste
-punktum i § 21 fjerde ledd siste punktum.
-Sjette ledd fastsetter at dommer og kjennelser
-skal begrunnes etter reglene i § 21 a. Dommer og
-kjennelser skal begrunnes på samme måte.
-
-Forslag til § 21 a:
-§ 21 a. Begrunnelse av dommer og kjennelser
-(1) Begrunnelsen skal stå i et rimelig forhold til
-tvistens tema og sakens viktighet.
-(2) Fullstendig begrunnelse skal omfatte fremstilling av saken, partenes påstander med påstandsgrunnlag, og rettens vurdering. Saksfremstillingen
-og redegjørelsen for påstandsgrunnlagene skal konsentrert beskrive det rettsforhold som er tvistegjenstand, sakens bakgrunn og partenes rettslige og faktiske anførsler så langt det er nødvendig for å forklare avgjørelsen. Deretter gjør retten rede for den
-bevisvurdering og rettsanvendelse avgjørelsen bygger på.
-(3) Så langt fremstillingen i tidligere vedtak
-eller tilsvaret oppfyller kravene til begrunnelse, kan
-retten sitere fra disse som ledd i sin begrunnelse.
-(4) Dersom retten finner det klart at søksmålet
-skal avvises, ikke kan føre frem eller klart at vedtaket må omgjøres eller oppheves, er det tilstrekkelig
-at avgjørelsen inneholder en kort beskrivelse av hva
-saken gjelder og en redegjørelse for de momenter
-som retten har lagt avgjørende vekt på.
-Paragrafen er ny, men tar i stor grad opp i seg de
-regler som i dag gjelder for begrunnelse av kjennelser, med visse endringer. Det vises til punkt
-17.4.3 om utvalgets vurderinger og bakgrunnen
-for forslaget.
-Første ledd fastsetter som overordnet norm at
-begrunnelsen skal stå i et rimelig forhold til tvistens tema og sakens viktighet. Dommerne som
-avsier dommen vil dermed alltid måtte vurdere
-hva som er forholdsmessig, når begrunnelsen
-skal utformes. Det gjelder også ved valg av de
-ulike alternative begrunnelsesformene i annet til
-tredje ledd.
-Annet ledd fastsetter kravene til fullstendige
-begrunnelser. Kravene svarer som i dag til det
-
-som gjelder for begrunnelse av dommer og kjennelser etter tvisteloven § 19-6.
-Tredje ledd klargjør at kravene til begrunnelsen kan oppfylles ved at Trygderetten siterer de
-relevante deler av vedtaket som står til prøving,
-eventuelt tilsvaret. Dette kan være en effektiv
-måte å begrunne avgjørelser, særlig i saker hvor
-Trygderetten er enig med det organet som traff
-vedtaket. Bestemmelsen er ment å tydeliggjøre
-adgangen til å bruke denne kjennelsesformen.
-Forslaget innebærer også en innstramming på
-den måten at retten tidligere kunne henvise til
-slike dokumenter, mens forslaget bygger på at det
-må brukes sitater. Endringen må ses i lys av at det
-i dag er vesentlig enklere å sitere fra andre dokumenter.
-Fjerde ledd viderefører og utvider Trygderettens adgang til å benytte såkalte forenklede
-begrunnelser. I saker hvor Trygderetten mener at
-resultatet i saken er helt klart, for eksempel at
-søksmålet skal avvises eller ikke kan føre frem,
-eller fordi det er klart at vedtaket må omgjøres
-eller oppheves, kan det gis en forenklet begrunnelse. Da er det tilstrekkelig at avgjørelsen inneholder en kort beskrivelse av hva saken gjelder,
-og en redegjørelse for de momenter som retten
-har lagt avgjørende vekt på. Dette vil være en
-effektiv og god måte å avgjøre kurante saker på.
-
-Forslag til § 22:
-§ 22. Avsigelse og underretning om dom og kjennelser
-(1) Saken skal avgjøres snarest mulig, og med
-mindre særlige grunner foreligger, innen seks måneder etter at Trygderetten mottok stevning.
-(2) Dommer og kjennelser er avsagt når de er
-underskrevet av rettens medlemmer.
-(3) Partene skal straks underrettes om dommen
-eller kjennelsen. I underretningen skal partene gjøres oppmerksom på ankefristen etter § 26 femte
-ledd.
-Paragrafen er endret slik at det fremgår at Trygderetten må ha avgjort saken innen seks måneder
-etter at stevningen kom inn. Saken kan bli avgjort
-på forskjellig måter, enten ved dom eller kjennelser, og kan gå ut på avvisning, stadfestelse eller
-omgjøring. Loven inneholder ikke noen rettsvirkninger av brudd fristen, men er ment å gi et bedre
-grunnlag for å styre Trygderetten på saksbehandlingstid. Det vises til punkt 17.5.2 om utvalgets
-vurderinger og bakgrunnen for forslaget.
-For øvrig gjøres det bare endringer i form av
-nødvendige språklige endringer, blant annet at
-«anke» endres til «stevning».
+## Ansvaret for sakens opplysning
+
+### Innledning
+
+Omgjøringsprosenten når førsteinstansen selv vurderer en klage, er høy. Utvalget har pekt på at dette ofte skyldes at førsteinstansen ikke hadde alle relevante opplysninger da vedtaket ble truffet.
+
+Utvalget legger til grunn at økt kvalitet i det faktiske grunnlaget som ligger til grunn for førsteinstansens vedtak, vil begrense antallet klager. I dag er det særlig tre uklarheter knyttet til rekkevidden av brukers og Navs ansvar for sakens opplysning.
+
+For det første oppstiller Nav i praksis et dokumentasjonskrav, uten tilstrekkelig forankring i folketrygdloven. Ved søknad om dagpenger er det for eksempel nærmest et absolutt krav at bruker fremlegger arbeidsavtalen for det avsluttede arbeidsforholdet. Nav begrunner dette med at arbeidsavtalen inneholder nødvendig informasjon om arbeidsforholdet var fast eller midlertidig, stillingsprosent, ansettelsesdato, oppsigelsestid, prøvetid, arbeidstidsbestemmelse og tariffavtale. Unntak gjelder dersom arbeidsgiver fyller ut et eget skjema og gir de nødvendige opplysningene på Navs nettsider.[^716] Nav opplyser at de bare unntaksvis foretar mer helhetlige vurderinger av opplysningene i saken. Praksis fører til at bruker får ansvar for å opplyse saken så langt dokumentasjonskravet rekker.
+
+For det andre er det utfordringer knyttet til oppfyllelsen av den alminnelige veiledningsplikten. Dersom et forvaltningsorgan ser at det er mangler i en søknad, skal søker varsles og veiledes. Veiledningsplikten pålegger Nav et ansvar for å sette bruker i stand til å oppfylle sin egen opplysningsplikt. I Nav-systemet skjer slik veiledning oftest ved at Nav sender ut brev om mangler. Både utvalgets og Navs egne undersøkelser tilsier at Nav sender ut brev om mangler i de aller fleste saker.
+
+I Navs egen undersøkelse av årsakene til høy omgjøringsprosent i dagpengesaker i førsteinstansen etter klage, er det angitt at kvaliteten i brevet bruker får er god (i over 90 prosent av sakene). Undersøkelsen utvalget har bedt NAV Klageinstans om å gjennomføre, konkluderer derimot med at brev om mangler gjennomgående er omfattende og vanskelige å forstå. Undersøkelsen viser også at enkelte av brevene etterspurte dokumentasjon som allerede lå på saken i Navs systemer.
+
+For det tredje er det utfordringer knyttet til oppfyllelsen av den alminnelige utredningsplikten. Denne innebærer at forvaltningsorganet skal sørge for at saken blir tilstrekkelig opplyst, og om nødvendig innhente relevant dokumentasjon. Samtidig følger det av folketrygdloven at bruker har en omfattende opplysningsplikt. Utvalgets undersøkelser tyder på at forholdet mellom utredningsplikten og brukers opplysningsplikt er uklart for Nav. I dette ligger en rekke spørsmål, blant annet om rekkevidden av brukers opplysnings- og medvirkningsplikt og Navs ansvar for sakens faktum, veiledningsplikt og utredningsplikt.
+
+### Gjeldende rett
+
+De fleste saker i Nav dreier seg om å ta stilling til om en bruker har krav på en ytelse. Det følger av folketrygdloven § 22-13 første ledd første punktum, at brukeren må sette frem et krav for å kunne få en ytelse etter loven.
+
+Hvordan et krav skal fremsettes, er ikke nærmere regulert i dagens lov. I folketrygdloven 1966 var det i § 14-2 nr. 1 tredje ledd bestemt at kravet måtte settes frem «skriftlig på skjema fastsatt av Rikstrygdverket». Sammen med kravet måtte «de opplysninger, erklæringer og attester som Rikstrygdeverket eller trygdekontoret trenger», følge med. Det gjaldt altså et krav om at søknaden ble levert på et bestemt skjema, og det var hjemmel i folketrygdloven til å kreve at visse opplysninger, erklæringer og attester skulle følge med. I det lå det at trygdemyndighetene langt på vei kunne legge ansvaret for sakens opplysning på brukeren. Bestemmelsen hjemlet også et dokumentasjonskrav.
+
+Bestemmelsen ble ikke ble videreført i folketrygdloven i 1997. Endringen skyldtes at det ikke ble ansett hensiktsmessig at loven stilte krav til søknaden.[^717] Det ble forutsatt at slike krav skulle framgå av rundskriv. I realiteten innebar endringen at Nav ikke lenger hadde hjemmel til å pålegge søkere å fremme krav på bestemte skjemaer.
+
+I dag bruker Nav ulike søknadsskjemaer med spørsmål tilpasset den enkelte ytelse. De fleste søkerne benytter disse, men Nav må likevel behandle søknader uavhengig av om de er sendt på disse skjemaene eller ikke. Søker kan velge å søke digitalt (innlogget via ID- porten) eller ved å fylle ut digitalt (ikke innlogget) og sende søknaden i posten. Nav.no er utviklet etter forskrift for universell utforming av IKT.[^718] Nav-kontorene har PC-er tilgjengelige for brukerne, og kan veilede i søknadsprosessen. Søknader som ikke er skrevet via de digitale systemene, vil også bli behandlet.
+
+Konsekvensene av at en søknad mangler sentrale opplysninger, er ikke regulert eksplisitt i loven. Folketrygdlovutvalget foreslo i sin tid at det skulle være et vilkår for å få søknaden «behandlet», at den inneholdt de nødvendige opplysninger, men forslaget ble ikke fulgt opp.[^719] Folketrygdlovutvalgets skille mellom ufullstendige søknader (som ikke skulle behandles og dermed måtte avvises) og fullstendige søknader (som skulle realitetsbehandles) ble ikke vedtatt, og er ikke gjeldende rett i dag. Det er derfor ikke hjemmel til å avvise ufullstendige søknader.
+
+Folketrygdloven § 21-3 pålegger søker å gi opplysninger og legge frem de dokumenter som er nødvendige for å avgjøre søknaden. Hvis det er gitt uriktige eller tilbakeholdt vesentlige opplysninger, eller hvis søkeren uten rimelig grunn unnlater å etterkomme et pålegg om å gi opplysninger – kan søknaden avslås etter folketrygdloven § 21-7. Dersom disse vilkårene ikke er oppfylt, vil en mangelfull søknad utløse en veiledningsplikt og eventuelt en utredningsplikt for Nav.
+
+Navs veiledningsplikt følger av forvaltningsloven § 11 og krever at Nav gir brukerne den veiledningen som er nødvendig for at de kan ivareta sine interesser i saken på best mulig måte. Omfanget av veiledningsplikten skal tilpasses Navs situasjon og kapasitet. I en konkret sak må Nav gi bruker beskjed om eventuelle «feil, misforståelser, unøyaktigheter eller andre mangler vedkommende bør rette».[^720] Slik veiledning kan ofte gis gjennom standardiserte informasjonsbrev og liknende.
+
+Nav har en utredningsplikt etter forvaltningsloven § 17, som krever at Nav påser at saken er så godt opplyst som mulig. Mens veiledningsplikten innebærer at Nav må hjelpe brukeren med å oppfylle sin egen opplysnings- og medvirkningsplikt, innebærer utredningsplikten at Nav har en selvstendig plikt til å sørge for, herunder fremskaffe, ytterligere opplysninger i saken. Plikten innebærer at Nav må sørge for at vedtak treffes på så godt faktisk grunnlag som mulig. Brudd på denne plikten kan føre til uriktige, og derfor ugyldige, vedtak.
+
+Hvor langt Navs utredningsplikt rekker, vil bero på omfanget av brukers opplysningsplikt. Normalt vil brudd på opplysningsplikten medføre at saken tas til behandling og at den vurderes på grunnlag av de bevis som foreligger. Tilsier opplysningene i saken at vilkårene ikke er oppfylt, treffes et avslagsvedtak. Samtidig er ikke utredningsplikten uten betydning. Nav har, så langt utredningsplikten rekker, plikt til selv å innhente relevante opplysninger. Forholdet mellom søkerens opplysningsplikt og Navs utredningsplikt er berørt i HR-2019-2336-A. Saken gjaldt en bruker som hadde fått avslag på sykepenger, og spørsmålet var om brukeren hadde sannsynliggjort arbeidsuførhet på grunn av sykdom. Brukeren anførte blant annet at manglende dokumentasjon ikke kunne gå ut over han, fordi Nav ikke hadde utredet saken godt nok. Høyesterett la til grunn at «hvis legens undersøkelser eller journalnotater er mangelfulle, hører det normalt til Navs utredningsplikt å be legen om å gi flere opplysninger».[^721] Uttalelsen trekker i retning av at Navs utredningsplikt går foran brukerens opplysningsplikt, i alle fall der brukeren har forsøkt å gi Nav de nødvendige opplysningene. Tilsvarede er lagt til grunn i Navs rundskriv til folketrygdloven § 21-3.[^722]
+
+Det må følge av dette at Nav bare kan avgjøre en søknad dersom de har oppfylt sin egen veilednings- og utredningsplikt. Dermed blir det viktig å trekke grensen for Navs utredningsplikt.
+
+Utredningsplikten er en plikt til å «påse at saken er så godt opplyst som mulig». Det er sikker rett at utredningspliktens rekkevidde styres av sakens karakter, forvaltningsorganets ressurser, og ikke minst hvem som er nærmest til å fremskaffe de relevante opplysningene.[^723] For Navs vedkommende må utredningsplikten også ses i lys av at Nav har omfattende myndighet til å kreve opplysninger fra brukere og andre, for eksempel arbeidsgivere og helsepersonell.[^724] Det innebærer at Nav har nødvendig hjemmel til å pålegge arbeidsgiver å gi opplysninger om sluttdato og sluttårsak i en dagpengesak.
+
+Hvis bruker ikke kommer med opplysninger Nav har bedt om, eller opplysninger bruker har plikt til å legge frem av eget tiltak, må Nav kunne behandle saken på grunnlag av de opplysningene som foreligger. Ofte vil det fra Navs side være tilstrekkelig at de veileder brukeren om hva som er relevant å legge frem, og at det gis en frist. Hvis Nav pålegger brukeren å legge frem visse opplysninger og vedkommende uten rimelig grunn etterkommer pålegget, kan søknaden avslås i medhold av folketrygdloven § 21-7.
+
+I mange saker har imidlertid verken bruker eller Nav enkel tilgang på opplysningene. De må innhentes hos andre. Det kan for eksempel være fra brukers journal hos fastlege eller spesialisthelsetjenesten. Normalt vil bruker ha krav på innsyn i slike dokumenter, og dermed ha krav på å få dem. Opplysninger fra helsepersonell vil normalt være underlagt taushetsplikt, men folketrygdloven § 21-4 gir hjemmel til å pålegge helsepersonell å gi opplysninger til Nav uten hinder av taushetsplikt.
+
+Hensynet til brukerens rett til privatliv tilsier at Arbeids- og velferdsetaten som utgangspunkt bør anmode bruker selv om å innhente slike opplysninger.[^725] Når bruker ikke fremlegger slike opplysninger, etter veiledning fra Nav, oppstår spørsmål om Nav er forpliktet til å innhente disse som en del av utredningsplikten. Navs adgang til å gi pålegg om utlevering av slike opplysninger taler for at det hører til utredningsplikten å fremskaffe disse opplysningene.
+
+Dersom Nav, etter selv å ha forsøkt å innhente opplysninger fra tredjepart, fortsatt ikke har mottatt de sentrale opplysningene i saken, må saken kunne avgjøres på grunnlag av de opplysningene som foreligger. Kravet blir da avslått hvis søkeren ikke har sannsynliggjort det faktiske forholdet kravet bygger på. Når Nav har oppfylt veilednings- og utredningsplikten, kan saken tas til behandling. Med mindre vilkårene i § 21-7 er oppfylt, må Nav vurdere om bevisene i saken tilsier at vilkårene for å innvilge en ytelse er oppfylt.[^726] Bevisene må holdes opp mot beviskravet. Utgangspunktet er at det er den som søker om en ytelse som må dokumentere at vilkårene for ytelsen er oppfylt. Kravet anses dokumentert hvis det legges frem opplysninger som viser at det faktiske forholdet kravet bygger på, er sannsynlig. Dersom det er tvil, er det i utgangspunktet brukeren som har tvilsrisikoen.
+
+I praksis er det antatt at det er Nav som har bevisbyrden i saker Nav selv har igangsatt, for eksempel i en sak om stans i, eller tilbakebetaling av, en ytelse.[^727] Det betyr at Nav må godtgjøre de faktiske forholdene som må være til stede for at ytelsen skal kunne stanses eller kreves tilbakebetalt. Også i disse sakene vil Nav kunne pålegge brukeren eller andre å gi nødvendige opplysninger.
+
+### Utvalgets vurderinger
+
+Utvalget legger til grunn at et bedre faktisk grunnlag før førsteinstansen treffer sitt vedtak, vil redusere antallet klager betydelig og bidra til å øke brukernes tillit til Nav. Det bør derfor settes inn tiltak for å sikre et bedre beslutningsgrunnlag når førsteinstansen treffer første vedtak. Utvalget vil drøfte om det bør gjøres endringer i reglene om Navs utredningsplikt og brukers opplysnings- og medvirkningsplikt.
+
+På grunn av den uoversiktlige rettssituasjonen, finner utvalget grunn til å oppsummere. I saker som gjelder søknad om en ytelse etter folketrygdloven, er utgangspunktet at bruker har en særlig medvirknings- og opplysningsplikt. Bruker plikter å gi de opplysninger som er nødvendig for å ta stilling til søknaden. Folketrygdloven gir ikke hjemmel til å oppstille absolutte dokumentasjonskrav. Utvalget mener at Nav, på enkelte områder, likevel oppstiller et dokumentasjonskrav i dag.
+
+Nav skal henvende seg til bruker hvis de ser at opplysninger de trenger for å ta stilling til søknaden mangler, og de skal varsle bruker om hva som mangler. Plikten følger av veiledningsplikten i forvaltningsloven § 11. I praksis oppfyller Nav sin veiledningsplikt ved å sende søker et brev om mangler. Utvalgets undersøkelser tilsier at kvaliteten i veiledningen ikke er god nok.
+
+I utgangspunktet må Nav innhente opplysninger selv, for å oppfylle utredningsplikten i forvaltningsloven § 17, dersom søker på oppfordring ikke fremlegger disse. Dersom manglende opplysninger skyldes at bruker ikke har tilgang til opplysningene, har Nav etter utvalgets syn, i utgangspunktet en plikt til å forsøke å innhente disse. Dette kan for eksempel være aktuelt der Nav trenger informasjon om sluttdato for et arbeidsforhold. Slike mangler skyldes ofte at arbeidsgiver ikke gir bruker nødvendig bistand til å oppfylle kravet. Nav må da rette et pålegg til arbeidsgiver før søknaden eventuelt avslås. Utvalget mener at Nav ikke følger en slik praksis i dag.
+
+Der manglende opplysninger fra bruker skyldes manglende vilje, vil det normalt være tilstrekkelig å varsle og veilede vedkommende om hva som skal til for å oppfylle medvirknings- og opplysningsplikten.
+
+Virkningen av at bruker unnlater å oppfylle sin opplysnings- eller medvirkningsplikt er, dersom Nav har oppfylt sin veilednings- og utredningsplikt, at saken kan tas til behandling basert på de opplysninger som ligger i saken. Dersom opplysningene i saken ikke dokumenterer at vilkårene for ytelsen er oppfylt, skal søknaden avslås.
+
+Dersom vilkårene i folketrygdloven § 21-7 er oppfylt, kan Nav avslå søknaden uavhengig av hva opplysningene som ligger i saken tilsier.
+
+Bør Navs utredningsplikt utvides?
+
+Et tiltak for sikre at Navs avgjørelser treffes på bedre grunnlag, kan være å skjerpe utredningsplikten. En skjerpet utredningsplikt vil bidra til at Nav sjeldnere treffer vedtak uten at saken er tilstrekkelig opplyst, og vil hindre unødvendige avslag, som omgjøres i klagerunden.
+
+Nav driver masseforvaltning og det forutsettes derfor at bruker aktivt medvirker til sakens opplysning. Det er et mål at brukerne er delaktige i prosessen. Ofte vil det kreve lite av bruker å bidra med nødvendige opplysninger, og det vil samtidig bidra til effektiv saksbehandling, noe som vil være positivt også for bruker selv.
+
+Utvalget mener at det er viktig å opprettholde dagens praksis. Det innebærer at bruker har hovedansvaret for å fremskaffe opplysninger. Navs utredningsplikt bør tilpasses til det som med rimelighet kan kreves av brukeren. Kravene til brukeren må imidlertid ikke være så strenge at man hever terskelen for å få fremmet og behandlet sine krav om ytelser.
+
+Bør form- og innholdskrav til søknader og dokumentasjonskrav lovfestes?
+
+I motsetning til folketrygdloven av 1966, gir ikke dagens lov hjemmel til å kreve at søknader settes frem på en bestemt måte eller i en bestemt en form. Loven angir heller ikke hvilke opplysninger søknaden må inneholde, og gir ikke hjemmel til å oppstille særskilte krav om at søknader bare kan innvilges dersom et bestemt dokument fremlegges (dokumentasjonskrav).
+
+Utvalgets undersøkelser viser at Nav ikke oppstiller krav om at søknader settes frem på bestemte måter, men at Nav går langt i retning av å oppstille konkrete dokumentasjonskrav for visse typer ytelser.
+
+Etter utvalgets syn må krav om at søknader settes frem på en bestemt form, eller har et bestemt innhold, ha hjemmel i lov. Utvalget mener Nav har behov for å stille slike krav av hensyn til effektivisering og likebehandling av brukerne.
+
+Hvordan bør formkrav, innholdskrav og dokumentasjonskrav reguleres?
+
+Utvalget mener at det bør oppstilles visse innholdskrav til søknader i loven. For Nav er det nødvendig at bruker identifiserer seg for å spare Nav for unødig arbeid med å avklare hvem søknaden kommer fra, for å sammenholde og kontrollere søknaden opp mot andre saker i Nav-systemet.
+
+Utvalget mener derfor at det bør fremgå tydelig av lov eller forskrift at søknader skal inneholde fullt navn på søker, fødselsnummer eller D-nummer, og at søknaden skal være skriftlig og undertegnet eller elektronisk signert. For de fleste brukere vil disse kravene ikke være vanskelige å etterkomme. Slike rimelig formulerte krav til søknader, vil bidra til mer effektiv saksproduksjon, noe som også er en fordel for bruker selv.
+
+Avhengig av ytelsens art vil det, etter utvalgets syn, kunne være naturlig å oppstille krav om å forelegge bestemte dokumenter (dokumentasjonskrav). Slik utvalget ser det, vil slike krav kunne bidra til effektivitet og likebehandling, og i mange tilfeller vil det ikke utgjøre noen urimelig byrde for bruker. Hvilke dokumentasjonskrav som bør oppstille, vil variere mellom ulike ytelser. Nye tekniske løsninger kan gjøre det naturlig å flytte ansvaret for å innhente opplysninger til Nav. Det kan her vises til utviklingen der Nav i nyere tid i større grad innhenter opplysninger fra arbeidsgiver via digitale løsninger. Dette var informasjon som tidligere inngikk i brukers opplysningsplikt. Dette er krav som det er naturlig å oppstille i forskrift, og det foreslås en forskriftshjemmel.
+
+Utvalget vil understreke at form-, innholds- og dokumentasjonskrav bare bør stilles der bruker har rimelig mulighet til å oppfylle kravene. Det må unngås at brukere som oppfyller materielle vilkår for en ytelse, taper sin rett på grunn av unødig formalisme eller manglende mulighet til å oppfylle dokumentasjonskrav.
+
+Ved utforming av krav til søknader og dokumentasjonskrav, vil utvalget også advare mot digitale løsninger som forhindrer brukere i å søke før et betydelig antall krav er oppfylt. Dette kan føre til at brukere som har krav på ytelser, ikke klarer å søke og dermed taper sine rettigheter. Det er dermed problematisk å oppstille for mange krav til søknadsprosessen.
+
+Utvalget mener, etter dette, at det bør være konkrete form- og innholdskrav, som må være oppfylt for at en sak skal tas til behandling. Innholdet i disse kravene vil kunne variere etter sakstype og være mer eller mindre omfattende. Utvalget mener derfor at loven bør gi hjemmel til å fastsette slike krav i forskrift.
+
+Rettsvirkninger av mangler ved søknaden
+
+Nav avslår i dag ufullstendige søknader. For bruker er rettsvirkningen den samme enten Nav har realitetsbehandlet søknaden eller unnlatt å ta den til behandling fordi søknaden er mangelfull. Etter utvalgets syn, er det flere grunner til å skille mellom formelle mangler ved en søknad og de søknadene som avslås etter en vurdering av de materielle vilkårene.
+
+Mange brukere vet at de har rett på en ytelse. For dem kan det virke forvirrende å få et avslag på grunn av mangler ved søknaden. Dersom mangler ved søknaden fikk en annen virkning, ville det være lettere å forklare utfallet. Dette kan bidra til å øke tilliten til systemet. Brukere som får et slikt avslag, vil ofte påklage avslaget og først da legge ved alle nødvendige opplysninger. Dette fører til en unødvendig klagesak, som tar lengre tid å behandle, selv om resultatet blir omgjøring i førsteinstansen.
+
+Dersom en mangelfull søknad avvises istedenfor å avslås, legger det til rette for en ryddigere klageprosess. En klage over en avvisning vil gjelde de formelle kravene til søknaden. Hvis en klage over en avvisning fører frem, betyr det at førsteinstansen må realitetsbehandle saken. At en avvisning er et enkeltvedtak og kan påklages, følger allerede av forvaltningsloven § 2 tredje ledd.
+
+Utvalget mener at et skille mellom avvisnings- og avslagsgrunner kan bidra til å klargjøre grensen mellom søkers opplysningsplikt og Navs utredningsplikt. Det er naturlig å legge ansvaret for å fremsette et fullstendig krav på brukeren. Vilkårene for dette vil måtte variere fra ytelse til ytelser, og bør fastsettes i forskrift. Nav vil ha en plikt til å veilede parten om hvordan vilkårene for å fremsette et krav skal oppfylles, men har ingen plikt til seg å foreta noen utredning for å oppfylle disse vilkårene. Når bruker har fremsatt et fullstendig krav, og saken tas til behandling, vil Navs utredningsplikt tre inn.
+
+Det er et problem for tilliten til Nav at mange avslagsvedtak som påklages, blir omgjort. Samtidig er det i statistikken ikke mulig å skille ut omgjøring som skyldes feil eller mangler i søknaden fra omgjøring som skyldes andre forhold. Det er imidlertid grunn til å tro at en ikke ubetydelig andel av omgjøringene skyldes at saken først i forbindelse med klagen blir tilstrekkelig opplyst. Dette er saker som kunne vært avvist i et system med formkrav for å behandle søknaden. Ved å skille mellom avvisning og avslag er det mulig å skille omgjøring som skyldes mangelfull søknad og omgjøring som skyldes at vilkårene i loven ble vurdert å ikke være oppfylt.
+
+Utvalget har vurdert argumenter mot å innføre et avvisningssystem. For det første er det opplagt at en sondring mellom avvisnings- og avslagsgrunner kan utløse vanskelige vurderinger av om en søknad er tilstrekkelig dokumentert til å bli behandlet. En slik tvil kan i seg selv bli prosess- og ressursdrivende. Det har derfor stor betydning hvordan kravene til søknadene utformes.
+
+For det andre er avvisning lite brukt i norsk rett ved behandling av førstgangsvedtak. Årsaken til at man ikke har skilt mellom avslag og avvisning, er trolig at man i den alminnelige forvaltningsretten i liten grad skiller mellom saker som initieres av forvaltningen, og saker som partene selv setter i gang. Avvisning er bare aktuelt i søknadstilfeller og der søker er pålagt plikter. Navs myndighetsområde er et av områdene der vedtak normalt treffes på grunnlag av søknader.
+
+Avvisning som beslutningsform er imidlertid ikke fremmed i norsk forvaltningsrett. For eksempel kan en klage avvises dersom formelle vilkår for klagebehandling ikke er oppfylt.[^728] Anker kan også avvises av Trygderetten.[^729] Det å avvise en søknad vil i praksis ikke skille seg vesentlig fra å avvise en klage eller anke.
+
+At mangelfulle søknader kan lede til avvisning, er løsningen i Sverige. Det følger av socialförsäkringsbalken 110 kap. 10 §:
+
+«Om ansökan är så ofullständig att den inte kan läggas till grund för någon prövning i sak ska den handläggande myndigheten avvisa den.
+
+Om ansökan inte i övrigt uppfyller föreskrifterna i 4 § andra stycket eller det som annars är särskilt föreskrivet, ska myndigheten också avvisa ansökan om inte bristen är av ringa betydelse.»
+
+Utvalget mener at det bør gjelde formelle krav til en søknad for at den skal tas til behandling, og at mangler knyttet til søknaden skal føre til avvisning, og ikke til avslag. Utvalget har forelagt en slik regulering for NAV Arbeid og ytelser, som har stilt seg positiv til dette.
+
+Avvisning vil ikke være til hinder for at det søkes på nytt, men en ny søknad vil måtte behandles med utgangspunkt i det nye søknadstidspunktet. For bruker vil derfor et eventuelt tap ved avvisning være begrenset til tidsperioden frem til ny og fullstendig søknad innleveres. For mange ytelser vil det også være slik etter dagens system. Dersom parten får avslag på materielt grunnlag, og senere får innvilget en søknad fordi vilkårene da er oppfylt, er hovedregelen at ytelsen gis fra det nye søknadstidspunktet.
+
+Klageinstansen bør også kunne avvise en ufullstendig søknad hvis klageinstansen mener at søknaden ikke oppfyller formkravene. Det bør gjelde selv om førsteinstansen uriktig har realitetsbehandlet saken. Etter folketrygdloven § 21-12 første ledd tredje punktum kan klageinstansens vedtak om å avvise en klage ankes inn for Trygderetten. Utvalget foreslår at det samme skal gjelde for klageinstansens vedtak om å avvise en søknad.
+
+I svensk rett er det åpnet for at klager kan avhjelpe mangler ved søknaden sin frem til klageinstansen har truffet vedtak.[^730] Er søknaden fullstendig når klageinstansen treffer sitt vedtak, skal klager gis medhold og avvisningsvedtaket omgjøres. Det kan reises spørsmål ved om dette er en god regel. Systemet vil genere klager i tilfeller der søknader er avvist med rette. En slik regel vil også kunne svekke brukers oppfordring til å bidra til sakens opplysning. En avvisning vil ikke være til hinder for ny søknad med nytt virkningstidspunkt. Brukeren skal ha fått varsel og veiledning om eventuelle mangler og hvordan søknaden skal utfylles, før et avvisningsvedtak treffes. Etter utvalgets syn er det ikke urimelig at bruker må bære risikoen for et eventuelt tap i en mellomliggende periode som følge av mangelfull søknad. Dersom bruker sannsynliggjør at den mangelfulle søknaden skyldes mangelfull veiledning fra Nav, vil vilkårene for å sette virkningstidspunktet tilbake i tid etter folketrygdloven § 22-13 sjuende ledd kunne være oppfylt. Et uriktig vedtak om avvisning kan også vurderes som et uriktig avslag etter folketrygdloven § 22-14 fjerde ledd, slik at stønad kan gis fra det tidspunktet den første søknaden ble satt frem.
+
+Utvalget mener etter dette at mangelfulle søknader bør kunne avvises. En eventuell klage over avvisningsvedtaket kan bare gjelde spørsmålet om vilkårene for å ta saken til behandling var oppfylt. Klageinstansen skal ikke vurdere som første instans om søkeren i etterkant av avvisningen har fremlagt all nødvendig dokumentasjon. I et slikt tilfelle bør søkeren veiledes om å søke på nytt.
+
+Prosessuelle krav før vedtak om avvisning – veiledningsplikten
+
+Før Nav avslår en ufullstendig søknad, vil det følge av veiledningsplikten i forvaltningsloven § 11, at Nav normalt skal varsle bruker om mangelen, og gi vedkommende veiledning om hvordan søknaden skal bli komplett. Dette må også gjelde i et avvisningssystem.
+
+Dersom avvisningsspørsmålet skal reguleres nærmere i folketrygdloven, slik utvalget vil foreslå, melder det seg et spørsmål om også Navs veiledningsplikt bør reguleres i loven. Grensene for Navs veiledningsplikt oppfattes som uklare. Dette gjelder både hvilket innhold veiledningsplikten har og hvor langt den rekker. Utvalgets kartlegging viser også at Navs brev om mangler er omfattende og vanskelige å forstå.
+
+Utvalget mener at kravene til Navs veiledning bør klargjøres og i noen grad skjerpes. Det kan gi betydelig besparelser at bruker forstår hva som mangler i en søknad, og lettere får levert en fullstendig søknad. Utvalget antar at dette vil gi en mer effektiv saksbehandling. Utvalget vil derfor foreslå at veiledningsplikten presiseres, slik at Nav må angi nøyaktig hva som mangler for å kunne ta en søknad til behandling, og sette en kort frist for retting eller utfylling.
+
+I svensk rett er varsling om mulig avvisning en prosess der søker først får varsel om at søknaden er mangelfull, og deretter et nytt varsel om at manglende utfylling av søknaden vil føre til avvisning.[^731] Utvalget har vurdert om Nav bør ha en plikt til å varsle to ganger før en søknad eventuelt avvises. I mange tilfeller vil det være besparende å sende ut et slikt varsel og dermed kunne hindre en klage. Utvalget ser imidlertid at et slikt krav vil kunne gå ut over effektiviteten i Nav. Utvalget mener derfor at loven ikke bør kreve at Nav veileder mer enn én gang om hvordan mangelfulle søknader skal korrigeres.
+
+Et annet spørsmål er om Nav bør pålegges andre konkrete plikter i forbindelse med at de mottar og foretar en første gjennomgang av en søknad, og om Nav bør ha en utredningsplikt allerede på dette stadiet i prosessen.
+
+Slik utvalget har formulert forholdet mellom krav til søknad og behandling av fullstendig søknad, er det etter utvalgets syn ikke naturlig å pålegge Nav en utredningsplikt før fullstendig søknad er innlevert.
+
+Det er et problem at mange brukere ikke får nødvendig informasjon fra tredjepart, for eksempel helsepersonell eller arbeidsgiver. I praksis fører dette til at søknader avslås på grunn av manglende dokumentasjon, at avslaget påklages med nødvendig dokumentasjon, og deretter at vedtaket omgjøres. Dette er ressurskrevende for Nav-systemet, og fremstår unødvendig i lys av Navs adgang til å pålegge arbeidsgiver og helsepersonell en plikt til å medvirke. For å unngå at tredjeparters manglende medvirkning fører til avvisning (eller avslag), foreslår utvalget at bruker i søknadsprosessen skal kunne be om at Nav gir slike pålegg. Der bruker ber om bistand fra Nav, vil søknaden ikke kunne avvises før bistanden er gitt, og fristen til å oppfylle pålegget er løpt ut.
+
+Nav og brukers ansvar for sakens opplysning i saker som tas til behandling
+
+Når en sak tas til behandling, vil de alminnelige reglene til utredning, opplysning og medvirkning gjelde. Nav må påse at saken er så godt opplyst som mulig før vedtak treffes.[^732] Samtidig kan Nav legge ansvar for sakens opplysning på brukeren.[^733]
+
+For utvalget er det et spørsmål om folketrygdloven bør gi regler om forholdet mellom Navs og brukers ulike plikter under saksforberedelsen. Det gjelder både mellom de ulike pliktene bruker har, og mellom brukers og Navs plikter. Når reguleringen dels er ulovfestet og dels lovfestet i ulike lover, er det lett å miste oversikten. Utvalget mener at det bør gis en samlet regulering av henholdsvis brukers og Navs plikter til å bidra til sakens opplysning i folketrygdloven.
+
+Utvalget har vurdert om dagpenger, på grunn av antallet saker og behovet for rask saksbehandling, tilsier at det er urimelig merarbeid å gi pålegg til arbeidsgiver direkte. Et slikt pålegg er bare aktuelt i saker der søknaden er mangelfull, og veiledning til søker heller ikke har bidratt til å få saken tilstrekkelig opplyst. I slike saker er normalt alternativene at saken behandles og søknaden avslås, eller at Nav utreder saken selv. Avslås søknaden, vil vedtaket ofte påklages. Utvalget kan ikke se at det å utferdige et pålegg skal medføre betydelig merarbeid, sammenliknet med arbeidet med en eventuell klage.
+
+Et større grep utvalget vil foreslå, er å regulere Navs utredningsplikt særskilt, på samme måte som at utvalget foreslår en slik regulering av Navs veiledningsplikt. Det bør følge av loven at Nav ikke kan avslå søknader før de har oppfylt veiledningsplikten og utredningsplikten. Utvalget foreslår også å formulere utredningsplikten slik at Nav har plikt til, i rimelig utstrekning, å innhente nødvendige opplysninger når søknaden er tatt til behandling. Der manglende opplysninger skyldes at bruker mangler evne til å medvirke eller ikke har tilgang til opplysningene, er utgangspunktet at Nav må forsøke å innhente opplysningene. Dersom manglende opplysninger fra bruker skyldes manglende vilje til å medvirke, vil Nav normalt ikke ha plikt til selv å innhente informasjonen. Dette vil langt på vei være en kodifisering av dagens praksis, sett bort fra skillet mellom avvisnings- og avslagstilfellene.
+
+Bør konsekvenser av manglende oppfyllelse av opplysningsplikten reguleres?
+
+I dag følger det av folketrygdloven § 21-7 at en søknad kan avslås dersom bruker mot bedre vitende gir uriktige opplysninger, fortier vesentlige opplysninger, eller uten rimelig grunn unnlater å etterkomme pålegg som er gitt i medhold av loven. Utvalget mener at denne regelen bør videreføres.
+
+Det fremgår derimot ikke av loven hva som er konsekvensen av at en bruker ikke oppfyller sin opplysningsplikt etter § 21-3, dersom Nav på sin side har oppfylt utrednings- og veiledningsplikten. Praksis er at saken avgjøres på grunnlag av de opplysningene Nav har tilgjengelig, og dersom opplysningene i saken ikke godtgjør at bruker har krav på ytelsen, blir søknaden avslått. Dette fremgår ikke av loven. En forklaring på dette kan være at rettsvirkningen har vært sett på som en konsekvens av bevisreglene, og dermed unødvendig å fastsette i loven. Utvalget mener imidlertid at loven bør gi uttrykk for dette. For det første bidrar det til forutsigbarhet og trygghet for Nav når de ønsker å avgjøre en sak etter at de har foretatt alle nødvendige veilednings- og utredningsskritt. For det andre sender det et klart signal til brukeren om at man ikke kan forholde seg passiv mens Nav utreder saken, og at en eventuell passivitet vil kunne få betydning for avgjørelsen.
+
+Utvalget mener at det bør presiseres i loven at manglende medvirkning fra parten kan få betydning for avgjørelsen.
+
+## Kravene til vedtakets begrunnelse
+
+### Innledning
+
+Flere tidligere undersøkelser har vist at begrunnelsene i Navs vedtak har varierende kvalitet, og i mange tilfeller er for dårlige. Allerede i rapporten fra SINTEF i 2016 ble det pekt at kvaliteten i begrunnelsen var viktige for å forebygge klage og omgjøring.[^734] I denne rapporten fremholdes viktigheten av at bruker opplever at begrunnelsen viser at Nav har vurdert de konkrete opplysningene som ligger i saken. Utvalget har bedt Nav om å få oversendt eksempler på begrunnede vedtak. En gjennomgang av disse viser at de mangler beskrivelse av faktum og at de i liten grad er tilpasset brukers sak. Enkelte begrunnelser er lange, uoversiktlige og skrevet med et vanskelig språk, med mye standardtekst.
+
+Utvalget har sett eksempler på saker om arbeidsavklaringspenger der vurderingen av vilkårene i folketrygdloven § 11-5 kun inneholder standardtekst. Det hender at det underrettes om to vedtak fra ulike enheter i ett og samme dokument: ett fra vedtak fra Nav- kontoret og ett fra NAV Arbeid og ytelser. Dokumentet har fire underskrifter og framstår som lite forståelige for bruker.
+
+Uførevedtak utvalget har fått innsyn i, gir i varierende grad beskrivelser av faktum i brukers sak, og har til dels mye standardtekst om sykdom, som ikke er relevant i brukers sak. Dette har blant annet vært vedtak om beregning av uføretrygd etter særreglene for unge uføre, som har vært så å si uten individuell vurdering av brukers sykdom opp mot vilkårene.
+
+Utvalget mener at svake begrunnelser i vedtakene kan svekke tilliten til både det enkelte vedtaket, til Nav og til systemet. Dette bidrar til klager og anker.[^735] Mangelfulle begrunnelser kan også være tegn på at beslutningstaker ikke har satt seg tilstrekkelig inn i saken. Det gir brukeren grunn til å tro at vedtaket er eller kan være feil.
+
+Utvalget vil derfor vurdere om dagens krav til begrunnelse er gode nok, både når det gjelder innhold og form.
+
+### Gjeldende rett
+
+Det følger av forvaltningsloven § 24 første ledd at enkeltvedtak skal begrunnes samtidig med at vedtaket treffes. Bruker skal som hovedregel få det begrunnede vedtaket sammen med underrettingen om at vedtaket er truffet.[^736]
+
+Hvilke krav som stilles til begrunnelsen, er fastsatt i forvaltningsloven § 25. Etter første ledd skal det vises til de reglene vedtaket bygger på, med mindre parten er kjent med dem. Det innebærer at dersom vedtaket bygger på en lovbestemmelse, må loven og den anvendte paragrafen nevnes. Det samme gjelder for forskrifter. Bygger vedtaket på ulovfestede regler, må det vises til grunnlaget for den ulovfestede normen.[^737] I den utstrekning det er nødvendig for å sette parten i stand til å forstå vedtaket, skal begrunnelsen også gjengi innholdet av reglene eller problemstillingen vedtaket bygger på. Det er altså ikke uten videre tilstrekkelig å nevne det rettslige grunnlaget for avgjørelsen. Det kan være nødvendig å redegjøre nærmere for reglenes innhold, på en måte som er forståelig for parten.
+
+Begrunnelsen skal også nevne de faktiske forhold som vedtaket bygger på.[^738] Er faktum beskrevet av parten selv eller i et dokument som parten er kjent med, er en henvisning til den tidligere framstillingen tilstrekkelig. I tilfelle skal det i underretningen om vedtaket til parten vedlegges kopi av framstillingen. Siden det bare er de faktiske forholdet vedtaket som bygger på som må nevnes, trenger ikke alle faktiske forhold som har vært fremme i saken, å tas med.
+
+Endelig følger det av § 25 tredje ledd at de hovedhensyn som har vært avgjørende ved utøving av forvaltningsmessig skjønn, «bør» nevnes. Er det gitt retningslinjer for skjønnsutøvingen, vil i alminnelighet en henvisning til retningslinjene være tilstrekkelig.
+
+Begrunnelsens overordnede formål er å forklare sakens utfall for partene. Den skal vise hvordan beslutningstakeren har vurdert saken og resonnert omkring de rettslige og faktiske spørsmålene i saken. På den måten sikrer kravet om begrunnelse også at beslutningstakeren rent faktisk foretar de nødvendige vurderingene. En god begrunnelse kan overbevise partene om at utfallet er riktig, slik at det blir lettere for dem slå seg til ro med det. For parten som ikke får medhold, gjør begrunnelsen det mulig å argumentere mot avgjørelsen i en klage eller et søksmål. I en overprøvingssituasjon er begrunnelsen viktig for at overordnet organ eller en domstol skal kunne kontrollere vedtaket.
+
+De følger av rettspraksis at kravene til begrunnelse vil variere og skjerpes etter sakens karakter og vedtakets art. Jo mer inngripende vedtaket er, desto strengere krav stilles det til begrunnelsen.[^739] I vurderingen legges det vekt på hvordan partens rettsstilling påvirkes, herunder om avgjørelsen gjelder inngrep i en etablert rettighet, og om utfallet vil få stor velferdsmessig betydning for parten. Overført til Navs myndighetsområde, betyr dette at kravene til begrunnelse kan variere etter ytelsenes art og vedtakets karakter. Siden livsoppholdsytelsene ofte har størst velferdsmessig betydning for brukerne, tilsier det at det gjelder strengest krav til begrunnelse av slike vedtak.
+
+Generelt vil imidlertid vedtak på Navs myndighetsområde være svært viktige for brukerne. Det stilles derfor relativt strenge krav til begrunnelsen i de fleste saker, i alle fall der vedtaket går ut på avslag. De fleste brukere har bare begrenset kjennskap til regelverket, og det vil ofte være avgjørende for dem å få reglene forklart for at de skal kunne forstå vedtaket. Nav må derfor angi hva den rettslige problemstillingen er, og hvordan regelen er tolket i den konkrete saken (tolkningsresultatet).[^740] I et tilfelle hvor rettskildebildet er komplisert eller rettskildene spriker, vil det være tilstrekkelig, og antakelig også fordelaktig for brukeren, at Nav kun angir den regelen eller lovforståelsen som er lagt til grunn, og hva som har vært avgjørende for Navs syn.
+
+Mange vedtak Nav treffer bygger på en tolkning av folketrygdloven som følger av rundskriv. For den enkelte saksbehandler er rundskrivet å anse som en bindende instruks, og den lovforståelsen som følger av rundskrivet, skal anvendes i vedtaket. Forvaltningsloven § 25 krever ikke at Nav opplyser om bruken av rundskriv, herunder hvilket konkret rundskriv som har vært relevant for avgjørelsen. Dersom rundskrivet inneholder retningslinjer for utøvelsen et forvaltningsskjønn, følger det av § 25 tredje ledd at dette er noe som bør nevnes og eventuelt vises til, men noen plikt er det ikke. Retningslinjer for rettsanvendelsen har Nav heller ingen plikt til å opplyse om.[^741] Utvalget konstaterer at førsteinstansen i Nav heller ikke har noen praksis for dette.
+
+Ettersom formålet med begrunnelsen er at bruker skal settes i stand til å forstå vedtaket, kan det ikke utelukkes at det utgjør en saksbehandlingsfeil å innta for mye (overflødig) informasjon og vurderinger uten direkte betydning for avgjørelsen i vedtaket.
+
+### Utvalgets vurderinger
+
+Gode begrunnelser kan bidra til å bevisstgjøre saksbehandleren underveis i vedtaksprosessen, og oppfordre til grundighet. Slik kan begrunnelsen bidra til kvalitet i forvaltningen, og dermed flere riktige resultater i sakene.
+
+Begrunnelsen kan avdekke om forvaltningen har lagt til grunn riktig faktum og riktig lovforståelse. Begrunnelsen kan også bidra til å skape en konsekvent og riktig praksis.
+
+Brukeropplevelse
+
+«\[…\] brev og vedtak fra NAV er skrevet veldig uforståelig med formuleringer og paragrafer som jeg som bruker ikke klarer å følge trådene i. Alle vedtak er flere sider med informasjon som vi ikke klarer å ta inn.»
+
+Kilde: Agenda Kaupang (2022), Brukeropplevelser fra klage- og ankesystemet i NAV og Trygderetten, s. 28
+
+Rammeslutt
+
+Generelt vil gode begrunnelser kunne øke brukernes tillit til prosessen, men også til Nav generelt.
+
+Det som kan tale imot strenge krav til begrunnelse, er at det kan være ineffektivt. Gode begrunnelser kan imidlertid bidra til effektivitet. En god begrunnelse kan overbevise bruker om at vedtaket er riktig, og på den måten forhindre klager. Selv om den ikke overbeviser brukeren, kan begrunnelsen sette bruker i stand til å vurdere om vedtaket skal påklages. Dette kan bidra til en spissing av saken, noe som kan føre til mer effektiv behandling i klageinstansen. En god begrunnelse i førsteinstansen kan også lette arbeidet for klageinstansen.
+
+Det krever tid og ressurser å skrive gode, tilpassede begrunnelser. Nav driver med masseforvaltning, og det må forventninger til saksbehandlingen og begrunnelsene ta høyde for. Strenge krav til begrunnelsen vil etter utvalgets syn også kunne være et hinder for effektivisering ved automatisering. Dette er argumenter som utvalget mener det må legges vekt på når kravene til begrunnelse av vedtak fastsettes i lov.
+
+Utvalget er av den oppfatning at forvaltningslovens regler om begrunnelse i hovedsak bygger på en god avveining mellom ulike hensyn. På Navs myndighetsområde vil det likevel være enkelte problemstillinger som kan tilsi at det bør gjelde visse særregler for Nav.
+
+Bør det være et krav at begrunnelsen viser til rundskriv?
+
+I Nav treffes svært mange vedtak på grunnlag av tolkninger som fremgår av rundskriv. Lovene inneholder skjønnsmessige begreper, som er klargjort i rundskriv.
+
+For bruker vil det være av interesse om saken er avgjort i tråd med et rundskriv. Det kan være tillitsvekkende for mange brukere at utfallet i deres sak er i tråd med rundskriv og vanlig praksis. Det gjør det lettere for brukere å slå seg til ro med vedtaket. En slik henvisning kan dermed redusere antallet klager. Et krav om at relevante deler av rundskriv er nevnt i vedtaket, gjør det også enklere å kontrollere om rundskrivet er anvendt korrekt.
+
+Utvalget mener at det ikke vil være særlig arbeidskrevende å gi slike henvisninger. Ved behandling av saken skal saksbehandleren ha oversikt over, og anvende, rundskrivene. Utvalget har i møter med Nav fått opplyst at et krav om å henvise til rundskriv skal være mulig å innarbeide også ved automatisk saksbehandling.
+
+I møte med Nav har utvalget også fått opplyst at utviklingen de siste årene har gått i retning av å i mindre grad vise til lovtekst og eventuelt rundskriv. Dette har vært begrunnet i klarspråk. Utvalget er enig i at lovtekst og rundskriv kan være vanskelig tilgjengelig for brukere. Samtidig vil vedtak bygge på en tolkning av disse. For at bruker skal kunne kontrollere rettsanvendelsen, er det nødvendig å få innsikt i ordlyden. Det betyr ikke at hele ordlyden i lov, forskrift eller rundskriv må siteres. I mange tilfeller vil det være tilstrekkelig å fremheve de delene av teksten som er direkte relevant for saken.
+
+Utvalget foreslår derfor at vedtak etter folketrygdloven må begrunnes med konkrete henvisninger til relevant lovbestemmelse, og aktuelt rundskriv.
+
+Bør begrunnelsen vise til grunnlaget for Navs bevisvurdering?
+
+Forvaltningsloven krever i utgangspunktet ikke at begrunnelsen angir de bevisene som danner grunnlag for bevisvurderingen. I referansegruppemøter har dette vært trukket frem som et problem. At Nav avslår søknader uten å vise til for eksempel opplysninger fra fastleger, skaper en usikkerhet om hva konklusjonen bygger på, og om bevis er oversett. Dette reiser spørsmålet om det bør stilles som krav at begrunnelsen skal vise til de bevis som er trukket inn for å avgjøre omtvistet faktum.
+
+Et generelt krav om at begrunnelser angir bevisene som er vektlagt i tvilsspørsmål, vil etter utvalgets syn kunne føre for langt. Det vil bli for arbeidskrevende.
+
+Saker om arbeidsavklaringspenger og uføretrygd kan være utfordrende. Det er også i disse sakene det oftest foreligger motstridende opplysninger. Utvalget mener derfor at det bare er i disse sakene det kan bli aktuelt å oppstille et skjerpet krav til begrunnelse. Utvalget mener videre at det bare bør være nødvendig med et slikt krav ved avslag. I 2021 ble 6 499 krav om uføretrygd og 14 155 krav om arbeidsavklaringspenger avslått. Selv om dette er et høyt antall, mener utvalget at sakenes viktighet for brukeren tilsier at det bør gis særlig gode begrunnelser ved avslag.
+
+Utvalget mener derfor at det bør oppstilles et skjerpet krav til angivelse av faktum, og at det i begrunnelsen skal vises til de bevisene som er trukket inn for å avgjøre omtvistet faktum. Det gjelder både de bevisene som støtter vedtakets konklusjon, og de som taler i motsatt retning.
+
+Angivelse av momentene i skjønnsmessige avveininger
+
+Etter gjeldende rett er det ikke noe tydelig krav om å angi momentene som er vektlagt i en skjønnsmessig avveining ved rettsanvendelsesskjønn. Forvaltningslovutvalget har foreslått å innføre et slikt krav, slik at kravene samsvarer med reglene som gjelder for å angi momenter som har vært avgjørende for en vurdering av et fritt skjønn.[^742] Om begrunnelsen fremgår det:
+
+«Utvalget vil fremheve at det sentrale formål med begrunnelsen er å forklare sakens utfall for parten. For å oppnå det trengs det at begrunnelsen nevner de viktigste hensynene som forvaltningsorganet har lagt vekt på. Her er det ingen prinsipiell forskjell mellom vurderingspreget rettsanvendelse og utøving av forvaltningsskjønn.»
+
+Dette utvalget deler forvaltningslovutvalgets vurdering, og forslår på dette punkt en tilsvarende bestemmelse som forvaltningslovutvalget har fremmet.

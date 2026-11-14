@@ -1,832 +1,204 @@
-# NOU 2023: 11, del 23 av 23 (side 281–291)
+# NOU 2023: 11, del 23 av 29
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2023/ddf789d4-nou-2023-11.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2023-11/id2969126/
 - Original-PDF: https://www.regjeringen.no/contentassets/bc4d7866cdbf4151b35df2ddb8b8f5bb/no/pdfs/nou202320230011000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 32 figurer, 132 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 281]
-
-NOU 2023: 11
-Raskt og riktig
-
-Forslag til § 26:
-§ 26. Anke
-(1) Partene kan ved anke bringe Trygderettens
-dommer og kjennelser inn for lagmannsretten i det
-lagdømme hvor den ankende part for Trygderetten
-har sitt alminnelige verneting.
-(2) Ankedomstolene kan prøve lovligheten av
-Trygderettens avgjørelser.
-(3) Fristen for å anke er én måned, jf. tvisteloven § 29-5.
-Paragrafen erstatter dagens regel om søksmål til
-lagmannsretten. Annet til fjerde ledd i gjeldende
-§ 26 er ikke aktuelle når Trygderetten blir en særdomstol og foreslås derfor opphevet.
-Første ledd fastslår at Trygderettens dommer
-og kjennelser kan ankes til lagmannsretten [etter
-reglene i tvisteloven kapittel 29, så langt de passer]. Det vises til punkt 17.6.2 om utvalgets vurderinger og bakgrunnen for forslaget.
-Som i dag skal ikke Trygderettens beslutninger kunne ankes særskilt. Derimot vil lagmannsretten kunne prøve Trygderettens beslutninger
-prejudisielt ved behandling av anke over dom
-eller kjennelser.
-Annet ledd erstatter tredje ledd i gjeldende
-bestemmelse. For å tydeliggjøre at de alminnelige
-domstolene stadig bare skal kunne prøve lovligheten av Trygderettens avgjørelser, erstattes «domstolene» med «ankedomstolene». Bestemmelsen
-kan reise en del spørsmål om ankedomstolenes
-prøvelseskompetanse med videre, når Trygderetten blir en særdomstol. Disse har utvalget ikke
-vurdert nærmere.
-Fjerde ledd erstatter sjette ledd. Etter gjeldende rett er fristen for å reise spørsmål for lagmannsretten på seks måneder etter underretning
-om Trygderettens kjennelse er kommet frem til
-vedkommende part. Bestemmelsen bygger på at
-fristen for å anke til lagmannsretten skal følge normal ankefrist etter tvisteloven. Når Trygderetten
-er foreslått å bli en særdomstol, og systemet generelt er ment å være mer i tråd med de ordinære
-reglene i domstolene, er det naturlig å benytte
-den ordinære ankefristen også i disse sakene.
-Forslag til § 37:
-§ 37. Forholdet til domstolloven og tvisteloven
-Domstolloven og tvisteloven gjelder så langt de
-passer for Trygderettens virksomhet, dersom ikke
-annet er bestemt i loven her.
-Paragrafen er ny og fungerer som en generalklausul som gir domstolloven og tvisteloven anven-
-
-279
-
-Kapittel 26
-
-delse på Trygderettens virksomhet, så langt
-reglene der passer. Det er en fordel om saksbehandlingen i særdomstolen Trygderetten i størst
-mulig grad ligner på den i de alminnelige domstolene, likevel slik at Trygderettens saksbehandling
-må tilpasses sakstypen og Trygderettens rolle
-som særdomstol.
-
-26.4 Forslag til endringer i andre lover
-med merknader
-Lov 13. august 1915 nr. 5 om domstolene (domstolloven) endres slik:
-
-Forslag til § 2 nr. 2:
-2. Trygderetten
-Bestemmelser lovfester (formaliserer) og synliggjør at Trygderetten er en særdomstol.
-Lov 13. juni 1980 nr. 35 om fri rettshjelp endres
-slik:
-
-Forslag til § 11 annet ledd nr. 6:
-6. ved vurdering av klage og i klagesak etter folketrygdloven § 21-12.
-Bestemmelsen er ny og åpner for at det kan innvilges fritt rettsråd i saker hvor brukeren får bistand
-til å vurdere om det er grunnlag for klage etter folketrygdloven. Det skal ikke lenger være et vilkår
-at klagen rent faktisk fremsettes. Formålet er å
-hindre unødvendige klager som er motivert av
-rettshjelpsreglene. Det vises til punkt 21.3.2 om
-utvalgets vurderinger og bakgrunnen for forslaget.
-
-Forslag til ny § 16 andre ledd nr. 6:
-§ 16 andre ledd nr 6
-saker etter Lov 16. desember 1966 nr 9 om søksmål til Trygderetten
-Forslag til § 16 første ledd nr. 8:
-8. til den private som har vunnet frem i Trygderetten, når staten som motpart anker til lagmannsretten etter trygderettsloven § 26.
-Bestemmelsen åpner for fri sakførsel uten behovsprøving i saker for lagmannsretten når det er staten som har brakt saken inn etter tap i Trygderetten. Det vises til punkt 18.2.2 om utvalgets vurderinger og bakgrunnen for forslaget.
-
-[Side 282]
-
-280
-
-Kapittel 26
-
-NOU 2023: 11
-Raskt og riktig
-
-Lov 16. juni 2006 nr. 20 arbeids- og velferdsforvaltningen (arbeids- og velferdsforvaltningsloven) endres slik:
-
-Forslag til § 4 tredje ledd:
-Etaten har ansvaret for å følge opp og kontrollere
-tjenester, ytelser og utbetalinger. Som ledd i denne
-kontrollen skal Nav ha internkontroll med egen og
-underliggende organers virksomhet for å sikre at
-lover og forskrifter følges. Arbeids- og velferdsdirektøren er ansvarlig for internkontrollen. Internkontrollen skal være systematisk og basert på risiko og
-vesentlighet og tilpasset virksomhetens egenart.
-Internkontrollen skal sikre at avvik og risiko for
-avvik avdekkes og følges opp, og dokumenteres i den
-formen og det omfanget som er nødvendig.
-Tredje til sjette ledd blir nytt fjerde til syvende
-ledd.
-Forslag til tredje ledd første punktum viderefører annet ledd siste punktum i dagens bestemmelse. Resten av den foreslåtte bestemmelsen er
-ny og lovfastsetter en plikt for Nav til å ha internkontroll med egen og underliggende organs virksomhet. Det er presisert at Arbeids- og velferdsdirektøren er ansvarlig for internkontrollen. Det
-vises til punkt 23.1.4 om utvalgets vurderinger og
-bakgrunnen for forslaget.
-Andre punktum fastslår plikten til å ha en
-internkontroll med egen og underliggende organers virksomhet. Plikten vil altså gjelde både i
-direktoratet, og i underliggende organ. Kontrollen
-skal sikre at lover og forskrifter følges.
-Tredje punktum pålegger Arbeids- og velferdsdirektøren ansvaret for internkontrollen. Dette
-ansvaret er ikke til hinder for at utførelsen av det
-
-konkrete internkontrollarbeidet delegeres til
-andre, noe som også vil være naturlig.
-Fjerde punktum fastslår at kontrollen skal
-være systematisk. Arbeidet med internkontrollen
-kan ikke være tilfeldig, hendelsesbasert eller
-spontant. Det innebærer at det må være fungerende rutiner for det løpende internkontrollarbeidet som det jobbes med på en planmessig og
-metodisk måte. Det er opp til Arbeids- og velferdsdirektøren å bestemme den metode som er hensiktsmessig.
-Det følger videre av fjerde punktum at internkontrollen skal være basert på risiko og vesentlighet og tilpasset virksomhetens egenart. Det skal
-gjøres konkrete vurderinger for å vurdere hvor
-omfattende og hva slags internkontroll det er
-behov for. I den forbindelsen må risiko kartlegges
-og vurderes.
-I femte punktum fremgår det at internkontrollen skal sikre at avvik og risiko for avvik avdekkes, og at avvik og risiko for avvik som er avdekket, følges opp. Både konstaterte avvik og risiko
-for avvik skal følges opp. Allerede oppståtte feil
-skal korrigeres. Samtidig må det jobbes for å forebygge at nye feil oppstår.
-Det fremgår også at internkontrollen skal
-dokumenteres i den formen og i det omfanget
-som er nødvendig. Dokumentasjonskravet gjelder
-de ulike delene av internkontrollen som systemer,
-rutiner, instrukser og liknende, samt gjennomføring av konkrete kontroller og aktiviteter. Hva
-som er nødvendig å dokumentere, må vurderes ut
-fra en skjønnsmessig vurdering basert på rammene og kravene i bestemmelsen for øvrig. En
-høy risiko for avvik innenfor et tjenesteområde vil
-for eksempel tilsi skriftlige rutiner og andre prosedyrer.
-
-[Side 283]
-
-NOU 2023: 11
-Raskt og riktig
-
-281
-
-Kilder og litteratur
-
-Kilder og litteratur
-Lover
-
-Internasjonale kilder
-
-Kongeriket Norges Grunnlov 17. mai 1814
-Lov 16. desember 1966 nr. 9 om anke til Trygderetten (trygderettsloven)
-Lov 17. juni 1966 nr. 12 om folketrygd (folketrygdloven)
-Lov 10. februar 1967 om behandlingsmåten i
-forvaltningssaker (forvaltningsloven)
-Lov 13. juni 1980 nr. 35 om fri rettshjelp [rettshjelploven]
-Lov 17. desember 1982 nr. 86 om rettsgebyr (rettsgebyrloven)
-Lov 27. november 1992 nr. 109 om gjennomføring
-i norsk rett av hoveddelen i avtale om Det europeiske samarbeidsområde (EØS) m.v. (EØSloven)
-Lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven)
-Lov 21. mai 1999 nr. 30 om styrking av menneskerettighetenes stilling i norsk rett (menneskerettsloven)
-Lov om barnetrygd 8. mars 2002 nr. 4 (barnetrygdloven)
-Lov 29. april 2005 nr. 21 om supplerande stønad til
-personar med kort butid i Noreg
-Lov 10. juni 2005 nr. 51 om norsk statsborgerskap
-(statsborgerloven)
-Lov 17. juni 2005 nr. 90 om mekling og rettergang
-i sivile tvister (tvisteloven)
-Lov 16. juni 2006 nr. 20 om arbeids- og velferdsforvaltningen (arbeids- og velredsforvaltningsloven) [NAV-loven]
-Lov 15. mai 2008 nr. 35 om utlendingers adgang til
-riket og deres opphold her (utlendingsloven)
-Lov 18. desember 2009 nr. 131 om sosiale tjenester
-i arbeids- og velferdsforvaltningen (sosialtjenesteloven)
-Lov 27. januar 2012 nr. 9 om arbeidstvister
-(arbeidstvistloven)
-Lov 18. juni 2021 nr. 97 om barnevern (barnevernsloven)
-
-Förvaltningsprocesslag (1971:291)
-Socialforsãkringsbalk (2010:10)
-Forskrifter
-Forskrift 25. mars 1997 nr. 268 om behandling av
-tvister i arbeidsgiverperioden
-Forskrift 12. desember 2005 nr. 1442 om salær fra
-det offentlige til advokater m.fl. etter satser
-(stykkprissatser) ved fri rettshjelp og i
-straffesaker
-Forskrift 12. desember 2005 nr. 1443 til lov om fri
-rettshjelp
-Forskrift 21. juni 2013 nr. 732 om universell
-utforming av informasjons- og kommunikasjonsteknologiske (IKT)-løsninger.
-Forskrift 29. august 2019 nr. 1105 om tilskudd til
-ekspertbistand
-Annet regelverk
-Rundskriv 1. mai 1997 til forvaltningsloven –
-Saksbehandlingsrundskriv (R36-00),
-Rundskriv 1. november 1997 til folketrygdloven
-kapittel 21 – Saksbehandlingsrundskriv
-(R21-00)
-Vedlegg 1 27. november 2007 til NAV- loven –
-Fullmaktsoversikt (V1-30-00)
-Rundskriv 20. desember 2016 om fri rettshjelp
-(SRF-2017-1)
-Reglement for økonomistyring i staten, fastsatt ved
-kronprinsregentens resolusjon 12. desember
-2003
-Bestemmelser for økonomistyring i staten, fastsatt
-av Finansdepartementet 12. desember 2003.
-Instruks om virksomhets- og økonomistyring for
-Arbeids- og velferdsdirektoratet, fastsatt av
-Arbeids- og inkluderingsdepartementet
-1. januar 2022
-
-[Side 284]
-
-282
-
-Kilder og litteratur
-
-NOU 2023: 11
-Raskt og riktig
-
-NOU
-NOU 1972: 38 Stortingets kontroll med
-forvaltningen
-NOU 1976: 23 Omlegging av sykepengeordningen
-NOU 1990: 20 Forenklet folketrygdlov
-NOU 2001: 32 Rett på sak
-NOU 2004: 13 En ny arbeids- og velferdsforvaltning
-NOU 2017: 8 Særdomstoler på nye områder?
-NOU 2019: 5 Ny forvaltningslov
-NOU 2019: 17 Domstolstruktur
-NOU 2020: 5 Likhet for loven
-NOU 2020: 8 Grunnlaget for inntektsoppgjørene
-2020
-NOU 2020: 9 Blindsonen
-NOU 2020: 11 Den tredje statsmakt
-NOU 2021: 2 Kompetanse, aktivitet og inntektsikring
-Proposisjoner
-Ot.prp. nr. 38 (1964–1965) Om behandlingsmåten
-i forvaltningssaker (forvaltningsloven)
-Ot.prp. nr. 5 (1966–1967) Om lov om anke til
-Trygderetten og lov om endringer i lov av 17.
-juni 1966 om folketrygd og andre trygde- og
-pensjonslover
-Ot.prp.nr. 38 (1971–1972) Om lov om endringer i
-lov av 16. desember 1966 nr. 9 om anke til Trygderetten og i lov av 17. juni 1966 nr. 12 om folketrygd
-Ot.prp. nr. 57 (1971–1972) Lov om markedsmisbruk
-Ot.prp. nr. 59 (1973–1974) Om lov om endringer i
-1) lov av 16. desember 1966 nr. 9 om anke til
-Trygderetten 2) lov av 17. juni 1966 nr. 12 om
-folketrygd og 3) lov av 27. juni 1947nr. 9 om tiltak for å fremme sysselsetting
-Ot.prp. nr. 3 (1976–1977) Om lov om endringer i
-lov 10 februar 1967 om behandlingsmåten i forvaltningssaker (regler om taushetsplikt m.m.)
-Ot.prp. nr. 52 (1986–1987) Om lov om endringer i
-lov av 16. desember 1966 nr. 9 om anke til Trygderetten og lov av 13. august 1915 nr. 6 om rettergangsmåten for tvistemål
-Ot.prp. nr. 25 (1992–1993) Om lov om endringer i
-lov 16. desember 1966 nr. 9 og anke til Trygderetten og visse andre lover. (Ankeordningen i
-trygdesaker)
-Ot.prp. nr. 29 (1995–1996) Om ny lov om folketrygd (folketrygdloven)
-Ot.prp.nr. 42 (1996–1997) Om lov om endringer i
-lov 16. desember 1966 nr 9 om anke til Trygde-
-
-retten og i lov 28. februar 1997 nr 19 om folketrygd (folketrygdloven)
-Ot.prp.nr. 46 (1998–1999) Om lov om endringer i
-folketrygdloven og i enkelte andre lover
-(Samleproposisjon – forenkling og klargjøring)
-Ot.prp. nr. 10 (2003–2004) Om lov om endringer i
-folketrygdloven og i enkelte andre lover
-Ot.prp. nr. 47 (2005–2006) Om lov om arbeids- og
-velferdsforvaltningen (arbeids- og velferdsforvaltningsloven)
-Prop. 139L (2014–2015) Endringer i lov om anke til
-Trygderetten (lovrevisjon)
-Prop. 74 L (2016–2017) Endringer i folketrygdloven mv. (arbeidsavklaringspenger og
-tilleggsstønader til arbeidsrettede tiltak mv.)
-Prop. 64 L (2016–2017) Endringar i forvaltningslova, tvistelova m.m. (overprøvingskompetanse m.m.)
-Prop. 1 S (2022–2023), (prop-202223-001-gul)
-Statsbudsjettet (Gul bok)
-Prop. 1 S (2022–2023), (prop-202223-001-aid) For
-budsjettåret 2023
-[Arbeids- og inkluderingsdepartementet]
-Prop. 1 S (2022 –2023), prop-202223-001-jd) For
-budsjettåret 2023
-[Justis- og beredskapsdepartementet]
-Stortingsmeldinger
-St.meld. nr. 32 (1997–1998) Om offentlighetsprinsippet i forvaltningen
-Meld. St. 46 (2012–2013) Flere i arbeid
-Meld. St. 14 (2020–2021) Perspektivmeldingen
-2021
-Innstillinger
-Forvaltningslovutvalgets innstilling (1958) [NUT1958-3]
-Ankelovutvalgets innstilling (Ot.prp. nr. 5 (1966–
-1967) Om lov om anke til Trygderetten og lov
-om endringer i lov av 17. juni 1966 om folketrygd og andre trygde- og pensjonslover, II.
-Ankelovutvalget. Prinsipielle synspunkter og
-forslag).
-Innst. S. nr. 277 (1976–77), fra utenriks- og konstitusjonskomiteen, om Stortingets kontroll med
-forvaltningen
-Innst. O. nr. 24 (1996–1997) Innstilling fra justiskomiteen om lov om endringer i lov av 24. juni
-1988 nr. 64 om utlendingers adgang til riket og
-deres opphold her (utlendingsloven) – klagenemnd for utlendingssaker m.v.
-
-[Side 285]
-
-NOU 2023: 11
-Raskt og riktig
-
-Stortingsvedtak
-Stortingets vedtak 27. mai 1977, som del av oppfølgingen av Ingvaldsen- utvalgets utredning, NOU
-1972: 38 Stortingets kontroll med forvaltningen, jf.
-Innst. S nr. 277 (1976-77)
-Dokumenter
-Riksrevisjonen Dokument 3:3 (2019–2020) Undersøkelse av saksbehandlingstid og effektivitet i
-tingrettene og lagmannsrettene
-Riksrevisjonen Dokument 3:8 (2020–2021) Undersøkelse av årsaker til lang saksbehandlingstid i
-klage- og ankesaksbehandlingen i Nav og
-Trygderetten
-Riksrevisjonen Dokument 1 (2022–2023) Undersøkelse av klagesaksbehandlingen på skatteområdet
-Rettspraksis
-Rt. 1976 s. 1.
-Rt. 1981 s. 745
-Rt. 1995 s. 72
-Rt. 2000 s. 1056
-Rt. 2000 s. 1066
-Rt. 2001 s. 995
-Rt. 2007 s. 257
-Rt. 2011 s. 111
-Rt. 2012 s. 1810
-Rt. 2015 s. 1388
-HR-2019-2336-A
-HR-2021-2276-A
-LH-2013-153496
-LA-2017-75437
-LG-2018-33952-2
-LB-2019-170221
-Trygderettspraksis
-TRR-2017-1727
-TRR-2021-3679
-Sivilombudsuttalelser
-Sivilombudets uttalelse i sak 2010/946
-Sivilombudets uttalelse i sak 2017/1135
-Sivilombudets uttalelse i sak 2022/4813
-Sivilombudets uttalelse i sak 2022/50
-Offentlige publikasjoner (rapporter mv.)
-Statskonsult-rapport 2003:19, 2003
-SINTEF, Omgjøring av vedtak i Nav og Trygderetten, 2016
-
-283
-
-Kilder og litteratur
-
-Oxford Research, Evaluering av ankenemnda for
-sykepenger i arbeidsgiverperioden, 2016
-OECD Public Governance Reviews, Trust and
-Public Policy: How Better Governance can
-Help Rebuild Public Trust, 2017
-AFI- rapport 2020:09 Nav i en ny tid? 2020
-Agenda Kaupang, Brukeropplevelser fra klage- og
-ankesystemet i NAV og Trygderetten, 2022
-Oslo Economics, Drivere for klager og anker i
-NAV Klageinstans og Trygderetten, 2022
-Oslo Economics, Saksflyt i klage- og ankesaker i
-NAV og Trygderetten, 2022
-NAVs personbrukerundersøkelse 2022
-Mennesket og NAV, 2022
-Årsrapport Trygderetten, 2015
-Årsrapport Trygderetten, 2016
-Årsrapport NAV, 2021
-NAV Klageinstans, Kvalitetsrapport fra NAV
-Klageinstans til Arbeids- og velferdsdirektoratet, 2019
-NAV Klageinstans, Kvalitetsrapport fra NAV
-Klageinstans til Arbeids- og velferdsdirektoratet, 2020
-NAV Klageinstans, Kvalitetsrapport fra NAV
-Klageinstans til Arbeids- og velferdsdirektoratet, 2021
-Årsrapport Utlendingsnemnda UNE, 2021
-Årsmelding Domstoladministrasjonen, 2021
-Mål- og disponeringsbrev for resultatområdene i
-Nav Spesialenheter, 2008
-Mål- og disponeringsbrev for resultatområdene i
-Ytelseslinjen, 2013
-Mål- og disponeringsbrev til Nav Klageinstans,
-2022
-Mål- og disponeringsbrev NAV Arbeid og ytelser,
-2022
-Mål- og disponeringsbrev NAV Familie- og
-pensjonsytelser, 2022
-Tildelingsbrev til Domstoladministrasjonen for
-2022, Justis- og beredskapsdepartementet
-Tildelingsbrev til Arbeids- og velferdsdirektoratet
-for 2023, Arbeids- og inkluderingsdepartementet
-Litteratur
-Camilla Bernt og Jan Fridthjof Bernt (med bidrag
-fra Arne Fliflet), God forvaltningsskikk, 2018
-Jan Fridthjof Bernt og Ørnulf Rasmussen,
-Frihagens forvaltningsrett I, 2. utgave, 2010
-Torstein Eckhoff, Rettskildelære. 5. utgave ved Jan
-E. Helgesen, 2001
-Torstein Eckhoff og Eivind Smith, Forvaltningsrett, 11. utgave, 2018
-
-[Side 286]
-
-284
-
-Kilder og litteratur
-
-NOU 2023: 11
-Raskt og riktig
-
-Arvid Frihagen, Forvaltningsloven, Kommentarutgave, Bind II, 1986
-Hans Petter Graver, Alminnelig forvaltningsrett,
-5. utgave, 2019
-Jo Hov, Rettergang I, 2010
-Leif Erlend Johannesen og Fredrik Bergesen,
-Karnov lovkommentar, 16.9.2022
-Jon Fridrik Kjølbro, Den Europæiske menneskerettighedskonvention for praktikere, 5. utgave,
-2020
-Svein J. Magnussen og Ulf Stridbeck: Vurdering av
-troverdighet: Hva sier forskningen? Tidsskrift
-for strafferett, 2001
-Runar Narvland, «Om klage- og ankeprosessen i
-NAV og i Trygderetten», i Tidsskrift for erstatningsrett, forsikringsrett og trygderett,
-4. utgave, 2022
-Jens Edvin A. Skoghøy, Tvisteløsning, 2022
-Eivind Smith (red.), Våre perifere domstoler, 2022
-Henriette Nilsson Tøssebro, Omgjøring, 2021
-Geir Woxholth, Forvaltningsloven med kommentarer, 5. utgave, 2011
-Ole Erik Øie, Trygderetten og dens prosessordning, 2010
-
-Annet
-DFØ Innbyggerundersøkelsen, Hva mener
-brukerne? - 2019
-Strategi for fagfeltet Arbeid og Helse, Arbeids- og
-velferdsdirektoratet og Helsedirektoratet, 2021
-Informasjonsutveksling mellom NAV og fastleger,
-En gjennomgang av attester og erklæring som
-fastleger utsteder for Arbeids- og velferdsetaten, Arbeids- og velferdsdirektoratet i samråd
-med Helsedirektoratet på oppdrag fra Arbeidsog sosialdepartementet, 2021
-NAVs omverdensanalyse 2021, Utvikling, trender
-og konsekvenser fram mot 2035, Arbeids- og
-velferdsdirektoratet, 2021
-DFØ Innbyggerundersøkelsen 2021. Å bo i Norge,
-2021
-Ansvarsdokument for direktoratet, Arbeids- og velferdsdirektoratet, 2022
-Virksomhetsstrategi – NAV 2030, Arbeids- og
-velferdsdirektoratet, 2022
-
-[Side 287]
-
-NOU 2023: 11
-Raskt og riktig
-
-Vedlegg 1
-
-Ytelser og rettigheter på Navs myndighetsområde
-(statlig del)
-Medlemskap
-Pensjonspoeng
-Dagpenger
-Grunnstønad
-Hjelpestønad
-Forhøyet hjelpestønad
-Stønad ved gravferd
-Sykepenger
-Omsorgspenger
-Pleiepenger
-Opplæringspenger
-Hjelpemidler
-Høreapparat
-Grunnmønster til søm av klær
-Førerhund
-Lese- og sekretærhjelp for blinde og svaksynte
-Tolkehjelp for hørselshemmede
-Tolke- og ledsagerhjelp for døvblinde
-Motorkjøretøy eller annet transportmiddel
-Ortopediske hjelpemidler
-Brystprotese
-Ansiktsdefektprotese
-Øyeprotese
-Parykk
-Arbeidsavklaringspenger
-Tilleggsstønader til arbeidsrettede tiltak
-Uføretrygd
-Yrkesskade
-Yrkessykdom
-
-Menerstatning ved yrkesskade
-Svangerskapspenger
-Foreldrepenger
-Engangsstønad ved fødsel
-Overgangsstønad
-Stønad til barnetilsyn
-Tilleggsstønader til enslig mor eller far
-Ytelser til tidligere familiepleier
-Ytelser til gjenlevende ektefelle
-Barnepensjon
-Alderspensjon
-Krigspensjon
-Barnetrygd
-Kontantstøtte1
-Farskap eller morskap1
-Barnebidrag1
-Bidragsforskudd1
-Ektefellebidrag1
-Oppfostringsbidrag1
-Avtalefestet pensjon
-Supplerende stønad
-Lønnsgaranti1
-Arbeidsmarkedstiltak1
-Tiltakspenger1
-Bistand for å skaffe eller beholde arbeid1
-Sakskostnader1
-1
-
-Kan ikke ankes inn for Trygderetten
-
-285
-
-Vedlegg 1
-
-[Side 288]
-
-286
-
-NOU 2023: 11
-Raskt og riktig
-
-2023
-
-Vedlegg 2
-
-Lovene på Navs myndighetsområde med klagebehandling
-i NAV Klageinstans og ankebehandling
-i Trygderetten
-
-Oversikt over lovene på Navs myndighetsområde med klagebehandling i NAV Klageinstans etter hele eller deler av loven2 3
-Lov om folketrygd (folketrygdloven) av 28. februar
-1997 nr. 19
-Del I. Innledende bestemmelser
-Kapittel 1. Formål og definisjoner m.m.
-Kapittel 2. Medlemskap
-Del II. Beregningsregler. Pensjonsgivende inntekt
-Kapittel 3. Visse beregningsregler, trygdetid,
-pensjonspoeng og pensjonsgivende inntekt.
-Del III. Stønad under arbeidsløshet
-Kapittel 4. Dagpenger under arbeidsløshet
-Del IV. Ytelser ved sykdom m.m
-Kapittel 5. Stønad ved helsetjenester
-Kapittel 6. Grunnstønad og hjelpestønad
-Kapittel 7. Stønad ved gravferd
-Kapittel 8. Sykepenger
-Kapittel 9. Stønad ved barns og andre nærståendes
-sykdom
-Kapittel 10. Stønad for å kompensere for utgifter til
-bedring av arbeidsevnen og funksjonsevnen i
-dagliglivet
-Kapittel 11. Arbeidsavklaringspenger
-Kapittel 11 A. Tilleggsstønader til arbeidsrettede
-tiltak
-2
-
-3
-
-Jf. vedlegg 1 til lov av 16. juni 2006 nr. 20 om arbeids- og velferdsforvaltningen (NAV- loven) kapittel 21 (fullmaktsoversikten).
-Inkludert EØS- avtalens bestemmelser om trygd, EUs trygdeforordninger, Nordisk konvensjon om trygd og trygdeavtaler med andre land.
-
-Kapittel 12. Uføretrygd
-Kapittel 13. Yrkesskadedekning
-Del V. Ytelser knyttet til livsløp og familiesituasjon
-Kapittel 14. Ytelser ved svangerskap, fødsel og
-adopsjon
-Kapittel 15. Stønad til enslig mor eller far.
-Kapittel 16. Ytelser til tidligere familiepleier
-Kapittel 17. Ytelser til gjenlevende ektefelle.
-Kapittel 17 A. Overgangsregler for gjenlevende
-som er innvilget
-Kapittel 18. Barnepensjon.
-Del VI. Ytelser ved nådd pensjonsalder
-Kapittel 19. Alderspensjon
-Kapittel 20. Ny alderspensjon
-Del VII. Forvaltningsmessige bestemmelser.
-Kapittel 21. Saksbehandling i trygdesaker.
-Anke- og klagebehandling m.m.
-Kapittel 22. Utbetaling
-Del VIII. Finansielle bestemmelser.
-Kapittel 23. Finansiering.
-Kapittel 24. Saksbehandling i avgiftssaker m.m.
-Del IX. Avsluttende bestemmelser
-Kapittel 25. Forskjellige bestemmelser.
-Kapittel 26. Ikrafttredelse og overgangsbestemmelser. Endringer i andre lover.
-Lov om arbeid- og velferdsforvaltningen (NAVloven) av 16. juni 2006 nr. 20
-Lov om krigspensjonering for militærpersoner
-av 13. desember 1946 nr. 21 med tilleggslover
-Lov om krigspensjon for sivile m.v. av
-13. desember 1946 nr. 22 med tilleggslover
-
-[Side 289]
-
-2023
-
-NOU 2023: 11
-Raskt og riktig
-
-Lov om yrkesskadetrygd (yrkesskadetrygdloven) av 12. desember 1958 nr. 10
-Lov om barnetrygd (barnetrygdloven) av
-8. mars 2002 nr. 4
-Lov om kontantstøtte til småbarnsforeldre
-(kontantstøtteloven) av 26. juni 2006 nr. 41
-Lov om behandlingsmåten for forvaltningssaker (forvaltningsloven) av 10. februar 1967
-Lov om lønnsplikt under permittering
-(permitteringslønnsloven) av 6. mai 1988 nr. 22
-Lov om stans i utbetaling etter barnebortføring av 6. juni 2021 nr. 19
-Lov om foreldre og barn (barnelova) av 8. april
-1981 nr. 7
-Lov om bidragsforskott (forskotteringsloven)
-av 17. februar 1989 nr. 2
-Lov om innkreving av underholdsbidrag mv.
-(bidragsinnkrevingsloven) av 29. april 2005 nr. 20
-Lov om ekteskap (ekteskapsloven) av 4. juli
-1991 nr. 47
-Lov om barnevernstjenester (barnevernsloven) av 18. juni 2021 nr. 97
-Lov om statstilskott til arbeidstakere som tar
-ut avtalefestet pensjon i privat sektor (AFPtilskottsloven) av 19. februar 2010 nr. 5
-Lov om avtalefestet pensjon for medlemmer av
-Statens pensjonskasse av 25. juni 2010 nr. 28
-Lov om supplerande stønad for personar med
-kort butid i Noreg av 29. april 2005 nr. 21
-Lov om statsgaranti for lønnskrav ved konkurs
-m.v. (lønnsgarantiloven) av 14. desember 1973 nr.
-61
-
-287
-
-Lov om arbeidsmarkedstjenester (arbeidsmarkedsloven) av 10. desember 2004 nr. 76
-Lov om samordning av pensjons- og trygdeytelser (samordningsloven) av 6. juli 1957 nr. 26
-Lov om rett til innsyn i dokument i offentleg
-verksemd (offentleglova) av 19. mai 2006 nr. 16
-Oversikt over lovene på Trygderettens saklig
-virkeområde med vedtak fra Nav4
-Lov om folketrygd (folketrygdloven) av
-28. februar 1997 nr. 19
-Lov om yrkesskadetrygd (yrkesskadetrygdloven) av 12. desember 1958 nr. 10
-Lov om barnetrygd (barnetrygdloven) av
-8. mars 2002 nr. 4
-Lov om krigspensjonering for militærpersoner
-av 13. desember 1946 nr. 21 med tilleggslover
-Lov om krigspensjon for sivile m.v. av
-13. desember 1946 nr. 22 med tilleggslover
-Lov om statstilskott til arbeidstakere som tar
-ut avtalefestet pensjon i privat sektor (AFPtilskottsloven) av 19. februar 2010 nr. 5
-Lov om avtalefestet pensjon for medlemmer av
-Statens pensjonskasse av 25. juni 2010 nr. 28
-Lov om supplerande stønad for personar med
-kort butid i Noreg av 29. april 2005 nr. 21
-Lov om samordning av pensjons- og trygdeytelser (samordningsloven) av 6. juli 1957 nr. 26
-4
-
-Lov om anke til Trygderetten (trygderettsloven) av
-16. desember 1966 nr. 9 § 2
-
-[Side 290]
-
-Norges offentlige utredninger
-2023
-
-Norges offentlige utredninger
-2022
-
-Seriens redaksjon:
-
-Departementenes sikkerhets- og serviceorganisasjon
-Teknisk redaksjon
-
-1.
-
-Kvalitetsvurdering og kvalitetsutvikling i skolen
-Kunnskapsdepartementet
-
-7.
-
-Trygg barndom, sikker fremtid
-Barne- og familiedepartementet
-
-2.
-
-Fremtidens apotek – fleksibelt og forsvarlig
-Helse- og omsorgsdepartementet
-
-8.
-
-Fellesskapets sykehus
-Helse- og omsorgsdepartementet
-
-3.
-
-Mer av alt – raskere
-Olje- og energidepartementet
-
-9. 	Generalistkommunesystemet
-Kommunal- og distriktsdepartementet
-
-4.
-
-Tid for handling
-Helse- og omsorgsdepartementet
-
-10. 	Leve og oppleve
-Nærings- og fiskeridepartementet
-
-5.
-
-Den store forskjellen
-Helse- og omsorgsdepartementet
-
-11. Raskt og riktig
-Arbeids- og inkluderingsdepartementet
-
-6.
-
-Finanstilsynet i en ny tid – ny lov om Finanstilsynet
-Finansdepartementet
-
-Arbeids- og inkluderingsdepartementet:
-NOU 2022: 4 Grunnlaget for inntektsoppgjørene 2022
-NOU 2022: 7 Et forbedret pensjonssystem
-NOU 2022: 18 Mellom mobilitet og migrasjon
-NOU 2022: 19 Oljepionerene –
-en kompensasjonsordning
-
-Kunnskapsdepartementet:
-NOU 2022: 2 Akademisk ytringsfrihet
-NOU 2022: 13 Med videre betydning
-NOU 2022: 16 En folkehøgskole for alle
-NOU 2022: 17 Veier inn – ny modell for opptak
-til universiteter og høyskoler
-
-Finansdepartementet:
-NOU 2022: 12 Fondet i en brytningstid
-NOU 2022: 20 Et helhetlig skattesystem
-
-Landbruks- og matdepartementet:
-NOU 2022: 14 Inntektsmåling i jordbruket
-
-Justis- og beredskapsdepartementet:
-NOU 2022: 1 Cruisetrafikk i norske farvann
-og tilgrensende havområder
-NOU 2022: 15 Utleverings- og arrestordreloven
-NOU 2022: 21 Strafferettslig vern av den seksuelle
-selvbestemmelsesretten
-Kommunal- og distriktsdepartementet:
-NOU 2022: 10 Inntektssystemet for kommunene
-NOU 2022: 11 Ditt personvern – vårt felles ansvar
-Kultur- og likestillingsdepartementet:
-NOU 2022: 9 En åpen og opplyst offentlig samtale
-
-Nærings- og fiskeridepartementet:
-NOU 2022: 8 Ny minerallov
-Olje- og energidepartementet:
-NOU 2022: 3 På trygg grunn
-NOU 2022: 6 Nett i tide
-Statsministerens kontor:
-NOU 2022: 5 Myndighetenes håndtering
-av koronapandemien – del 2
-
-[Side 291]
-
-NOU
-
-Bestilling av publikasjoner
-
-Publikasjonene er også tilgjengelige på
-www.regjeringen.no
-
-NOU 2023: 11
-
-Departementenes sikkerhets- og serviceorganisasjon
-publikasjoner.dep.no
-Telefon: 22 24 00 00
-
-Omslagsillustrasjon:
-Oslo Economics/EGGS design/Colourbox.com
-Trykk: Departementenes sikkerhets- og
-serviceorganisasjon – 03/2023
-
-R K E T T RY
-
-1
-
-46
-
-20
-
-4
-
-KK
-
-K
-
-MI
-
-L
-
-Raskt og riktig
-
-ME
-
-SA
-
-JØ
-
-De
-
-p M edia
-
-04
-
-Norges offentlige utredninger
-
-2023: 11
-
-Raskt og riktig
-En helhetlig gjennomgang av klage- og ankesystemet
-i Arbeids- og velferdsetaten og Trygderetten
+# Rammene for å påklage førsteinstansens vedtak
+
+Utvalgets forslag
+
+Utvalget foreslår
+
+- at klagefristen i alle saker på Navs myndighetsområde skal være tre uker, i tråd med forvaltningslovens alminnelige regler
+
+- at brukere som oppfyller inntektskravene etter rettshjelpsloven, kan få dekket kostnader til hjelp med å få vurdert om det er grunnlag for å klage
+
+Rammeslutt
+
+## Innledning
+
+Oslo Economics peker på at rammevilkårene for å klage har betydning for antallet klager. Det fremheves at det er enkelt å sende inn en klage til Nav, og at det er få formelle krav til klagen. Det informeres om klagemuligheter til bruker både i vedtaksbrev, på nav.no og i mange tilfeller brukers dialog med NAV Kontaktsenter og Nav-kontoret. Klagefristen etter folketrygdloven er seks uker[^743] og dermed dobbelt så lang som etter forvaltningslovens normalordning.[^744] Å klage er kostnadsfritt og klager løper ingen risiko for å bli pålagt omkostningene staten har i forbindelse med behandlingen av klagen. Utgangspunktet er også at klager som får medhold, har krav på å få dekket egne omkostninger (for eksempel til juridisk eller sakkyndig bistand).[^745]
+
+For utvalget reiser dette spørsmål ved om det er grunn til å endre rammebetingelsene for å klage, for på den måten å begrense antallet klager.
+
+Retten til å klage utgjør en viktig rettssikkerhetsgaranti. Reglene er utformet for å sikre alle brukere, uavhengig av ressurser, en reell mulighet til å få overprøvd forvaltningens vedtak. Generelle innstramminger i klageretten er også lite målrettet, og kan også innebære at flere uriktige vedtak blir stående. Som et generelt utgangspunkt er utvalget derfor av den oppfatning at man bør være forsiktig med å stramme inn på rammevilkårene for klageretten.
+
+Mandatet viser eksplisitt til det ikke er forbundet noen kostnader for bruker å klage til NAV Klageinstans. Utvalget har derfor vurdert om det bør innføres gebyr for å påklage vedtak. Det er vanlig i norsk rett at det er kostnadsfritt å klage. Et gebyr kan føre til at brukernes økonomiske ressurser blir avgjørende for om de får prøvd sakene sin gjennom å klage. Særlig innenfor et så sentralt område som Nav forvalter, er gebyr for å klage etter utvalgets syn ikke et aktuelt virkemiddel.
+
+Derimot har utvalget funnet grunn til å vurdere nærmere om det er grunn til å opprettholde særregelen om klagefristen. Klagefristen etter folketrygdloven er i dag dobbelt så lang som den alminnelige klagefristen i forvaltningen. Det gjelder også sammenlignet med fristen som gjelder i sammenlignbare saker, for eksempel innenfor helse- og omsorgssektoren.
+
+Et spørsmålet er om det er grunn til å justere rammene for behovsprøvd fritt rettsråd i klagesaker etter folketrygdloven § 21-12.[^746] I dag kan brukere tilkjennes fritt rettsråd i disse sakene hvis vedtaket faktisk påklages. Bistand til å vurdere om et vedtak skal påklages, dekkes ikke. Ettersom det å klage er gratis, har bruker få hindringer for å sende en klage selv om advokaten og bruker ser at det ikke er grunnlag for klagen. Dagens regulering kan stimulere til unødvendige klager.
+
+## Klagefristen
+
+### Gjeldende rett
+
+Den alminnelige klagefristen etter forvaltningsloven § 29 er tre uker fra underretningen om vedtaket kom frem til parten. Klagefristen kan «i særlige tilfeller» forlenges av underinstansen eller klageinstansen.[^747]
+
+Etter folketrygdloven § 21-12 femte ledd er fristen for å påklage vedtak etter folketrygdloven seks uker.[^748] For andre typer vedtak på Navs myndighetsområde kan det være fastsatt særskilte klagefrister i den aktuelle særloven. Etter barnetrygdloven og arbeidsmarkedsloven er klagefristen som i folketrygdloven seks uker. Etter kontantstøtteloven, barnelova, forskotteringsloven (bidragsforskudd), ektefelleloven (ektefellebidrag) og lønnsgarantiloven gjelder imidlertid forvaltningslovens vanlige treukersfrist. Det gjelder altså ulike klagefrister for forskjellige ytelser Nav treffer vedtak om.
+
+Klagefristen var også seks uker etter folketrygdloven av 1966.[^749] Bakgrunnen for at fristen ble satt til seks uker, er ikke nærmere drøftet i forarbeidene, men regelen var en videreføring av gjeldende rett fra folketrygden 1966.
+
+I utredningen som ligger til grunn for folketrygdloven 1997, ble det foreslått at klagefristen skulle endres og følge normalregelen i forvaltningsloven. Utvalget anså det som lite praktisk at klagebehandlingen skulle reguleres av to regelverk. Utvalget la til grunn at forvaltningslovens regulering garanterte tilstrekkelig rettssikkerhet, særlig under henvisning til at det etter forvaltningsloven var adgang til å gi oppreisning for fristoversittelser, og ikke minst at det alltid ville være adgang til å fremsette nye krav om fremtidige ytelser.[^750] Departementet valgte imidlertid å videreføre fristen på seks uker.[^751] Det er denne som gjelder i dag.
+
+Rettsvirkningen av at en klage er inngitt for sent er at den som utgangspunktet skal avvises.[^752] Brukeren vil da som et utgangspunkt ikke få vurdert saken på nytt. Klagen kan allikevel tas under realitetsbehandling innen ett år dersom parten ikke kan lastes for å ha oversittet fristen, eller dersom det av særlige grunner er rimelig å få klagen prøvd.[^753]
+
+### Utvalgets vurderinger
+
+Det er særlig tre hensyn som gjør seg gjeldende når utvalget skal ta stilling til hvilken klagefrist som bør gjelde på Navs myndighetsområde.
+
+For det første er det viktig at fristen gir brukeren rom for å områ seg før klagen eventuelt må inngis. For flere av ytelsene er regelverket komplisert, og det vil derfor ofte kunne være behov for å rådføre seg med andre og eventuelt ta kontakt med en advokat. Dette tilsier at tidsfristen ikke må være for kort.
+
+For det andre er det viktig å sikre at prosessen ikke trekker ut i tid. En raskest mulig avklaring er positivt både for parten selv og for Nav. Det er ressurskrevende å ha saker i prosess. Dette tilsier at fristen bør være så kort at brukerne gis en oppfordring til å handle så raskt som mulig.
+
+For det tredje mener utvalget at det har en verdi for både bruker og Nav at reglene er enhetlige og enkle. Det begrenser sannsynligheten for at det skjer feil, noe som igjen er tillitvekkende.
+
+Basert på disse tre overordnede hensynene har Forvaltningslovutvalget foreslått å videreføre dagens alminnelige treukersfrist. Forvaltningslovutvalget viser til at dagens regel er godt innarbeidet, og at den gir uttrykk for en god avveining mellom de ulike hensynene.[^754] Samtidig peker Forvaltningslovutvalget på at det unntaksvis kan det være aktuelt å gi særregler, og da særlig der sakene er særlig kompliserte eller har særlig stor betydning for parten.
+
+For dette utvalget blir spørsmålet om det foreligger tilstrekkelig gode grunner til å ha en annen klagefrist på folketrygdlovens område. Dagens regel er i stor grad historisk betinget.
+
+Siden seksukersfristen ble fastsatt, både opprinnelig og i 1997, har det skjedd vesentlige endringer i samfunnet. Muligheten for å klage digitalt eller gjennom andre kommunikasjonsformer gjør det lettere og raskere å klage. Det tilsier etter utvalgets syn at det bør være gode grunner for å opprettholde en lenger frist enn det som gjelder på andre områder.
+
+I referansegruppemøte har brukerorganisasjonene gitt uttrykk for at de mener eksisterende klagefrist bør opprettholdes. I Agenda Kaupangs rapport om brukeropplevelser i klage- og ankesystemet er det også flere som gir uttrykk for at klagefristen bør forlenges. Det vises til at det fremstår som urimelig at klage må sendes inn innen seks uker, når forvaltningen selv bruker måneder på å avgjøre sakene.[^755] Utvalget har forståelse for at mange opplever seks uker som for kort tid, men utvalget er ikke enig i at lang saksbehandlingstid i forvaltningen er et godt argument for lang klagefrist. Mens forvaltningen behandler mange hundre tusen saker, har partene bare ansvar for sin ene sak. Utvalget foreslår for øvrig en rekke tiltak som skal påskynde prosessen, og i et slikt perspektiv bør det legges opp til at også brukerne pålegges et visst ansvar for å få ned den samlede tidsbruken i systemet.
+
+Utvalget legger også vekt på at minstekravene til en klage ikke er spesielt strenge, og at brukerne ikke trenger å sende inn alle relevante opplysninger i selve klagen.
+
+Urimelige utslag av en kortere klagefrist avdempes dessuten ved at loven åpner for at fristen i særlige tilfeller kan forlenges, og at det kan gis oppreisning for fristoversittelser.[^756] I mange saker vil også bruker kunne søke på nytt, om enn med nytt virkningstidspunkt.
+
+Etter en samlet vurdering mener utvalget at det ikke er tilstrekkelige grunner for å ha en annen klagefrist på dette området enn den alminnelige klagefristen i forvaltningen. Utvalget foreslår derfor å endre folketrygdloven § 21-12 femte ledd og barnetrygdloven § 15 andre ledd. Klagefristen vil da følge den alminnelige regelen i forvaltningsloven, og være på tre uker. Arbeidsmarkedsloven § 17 andre ledd foreslås endret slik at ordlyden «seks uker» erstattes med «tre uker».
+
+## Rettshjelp til å vurdere klage
+
+### Innledning
+
+Brukere som velger å la seg representere av advokat eller annen fullmektig, må selv dekke utgiftene til slik bistand.[^757] Etter rettshjelpsloven § 11 kan det imidlertid innvilges fritt rettsråd i klagesaker som reguleres av folketrygdloven § 21-12.[^758] Fritt rettsråd i klagesak er behovsprøvd.
+
+Kostnader ved bistand i klagesak dekkes bare dersom en klage blir satt fram. Kostnader ved bistand for å få vurdert om det er grunnlag for klage, og om vedtaket i så fall skal påklages, dekkes derimot ikke. Dagens ordning med kostnadsfri klage gir insentiv til å levere en klage selv om bruker og advokat ser at det er svært liten sannsynlighet for at klagen vil føre frem. Slik utvalget ser det, stimulerer altså systemet til unødvendige klager.
+
+Rettshjelpsutvalget identifiserte også denne problemstillingen, og viser i sin utredning til at dette systemet i seg selv er en årsak til klager. Klager formulert av advokater, men som åpenbart ikke vil føre fram, ble også pekt på som et problem blant flere av informantene i SINTEFs gjennomgang av omgjøring etter klager i 2016. Rettshjelpsutvalget viste også til SINTEFs gjennomgang og foreslo at retten til støtte utvides til å omfatte vurdering av klage.[^759]
+
+### Utvalgets vurderinger
+
+Det er uheldig når reglene om rettshjelp gir brukerne oppfordring til å klage også i saker der de har bedt om rettsråd, og hvor advokatene mener at klagen ikke vil føre frem. Dette utvalget er derfor enig med Rettshjelpsutvalget i at ordningen bør justeres slik at det kan gis dekning for arbeid med å vurdere om et vedtak skal påklages, og fremmer forslag til endring i rettshjelpsloven i tråd med dette.
+
+Det kan spørres om en utvidet rettshjelpsordning, som da også dekker kostnader forbundet med å vurdere om et vedtak skal påklages, bør kombineres med en noe innsnevret rett til å få dekket kostnadene ved selve klagen. Dette vil ha økonomiske konsekvenser for staten når brukere som oppfyller inntektskravene får dekket kostnadene for å få saken sin vurdert. For å bøte noe på dette kan det reises spørsmål ved om reglene bør være slik at klager som åpenbart ikke kunne føre frem, ikke gir krav på kostnadsdekning. Dette vil hindre at brukere som får vurdert klagemulighetene sine, oppfordres til å klage selv om klagen ikke har utsikter til å nå frem, bare for å få dekket advokatkostnader. En slik ordning vil også virke prosessdrivende. Utvalget har derfor valgt å ikke foreslå et slikt unntak.
+
+Utvalgets forslag bygger på det samme saklige virkeområde som gjeldende ordning, det vil si klagesaker etter folketrygdloven § 21-12. Loven er tolket slik at rettshjelpsordningen også omfatter vedtak truffet i medhold av andre lover, dersom disse lovene henviser til klagebestemmelsen folketrygdloven § 21-12. Det betyr at rettshjelp også er aktuelt ved klager over vedtak truffet i medhold av barnetrygdloven, AFP-tilskottsloven og lov om supplerande stønad ved kort butid.[^760]
+
+I Rettshjelpsutvalgets forslag er det foreslått en tilstramming av loven, slik at muligheten for fritt rettsråd er begrenset «til den som vurderer å klage over vedtak etter folketrygdloven». Dermed vil klager på vedtak etter barnetrygdloven, AFP-tilskottsloven og Lov om supplerande stønad ved kort butid ikke falle inn under ordningen. Det fremgår av innstillingen at det var et bevisst valg fritt rettsråd ikke skulle gis etter dette alterantivet for klager over vedtak etter barnetrygdloven.[^761] Derimot er ikke forholdet til AFP-tilskuddsloven[^762] og lov om supplerande stønad ved kort butid drøftet.[^763]
+
+I referansegruppemøter har utvalget blitt oppfordret til å adressere denne uklarheten. Slik utvalget ser det bør rettshjelpsordningen saklige virkeområde begrenses uten at det er vurdert opp mot de ulike ytelsene, og da særlig saker etter lov om supplerande stønad ved kort butid. Utvalget antar at disse spørsmålene vil vurderes i forbindelse med oppfølgningen av rettshjelpsutvalgets innstilling. Det fremmes derfor forslag til endring som beholder dagens saklige virkeområde for fritt rettsråd.
+
+# Rammene for søksmål for Trygderetten
+
+Utvalgets forslag
+
+Utvalget foreslår
+
+- at gjeldende regler om Trygderettens saklige virkeområde videreføres
+
+  - ved behov bør departementet vurdere om det i forskrift skal gjøres unntak for visse sakstyper
+
+- at det fortsatt skal være gebyrfritt å bringe saker inn for Trygderetten
+
+  - ved behov bør det vurderes om gebyr er hensiktsmessig for enkelte sakstyper
+
+- at ankefristen på seks uker videreføres som søksmålsfrist
+
+Rammeslutt
+
+## Innledning
+
+De fleste vedtak truffet av NAV Klageinstans kan ankes inn for Trygderetten. Årlig blir mellom 3 500-4 000 vedtak påanket. Sammenliknet med forvaltningssaker for domstolen, er dette et svært høyt antall. Årsaken er særlig de gunstige vilkårene som gjelder for anke til Trygderetten. For bruker er det ofte kostnadsfritt å anke til Trygderetten og det er mulig å få dekket egne sakskostnader.[^764] Videre har bruker i praksis ingen risiko for å måtte betale statens kostnader.[^765] Det skal heller ikke betales rettsgebyr for anke til Trygderetten.[^766] I tillegg er fristen for å anke seks uker.[^767]
+
+Disse vilkårene fører til at Trygderetten har en helt annen situasjon enn de alminnelige domstolene. Mens man i de alminnelige domstolene, etter utvalgets syn, burde hatt flere saker om utøving av offentlig myndighet, er det i Trygderetten så mange saker at det tidvis oppstår store restanser.[^768]
+
+I mandatet er det pekt på at det ikke gjelder regler om siling av hvilke sakstyper som kan ankes inn for Trygderetten, og heller ingen krav til ankens verdi. Det er også nevnt at det ikke er forbundet med noen kostnad å anke. Utvalget anser det derfor som en del av mandatet å vurdere om det skal gjøres endringer i rammevilkårene for behandling i Trygderetten med det formål å redusere antall saker.
+
+Utvalget tar her utgangspunkt i forholdsmessighetsprinsippet. Samtidig som rettssikkerhetsgarantiene skjerpes høyere opp i klage- og ankesystemet, må det skje en reduksjon i antallet saker, med det formål at sakenes viktighet øker jo høyere oppe i systemet man er. Dette tilsier etter utvalgets syn at rammevilkårene må skjerpes for hvert trinn oppover i klage- og ankesystemet. Spørsmålet for utvalget er om de rammene for å bringe en sak inn for Trygderetten er forholdsmessige i lys av det nivået sakene da er på, og sakenes viktighet. I vurderingen må det tas hensyn til at sakene for Trygderetten allerede har vært klagebehandlet én gang i Nav. Det tilsier at det må kunne stilles strengere betingelser for å få behandlet saken i Trygderetten enn det som gjelder ved klage til NAV Klageinstans. Det er også naturlig for utvalget å se hen til rammevilkårene for overprøving av klagevedtak på andre ytelsesområder.
+
+## Trygderettens saklige virkeområde
+
+### Innledning
+
+Trygderettens saklige virkeområde er definert i trygderettsloven § 2. Trygderetten behandler vedtak om individuelle rettigheter og plikter etter folketrygdloven, barnetrygdloven, lovgivningen om krigspensjonering, bestemmelser for supplerende pensjonsordninger som er fastsatt ved lov eller vedtak av Stortinget, samordningsloven og særlige lovbestemmelser som fastsetter at saker kan ankes til Trygderetten. Vedtakene etter folketrygdloven bare kan bringes inn for Trygderetten etter at klageretten er benyttet.[^769] Det samme gjelder vedtak etter for eksempel barnetrygdloven og lov om supplerande stønad.[^770]
+
+Etter folketrygdloven § 21-12 fjerde ledd kan departementet gi forskrift som unntar visse typer ytelser fra prøving i Trygderetten. Dette er gjort i forskrift om unntak fra anke til Trygderetten, som unntar noen få vedtakstyper, blant annet vedtak om bidrag til spesielle formål etter folketrygdloven § 5-22, om reduksjon av arbeidsavklaringspenger etter folketrygdloven § 11-9 og om tap av retten til å praktisere for trygdens regning etter § 25-6.
+
+De fleste vedtak som treffes av Nav, kan bringes inn for Trygderetten. En betydelig andel vedtak på Navs myndighetsområde, kan ikke påankes. Det gjelder kontantstøtteloven, barnelova, forskotteringsloven, ekteskapsloven, arbeidsmarkedsloven, lønnsgarantiloven, NAV- loven, forvaltningsloven og deler av tilleggsstønadsforskriften.
+
+På den annen side kan Trygderettens saklige virkeområde også være utvidet i særlov. Det følger for eksempel av lov om supplerende stønad til personar med kort butid i Noreg § 22 at vedtak om supplerende stønad også kan ankes inn for Trygderetten.
+
+### Utvalgets vurderinger
+
+Utvalget har vurdert om det bør gjøres endringer i Trygderettens virkeområde for å redusere antall saker og dermed Trygderettens arbeidsbelastning. For utvalget er det viktig at Trygderetten i praksis fungerer som en reell domstol og erstatning for tingrettene. Å gå inn for å unnta hele eller deler av ulike saksområder fra Trygderettens virkeområde vil bety å gå inn for en reduksjon av reell domstolskontroll.
+
+I en vurdering av om Trygderettens saklige virkeområde bør innsnevres, er det relevant å spørre om tingrettenes behandlingsmåte gir noen fordeler som veier opp for ulempene ved at Trygderetten ikke er en del av systemet. Særlig sett i lys av kostnadene ved å bringe saker inn for tingretten, bør fordelene da være forholdsvis betydelige. Utvalget har gjennomgått de ulike vedtakstypene som i dag behandles for Trygderetten, og kan ikke se at noen av disse egner seg spesielt godt for tingrettsbehandling. Tingretten fremstår ikke som et bedre tvisteløsningsalternativ for brukerne enn Trygderetten. Selv om behandlingsformen i tingretten for enkelte sakstyper kan gi bedre bevisgrunnlag, blant annet fordi bruker får anledning til å forklare seg muntlig, vil kostnadene forbundet med en slik sak gjøre at domstolsprøving får liten realitet.
+
+Utvalget anbefaler derfor ikke at det gjøres endringer i Trygderettens saklige virkeområde. Hvis det skulle oppstå et reelt behov for å unnta visse (nye) sakstyper fra Trygderettens virkeområde, antar utvalget at det kan reguleres i forskrift, for eksempel i medhold av folketrygdloven § 21-12 fjerde ledd. For øvrig kan et behov for å begrense antallet saker, eller heve terskelen for å bringe saken til Trygderetten, møtes med et krav om at bruker må betale helt eller delvis for behandlingen av enkelte sakstyper.
+
+## Rettsgebyr
+
+### Innledning
+
+Det er ingen gebyrer for å få behandlet saker i Trygderetten.[^771] Dette gjelder uavhengig av om retten blir satt med fagkyndige medlemmer. Til sammenlikning utløser det et rettsgebyr å bringe saker inn for overprøving for en domstol.[^772] Rettsgebyret fastsettes årlig og er for 2023 1 243 kroner. For saker for forliksrådet er gebyret 1,1 ganger rettsgebyret.[^773] For behandling av saker i tingretten er inngangsgebyret på fem ganger rettsgebyret, og gebyret øker dersom hovedforhandling varer i mer enn en dag. Hvis en part krever retten satt med meddommere eller det oppnevnes en sakkyndig, må parten i tillegg betale kostnaden for dette.[^774] Den som taper saken, kan pålegges å betale rettsgebyret som en del av avgjørelsen om sakskostnadene.
+
+Enkelte sakstyper er unntatt fra rettsgebyr, blant annet saker mot Arbeids- og velferdsdirektoratet.[^775] Det betyr at bruker ikke må betale rettsgebyr dersom vedkommende bringer en kjennelse fra Trygderetten inn for lagmannsretten, eller lagmannsrettens dom i slike saker blir anket inn for Høyesterett. På sammenliknbare områder som helse- og omsorgssektoren eller sosialsektoren, må klagevedtak truffet av statsforvalteren bringes inn for de ordinære domstolene, og i disse sakene må det betales rettsgebyr.
+
+Det er ikke opplagt hvorfor det skal betales rettsgebyr for saker innenfor helse- og omsorgssektoren, men ikke for Nav-saker. Da trygderettsloven ble vedtatt, ble det vist til at selv «et beskjedent gebyr kan bety en økonomisk belastning for en pensjonist eller pensjonssøker og kan i tilfelle innebære en faktisk begrensning av den formelle ankerett».[^776] Tilsvarende vil også gjelde for brukere i mange andre saker innenfor helse- og omsorgssektoren.
+
+Spørsmålet om å innføre gebyr for å anke til Trygderetten har blitt vurdert flere ganger. Det ble blant annet drøftet på 1970-tallet uten at departementet fant å kunne gå inn for det. Begrunnelsen var at man ikke ønsket en utsiling av ankesaker av økonomiske grunner.[^777]
+
+Spørsmålet kom opp på nytt på 1990-tallet etter anbefaling fra Statskonsult og Trygderetten. Trygderetten hadde blant annet vist til en tendens til høy ankefrekvens, og at kvaliteten og holdbarheten i ankene ville bli bedre om dersom det ble innført ankegebyr.[^778] Departementet valgte heller ikke den gangen å innføre en gebyrløsning. Det ble vist til at gebyr kunne virke urimelig for den som mener seg feil behandlet, og at innkreving av gebyr vil medføre administrativt merarbeid. Departementet tok likevel forbehold om å komme tilbake til spørsmålet dersom andre tiltak ikke skulle ha tilfredsstillende virkning på anketilbøyeligheten.
+
+Gebyr er også omtalt i forbindelse med lovrevisjonen i 2015.[^779] På det tidspunktet var det imidlertid lave restanser, og departementet valgte derfor å ikke foreslå ankegebyr.
+
+### Utvalgets vurderinger
+
+Utvalget mener at Trygderetten skal være et lavterskeltilbud for brukerne på dette området. Selv et mindre gebyr vil bety at enkelte brukere ikke vil kunne få prøvd sin sak.
+
+Så lenge ankebehandling for Trygderetten er kostnadsfri, vil brukerne imidlertid ikke ha noen økonomiske insentiver til å vurdere om saken er så viktig at den må ankes inn for Trygderetten. Trygderetten har ved tidligere vurderinger av dette spørsmålet vist til at det i en del saker kan synes som om at bruker sender inn en anke mer eller mindre automatisk. Et gebyr som dekker deler av kostnaden forbundet med saken, vil kunne utløse en vurdering hos bruker og begrense antallet ugrunnede anker. Utvalget ser derfor på gebyr som et egnet virkemiddel for å regulere inngangen av ankesaker.
+
+Utvalget mener at det er relevant å sammenlikne trygderettssakene med saker på andre velferdsytelser og den mulighet som gis for domstolsprøving der. Innenfor helse- og omsorgssektoren er utgangspunktet, at klagevedtak bare kan bringes inn for de alminnelige domstolene. Dette er ytelser som i innhold har lignende betydning for brukerne som mange av ytelsene etter folketrygdloven. For domstolsprøving av disse sakene skal det betales til dels høye rettsgebyrer, og brukerne løper en helt annen risiko for omkostningsansvar.[^780] Sett opp mot dette, fremstår ikke et mindre gebyr også på Trygderettens område som urimelig.
+
+Slik utvalget ser det, vil også hensynet til forholdsmessighet i saksbehandlingen være relevant her. Jo høyere opp i klage- og ankesystemet man er, jo viktigere bør saken være. Dette hensynet retter seg både mot verdiene i tvisten og betydningen for brukeren. Resultatet av denne avveiningen, vil være forskjellig for ulike ytelser.
+
+Samtidig bør det ikke oppstilles krav om gebyr som medfører at brukere ikke får en reell mulighet til å få prøvd særlig viktige spørsmål også for en domstol. Av den grunn bør man også trekke inn i avveiningen hvilke brukergrupper ytelsen retter seg mot. Også her vil vurderingen kunne være forskjellig for ulike ytelser.
+
+Utvalget har funnet denne avveiningen vanskelig. Etter utvalgets vurdering er det antakelig ingen god løsning å innføre et generelt gebyr for behandling i Trygderetten. I stedet må vurderingen gjøres konkret mot de ulike ytelsene på Navs myndighetsområde. For sentrale og langvarige livsoppholdsytelser, som arbeidsavklaringspenger og uføretrygd, mener utvalget det fremstår som lite rimelig å innføre gebyr. Dette er ytelser som er særlig viktige for brukerne, og denne brukergruppen vil på grunn av manglende tilknytning til arbeidslivet, ofte ha begrenset med økonomiske ressurser. For ytelser som for eksempel barnetrygd kan avveiningen av hensynene gi et annet resultat. Som retthjelpslovutvalget påpekte, er barnetrygd vanligvis kurante saker om mindre beløp.[^781] Brukergruppen er foreldre generelt, og mange av brukerne vil ha tilstrekkelig med ressurser til å betale et mindre gebyr.
+
+Selv om utvalget altså mener at det er forskjell på de ulike ytelsene, og at enkelte ytelser kanskje bør bli gjenstand for en gebyrløsning, har utvalget under tvil kommet til at det ikke vil anbefale å innføre dette. Utvalget har lagt vekt på at det i denne utredningen fremmes en rekke andre forslag som skal effektivisere prosessen. De tiltak som foreslås vil, etter utvalgets syn, være tilstrekkelig for at Trygderetten kan håndtere ankeinngangen.
+
+Utvalget har også vektlagt at gebyr har vært vurdert og forkastet to ganger tidligere. Selv om brukergruppenes økonomi i dag må antas å være bedre enn på 1970-tallet, vil selv et lavt gebyr kunne medføre en barriere for enkelte brukere. Utvalget har sett hen til at Nav har vært utsatt for kritikk og negativ medieoppmerksomhet de senere årene. I en slik situasjon er det særlig betenkelig å innføre økonomiske barrierer for å få tilgang til en så viktig rettssikkerhetsgaranti som Trygderetten. Dersom utvalgets prognoser slår feil, og foreslåtte tiltak ikke gir tilstrekkelig effekt, bør departementet vurdere spørsmålet om gebyr på nytt.
+
+## Søksmålsfrist
+
+### Innledning
+
+Fristen for å anke et vedtak inn for Trygderetten er seks uker fra det tidspunkt skriftlig underretning om vedtaket, ankeadgang og ankefrist er kommet fram til brukeren.[^782] Fristen har stått uendret siden etableringen av folketrygden og Trygderetten på slutten av 1960- tallet. Regelen er begrunnet med hensynet til å få fremskyndet ankene, og da departementet i sin tid vurderte dette, var spørsmålet om fristen skulle utvides snarere enn å kortes ned.[^783]
+
+Spørsmålet om ankefrist er også omtalt i lovrevisjonen til trygderettsloven i 2015. Det ble i den forbindelse foretatt en gjennomgang av ulike problemstillinger som kan oppstå om når fristen begynner å løpe, og når og hvordan fristen avbrytes. Spørsmålet om fristen skulle utvides eller kortes ned, ble imidlertid ikke vurdert.[^784]
+
+Utvalget foreslår at Trygderetten gis formell status som særdomstol, og at brukerne skal fremsette stevning for Trygderetten. I et slikt system er det naturlig å omtale fristspørsmålet som et spørsmål om søksmålsfrist. Med dagens terminologi er det riktigere å omtale dette som et spørsmål om ankefrist. Realitetene er imidlertid de samme, og de hensyn som gjør seg gjeldende, påvirkes ikke av Trygderettens formelle status.
+
+Det følger av Trygderettsloven § 9 andre ledd at Trygderetten og ankemotparten kan forlenge ankefristen dersom «særlige grunner» foreligger. I praksis har dette vilkåret ikke vært praktisert særlig strengt.[^785]
+
+### Utvalgets vurderinger
+
+Ettersom utvalget foreslår at Trygderetten skal bli en formell domstol, oppstår også spørsmålet om reglene om fristforlengelser bør endres.
+
+Hensynet til effektivitet tilsier at reglene utformes slik at de bidrar til bringe prosessene fremover, og at prosessene ikke trekker unødig ut i tid. At saken får sin endelige avklaring innen rimelig tid, er et gode både for brukeren, Nav og samfunnet. Det tilsier at fristen bør være så kort at brukerne får en oppfordring til å handle så raskt som mulig.
+
+Samtidig bør ikke fristen være så kort at parten ikke rekker å områ seg. Fristen må ikke forhindre at brukeren får reell mulighet til å benytte sine prosessuelle rettigheter.
+
+Fristens lengde bør ses i sammenheng med formkravene som stilles til å få en sak behandlet av Trygderetten. Etter utvalgets forslag vil kravene være de samme som gjelder for stevning til domstolen. Disse kravene er strengere enn det som gjelder for fremsettelse av en klage i forvaltningen. I de fleste sakene vil brukere også engasjere advokat. Når en prosesshandling krever bistand fra tredjepart, er også det et hensyn som taler for en noe lengre frist enn det som gjelder i forvaltningssporet.
+
+Utvalget legger til grunn at dagens seksukersfrist er godt innarbeidet og at den på en god måte tar hensyn til brukerens behov for undersøkelser, samt for Navs og Trygderettens behov for rask avklaring. Utvalget foreslår derfor at fristen på seks uker som i dag gjelder for anker, beholdes som en søksmålsfrist.
+
+Del VIII
+
+Tiltak for å bedre styring og forvaltningsutvikling i Nav og Trygderetten

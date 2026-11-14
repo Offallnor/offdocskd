@@ -1,1138 +1,304 @@
-# NOU 2023: 11, del 7 av 23 (side 88–99)
+# NOU 2023: 11, del 7 av 29
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2023/ddf789d4-nou-2023-11.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2023-11/id2969126/
 - Original-PDF: https://www.regjeringen.no/contentassets/bc4d7866cdbf4151b35df2ddb8b8f5bb/no/pdfs/nou202320230011000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 32 figurer, 132 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 88]
-
-86
-
-NOU 2023: 11
-
-Kapittel 6
-
-Raskt og riktig
-
-30
-
-20
-
-10
-
-0
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-Omgjøringsprosent
-Oppheving/henvist
-Hel/delvis omgjøring
-
-Figur 6.11 Resultat Trygderetten
-Årsrapport Trygderetten, 2021 s. 20.
-
-Trygderettens behandling av en ankesak kan
-få fem utfall. Kjennelsen skal inneholde en slutning som nøyaktig angir resultatet.104
-– Saken kan avvises uten at Trygderetten tar stilling til realiteten i saken.
-– Dersom Trygderetten tar stilling til sakens realitet kan det påankede vedtaket:
-– Stadfestes
-– Omgjøres helt eller delvis til gunst for bruker
-– Oppheves og saken henvises til ny behandling i Nav
-– Bli stående og saken henvises til ny
-behandling i Nav
-De to siste alternativene brukes i tilfeller der retten mener at saken ikke er godt nok opplyst til å
-avgjøre realiteten. Nav må da sørge for å innhente
-de opplysningene som mangler og fatte nytt førstegangsvedtak. Det siste alternativet brukes for
-eksempel i sak om tilbakekreving der det er
-uklart hvor langt foreldelsen strekker seg. 105
-Resultatet at vedtaket stadfestes i omlag 80
-prosent av sakene. Denne andelen har holdt seg
-nokså stabil siden begynnelsen av 2000-tallet. Det
-er heller ikke store svingninger i forholdet mellom omgjøring og oppheving de siste årene. Den
-totale gunstprosenten var i 2021 på omlag 22 pro-
-
-sent. Dette er omtrent på samme nivå som tidligere.106
-Når anken er ferdig behandlet i Trygderetten,
-mottar partene en kjennelse som informerer om
-resultatet av Trygderettens behandling av saken.
-Trygderetten sender kjennelsene ut til partene via
-Altinn. I Nav mottar NAV Klageinstans kjennelsene og følger eventuelt opp overfor førsteinstansene, som treffer eventuelle etterfølgende vedtak
-om for eksempel virkningstidspunkt. Når Trygderetten opphever Navs vedtak, er gjeldende praksis
-at førsteinstansen innhenter manglende opplysninger og treffer nytt vedtak. Førsteinstansen sørger også for at NAV Økonomi stønad eller NAV
-Økonomi pensjon får beskjed om å sette i gang
-utbetaling.
-NAV Klageinstans orienterer Arbeids- og velferdsdirektoratet om viktige kjennelser etter egne
-rutiner. Når Trygderetten legger til grunn en
-annen rettsoppfatning enn Nav, og klageinstansen
-mener Nav sin praksis bør endres, ber de direktoratet om å endre rundskrivet eller bringe kjennelsen inn for lagmannsretten, dersom direktoratet
-ikke vil endre praksis i Nav. Om klageinstansen
-mener kjennelsen ikke gir grunnlag for å endre
-Navs praksis, oppfordrer de direktoratet til å
-bringe kjennelsen inn for lagmannsretten.
-
-6.6.1 Sakskostnader
-Hvis Trygderettens kjennelse er til gunst for bruker, skal retten pålegge NAV Klageinstans å helt
-eller delvis erstatte de nødvendige kostnader som
-saken har medført for vedkommende. Det gjelder
-også nødvendige kostnader bruker har hatt i forbindelse med tidligere klagebehandling av saken
-og kostnader som er pådratt etter rettshjelpsloven.107 Sakskostnader tilkjennes bare når bruker
-har krevd det.108 I 2021 påla Trygderetten Nav å
-betale om lag 14 mill. kroner i sakskostnader etter
-trygderettsloven § 29.
-Det er hjemmel til å pålegge bruker å betale
-kostnadene anken har medført for Nav hvis vedkommende åpenbart uten grunn har satt frem
-eller opprettholdt anke. Dette er imidlertid en
-bestemmelsen som er bare brukt én gang.109 I
-praksis har derfor bruker ikke noen risiko for å bli
-pålagt å måtte bære statens omkostninger.
-106
-
-Årsrapport Trygderetten 2021, s. 20.
-Trygderettsloven § 29 første ledd.
-108
-Trygderettsloven § 29 tredje ledd.
-109
-Se TRR-2011-1060.
-107
-
-104
-105
-
-Trygderettsloven § 21 fjerde ledd.
-Prop. 139L (2014–2015), s. 108.
-
-[Side 89]
-
-NOU 2023: 11
-Raskt og riktig
-
-6.6.2 Fri sakførsel ved anke til Trygderetten
-Etter rettshjelploven § 17 første ledd kan fri sakførsel innvilges for ankesak i Trygderetten. Ordningen er behovsprøvd, slik at det gjelder inntekts- og formuesgrenser, med visse unntak.110
-Det er Trygderetten som innvilger fri sakførsel
-etter reglene i salærforskriften.
-I 2021 har Trygderetten innvilget fri sakførsel
-i 442 ankesaker. I og med at inntekts- og formuesgrensene for fri rettshjelp, etter å ha stått uendret
-siden 1. januar 2009, ble hevet vesentlig fra 1.
-januar 2022, og er hevet ytterligere fra 1. januar
-2023, vil antakelig antallet saker der brukere får
-innvilget fri sakførsel øke.
-I gjennomsnitt ble det innvilget 16 000 kroner
-per sak og utbetalt til sammen 7,2 mill. kroner i
-2021.111
-
-6.7
-
-Søksmål til lagmannsretten
-
-I årene 2019-2021112 ble Trygderettens kjennelser
-brakt inn for lagmannsretten i henholdsvis 110, 75
-og 62 saker. Med unntak av to saker om dagpenger, der Nav tok ut søksmål i 2021, ble alle sakene
-brakt inn for lagmannsretten av bruker. Om lag en
-tredjedel av de brukerne som brakte Trygderettens kjennelse inn for lagmannsretten var selvprosederende, mens de øvrige var representert ved
-advokat.113
-Henholdsvis 72, 75 og 67 saker ble avsluttet
-enten ved avgjørelse i lagmannsretten, ved at bruker trakk saken (8, 11, 11) eller ved at bruker og
-Nav kom til en utenrettslig løsning, som oftest at
-Nav skulle behandle saken på nytt (14, 9, 8).
-Bruker vant frem i lagmannsretten i 12 saker i
-2019, 11 saker i 2020 og 12 saker i 2021.114
-
-6.7.1 Behandlingen i lagmannsretten
-Partene kan ved søksmål, og uten forliksmekling,
-bringe kjennelser avsagt av Trygderetten inn for
-lagmannsretten i det lagdømmet der bruker har
-sitt alminnelige verneting.115 Søksmålet rettes
-mot Arbeids- og velferdsdirektoratet.116 Vedtak
-110
-
-Rettshjelploven § 16 andre til fjerde ledd og rettshjelpforskriften kapittel 1.
-111
-Tall fra Trygderetten.
-112
-Tall fra Nav. Utvalget har ikke fått tilgang til statistikk for
-årene før dette.
-113
-Utvalgets gjennomgang av søksmål til lagmannsretten over
-Trygderettens kjennelser som er avsluttet i 2021.
-114
-Tall fra Nav.
-115
-Trygderettsloven § 26 første ledd.
-
-87
-
-Kapittel 6
-
-som faller inn under Trygderettens saklige virkeområde kan ikke bringes inn for lagmannsretten
-før Trygderetten har truffet avgjørelse i saken.117
-Fristen for å ta ut søksmål er seks måneder fra
-det tidspunkt underretning om Trygderettens
-kjennelse er kommet fram til vedkommende part.
-Det kan gis oppfriskning mot oversitting av søksmålsfristen etter reglene i tvisteloven § 16-12 til
-§ 16-14.
-Når søksmål reises direkte for lagmannsretten, kommer bestemmelsene i tvisteloven kapittel
-9 til anvendelse for lagmannsrettens behandling.118 Saken avgjøres ved muntlig behandling
-ved hovedforhandling eller ved skriftlig behandling.
-Domstolene kan kun prøve lovligheten av
-Trygderettens kjennelser.119 Denne begrensningen reiser en del problemstillinger.
-Et spørsmål er om lagmannsretten skal prøve
-saken ut fra faktum på domstidspunktet, eller om
-vurderingen skal knyttes til situasjonen på tidspunktet da Trygderetten traff sitt vedtak. Dette er
-et spørsmål som i mange tilfeller kan har stor
-betydning ettersom søkers situasjon ofte kan
-endre seg kort tid. Dette spørsmålet var sentralt
-Rt. 2007 s. 1815, der Høyesterett uttalte:
-«Etter mitt syn må utgangspunktet for prøving
-av om vedtak i trygdesaker er gyldige, vere faktum slik det låg føre for det aktuelle organet på
-vedtakstidspunktet. Dette er også det alminnelege utgangspunktet i forvaltningsretten, jf.
-her også avgjerd frå Høgsteretts kjæremålsutval innteken i Rt-2003-460. Det kan godt seiast
-at dette nettopp er ein følgje av at domstolane
-skal stå for kontroll av forvaltningsvedtak.»
-Ved domstolens overprøving av kjennelser fra
-Trygderetten er det derfor den faktiske situasjon
-som forelå da Trygderettens kjennelse ble avsagt,
-som er avgjørende for lagmannsrettens gyldighetsprøving. Om søker i ettertid skulle ha oppfylt
-vilkårene for ytelsen, vil dette altså ikke gi grunnlag for å kjenne Trygderettens kjennelse ugyldig.
-Derimot vil søker da kunne sende inn en ny søknad.
-Dersom retten kommer til at Trygderettens
-kjennelse er ugyldig og må oppheves, sendes
-saken tilbake til ankemotparten (for eksempel
-Nav), som må fatte nytt vedtak i saken. Domstolen
-116
-
-Trygderettsloven § 26 fjerde ledd.
-Trygderettsloven § 26 andre ledd, jf. § 2.
-118
-Tvisteloven § 9-1.
-119
-Trygderettsloven § 26 tredje ledd.
-117
-
-[Side 90]
-
-88
-
-NOU 2023: 11
-
-Kapittel 6
-
-Raskt og riktig
-
-kan som det klare utgangspunkt ikke avsi dom på
-realitetene i saken.120 Der domstolen mener en
-kjennelse er ugyldig, vil saken derfor kunne gå
-flere runder i klage- og ankesystemet.
-Som ved legalitetskontrollen av forvaltningens
-myndighetsutøvelse ellers, er det et spørsmål om
-rekkevidden av domstolens prøvingsmopetanse i
-de sakene som er behandlet i Nav og Trygderetten. De materielle vilkårene for de ulike ytelsene
-og rettighetene i folketrygdloven og de øvrige
-lovene på Trygderettens saklige virkeområde er
-avgjørende for svaret.
-Ettersom de fleste kriterier i folketrygdloven
-er såkalt rettsanvendelsesskjønn, vil lagmannsretten både kunne prøve om den lovtolkning Trygderetten har lagt til grunn er riktig, om det faktum
-som Trygderetten har bygget på er korrekt og om
-Trygderettens konkrete rettsanvendelse (subsumsjonen) er riktig. Her har Høyesterett likevel
-utformet noen begrensninger. I Rt. 2007 s. 1815
-var spørsmålet grensene for domstolens overprøving av en kjennelse fra Trygderetten. Trygderetten hadde avslått et krav om tidsavgrenset uførestøtte eller uførepensjon etter folketrygdloven
-kapittel 12. Lagmannsretten hadde kommet til at
-Trygderettens kjennelse skulle oppheves, men
-Høyesterett opphevet lagmannsrettens avgjørelse.
-I avsnitt 39 uttalte høyesterett om domstolens
-overprøvelseskompetanse:
-«Spørsmålet om openberre grunnar tilseier at
-attføring ikkje er tenleg, kan klart nok prøvast
-fullt ut av domstolane. Men sjølv om det er tale
-om rettsbruksskjønn også i høve til desse kriteria, er det tale om faglege spørsmål innanfor
-attføring og medisin. I alle fall når det gjeld eit
-spørsmål som dette og der temaet er slike faglege vurderingar, meiner eg det er rett av domstolane å vere varsame med å overprøve Trygderetten.»
-
-6.7.2
-
-Fri sakførsel ved søksmål for
-domstolen
-
-Saker om prøving av Trygderettens kjennelser er
-ikke en prioritert sakstype etter rettshjelploven.
-Etter rettshjelploven § 16 tredje ledd kan det likevel unntaksvis innvilges fri sakførsel dersom det
-økonomiske vilkåret etter annet ledd er oppfylt og
-saken objektivt sett berører søker i særlig sterk
-grad. I vurderingen skal det legges vekt på om
-saken har likhetstrekk med de prioriterte sakstypene. Etter fjerde ledd kan det innvilges fri sakfør120
-
-Rt. 2001, s. 995.
-
-sel selv om de økonomiske vilkår i annet ledd ikke
-er oppfylt dersom utgiftene til juridisk bistand blir
-betydelige i forhold til søkerens økonomiske situasjon.
-Ifølge statistikk fra Statens sivilrettsforvaltning ble det ikke innvilget fri sakførsel fra Statsforvalteren til noen trygdesaker i 2021. I 2020 ble
-det innvilget fri sakførsel i én trygdesak og i 2019
-to saker. Det gis med andre ord svært sjelden fri
-sakførsel til lagmannsrettsbehandling av saker fra
-Nav.
-
-6.7.3
-
-Dekning av sakskostnader etter
-tvisteloven
-Etter tvisteloven § 20-2 første ledd har part som
-har vunnet saken krav på full erstatning for sine
-sakskostnader fra motparten. I 2021 fikk bruker i
-gjennomsnitt tilkjent 167 000 kroner fra Staten når
-vedkommende vant saken. Staten fikk tilkjent i
-gjennomsnitt tilkjent 63 000 kroner når den vant
-saken.121
-Unntaket i tvisteloven § 20-2 tredje ledd bokstav c kommer til anvendelse i en stor andel av
-sakene fra Nav. Lagmannsretten fritar bruker helt
-eller delvis fra å erstatte Navs sakskostnader fordi
-den finner at tungtveiende grunner gjør det rimelig. Retten legger særlig vekt på at saken gjelder
-en ytelser som har stor velferdsmessig betydning
-for bruker og at styrkeforholdet mellom vedkommende og Nav tilsier et slikt fritak. Unntaket ble
-brukt i 15 av 44 saker der Staten vant saken og
-hadde krevd sakskostnader i 2021.122
-
-6.8
-
-Omgjøring (uten klage)
-
-I tillegg til at vedtak kan påklages, åpner forvaltningsloven § 35 for at vedtaksorganet, klageorgan
-og overordnet organ også kan omgjøre vedtak av
-eget tiltak. Omgjøring av ugyldige vedtak kan
-omgjøres både til gunst og ugunst for bruker,
-mens gyldige vedtak bare kan omgjøres til gunst.
-En slik omgjøring kan for eksempel skje etter
-at NAV Kontroll har gjennomført undersøkelser
-og avdekket misbruk. Men det kan også skje etter
-anmodning fra bruker. I praksis setter bruker
-fram krav, som blir behandlet av den instansen
-som fattet det endelige vedtaket (som ikke ble
-påklaget eller påanket eller ikke ble rettidig påklaget eller påanket). Avgjørelsen blir gjort i beslut121
-
-Utvalgets gjennomgang av søksmål til lagmannsretten over
-Trygderettens kjennelser som er avsluttet i 2021.
-122
-Tall fra Nav.
-
-[Side 91]
-
-NOU 2023: 11
-Raskt og riktig
-
-nings form, uten klage- eller ankeadgang. Trygderetten behandlet spørsmålet om ankeadgang i
-femmedlemskjennelse TRR-2019-2902, der flertallet kom til at anken måtte avvises.
-Begjæringer om omgjøring kanaliseres til den
-enheten i Nav som har fattet vedtaket begjæringen gjelder. Begjæringer om omgjøring behandles etter forvaltningsloven § 35 både i førsteinstansene og i NAV Klageinstans. Ofte er det parten
-som krever omgjøring uten klage, men det kan
-også være NAV som av eget tiltak tar saken opp til
-ny behandling dersom det er grunnlag for det.
-Avhengig av sakens karakter, vil enkelte saker
-som gjelder trygdeavgift behandles med hjemmel
-i skatteforvaltningsloven § 12-1.
-Førsteinstansene behandler omgjøring etter
-faste retningslinjer. Dersom førsteinstansen ikke
-etterkommer begjæringen om omgjøring, fatter
-den en beslutning om det. Denne beslutningen
-kan ikke påklages. Dersom førsteinstansen finner
-at kravet om omgjøring skal tas til følge, fatter den
-et nytt realitetsvedtak. Dersom førsteinstansen
-finner at kravet delvis skal tas til følge, fattes et
-såkalt endringsvedtak som tar høyde for dette.
-Dette vedtaket kan påklages.
-NAV Klageinstans avgjør omgjøringsspørsmål
-ved en beslutning som ikke kan påklages eller
-påankes. Det er ingen grense for hvor mange ganger en part kan kreve en tidligere avgjort sak eller
-et endelig vedtak omgjort.
-
-6.9
-
-Gjenopptak i Trygderetten
-
-Trygderetten kan ikke omgjøre en tidligere kjennelse av eget tiltak. Trygderettens kjennelser kan
-prøves på to måter. Det ordinære rettsmiddelet er
-søksmål til lagmannsrett. Som et ekstraordinært
-rettsmiddel kan en kjennelse begjæres gjenopptatt, men da må begjæringen rettes mot Trygderetten.
-Ordningen som åpner for gjenopptak av tidligere kjennelser, er utviklet gjennom Trygderettens praksis. Praksisen med gjenopptak var ulovfestet fram til 2016, da de vilkår som hadde
-utviklet seg i praksis i det alt vesentlige ble kodifisert.123 I praksis har gjenopptak bare vært foretatt
-til gunst for den ankende part (bruker). Etter at
-ankemotparten (Nav) i 2016 fikk adgang til å
-begjære gjenopptak, kan en kjennelse der Navs
-vedtak er omgjort, bli gjenopptatt til ny behandling og det nye resultatet bli stadfestelse av klage-
-
-vedtaket. Trygderetten omgjør da i realiteten den
-tidligere kjennelsen til ugunst for bruker.
-Fristen for å begjære gjenopptak er seks
-måneder etter at parten ble kjent med det forholdet begjæringen bygger på. Saksforberedelsen
-har mange av de samme lovkravene som den ordinære ankesaksbehandlingen.
-Ankemotparten må framstille saken for Trygderetten, som tar stilling til begjæringen. Retten
-kan avvise begjæringen eller se bort fra at fristen
-er oversittet når det foreligger særlige grunner.
-Det er fire alternative grunnlag for gjenopptak:
-1) nye opplysninger om det tidligere faktiske forholdet som er egnet til å føre til et annet resultat,
-2) alvorlige saksbehandlingsfeil, 3) uforsvarlig
-rettsanvendelse eller 4) uforsvarlig skjønnsutøvelse. Disse fire vilkårene er alternative, slik at det
-er tilstrekkelig at ett av vilkårene er oppfylt for at
-en kjennelse skal kunne gjenopptas.124
-Det er bare tidligere faktiske forhold som retten ikke var kjent med, som kan danne grunnlag
-for gjenopptak etter det første alternativet. Senere
-utvikling av de faktiske forholdene kan ikke
-danne grunnlag for gjenopptak. Når gjenopptak
-på grunn av faktiske opplysninger krever at disse
-«er egnet til å føre til et annet resultat», innebærer
-dette at ikke enhver ny faktisk opplysning om det
-tidligere faktiske forholdet vil kunne danne
-grunnlag for gjenopptak. Nye opplysninger som
-må regnes som presiseringer og utfyllinger av tidligere kjente forhold vil ikke kunne danne grunnlag for gjenopptak.125
-Gjenopptak kan også skyldes feil ved rettens
-behandling av ankesaken. Det må i tilfelle dreie
-seg om relativt betydelige feil. Det er ikke tilstrekkelig at retten i gjenopptakssaken er uenig i utfallet i den saken som kreves gjenopptatt, eller at en
-annen rettsanvendelse eller skjønnsutøvelse
-hadde latt seg forsvare.126
-I Rt. 2007 s. 1 la Høyesterett til grunn at etterfølgende domstolsbehandling av saken ikke er til
-hinder for at det settes frem begjæring om gjenopptak av en kjennelse fra Trygderetten. Det
-samme følger av forarbeidene til lovfestingen i
-2016.127
-Ankesaken danner rammen for hva som kan
-omfattes av en begjæring om gjenopptak. En part
-kan ikke gjennom en slik begjæring oppnå noe
-annet eller mer enn det som var tvistegjenstand i
-ankesaken.
-124
-
-Trygderettsloven § 27 og Prop. 139 L (2014–2015) s. 109.
-Prop. 139 L (2014–2015) s. 109.
-126
-Trygderettsloven § 27.
-127
-Prop. 139 L (2014–2015) s. 110.
-125
-
-123
-
-Trygderettsloven § 27.
-
-89
-
-Kapittel 6
-
-[Side 92]
-
-90
-
-Kapittel 6
-
-NOU 2023: 11
-Raskt og riktig
-
-Den ankende part setter fram begjæring til
-ankemotparten.128 Ankemotparten kan omgjøre
-sitt eget klagevedtak etter forvaltningsloven § 35,
-men dersom ankemotparten ikke finner grunnlag
-for slik omgjøring, skal ankemotparten forbedrede sak om gjenopptak for Trygderetten. Dette
-skjer i all hovedsak på samme måte som ved forberedelse av ordinære ankesaker.129
-Når ankemotparten begjærer gjenopptak, blir
-begjæringen satt fram for Trygderetten.130 Den
-ankende part får anledning til å uttale seg før retten tar stilling til begjæringen.
-128
-
-Trygderettsloven § 28 første ledd.
-Trygderettsloven § 13.
-130
-Trygderettsloven § 28 andre ledd.
-129
-
-Dersom Trygderetten gjenopptar, skal retten
-ta stilling til realiteten i saken. Har motparten ikke
-allerede uttalt seg om realiteten, skal retten sørge
-for at denne får anledning til å gjøre det før saken
-blir realitetsbehandlet.
-Vanligvis tar retten stilling både til begjæringen om gjenopptak, og eventuelt realiteten i
-saken, i en og samme kjennelse.
-Trygderettens avgjørelse i en sak om gjenopptak kan bringes inn for lagmannsretten ved søksmål etter trygderettsloven § 26. Det gjelder både
-når avgjørelsen er knyttet til begjæring om gjenopptak og når avgjørelsen er knyttet til realiteten i
-saken.
-
-[Side 93]
-
-NOU 2023: 11
-Raskt og riktig
-
-91
-
-Kapittel 7
-
-Kapittel 7
-
-Særlige klage- og ankeorgan
-7.1
-
-Ankenemnda for sykepenger i
-arbeidsgiverperioden
-
-Enkelte vedtak etter folketrygdloven kan bringes
-inn for Ankenemnda for sykepenger i arbeidsgiverperioden (Ankenemnda). Dette gjelder tvister
-mellom arbeidsgiver og arbeidstaker eller mellom
-arbeidsgiver og Nav om rettigheter og plikter i
-arbeidsgiverperioden (folketrygdloven § 8-19).1
-Ankenemnda ble opprettet i 1978 og har bakgrunn i sykepengereformen i 1977, da arbeidsgiver ble økonomisk ansvarlig for sykepenger i
-arbeidsgiverperioden.2 På denne bakgrunn så
-man behov for et organ som kunne løse eventuelle
-tvister om arbeidsgivers økonomiske ansvar.
-En sak skal ikke behandles av Ankenemnda
-dersom både arbeidsgiveren og Nav har avslått å
-utbetale sykepenger i arbeidsgiverperioden. En
-klage blir da en tvist mellom arbeidstaker og Nav,
-og skal behandles etter de alminnelige reglene
-om klage etter folketrygdloven § 21-12, som en
-klagesak til NAV Klageinstans og en eventuell
-ankesak til Trygderetten.
-Konflikt mellom arbeidstaker og arbeidsgiver
-om retten til omsorgspenger etter folketrygdloven kapittel 9 gjelder ikke en arbeidsgiverperiode,
-men hører likevel inn under Ankenemndas myndighetsområde. Disse sakene gjelder både konflikter i forbindelse med at arbeidsgiver er pålagt å
-betale omsorgspenger i ti dager hvert år, og konflikter i forbindelse med krav om refusjon fra
-arbeidsgiver overfor Nav for utbetalt stønad
-utover ti dager.3
-Dersom en arbeidsgiver ikke betaler sykepenger i arbeidsgiverperioden, kan arbeidstakeren
-kreve at Nav forskutterer ytelsen.4 Ved krav om
-forskuttering tar Nav stilling til om det foreligger
-en arbeidsgiverperiode og om arbeidsgiveren har
-1
-2
-3
-4
-
-Folketrygdloven § 21-13 første ledd og forskrift om
-behandling av tvister i arbeidsgiverperioden §§ 1-4.
-NOU 1976: 23 Omlegging av sykepengeordningen.
-Folketrygdloven § 9-5 og § 9-8, jf. § 9-6.
-Folketrygdloven § 8-22.
-
-utbetalt i denne perioden eller ikke. Nav må også
-ta stilling til om alle vilkårene for rett til sykepenger i arbeidsgiverperioden er oppfylt, for eksempel om arbeidstaker er arbeidsufør på grunn av
-funksjonsnedsettelse som klart skyldes sykdom
-eller skade eller om tilbakedatering av sykmelding.5
-Når Nav vurderer at arbeidsgiver er forpliktet
-til å utbetale sykepengene i arbeidsgiverperioden,
-skal Nav forskuttere og kreve det utbetalte beløpet tilbake fra arbeidsgiveren i eget vedtak. Slike
-vedtak kan ankes inn for Ankenemnda. Nav blir
-da part i saken mot arbeidsgiveren i stedet for
-arbeidstakeren. Dersom arbeidstakeren ikke har
-krevd at Nav forskutterer utbetaling i arbeidsgiverperioden, er vedkommende selv part i saken i
-Ankenemnda. Om lag 95 prosent av ankene er fra
-arbeidsgivere.6
-Ankenemnda har også kompetanse til å
-behandle tvister vedrørende krav om refusjon til
-arbeidsgiver når Nav har innvilget unntak fra
-ansvaret for sykepenger i arbeidsgiverperioden på
-grunnlag av langvarig eller kronisk sykdom som
-medfører risiko for særlig stort sykefravær.
-Sakene gjelder i hovedsak fristen for å sette frem
-krav i folketrygdloven § 22-13. Tvister angående
-vilkårene for unntak skal påklages til NAV Klageinstans og kan eventuelt ankes videre til Trygderetten.7
-Utvalget får opplyst fra sekretariatet for Ankenemnda og NAV Klageinstans at det er krevende
-både for arbeidsgiver, arbeidstaker og Nav å skille
-ut hvilke saker Ankenemnda skal behandle, og
-hvilke som skal gå i det orinære klage- og ankesystemet i Nav og Trygderetten. En del saker går
-i det ordinære sporet uten at det blir oppdaget verken av Nav eller partene.
-Vedtak fra Ankenemnda kan ikke påankes til
-Trygderetten. Søksmål må eventuelt reises mot
-5
-6
-7
-
-Folketrygdloven § 8-4 og § 8-7.
-Tall fra Sekretariatet for Ankenemnda.
-Forskrift om behandling av tvister i arbeidsgiverperioden
-§ 4, jf. folketrygdloven § 8-20.
-
-[Side 94]
-
-92
-
-Kapittel 7
-
-NOU 2023: 11
-Raskt og riktig
-
-Arbeids- og velferdsdirektoratet for tingretten.8
-Utvalget har fått opplyst fra Nav at det har ikke
-vært reist slike søksmål.
-NAV Arbeid og ytelser (førsteinstansen), mottar anken og skriver en innstilling til Ankenemnda.
-Ankenemnda har tre medlemmer, som er oppnevnt av Arbeids- og inkluderingsdepartementet.
-Lederen skal ha særlig innsikt i trygderettslige
-spørsmål, og har de senere årene vært fra Trygderetten. Ett medlem oppnevnes etter forslag fra
-Næringslivets hovedorganisasjon (NHO) og ett
-medlem etter forslag fra Landsorganisasjonen i
-Norge (LO).9
-Saksbehandlere ved NAV Klageinstans utgjør
-sekretariatet for Ankenemnda.10 NAV Arbeid og
-ytelsers innstilling sendes til NAV Klageinstans
-(som sekretariatet), og sekretariatet klargjør deretter saken for behandling i nemnda.11 De sørger
-for nødvendig utredning og skriver utkast til vedtak, som blir sendt til nemndas medlemmer om
-lag to uker for møtet. Til hvert møte forbereder
-sekretariatet om lag 20 saker for vedtak i nemnda.
-Møtene blir avholdt enten fysisk eller digitalt. I
-2021 traff Ankenemnda om lag 230 vedtak. Gjennomsnittlig saksbehandlingstid fra sekretariatet
-mottok saken til nemnda traff vedtak var 209
-dager i 2021.12
-I møtet gjennomgås og diskuteres hver sak for
-seg. Den saksbehandleren fra sekretariatet som
-har forberedt saken presenterer sitt utkast til vedtak, og medlemmene i Ankenemnda kommer med
-sine vurderinger av utkastet. De er enten enige
-om et resultat eller deler seg i et flertall og et
-mindretall.
-Etter at møtet er avsluttet går sekretariatet
-gjennom utkastene, og foretar de endringene som
-har blitt diskutert i møtet. Utkastene blir deretter
-sendt til medlemmene med frist for eventuelle
-ytterligere endringer. Deretter blir vedtakene ferdigstilt og sendt til arbeidsgiver og eventuelt til
-arbeidstaker, dersom vedkommende er part i
-saken. Nemnda kan bestemme at den ankende
-part helt eller delvis skal få dekket nødvendige
-utgifter i anledning ankesaken. Nemnda kan også
-oppnevne prosessfullmektig for den ankende part,
-dersom den finner det nødvendig. Nemnda fast-
-
-setter og utreder prosessfullmektigens godtgjørelse i disse tilfellene.13
-Ankenemnda benytter i praksis ikke adgangen
-til å bestemme at den ankende part helt eller delvis skal bære de utgiftene anken har medført for
-nemnda og motparten, dersom vedkommende
-åpenbart uten grunn har satt fram eller opprettholdt anke.14 Behandlingen i nemnda er gebyrfri.
-Ankenemndas vedtak blir publisert i Lovdata.
-Utgiftene ved nemndas virksomhet dekkes av
-folketrygden. I praksis får sekretariatet tildelt om
-lag 800 000 kroner i året fra departementet til å
-dekke utgifter med nemndsmøtene, herunder
-godtgjørelse til medlemmene. I tillegg bruker
-NAV Klageinstans om lag 1,5 saksbehandlerårsverk til sekretariatsarbeidet. Til sammen koster
-behandlingen av ankenemndsakene mellom 1,8
-og 2 mill. kroner i året.15 Ankenemnda har de
-siste årene behandlet 200-250 saker årlig. Kostnad
-per sak utgjør mellom 8 000 og 10 000 kroner. Til
-sammenlikning er kostnaden ved å behandle en
-klagesak om arbeidsavklaringspenger i NAV Klageinstans beregnet til 3 400 kroner. En ankesak
-på samme område er beregnet til 3 400 kroner i
-NAV Klageinstans og 12 700 kroner i Trygderetten.16 Ankefrekvensen i sakene som blir behandlet i NAV Klageinstans og Trygderetten på sykepengeområdet var 15 prosent i 2021.17
-
-7.2
-Helfo
-
-Helfo skal ivareta brukernes rettigheter og yte
-service til behandlere og innbyggere gjennom veiledning og informasjon om helsetjenesten. Helfo
-treffer også førsteinstansvedtak etter folketrygdlovens kapittel 5 (stønad ved helsetjenester).
-Ansvaret for etatsstyringen av Helfo er gitt til
-Helsedirektoratet i instruks fra Helse- og
-omsorgsdepartementet.
-Når vedtak truffet av Helfo påklages, skal klagen i utgangspunktet sendes dit. Helfo gjør en
-vurdering av om vilkårene for å ta klagen under
-behandling er oppfylt. Ved realitetsbehandling av
-klagen vurderes saken på nytt, og det ses blant
-13
-
-8
-
-Folketrygdloven § 21-13 tredje ledd.
-Folketrygdloven § 21-13 andre ledd.
-10
-Forskrift om behandling av tvister i arbeidsgiverperioden
-§ 6.
-11
-Forskrift om behandling av tvister i arbeidsgiverperioden
-§ 12.
-12
-Tall fra Sekretariatet for Ankenemnda.
-
-Helfo og Helseklage
-
-14
-
-9
-
-15
-16
-17
-
-Forskrift om behandling av tvister i arbeidsgiverperioden
-§ 15.
-Forskrift om behandling av tvister i arbeidsgiverperioden
-§ 16.
-Tall fra Sekretariatet for Ankenemnda.
-Oslo Economics (2022). Saksflyt i klage- og ankesaker i
-NAV og Trygderetten, s. 39.
-Statistikk fra Navs datavarehus, 2021, (SAK500 og
-SAK610).
-
-[Side 95]
-
-NOU 2023: 11
-Raskt og riktig
-
-annet hen til klagerens anførsler og eventuelle
-nye opplysninger. Flere opplysninger eller mer
-dokumentasjon innhentes ved behov.
-De som behandler klagene i Helfo jobber med
-klagesaksbehandling i kombinasjon med andre
-oppgaver og har ulik kompetanse. I tillegg benyttes kompetanse fra rådgivende medisinsk helsepersonell.
-Resultatet av klagesaksbehandlingen kan bli at
-klagen avvises eller at vedtaket oppheves, omgjøres (helt eller delvis) eller opprettholdes. Ved opprettholdelse skriver Helfo en klagevurdering, sender et orienteringsbrev med kopi av klagevurderingen til bruker, og sender saken videre til Helseklage. Ved omgjøring treffer Helfo nytt vedtak i
-saken. Hvis kun deler av vedtaket blir omgjort til
-gunst for bruker, sendes «resterende» del av
-saken videre til Helseklage. Hvis et vedtak åpenbart er fattet på feil hjemmelsgrunnlag, kan Helfo
-oppheve vedtaket og fatte et nytt vedtak med riktig hjemmel. Hvis resultatet fortsatt blir det
-samme, forberedes saken for oversending til Helseklage. Bruker gis da en frist for å komme med
-merknader før saken blir oversendt til Helseklage.
-Helfo behandlet 2 169 klagesaker i 2021 og
-omgjorde eget vedtak etter klage i 30 prosent av
-disse. De fleste omgjøringer av eget vedtak skyldes at Helfo mottar ytterligere dokumentasjon i
-klageomgangen.
-Helseklage
-Vedtak etter folketrygdloven kapittel 5 kan påklages, og myndigheten som klageorgan er lagt til
-Nasjonalt klageorgan for helsetjenesten (Helseklage). Helseklage skal ivareta rettssikkerheten
-til både brukere av, og ansatte i helsetjenesten.
-Klagesaksbehandlingen ble overført fra Helfo til
-Helseklage i 2015. Formålet var å samle og effektivisere helseforvaltningen.
-De som behandler disse klagene i Helseklage,
-er enten jurister eller farmasøyter. Saksbehandlerne innhenter rådgivende uttalelse fra sakkyndig i saker hvor dette vurderes som nødvendig.
-Når Helseklage mottar en sak fra Helfo, sjekker en saksbehandler om vilkårene for å behandle
-klagen er oppfylt. De kontrollerer deretter at nødvendig dokumentasjon og opplysninger fra førsteinstans eller klager er vedlagt. Er det mangler,
-innhentes utfyllende dokumentasjon. Det tas stilling til om saken krever uttalelse fra sakkyndige.
-De eldste sakene og prioriterte saker behandles først, så langt det er mulig. Etter at saken har
-vært hos sakkyndig, eller hvis sakkyndiguttalelse
-ikke er nødvendig for å overprøve alle sider av
-
-93
-
-Kapittel 7
-
-saken, vurderer saksbehandler saken og treffer
-vedtak. Både klagers og førsteinstansens anførsler vurderes, før det konkluderes. Når vedtaket er
-klart, sendes det til klager, med kopi til førsteinstans.
-I 2021 fattet Helseklage 4 847 vedtak. På Helfoområdet ble det fattet 1 774 klagevedtak og 70
-saker ble oversendt til Trygderetten. 18
-Det er seks ulike resultater av klagesakene:
-opprettholdelse, omgjøring, opphevelse, trukket,
-bortfalt og retur til førsteinstans. I 2021 omgjorde
-Helseklage Helfos vedtak i 5,9 prosent av klagesakene.19
-Gjennomsnittlig saksbehandlingstid i de
-klage- og ankesakene som ble avsluttet med vedtak i Helseklage var 16 måneder i 2021.20 Saksbehandlingstiden varierer noe mellom de ulike saksområdene.
-Helseklage har flere kommunikasjonskanaler
-ut mot brukerne. «Min side» ble etablert i januar
-2021, der brukerne får oppdateringer når det
-skjer noe i saken, og brukerne kan lese dokumentasjonen de har sendt inn og brev de mottar fra
-Helseklage. I tillegg kan brukerne ta kontakt på
-telefon. Dersom saken har fått en saksbehandler,
-skal saksbehandler ringe opp igjen senest innen
-48 timer. Dersom saken ikke har fått saksbehandler enda, er det som oftest fagkoordinator som tar
-kontakt med bruker.
-Klagevedtak etter folketrygdloven kapittel 5,
-kan i utgangspunktet ankes inn for Trygderetten.21 Enkelte vedtak som er truffet i medhold av
-andre regler, kan også ankes til Trygderetten. Det
-gjelder saker om Europeisk helsetrygdekort
-(Ehic). Helfo fatter også vedtak på sakstyper som
-ikke faller inn under Trygderettens kompetanseområde.22 Etter tilføyelsen av nytt siste ledd i folketrygdloven § 5-1 er det færre stønadssaker på
-behandlingsrefusjonsområdet, da de fleste krav
-går gjennom den direkte oppgjørsordningen i folketrygdloven § 22-2, som er unntatt fra anke til
-Trygderetten.23
-Når Helseklage mottar anke på et vedtak, følger den samme saksbehandleren som fattet vedtak i klagesaken opp ankesaken, så snart som
-mulig og helst innen tre måneder etter at anken er
-18
-19
-20
-21
-22
-23
-
-Tall fra Helseklage.
-Tall fra Helseklage.
-Tall fra Helseklage, som opplyser at de ikke kan skille mellom klage- og ankesaker i statistikkverktøyet.
-Trygderettsloven § 2 og folketrygdloven § 21-12 første
-ledd.
-Folketrygdloven § 21-12 fjerde ledd og forskrift om unntak
-fra anke til Trygderetten.
-Forskrift om unntak fra anke til Trygderetten § 1 bokstav e.
-
-[Side 96]
-
-94
-
-Kapittel 7
-
-NOU 2023: 11
-Raskt og riktig
-
-mottatt. Saksbehandler vurderer om nye opplysninger i saken må vurderes av en sakkyndig og
-innhenter eventuelt uttalelse. Etter dette vurderes
-saken på nytt.24 Konkluderer saksbehandler med
-at vedtaket opprettholdes, blir det utarbeidet et
-oversendelsesbrev som sendes til godkjenning til
-samme person som godkjente det opprinnelige
-vedtaket. Brevet sendes til den ankende part med
-frist for uttalelse. Etter at fristen er gått ut eller
-kommentarer fra den ankende part er mottatt,
-klargjøres saken og oversendes til Trygderetten.
-Når saken er oversendt Trygderetten, må eventuelle kommentarer fra den ankende part sendes
-direkte dit.25 Helseklage har mulighet til å
-anmode om at Trygderetten settes med fem medlemmer dersom ankesaken regnes som prinsipiell.
-Trygderetten behandlet 67 saker fra Helseklage i 2021 (mellom 43 og 131 i årene 20162020).26
-Dersom Trygderetten stadfester Helseklages
-vedtak, informeres avdelingen og Helfo om resultatet og saken tas til etterretning. Har Trygderetten omgjort et vedtak fra Helseklage, vurderes det
-om kjennelsen er prinsipiell med betydning
-utover den konkrete saken eller fagområdet, og
-det vurderes om kjennelsen skal ankes eller Helseklage bes om gjenopptak. I enkelte tilfeller kan
-det være aktuelt å informere Helsedirektoratet
-eller Helse- og omsorgsdepartementet om kjennelsen. Det gjennomføres halvårlige samhandlingsmøter med Helfo, Helsedirektoratet og Helseklage hvor prinsipielle kjennelser gjennomgås.
-Dersom begjæring om omgjøring etter forvaltningsloven § 35 ikke inneholder nye opplysninger
-eller anførsler, skrives det brev til klager hvor det
-vises til vedtaket fra Helseklage, og det gjentas
-hvilke muligheter vedkommende har til å ta saken
-videre til Trygderetten. Dersom begjæringen om
-omgjøring inneholder nye opplysninger, vurderes
-det om opplysningene kan ha betydning for utfallet i saken og om opplysningene skal forelegges
-sakkyndig for uttalelse. Dersom opplysningene
-gir grunnlag for omgjøring, treffes nytt vedtak
-som erstatter det opprinnelige vedtaket, og ny
-ankefrist oppgis. Dersom opplysningene er vurdert til å ikke endre vedtaket, informeres klager
-om beslutningen i form av et brev.
-
-7.3
-
-Statens pensjonskasse er et forvaltningsorgan
-underlagt Arbeids- og inkluderingsdepartementet. Statens pensjonskasse administrerer tjenestepensjonsrettighetene til over én million medlemmer som er ansatte i staten og i store deler av
-undervisnings- og forskningssektoren. Statens
-pensjonskasse har ordninger som er en del av sparingen til alderspensjon og forsikring ved uførhet
-og for etterlatte etter medlemmene. I tillegg til tjenestepensjon, administrerer Statens pensjonskasse den statlige yrkesskade- og gruppelivsordningen og statens boliglånsordning.
-Vedtak fra Statens pensjonskasse kan ikke
-påklages, men ankes direkte inn for Trygderetten.
-I 2021 ble det truffet om lag 180 000 vedtak om
-pensjon i Statens pensjonskasse. Under en promille av disse sakene ble anket til Trygderetten.27
-Ved mottak av en anke til Trygderetten, skal
-avdelingen som fattet vedtaket vurdere saken på
-nytt ut. Dersom vedtaket opprettholdes, sendes
-saken videre til ankegruppen. Det finnes ikke statistikk som viser antall anker som blir omgjort i
-avdelingene selv.
-Ankegruppen består av tre saksbehandlere og
-to jusstudenter, som har ansvar for prosessen med
-oversendelse av anker til Trygderetten. Ankegruppen behandler pensjonssaker, herunder krav
-og utbetalinger av alderspensjon, AFP, uførepensjon og etterlattepensjon. Videre håndterer Statens pensjonskasse saker om tilbakekreving av
-feilutbetalte pensjonsytelser og etteroppgjør av
-uførepensjon og AFP.
-Ankegruppen gjør også en ny prøving av vedtaket, og omgjorde fem saker i 2021.28
-Ankegruppen fremstiller saken i et oversendelsesbrev, som sendes på tilsvar til den ankende
-part. Eventuelle merknader vurderes før saken
-sendes til Trygderetten for avgjørelse.29 Statens
-pensjonskasse sendte 129 ankesaker til Trygderetten i 2021 (mellom 117 og 368 saker i årene mellom 2016 og 2020).30 Saksbehandlingstiden i Statens pensjonskasse fra anken kom til oversendelse til Trygderetten var i gjennomsnitt 245
-dager (mellom 90 og 178 dager i årene mellom
-2016 og 2020).31
-27
-28
-
-24
-
-29
-
-25
-
-30
-
-Trygderettsloven § 13 første ledd.
-Trygderettsloven § 13 andre til fjerde ledd.
-26
-Årsrapport Trygderetten, 2021 s. 17 og 2016 s. 15.
-
-Statens pensjonskasse
-
-31
-
-Trygderettsloven § 2 første ledd bokstav d og e.
-Trygderettsloven § 13 første ledd.
-Trygderettsloven § 13 andre til fjerde ledd.
-Årsrapport Trygderetten, 2021 s. 17 og 2016 s. 15.
-Tall fra Statens pensjonskasse.
-
-[Side 97]
-
-NOU 2023: 11
-Raskt og riktig
-
-Trygderetten omgjorde om lag sju prosent av
-sakene fra Statens pensjonskasse i 2021.32
-Avgjørelser fra Trygderetten behandles av
-juridisk seksjon i Statens pensjonskasse. Kjennelser vurderes og sendes ut til ankegruppen, aktuell
-avdeling som saken hører under, og til andre
-interessenter innad i Statens pensjonskasse.
-
-7.4
-
-Kommunal landspensjonskasse
-
-Kommunal Landspensjonskasse er Norges største
-livforsikringsselskap og leverer finans- og forsikringstjenester til offentlig sektor, virksomheter
-med tilknytning til denne og deres ansatte. Regelverket for offentlig tjenestepensjon gir rett til
-alderspensjon, uførepensjon og etterlatte-/barnepensjon. Kommunal Landspensjonskasse fatter
-vedtak om pensjon og utbetaler denne. Vedtak om
-individuelle rettigheter og plikter etter regelverket kan ankes videre til Trygderetten.33
-Finanstilsynet har i rundskriv gitt retningslinjer for klagebehandling i bank-, finans-, forsikrings- og verdipapirverksemnd.34 Retningslinjene er basert på retningslinjer fra europeiske tilsynsmyndigheter. Etter endringer i forsikringsavtaleloven i 2022, er det også her regler med krav
-til klagebehandlingen.35 Gjennomsnittlig saksbehandlingstid i klagesaker om uførepensjon, alderspensjon og etterlattepensjon er om lag 23 dager.
-Klagen behandles på det samme nivået som vedtaket ble fattet. Klager får svar på klagen i et brev
-med resultat av klagebehandlingen og orientering
-om adgang til å anke saken til Trygderetten og
-ankefristen.
-Dersom det klages innen ankefristen etter
-trygderettsloven § 9, anser Kommunal Landspensjonskasse ankefristen for overholdt, dersom vedkommende senere ønsker å forfølge saken med
-en anke.
-Saker som ankes til Trygderetten behandles
-av juridisk avdeling i Kommunal Landspensjonskasse. Hvis det påankede vedtaket ikke umiddelbart omgjøres, får den ankende et brev med opplysning om forventet saksbehandlingstid og kort
-32
-
-Tall fra Statens pensjonskasse.
-Trygderettsloven § 2 nr. 2 bokstav a og b, jf. forskrift om
-ankeadgang til Trygderetten for medlemmer i Kommunal
-Landspensjonskasse I.
-34
-Rundskriv fra Finanstilsynet RFT-2019-4.
-35
-Forsikringsavtaleloven § 22-1 og § 22-2.
-33
-
-95
-
-Kapittel 7
-
-orientering om den videre prosessen. Kommunal
-Landspensjonskasse omgjør om lag en tredjedel
-av vedtakene selv etter anke, som hovedregel på
-grunn av oppdaterte og nye opplysninger i ankeomgangen. Gjennomsnittlig saksbehandlingstid i
-ankesaker er om lag 70 dager.
-Kommunal
-Landspensjonskasse
-mottar
-enkelte anker som bygger på en åpenbar misforståelse, eller at det blir anket på saksforhold der
-det etter langvarig praksis fra Trygderetten i tilsvarende saker er klart at anken ikke vil kunne
-føre frem. I slike saker forsøker Kommunal
-Landspensjonskasse å unngå en unødvendig prosess for Trygderetten ved å gi en ny begrunnelse
-for vedtaket. Den ankende part blir oppfordret til
-å gjøre en vurdering av om anken opprettholdes.
-Dersom det ikke gis noen slik tilbakemelding,
-anses anken som opprettholdt. Saker som vil bli
-gjenstand for behandling i Trygderetten, følger
-den prosedyre som trygderettsloven § 13 gir
-anvisning på, det vil si at saken gjennomgås på
-nytt. Behandlingen kan ende opp med hel eller
-delvis omgjøring, eller at saken forberedes for
-Trygderetten. Ved omgjøringen sendes saken tilbake til seksjon for pensjonsberegning og utbetaling med instruksjoner for hva som skal gjøres i
-saken. Ved delvis omgjøring skal den ankende
-part bes om en tilbakemelding om anken trekkes,
-eller om anken opprettholdes for den del av tvisten som eventuelt gjenstår.
-Kommunal Landspensjonskasse anser praksis
-fra Trygderetten som retningsgivende for tolkningen av regelverket for offentlig tjenestepensjon.
-Dersom en omgjøring i Trygderetten innebærer
-en praksisendring for Kommunal Landspensjonskasse, vil det derfor også bli orientert om dette
-internt og regelverksbeskrivelsene vil bli oppdatert.
-Kommunal Landspensjonskasse mottok 897
-klager og 94 anker til Trygderetten i 2021, men en
-del av ankene gjelder forhold utenfor Trygderettens saklige kompetanseområde.
-Trygderetten mottok 39 saker til behandling
-fra Kommunal Landspensjonskasse i 2021 (mellom 51 og 100 saker i årene 2016 – 2020).36 Det er
-kun et fåtall kjennelser fra Trygderetten som fra
-den ankende parts side blir brakt videre til lagmannsretten ved søksmål.
-36
-
-Årsrapport Trygderetten, 2021 s. 17 og årsrapport Trygderetten, 2016 s. 14.
-
-[Side 98]
-
-96
-
-NOU 2023: 11
-
-Kapittel 8
-
-Raskt og riktig
-
-Kapittel 8
-
-Saksbehandlingssystemer på andre forvaltningsområder
-8.1
-
-Innledning
-
-Nedenfor følger en overordnet omtale av klagesystemer på andre forvaltningsområder. Utvalget
-har sett hen til hvordan klagesystemene på andre
-områder er organisert, og vurdert hvorvidt
-systemet på dette området kan hente inspirasjon
-fra disse.
-
-8.2
-
-Klagesystemet i
-utlendingsforvaltningen
-
-Utlendingsnemnda er klageinstans for vedtak
-truffet av Utlendingsdirektoratet (UDI) i første
-instans. Dette gjelder for saker etter utlendingsloven og statsborgerloven med forskrifter.1
-Utlendingsnemnda er i loven beskrevet som et
-uavhengig organ som ledes av en direktør. Sakene
-behandles av nemnder, nemndledere og et sekretariat etter delegasjon. Både direktøren og de fast
-ansatte nemndlederne må etter loven fylle kravene til dommere og beskikkes av Kongen i statsråd.2 Antall nemndledere har variert gjennom
-årene, men i 20223 er det 18 som treffer avgjørelser som ansatte nemndledere. Tidligere var nemndlederne beskikket på åremål, men dette ble
-endret i 2012 til faste stillinger.
-Størrelsen på sekretariatet har også variert
-betydelig gjennom år fordi sakstilfanget i UNE er
-svært variabelt. I 20224 var det 128 personer som
-arbeider i sekretariatet, herunder fire avdelingsledere. De som arbeider med klagesaker, er i
-hovedsak jurister og samfunnsvitere, men også
-noen humanister, alle med mastergrad eller tilsvarende.
-I tillegg til de fast ansatte består UNE av
-beslutningstakere fra et større utvalg nemndmedlemmer. Saker med «vesentlige tvilsspørsmål»
-1
-2
-3
-4
-
-Utlendingsloven § 76 og statsborgerloven § 27.
-Utlendingsloven § 77.
-Per 4.3.2022.
-Per 4.3.2022.
-
-skal avgjøres av en nemnd.5 Andre saker kan
-avgjøres av en nemndleder eller sekretariatet.
-Stortinget ønsket et uavhengig og domstolsliknende organ med lekmannsrepresentasjon for
-avgjørelse av klagesaker etter utlendingsloven (og
-senere også statsborgerloven). Tidligere var det
-Justisdepartementet som var klageorgan. Stortinget fremhevet rettssikkerhet og tillit som viktige
-hensyn, i tillegg til behov for å avlaste departementet.6
-I tillegg til vanlige nemnder med tre medlemmer, har UNE muligheten til å sette stornemnd
-med syv medlemmer. Stornemndvedtak er ment å
-ha presedensvirkning.7 UNE har hatt opp mot fire
-stornemndsaker i året.8 Stornemnd kan blant
-annet benyttes i saker som reiser prinsipielle
-spørsmål, som er av stor samfunnsmessig betydning eller omhandler spørsmål hvor det er tendenser til ulik praksis. I 2021 disponerte UNE en samlet tildeling på i overkant av 250 mill. kroner,
-inkludert overførte midler fra 2020.
-Klagesaksbehandling
-Etter oversendelsen fra UDI blir sakene først
-behandlet i UNEs sekretariat. Sekretariatet forbereder saken og vil enten foreslå et vedtak overfor
-ansvarlig nemndleder, eller legge saken opp til
-vurdering av avgjørelsesform. Det er nemndleder
-som beslutter avgjørelsesform i den enkelte sak,
-jf. utlendingsforskriften § 16-7. Kurante saker
-avgjør sekretariatet selv etter delegasjon.
-UNE følger forvaltningsloven. Klagen kan tas
-helt/delvis til følge, ikke tas til følge, eller saken
-kan returneres UDI for videre saksforberedelse
-eller ny vurdering. Uansett sendes vedtaket digitalt til UDI og klageren/fullmektigen og eventuelt
-andre.
-5
-6
-7
-8
-
-Utlendingsloven § 78 og utlendingsforskriften § 16-9.
-Se innst. O. nr. 24 (1996–1997).
-Utlendingsforskriften § 16-4.
-Une.no.
-
-[Side 99]
-
-NOU 2023: 11
-Raskt og riktig
-
-Tall på omgjorte vedtak varierer fra år til år. I
-2018 ble det behandlet 9 630 saker, mens det i
-2021 ble behandlet 4 701 saker, hvorav 17 prosent
-av sakene (klagesaker og omgjøringssaker) ble
-omgjort. Gjennomsnittlig saksbehandlingstid var
-179 dager. Til sammen 270 saker ble avgjort i
-nemdmøter i 2021.9
-UNE har et sentralbord og en svartjeneste
-som håndterer henvendelser fra klager, advokater
-og andre med interesse for sakene. Advokater, og
-unntaksvis klager, kan få snakke med saksbehandler på telefon. Det gjennomføres noen saksforberedende samtaler mellom klager/berørte og
-nemndledere. Dessuten vil mange nemndmøter
-gjennomføres med personlig fremmøte for klageren. I noen saker er det også tredjepersoner eller
-vitner.
-Begjæringer om omgjøring
-UNE mottar mange anmodninger om omgjøring
-av vedtak og beslutninger, særlig på asylfeltet. I
-2021 utgjorde dette sju av ti asylsaker. Slike
-anmodninger fremsatt av en som oppholder seg i
-Norge, blir vurdert blant annet fordi UNE (og den
-norske stat) må ivareta utlendingers returvern på
-tidspunktet for retur. Klageren kan for eksempel
-anføre at det har skjedd en endring i hjemlandet
-eller i ens personlige situasjon etter UNEs vedtak,
-og at endringen tilsier at personen nå er vernet
-mot retur. For saker som ikke reiser slike problemstillinger, vil det gjøres en gyldighetsvurdering av det tidligere vedtaket.10
-Varsler om søksmål blir som utgangspunkt
-håndtert som en omgjøringsanmodning. Stevningsvarsler skal alltid legges til nemndleder for
-avgjørelse før de besvares, og det vurderes om det
-er grunn til å gi utsatt iverksetting av vedtaket.11
-Oppfølging av rettsavgjørelser
-Når et vedtak fra UNE blir kjent ugyldig av tingretten, vurderer UNE om saken bør ankes. Anke
-til Høyesterett og enkelte anker til lagmannsretten vurderes av et eget ankeutvalg.12 Etter rettskraftige dommer på ugyldighet blir saken fordelt
-til en ny nemndleder, som må vurdere avgjørelsesform særlig grundig etter visse føringer.13
-9
-
-Utlendingsnemnda UNE, Årsrapport 2021, s. 12.
-RB-21: Behandling av krav om omgjering av vedtaket frå
-UNE – Utlendingsnemnda (UNE).
-11
-IR-11: Handtering av rettssaker i UNE – Utlendingsnemnda
-(UNE).
-12
-IR-11: Handtering av rettssaker i UNE – Utlendingsnemnda
-(UNE).
-10
-
-8.3
-
-97
-
-Kapittel 8
-
-Klagesystemet innenfor barnevern
-og sosiale saker
-
-Barneverns- og helsenemnda er et statlig uavhengig domstollignende forvaltningsorgan som treffer vedtak i første instans om tvang etter barnevernloven og helse- og omsorgstjenesteloven.
-Barneverns- og helsenemnda fatter blant
-annet vedtak om omsorgsovertakelse av barn,
-adopsjon og tvangsplassering av ungdommer med
-atferdsvansker på institusjon. Etter helse- og
-omsorgtjenesteloven treffer nemndene vedtak om
-tvangstiltak overfor rusmiddelavhengige. Barneverns- og helsenemnda er også smittevernnemnder som treffer vedtak om tvang etter smittevernloven. I dag behandler barneverns- og helsenemnda i Oslo og Viken disse sakene. For disse sakstypene treffer nemndene primærvedtak. Disse
-vedtakene kan deretter bringes inn for domstolen,
-med tingretten som første instans.
-Kompetansen til å treffe akuttvedtak etter barnevernloven og helse- og omsorgstjenesteloven
-ligger hos barneverntjenesten og helse- og sosialmyndighetene i kommunen.14 På disse områdene
-har Barneverns- og helsenemnda som oppgave å
-gjennomføre en generell legalitetskontroll av vedtakene. Barneverns- og helsenemnda er også klageinstans i de tilfeller private parter klager på
-slike akuttvedtak. Barneverns- og helsenemnda
-behandler i tillegg klager over kommunenes vedtak om bruk av tvang overfor personer med psykisk utviklingshemning.
-Barneverns- og helsenemnda er underlagt
-Barne- og familiedepartementet. Virksomheten
-består av tretten enheter; ti nemnder fordelt på
-tolv kontorsteder og Sentralenheten for Barneverns- og helsenemnda. Sentralenheten har
-ansvar for den faglige og administrative ledelsen
-av virksomheten. Hver fylkesnemnd har et geografisk virkeområde som dekker ett eller to fylker.
-I 2021 hadde disse nemndene 142 ansatte. Sakene
-behandles av nemndledere, som er jurister. I tillegg har hver barneverns- og helsenemnd en
-administrasjon. Barneverns- og helsenemndas
-administrative leder er nemndleder og har tittelen
-daglig leder.
-Barneverns- og helsenemnda avgjør saker
-som reises av kommunene innenfor dets stedlige
-virkeområde. Hver nemnd består av ansatte nemndledere som er jurister med dommerkompetanse, et utvalg av fagkyndige innenfor de ulike
-sakstypene, og et alminnelig utvalg.
-13
-14
-
-IR-02: Avgjerdsformer i UNE – Utlendingsnemnda (UNE).
-Lov om barnevern § 4-1.
+## Klagebehandlingen i førsteinstans i Nav
+
+Vedtak etter folketrygdloven kan ikke bringes inn for de alminnelige domstolene før adgangen til å klage og anke er nyttet fullt ut.[^134] Enkelte av de andre lovene på Navs myndighetsområde har henvisninger til folketrygdlovens bestemmelse om dette.[^135] Det forvaltningsorgan som har truffet vedtaket, kan dessuten bestemme at søksmål om gyldigheten av forvaltningsvedtaket ikke kan reises før parten har benyttet sin adgang til å klage på vedtaket, og at klagen er avgjort av den høyeste klageinstans som står åpen.[^136] Dette bestemmer Nav i sine vedtak etter de lovene som ikke er omfattet av reguleringen i folketrygdloven, og underretter bruker om det etter forvaltningsloven § 27 tredje ledd.
+
+Etter forvaltningsloven § 32 skal klagen fremsettes for det organ som traff vedtaket. I folketrygdloven § 21-12 tredje ledd har Arbeids- og velferdsdirektoratet egen hjemmel til å bestemme hvilken enhet klage skal settes frem for. I NAV- loven § 5 har direktoratet generell hjemmel til å delegere sin myndighet til underliggende organer i Nav. Det er den førsteinstansen som fattet det påklagede vedtaket som mottar klagen.[^137]
+
+Klager på de fleste av Navs vedtak kan settes frem digitalt via nav.no, men for enkelte ytelser og rettigheter må bruker skrive ut utfylt klageskjema, og en såkalt forside, og sende dette per post til Navs skanningssentral. Klagen blir uansett rutet til rett enhet. Advokater og andre fullmektiger har ikke mulighet for digital innsending.
+
+Om lag 64 000 brukere klager på vedtak fra førsteinstans.[^138]
+
+Saksbehandling, klagebehandling i førsteinstans
+
+Statistikk fra Navs datavarehus, 2021, (SAK610 og SAK500).
+
+Bruker gis medhold i klagene i om lag 32 prosent av klagene i førsteinstans
+
+Klagen skal være undertegnet av bruker eller vedkommendes verge eller fullmektig eller være autentisert som fastsatt i forskrift eller i medhold av forskrift.[^139] I klagen skal det fremgå hvilket vedtak som påklages og den endringen som ønskes. Klagen bør også være begrunnet. Er klagen mangelfull, skal den enheten som mottar den sette en kort frist for rettelse og utfylling. [^140]
+
+En klage kan være muntlig eller skriftlig.[^141] Den som mottar den muntlige klagen, skal sette den opp skriftlig og undertegne den sammen med bruker. Som regel skjer dette i Nav-kontoret.
+
+Bruker har rett til å la seg bistå av advokat eller annen fullmektig på alle trinn av saksbehandlingen. Fullmektig som ikke er advokat, skal legge frem skriftlig fullmakt.[^142] Nav har ikke tall på hvor mange brukere som er representert av advokat eller annen fullmektig i klagesakene.
+
+Klagefristen for de fleste vedtak fra Nav er seks uker.[^143] Folketrygdloven har en særregel som gjelder i stedet for forvaltningslovens alminnelige klagefrist på tre uker.[^144] Det samme har også blant annet barnetrygdloven, kontantstøtteloven og lov om supplerande stønad. For vedtak om barnebidrag er det ingen særregulering og klagefristen er tre uker.
+
+Det er ingen egne bestemmelser om førsteinstansens behandling av en klagesak i folketrygdloven eller de øvrige lovene om ytelser og rettigheter på Navs myndighetsområde. Forvaltningsloven kommer til anvendelse.
+
+Forvaltningsloven § 33 gjelder saksforberedelsen i klagesak. Reglene om saksforberedelse ved enkeltvedtak og om vedtaket i forvaltningsloven kapittel IV og V gjelder i utgangspunktet også i klagesaker. Etter annet ledd skal førsteinstansen foreta de undersøkelser klagen gir grunn til. Videre kan førsteinstansen oppheve eller endre vedtaket dersom den finner klagen begrunnet.
+
+Hvis vedtaket omgjøres helt eller delvis, får bruker nytt vedtak som kan påklages. Dersom endringen bare medfører en helt marginal, eller i realiteten ingen, endring i klagers rettigheter, skal ikke underinstansen fatte nytt vedtak, men skrive oversendelsesbrev og sende saken til klageinstansen for behandling.[^145]
+
+Dersom vilkårene for å behandle klagen ikke foreligger, skal førsteinstansen avvise saken. Som regel skjer dette når klagefristen er oversittet. Førsteinstansen skal vurdere om klagen likevel kan tas under behandling, men dersom vilkårene for det ikke er til stede, treffer den vedtak om avvisning. Vedtaket kan påklages til NAV Klageinstans.[^146]
+
+Dersom førsteinstansen ikke endrer vedtaket, skal sakens dokumenter sendes klageinstansen så snart saken er tilrettelagt.
+
+I Navs saksbehandlingsrundskriv fremgår[^147]:
+
+«Dersom underinstansen opprettholder vedtaket sitt, skal klagesaken overføres til klageinstansen så snart den er «tilrettelagt». Det betyr at underinstansen skal utarbeide et kort oversendelsesbrev. Her skal underinstansen kommentere og imøtegå partens anførsler i klagen og begrunne hvorfor vedtaket blir opprettholdt. Underinstansen har ansvar for å sørge for at samtlige dokumenter som hører til klagesaken, både de som er arkivert elektronisk og de som er arkivert i papirform, blir gjort tilgjengelige for klageinstansen.
+
+Underinstansen skal sende kopi av oversendelsesbrevet til parten, hvis det ikke helt eller delvis har et innhold som han etter forvaltningsloven § 19 ikke har krav på å bli kjent med.»
+
+Nav opplyser at arbeidet med klagesaker er ulikt organisert i de enhetene som fatter vedtak i første instans. Førsteinstansen kan være Nav-kontor, enheter på fylkesnivå i arbeids- og tjenestelinjen og hjelpemiddelsentralene og enheter i NAV Arbeid og ytelser, NAV Familie- og pensjonsytelser og NAV Kontroll. I enkelte enheter arbeider alle saksbehandlere med klagesaker og i andre enheter er dette arbeidet mer spesialisert. Nav opplyser at det per i dag ikke foreligger noen fullstendig oversikt over antall saksbehandlere som arbeider med klagesakene i førsteinstansene.
+
+NAV Arbeid og ytelser og NAV Familie- og pensjonsytelser opplyser at de i hovedsak organiserer arbeidet med klagesakene på samme måte som arbeidet med kravene med én kø og prinsippet om eldste sak først. Det er egne køer for klagesakene. I NAV Arbeid og ytelser er unntaket klagesaker om uføretrygd, som behandles i regioner. I både NAV Arbeid og ytelser og NAV Familie- og pensjonsytelser er det færre saksbehandlere som behandler klager enn krav. Klagesaksbehandleren er som hovedregel en annen enn den som traff førstegangsvedtaket, men kan også være den samme.
+
+Klagebehandlingen foregår i hovedsak i samme saksbehandlingssystem som behandlingen av kravene. Dokumentene er arkivert i det felles oppgave- og arkivsystemet (Gosys). Bruker kan ikke følge status i klagesaken digitalt.
+
+Førsteinstans arbeid med klagesak er et sentralt tema for utvalget.
+
+Behandling av klager over vedtak om arbeidsavklaringspenger i Nav-kontor
+
+Hvis bruker klager på avslagsvedtak truffet av Nav-kontoret etter folketrygdloven § 11-5, skal Nav-kontoret motta og vurdere klagen.
+
+Når Nav-kontoret mottar klagen, får bruker brev med informasjon om at klagen er mottatt og forventet saksbehandlingstid. Utover dette har Nav-kontoret som regel lite dialog og kontakt med bruker i forbindelse med behandlingen av en klage. Klagen vurderes på bakgrunn av opplysningene som allerede foreligger i saken. Samtale på telefon mellom bruker og veileder og/eller skriftlig dialog med veileder via nav.no kan imidlertid forekomme.
+
+Det varierer mellom Nav-kontorene hvordan klagesaksbehandlingen er organisert. Ved en del Nav-kontor vil den veilederen som fattet det opprinnelige vedtaket vurdere klagen, men det kan også være en annen veileder som gjør dette.
+
+Veileder vurderer først om klagen oppfyller de formelle kravene. Hvis den ikke gjør det, treffer Nav-kontoret avvisningsvedtak, dersom det ikke er grunnlag for å likevel behandle klagen. Hvis klagen tas under behandling, vurderer saksbehandler om det er nye opplysninger i saken. Nav-kontorene opplyser at de sjelden innhenter nye opplysninger, med mindre klager selv påpeker at det er nye opplysninger i saken. I så fall kan det være aktuelt å innhente ytterligere opplysninger fra fastlege eller spesialisthelsetjenesten. Deretter vil veileder gjennomgå eventuell ny dokumentasjon og vurdere om det er grunnlag for å omgjøre vedtaket.
+
+Veileder kan også i klagesaksbehandlingen anmode om bistand fra rådgivende lege, samt drøfte saken med andre enheter, som NAV Arbeidsrådgivning.
+
+Hvis veileder vurderer at vedtaket skal omgjøres, treffer Nav-kontoret et nytt § 11-5-vedtak i saken. Da har bruker fått medhold i at vilkårene i folketrygdloven § 11-5 er oppfylt, men det foreligger ingen vurdering av de øvrige vilkårene for rett til arbeidsavklaringspenger. Myndighet til å ta stilling til disse, ligger hos NAV Arbeid og ytelser. I saker der Nav-kontoret omgjør sitt avslagsvedtak etter klage, må derfor saken sendes til NAV Arbeid og ytelser, som vurderer de øvrige vilkårene og fatter et vedtak om innvilgelse eller avslag av arbeidsavklaringspenger.
+
+Hvis veileder vurderer at vedtaket skal opprettholdes, skriver vedkommende oversendelsesbrev til NAV Klageinstans og overfører klagesaken dit i saksbehandlingssystemet.
+
+Ved Nav-kontoret kan resultatet av klagesaksbehandlingen dermed bli:
+
+- klagen avvises på bakgrunn av manglende formkrav eller oversittet klagefrist
+
+- vedtaket omgjøres helt eller delvis til gunst for bruker
+
+- vedtaket opprettholdes og saken oversendes klageinstansen for avgjørelse
+
+Klagen kan også trekkes av bruker. Hvis vedtaket opprettholdes og klagesaken sendes til NAV Klageinstans, får bruker et brev med informasjon om at saken er sendt til klageinstansen og om forventet saksbehandlingstid der. Vedlagt brevet får bruker også kopi av oversendelsesbrevet som Nav-kontoret har skrevet.
+
+Behandling av klage arbeidsavklaringspenger i NAV Arbeid og ytelser
+
+Hvis bruker klager på vilkår for arbeidsavklaringspenger som er vurdert av NAV Arbeid og ytelser i førstegangsvedtaket, skal klagen i første omgang behandles der. Dette gjelder blant annet klager på innvilgelsestidspunkt og avslag på krav om arbeidsavklaringspenger, for eksempel fordi NAV Arbeid og ytelser har vurdert at bruker ikke er medlem av folketrygden.
+
+Når klagen mottas i NAV Arbeid og ytelser blir det først journalført av en som har såkalt løsningsrolle før det blir tatt stilling til hvordan klagesaken skal behandles videre. Hvis det er en åpenbar omgjøring, vil saken håndteres raskt, men dersom klagen krever en mer grundig vurdering, blir den overført til den felles køen for klagesaker og behandlet av en klagesaksbehandler i NAV Arbeid og ytelser, det vil si en saksbehandler som har som hovedoppgave å behandle klagesaker i førsteinstans. Det vil som regel være en annen saksbehandler enn den som traff vedtaket.
+
+Når NAV Arbeid og ytelser mottar klagen, får bruker et brev med informasjon om at klagen er mottatt og forventet saksbehandlingstid i NAV Arbeid og ytelser. Saksbehandlerne i NAV Arbeid og ytelser oppgir at de i de fleste saker har lite kontakt med bruker ved klagebehandling.
+
+Klagesaksbehandler gjør først en ny vurdering klagen og tar stilling til om vedtaket bør omgjøres eller opprettholdes. Klagesaksbehandler kan involvere opprinnelig saksbehandler når det er behov for å drøfte saken, eller der det er gjort feil i behandlingen av kravet som bør unngås i fremtidige saker. Når det har gått lang tid siden vedtaket ble truffet, kan det være mindre sannsynlig at opprinnelig saksbehandler husker saken, og dette har også vært noe av begrunnelsen for å ikke la samme saksbehandler behandle kravet og klagen. I noen typer klager opplyser NAV Arbeid og ytelser at det ikke er hensiktsmessig å involvere saksbehandler som opprinnelig behandlet saken. Det gjelder for eksempel saker som åpenbart skal omgjøres og som ikke skyldes feil i førstegangsbehandling, men fordi det har kommet til nye opplysninger. Saksbehandler kan også i klagesaksbehandlingen anmode om bistand fra rådgivende lege. Hvis klagebehandler i NAV Arbeid og ytelser omgjør vedtaket, vil det nye vedtaket bli kvalitetssikret av en beslutter før det blir sendt til bruker.
+
+Hvis klagesaksbehandler vurderer at vedtaket skal opprettholdes, skriver vedkommende oversendelsesbrev til NAV Klageinstans. I oversendelsesbrevet redegjør klagesaksbehandleren for sin vurdering av saken.
+
+Mulige resultater av klagebehandling ved NAV Arbeid og ytelser er de samme som ved Nav-kontoret:
+
+- klagen avvises på bakgrunn av manglende formkrav eller oversittet klagefrist
+
+- vedtaket omgjøres helt eller delvis til gunst for bruker
+
+- vedtaket opprettholdes og saken oversendes klageinstansen for avgjørelse
+
+Klagen kan også trekkes av bruker. Hvis klagen avvises, kan bruker klage på vedtaket om å avvise klagen og klagen vil da behandles av NAV Klageinstans.
+
+Hvis vedtaket opprettholdes og klagesaken overføres til NAV Klageinstans, får bruker et brev med informasjon om at saken er overført til NAV Klageinstans og om forventet saksbehandlingstid i klageinstansen.
+
+Behandling av klage over uføretrygd i NAV Arbeid og ytelser
+
+Hvis bruker får avslag på søknad om uføretrygd, vil veileder ved Nav-kontoret som regel ha et møte med bruker for å gå gjennom avslaget. Formålet med denne gjennomgangen er å bistå bruker med å identifisere årsaken til at NAV Arbeid og ytelser har avslått søknaden. Mange avslag er begrunnet med at NAV Arbeid og ytelser vurderer at bruker ikke har gjennomgått tilstrekkelig behandling. I disse tilfellene vil veileder ofte anbefale at bruker gjennomgår avslaget med fastlegen, og i enkelte tilfeller blir også veileder med bruker til fastlegen for å forklare begrunnelsen for avslaget. Ansattes representanter opplyser til utvalget at veilederne ved Nav-kontorene oppfatter at de ikke kan ta kontakt med saksbehandler i NAV Arbeid og ytelser direkte med spørsmål om vedtaket. NAV Arbeid og ytelser opplyser på sin side at Nav-kontoret kan ta kontakt, men at det sjelden skjer.
+
+Bruker kan klage på vedtaket. Regelverk og prosess for å sende inn en klage er den samme som beskrevet i punktet om behandling av klage arbeidsavklaringspenger i NAV Arbeid og ytelser over.
+
+Når klagen mottas i NAV Arbeid og ytelser blir det først journalført av en som har såkalt løsningsrolle, før det blir tatt stilling til hvordan klagesaken skal behandles videre. Hvis det er en åpenbar omgjøring vil den håndteres raskt, men dersom klagen krever en mer grundig vurdering, blir den overført til en klagesaksbehandler i NAV Arbeid og ytelser, det vil si en saksbehandler som har som hovedoppgave å behandle klagesaker i førsteinstans. Det vil som regel være en annen saksbehandler enn den som traff vedtaket.
+
+Når NAV Arbeid og ytelser mottar klagen, får bruker et brev med informasjon om at klagen er mottatt og forventet saksbehandlingstid. Saksbehandlerne i NAV Arbeid og ytelser oppgir at det i de fleste saker er lite kontakt med bruker ved klagebehandling, men at de har mulighet til å kontakte bruker direkte. Spørsmål til bruker stilles som regel via nav.no.
+
+Hvis det er en åpenbar omgjøring, vil det håndteres raskt. Dersom klagen krever en mer grundig vurdering, blir den overført til den felles køen for klagesaker og behandlet av en klagesaksbehandler.
+
+Klagesaksbehandler vurderer først klagen og tar stilling til om vedtaket bør omgjøres eller opprettholdes. Klagesaksbehandler kan involvere opprinnelig saksbehandler når det er behov for å drøfte saken, eller der det er gjort feil i behandlingen av kravet som bør unngås i fremtidige saker. Når det har gått lang tid siden vedtaket ble truffet, kan det være mindre sannsynlig at opprinnelig saksbehandler husker saken, og dette har også vært begrunnelse for å ikke la samme saksbehandler behandle kravet og klagen. I noen typer klagesaker opplyser NAV Arbeid og ytelser at det ikke er hensiktsmessig å involvere saksbehandler som opprinnelig behandlet saken. Det gjelder for eksempel saker som åpenbart skal omgjøres og som ikke skyldes feil i førstegangsbehandling, men fordi det har kommet til nye opplysninger. Saksbehandler kan også i klagesaksbehandlingen anmode om bistand rådgivende overlege. Hvis klagebehandler i NAV Arbeid og ytelser omgjør vedtaket, vil det nye vedtaket bli kvalitetssikret av en beslutter før det blir sendt til bruker.
+
+Hvis klagesaksbehandler vurderer at vedtaket skal opprettholdes, skriver vedkommende oversendelsesbrev til NAV Klageinstans. I oversendelsesbrevet redegjør klagesaksbehandleren for sin vurdering av saken.
+
+Mulige resultater av klagebehandling ved NAV Arbeid og ytelser er de samme som ved Nav-kontoret:
+
+- klagen avvises på bakgrunn av manglende formkrav eller oversittet klagefrist
+
+- vedtaket omgjøres helt eller delvis til gunst for bruker
+
+- vedtaket opprettholdes og saken oversendes klageinstansen for avgjørelse
+
+Klagen kan også trekkes av bruker. Hvis klagen avvises, kan bruker klage på vedtaket om å avvise klagen og klagen vil da behandles av NAV Klageinstans. Opprettholdes vedtaket og klagesaken overføres til NAV Klageinstans, får bruker et brev med informasjon om at saken er overført til NAV Klageinstans og om forventet saksbehandlingstid i klageinstansen.
+
+### Dekning av sakskostnader
+
+En bruker som får et vedtak omgjort til gunst i Nav, kan få dekket vesentlige kostnader som har vært nødvendige for å få endret vedtaket etter forvaltningsloven § 36. Når førsteinstans omgjør eget vedtak etter klage, kommer denne regelen til anvendelse. Bruker kan få dekket advokatutgifter og eventuelle andre sakskostnader. Dersom endringen av vedtaket skyldes forhold som er utenfor forvaltningens, det vil si Navs kontroll, kan det bli gjort unntak fra denne regelen (det såkalte «kontrollunntaket»[^148]). Innenfor skranken nødvendige utgifter, kan bruker få dekket advokatutgifter med advokatens normale timepris. Det er ingen begrensning til offentlig salærsats som ved rettshjelp etter rettshjelploven.
+
+Krav om sakskostnader blir avgjort av den førsteinstansen som har truffet det nye vedtaket. Frist for å sette frem krav er tre uker fra melding om det nye vedtaket er kommet frem til bruker. Informasjon om dette skal stå i meldingen bruker får om det nye vedtaket. Avgjørelsen om sakskostnader kan påklages til NAV Klageinstans.[^149]
+
+I 2021 utbetalte Nav om lag 42 mill. kroner i sakskostnader etter forvaltningsloven § 36 (omgjøring i førsteinstans og klageinstans).[^150]
+
+### Rettshjelp i klagesak
+
+Bruker (privat part) har rett til behovsprøvd rettshjelp i klagesaker etter folketrygdloven § 21-12.[^151] Statens sivilrettsforvaltning opplyser at det er usikkert om retten også omfatter klager etter lovene på Navs myndighetsområde som viser til at reglene i folketrygdloven § 21-12 gjelder så langt de passer og liknende.[^152]
+
+Også for sakstyper som faller utenfor folketrygdloven § 21-12, kan det gis fritt rettsråd, men da etter regelen om at det unntaksvis kan innvilges fritt rettsråd i sak som objektivt sett berører søker i særlig sterk grad.[^153] Statens sivilrettsforvaltning opplyser at det i praksis innvilges svært få slike søknader.
+
+Kostnadene ved bistand i klagesak dekkes bare dersom bruker faktisk setter frem en klage, slik at vedkommende blir part i en klagesak i Nav. Bistand fra advokat til å vurdere om et vedtak skal påklages, dekkes ikke.
+
+Det er Statsforvalteren som behandler saker om fritt rettsråd i Navs saker.
+
+Det følger av rettshjelpsloven at brukere som oppfyller vilkårene for behovsprøvd fritt rettsråd, kan motta kostnadsfri advokathjelp når de påklager et vedtak fra Nav.[^154] Inntektsgrensen for behovsprøvd fri rettshjelp er per 1. januar 2023 350 000 kroner i året for enslige og 540 000 kroner i samlet inntekt for ektefeller og andre som lever sammen med felles økonomi. I begge tilfeller er formuesgrensen 150 000 kroner.[^155]
+
+Det kan søkes om fritt rettsråd selv om inntekten er høyere enn inntektsgrensen og formuesgrensen. Rettshjelp kan innvilges dersom utgiftene til juridisk bistand blir betydelige i forhold til søkerens økonomiske situasjon.[^156] I 2021 ble 40 saker innvilget etter økonomisk dispensasjon.[^157]
+
+Av de om lag 67 000 klagene som ble fremsatt på Navs myndighetsområde i 2021, ble det innvilget fritt rettshjelp i 1 530 saker.[^158]
+
+Ved fri rettshjelp får advokaten betalt en offentlig salærsats. I 2023 er denne satsen på 1 140 kroner i timen eks. mva. Advokater som påtar seg et oppdrag som dekkes etter rettshjelpsloven kan ikke kreve eller motta ytterligere vederlag av klienten for arbeid som betales av det offentlige.[^159] Klienter med bruttoinntekt over 100.000 kroner må betale egenandel, som kreves inn av den som yter rettshjelpen.[^160]
+
+Rettshjelpen dekker advokatbistand og kan også dekke utgifter til utredninger og liknende. Hvor mange timers advokatarbeid som dekkes ved klage til Nav, er regulert av stykkprisforskriften. I utgangspunktet dekkes syv timer.[^161] Dersom faktisk samlet timeforbruk i ett rettsråd overstiger 14 timer ved klage til Nav, eller det på et senere tidspunkt er behov for ytterligere bistand i samme sak, behandler statsforvalteren søknad om utvidelse av bevilling til fritt rettsråd.[^162]
+
+## Klagebehandlingen i NAV Klageinstans
+
+Dersom førsteinstansen opprettholder vedtaket sitt etter å ha vurdert det på nytt i klageomgangen, sendes saken til NAV Klageinstans for avgjørelse. NAV Klageinstans er klageinstans for enkeltvedtak fattet av ulike enheter i Arbeids- og velferdsetaten (gjelder vedtak etter samtlige lover som administreres av arbeids- og velferdsforvaltningen).[^163] Arbeidsmetoden og saksflyten er i behandlingen av klagesakene er i all hovedsak lik på alle ytelsesområdene. Klageinstansen kan prøve alle sider av saken, herunder ta hensyn til nye omstendigheter. Den skal vurdere klagerens synspunkter og kan også ta opp forhold som bruker ikke har tatt opp i klagen.[^164]
+
+Når klagen mottas i NAV Klageinstans, blir den lagt i en felles nasjonal kø/ oppgaveliste for sakstypen. Bruker har ikke mulighet til å følge saksgangen i klagesaken digitalt.
+
+Saksbehandlerne tildeles saker fra denne køen, slik at eldste sak behandles først. Når en saksbehandler har tatt en klagesak under behandling, behandler vedkommende den ferdig. Det gjelder som hovedregel også når en bruker tar kontakt om sin sak før den er tatt under behandling. Saken blir da ikke lagt tilbake til den felles oppgavelisten, men som regel behandlet av den saksbehandleren som har hatt kontakt med bruker.
+
+Mangelfulle klagebehandlingsløsninger i flere av Navs saksbehandlingssystemer gjør at klageinstansen er avhengig av å benytte oppgave- og arkivsystemet (Gosys) som saksbehandlingsløsning, noe som gir mange manuelle operasjoner. Et felles system for klagebehandling er nå under utvikling.
+
+NAV Klageinstans behandler mellom 30 000 og 35 000 klagesaker årlig.[^165]
+
+Saksbehandling NAV Klageinstans
+
+Statistikk fra Navs datavarehus, 2021, (SAK610 og SAK500).
+
+Bruker gis medhold i om lag ti prosent av klagesakene i NAV Klageinstans. Klageinstansen opphever førsteinstansens vedtak og sender saken tilbake for ny behandling i om lag fire prosent av klagesakene
+
+Saksbehandler sjekker først at de formelle kravene til klagen er oppfylt, herunder at klagefristen er overholdt og formkravene oppfylt. Hvis klagen ikke fyller formkrav (eksempelvis manglende underskrift), gis klager en kort frist til å rette formfeil.[^166]
+
+Saksbehandler leser deretter gjennom klagen fra bruker og vedtaket og oversendelsesbrevet fra førsteinstansen. Så gjennomgår saksbehandler alle de relevante dokumentene i saken. Formålet med dokumentgjennomgangen er å få en oversikt over saken frem til saken kom til klageinstansen, herunder hvilke utredninger bruker har gjennomgått, hvilke tiltak som har blitt gjennomført og liknende. Avhengig av hva saksbehandler foretrekker, begynner vedkommende enten å skrive på klagevedtaket parallelt med dokumentgjennomgangen eller først etter at alle relevante dokumenter er gjennomgått.
+
+Saksbehandlerne i NAV Klageinstans har tilgang til alle dokumentene i saken og alle de relevante fagsystemer der det kan være arkivert og/ eller lagret saksopplysninger. Saksbehandler undersøker både saksdokumentasjon som er arkivert i arkivsystemet, men også saksopplysninger i saksbehandlingssystemene Arena og Pesys som benyttes ved behandling av søknader om for eksempel arbeidsavklaringspenger og uføretrygd. NAV Klageinstans har også muligheter til å undersøke om det har fremkommet relevante saksopplysninger i den skriftlige dialogen mellom veileder ved Nav-kontor og bruker som skjer i systemet Modia. I saker om uføretrygd kan det også være relevant å innhente saksopplysninger fra saksbehandlingssystemene Arena og Infotrygd.
+
+Klageinstansen skal påse at saken er så godt opplyst som mulig før vedtak treffes.[^167] Klageinstansen kan selv innhente relevant saksdokumentasjon eller pålegge førsteinstansen å foreta nærmere undersøkelser.[^168]
+
+I en del saker vurderer NAV Klageinstans at det ikke er tilstrekkelig dokumentasjon i saken for å kunne vurdere om vilkår som er avgjørende for resultatet i saken, er oppfylt. I slike tilfeller er praksis at klageinstansen benytter adgangen til å oppheve vedtaket og sende saken tilbake til førsteinstansen for ny behandling der[^169]. NAV Klageinstans opplyser at praksis i dag er at de bare unntaksvis henter inn ny dokumentasjon i forbindelse med behandling av klagesakene. I enkelte saker, der saksbehandler i klageinstansen raskt kan få tak i opplysningene som mangler ved for eksempel å ringe til arbeidsgiver, gjøres det. Dersom forsvarlig opplysning av saken krever lenger tid og samhandling med fastlege eller spesialist, sørger ikke klageinstansen for det, men opphever vedtaket og sender den tilbake til førsteinstans. I beslutningen om oppheving gir klageinstansen som regel anvisning på hvilke opplysninger de mener mangler i saken, og anmoder førsteinstansen om å innhente disse før nytt vedtak blir truffet.
+
+Saksbehandler i NAV Klageinstans kan be om bistand fra rådgivende lege. Klageinstansen har egne rådgivende leger ansatt hos seg. Rådgivende lege skal ikke bistå i selve vurderingen av saken, men legen kan blant annet hjelpe saksbehandler med å forstå hva den medisinske dokumentasjonen sier, identifisere om det er nødvendig medisinsk dokumentasjon som mangler og med å formulere spørsmål til fastleger og spesialister. Kontakt med rådgivende lege kan også i klageinstansen foregå på ulike måter. Enten ved muntlig utsjekk, typisk dersom saksbehandler kun ønsker å avklare et enkelt avgrenset spørsmål, som ikke er avgjørende for vurderingen av de stønadsrettslige spørsmålene i saken. Da blir det ikke lagt frem dokumenter eller skrevet notat etter samtalen. Alternativt, hvis saksbehandler ønsker bistand til å forstå enkelte dokumenter i saken, blir disse lagt frem for rådgivende lege. I disse tilfellene skal saksbehandler i etterkant skrive et kort notat. Et tredje alternativ er at det gjennomføres et såkalt «fullt fremlegg». Da legger saksbehandler frem alle dokumenter i saken. Etter å ha gjennomgått dokumentene og veileders merknader, gir rådgivende lege i klageinstansen sin vurdering i et skriftlig notat.
+
+NAV Klageinstans opplyser til utvalget at de ikke forelegger opplysninger de innhenter selv i sakene eller uttalelsene fra sine rådgivende leger til parten for uttalelse. Dette vil utvalget komme tilbake til.
+
+Etter å ha gjennomgått sakens opplysninger, og eventuelt gjennomført samtaler med eller innhentet skriftlig uttalelse fra rådgivende lege, vurderer saksbehandler disse og konkluderer med hvilket faktum som skal legges til grunn. Saksbehandler finner også frem til hvilke rettsregler som gjelder for saken, og vurderer deretter om vilkårene for den aktuelle ytelsen er oppfylt eller ikke. Saksbehandler skriver vedtak i klagesaken. Kravene til begrunnelse er de samme som i førstegangsvedtak.[^170]
+
+Klageinstansen har en ordning med medunderskriver som kvalitetssikrer vedtaket. Medunderskriver leser vedtaket og gjennomgår ved behov også dokumenter i saken. Medunderskriver og saksbehandler kan også drøfte saken. Etter å ha kvalitetssikret vedtaket, skriver medunderskriver under og bekrefter i systemet at saken er kvalitetssikret og ferdigstilt. Når saken er ferdig behandlet, sendes vedtaket i klagesaken til bruker.
+
+Mulige resultater av klagebehandlingen i NAV Klageinstans er:
+
+- klagen avvises på bakgrunn av manglende formkrav eller oversittet klagefrist
+
+- vedtaket omgjøres helt eller delvis til gunst for bruker
+
+- vedtaket stadfestes
+
+- vedtaket oppheves og henvises til ny behandling i vedtaksinstansen
+
+Resultat klagebehandling i klageinstans
+
+Klagen kan også trekkes av bruker. Hvis klagen avvises, kan bruker (normalt) anke avvisningsvedtaket til Trygderetten.[^171] Det samme gjelder der vedtak omgjøres eller stadfestes. Når klageinstansen opphever vedtaket og sender saken tilbake til ny behandling i førsteinstansen, skjer det i beslutnings form uten ankeadgang. Enkelte avgjørelser fra klageinstansen går ut på en kombinasjon av resultater, for eksempel av deler av førsteinstansens vedtak stadfestes eller omgjøres, mens resten blir opphevet og saken sendt tilbake for ny behandling av den delen av saken.[^172] Da er det ankeadgang kun på den delen av avgjørelsen der klageinstansen har truffet realitetsvedtak.[^173]
+
+Klageinstansen har lite muntlig dialog med bruker for å belyse saken i forbindelse med saksbehandlingen. I noen få tilfeller kan saksbehandler ha behov for å stille bruker et spørsmål, men da skjer det som regel skriftlig i en melding til bruker via nav.no. Det gjorde klageinstansen om lag 600 ganger i 2021. NAV Klageinstans mottar om lag 2 000 henvendelser fra bruker i form av «Kontakt bruker-oppgaver» fra NAV Kontaktsenter per år.[^174]
+
+Henvendelser fra brukere som kommer via NAV Kontaktsenter besvares først av den som har telefonvakt. Hvis en bruker henvender seg til NAV Klageinstans i forbindelse med en sak som enda ikke er behandlet, er det telefonvakten som svarer. Telefonvakten er en saksbehandler med kompetanse på fagfeltet.
+
+Hvis brukeren henvender seg i forbindelse med et vedtak fra NAV Klageinstans, vil brukeren henvises til saksbehandleren som har fattet vedtaket.
+
+Når klagesaken er ferdig behandlet i NAV Klageinstans, sendes avgjørelsen i klagesaken til bruker.
+
+NAV Klageinstans opplyser til utvalget at de ikke forelegger opplysninger de innhenter for bruker. Bruker eller advokat/ fullmektig kan be om innsyn i sakens dokumenter og får da tilsendt disse i posten. Innsynsløsningen via nav.no, gir ikke bruker fullt innsyn i egen sak, men i hovedsak bare i dokumentene vedkommende har sendt inn selv digitalt. Bruker har ikke innsyn i opplysninger andre har sendt inn, for eksempel legeerklæringer, brev fra advokat eller uttalelser fra Nav rågivende overlege. I møte med brukerorganisasjonene og i rapporten om brukernes opplevelser, forteller brukerne om opplevelsen av å ikke være sikker på å ha fullt innsyn i egen sak.[^175] Advokatforeningen har i møte med utvalget påpekt at Nav burde ha en elektronisk løsning for innsyn i alle sakens dokumenter også for brukers advokat.
+
+### Dekning av sakskostnader og rettshjelp i klagesak
+
+Reglene for deking av sakskostnader når NAV Klageinstans omgjør et vedtak fra førsinstansen til gunst for bruker er de samme som når førsteinstansen omgjør eget vedtak.[^176] Se punkt 6.3.2. Klageinstansen behandler kravet og avgjørelsen om sakskostnader kan påklages til Arbeids- og velferdsdirektoratet.
+
+NAV Klageinstans benytter ikke adgangen til å pålegge førsteinstansen å dekke kostnadene. Sakskostnadene blir utbetalt fra felles konto for alle enheter i Nav.
+
+Reglene om fritt rettsråd i klagesak gjelder for klagebehandlingen både i førsteinstans og klageinstans.
+
+### Kvalitetstilbakemeldingene fra NAV Klageinstans
+
+I tillegg til å behandle klagesakene, gir NAV Klageinstans tilbakemelding om kvaliteten på de førsteinstansvedtakene som de klagebehandler. Dette er et krav til klageinstansen i mål- og disponeringsbrevet hvert år.[^177]
+
+NAV Klageinstans gir tilbakemelding om kvaliteten på to måter. For det første gir klageinstansen tilbakemelding til den førsteinstansen som har fattet det påklagede vedtaket i alle saker. Saksbehandler og medunderskriver i klageinstansen vurderer og registrerer kvaliteten i utredningen, vedtaket og oversendelsesbrevet på detaljert nivå. Saksbehandlere og ledere i førsteinstansene har fra 2022 løpende tilgang til kvalitetstilbakemeldingene på individuelt og aggregert nivå.
+
+For det andre skriver NAV Klageinstans årlige kvalitetsrapporter til Arbeids- og velferdsdirektoratet om kvaliteten i sakene på alle de ytelsesområdene de behandler klagesaker. I perioden 2018-2021 skrev NAV Klageinstans også årlige kvalitetsrapporter direkte til førsteinstansene; NAV Arbeid og ytelser, NAV Familie- og pensjonsytelser, NAV Kontroll og Arbeids- og tjenestelinja. Etter at førsteinstansene kan følge med på kvalitetstilbakemeldingene i egne saker daglig, skriver klageinstansen fra 2022 kvalitetsrapport bare til Arbeids- og velferdsdirektoratet.
+
+## Ankebehandlingen i NAV Klageinstans
+
+Vedtak etter folketrygdloven kan som nevnt over, ikke bringes inn for de alminnelige domstolene før adgangen til å klage og anke er nyttet fullt ut.[^178] Enkelte av de andre lovene på Navs myndighetsområde har henvisninger til folketrygdloven §21-12.[^179] Det følger også av trygderettsloven § 12 at et vedtak som kan påklages etter folketrygdloven § 21-12, barnetrygdloven § 15 eller bestemmelser i andre lover, først kan bringes inn for Trygderetten etter at klageadgangen er benyttet.[^180] Samlet innebærer dette at førsteinstansens vedtak bare kan overprøves gjennom klage og klagevedtak bare kan overprøves ved anke til Trygderetten i saker innenfor Trygderettens saklige virkeområde.[^181]
+
+Klagevedtak etter folketrygdloven, barnetrygdloven, lovgivningen om krigspensjonering, samordningsloven og lov om supplerande stønad kan ankes inn for Trygderetten.[^182]
+
+Klagevedtak etter kontantstøtteloven, barnelova, forskotteringsloven, ekteskapsloven, arbeidsmarkedsloven, lønnsgarantiloven, NAV- loven, forvaltningsloven og deler av tilleggsstønadsforskriften kan ikke ankes inn for Trygderetten.
+
+Mangelfulle løsninger i flere av Navs saksbehandlingssystemer gjør at klageinstansen er avhengig av å benytte oppgave- og arkivsystemet (Gosys) som saksbehandlingsløsning, noe som gir mange manuelle operasjoner. Et felles system for ankebehandling er nå under utvikling.
+
+NAV Klageinstans behandler mellom 4 500 og 5 500 anker årlig.
+
+Saksbehandling, anker NAV Klageinstans
+
+Statistikk fra Navs datavarehus, 2021, (SAK610 og SAK500). Bruker gis medhold i om lag 10 prosent av ankesakene i NAV Klageinstans. Klageinstansen opphever førsteinstansens vedtak og sender saken tilbake for ny behandling i om lag 3 prosent av ankesakene
+
+Departementet kan bestemme at visse vedtak etter folketrygdloven skal unntas fra anke til Trygderetten.[^183] Det er gitt forskrift om unntak fra anke til Trygderetten. Det er også gitt hjemmel for at enkelte vedtak kan ankes direkte inn for Trygderetten.[^184] Denne hjemmelen er ikke tatt i bruk.
+
+Anke skal settes fram skriftlig eller muntlig for den enheten som Arbeids- og velferdsdirektoratet bestemmer.[^185] Direktoratet har bestemt at anke skal settes frem for den enheten som har fattet vedtak i klagesak, det vil si for NAV Klageinstans.[^186]
+
+Den som mottar en muntlig anke, skal sette den opp skriftlig og undertegne den sammen med bruker. Som regel skjer dette i Nav-kontoret.
+
+Loven oppstiller ikke krav om at en skriftlig anke må inngis på et bestemt skjema eller formular. Det er likevel utarbeidet et ankeerklæringskjema som ligger på nav.no. Dette skjemaet kan ikke bruker sende inn digitalt. Dersom bruker benytter dette skjemaet, må erklæringen skrives ut, signeres og sendes via post sammen med såkalt forside til Navs skanningssentral. Den blir da rutet til riktig sted i NAV Klageinstans. Dersom bruker ikke benytter skjemaet på nav.no, sender vedkommende anken direkte til den avdelingen i klageinstansen som fattet klagevedtaket, som sender anken til skanning og journalfører.
+
+Ankeerklæringen skal være undertegnet av bruker eller vedkommendes verge eller fullmektig.[^187]
+
+Ankeerklæringen skal angi at den er en anke til Trygderetten, og inneholde brukers personalia. Erklæringen må angi hvilket vedtak anken gjelder, den endringen som ønskes og så vidt mulig de nærmere omstendigheter som anføres til støtte for anken. Anken skal også nevne de erklæringer og andre bevis som påberopes og de bilag som følger anken. Hvis anken er mangelfull, skal den enheten som mottar den sette en kort frist for rettelse og utfylling[^188].
+
+Bruker har rett til å la seg bistå av advokat eller annen fullmektig på alle trinn av saksbehandlingen. Fullmektig som ikke er advokat, skal legge frem skriftlig fullmakt. Trygderetten opplyser at 57 prosent av de som hadde ankesak i Trygderetten i 2021 brukte advokat. Nav har ikke statistikk for dette.
+
+Ankefristen er seks uker.[^189]
+
+Når anken mottas i NAV Klageinstans, sender klageinstansen ut et brev til bruker. I brevet får bruker informasjon om videre saksgang, forventet saksbehandlingstid og hvilke rettigheter bruker har i ankesaken.
+
+NAV Klageinstans (som ankemotpart) skal ta det påankende vedtaket opp til ny prøving.[^190] Dette innebærer at saksbehandler i NAV Klageinstans først sjekker at alle de formelle kravene til en anke er oppfylt; at ankeerklæringen fyller formkravene og om ankefristen er overholdt. Så gjør saksbehandler en ny materiell vurdering av saken. Det kan være samme saksbehandler som behandlet klagesaken eller en annen. Som oftest er det en annen.
+
+Måten anker i NAV Klageinstans behandles på har mange likhetstrekk med måten man behandler klager, selv om klageinstansen endrer rolle fra å være klageorgan til ankemotpart. Ettersom NAV Klageinstans allerede har vurdert saken i klageomgangen, er fokuset primært å vurdere om det har kommet til nye opplysninger som endrer faktum og eventuelt resultatet i saken.
+
+Dersom den nye prøvingen ikke medfører omgjøring, slik at anken faller bort, skal NAV Klageinstans tilrettelegge saken og fremstille den for Trygderetten.[^191] Klageinstansen samler i denne prosessen alle relevante dokumenter i saken i ett PDF-dokument, som deretter sendes til Trygderetten fra Gosys. NAV Klageinstans oppgir at dette per i dag er en tidskrevende prosess, fordi saksopplysninger fra ulike fagsystemer manuelt må kopieres ut av systemene og inn i Gosys. Det er også dokumenter i Gosys som ikke er journalført riktig, slik at saksbehandler i klageinstansen også må rette opp dette. Dette er særlig en stor ryddejobb i ankesaker om uføretrygd.
+
+Videre utarbeider saksbehandler et oversendelsesbrev som skal inneholde en beskrivelse av det faktiske grunnlaget NAV Klageinstans bygger på, og brukers og klageinstansens påstandsgrunnlag og påstander. Oversendelsesbrevet oppsummerer med andre ord sakens faktum og de viktigste rettslige problemstillingene i saken. Oversendelsesbrevet skal bidra til å sikre god saksforberedelse og lette behandlingen i Trygderetten.[^192]
+
+NAV Klageinstans har en medunderskriver også i ankesaker, som har samme oppgaver som i klagesakene.
+
+NAV Klageinstans skal oversende oversendelsesbrevet til bruker og/eller brukers advokat eller annen fullmektig eller verge, og de skal gis mulighet til å komme med merknader innen tre uker.[^193] I intervju oppgir NAV Klageinstans at mange brukere/ advokater på dette stadiet ber om innsyn i alle sakens dokumenter, samt utsatt frist for å komme med merknader. Dokumentene blir da sendt til bruker/ advokat per post.
+
+Klageinstansen har mulighet til å omgjøre eget vedtak til gunst for bruker helt frem til Trygderetten avsier kjennelse i saken.[^194] Det kan komme til ny informasjon i saken i den perioden saken venter på behandling i Trygderetten, for eksempel fra bruker eller NAV-kontor, som gir grunnlag for omgjøring. I enkelte tilfeller gjør Trygderetten klageinstansen oppmerksom på at det har blitt sendt inn ny informasjon. Klageinstansen informerer i slike tilfeller Trygderetten om omgjøringen. Dersom klageinstansen omgjør et vedtak slik at grunnlaget for anken faller bort, vil Trygderetten heve saken.
+
+Mulige resultater av ankebehandling i NAV Klageinstans er:
+
+- vedtaket omgjøres helt eller delvis til gunst for bruker
+
+- vedtaket opprettholdes og anken oversendes til Trygderetten
+
+- vedtaket oppheves og henvises til ny behandling i vedtaksinstansen
+
+Anken kan også trekkes av bruker. Klageinstansen har ikke selv kompetanse til å avvise en anke på grunn av manglende formkrav eller fristoversittelse, men legger ned påstand om enten avvisning eller realitetsbehandling i oversendelsesbrevet. Hvis klageinstansen omgjør klagevedtaket delvis, vil bruker få spørsmål om vedkommende ønsker å trekke anken. Dersom bruker ikke trekker den innen fristen, anses den som opprettholdt og det som gjenstår fremstilles i et oversendelsesbrev og ankeprosessen fortsetter på vanlig måte.
+
+Ved hel eller delvis omgjøring av vedtaket eller oppheving av vedtaket etter anke, mottar bruker klageinstansens avgjørelse, som informerer om nytt realitetsvedtak eller om at det tidligere klagevedtaket er omgjort, slik at førsteinstansens vedtak er opphevet og saken sendt tilbake til ny behandling der. Bruker kan påanke det nye klagevedtaket. Dersom det besluttes å oppheve førsteinstansens vedtak, kan denne beslutningen ikke påankes ettersom dette ikke er ansett å være et vedtak om individuelle rettigheter og plikter etter trygderettsloven § 2. Krav om sakskostnader behandles etter forvaltningsloven § 36.
+
+Når merknadsfristen er ute, skriver klageinstansen et ekspedisjonsbrev der brukers eventuelle merknader kommenteres. Dette brevet oversendes til Trygderetten, sammen med oversendelsesbrevet og en sammenstilling av alle sakens dokumenter.[^195] Bruker får kopi av ekspedisjonsbrevet og frist for å sende ytterligere merknader direkte til Trygderetten innen tre uker.[^196]
+
+Både bruker og NAV Klageinstans kan anmode Trygderetten om å sette rett med fem medlemmer i de ulike dokumentene de sender inn. NAV Klageinstans gjør det som regel i ekspedisjonsbrevet. Bruker og NAV Klageinstans kan også anmode Trygderetten om å holde rettsmøte. Retten kan beslutte det hvis særlige grunner taler for det.[^197]
+
+Saksbehandlerne i klageinstansen opplyser at de som regel har liten kontakt med bruker i forbindelse med ankebehandlingen.[^198] Som oftest skjer kontakten i forbindelse med at bruker ønsker å få utsatt fristen for å komme med merknader til oversendelsesbrevet til Trygderetten. Dette gjøres som regel elektronisk via nav.no.
+
+Når det kommer inn opplysninger fra bruker i saken mens den venter på behandling i Trygderetten, får saksbehandler i NAV Klageinstans disse til uttalelse fra Trygderetten, ofte før saken er tildelt administrator der. Saksbehandlere i klageinstansen opplyser at de erfarer at opplysningene blir sendt til uttalelse i klageinstansen også når dette er opplysninger som ligger i saken fra før og som er behandlet av klageinstansen i oversendelsesbrev og/ eller ekspedisjonsbrev.
