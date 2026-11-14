@@ -1,844 +1,208 @@
-# NOU 2021: 9, del 21 av 36 (side 231–240)
+# NOU 2021: 9, del 21 av 42
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2021/a2e6ef96-nou-2021-9.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2021-9/id2862895/
 - Original-PDF: https://www.regjeringen.no/contentassets/7b8fb44f93a4402981ed7f279b345dbe/no/pdfs/nou202120210009000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 tabeller, 28 figurer, 239 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 231]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-9.4
-
-Utvalgets vurderinger
-
-Utvalget understreker at norsk arbeidsliv er preget av høy stabilitet og god evne til omstilling.
-Dette er en sentral effekt av blant annet den norske modellen. Systemet for lønnsdannelse og opprettholdelse av en sammenpresset lønnsstruktur
-bidrar til at høyproduktive sektorer ekspanderer,
-mens lavproduktive sektorer reduseres. Historisk
-sett har dette gitt mulighet for at arbeidstakere
-kan finne bedre jobber i de delene av arbeidslivet
-som vokser, samtidig som virksomhetene har
-kunnet drive effektivt og øke sin verdiskapning.
-På denne måten tjener både arbeidstakere og
-arbeidsgivere på samarbeidet. Dette er et kjernepunkt i den norske modellen i arbeidslivet, jf.
-punkt 3.3.
-Det nære samspillet mellom privat og offentlig
-sektor bidrar til verdiskapning og velferd. Offentlig
-sektor utgjør en stor del av arbeidsmarkedet og
-bidrar til innovasjon og utvikling av tjenester som
-kommer hele arbeidslivet til gode. Et eksempel på
-dette er tiltak for å styrke samspillet mellom
-utdanning, næringsliv og arbeidsliv, jf. nylige
-fremlagte stortingsmeldinger om innovasjon i
-offentlig sektor og arbeidsrelevans i utdanning.3
-Gode velferdsordninger og det offentlig finansierte sikkerhetsnettet bidrar til å bygge opp under
-et godt arbeidsliv og sikrer omstillingsevne, noe
-som gir Norge et fortrinn sammenlignet med
-mange andre land. Eksempler på dette er innretningen av dagpenge- og sykepengeordningen,
-hvor det offentlige i større grad avlaster arbeidsgivere med kostnadene enn hva som er tilfelle i
-mange andre land. Det offentlige tar også et
-ansvar for å sikre trygge rammer og sosialt sikkerhetsnett for de som jobber med en annen tilknytning enn faste ansettelser. Dette er blitt tydeliggjort gjennom de kompensasjonsordningene
-som er blitt innført i forbindelse med koronapandemien.
-Utvalget peker på den betydningen høy yrkesdeltakelse har, både for samlet verdiskapning og
-for den enkeltes muligheter for selvrealisering
-gjennom deltakelse i arbeidslivet.
-Utvalget viser til omtalen av drivkreftene som
-fører til endringer i arbeidslivet. Klimaendringer
-representerer trolig den største utfordringen verdenssamfunnet står overfor. Tiltak for å redusere
-utslipp og omstille produksjon og forbruk vil
-generelt ha en stor påvirkning på samfunnet og
-3
-
-Meld. St. 30 (2019–2020) En innovativ offentlig sektor,
-Meld. St. 16 (2020–2021) Utdanning for omstilling. Økt
-arbeidsrelevans i høyere utdanning.
-
-229
-
-Kapittel 9
-
-arbeidslivet i de kommende årene. Teknologiendringer skjer fortløpende og vil ha stor betydning for måten det arbeides på i de fleste næringer
-og yrker. Et sentralt utviklingstrekk er fremveksten av globale virksomheter med en dominerende posisjon på sine områder. Dette påvirker
-konkurransesituasjonen også på nasjonalt nivå.
-Slike utviklingstrekk fører til at virksomhetene
-stadig må endre seg og tilpasse seg til omskiftelige rammebetingelser. Selv om de fleste virksomheter fortsatt drives stedbundet, er det et nytt
-trekk ved utviklingen at teknologien muliggjør
-løsninger som i mindre grad enn tidligere krever
-fysisk og stedbunden kapital. Dette kommer blant
-annet til uttrykk gjennom den sterke veksten i
-salg av varer og tjenester over internett, gjennom
-fremvekst av ulike former for nettbaserte tjenester på tvers av landegrenser og økende bruk av
-kunstig intelligens. Teknologiske endringer påvirker i stor grad hvordan og hvor arbeid utføres. I
-noen tilfeller har IKT-løsninger allerede erstattet
-det fysiske arbeidsstedet eller den fysiske arbeidsgiveren, jf. for eksempel plattformøkonomien.
-Koronapandemien har ført til omfattende bruk
-av digitale løsninger, og flere av disse vil trolig
-innebære permanente endringer. Det må derfor
-forventes økende bruk av hjemmekontor og annet
-fjernarbeid fremover. Det kan medføre behov for
-endringer på flere plan. Temaet er på dagsordenen for trepartssamarbeidet i arbeidslivet, både
-når det gjelder styrket kunnskapsgrunnlag og
-gjennomgang av reguleringer. Utvalget ser at bruken av digitale løsninger kan gi vinn-vinn-situasjoner for arbeidstakere og arbeidsgivere. Så langt er
-det ikke tegn som tyder på at bruk av hjemmekontor og annet fjernarbeid benyttes som steg i retning av løsere tilknytningsformer i arbeidslivet,
-men det er viktig å følge med på denne utviklingen.
-Utvalget understreker at situasjonen er sammensatt. Det er usikkerhet om hva som blir de
-langsiktige konsekvensene av koronapandemien.
-Finanskrisen fikk ikke så store konsekvenser for
-Norge som for andre land. Som nevnt tyder beregninger på at automatisering og digitalisering kan
-få mindre betydning for sysselsettingen i Norge
-enn i andre land. En viktig årsak er at det allerede
-er gjennomført store omstillinger der vi ligger
-helt i front med å ta i bruk teknologiske løsninger.
-Samlet sett representerer de ytre drivkreftene
-betydelige utfordringer som kan påvirke den
-fremtidige utviklingen i norsk arbeidsliv. Klimatiltak vil måtte innebære betydelige omstillinger og
-kan ha konsekvenser for olje- og gassvirksomheten, som har skapt mange arbeidsplasser, høy
-
-[Side 232]
-
-230
-
-Kapittel 9
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-verdiskapning og betydelige samfunnsinntekter
-gjennom flere tiår.
-Dette faller sammen med en tid hvor veksten i
-inntektene på statsbudsjettet forventes å avta markert, mens veksten i utgiftene til store regelstyrte
-ordninger fortsetter å øke (jf. Perspektivmeldingen (Meld. St. 14 (2020–2021), punkt 1.7). Dessuten vil andelen eldre øke, noe som øker forsørgerbyrden. Dette fører med seg en del særskilte
-omstillingsutfordringer i norsk økonomi og på
-arbeidsmarkedet.
-Andelen arbeidstakere som er medlemmer i
-arbeidstakerorganisasjoner ligger stabilt på om
-lag 50 prosent. Andelen arbeidsgivere som er
-medlemmer i arbeidsgiverorganisasjoner har
-vært økende. I privat sektor er imidlertid andelen
-arbeidstakere som arbeider i virksomheter som er
-omfattet av tariffavtaler blitt noe lavere i de senere
-år. Som følge av et mer sammensatt arbeidsliv og
-svekket tariffavtaledekning i privat sektor kan det
-bli utfordrende å sikre fortsatt høy oppslutning
-om det organiserte arbeidslivet og dermed kan en
-risikere at noe av grunnlaget for den norske
-arbeidslivsmodellen undergraves. Mens oppslutningen om organisasjonene i arbeidslivet fortsatt
-er høy innen offentlig sektor og i industrien, er
-den betydelig lavere i tjenestenæringene i privat
-sektor. Dette er ingen ny situasjon, men når tjenestenæringene utgjør en økende andel av samlet
-sysselsetting innebærer dette større utfordringer
-for helheten i den norske arbeidslivsmodellen.
-Utvalget ser det som uheldig at kun under halvparten av arbeidstakerne i privat sektor nå er omfattet av tariffavtaler.
-Utvalget viser til at koronapandemien innebærer ekstra usikkerhet om videre utvikling i
-arbeidsmarkedet. De kortsiktige konsekvensene
-er i seg selv svært alvorlige og fører til at mange
-arbeidstakere blir permitterte eller arbeidsledige
-og at mange virksomheter må innstille eller
-begrense aktiviteten. Erfaringen fra tidligere kriser er at de også kan føre til store langsiktige konsekvenser i arbeidslivet, og at pågående endringer
-og omstillinger kan forsterkes, for eksempel når
-det gjelder å ta i bruk ny teknologi som kan
-erstatte eller endre oppgaver som tidligere er
-utført manuelt. En av virkningene av koronapandemien kan også være at det blir vanskeligere for
-enkelte å få innpass i arbeidslivet, som personer
-med lite utdanning, innvandrere mv.
-Utvalget ser det uansett som sannsynlig at teknologiendringer sammen med drivkrefter som
-globalisering, demografi og hensynet til miljø og
-klimautfordringer vil virke gjensidig forsterkende
-og kunne bidra til økt endringstakt i arbeidslivet
-
-fremover. Det er sannsynlig at arbeidsinnvandring
-og tjenestekontrakter mellom virksomheter på
-tvers av landegrenser fortsatt vil være en viktig
-faktor for å løse virksomhetenes behov for tilgang
-på arbeidskraft.
-Utvalget peker på at hvordan virksomhetene
-møter og tilpasser seg endringer i stor grad er et
-spørsmål om hvilke strategier de velger. Enkelte
-virksomheter plasserer kapitalen i egne eierselskaper mens produksjonen plasseres i rene driftsselskaper. Norwegian-saken var et eksempel på
-dette. Det er ulike vurderinger i utvalget av hvilket omfang og hvilke konsekvenser dette har i
-arbeidslivet. Mange virksomheter satser på å
-styrke arbeidstakernes kompetanse og utvikle
-produksjonen til mer avanserte varer og tjenester
-med et høyere kunnskapsinnhold. Enkelte virksomheter velger å rendyrke «kjernevirksomheten», mens spesial- og støttefunksjoner hentes inn
-gjennom entreprisekontrakter, mens andre virksomheter utvikler seg i bredden, for eksempel for
-å dekke større deler av en verdikjede, men også
-de med ulik grad av utsetting av støttefunksjoner.
-Utviklingen i retning av at flere foretak enn tidligere knytter seg sammen gjennom konsernorganisering, nettverk eller andre former for integrering må ses i sammenheng med økende internasjonalisering av næringslivet og prosesser som
-fører til modning og konsolidering innen de ulike
-bransjene. Denne utviklingen fremmer konkurransedyktige virksomheter, samtidig som det har
-konsekvenser for driften av selskapene, og dermed kan få betydning for arbeidsgivers handlingsrom og styringsmuligheter og for arbeidstakeres
-muligheter for medvirkning og medbestemmelse.
-Utvalget understreker at virksomhetenes
-behov må avveies mot arbeidstakeres behov og
-viktige samfunnshensyn. Den norske arbeidslivsmodellen representerer en finstemt balanse mellom de ulike hensynene og har gitt gevinster både
-for virksomhetene, arbeidstakerne og samfunnet.
-Det er viktig at denne balansen og tilliten mellom
-arbeidsgivere og arbeidstakere opprettholdes. En
-viktig side av dette er også at virksomhetene må
-sikres hensiktsmessige rammebetingelser slik at
-arbeidsplasser kan opprettholdes.
-En side ved internasjonaliseringen av norsk
-næringsliv er større heterogenitet både i ledelse
-og blant arbeidstakerne. I stor grad er dette positivt, men holdninger til reglene og verdiene i
-norsk arbeidsliv er ikke nødvendigvis allmenne.
-Har man bakgrunn fra en annen arbeidslivstradisjon med hensyn til dialog, organisering og samarbeid, er det ikke gitt at det er den samme forståel-
-
-[Side 233]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-sen for de elementer i den norske modellen som i
-vårt system har vist seg som en suksessfaktor.
-Utvalget legger vekt på at norsk arbeidsliv i all
-hovedsak preges av ansvarlige arbeidsgivere. Det
-store flertallet av virksomheter driver seriøst og
-ønsker å følge regelverket, og anser fornøyde og
-trygge ansatte som en viktig forutsetning for å
-lykkes med sitt oppdrag, enten det er et offentlig
-samfunnsoppdrag eller i en konkurransesituasjon
-i det private næringslivet. Virksomhetene er også
-opptatt av sitt omdømme hos kunder og brukere
-og av sitt samfunnsansvar. Ordnede og seriøse
-arbeidsforhold er en viktig del av dette.
-Utfordringer med arbeidslivskriminalitet, useriøse arbeidsforhold og forsøk på omgåelser av
-regelverk er også en del av virkelighetsbildet.
-Arbeidsmiljøloven og andre sentrale reguleringer
-gjelder likt for hele arbeidslivet. I tillegg er det
-innført særskilte reguleringer for områder med
-større utfordringer, dette gjelder for eksempel allmenngjøring av tariffavtaler på områdene hvor
-dette gjelder, jf. punkt 4.6.4. Behovet for særskilte
-reguleringer skyldes at problemene ikke er likt
-fordelt mellom næringer og bransjer. Sårbare
-arbeidstakere kan oppleve å bli utnyttet av aktører
-som er ute etter økt økonomisk vinning. Risikoen
-for at dette skjer er først og fremst til stede i de
-deler av arbeidslivet hvor organisering og tariffavtaler er mindre utbredt. Den offentlige kontrollinnsatsen er skjerpet for å bekjempe slike
-negative utviklingstrekk. De undersøkelser som
-er gjennomført tyder på at tiltak gjennom reguleringer, kontroll og tilsyn har betydning og bidrar
-til mer seriøse forhold i arbeidslivet, med likere
-konkurransevilkår mellom virksomhetene.
-Det er imidlertid mer usikkert i hvilken grad
-endringer i regelverk fører til tilpasninger eller
-omgåelser gjennom bruk av andre tilknytningsog kontraktsformer, for eksempel hvorvidt
-reglene om likebehandling av innleide har ført til
-økt bruk av entreprise/tjenestekontrakter.
-
-9.5
-
-Bruken av ulike tilknytningsformer
-
-9.5.1 Innledning
-Utvalget understreker at fast ansettelse hos en
-arbeidsgiver er arbeidsmiljølovens hovedregel og
-også den vanligste tilknytningsformen i praksis. I
-tillegg er det flere alternative måter å løse arbeidskrafts- og kompetansebehovet på. Bruken av alternative tilknytningsformer kan ha mange ulike
-årsaker, blant annet virksomhetenes behov for
-vikariater mv. i forbindelse med blant annet lovbe-
-
-231
-
-Kapittel 9
-
-stemt fravær, midlertidige behov for ekstra
-arbeidskraft, innhenting av spisskompetanse mv.
-
-9.5.2
-
-Omfanget av alternative
-tilknytningsformer
-Utvalget viser til omtalen i kapittel 5 og oppsummerer kunnskapsgrunnlaget om omfang og bruken av alternative tilknytningsformer i følgende
-hovedpunkter:
-– Over tid er det blitt færre som er midlertidig
-ansatt, fra 9–10 prosent først på 2000-tallet til i
-underkant av 8 prosent nå. Det er betydelige
-variasjoner mellom sektorer og bransjer.
-Mange av arbeidstakerne med midlertidig
-ansettelse oppnår fastere tilknytning til
-arbeidslivet etter noe tid, mens utfordringene
-er større for innvandrere og dem med lite
-utdanning eller redusert arbeidsevne/nedsatt
-funksjonsevne. Andelen midlertidig ansatte er
-lavere i Norge enn gjennomsnittet for OECDlandene.
-– Bruken av innleie fra bemanningsforetak har
-økt over tid, særlig innen byggenæringen.
-Samlet utgjør innleie av arbeidskraft fra bemanningsforetak mellom 1,5 og 2 prosent av alle
-årsverk, inkludert arbeidstakere på korttidsopphold i Norge. Bruken har endret karakter
-ved at en større andel av lønnstakerne i bemanningsbransjen er utenlandske arbeidstakere.
-Tall fra bemanningsbransjen i NHO Service og
-Handel viser at omfanget av innleie er blitt
-redusert siden 2019, med en betydelig nedgang innen byggenæringen. Også SSBs statistikk viser en viss reduksjon i sysselsettingen
-innen arbeidskrafttjenester fra 2019 til 2020.
-Men den statistikken som foreligger fanger
-ikke opp hele bildet, jf. punkt 5.5.
-– Andelen selvstendige er redusert fra i overkant
-av 7 prosent i 2001 til i overkant av 5 prosent nå,
-og er lav sammenlignet med andre land. Det
-har skjedd endringer i hvilke næringer og
-deler av arbeidslivet de selvstendige arbeider.
-De fleste er selvstendige etter eget ønske og er
-tilfredse med sin situasjon. Blant de selvstendige finner en også en liten gruppe som karakteriseres av et sterkere og mer ufrivillig avhengighetsforhold til sine oppdragsgivere.
-Unge på vei inn i arbeidslivet, eller som kombinerer utdanning og arbeid, arbeidsinnvandrere og
-personer med innvandringsbakgrunn utgjør en
-betydelig andel av dem med alternative tilknytningsformer. For en del fungerer dette som et
-steg på vei inn mot en fastere tilknytning til
-
-[Side 234]
-
-232
-
-NOU 2021: 9
-
-Kapittel 9
-
-Den norske modellen og fremtidens arbeidsliv
-
-arbeid. Ifølge blant annet SSBs levekårsundersøkelse om arbeidsmiljø er det ikke uvanlig at
-samme personer benytter flere alternative tilknytningsformer samtidig, for eksempel ved at en
-kombinerer ulike arbeidsforhold og oppdragsforhold. Dette er mindre vanlig blant fast ansatte.
-Til enhver tid er det et betydelig antall personer med en alternativ tilknytningsform. Samlet
-utgjør midlertidig ansatte, innleide og selvstendige rundt 15 prosent av de sysselsatte. For noen
-er dette en selvvalgt og ønsket tilknytning, for
-eksempel blant selvstendig næringsdrivende i
-profesjonsyrker. Undersøkelser viser imidlertid at
-flertallet blant midlertidig ansatte ønsker å oppnå
-fast ansettelse, og mange som leies ut fra bemanningsforetak ønsker å oppnå fast ansettelse i innleiebedriften. Kartlegginger viser at 40-50 prosent
-av midlertidig ansatte oppnår fast ansettelse etter
-ett år, jf. punkt 5.4.2. Mange gir uttrykk for at de
-tar sikte på å komme seg videre til annen jobb. De
-selvstendige skiller seg fra andre alternative tilknytningsformer ved at de uttrykker høyere tilfredshet med jobben og i større grad planlegger å
-bli værende i samme jobb fremover.
-
-9.5.3
-
-Implikasjoner av ulike
-tilknytningsformer
-
-Utvalget viser til at Arbeidsforskningsinstituttet
-(AFI) ved OsloMet-storbyuniversitetet etter initiativ fra utvalget har utarbeidet en rapport som samler resultater fra ulike kartlegginger om hvilke
-forskjeller en finner i situasjonen for personer
-som utfører arbeid med alternative tilknytningsformer sammenlignet med arbeidstakere med en
-fast, direkte ansettelse (Ingelsrud mfl., 2020, jf.
-nærmere omtale i punkt 5.6).
-Utvalget understreker at arbeidsmiljøundersøkelser viser at tilstanden i norsk arbeidsliv er god
-sammenlignet med andre land. Hovedbildet er at
-også de som har alternative tilknytningsformer
-jevnt over har en tilfredsstillende, og for mange
-god og ønsket, arbeidssituasjon, men det er likevel noen gjennomgående forskjeller som varierer
-med tilknytningsformen.
-Utvalget vil særskilt trekke frem følgende
-implikasjoner av alternative tilknytningsformer:
-– Midlertidig ansatte har noe lavere tilhørighet
-til jobben, og midlertidige og innleide har mindre selvbestemmelse i arbeidssituasjonen enn
-fast ansatte. Selvstendige skårer høyt når det
-gjelder jobbtilhørighet og tilfredshet.
-
-–
-
-–
-
-–
-
-–
-
-–
-
-Midlertidig ansatte og innleide arbeidstakere
-opplever ofte lavere jobbsikkerhet, har svakere
-tilknytning til arbeidsplassen og en mer passiv
-arbeidssituasjon enn fast ansatte, også når man
-sammenligner ansatte som ellers har like kjennetegn (alder, kjønn mv.). Lengre utdanning
-reduserer imidlertid noe av risikoen for at
-arbeidstakere med alternativ tilknytning opplever dårligere jobbkvalitet.
-Midlertidig ansatte og innleide har høyere
-risiko for arbeidsskader, men de er ikke mer
-utsatt for fysisk risiko sammenlignet med
-andre i samme yrke og næring.
-Midlertidig ansatte og innleide har lavere inntekter enn fast ansatte, mens selvstendige i
-gjennomsnitt tjener mer enn fast ansatte
-arbeidstakere.
-Det er markant lavere organisasjonsgrad blant
-dem med alternative tilknytningsformer. Forskjellen mellom fast ansatte og midlertidig
-ansatte var 29 prosentpoeng i offentlig sektor
-og 18 i privat sektor. Samlet sett er det få innleide og selvstendige som er organisert.
-Det er færre av de midlertidig ansatte og innleide som har eller kjenner til at det er kollektive ordninger som verneombud og arbeidsmiljøutvalg (AMU) på arbeidsplassen sin, enn av
-de fast ansatte.
-
-Personer med alternative tilknytningsformer opplever større uforutsigbarhet og høyere risiko for
-endringer i arbeidssituasjonen. Svar i YS Arbeidslivsbarometer 2020 viser at endringer som oppstod i arbeidslivet som følge av koronapandemien
-hadde mer alvorlige konsekvenser for selvstendige, innleide, ekstrahjelper, ansatte i uønsket deltid og midlertidige enn for de med fast ansettelse.
-På den andre siden ble det i deler av offentlig sektor, særlig i helse- og omsorgssektoren et større
-behov for arbeidskraften til både deltidsansatte og
-midlertidig ansatte.
-Kartlegginger blant de som utfører arbeid
-gjennom digitale plattformer viser mange likhetstrekk med andre former for alternative tilknytningsformer, blant annet når det gjelder lønn,
-arbeidstid, medvirkning, kompetanseutvikling og
-sosiale rettigheter. De som utfører arbeid gjennom digitale plattformer, opplever særlig risiko
-for å ha en uklar status i arbeidsmarkedet. Majoriteten opplever seg selv som arbeidstakere, mens
-de fleste plattformene definerer dem som oppdragstakere (jf. Brancati mfl., 2019; Jesnes og
-Oppegaard, 2020).
-
-[Side 235]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-9.5.4
-
-Utvalgets vurderinger av bruken av
-ulike tilknytningsformer
-
-Utvalget understreker at bruken av faste ansettelser har vært en grunnleggende del av interessefellesskapet rundt den norske arbeidslivsmodellen, jf. kapittel 3. Det vanligste har vært, og fortsatt er, at virksomhetene benytter alternative tilknytningsformer som et unntak fra hovedregelen.
-Dette kan være for å løse avgrensede utfordringer, for eksempel ved midlertidige ansettelser i
-vikariater og ved at virksomheter i ulik konjunktursituasjon kan leie arbeidskraft av hverandre for
-et begrenset tidsrom eller ved innleie fra bemanningsforetak for å løse konkrete oppgaver. Omfanget av selvstendige har vært lavere i Norge enn i
-de fleste andre land. Selvstendige arbeider i
-hovedsak innen næringer og yrker hvor det har
-vært tradisjon for å organisere sin egen virksomhet, som i primærnæringene, kulturlivet og i profesjonsbaserte yrker som for eksempel advokat,
-lege og tannlege.
-Utvalget mener det er naturlig at hovedregelen
-om faste ansettelser er blitt supplert av muligheter for å kunne benytte alternative tilknytningsformer for å løse avgrensede utfordringer. Det problematiske er dersom andre tilknytningsformer
-på permanent grunnlag erstatter bruk av fast
-ansatte. Utvalget understreker at også alternative
-tilknytningsformer kan innebære en tilfredsstillende, og for mange god og ønsket, arbeidssituasjon, men at det likevel er noen forskjeller i
-arbeidsforholdene som kan oppstå på grunn av
-selve tilknytningsformen.
-Utvalget peker på at det er ulike situasjoner og
-ulike problemstillinger når det gjelder bruken av
-alternative tilknytningsformer i arbeidslivet. I
-offentlig sektor benyttes midlertidige ansettelser i
-stor grad ved vikariater, og vil for mange innebære gode muligheter til å gå over til fast ansettelse etter noe tid. Universitets- og høyskolesektoren skiller seg ut med en vesentlig høyere andel
-midlertidige ansatte enn i arbeidslivet for øvrig.
-Utvalget går nærmere inn på dette temaet i kapittel 12. Uavhengig av hvilken sektor en arbeider i,
-mener utvalget det er uheldig for arbeidstakere å
-oppleve gjentatte perioder med midlertidighet,
-med den usikkerhet det kan innebære for inntekter, etableringsmuligheter mv.
-Mange i norsk arbeidsliv har erfart gode
-muligheter for å komme over i en fastere tilknytning til arbeid i løpet av få år. For enkelte vil veien
-inn til en fast ansettelse kunne gå gjennom for
-eksempel et vikariat. De kartlegginger som er
-gjort viser at 40–50 prosent av midlertidig ansatte
-
-233
-
-Kapittel 9
-
-oppnår fast ansettelse i løpet av ett år, men at dette
-i mindre grad gjelder for personer i grupper med
-svakere tilknytning til arbeidsmarkedet, som for
-eksempel personer med nedsatt funksjonsevne og
-innvandrere. Det gjennomføres for øvrig ulike
-satsninger for å legge til rette for at personer med
-en slik svakere tilknytning kan komme inn i
-arbeidslivet.
-De selvstendige er i en annen situasjon. For
-mange vil det å være selvstendig være et eget valg
-for deler av eller hele yrkeskarrieren. Utvalget ser
-det som viktig å legge til rette for at de som arbeider som selvstendige har gode rammebetingelser
-for sitt arbeid, og gis muligheter for å skape nye
-arbeidsplasser for seg selv og andre. Utfordringen
-er først hvor en oppdragsgiver ensidig definerer
-arbeidstakere som selvstendige. Slike omgåelser
-er ikke ønskelig og kan bidra til å undergrave
-hovedregelen om faste ansettelser.
-Utvalget er opptatt av mulige omgåelser av
-regelverket, og gråsoneutfordringer hvor klassifiseringen kan være vanskelig. Grensen mellom
-arbeidstaker og oppdragstaker, og grensen mellom innleie og entreprise er eksempler på sistnevnte.
-Et flertall i utvalget, medlemmene Fougner,
-Dahle, Kastet, Olsen, Salvanes, Stokland, Sverdrup
-Svendsen og Tinnlund, mener at dersom arbeidstakere over lengre tid har en alternativ tilknytningsform, som ikke er i tråd med forutsetningene for
-bruken av den enkelte tilknytningsform, kan dette
-bidra til at det oppstår en sterkere todeling av
-arbeidsmarkedet. Dessuten kan det svekke sentrale elementer i den norske modellen og føre til
-svekket medvirkning og samarbeid i arbeidslivet,
-lavere organisasjonsgrad, lavlønnspress og på lengre sikt lavere omstillingsevne.
-Flertallet vurderer det som særlig viktig å vurdere tiltak for å unngå at ulike former for ansettelser og virksomhetsorganisering undergraver
-hovedregelen om faste ansettelser og den tradisjonelle bruken av alternative tilknytningsformer
-som et supplement til denne i avgrensede situasjoner.
-Et mindretall i utvalget, medlemmene Almestrand, Brandshaug Dale, Juliussen og Spjelkavik,
-understreker at partene har en felles interesse i å
-hegne om den norske modellen. Når det gjelder
-vurdering av behovet for nye, generelle tiltak, har
-det for disse medlemmer sentral betydning at
-Norge er et av landene som har den strengeste
-reguleringen av adgangen til midlertidig ansettelse og andre kortvarige tilknytningsformer, også
-blant de nordiske landene. Kunnskapsgrunnlaget
-
-[Side 236]
-
-234
-
-NOU 2021: 9
-
-Kapittel 9
-
-Den norske modellen og fremtidens arbeidsliv
-
-viser at det er stor stabilitet i norsk arbeidsliv med
-hensyn til bruken av ulike tilknytningsformer.
-
-9.6
-
-Vurdering av endringsbehov
-
-9.6.1 Generell vurdering
-Utvalget viser til at den norske arbeidslivsmodellen har bidratt til gode arbeidsforhold for de aller
-fleste. Systemet for lønnsdannelse og det brede
-samarbeidet mellom arbeidstakere og arbeidsgivere har bidratt til å fremme omstilling og overgang til høyproduktive næringer. I Norge har vi
-lykkes med å kombinere trygghet for arbeidstakere gjennom faste ansettelser i relativt godt
-betalte jobber med muligheter for fleksibilitet og
-omstilling for virksomhetene. Dette har lagt til
-rette for investeringer i ny teknologi og stadige
-effektiviseringer og forbedringer i oppgaveløsningen slik at virksomhetene har kunnet være internasjonalt konkurransedyktige tross et høyt nasjonalt kostnadsnivå. Virksomhetene har kunnet
-hente inn arbeidskraft utenfra i begrensede perioder for å kunne gjennomføre topper i produksjonen. Fra norsk arbeidsliv er det mange eksempler
-på at godt fungerende ordninger for medvirkning
-fra arbeidstakerne og nært samspill mellom
-ledelse og de tillitsvalgte bidrar til å fremme utvikling og vekst i virksomhetene. Det norske arbeidslivet er sammensatt og virksomhetenes behov for
-fleksibilitet vil variere mye mellom ulike næringer
-og sektorer. Motiverte og kvalifiserte arbeidstakere er uansett et fortrinn. Et godt samspill mellom arbeidsgivere og arbeidstakere har stor
-betydning for arbeidsmiljø og trivsel, men også
-for å kunne nyttiggjøre seg utviklingsmuligheter
-og virksomhetenes konkurransesituasjon.
-Utvalget viser til at en av de største endringene
-i norsk arbeidsliv de siste tiårene har vært den
-omfattende arbeidsinnvandringen fra nye EUland, som har medført økt tilgang på arbeidstakere til lavinntektsjobber. Dette har økt kapasiteten betydelig blant annet innen næringer som
-industri og bygg, og dermed hatt stor positiv
-betydning for virksomhetene og verdiskapningen
-i samfunnet. Mange utenlandske arbeidstakere
-formidles gjennom bemanningsforetak eller underentreprenører som tildeles oppdrag gjennom
-entreprisekontrakter, men mange ansettes også
-direkte i virksomhetene. Et arbeidsmarked med
-flere aktører og økt innslag av utenlandske
-arbeidstakere og virksomheter har også medført
-økt aktivitet fra aktører som driver i strid med
-lover og regler. Dette er blitt møtt med nye lovreguleringer og intensiverte kontrolltiltak. Økende
-
-lavlønnskonkurranse er blitt møtt med tiltak som
-allmenngjøring av lønns- og arbeidsvilkår i tariffavtaler. Tiltak for å sikre seriøse arbeidsvilkår og
-bekjempelse av arbeidslivskriminalitet er nødvendig for at vi skal kunne videreføre de fortrinn vi
-har i norsk arbeidsliv. Brudd på, og manglende
-respekt for, regelverk representerer en undergraving av den gjensidige tilliten som preger norsk
-arbeidsliv. Omgåelser er gjerne motivert av økonomiske hensyn og kan innebære forsøk på å
-komme utenom arbeidsgiveransvar. Utvalget
-peker på betydningen av at myndighetenes kontroll- og tilsynsinnsats fungerer effektivt for å slå
-ned regelverksbrudd og utnyttelse av arbeidstakere. For utvalget er det en sentral målsetting i
-størst mulig grad å begrense muligheter for slike
-omgåelser. Utvalget vil komme tilbake til slike
-vurderinger i forbindelse med de enkelte tiltakene
-som vurderes i innstillingen. Utvalget ser det som
-uheldig dersom modeller for organisering av virksomheter basert på lavlønnskonkurranse og løs
-tilknytning av arbeidskraft skulle få fotfeste i
-norsk arbeidsliv. Hovedbildet viser høy stabilitet
-og gode arbeidsforhold for de fleste, men det
-avdekkes også tilfeller av underbetaling av
-arbeidstakere, systematiske omgåelser og regelverksbrudd for å oppnå økte økonomiske gevinster.
-Utvalget mener det er av avgjørende betydning
-å unngå en eventuell utvikling i retning av et mer
-todelt arbeidsliv, der majoriteten vil befinne seg
-innenfor den norske modellen, men der en etter
-hvert økende andel vil befinne seg utenfor det
-organiserte arbeidslivet. I sluttrapporten fra prosjektet «The Future of Work – Opportunities and
-challenges for the Nordic models» pekes det på
-risikoen for å gå i retning av et 4/5-samfunn, der
-1/5 blir stående utenfor eller med en løs tilknytning til det etablerte arbeidslivet (Alsos og Dølvik,
-2021). Det er særlig noen utviklingstrekk, først og
-fremst når det gjelder teknologiendringer, som
-legger, og i økende grad kan legge, til rette for
-andre former for organisering av virksomhet, med
-økt press på bruk av alternative tilknytningsformer. Digitaliseringen innebærer at mange
-arbeidsoppgaver kan gjennomføres nærmest hvor
-som helst, og har potensial til å endre tradisjonelle
-produksjonskjeder og å bryte disse opp i mindre
-deler som en oppdragsgiver kan sette sammen
-etter egne behov. De nye mulighetene som dette
-innebærer kan medføre økt risiko for at bruken av
-faste ansettelser reduseres og at andre tilknytningsformer benyttes i sterkere grad. I den voksende tjenestesektoren er omfanget av organise-
-
-[Side 237]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-ring og tariffavtaler lavere enn i andre deler av
-arbeidslivet.
-Det organiserte arbeidslivet bidrar til å skape
-samarbeidsrelasjoner og binder arbeidstakere og
-arbeidsgivere sammen gjennom tariffavtalene.
-Legitimiteten til den norske lønnsdannelsesmodellen hviler dessuten på representative organisasjoner og høy tariffavtaledekning. Det er således
-en utvikling det er grunn til å være oppmerksom
-på når under halvparten av arbeidstakerne i privat
-sektor nå er omfattet av tariffavtaler. En svekkelse
-av det organiserte arbeidslivet kan også bidra til å
-svekke noen av de fortrinn vi har hatt i norsk
-arbeidsliv sammenlignet med andre land.
-Utvalget viser til at omstillinger og økonomiske nedgangsperioder har ført til betydelig tilbakegang for det organiserte arbeidslivet i en
-rekke europeiske land, og at mange har svart på
-kriser og omstillingsutfordringer med å gi større
-åpning for alternative tilknytningsformer. En konsekvens ser ut til å være enda større forskjeller og
-økende todeling av arbeidslivet. Utvalget viser til
-at dette imidlertid ikke har vært måten kriser er
-blitt svart på i Norge, og at det er viktig å unngå
-en slik utvikling fremover også.
-
-9.6.2 Fremtidig kunnskapsbehov
-I mandatet nevnes det at utvalget kan peke på
-områder hvor det er behov for videre forskning og
-utredning. Utvalget mener det foreliggende kunnskapsgrunnlaget gir et tilfredsstillende grunnlag
-for å vurdere hovedtrekkene i bruken av ulike tilknytningsformer. Det har vært noe mer krevende
-å sammenfatte situasjonsbeskrivelse og utviklingstrekk når det gjelder virksomhetsorganisering. Trolig skyldes dette at temaet er komplekst
-og at det må samles informasjon fra ulike datakilder. Utvalget har selv tatt initiativ til en kartlegging av entreprise som kontraktsform. For å følge
-utviklingen over tid vil det være behov for systematisk oppfølging av dette og andre sentrale tema
-som gjelder hvordan virksomheter organiseres og
-samhandler med andre. Dette har også stor betydning for utviklingen i arbeidslivet.
-Utvalget vil anbefale at det settes i gang et mer
-systematisk arbeid for å dokumentere utviklingstrekk i nærings- og arbeidslivet som kan ha
-konsekvenser for utøvelse av ansvar som arbeidsgiver og oppdragsgiver, og peker på at det kan
-ligge godt til rette for å gjøre dette i et samarbeid
-mellom myndighetene, blant annet Statistisk sentralbyrå, og partene i arbeidslivet.
-Utvalget understreker betydningen av at myndighetene og partene i arbeidslivet har et kontinu-
-
-235
-
-Kapittel 9
-
-erlig samarbeid om kunnskapsutvikling om
-arbeidslivet. I senere år er det gjennomført flere
-kartleggingsprosjekter for å vurdere utviklingen i
-bruken av alternative tilknytningsformer. Samarbeidet om slike prosjekter bør videreføres og
-eksisterende rapportering fra virksomhetene til
-offentlige myndigheter, blant annet gjennom aordningen og andre rapporteringsplikter, bør
-benyttes som grunnlag for å utarbeide samlet statistikk fra hele arbeidslivet. Utvalget peker på at
-tallgrunnlaget om innleie av arbeidskraft ikke er
-tilfredsstillende og anbefaler at det prioriteres tiltak for å styrke en helhetlig og løpende statistikk
-på dette området.
-Det vil ta tid å komme over virkningene av
-koronapandemien. Erfaringer fra tidligere kriser
-er at mange er forsiktige med å ta på seg nye faste
-kostnader i den første opphentingsperioden. Sverige opplevde en kraftig økning i bruken av midlertidige ansettelser etter de økonomiske kriseårene på starten av 1990-tallet. Også Danmark og
-Finland fikk en oppblomstring i bruken av alternative og kortvarige tilknytningsformer etter finanskrisen, mens Norge ikke fikk en slik utvikling.
-Det kan være grunn til å være oppmerksomme på
-utviklingen i norsk arbeidsliv de nærmeste årene,
-særlig med tanke på at unge, de med lite utdanning og innvandrere er de som allerede er blitt
-rammet hardest av pandemiens virkninger i
-arbeidsmarkedet.
-
-9.6.3 Videreutvikle den norske modellen
-Utvalgets vurderinger av endringsbehov bygger
-på beskrivelsene av utviklingstrekk og tilstand, og
-de grunnleggende hensynene og målsettingene
-for arbeidslivet som er beskrevet i kapittel 3.
-Utvalgets mandat favner vidt. Det har derfor vært
-nødvendig å gjøre noen prioriteringer med hensyn til hvilke problemstillinger utvalget går nærmere inn i. Dette er gjort med utgangspunkt i
-utvalgets samlede vurdering av hvordan utfordringsbildet ser ut i lys av det foreliggende kunnskapsgrunnlaget. Det er også tatt hensyn til andre
-pågående prosesser og utvalg. Dette innebærer at
-det er problemstillinger og temaer utvalget ikke
-kommer til å gå nærmere inn på. Nedenfor gis en
-overordnet vurdering av utfordringsbildet og
-hvilke deler av rammeverket for tilknytningsformer som derfor bør vurderes.
-Det har vært en stabil bruk av ulike tilknytningsformer. Samtidig er det høy endringstakt i
-arbeidslivet, blant annet målt i omfanget av jobbskifter. Det gjelder både i offentlig og privat sektor. Ny teknologi bidrar til å endre innholdet i
-
-[Side 238]
-
-236
-
-NOU 2021: 9
-
-Kapittel 9
-
-Den norske modellen og fremtidens arbeidsliv
-
-mange jobber, kompetansekravene for arbeidstakere øker og virksomhetene endrer organisering
-av oppgaver og arbeid, eller sine forretningsmodeller.
-Utvalget mener dette kan medføre behov for å
-vurdere utviklingen og hvorvidt reguleringene tar
-høyde for endringer og nyvinninger.
-Utvalget viser til Sysselsettingsutvalgets konklusjoner, jf. NOU 2021: 2, punkt 3.6:
-Den norske modellen må kontinuerlig vurderes, utvikles og styrkes for å møte framtidige
-utfordringer. Modellen er avhengig av bred
-oppslutning i befolkningen, høy organisasjonsgrad, og at det er bred enighet om at modellen
-fungerer godt. Det krever at den evner å håndtere eksisterende og nye utfordringer på en
-hensiktsmessig måte.
-Utvalget legger til grunn at den norske modellen
-skal styrkes og videreutvikles. Som omtalt tidligere har den bidratt til å fremme produktivitet,
-verdiskapning, kompetanse og omstillingsevne i
-samfunnet samtidig som lønns- og arbeidsvilkårene for arbeidstakerne er blitt forbedret. Samfunnet har på den ene siden overlatt mye ansvar til
-partene i arbeidslivet, som de har ivaretatt på en
-ansvarlig og helhetlig måte. På den andre siden
-har samfunnet tatt ansvar for utbygging av velferdsordninger i bred forstand som har bidratt til
-sosial sikkerhet og mindre forskjeller enn det en
-kan finne i mange andre land.
-Utvalget viser til at arbeidslivet i Norge i større
-grad enn andre land preges av faste ansettelser og
-at omfanget av alternative tilknytningsformer
-samlet sett har vært mindre enn i mange andre
-land. Det er naturlig å gå ut fra at ulikhetene i
-arbeidslivet, og dermed i samfunnet, er blitt mindre hos oss enn i de fleste andre land som følge av
-de mekanismene som samlet utgjør den norske
-modellen, hvor samarbeid og medvirkning står
-sentralt. Det er viktig at reguleringene av arbeidslivet fortsatt legger til rette for å bruke faste ansettelser i størst mulig grad. Det er også viktig å
-bygge videre på et organisert arbeidsliv og den
-balansen mellom lov- og avtaleregulering som
-med stort hell er gjennomført i vårt arbeidsliv.
-Utvalget er i hovedsak enige om beskrivelsene
-av utviklingstrekk i arbeidslivet og hvilke utfordringer det er viktig å være oppmerksomme på
-for å hindre en uønsket svekkelse av den norske
-modellen og de kvaliteter som preger arbeidslivet
-i dag. I utvalget er det imidlertid ulike syn på i
-hvilken grad dette utløser behov for endringer i
-
-rammeverket. Disse vurderingene kommer frem i
-kapitlene 10–15.
-
-9.6.4
-
-Behov for å vurdere endringer
-i rammeverket
-På bakgrunn av mandatet og i lys av det kunnskapsgrunnlaget utvalget har redegjort for over,
-vil utvalget vurdere særlig følgende temaer og
-regler:
-Utvalget mener arbeidslivsreguleringene må
-ivareta grunnleggende vernebehov for de som
-trenger det. Et sentralt spørsmål er hvem som bør
-omfattes av arbeidstakerbegrepet. De som har sin
-egen arbeidskraft som den vesentlige innsatsfaktoren kan ha større behov for vern som arbeidstakere enn de som er selvstendige med utgangspunkt i for eksempel en profesjonskompetanse
-som lege, advokat eller med en yrkesfaglig bakgrunn og kompetanse. Etter utvalgets syn er det
-behov for en gjennomgang av arbeidstakerbegrepet i arbeidsmiljøloven, blant annet for å vurdere
-om begrepet er hensiktsmessig regulert og tilpasningsdyktig også for fremtiden. Dette behandles i
-kapittel 10 nedenfor.
-Utvalget viser til at et tema som henger nært
-sammen med drøftingen av arbeidstakerbegrepet
-er mulighetene til å delta i det kollektive arbeidslivet, herunder muligheten for kollektiv forhandling av vederlag og arbeidsvilkår også for selvstendige. OECD har overfor utvalget pekt på dette
-som et fleksibelt instrument for å kunne inngå
-nærmere avtaler om rettigheter og plikter, og at
-dette i noen situasjoner kan være mer effektivt
-enn at den enkelte må gå rettens vei for eventuelt
-å kunne få avklart at en har krav på rettigheter
-som arbeidstaker. Utvalget viser til pågående
-arbeid i EU med å avklare konkurranseregelverket slik at selvstendige som har behov for det kan
-inngå kollektive avtaler uten å komme i konflikt
-med kartellforbudet. Også dette temaet blir nærmere omtalt i kapittel 10.
-I mandatet nevnes det at utvalget kan vurdere
-hvorvidt arbeidsmiljølovens arbeidsgiverbegrep
-er tilstrekkelig tydelig og hensiktsmessig, særlig
-med tanke på den som har reell styring og beslutningsmyndighet når det gjelder arbeidsgivers
-virksomhet. Problemstillingen gjelder særlig
-hvem som har arbeidsgiveransvar i situasjoner
-hvor avgjørelser tas av andre enn den som etter
-arbeidsavtalen er arbeidsgiver, og utvalget vil særlig vurdere arbeidsgiveransvar i konsern. Arbeidsgiverbegrepet og arbeidsgiveransvar blir behandlet i kapittel 11.
-
-[Side 239]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-Regler og vilkår for fast og midlertidig ansettelse har vært gjenstand for diskusjon og
-endringer flere ganger de senere år. Rammeverket for midlertidige ansettelser er sentralt for
-temaet som utvalget er bedt om å vurdere, og
-utvalget går nærmere inn på enkelte spørsmål
-som gjelder regelverket for midlertidig ansettelse.
-Dette behandles i kapittel 12.
-På samme måte som regler om fast og midlertidig ansettelse, er også innleie fra bemanningsforetak en tilknytningsform som har vært gjenstand for diskusjon og lovendringer de senere år.
-Et tema som særlig er blitt aktualisert etter Norwegian-saken, er grensen mellom innleie og
-entreprise. Utvalget mener det er behov for å se
-nærmere på grensen mellom innleie og entreprise
-og hvorvidt denne bør tydeliggjøres. Dette
-behandles i kapittel 13. Her vurderer utvalget
-også hvorvidt enkelte entreprisemodeller kan
-utfordre lovens formål om å sikre trygge ansettelsesforhold.
-Rammene for arbeidsmiljø, medvirkning og
-samarbeid utgjør sentrale elementer i den norske
-
-237
-
-Kapittel 9
-
-arbeidslivsmodellen. Valg av organisasjons- og tilknytningsform kan få direkte betydning for
-grunnleggende rettigheter i arbeidslivet, slik som
-lokal medvirkning og samarbeid, stillingsvern og
-HMS. De kartlegginger som er gjort viser at det
-er en del forskjeller etter tilknytningsform når det
-gjelder arbeidsmiljøforhold og arbeidstakeres
-muligheter for medvirkning. Behovet for tiltak på
-dette området vurderes nærmere i kapittel 14.
-Arbeidstakere, arbeidsgivere og myndigheter
-har en felles interesse av å bekjempe omgåelser
-og brudd på regelverket som rammer sårbare
-arbeidstakere, og som fører til konkurransevridning for virksomhetene og unndragelse av plikter
-som innbetaling av skatt mv. overfor det offentlige. Muligheter for omgåelser svekker respekten
-for regelverket generelt og representerer en kilde
-til arbeidslivskriminalitet. Behovet for lovfesting
-av en gjennomskjæringsregel eller omgåelsesnorm vurderes i kapittel 15.
-
-[Side 240]
-
-238
-
-NOU 2021: 9
-
-Kapittel 10
-
-Den norske modellen og fremtidens arbeidsliv
-
-Kapittel 10
-
-Arbeidstakerbegrepet og grensen mot selvstendige
-oppdragstakere
-10.1 Innledning
-Arbeidsmiljølovens arbeidstakerbegrep og dets
-avgrensning er avgjørende for om loven kommer
-til anvendelse, og derved hvem som er omfattet av
-vernet. Det samme gjelder andre lover på arbeidsrettens område, for eksempel ferieloven og
-arbeidstvistloven. Om man klassifiseres som
-arbeidstaker eller selvstendig oppdragstaker har
-stor betydning for hvilke regler som gjelder og
-hvilke rettigheter og plikter man har. Klassifisering og arbeidstakerstatus kan også ha betydning
-for ulike rettigheter og plikter etter annet regelverk. Utvalget viser til beskrivelsen av rettigheter
-for henholdsvis arbeidstakere og selvstendige
-oppdragstakere i kapittel 8.
-I utvalgets mandat er det nevnt at det eksempelvis kan være aktuelt å vurdere grenseoppgangene mellom ulike tilknytningsformer, og om
-begrepene, herunder arbeidstakerbegrepet, er
-tydelige og hensiktsmessige og omfatter de grupper det er ønskelig at de skal omfatte. Utvalgets
-mandat viser særlig til at det kan vurderes hvilken
-betydning og konsekvenser ulike tilknytningsformer har, med hensyn til rettigheter knyttet til
-medvirkning og samarbeid, stillingsvern og HMS.
-Dette er rettigheter som er regulert i arbeidsmiljøloven, og følgelig vil arbeidsmiljølovens arbeidstakerbegrep være det mest sentrale for utvalget å
-vurdere.
-Viktige spørsmål for utvalget har vært å identifisere om og hva eventuelle utfordringer består av
-for norsk arbeidsliv når det gjelder arbeidstakerstatus, og om det er grunnlag for å si hva som kan
-forventes fremover. Et sentralt spørsmål for utvalget har vært om det er behov for endring av
-arbeidstakerbegrepet blant annet for å forhindre
-omgåelser og feilklassifisering, samt minimere
-tvilstilfeller. Bakgrunnen er at det alltid vil og bør
-være noen grunnleggende forskjeller i regelverk
-og rettigheter mellom de som er arbeidstakere og
-de som er selvstendige oppdragstakere.
-
-Noen oppdragstakere kan ha flere likhetstrekk med arbeidstakere, for eksempel at oppdragsforholdet innehar noen av de tradisjonelle
-kjennetegnene på arbeidsforhold, men ikke alle.
-Dette omtales gjerne som at de befinner seg i en
-«gråsone» mellom å være selvstendig oppdragstaker og arbeidstaker. I gråsonen er ikke forskjellene mellom en arbeidstaker og en oppdragstaker
-nødvendigvis så store, men konsekvensene av å
-havne på den ene eller den andre siden av streken, er betydelige. Det å være arbeidstaker gir
-flere rettigheter og større trygghet. Det å være
-selvstendig oppdragstaker er et valg som innebærer muligheter for økt frihet og høyere fortjeneste, men også høyere risiko. Dette henger
-sammen. En mulig utfordring kan oppstå hvis
-grensene blir uklare. I gråsonene kan de tradisjonelle momentene peke i begge retninger og dermed skape usikkerhet rundt klassifiseringen. Nye
-arbeidsformer og teknologiske løsninger kan
-dessuten innebære at de tradisjonelle kjennetegnene ved arbeidsforhold ikke lenger passer så
-godt eller er mindre egnet til å trekke grensene,
-uten at det nødvendigvis tilsier et mindre vernebehov. Et vurderingstema for utvalget har vært om
-gjeldende arbeidstakerbegrep fanger opp de som
-trenger eller bør ha arbeidstakervern, eller om
-endringer og utviklingstrekk har ført til, eller vil
-kunne føre til, at flere havner i gråsonen med usikker status.
-Gjeldende arbeidstakerbegrep er funksjonelt,
-og klassifisering avgjøres gjennom en formålsorientert helhetsvurdering ved hjelp av forarbeidsog domstolsskapte kriterier, jf. punkt 8.1. Grensetilfeller og tolkningstvil kan bringes inn for domstolene. Vurderingstema for utvalget har vært om
-gjeldende arbeidstakerbegrep er enkelt nok å
-anvende i praksis, om det er hensiktsmessig utformet for å hindre feilklassifisering, omgåelse og/
-eller tvist, og om gjeldende håndhevingsmekanismer er hensiktsmessige.
+## Regler ved tjenestekjøp fra selvstendig oppdragstakere og andre virksomheter (entreprise)
+
+### Innledning og begreper
+
+Med tjenestekjøp menes at en virksomhet (oppdragsgiver) kjøper tjenester fra en annen (oppdragstaker). Dette kan være tjenestekjøp fra selvstendige oppdragstakere eller fra andre virksomheter med egne ansatte. Sistnevnte benevnes gjerne som entreprise.
+
+Slike oppdrag kan utføres enten på oppdragsgivers område eller arbeidsplass («on site»), eller utenfor oppdragsgivers område, typisk i oppdragstakers egne lokaler («off site»). Ulike regler kan gjelde om det er på eller utenfor oppdragsgivers område, jf. nedenfor.
+
+En endring fra å utføre arbeid selv til å kjøpe inn samme tjeneste, omtales gjerne som *outsourcing* eller utsetting av arbeid. I mange tilfeller vil outsoucing til en annen virksomhet med egne ansatte også innebære en *virksomhetsoverdragelse*, som i så fall utløser en rekke rettigheter for arbeidstakerne, jf. arbeidsmiljøloven kapittel 16. Utsetting av arbeid til oppdragstakere stiller dessuten strengere krav til oppsigelse dersom det i forbindelse med utsettingen oppstår overtallighet og behov for oppsigelser hos oppdragsgiver, jf. nedenfor.
+
+### Selvstendig oppdragstaker i arbeidsmiljøloven
+
+Begrepet selvstendig oppdragstaker er ikke definert i arbeidsmiljøloven, men begrepet eller lignende begreper går igjen i flere bestemmelser. Begrepsbruken er imidlertid ikke konsekvent. Både «selvstendig», «selvstendig næringsdrivende» og «selvstendig oppdragstaker» benyttes.
+
+I arbeidsmiljøloven § 2-2 benyttes begrepet «selvstendige». Bestemmelsen regulerer arbeidsgivers plikter når det gjelder HMS for andre enn egne arbeidstakere. I Ot.prp. nr. 49 (2004–2005) side 304 gis det følgende beskrivelse av hva som menes med selvstendige:
+
+Med selvstendige menes her personer som utøver sin yrkesaktivitet uten et ansettelsesforhold av noen art og uten å være underordnet en tredjeperson. Dette er samme innhold som legges til grunn i EUs henstilling om å forbedre helse og sikkerhet for selvstendige. Begrepet «selvstendige» omfatter således både enmannsbedrifter/-foretak og selvstendige oppdragstakere.
+
+Begrepet brukes også i arbeidsmiljøloven kapittel 13 som regulerer vern mot diskriminering, hvor det heter at reglene «gjelder tilsvarende for arbeidsgivers valg og behandling av *selvstendig næringsdrivende* og innleide arbeidstakere», jf. § 13-2 andre ledd. I forarbeidene til bestemmelsen beskrives ikke nærmere hva som menes med selvstendig næringsdrivende. Det vises imidlertid til at «arbeidsmiljøloven avgrenser i dag mot selvstendig næringsdrivende», hvilket kan indikere en henvisning til lovens virkeområde og avgrensningen mot oppdragstaker, jf. § 1-2, jf. § 1-8 første ledd. Begrepet omtales dessuten også som «selvstendig næringsdrivende oppdragstakere», jf. Ot.prp. nr. 104 (2002–2003) side 25. Bestemmelsen kan neppe forstås slik at den kun omfatter selvstendig næringsdrivende slik dette begrepet for eksempel er definert i folketrygdloven, jf. nedenfor. Det er naturlig å anta at også andre typer selvstendige oppdragstakere som faller utenfor arbeidsmiljøloven, for eksempel frilansere, er beskyttet av diskrimineringsvernet i kapittel 13.
+
+I arbeidsmiljøloven § 15-7 tredje ledd finnes en tredje formulering. Bestemmelsen regulerer arbeidstakers oppsigelsesvern når oppsigelsen skyldes at virksomhetens drift settes ut «på oppdrag ved bruk av *selvstendige oppdragstakere*». I merknaden til lovteksten i Ot.prp. nr. 49 (2004–2005) står det at «begrepet «selvstendige oppdragstakere» retter seg mot personer som er selvstendige næringsdrivende (uten egne ansatte) eller andre selvstendige oppdragstakere».
+
+Selv om det benyttes ulike begreper i arbeidsmiljøloven, er det med bakgrunn i forarbeidsuttalelsene grunn til å anta at alle de nevnte bestemmelsene omfatter samme personkrets. Det vil si enkeltpersoner som uten egne ansatte utfører arbeid i oppdrag for en virksomhet uten å være arbeidstaker i relasjon til arbeidsmiljøloven § 1-8 første ledd.
+
+Utgangspunktet er at arbeidsmiljøloven ikke gjelder for selvstendige oppdragstakere. Kontraktsforholdet mellom oppdragsgiver (virksomheten) og den selvstendige oppdragstakeren reguleres gjennom kontrakt og alminnelige avtale- og kontraktsrettslige prinsipper. Dette innebærer for eksempel at arbeidsmiljølovens regler om stillingsvern, arbeidstid og medvirkning ikke kommer til anvendelse på en selvstendig oppdragstaker. En selvstendig oppdragstaker må dermed som utgangspunkt selv sørge for å forhandle fram sine kontraktsvilkår, og selv sørge for å arbeide under forsvarlige arbeidsforhold. Det er likevel enkelte bestemmelser i arbeidsmiljøloven som gjelder for selvstendige oppdragstakere. For det første vil arbeidsgivers HMS-ansvar for andre enn egne arbeidstakere som følger av § 2-2, gjelde for selvstendige oppdragstakere dersom arbeidet utføres i tilknytning til arbeidsgivers aktivitet eller innretning. Det vises til omtale ovenfor i punkt 8.2.5. Det vises likevel til NOU 2017: 4 (Delingsøkonomiutvalget) punkt 5.2.4.2, hvor det fremholdes at:
+
+Det knytter seg en viss usikkerhet til om bestemmelsen kommer til anvendelse for oppdragstakere i delingsøkonomien. Dette skyldes for det første at bestemmelsens anvendelse forutsetter at plattformen faller inn under arbeidsmiljølovens arbeidsgiverbegrep/virksomhetsbegrep, og for det andre er det en viss usikkerhet om bestemmelsen er ment å omfatte digital virksomhet.
+
+Dernest er selvstendige oppdragstakere også vernet av diskrimineringsforbudet i kapittel 13, jf. § 13-2 andre ledd som sier at «bestemmelsene i dette kapittel gjelder tilsvarende for arbeidsgivers valg og behandling av selvstendig næringsdrivende og innleide arbeidstakere».
+
+Selvstendige oppdragstakere har heller ikke rettigheter knyttet til for eksempel ferieloven eller lønnsgarantiloven. Rettigheter til trygde-, pensjons- og velferdsordninger for selvstendige er beskrevet nedenfor i punkt 8.9.
+
+### Kollektiv forhandlingsrett for selvstendige?
+
+Et spørsmål som har aktualisert seg i forbindelse med arbeidstakerstatus og arbeid i «gråsonen» mellom arbeidstaker og selvstendig oppdragstaker, er hvorvidt selvstendige oppdragstakere kan ha rett til å forhandle kollektivt og inngå tariffavtaler om prisen på oppdrag. Spørsmålet kan ikke sies å være endelig avklart, verken etter norsk eller internasjonal rett. Nedenfor følger likevel en gjennomgang av de sentrale problemstillinger og rettskilder. Det er dessuten på gang et arbeid i EU som sannsynligvis vil bidra til avklaring, jf. nedenfor.
+
+Spørsmålet om selvstendige oppdragstakere har lov til å forhandle kollektivt beror dels på en tolkning av regler som verner forhandlingsretten, og dels på konkurranserettslige regler om forbud mot kartellvirksomhet eller ulovlig prissamarbeid, samt forholdet mellom disse regelsettene (Hotvedt 2020, punkt 2). Forhandlingsretten for arbeidstakere er vernet gjennom den europeiske sosialpakt, den europeiske menneskerettskonvensjonen og ILO-konvensjon nr. 87 om forenings- og organisasjonsfrihet. I Norge kommer dette til uttrykk både i Grunnloven og i arbeidstvistloven, jf. nedenfor. Samtidig setter EUs konkurranseregler om forbud mot konkurransebegrensede avtaler, herunder om prissamarbeid, begrensninger for kollektiv opptreden for foretak. EUs konkurranseregler er i norsk rett blant annet gjennomført i konkurranseloven.[^115] Kjernen i spørsmålet er om ulike grupper av selvstendige, eksempelvis oppdragstakere, frilansere mv., er å anse som foretak eller ikke etter konkurranselovgivningen.
+
+I norsk rett er regler om tariffavtaler og organisasjonene nedfelt i arbeidstvistloven. Forhandlingsretten fremgår av § 3, som blant annet gir fagforeninger rett til å forhandle om inngåelse eller revidering av tariffavtale. En fagforening er i § 1 bokstav c definert som «enhver sammenslutning av arbeidstakere eller av arbeidstakeres foreninger som har til formål å vareta arbeidstakernes interesser overfor deres arbeidsgivere». Det er altså sammenslutninger av «arbeidstakere» som kan kreve forhandlinger etter arbeidstvistloven. En arbeidstaker er i loven § 1 bokstav a definert som «enhver som utfører arbeid i en annens tjeneste og som ikke går inn under lov om offentlige tjenestetvister». Det fremgår av forarbeidene at arbeidstakerbegrepet «defineres på tilsvarende måte som i arbeidsmiljøloven § 1-8 første ledd», jf. Prop. 134 L (2010–2011) punkt 9.1. Som et utgangspunkt er altså forhandlingsretten etter arbeidstvistloven dermed avgrenset til å gjelde for arbeidstakere.
+
+Konkurranselovens regler får direkte betydning for hvem som lovlig kan samarbeide om pris eller forhandle kollektivt om pris. Loven forbyr såkalt kartellvirksomhet eller prissamarbeid, jf. § 10. Kjernen i kartellforbudet er at priser og andre forretningsvilkår skal fastsettes individuelt av det enkelte foretak. Begrepet «foretak» er nærmere definert i konkurranseloven § 2 til «enhver enhet som utøver privat eller offentlig ervervsvirksomhet». I rettspraksis er foretaksbegrepet tolket slik at det må dreie seg om økonomisk aktivitet, som betyr at det må tilbys varer eller tjenester i et marked. Økonomisk aktivitet må skilles fra ikke-økonomisk aktivitet, som typisk innebærer utøvelse av offentlig myndighet.
+
+I den norske konkurranseloven er det gitt en særbestemmelse i § 3 første ledd om lønns- og arbeidsvilkår, også omtalt som «tariffunntaket». Det følger av forarbeidene at denne bestemmelsen i praksis er unødvendig ettersom forbudet i blant annet konkurranseloven § 10 uansett må anvendes i overensstemmelse med praksis for vurderinger av bestemmelser i kollektive arbeidsavtaler i EU/EØS.[^116] Det betyr at tariffunntaket i konkurranseloven § 3, som følge av EØS-harmoniseringen, må tolkes i samsvar med rettsutviklingen i EU/EØS for kollektive arbeidsavtaler.
+
+Sammenhengen mellom foretaksbegrepet og tariffunntaket beskrives av Hotvedt (2020 punkt 4):
+
+Foretaksbegrepet avgrenser hvilke aktørers opptreden som omfattes. Begrepet er EU-rettslig og forstås funksjonelt, det omfatter enhver enhet – også fysiske personer – som driver økonomisk virksomhet, uavhengig av rettslig status og finansieringsform. Som økonomisk virksomhet regnes det å tilby varer eller tjenester på et marked. En arbeidsgiver/oppdragsgiver er derfor et foretak når den driver økonomisk virksomhet på markedet for varer og tjenester. En selvstendig oppdragstaker er også i utgangspunktet et foretak. Vedkommende er i prinsippet en økonomisk enhet som tilbyr tjenester. En arbeidstaker er derimot ikke et foretak, men anses integrert i arbeidsgiverforetaket så lenge arbeidsavtalen løper. Det er dels begrunnet gjennom doktrinen om økonomisk enhet, som innebærer at flere juridiske eller fysiske personer kan anses som samme enhet i den grad de er underlagt en annens avgjørende innflytelse eller kontroll. Arbeidstakeren betraktes ikke som en egen økonomisk enhet særlig fordi arbeidet er underlagt arbeidsgiverens kontroll. Men dels er det vist til at markedet for arbeidskraft skiller seg fra markedet for varer og tjenester og ikke er ment å bli regulert av konkurransereglene. Med den begrunnelsen vil verken arbeidstakeres virksomhet som tilbydere av arbeidskraft eller arbeidsgiveres virksomhet som etterspørrere av arbeidskraft omfattes av konkurransereglene. Her ligger sammenhengen med tariffunntaket, som kan sees som et utslag av avgrensningen av foretaksbegrepet.
+
+En fagforening vil på denne bakgrunn normalt ikke utgjøre en «sammenslutning av foretak» når den opptrer på vegne av medlemmer som er arbeidstakere. Foreningen kan imidlertid være en «sammenslutning av foretak» dersom den opptrer på vegne av medlemmer som er oppdragstakere.
+
+Er man *arbeidstakere* i henhold til arbeidstvistloven kan man dermed danne fagforening som kan forhandle lønns- og arbeidsvilkår på sine vegne. Dette kan utledes av arbeidstvistloven § 3, jf. § 1, og lener seg dessuten på den grunnleggende forhandlingsretten som følger av flere internasjonale regler. Dersom foreningen derimot opptrer på vegne av medlemmer som er å anse som *oppdragstakere*, vil den kunne karakteriseres som en sammenslutning av foretak hvor det som et utgangspunkt er forbudt med slik kollektiv opptreden, jf. konkurranseloven § 10.
+
+Spørsmålet i denne sammenheng er hvordan ulike yrkesgrupper, som ikke er arbeidstakere, skal innplasseres. Én tolkningsmulighet er at oppdragstakere som ikke er å anse som arbeidstakere, «automatisk» vil måtte plasseres i kategorien «foretak» og dermed avskjæres fra å forhandle kollektivt, jf. konkurranseloven § 10. En annen tolkningsmulighet er at det eksisterer en slags form for mellomkategori, hvor oppdragstakere verken er å anse som arbeidstaker eller foretak, og dermed kan «gå klar» av kartellforbudet i konkurranseloven.
+
+Det foreligger enkelte internasjonale avgjørelser som kaster lys over problemstillingen. I EU-domstolens avgjørelse i C-413/13 (*FNV Kunsten*) konkluderte EU-domstolen med at tariffunntaket kan anvendes på oppdragstakere «såfremt disse tjenesteytere er ‘falske selvstændige’, dvs. tjenesteydere, der befinder sig i en med disse arbejdstagere sammenlignelig situation», jf. premiss 42.
+
+Hva som ligger i «falske selvstendige» er imidlertid ikke helt klart. Det kan på den ene siden bety at det kun gjelder feilklassifiserte arbeidstakere, altså de som etter en «realitetsvurdering» er å anse som arbeidstakere. På den andre siden kan det bety også dem som verken er arbeidstakere eller «genuint» selvstendige, men oppdragstakere som ligger et sted imellom i den såkalte «gråsonen». Hotvedt (2020) synes å helle i retning av det siste: «Etter mitt syn gir FNV Kunsten dermed holdepunkter for at tariffunntaket først og fremst skal avgrenses mot de klart selvstendige oppdragstakerne. I så fall kan tvil være tilstrekkelig til å gi tariffunntaket anvendelse.» (Hotvedt, 2020, punkt 4.2).
+
+Delingsøkonomiutvalget uttaler noe i samme retning, jf. NOU 2017: 4 punkt 5.4.8.1:
+
+Domstolen presiserer at de den omtaler som «false self-employed», det vil si personer som leier ut sine tjenester til oppdragsgivere som bruker tjenesteyterne som om de var arbeidstakere, ikke skal anses som foretak i konkurransereglenes forstand.
+
+For selvstendig næringsdrivende som kan klassifiseres som «false self-employed» der de leies inn eller tar oppdrag, kan kollektive avtaler dermed regulere arbeids- og ansettelsesvilkår. Selvstendig næringsdrivende som opptrer som reelle oppdragstakere overfor sine kunder, kan ikke regulere priser og andre forretningsvilkår gjennom slike kollektive avtaler.
+
+OECD antyder muligens det motsatte i rapporten «Negotiating our way up», 2019 side 237:
+
+In addition, workers in the grey zone who share some of the vulnerabilities inherent to an employee status but are not false self-employed are still barred from accessing bargaining following that ruling. Moreover, the ruling also forbids collective bargaining for genuinely self-employed workers that nevertheless are in unbalanced power relationship vis-à-vis their employer/client.
+
+Bekkedal (2021) argumenterer i samme retning, og viser på side 20 til at EU-domstolen i FNV Kunsten:
+
+Also noted that the competition rules should not be applied to «‘false self-employed’, that is to say, service providers in a situation comparable to that of employees». Some scholars have asked whether this marks a possible expansion of the notion of «employee». In our view, the answer is in the negative. The Court simply responded to a factual development: that «in today’s economy it is not always easy to establish the status of some self-employed contractors as ‘undertakings’». The EU competition rules can only be applied to entities that according to EU law are undertakings, not employees. Because the concrete assessment has become more complex than before, it is indeed advisable to check that the definition at the national level is correct. Such check does not change the notion of «employee».
+
+En avgjørelse fra danske konkurransemyndigheter 26. august 2020 vedrørende bruk av minimumspriser i tariffavtale i plattformselskapet Hilfr, kom til den konklusjon at minimumsprisene strider med konkurranseretten fordi plattformarbeiderne må anses som foretak og ikke arbeidstakere.[^117] Danske konkurransemyndigheter synes dermed å legge seg på en «streng» linje hvor alle som ikke er arbeidstakere «automatisk» omfattes av kartellforbudet.
+
+En annen sak som kaster lys over problemstillingen, er saken ICTU vs. Irland fra desember 2018. Her la den europeiske sosialkomiteen under Europarådet til grunn at Den europeiske sosialpakten (Sosialpakten eller ESP) artikkel 6 nr. 2 i utgangspunktet omfatter selvstendige oppdragstakere.
+
+Sosialpakten har i artikkel 5 og 6 uttrykkelig vernet arbeidstakernes rett til å organisere seg for å ivareta sine økonomiske og sosiale interesser.
+
+I ICTU vs. Irland var saksforholdet at det i Irland tidligere gjaldt et forbud mot kollektive forhandlinger for blant annet voice-over skuespillere, frilansjournalister og visse musikere. Det ble klaget på at disse ikke hadde rett til å forhandle kollektivt om vederlaget for tjenestene de leverte.
+
+Komiteen tok utgangspunkt i at selvstendige oppdragstakere er «workers» med rett til kollektive forhandlinger etter ESP artikkel 6 nr. 2. Begrunnelsen var at de tre gruppene oppdragstakere ikke var genuint selvstendige oppdragstakere, blant annet fordi de ikke hadde innflytelse på betalingsvilkårene uten en rett til kollektive forhandlinger (avsnitt 99). Komiteen mente dette måtte være forenlig med konkurranseretten, fordi kollektive forhandlinger og avtaler for denne typen grupper av selvstendige oppdragstakere ikke ville påvirke konkurransen nevneverdig annerledes («significally different») enn om de gjaldt arbeidstakere (avsnitt 100).
+
+Om selvstendige oppdragstakere kan utelukkes fra retten til å føre kollektive forhandlinger, måtte vurderes etter Sosialpakten punkt G, hvor forutsetningen for et eventuelt forbud mot kollektive forhandlinger måtte være «nødvendige i et demokratisk samfunn for å verne andre menneskers rettigheter og frihet, eller for å verne offentlige interesser, nasjonal sikkerhet og helse og moral i samfunnet». Om dette uttalte komiteen:
+
+In this respect, it cannot be automatically presumed that restrictions following from competition law or commercial law do not pursue a legitimate aim and/or are not necessary in a democratic society, for example to protect the rights and freedoms of others» (avsnitt 36).
+
+Komiteen viste til at lav betaling og manglende økonomisk selvstendighet for selvstendige oppdragstakere er et voksende problem. Komiteen fremhevet videre at retten til kollektive forhandlinger er begrunnet i den svakere forhandlingsposisjonen for dem som tilbyr arbeidskraften. I konkurranseretten er forutsetningen at en koordinering av pris på varer ikke er forenlig med rettferdige priser for kjøpere av varer og tjenester. Det avgjørende for komiteens konklusjon var maktubalansen mellom dem som tilbyr arbeidskraften og dem som etterspør den. Komiteen uttaler at det avgjørende er om:
+
+there is an imbalance of power between the providers and engagers of labour. Where providers of labour have no substantial influence on the content of contractual conditions, they must be given the possibility of improving the power imbalance through collective bargaining (avsnitt 38).
+
+Uttalelsen viser at det sentrale er ubalanse i muligheten til å påvirke arbeidsvilkårene, og at oppdragstakere uten vesentlig innflytelse på arbeidsvilkårene, dersom de skulle ha forhandlet individuelt, må få mulighet til å forbedre maktubalansen gjennom kollektive forhandlinger.
+
+Hotvedt (2020) oppsummerer avgjørelsen ved å si at «Konkurranserettslige regler kan ikke begrunne et forbud mot kollektive forhandlinger for alle oppdragstakere. Bare de genuint selvstendige kan utelukkes, og terskelen synes å være høy. Oppdragstakere i gråsonen skal derfor normalt ha adgang til kollektive forhandlinger».
+
+Denne avgjørelsen synes dermed å gå lenger enn C-413/13 *FNV* *Kunsten*, som altså la til grunn et skille mellom falske og ekte selvstendige.
+
+Bekkedal (2021) har en noe annen innfallsvinkel til problemstillingen og skriver følgende om dette på side 2–3 (vår utheving):
+
+We resist the attempt to «reconcile» legal sources that stem from different legal orders and that seemingly point in opposite directions. Instead, we show that within a system of multilevel governance, different actors at different levels do not apply the exact same rule and do the exact same thing, as if e.g. there were an ongoing competition among the different levels to have the «best» court. We show that Article 11 ECHR allocate different powers to different courts at different levels, so that they may legitimately adopt different approaches. *Put simply, the European Court of Human Rights defines the margin of appreciation; the European Court of Justice operates within it. But we acknowledge that the developments at the level of fundamental rights require renewed reflection of whether the restrictions imposed by EU Law are justified or go too far*.
+
+Currently, the tension between the approaches of the European Court of Human Rights and the European Court of Justice consumes every margin of appreciation and keeps other players off the table in issues pertaining to the growth of atypical work.
+
+Bekkedal tar utgangspunkt i EMK artikkel 11, som verner organisasjonsfriheten. Gjennom dom avsagt i Den europeiske menneskerettighetsdomstolen (EMD), *Demir og Baykara*[^118] er det slått fast at kollektiv forhandlingsrett er vernet i medhold av EMK artikkel 11. Av artikkelen følger det at *enhver* er vernet, jf. artikkel 11 nr. 1. Det er dermed på det rene at selvstendige oppdragstakere i utgangspunktet nyter et slikt menneskerettslig vern. Dette følger ikke bare av EMK, men også andre internasjonale menneskerettighetsforpliktelser, herunder Den europeiske sosialpakten[^119].
+
+Bekkedal peker videre på at EU-domstolen på sin side har en annen tilnærming til kollektiv forhandlingsrett. Det som vernes er *prosessen* kollektiv forhandlingsrett, med andre ord en kollektiv rett og ikke en individuell rettighet. Tariffunntaket, unntaket fra forbudet mot konkurransebegrensende samarbeid, ble anerkjent av EU-domstolen i Albany-avgjørelsen (sak C-67/96). Dette var før kollektiv forhandlingsrett ble anerkjent som en grunnleggende menneskerettighet i medhold av EMK artikkel 11.
+
+Hovedpoenget, som Bekkedal framholder i sin konklusjon, er dermed at (side 26):
+
+The main problem of the opposite approaches of the ECtHR and the ECJ is that the tension between them consumes all flexibility: the ECJ has pressed the margin of appreciation to its outer limit. With regard to the issue of collective bargaining for self-employed, there is no space left for other decision-makers, such as lawmakers, trade unions and employers organization. The lack of flexibility is unfortunate. The growth in the number of self-employed has turned the regulatory approach towards this group into a core issue of industrial organization. Empirical assessments, political considerations and co-operation between the social partners is necessary to respond to emerging trends.
+
+Enn så lenge er spørsmålet om kollektiv forhandlingsrett for oppdragstakere uavklart. Det kan muligens utledes fra ovenstående avgjørelser at visse oppdragstakere i gråsonen kan tenkes å ha slik forhandlingsrett, men det er høyst uklart hvor grensen går og hva som nærmere kjennetegner denne gruppen.
+
+EU har på sin side vedkjent at konkurranselovgivningen kan tenkes å stå i veien for kollektive forhandlinger for visse oppdragstakere som trenger det.[^120] Kommisjonen ønsker derfor å sikre at arbeidsforhold kan bedres gjennom kollektive avtaler, ikke bare for arbeidstakere, men også for visse oppdragstakere som trenger beskyttelse. Europakommisjonen la den 6. januar 2021 fram en innledende konsekvensanalyse (Inception Impact Assessment)[^121], som redegjør for Kommisjonens arbeid med å sikre kollektiv forhandlingsrett for selvstendige oppdragstakere, herunder behovet for mulige endringer i EUs konkurranserett. Kommisjonen har signalisert at det skal legges fram et forslag i fjerde kvartal 2021.[^122]
+
+Nærmere om innholdet i EU-kommisjonens innledende konsekvensanalyse
+
+Med henvisning til OECD viser Kommisjonen til at noen selvstendige oppdragstakere kan befinne seg i en ubalansert forhandlingsposisjon vis-á-vis visse selskaper eller kunder, som kan innebære liten forhandlingsmakt på prisen («price-takers») og med liten makt over egne arbeidsvilkår. Kollektive forhandlinger kan være et virkningsfullt verktøy for å forbedre arbeidsvilkårene. Kommisjonen viser til at dette både kan gjelde for arbeid innenfor plattformøkonomien, men også være til stede for visse selvstendige utenfor plattformøkonomien. Kommisjonen viser til at ettersom grensen mellom arbeidstaker og oppdragstakere i økende grad blir utydelig, innebærer det at noen personer ikke har klarhet rundt egen arbeidstakerstatus og dermed heller ikke om deres rett til kollektive forhandlinger. Dette kan forhindre dem fra å forhandle kollektivt i frykt for EUs konkurranseregler.
+
+Formålet med Kommisjonens initiativ er å klargjøre at visse selvstendige oppdragstakere og deres kontraktsparter kan forhandle kollektiv uten risiko for å bryte EUs konkurranserett. Kommisjonen skisserer fire mulige virkeområder for hvem som kan tenkes å omfattes av en slik ny regel: i) Alle selvstendige oppdragstakere uten egne ansatte som stiller til rådighet sin egen arbeidskraft gjennom digitale plattformer, ii) Alle selvstendige oppdragstakere uten egne ansatte som stiller til rådighet sin arbeidskraft gjennom digitale plattformer eller til profesjonelle kunder av en viss størrelse, iii) Alle selvstendige oppdragstakere uten egne ansatte som stiller til rådighet sin egen arbeidskraft gjennom digitale plattformer eller til profesjonelle kunder uavhengig av størrelse, men med unntak av oppdragstakere som utøver regulerte profesjoner, eller iv) Alle selvstendige oppdragstakere uten egne ansatte som stiller til rådighet sin egen arbeidskraft gjennom digitale plattformer eller til profesjonelle kunder uansett størrelse.
+
+\[Boks slutt\]
+
+### Stillingsvern ved utsetting av oppdrag («outsourcing»)
+
+Når en virksomhet velger å sette ut virksomhetens drift på oppdrag, kan konsekvensen være at det oppstår overtallighet og behov for oppsigelser hos oppdragsgiver.
+
+Oppsigelsesvernet i arbeidsmiljøloven skiller her mellom tilfeller hvor virksomheten setter ut drift på oppdrag til selvstendige oppdragstakere, og hvor virksomheten setter ut drift på oppdrag til andre virksomheter med egne ansatte. Dersom driften blir satt ut på oppdrag til andre virksomheter med egne ansatte, vil det generelle oppsigelsesvernet i § 15-7 første og andre ledd gjelde ved overtallighet hos oppdragsgiver. I tilfeller hvor virksomhetens drift settes ut på oppdrag ved bruk av selvstendige oppdragstakere, gjelder imidlertid det særskilte oppsigelsesvernet i § 15-7 tredje ledd ved overtallighet hos oppdragsgiver.
+
+Siktemålet med tredje ledd er særlig å ramme omgåelser av stillingsvernet ved at arbeidstakere blir erstattet av selvstendige. Bestemmelsen innebærer at det gjelder en strengere saklighetsnorm enn det som ellers gjelder ved oppsigelse. Bestemmelsen ble presisert i forbindelse med lovrevisjonen i 2005, hvor departementet skriver at bestemmelsen «primært bør ta sikte på å forhindre den situasjon at arbeidstakerne sies opp med tilbud om å komme tilbake som selvstendige», jf. Ot.prp. nr. 49 (2004–2005) punkt 18.2.
+
+Den særlige oppsigelsesregelen i § 15-7 tredje ledd gjelder altså ikke ved oppsigelse i forbindelse med utsetting av arbeid til andre virksomheter (entreprise). «Hvorvidt en oppsigelse vil være rettslig holdbar i en slik situasjon vil bero på en saklighetsvurdering», jf. Ot.prp. nr. 49 (2004–2005) side 230. Utsetting av drift på oppdrag til andre virksomheter kan imidlertid være å anse som en virksomhetsoverdragelse, slik at reglene i arbeidsmiljøloven kapittel 16 kommer til anvendelse.
+
+### Entreprise
+
+Entreprise må avgrenses mot innleie. Det vises til punkt 8.6.6 ovenfor.
+
+Når det gjelder de arbeidsrettslige sidene i et entrepriseforhold, vil forholdet mellom oppdragstaker og egne arbeidstakere være underlagt de alminnelige regler i arbeidsforhold. Oppdragsgiver har i utgangspunktet ingen arbeidsgiverplikter overfor oppdragstakers arbeidstakere. Det finnes likevel noen regler som gir oppdragsgiver visse plikter og ansvar i entreprisesituasjoner.
+
+For det første vil en arbeidsgiver som foretar entreprisekjøp (oppdragsgiver) kunne ha et visst ansvar og enkelte plikter overfor oppdragstakerens arbeidstakere når det gjelder *helse, miljø og sikkerhet*. Det vises til redegjørelsen for § 2-2 i kapittel 8.2.5 ovenfor. Det fremgår av Ot.prp. nr. 49 (2004–2005) side 303–304 at bestemmelsen typisk kan gjelde i entreprisesituasjoner:
+
+Bestemmelsen omfatter først og fremst arbeidstakere som er ansatt hos andre arbeidsgivere, men som for eksempel utfører håndverkstjenester i arbeidsgivers virksomhet.
+
+Regler om samordning og HMS-ansvar finner man også igjen i for eksempel forskrift 6. desember 1996 nr. 1127 om systematisk helse-, miljø- og sikkerhetsarbeid i virksomheter (internkontrollforskriften) og forskrift 3. august 2009 nr. 1028 om sikkerhet, helse og arbeidsmiljø på bygge- eller anleggsplasser (byggherreforskriften).
+
+For det andre kan en arbeidsgiver som foretar entreprisekjøp (oppdragsgiver) ha visse plikter og ansvar relatert til *lønns- og arbeidsvilkår*. På allmenngjorte områder vil oppdragsgiver ha en informasjons- og påseplikt knyttet til de allmenngjorte vilkårene, jf. forskrift 22. februar 2008 nr. 166 om informasjons- og påseplikt og innsynsrett jf. allmenngjøringsloven § 12. Informasjonsplikten innebærer å informere oppdragstaker i kontrakten om «at virksomhetenes arbeidstakere minst skal ha de lønns- og arbeidsvilkår som følger av allmenngjøringsforskrifter», jf. § 5. Påseplikten innebærer en plikt for oppdragsgiver til å påse at lønns- og arbeidsvilkår hos oppdragstaker er i overensstemmelse med gjeldende allmenngjøringsforskrifter, jf. § 6. Forskriften benytter begrepene bestiller, hovedleverandør og underleverandør. En bestiller vil i denne sammenheng være oppdragsgiver overfor hovedleverandøren, og hovedleverandøren vil være oppdragsgiver overfor underleverandøren. Allmenngjøringsloven § 13 oppstiller også et solidaransvar for oppdragsgivere.
+
+Videre har offentlige oppdragsgivere særlige plikter ved tildeling av tjenestekontrakter og bygge- og anleggskontrakter som overstiger 1,3 millioner kroner eksklusiv mva. for statlige myndigheter og 2,05 millioner kroner eksklusiv mva. for andre oppdragsgivere, jf. forskrift 8. februar 2008 nr. 112 om lønns- og arbeidsvilkår i offentlige kontrakter § 4. Forskriften stiller blant annet krav til at oppdragsgiveren i sine kontrakter skal «stille krav om at ansatte hos leverandører og eventuelle underleverandører som direkte medvirker til å oppfylle kontrakten, har lønns- og arbeidsvilkår i samsvar med» gjeldende allmenngjøringsforskrifter eller i gjeldende landsomfattende tariffavtale for den aktuelle bransje, jf. § 5. Forskriften stiller også krav til at oppdragsgiver sørger for dokumentasjon, kontroll og sanksjon.
+
+### Virksomhetsoverdragelse
+
+En virksomhetsoverdragelse innebærer at en virksomhet eller del av virksomhet overføres til en annen arbeidsgiver, jf. arbeidsmiljøloven § 16-1 første punktum. Dersom den overdragende virksomheten kjøper tilbake tjenester fra den nye innehaveren, blir det etterfølgende tjenestekjøpet gjerne å anse som en entreprise. Det er imidlertid ikke noe krav om en etterfølgende entrepriseavtale mellom kontraktspartene for at det skal foreligge en virksomhetsoverdragelse. Det er gitt egne regler i arbeidsmiljøloven kapittel 16 om hvilke rettigheter arbeidstakere har i forbindelse med en virksomhetsoverdragelse. I det følgende gis det en kort beskrivelse av disse reglene.
+
+Reglene i arbeidsmiljøloven kapittel 16 er en gjennomføring av EU-direktiv 2001/23 (virksomhetsoverdragelsesdirektivet), og må tolkes i samsvar med praksis fra EU- og EFTA-domstolen, jf. blant annet Rt. 2015 side 718 avsnitt 60. Formålet med reglene er å gi arbeidstakerne trygghet og forutsigbarhet, ved å sikre at arbeidstakeres arbeidsforhold i størst mulig grad kan fortsette på uendrede vilkår hos ny arbeidsgiver dersom virksomheten de jobber i overdras til andre.
+
+Arbeidsmiljøloven § 16-1 oppstiller visse kriterier som må være oppfylt for at det kan sies å foreligge en virksomhetsoverdragelse:
+
+Dette kapittel kommer til anvendelse ved overdragelse av en virksomhet eller del av virksomhet til en annen arbeidsgiver. Med overdragelse menes overføring av en selvstendig enhet som beholder sin identitet etter overføringen.
+
+Det er i rettspraksis slått fast at følgende vilkår må være oppfylt for at det skal ha skjedd en virksomhetsoverdragelse, jf. blant annet Rt. 2011 side 1755 (Gate Gourmet), Rt. 2012 side 983 (Songa Service) og Rt. 2015 side 718 (Kirkens bymisjon):
+
+- Overføringen må gjelde en selvstendig økonomisk enhet hos overdrager,
+
+- Virksomheten er overført til ny innehaver på grunnlag av kontrakt eller ved sammenslåing av virksomheter,
+
+- Den selvstendige enheten har bevart sin identitet etter overføringen.
+
+Når det gjelder vilkåret om at overføringen må gjelde en *selvstendig økonomisk enhet*, er dette omtalt som krav om en «stabil og operasjonell enhet, som selv er i stand til å levere de tjenester som er karakteristiske for virksomhetens økonomiske aktivitet», jf. Gate Gourmet avsnitt 53.
+
+Vilkåret om overføring til ny innehaver *på grunnlag av kontrakt eller ved sammenslåing av virksomheter*, vil anses oppfylt i alle kontraktsmessige overdragelser, slik som fusjon, fisjon og outsourcing. Kontraktsbegrepet skal ifølge rettspraksis imidlertid tolkes vidt. Reglene om virksomhetsoverdragelse kan også komme til anvendelse ved for eksempel tvangsmessige overføringer.
+
+Det tredje vilkåret knytter seg til hvorvidt den selvstendige økonomiske enheten som ble overdratt har *beholdt sin identitet* etter overføringen. Dette beror på en konkret helhetsvurdering som i noen grad vil kunne være sammenfallende med vurderingen av om det faktisk er overført en selvstendig økonomisk enhet, jf. over. I identitetsvurderingen skal blant annet følgende momenter vektlegges, jf. blant annet C-24/85 (Spijkers);
+
+- er det overført fysiske aktiva som virksomhetens lokaler, utstyr eller annet løsøre,
+
+- er det overført immaterielle aktiva,
+
+- hvilken type virksomhet eller drift det er tale om før og etter overføringen,
+
+- hvor lenge har eventuelt virksomhetens drift vært innstilt,
+
+- i hvor stor grad er de økonomiske aktiviteter før og etter overdragelsen de samme,
+
+- hva skjer med kundekretsen,
+
+- omfanget av overtakelsen av arbeidsstokken.
+
+Momentlisten er ikke uttømmende, men det må etter en samlet vurdering kunne slås fast at driften etter overføringen fortsetter eller gjenoppstår med samme eller lignende aktiviteter.
+
+Virkningene av at det foreligger en virksomhetsoverdragelse etter arbeidsmiljøloven § 16-1, er regulert i § 16-2 første ledd første punktum: «Tidligere arbeidsgivers rettigheter og plikter som følger av arbeidsavtale eller arbeidsforhold som foreligger på det tidspunkt overdragelsen finner sted, overføres til den nye arbeidsgiver».
+
+Denne rettighetsoverføringen innebærer i utgangspunktet to ting: For det første vil arbeidstakerne ha rett til å få sine arbeidsforhold overført til den nye arbeidsgiveren. For det andre har arbeidstakeren i utgangspunktet også rett til å få med seg de lønns- og arbeidsvilkårene vedkommende hadde hos den tidligere arbeidsgiveren.
+
+Bytte av arbeidsgiver skjer automatisk ved en virksomhetsoverdragelse. Det vil si at det skjer ingen oppsigelse fra gammel arbeidsgiver eller ansettelse hos ny arbeidsgiver.
+
+En arbeidstaker kan imidlertid velge å motsette seg at arbeidsforholdet overføres til ny arbeidsgiver. Dette betegnes som *reservasjonsrett*, og er regulert i § 16-3. Å benytte seg av reservasjonsretten innebærer ikke at arbeidstakeren uten videre får fortsette sitt arbeidsforhold hos gammel arbeidsgiver. Tvert imot vil konsekvensen av å benytte seg av reservasjonsretten i utgangspunktet innebære at arbeidsforholdet med gammel arbeidsgiver avsluttes uten oppsigelse, jf. Ot.prp. nr. 24 (2005–2006) side 9. Arbeidstaker har likevel på visse vilkår en fortrinnsrett til ny ansettelse hos gammel arbeidsgiver, jf. § 16-3 tredje ledd.
+
+I særlige situasjoner kan det imidlertid foreligge en såkalt *valgrett*, som innebærer at arbeidstaker likevel kan ha rett til å fortsette arbeidsforholdet hos gammel arbeidsgiver. Adgangen til å gjøre gjeldende en valgrett er ulovfestet, og reiser spørsmål om arbeidstaker har rett til å opprettholde arbeidsforholdet hos gammel arbeidsgiver ved utøvelse av reservasjonsretten. Hovedregelen i lys av rettspraksis synes å være at det ikke foreligger slik valgrett. Unntak kan imidlertid tenkes dersom overføringen vil føre til «ikke uvesentlige negative endringer» for arbeidstaker, jf. blant annet Rt. 2000 side 2058 (Miljøtransport). I HR-2018-1944-A kom Høyesterett til at en 60 år gammel arbeidstaker kunne gjøre valgrett gjeldende, og dermed fortsette sitt arbeidsforhold hos gammel arbeidsgiver. Unntaksvilkåret om at virksomhetsoverdragelsen førte til «ikke uvesentlige negative endringer» i arbeidsforholdet, ble ansett oppfylt fordi arbeidstakeren etter all sannsynlighet ville blitt innvilget AFP med fortsatt ansettelse hos overdrager, og at dette dreide seg om en totalytelse på 1,3 millioner kroner med en antatt levealder på 85 år.
+
+Når arbeidsforholdet går over til ny arbeidsgiver, har arbeidstaker i utgangspunktet rett til å få med seg de lønns- og arbeidsvilkårene vedkommende hadde hos den tidligere arbeidsgiveren, jf. § 16-2. Det gjelder for det første individuelt avtalte lønns- og arbeidsvilkår, slik som lønn, tillegg, arbeidstid, ferie, ansiennitet mv. For tariffavtalte individuelle lønns- og arbeidsvilkår, skal også disse opprettholdes ut tariffperioden til tidligere arbeidsgiver, eller fram til ny arbeidsgiver inngår tariffavtale som er bindende for de overførte arbeidstakerne, jf. § 16-2 andre ledd, tredje og fjerde punktum. Når det gjelder tariffavtalen som sådan, blir ny arbeidsgiver bundet med mindre ny arbeidsgiver innen tre uker etter overføringstidspunktet erklærer overfor fagforeningen at den ikke ønsker å bli bundet, jf. § 16-2 andre ledd første og andre punktum. Pensjonsrettigheter er regulert i § 16-2 tredje ledd: «Arbeidstakernes rett til videre opptjening av alders-, etterlatte- og uførepensjon i henhold til kollektiv tjenestepensjon, overføres til ny arbeidsgiver etter reglene i første og andre ledd. Ny arbeidsgiver kan velge å gjøre allerede eksisterende pensjonsordninger gjeldende for de overførte arbeidstakerne. Dersom arbeidstakernes tidligere pensjonsordninger ikke kan videreføres etter overdragelsen, skal ny arbeidsgiver sørge for at de overførte arbeidstakerne sikres rett til videre opptjening etter en annen kollektiv pensjonsordning.»

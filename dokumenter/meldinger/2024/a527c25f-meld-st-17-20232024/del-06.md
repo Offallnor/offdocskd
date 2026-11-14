@@ -1,1132 +1,152 @@
-# Meld. St. 17 (2023–2024), del 6 av 16 (side 66–76)
+# Meld. St. 17 (2023–2024), del 6 av 17
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/meldinger/2024/a527c25f-meld-st-17-20232024.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/meld.-st.-17-20232024/id3030469/
 - Original-PDF: https://www.regjeringen.no/contentassets/0b74b84e746a452eb0b64a88c873a6fe/no/pdfs/stm202320240017000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller, 25 figurer, 176 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 66]
-
-64
-
-2023–2024
-
-Meld. St.17
-Om integreringspolitikken: Stille krav og stille opp
-
-7 Bosetting av flyktninger
-For at flyktninger1 skal komme i arbeid og delta i
-samfunnslivet, er det avgjørende at de raskt kan
-bli etablert i en kommune. Det er viktig både for
-den enkelte og for samfunnet. Alle med oppholdstillatelse i Norge kan etablere seg i den kommunen de selv ønsker. Dette gjelder imidlertid
-ikke dersom en flyktning er avhengig av økonomisk støtte fra det offentlige. Bosetting med
-offentlig hjelp er ikke en rettighet eller en plikt for
-flyktninger. Bosetting av flyktninger er en frivillig
-oppgave for kommunene. I praksis blir de fleste
-bosatt etter avtale mellom staten og en kommune.
-Regjeringens mål er at bosettingen skal være
-styrt, spredt, rask og treffsikker. Styrt bosetting
-handler om at flyktninger ikke selv kan velge hvor
-de skal bo den første tiden i Norge. Spredt bosetting vil si at nyankomne flyktninger skal bosettes i
-alle landsdeler og i kommuner av ulik størrelse.
-Rask bosetting betyr at nyankomne flyktninger
-skal bosettes så raskt som mulig etter innvilget
-1
-
-Begrepet «flyktning» er i dette kapittelet brukt om personer som har søkt beskyttelse og fått innvilget flyktningstatus, midlertidig kollektiv beskyttelse, opphold på humanitært grunnlag eller på grunnlag av sterke menneskelige
-hensyn eller særlig tilknytning til riket o.l. Dette er ikke i
-tråd med bruk av flyktning-begrepet etter utlendingsloven.
-Iht. utlendingsloven er det kun personer som fyller kravene
-for å få beskyttelse (asyl) som omtales som flyktninger.
-
-oppholdstillatelse eller innreisetillatelse (overføringsflyktninger). Treffsikker bosetting innebærer
-blant annet at nyankomne flyktninger skal bosettes i kommuner med tilbud om kvalifisering,
-utdanning, arbeid og andre tjenester. Hvordan
-bosettingen skjer, er viktig for å kunne nå hovedmålet for integreringspolitikken om at flere innvandrere skal i utdanning og arbeid, og å bygge
-sterke felleskap og gode fellesarenaer.
-Bosetting av flyktninger varierer over tid i takt
-med krig og uroligheter i verden, antall asylsøkere som får innvilget oppholdstillatelse og antall
-overføringsflyktninger som Norge skal ta imot. I
-1994 ble alle kommuner for første gang anmodet
-om å bosette flyktninger. Over 10 000 flyktninger
-fra Bosnia-Herzegovina ble bosatt samme år.2 Da
-det kom et høyt antall asylsøkere i 2015, ble også
-alle kommunene på nytt mobilisert. Det ble bosatt
-11 342 flyktninger i 2015 og 15 291 flyktninger i
-2016.
-Mellom 2018 og 2021 var bosettingsbehovet på
-omtrent 5 000 flyktninger årlig, og flertallet som
-skulle bosettes, var overføringsflyktninger. Koronapandemien og globale reiserestriksjoner førte
-
-2
-
-Utlendingsdirektoratet, 1994.
-
-Bosetting av mottaksbeboere – forenklet prosess:
-UDI
-innvilger oppholdstillatelse som
-gir grunnlag for bosetting
-
-Tilbud om plass på
-asylmottak/akuttinnkvartering fra
-UDI
-
-Ankomst
-
-Forenklet
-kartlegging
-gjøres av
-asylmottak/
-akuttinnkvartering
-
-Spørsmål om egen
-bosettingssak rettes til
-asylmottak/
-akuttinnkvartering
-
-Registrering
-hos politiet
-
-Figur 7.1 Bosetting av beboere i asylmottak
-Kilde: IMDi
-
-IMDi forespør
-kommunen
-om konkrete
-personer gjennom
-IMDinett
-
-Kommunen
-bekrefter i IMDinett.
-Det er nå gjort avtale
-om bosetting med
-offentlig hjelp.
-
-Kommunen
-tar kontakt med
-asylmottak/akuttinnkvartering for å
-avtale bosettingsdato
-
-Flytting til
-kommunen
-
-[Side 67]
-
-2023–2024
-
-Meld. St.17
-Om integreringspolitikken: Stille krav og stille opp
-
-65
-
-Boks 7.1 Samarbeidsavtalen og Nasjonalt utvalg for mottak og bosetting av flyktninger
-enkelte kommune selv avgjør hvor mange flyktBosetting av flyktninger er en frivillig, kommunal oppgave som krever involvering fra mange
-ninger den har kapasitet til å bosette. Videre må
-på tvers av sektorer og forvaltningsnivåer. Det
-kommuner som bosetter, sikres gode rammebeer inngått en samarbeidsavtale mellom staten
-tingelser.
-ved Arbeids- og inkluderingsdepartementet og
-Avtalen skal klargjøre rammebetingelser slik
-kommunene ved KS om mottak og bosetting av
-at kommunene bosetter så raskt som mulig og i
-flyktninger. Formålet med samarbeidsavtalen er
-samsvar med bosettingsbehovet, og innen
-at staten og kommunesektoren i fellesskap skal
-målene og kriteriene som er fastsatt. Partenes
-løse de oppgavene Norge har forpliktet seg til
-forpliktelser følges opp gjennom konsultasjonsnår det gjelder mottak av asylsøkere og bosetordningen mellom regjeringen og KS og i Nasjoting av flyktninger. Avtalen er forankret i konsulnalt utvalg for mottak og bosetting av flyktnintasjonsordningen mellom regjeringen og komger. Nasjonalt utvalg skal bidra til at samarbeidsmunesektoren, og den koordineres fra statens
-avtalen gjennomføres på best mulig måte. Utvalside av Arbeids- og inkluderingsdepartementet.
-get består av et likt antall representanter fra stat
-Så lenge avtalen gjelder er det en forutsetning
-og kommune og ledes av IMDis direktør.
-for KS sin rolle i bosettingsarbeidet at den
-
-til at antallet bosatte i 2020 gikk ned, og ventetiden gikk opp.
-Fra 2022 har bosettingsbehovet økt betydelig.
-Alle landets kommuner ble anmodet om å bosette
-35 000 flyktninger i 2022, 38 000 i 2023 og 37 000 i
-2024. Kommunene har gjennom 2022 og 2023
-gjort en stor jobb med å bosette flyktninger. I 2022
-ble 31 258 flyktninger bosatt. I 2023 ble 33 701
-flyktninger bosatt. Aldri tidligere er det bosatt så
-mange flyktninger i løpet av et år. Bosettingen
-gikk også raskere enn tidligere. Den gjennomsnittlige ventetiden fra vedtak om opphold til
-bosetting i en kommune var om lag 2,5 måneder i
-2022 og 2023.
-Bosettingsbehovet blant enslige mindreårige
-flyktninger har også variert. Fra et årlig gjennomsnitt på om lag 200 bosatte enslige mindreårige i
-perioden 1998–2008, økte antallet til nesten 800 i
-2009, og om lag 900 året etter. I 2016 ble det bosatt
-i overkant av 1 600 enslige mindreårige i norske
-kommuner. Etter dette har antallet gått vesentlig
-ned, og etter 2018 er det bosatt mellom 100 og 200
-enslige mindreårige per år.
-Det kom langt flere enslige mindreårige enn
-ventet i 2022 og 2023, de fleste fra Ukraina, Afghanistan og Syria. Det ble bosatt 647 enslige mindreårige i 2023, om lag 230 flere enn kommunene ble
-anmodet om. Den gjennomsnittlige ventetiden fra
-vedtak om opphold til bosetting for enslige mindreårige var samlet sett 2,8 måneder. Ventetiden
-var noe lengre for de under 15 år (3,5 måneder)
-enn for de over 15 år (2,7 måneder).
-
-7.1
-
-Styrt, spredt, rask og treffsikker
-bosetting
-
-Bosetting av flyktninger har de siste årene vært
-spredt mellom byer og distrikter. Som en virkning
-av styrt og spredt bosetting, bor flyktninger mindre sentralt enn befolkningen generelt. De siste ti
-årene har flyktninger blitt bosatt langt mer spredt
-enn det generelle bomønsteret i befolkningen
-som helhet, se figur 7.2. Små og mer desentrale
-kommuner bosatte betydelig flere flyktninger per
-innbygger enn større og mer sentrale kommuner.
-Mens kun 13 prosent av befolkningen bor i landets 209 distriktskommuner (sentralitetsklasse 5
-og 6), ble 26 prosent av flyktningene bosatt i disse
-kommunene i perioden 2012–2023. En betydelig
-lavere andel flyktninger ble bosatt i de mest sentrale kommunene (sentralitetsklasse 1 og 2) sammenlignet med befolkningen. Samtidig som Oslo
-bosatte klart flest flyktninger, var bosatte sett i forhold til folketallet under én prosent. Til sammenligning tilsvarer antall bosatte i de fire kommunene Vevelstad, Leirfjord, Utsira og Vadsø over 10
-prosent av kommunenes folketall.
-I Norge bor flyktninger mer spredt enn flyktninger i andre skandinaviske land. Det kan blant
-annet ha sammenheng med at de tre landene har
-forskjellige bosettingsmodeller, se boks 7.2. For
-bosatte i perioden 2008–2016 var andelen som ble
-bosatt i sentrale kommuner i Danmark, omtrent
-som i Norge, mens i Sverige ble nesten tre av fire
-(72 prosent) bosatt i sentrale strøk. I Norge ble
-også langt flere bosatt i de minst sentrale kommu-
-
-[Side 68]
-
-66
-
-2023–2024
-
-Meld. St.17
-Om integreringspolitikken: Stille krav og stille opp
-
-30 %
-
-6%
-26 %
-
-26 %
-
-25 %
-20 %
-
-23 %
-19 %
-
-5%
-
-22 %
-
-19 %
-
-4%
-
-17 %
-
-16 %
-15 %
-
-3%
-10 %
-
-9%
-
-10 %
-
-9%
-4%
-
-5%
-0%
-
-2%
-1%
-0%
-
-1 – Høy
-sentralitet
-
-2
-
-3
-Befolkning
-
-4
-
-Bosatte
-
-5
-
-6 – Lav
-sentralitet
-
-Bosatte i % av befolkning
-
-Figur 7.2 Fordelingen av befolkningen og bosatte flyktninger etter sentralitet og bosatte flyktninger i prosent
-av befolkningen. 2013–2023.
-Kilde: IMDi
-
-nene (25 prosent). Tilsvarende andel i Sverige og
-Danmark var henholdsvis 10 og 13 prosent.3
-Sentrale kommuner og distriktskommuner
-påvirkes ulikt av svingningene i bosettingsbehovet. Der sentrale strøk gjerne må opp- og nedskalere eksisterende tjenester, må distriktskommunene vekselvis bygge opp og avvikle kommunenes tjenesteapparat for å møte skiftende bosettingsbehov.
-Flyktninger skal bosettes så raskt som mulig
-etter at de er innvilget oppholdstillatelse. Enslige
-mindreårige flyktninger og barnefamilier skal prioriteres. Rask bosetting er avgjørende for at
-voksne tidlig kan starte kvalifisering og søke
-arbeid, og for at barn kan begynne på skole og i
-barnehage i den kommunen de skal bo i. Rask
-bosetting av mottaksbeboere vil også frigjøre
-kapasitet i mottakssystemet.
-Figur 7.3 viser at bosettingen ikke nødvendigvis går raskere når færre bli bosatt. I 2022 gikk
-bosettingen raskere enn i 2016, selv om det ble
-bosatt et historisk høyt antall og mer enn dobbelt
-så mange som i 2016. Erfaringer fra 2015–2016 og
-2022–2023 viser at når ekstraordinært mange skal
-bosettes, så blir det lagt mest vekt på rask bosetting.
-Flyktninger skal bli bosatt i kommuner med
-relevant tilbud om kvalifisering, utdanning, arbeid
-og annet tjenestetilbud.4 En gjennomgang fra SSB
-
-viser at høyt utdannede flyktninger og kvinner
-oftere blir bosatt i sentrale, folkerike kommuner
-med høyt utdannings- og inntektsnivå og en høy
-andel innvandrere. Barnefamilier og overføringsflyktninger blir i større grad bosatt i mindre sentrale kommuner med lavere folketall og lavere
-inntekts- og utdanningsnivå. I perioder hvor det
-kommer mange flyktninger og det er stor oppmerksomhet om å bosette raskt, ser det ut til å
-være færre systematiske forskjeller i hvem som
-bosettes hvor.5
-Situasjonen på det lokale arbeidsmarkedet
-spiller en avgjørende rolle for hvordan det går
-med flyktninger som har deltatt i introduksjonsprogrammet.6 Den enkelte kommunens kvalifiseringstilbud er også viktig for overgang til arbeid
-eller utdanning etter endt introduksjonsprogram.7
-Distriktskommuner, relativt sentrale kommuner
-og storbykommuner kan tilby forskjellige muligheter for nyankomne flyktninger, noe som blant
-annet gjenspeiles i forskjeller i resultater i introduksjonsprogrammet. Gjennomsnittstall fra IMDi
-for 2018–2022 viser at andelen flyktninger som er i
-arbeid og/eller utdanning direkte etter avsluttet
-introduksjonsprogram, er høyest i kommuner
-4
-5
-6
-
-3
-
-Hernes mfl., 2019.
-
-7
-
-Se blant annet Prop. 89 L (2019–2020) og statsbudsjettet
-2024.
-Tønnesen & Andersen, 2019.
-Tønnesen & Andersen, 2019.
-Djuve mfl., 2017.
-
-[Side 69]
-
-2023–2024
-
-Meld. St.17
-Om integreringspolitikken: Stille krav og stille opp
-
-67
-
-Boks 7.2 Bosetting i Danmark og Sverige
-har plikt til å ta imot flyktningene. Ordningen
-I Danmark er bosetting av flyktninger lovregumed statlig tilvisning ble innført i Sverige i 2016
-lert og en pålagt oppgave for kommunene.1
-og likner den danske ordningen.2 Før dette ble
-Basert på prognoser fastsetter staten ved
-Udlændingestyrelsen hvor mange flyktninger
-flyktninger som ikke bosatte seg selv, bosatt
-som skal fordeles til de ulike regionene (regigjennom en ordning som likner den norske, der
-kommunene selv besluttet om de ville bosette
-onskvoter). Dersom kommunene i regionen
-flyktninger.
-ikke blir enige om hvordan flyktningene skal
-fordeles mellom kommunene, fastsetter UdlænFra 1. juli 2022 fikk Sveriges kommuner også
-ansvar for å sørge for botilbud til fordrevne fra
-dingestyrelsen kommunekvoter. Region- og
-Ukraina. Kommunen har plikt til å finne et botilkommunekvotene tar utgangspunkt i en fordelingsnøkkel basert på befolkningsstørrelse,
-bud til fordrevne som blir tildelt fra Migrasjonsandel innvandrere og flyktninger i kommunen
-verket, innen en måned.3
-samt antall familiegjenforente med flyktninger.
-Fordrevne fra Ukraina og asylsøkere fra
-andre land som ordner innkvartering på egen
-Når flyktninger får vedtak om oppholdstillahånd mens søknaden blir behandlet, blir ikke
-telse i Danmark, mottar de også vedtak om
-bosatt fordi de allerede bor i en svensk kombosettingskommune. Vedtaket er endelig og kan
-ikke påklages av flyktninger eller kommuner.
-mune. Asylsøkere som bosetter seg selv, og flytKommunen har plikt til å skaffe bolig til flyktninter til områder som er definert som områder
-gen innen en måned.
-med sosiale og økonomiske utfordringer, kan
-miste retten til midler til livsopphold. Den svenFlyktninger kan ikke bosettes i områder
-med store levekårsutfordringer (ukrainere er
-ske regjeringen bestemmer hvilke områder som
-unntatt). Dersom flyktninger flytter til en annen
-er omfattet. I Sverige er det satt i gang en utredkommune, kan det få konsekvenser for tilganning som blant annet skal foreslå et nytt system
-gen på integreringsytelser og kontantytelser, for
-for bosetting. Det er et mål å øke kommunenes
-retten til bolig, og for når personen kan få perinnflytelse i bosettingen.4
-manent oppholdstillatelse.
-1
-NOU 2017: Integrasjon og tillit – Langsiktige konsekvenser
-I Sverige kan asylsøkere og flyktninger finne
-av høy innvandring Udlændige- og Integrationsminisbolig selv. Ordningen kalles «eget boende»
-teriet, 2024; Udlændingestyrelsen, 2024.
-2
-(EBO). Asylsøkere beholder retten til «eget
-Lag (2016:38) om mottagande av vissa nyanlända invandrare för bosättning, 2016.
-boende» etter at de har fått oppholdstillatelse.
-3
-Migrationsverket, 2024.
-EBO kombineres med en ordning der staten til4
-Regeringskansliet, 2024.
-viser flyktninger til kommunene. Kommunene
-
-med høyest sentralitet (63 prosent), og lavest i
-kommuner med lav sentralitet (47 prosent).
-Andre studier tyder derimot på at flyktninger som
-er bosatt i mindre sentrale kommuner, har høyere
-sannsynlighet for å være i arbeid eller utdanning
-fem år etter bosetting, og at flyktninger i relativt
-sentrale kommuner har lavere overgang til arbeid
-eller utdanning. Samtidig viser studier at det er
-større sjanse for at flyktninger som bosettes i mindre sentrale kommuner flytter til mer sentrale
-strøk for å ta utdanning eller arbeid.8
-
-7.2
-7.2.1
-
-Bosettingsordningen
-
-Anmodning om å bosette flyktninger i
-løpet av et år
-Det er staten ved Integrerings- og mangfoldsdirektoratet (IMDi) og kommunene som beslutter
-hvor de fleste flyktningene skal bo den første
-tiden i Norge. Bosetting med offentlig hjelp er et
-tilbud til personer som har fått oppholdstillatelse i
-Norge på bakgrunn av søknad om beskyttelse og
-liknende. Deler av bosettingsordningen er nedfelt
-i en samarbeidsavtale om mottak og bosetting av
-flyktninger mellom staten og kommunesektoren
-(heretter omtalt som samarbeidsavtalen), se boks
-7.1. Enkelte elementer i bosettingsordningen er
-regulert i integreringsloven. Dette gjelder fylkes-
-
-[Side 70]
-
-2023–2024
-
-Meld. St.17
-
-40 000
-
-9,0
-
-35 000
-
-8,0
-
-30 000
-
-7,0
-6,0
-
-25 000
-
-5,0
-20 000
-4,0
-15 000
-
-3,0
-
-Bosatte
-
-2023
-
-2022
-
-2021
-
-2020
-
-2019
-
-2018
-
-2017
-
-2016
-
-2015
-
-2014
-
-2013
-
-2012
-
-2011
-
-2010
-
-0,0
-2009
-
-0
-2008
-
-1,0
-
-2007
-
-2,0
-
-5 000
-
-2006
-
-10 000
-
-2005
-
-Antall bosatte
-
-Om integreringspolitikken: Stille krav og stille opp
-
-Ventetid (mnd.)
-
-68
-
-Ventetid
-
-Figur 7.3 Antall bosatte og gjennomsnittlig ventetid i måneder fra vedtak om opphold til bosetting, 2005–
-2023
-Kilde: IMDi
-
-kommunens ansvar i anmodningsprosessen, innhenting av personopplysninger til bosettingsformål, kompetansekartlegging og unntak fra
-reglene om klage etter forvaltningsloven. Utover
-dette er bosettingsordningen ikke regulert i lov.
-På statlig nivå er det IMDi som anmoder kommunene om å bosette flyktninger. Det gjøres på
-bakgrunn av prognoser fra utlendingsforvaltningen, anmodningskriterier og anbefaling fra KS og
-fylkeskommunene. Arbeids- og inkluderingsdepartementet fastsetter anmodningskriteriene etter
-forslag fra Nasjonalt utvalg for mottak og bosetting
-av flyktninger. På regionalt nivå skal fylkeskommunen anbefale hvor mange flyktninger som bør
-bosettes i den enkelte kommune i fylket. Anbefalingen skal ta utgangspunkt i anmodningstall fra
-Nasjonalt utvalg og nasjonale føringer, herunder
-anmodningskriterier fra departementet. Fylkeskommunen skal legge vekt på de regionale planene for kvalifisering av innvandrere og egen
-kjennskap til regionen og den enkelte kommunen.
-På kommunalt nivå behandler kommunene
-anmodningen fra IMDI og fatter politiske vedtak
-om hvor mange flyktninger kommunen kan
-bosette i løpet av et år.
-Antall kommuner som blir anmodet om å
-bosette flyktninger, varierer med bosettingsbehovet. For eksempel ble i overkant av 200 kommu-
-
-ner anmodet i perioden 2018–2021. For å håndtere
-et særlig høyt bosettingsbehov ble alle landets
-kommuner anmodet om å bosette flyktninger i
-1994 (Bosnia-Herzegovina),9 2014–2017 (Syria og
-Afghanistan) og i 2022–2024 (Ukraina).10
-
-7.2.2 Bosetting i en kommune
-Når en flyktning er innvilget oppholds- eller innreisetillatelse og har gjennomført kartlegging (se
-punkt 7.3), sender IMDi forespørsel til en kommune om å ta imot enkeltpersoner og familier.
-Forespørselen skjer på bakgrunn av kartleggingen som er gjort av hver enkelt flyktning, og tilbudet i den enkelte kommunen. Det blir lagt vekt på
-om kommunen har ledig bolig og kan bosette
-raskt.
-Kommunen beslutter deretter om den kan
-bosette flyktningen/familien. IMDi fatter i så fall
-vedtak om bosetting. Vedtaket innebærer at den
-eller de det gjelder er bosatt etter avtale mellom
-staten og kommunen. Kommunene må begrunne
-eventuelle avslag på forespørselen fra IMDi. En
-flyktning får kun ett tilbud om bosettingskommune og kan ikke klage på vedtaket. Flyktningen
-kan takke nei til tilbudet og velge å bosette seg på
-eget initiativ, men det har konsekvenser for rettighetene til blant annet introduksjonsprogram,
-9
-
-8
-
-Tønnesen & Andersen, 2019.
-
-10
-
-Utlendingsdirektoratet, 1995.
-IMDis årsrapporter 2015-2017 og 2022-2023.
-
-[Side 71]
-
-2023–2024
-
-Meld. St.17
-Om integreringspolitikken: Stille krav og stille opp
-
-69
-
-Boks 7.3 Anmodningskriterier for 2024
-På grunn av det store bosettingsbehovet i for– Det skal legges størst vekt på kommunenes
-kapasitet, samt tjenestetilbudet og arbeidsbindelse med høye ankomster fra Ukraina ble
-markedet i regionen.
-anmodningskriteriene i 2022-2024 forenklet. I
-2024 er kriteriene:
-– Bosetting av flyktninger skal være styrt og
-Anmodningskriteriene for bosetting av flyktninger var mer omfattende før de ble forenklet ved
-spredt: Det skal bosettes flyktninger i alle
-tilleggsanmodningen for 2022 og i anmodningen
-landsdeler og i kommuner av ulik størrelse.
-for 2023–2024. Anmodningskriterier ble for før– Bosetting av flyktninger skal være treffsikker: Det skal tas hensyn til tjenestetilbudet,
-ste gang fastsatt av departementet i 2019. I disse
-også for barn og unge, og muligheter for
-anmodningskriteriene ble det blant annet også
-arbeid og utdanning i regionen.
-lagt vekt på å unngå bosetting i områder med
-levekårsutfordringer og i områder hvor andelen
-– Bosetting av flyktninger skal skje raskt: Det
-innvandrere er over 30 prosent. Resultater i
-skal ses hen til kommunenes kapasitet til
-introduksjonsprogrammet de siste årene, samt
-rask bosetting og opp- og nedbygging av tjemuligheter for arbeid og kapasitet til å gi tilrettenester. Det skal ses hen til om kommunene
-bosetter flyktninger raskt etter at avtale om
-lagt videregående opplæring for minoritetsbosetting er inngått.
-språklige i regionen, skulle tillegges størst vekt.
-
-introduksjonsstønad og økonomisk sosialhjelp
-den første tiden i Norge.11
-De fleste flyktninger blir bosatt etter opphold i
-asylmottak, omsorgssenter eller alternativ til mottaksplassering. Noen har også bodd privat utenom
-mottakssystemet før bosetting. Overføringsflyktninger blir vanligvis bosatt direkte i en kommune
-etter ankomst til Norge. Familiegjenforente flytter
-som hovedregel til den kommunen der familien
-bor og blir ikke bosatt av IMDi. Unntaket er dersom familien fortsatt er i asylmottak.
-
-7.2.3
-
-Bosetting av enslige mindreårige
-flyktninger
-Barne-, ungdoms- og familieetaten (Bufetat) har
-ansvar for å bosette enslige mindreårige flyktninger under 15 år som bor i omsorgssentre. IMDi
-har ansvaret for å bosette enslige mindreårige fra
-UDIs asylmottak for enslige mindreårige og enslige mindreårige som blir bosatt sammen med følgepersoner.
-Enslige mindreårige flyktninger uten følgepersoner blir som regel bosatt i kommuner som har
-fattet vedtak om å bosette denne gruppen, og som
-har bygd opp et bo- og omsorgstiltak som er tilpasset enslige mindreårige flyktninger. Enslige
-mindreårige som kommer med følgepersoner, vil
-11
-
-Integreringsloven, 2020, § 8; Forskrift om sosiale tjenester,
-bopelsløse, 2011, §§ 2-3.
-
-som oftest bli bosatt sammen med følgepersonen,
-med mindre det framkommer opplysninger som
-tilsier noe annet. Asylmottaket skal kartlegge
-både følgepersonens egnethet og den enslige mindreåriges omsorgsbehov.12 Helsetilsynet peker
-imidlertid på at omsorgsbehovet for enslige mindreårige som bor i ordinære asylmottak med følgeperson, ikke blir kartlagt før de blir bosatt i en
-kommune.13 Behovet for oppfølging av enslige
-mindreårige kan derfor endre seg etter bosetting.
-Arbeidet med å forberede bosetting av enslige
-mindreårige tar utgangspunkt i informasjonen
-som kommer fram i kartleggingen av barnas livssituasjon og behov i Bufetats omsorgssentre eller
-i UDIs asylmottak. Hvilket bo- og omsorgstiltak
-barna trenger, baseres blant annet på opplysninger om barnets alder, modenhet, bakgrunn,
-omsorgsbehov, helse, nettverk, selvstendighetsgrad og barnets egne ønsker. Bosettingskommunen avgjør hvilken bo- og omsorgsløsning som er
-best for barnet.
-
-7.2.4
-
-Selvbosetting, avtalt selvbosetting og
-privatboende
-
-Dersom flyktninger velger å bosette seg i en kommune uten avtale om bosetting med offentlig hjelp
-(selvbosetting), har de ingen rettigheter til intro12
-13
-
-Utlendingsdirektoratet, 2023c.
-Helsetilsynet, 2024.
-
-[Side 72]
-
-70
-
-Meld. St.17
-Om integreringspolitikken: Stille krav og stille opp
-
-duksjonsprogram etter integreringsloven og
-begrensede rettigheter etter forskrift om sosiale
-tjenester. En viktig begrunnelse for begrensningen er å bidra til styrt og spredt bosetting. Uten
-en slik begrensning er det høy risiko for at mange
-flyktninger bosetter seg i og rundt de store byene,
-slik som i Sverige. Det kan gi utfordringer både
-for den enkelte og for lokalsamfunnene dersom
-mange nyankomne flyktninger uten tilknytning til
-arbeidsmarkedet flytter til områder som har levekårsutfordringer.
-I noen kommuner kan flyktninger bosette seg
-på egen hånd etter avtale mellom IMDi og kommunen, såkalt avtalt selvbosetting. Flyktningen finner da selv bolig. Kommunen må godkjenne
-bosettingen. Kommunene tar imot avtalt selvbosatte innenfor det antallet flyktninger de har vedtatt å bosette. Personer som bosettes på denne
-måten, regnes som bosatt med offentlig hjelp og
-beholder rettighetene etter integreringsloven.
-Avtalt selvbosetting blant flyktninger ble innført
-som et virkemiddel for å bidra til raskere bosetting i 2015. Da var det mange bosettingsklare
-flyktninger i asylmottak, ventetiden fra vedtak om
-opphold til bosetting i en kommune var lang, og
-det var mangel på bosettingsplasser i kommunene.
-Asylsøkere og flyktninger som allerede har
-flyttet fra asylmottak, eller som aldri har benyttet
-seg av tilbudet, omtales som privatboende. Etter
-at de er innvilget oppholdstillatelse kan de søke
-IMDi om å bli bosatt med offentlig hjelp. I prinsippet vil de kunne bli tilbudt bosetting hvor som
-helst i landet. I praksis er det likevel slik at mange
-har en tilknytning til kommunen de oppholder seg
-i, for eksempel gjennom familie og nettverk, et
-leieforhold eller et arbeidsforhold. Ofte vil det derfor være urimelig å tilby bosetting i en annen kommune. Bosetting av personer som oppholder seg
-utenfor asylmottak eller som avtaler selvbosetting, utfordrer til en viss grad prinsippene om
-styrt, spredt og treffsikker bosetting.
-
-7.2.5
-
-Tilskudd til kommuner som bosetter
-flyktninger
-
-Ved bosetting mottar kommuner særskilte tilskudd fra staten til arbeidet med bosetting og integrering av flyktninger; integreringstilskudd, tilskudd til opplæring i norsk og samfunnskunnskap,
-særskilt tilskudd ved bosetting av enslige mindreårige flyktninger og tilskudd ved bosetting av personer med alvorlig nedsatt funksjonsevne eller atferdsvansker. I tillegg til de særskilte tilskuddene mottar kommunene innbyggertilskudd for bosatte
-
-2023–2024
-
-flyktninger per 1. juli året før budsjettåret, på
-samme måte som for andre innbyggere.
-Integreringstilskuddet utgjør den viktigste
-finansieringskilden til kommunenes bosettingsog integreringsarbeid. Kommunene får integreringstilskudd når de bosetter personer som får
-opphold som overføringsflyktninger eller på bakgrunn av søknad om asyl, og for familiegjenforente med disse. Kommunene skal gjennomføre et
-målrettet bosettings-, kvalifiserings- og integreringsarbeid slik at flyktningene kan forsørge seg
-selv og ta del i samfunnet. Tilskuddet skal gi en
-rimelig dekning av kommunenes gjennomsnittlige merutgifter til bosettings- og integreringsarbeidet i bosettingsåret og de fire neste årene.
-Et eget tilskudd går til kommuner og/eller fylkeskommuner for opplæring i norsk og samfunnskunnskap for voksne innvandrere. Kommuner
-som bosetter enslige mindreårige flyktninger, får
-et særskilt tilskudd i tillegg til integreringstilskuddet.
-Integreringstilskudd, tilskudd til opplæring i
-norsk og samfunnskunnskap og særskilt tilskudd
-ved bosetting av enslige mindreårige er per-capita
-tilskudd som utbetales per person. Alle kommuner får tilskudd etter samme satsstruktur og nivå.
-Et beregningsutvalg kartlegger hvert år de
-gjennomsnittlige utgiftene kommunene har til
-bosetting og integrering. Rapporten for 2022 viser
-at dekningsgraden for integreringstilskuddet var
-97,3 prosent. Det er den samme dekningsgraden
-som ble anslått i 2021. Dekningsgraden for tilskudd for enslige mindreårige var i 2022 på 117
-prosent. Mange enslige mindreårige kom med følgeperson i 2022, og det er stor usikkerhet om
-hvordan utgiftene til denne gruppen blir i 2023 og
-framover. Dekningsgrad for tilskudd til opplæring
-i norsk og samfunnskunnskap var i 2022 på 77,1
-prosent. Dekningsgraden for tilskudd til opplæring i norsk og samfunnskunnskap påvirkes i stor
-grad av gruppestørrelse i undervisningen. Resultatene fra kartleggingen for 2022 påvirkes av de
-høye ankomstene av fordrevne fra Ukraina. Det er
-usikkert hvordan kommunenes utgifter til bosetting og integrering vil utvikle seg, og dermed også
-hvordan tilskuddenes dekningsgrad blir framover.
-Mange faktorer har betydning for utgiftsnivået i
-kommunene, herunder antall personer, sammensetning, hvilke behov de har, hvordan de fordeler
-seg på årskullene i integreringsløpet, når på året
-de bosettes, utforming og dimensjonering av kommunenes tiltak og tjenester, og overgang til arbeid
-eller utdanning. Det er særlig usikkerhet rundt
-boligutgifter og hvor mange som vil gå over til
-arbeid etter avsluttet introduksjonsprogram.
-
-[Side 73]
-
-2023–2024
-
-Meld. St.17
-Om integreringspolitikken: Stille krav og stille opp
-
-Tilskuddsordningene ble evaluert i 2019, og
-konklusjonen var at ordningene i hovedsak fungerte relativt godt.14 Kommunene var fornøyde
-med ordningene og etterspurte ikke vesentlige
-endringer.
-Ved bosetting av personer med alvorlig nedsatt
-funksjonsevne eller atferdsvansker, kan kommunene søke om ekstratilskudd på grunnlag av dokumenterte behov. Ifølge kommunene er tilskuddsordningen ressurskrevende å administrere, og ordningen har ikke dekket kommunenes utgifter til
-personer med særlige behov.15 Fra 2022 ble tilskuddsordningen utvidet slik at flyktninger som
-bosettes fra UDIs særskilte boløsninger, det vil si
-tilrettelagt avdeling, særbol eller særpleie, kan
-utløse ekstratilskuddet i inntil 10 år. Utvidelsen gjelder også barn med helse- og omsorgsbehov, etter
-særskilte vilkår. Maksbeløpet for ekstratilskuddet
-er også økt for personer som bosettes fra særbol og
-særpleie.
-Den generelle ordningen med tilskudd til ressurskrevende tjenester omfatter også flyktninger.
-Kommunene kan få refundert inntil 80 prosent av
-lønnsutgifter over et innslagspunkt, som ligger
-om lag på nivå med det ordinære maksbeløpet i tilskuddsordningen ved bosetting av personer med
-alvorlig nedsatt funksjonsevne eller atferdsvansker.
-IMDi evaluerte i 2023 effekten av utvidelsen
-av tilskuddsperioden for ekstratilskuddet fra fem
-til ti år. Tilskuddet er avgjørende for at kommunene skal bosette flyktninger med alvorlig nedsatt
-funksjonsevne og/eller atferdsvansker, og mange
-kommuner er positive til utvidelsen. Det er likevel
-for tidlig å konkludere om utvidelsen har hatt en
-effekt og hvor stor denne eventuelt har vært.
-Regjeringen vil etter hvert sette i gang ytterligere
-evaluering av hvordan utvidelsen av ekstratilskuddet virker.
-I forbindelse med store ankomster av fordrevne fra Ukraina har det i tillegg blitt gitt ekstraordinære tilskudd til kommuner i en avgrenset
-periode, se omtale i kap. 3.
-Finansieringen av kommunenes utgifter til
-bosetting og integrering er basert på et kjent og
-veletablert system. Tilskuddene skal gi kommunene insentiver til å ta imot flyktninger, gi gode og
-forutsigbare rammebetingelser, og være nøytral
-med hensyn til valg mellom aktiviteter og tiltak.
-Modellen gir kommunene insentiver til å redusere kostnader og jobbe effektivt med kvalifisering ved at kommunene vil beholde eventuelle
-
-gevinster. Modellen krever lite administrasjon
-både for kommuner og stat. Selv om kostnadene
-ved bosetting kan variere for den enkelte og mellom kommuner, viser Beregningsutvalgets siste
-kartlegging at dekningsgraden for tilskuddene
-samlet sett er god. Kommunene er overordnet
-sett fornøyd med tilskuddenes innretning.16
-Regjeringen vil videreføre hovedelementene i
-dagens finansieringsordning.
-
-7.3
-
-Proba samfunnsanalyse, 2019.
-15
-Proba samfunnsanalyse, 2019.
-
-Kartlegging før bosetting
-
-Kartlegging av flyktninger før de blir bosatt skal
-gi kommunene informasjon for at de kan legge til
-rette for en god bosettings- og integreringsprosess.
-Integreringsloven regulerer hvilke personopplysninger som kan hentes inn før bosetting og for
-kompetansekartlegging av personer mellom 18 og
-55 år. UDIs mottaksinstruks17 og IMDis digitale
-løsning for registrering i asylmottak gir retningslinjer for kartlegging av mottaksbeboere. Barnevernloven regulerer kartlegging av enslige mindreårige i omsorgssentre.
-IMDi har utviklet et digitalt saksbehandlingsverktøy for bosetting og bosettingsforberedende
-arbeid. All samhandling foregår i verktøyet, og
-opplysningene om den enkelte flyktning som er
-registrert inn, vil være tilgjengelig for både IMDi
-og kommunene. For flyktninger som bosettes fra
-mottak, er det mottakene som registrerer inn
-bosettingsforberedende opplysninger. For overføringsflyktninger er det IMDi som registrerer. Privatboende må registrere opplysninger om seg
-selv. Også kompetanseopplysninger kan legges
-inn.
-
-7.3.1 Bosettingsforberedende kartlegging
-Flyktninger skal som hovedregel kartlegges før
-de blir bosatt. IMDi bruker informasjonen fra
-kartleggingen i arbeidet med å finne en egnet
-bosettingskommune. Bosettingskommunen bruker informasjonen for å forberede og legge til
-rette for tilbud og oppfølging i kommunen.
-For personer som bor i asylmottak, har UDI
-delegert ansvaret til asylmottakene for å innhente
-bosettingsrelevant informasjon gjennom en bosettingssamtale.18 Kartleggingen omfatter personens
-tilknytning til en kommune, relasjoner i Norge,
-16
-
-14
-
-71
-
-17
-18
-
-Proba samfunnsanalyse, 2019.
-Utlendingsdirektoratet, 2024c.
-Utlendingsdirektoratet, 2023c.
-
-[Side 74]
-
-72
-
-Meld. St.17
-Om integreringspolitikken: Stille krav og stille opp
-
-eventuelle behov for tilrettelegging og annen
-informasjon som er nødvendig for IMDi og kommunen å kjenne til.
-IMDi kartlegger tilsvarende opplysninger om
-overføringsflyktninger, både voksne og barn. Personer som bor privat eller har avtale om alternativ
-mottaksplassering, blir ikke kartlagt av asylmottakene eller IMDi. De må kartlegge enkle opplysninger om seg selv i et søknadsskjema dersom de
-søker IMDi om å bli bosatt med offentlig hjelp.
-Per i dag er kravene til helsekartlegging
-begrenset til en generell helseundersøkelse for
-mottaksbeboere ved ankomst og en obligatorisk
-tuberkuloseundersøkelse. Hverken asylmottakene eller IMDi har ansvar for å gjennomføre en
-helsekartlegging. Ansvaret ligger hos kommunen der personene oppholder seg.
-Helsedirektoratet har utarbeidet en veileder
-for kartlegging og helsetjenester til asylsøkere,
-flyktninger og familiegjenforente.19 I veilederen
-anbefales kommunene at de innen tre måneder tilbyr alle flyktninger, asylsøkere og familiegjenforente en helseundersøkelse for å kartlegge helsetilstand og eventuelle behov for psykisk og/eller
-somatisk oppfølging. Som et hjelpemiddel for
-kommunene og helsetjenesten har Helsedirektoratet utviklet et brukervennlig og enkelt kartleggingsskjema for helseundersøkelsen. Helsepersonell skal også sørge for tilrettelagt informasjon om
-rett til helsehjelp, helsetjenestene og hvordan
-man går fram for å få hjelp ved sykdom.
-Under opphold i omsorgssenter eller asylmottak blir enslige mindreåriges livssituasjon og
-behov kartlagt. Det er i dag en lovpålagt oppgave
-å kartlegge enslige mindreårige i omsorgssentre.
-Kartleggingen skal gjennomføres av personale
-med barnefaglig kompetanse. Informasjon fra
-kartleggingen brukes når det blir fattet individuelle oppfølgingsvedtak og for å utarbeide handlingsplaner. For enslige mindreårige i asylmottak
-er ikke kartleggingen regulert i lov, men nedfelt i
-krav til asylmottakene.20 Asylmottaket har en barnefaglig ansvarlig som står for kartleggingen, som
-blir til en individuell kartleggings- og tiltaksplan.
-
-7.3.2 Kompetansekartlegging
-Vertskommuner for asylmottak har ansvaret for å
-kartlegge kompetansen til voksne mellom 18 og
-19
-20
-
-Helsedirektoratet, 2023.
-Utlendingsdirektoratet, 2023b.
-
-2023–2024
-
-55 år som bor i asylmottak, og som har fått en oppholdstillatelse som gjør at de vil være i målgruppen for introduksjonsprogram etter at de er blitt
-bosatt. Kartleggingen skal som hovedregel gjennomføres innen 14 dager etter at den enkelte har
-fått innvilget oppholdstillatelse, og i forbindelse
-med det øvrige bosettingsforberedende arbeidet.
-IMDi kartlegger kompetansen til overføringsflyktninger mellom 18 og 55 år før ankomst til
-Norge.
-Kompetansekartleggingen skal minst omfatte
-språkkunnskaper, digitale ferdigheter, utdanning,
-arbeidserfaring og annen relevant kompetanse.
-Formålet med kompetansekartleggingen er
-todelt. På den ene siden skal den bidra til at flyktninger som er i målgruppen for introduksjonsprogrammet blir bosatt i en kommune med tilbud om
-utdanning eller arbeid. På den andre siden skal
-den bidra til at introduksjonsprogrammet blir tilpasset den enkeltes behov.
-Den enkelte har rett og plikt til å gjennomføre
-kartleggingen. Personer som av ulike grunner
-ikke kartlegges før de blir bosatt, skal kartlegges
-etter bosetting. Det digitale verktøyet for kompetansekartlegging er under utvikling. Verktøyet er
-ment å bedre informasjonsflyten mellom involverte parter i bosettingsprosessen og kvalifiseringsarbeidet. Videre skal det legge til rette for at
-informasjonen følger den enkelte gjennom
-arbeids- eller utdanningsrettede løp i introduksjonsprogrammet. Verktøyet legger også til rette
-for større dataintegrasjon for å dele kompetanseopplysninger med relevante fagsystemer i kommunene, fylkeskommunene og aktuelle instanser.
-For å bidra til rask bosetting, og for å ivareta
-hensynet til kapasiteten i vertskommunene for
-asylmottak, har personer med kollektiv beskyttelse ikke rett eller plikt til å gjennomføre kompetansekartlegging før bosetting. Dette innebærer
-at vertskommuner for asylmottak ikke har plikt til
-å kartlegge kompetansen til personer i denne
-gruppen som bor i mottak. Etter bosetting har
-personer med midlertidig kollektiv beskyttelse
-rett til å gjennomføre kompetansekartlegging. De
-som deltar i introduksjonsprogrammet, har både
-rett og plikt til å gjennomføre kartleggingen.
-Mottakene gjør likevel en forenklet kartlegging for personer med midlertidig kollektiv
-beskyttelse før bosetting. Kartleggingen inkluderer blant annet spørsmål om utdanning, arbeidserfaring, språkkompetanse, førerkort og om personen disponerer egen bil i Norge.
-
-[Side 75]
-
-2023–2024
-
-7.4
-
-Meld. St.17
-Om integreringspolitikken: Stille krav og stille opp
-
-Utfordringer i bosettingsarbeidet
-
-7.4.1 Svingninger i bosettingen
-Kriger, konflikter og ustabile politiske situasjoner
-i verden påvirker hvor mange som kommer til
-Norge av fluktgrunner. Anmodningen til kommunene om å bosette flyktninger er basert på en
-prognose over et framtidig bosettingsbehov, og
-anslagene kan endres betydelig i løpet av et år.
-Raske og store svingninger i antallet som skal
-bosettes, får konsekvenser for kommunenes planlegging, skalering av tilbudet og økonomi, og dermed for evnen og viljen til å bosette flyktninger.
-Da bosettingsbehovet gikk kraftig ned i 2018,
-måtte flere kommuner nedskalere eller avvikle tjenester de hadde bygd opp for å ta imot flyktninger.
-Særlig en del mindre kommuner fikk problemer
-med å beholde kompetanse og tjenester.21 Fire av
-fem kommuner oppga i 2019 at uforutsigbarhet
-var en av hovedutfordringene i arbeidet med å
-bosette flyktninger.22
-Kommunenes apparat for bosetting av enslige
-mindreårige flyktninger er ekstra sårbart for
-svingninger. Kommuner som bosetter enslige
-mindreårige, er avhengige av særskilt kompetanse, og det er ofte større usikkerhet om hvilke
-bo- og omsorgstiltak enslige mindreårige trenger.
-Samtidig er det mer krevende å få bosatt enkeltbarn med særskilte behov i perioder der bosettingsbehovet er stort.
-Da alle landets kommuner ble anmodet om å
-bosette flyktninger i 2022, hadde over 100 kommuner ikke bosatt flyktninger siden 2016 og 2017.
-Når bosettingen i tillegg skal skje raskt, er det
-særlig krevende for disse kommunene å bygge
-opp kompetanse og tjenester. Noen kommuner
-melder at det er særlig vanskelig å planlegge for
-bemanning og kapasiteten i kommunale tilbud og
-tjenester.23 Det er variasjon mellom og internt i
-kommuner. Noen kommuner kan ha god kapasitet på ett tjenesteområde, men være hardt presset
-på et annet. I distriktskommuner blir det også
-pekt på manglende kollektivtransport fra bolig til
-barnehage, skole, videregående opplæringstilbud
-og arbeid, og på mangel på kvalifisert arbeidskraft. Noen fylkeskommuner melder om at det er
-utfordrende å planlegge for videregående opplæring til ungdommer når de ikke vet når ungdommene vil bli bosatt, hvor mange som faktisk vil bli
-
-bosatt, hvor i fylket de blir bosatt og hvilket behov
-de har for opplæring.
-Bosettingsarbeidet kan også være uforutsigbart for staten og flyktninger som skal bosettes.
-Dersom kommunene vedtar at de kan bosette et
-lavere antall enn det er behov for, eller sier nei til å
-bosette enkeltpersoner og familier, kan ventetiden
-bli lang. Fra sent på 1990-tallet og fram til 2015 var
-det et betydelig antall kommuner som bosatte
-langt færre flyktninger enn de ble anmodet om.24
-Etter 2015 har imidlertid bosettingsviljen i kommunene vært høy.
-Erfaringene viser at dagens bosettingsordning
-har vært godt rustet til å møte store og raske
-svingninger i bosettingsbehovet. Bosetting av
-flyktninger er en frivillig oppgave for kommunene.
-De siste årene har vist at denne modellen fungerer, og regjeringen ønsker fortsatt å bygge på
-denne. Regjeringen ønsker samtidig å gjennomgå
-behovet for ytterligere lovforankring og tydeliggjøring av roller i bosettingsarbeidet. Arbeidet er
-tverrsektorielt, og det er ønskelig med klarere fordeling av ansvar og roller.
-
-7.4.2 Mangel på boliger
-Studier har over flere år pekt på at dårlig tilgang til
-boliger har vært blant de viktigste utfordringene i
-arbeidet med å bosette flyktninger. Det er sammensatte årsaker til dette. Kommunene kan ikke
-ha mange boliger stående tomme over tid. Samtidig er det ofte få ledige boliger i det kommunale
-boligmarkedet. Det er gjerne lav gjennomstrømming i de kommunale boligene, og det er stor konkurranse og høye priser på det private leiemarkedet.25
-NIBR har undersøkt hvordan kommuner
-klarte både å bosette raskere og doble bosettingen
-av flyktninger i perioden da det kom mange flyktninger fra Syria, Afghanistan og Irak. Den viktigste forklaringen var at kommunene økte bruken
-av boliger i det private leiemarkedet.26 Kommunene henvendte seg aktivt til private utleiere og
-satte inn tiltak for å redusere utleiernes antatte
-risiko ved å leie ut. Studien peker på at den økte
-bosettingen i 2015–2016 ikke så ut til å gå ut over
-boligkvaliteten for flyktningene.
-Også i 2022 og 2023 ser kommuner i stor grad
-ut til å ha brukt det private leiemarkedet for å
-framskaffe boliger til fordrevne fra Ukraina.27
-24
-
-21
-
-Svendsen & Berg, 2018.
-22
-Integrerings- og mangfoldsdirektoratet, 2019.
-23
-Proba samfunnsanalyse, 2023a; Søholt mfl., 2018.
-
-73
-
-25
-26
-27
-
-Friberg & Lund, 2006; Bakkeli & Jensen, 2015.
-Svendsen & Berg, 2018.
-Søholt mfl., 2018.
-Asplan Viak, 2023.
-
-[Side 76]
-
-74
-
-Meld. St.17
-Om integreringspolitikken: Stille krav og stille opp
-
-2023–2024
-
-Erfaringene illustrerer fleksibiliteten i det norske
-leiemarkedet. Fleksibiliteten skyldes først og
-fremst at det er et stort innslag av småskalautleiere, som gjør at mangel boliger kan trekkes inn
-og ut av markedet, og som gir variasjon i boligtilbudet. Dette har gjort det mulig å bosette et historisk høyt antall flyktninger på kort tid.28
-Med vedvarende høy bosetting blir boligkapasiteten i kommunene stadig mer presset. I en
-undersøkelse fra 2023 svarte 89 prosent av kommunene at de trenger flere utleieboliger til flyktninger og andre vanskeligstilte grupper.29 Store
-boliger er mer krevende å finne i bykommuner/
-sentrale strøk, mens mindre kommuner har færre
-mindre boliger. I små eller mindre sentrale kommuner kan det private markedet være begrenset.
-Tilgjengelige boliger kan ligge langt fra tettsteder,
-viktige tjenester og kollektivtransport, eller de
-kan trenge omfattende oppgradering. I sentrale
-kommuner er prisnivået ofte høyt.30
-Noen kommuner har også meldt at etablering
-av asylmottak og bruk av private utleieboliger kan
-komme i konflikt med bosettingen av flyktninger.
-Særlig i kommuner med press i leiemarkedet kan
-kommuner og asylmottak konkurrere om de
-samme boligene. Inntrykket har vært at driftsoperatørene har større betalingsvilje og dermed kan
-vinne konkurransen.31 KS har tatt til orde for å
-unngå desentraliserte asylmottak når det er et
-høyt press på boligmarkedet.
-Kommunen bestemmer selv hvilke boliger
-som kan brukes til å bosette flyktninger. De fleste
-kombinerer kommunale boliger med private
-utleieboliger. Noen kommuner bruker også bofellesskap som løsning, særlig i perioder når mange
-skal bosettes samtidig.
-Husbanken forvalter økonomiske virkemidler
-som bostøtte, tilskudd og lån. I tillegg støtter Husbanken opp om kommunene, frivillig sektor, byggsektoren og andre gjennom kunnskapsutvikling
-og kompetanseoverføring. For å støtte opp under
-kommunenes arbeid med bosetting av flyktninger
-ble ordningen med tilskudd til utleieboliger midlertidig gjeninnført i 2023. Tilskuddet ble samtidig
-utvidet, slik at det kunne brukes både til istandsetting, kjøp og bygging. Tilskudd til utleieboliger
-har gjennom tidligere flyktningsituasjoner vært
-viktig for å utløse investeringer i kommunene.
-Det er innført midlertidige lovendringer i planog bygningsloven og husleieloven som skal bidra i
-
-arbeidet med å framskaffe flere utleieboliger ved
-boligmangel som følge av at det kommer mange
-fordrevne fra Ukraina, se omtale i kap. 3.
-De nordiske landene har benyttet ulike botilbud og boløsninger for personer med midlertidig
-kollektiv beskyttelse. I Danmark blir for eksempel
-fordrevne fra Ukraina bosatt i en kommune innen
-fire dager etter innvilget oppholdstillatelse.32
-Regjeringen vil innhente kunnskap om erfaringer
-med alternative botilbud for flyktninger i andre
-nordiske land for å vurdere om Norge kan lære
-noe av erfaringer som er gjort i beredskapssituasjoner.
-
-28
-
-34
-
-Benedictow mfl., 2023.
-Osnes & Sørvoll, 2023.
-30
-Asplan Viak, 2023.
-31
-Kommunal rapport, 2023.
-
-7.4.3
-
-Utilstrekkelig kartlegging før
-bosetting
-I praksis blir det skilt mellom kompetansekartlegging, som er lovfestet for personer i alderen 18–55
-år som er i målgruppen for introduksjonsprogrammet, og den ulovfestede kartleggingen av
-annen bosettingsrelevant informasjon. Hvem som
-har ansvar for kartleggingen, og hvilke opplysninger som kartlegges, avhenger blant annet av hvor
-flyktningene oppholder seg før de blir bosatt.
-Dagens system for kartlegging før bosetting
-og videreformidling av opplysninger fører til at
-nødvendig informasjon ikke alltid når berørte tjenester i kommunen. Kommuner oppgir at det er
-stor variasjon i og ulik kvalitet på den kartleggingsinformasjonen de mottar. Dette gjelder både
-for beboere i asylmottak og overføringsflyktninger.33 Hva kommunene får av informasjon er blant
-annet avhengig av spørsmålene som stilles, hva
-flyktningene svarer og hvilke opplysninger som
-blir registrert. Det er også utfordringer med
-videreformidling av informasjon internt i kommunene.34
-Kommunene etterlyser særlig informasjon om
-flyktningenes helse- og omsorgsbehov.35 Riksrevisjonen pekte i 2019 på at det var behov for å
-avklare hva kommuner forventer å få av informasjon om helse og hva slags kartleggingsinformasjon det er mulig å framskaffe.36 Personvernregelverket setter rammer for hvilke helseopplysninger
-som kan innhentes og deles mellom forskjellige
-offentlige instanser.
-32
-33
-
-29
-
-35
-36
-
-Hernes mfl., 2023.
-IMDis årlige kommuneundersøkelser fra 2019-2021: Pedersen mfl., 2020; Integrerings- og mangfoldsdirektoratet,
-2021b; Integrerings- og mangfoldsdirektoratet, 2022.
-Oslo Economics & NOVA, 2022; Integrerings- og mangfoldsdirektoratet, 2021b.
-Thoresen mfl., 2022.
-Riksrevisjonen, 2019a.
+# Innledning
+
+Et av regjeringens hovedmål for integreringsarbeidet er at flere innvandrere skal komme inn i og få stabil tilknytning til det seriøse arbeidslivet. Muligheten til å leve av egen arbeidsinnsats og til en meningsfull jobb er grunnleggende for de aller fleste av oss. Arbeid betyr økt økonomisk selvstendighet, selvrealisering, deltakelse og nettverk. Det bidrar til kunnskap om arbeids- og samfunnsliv, gir en arena for å utvikle norskferdigheter og gjør at tilknytningen til lokalsamfunnet kan øke. Høy sysselsetting er samtidig en forutsetning for å sikre en bærekraftig velferdsstat, redusere fattigdom, utjevne sosiale forskjeller og oppnå likestilling mellom kjønnene.
+
+Innvandrere deltar i mindre grad i arbeid enn den øvrige befolkningen. Samtidig er innvandrere en sammensatt gruppe og deltakelse varierer betydelig med landbakgrunn og årsaken til at de kommer til landet. Arbeidsinnvandrere har markant høyere sysselsetting enn flyktninger og familiegjenforente, og sysselsettingen er særlig lav blant kvinner med fluktbakgrunn.
+
+Alle som kan jobbe, skal få mulighet til det. I arbeidslivet er det et stort udekket behov for arbeidskraft og kompetanse.[^163] NAVs bedriftsundersøkelse for 2023 viser at norske virksomheter mangler til sammen nesten 53 000 arbeidstakere.[^164] Framover er det ventet mangel på arbeidskraft særlig blant helsepersonell og i yrker som krever fagbrev.[^165] Aldringen av befolkningen fører til at vi blir stadig færre mennesker i arbeidsfør alder, samtidig som vi blir flere eldre. Det norske arbeidsmarkedet stiller høye krav til kompetanse, og norskferdigheter anses som nøkkelen til arbeidslivet. Utdanningsnivået varierer mye mellom ulike innvandrergrupper, og har stor betydning for arbeidsmarkedstilknytningen. Det store behovet for arbeidskraft gjør det ekstra viktig å innrette kvalifiseringen av innvandrere mot behovene i det norske arbeidsmarkedet. For at flere innvandrere skal komme i arbeid, vil regjeringen gjøre det lettere å delta i opplæring og kompetanseheving.
+
+Regjeringen er opptatt av at det skal lønne seg å jobbe. Det gjelder like mye for grupper av innvandrere som for den øvrige befolkningen. Insentivene til arbeid har betydning for hvor mange som deltar i arbeidslivet og hvor mye de arbeider. Fordi mange innvandrere har lav utdanning og begrenset med arbeidserfaring, er jobbmulighetene ofte å finne i deler av arbeidsmarkedet med lav lønn. Nivået på ytelsene som den enkelte kan motta uten å arbeide, er høye i Norge sammenlignet med mange andre land. Lønnsinsentivene til å jobbe vil dermed være relativt svakere for mange personer med innvandrerbakgrunn. Det gjør det særlig viktig både med tydelige forventninger og med effektive og målrettede tiltak som støtter opp om at den enkelte kommer i arbeid.
+
+Regjeringen er opptatt av å legge til rette for at veien inn i det seriøse arbeidslivet er så kort som mulig. I denne meldingen drøfter regjeringen hvordan vi gjennom integreringspolitikken kan bidra til å få flest mulig innvandrere inn i arbeid og hindre at de faller ut. Regjeringen vil også fremme en egen melding om hvordan arbeidsmarkedspolitikken skal bidra til at flere kommer i jobb og får en mer stabil tilknytning til arbeidslivet. Det er viktig at disse politikkområdene ses i sammenheng.
+
+Sett under ett lykkes vi forholdsvis godt med integreringen i Norge. I en nordisk kontekst har Norge over tid hatt gode resultater med å bistå flyktninger inn i arbeid. Siden 2015 har sysselsettingsgraden økt mer blant innvandrere enn i den øvrige befolkningen.[^166] Dette har redusert forskjellene i arbeidsmarkedsdeltakelse mellom disse to gruppene. Samtidig er det fortsatt forskjeller mellom innvandrere som helhet og den øvrige befolkningen når det gjelder sysselsetting og utdanning. Det er også store forskjeller mellom grupper av innvandrere.
+
+Arbeidsinnvandrere kommer hovedsakelig til landet på grunn av jobbmuligheter. De tilfører det norske arbeidsmarkedet viktig kompetanse og bidrar til å dekke behovet for arbeidskraft i mange sektorer. Selv om arbeidsmarkedet for mange er den viktigste arenaen for integrering, har det stor betydning hvilken del av arbeidslivet en kommer inn i. Deltakelse i arbeidslivet fører ikke automatisk til integrering i form av deltakelse på andre samfunnsområder. Utfordringene arbeidsinnvandrerne møter i arbeidslivet skyldes for mange at de er i bransjer med dårlige lønns- og arbeidsvilkår, som forsterkes av mangelfulle norskferdigheter og liten kjennskap til spillereglene i det norske arbeidslivet. Samtidig bidrar situasjonen i arbeidsmarkedet til å svekke forutsetningene for deltakelse på andre samfunnsområder, som politikk og sivilsamfunn. I tillegg til å jobbe for økt sysselsetting blant innvandrere, er det også nødvendig med tiltak for å styrke situasjonen for innvandrerne i arbeidslivet. Dette gjelder for alle innvandrergrupper, uavhengig av innvandringsgrunn.
+
+Det trygge, seriøse og organiserte arbeidslivet i Norge utfordres av useriøse aktører, sosial dumping og lav organisasjonsgrad i utsatte bransjer. Det bidrar til økte forskjeller, svekker den norske modellen og svekker rekrutteringen til viktige yrker. Derfor kreves det forsterket innsats og nasjonale tiltak for å styre utviklingen i arbeidslivet. Regjeringen vil føre en politikk som stimulerer til økt organisasjonsgrad blant både arbeidstakere og arbeidsgivere, og jobbe i nært samarbeid med partene for å sikre et seriøst og organisert arbeidsliv.
+
+I del II av stortingsmeldingen setter regjeringen søkelys på politikken for å øke sysselsettingen og styrke situasjonen i arbeidslivet for ulike grupper av voksne innvandrere – arbeidsinnvandrere fra både EØS-området og tredjeland, flyktninger, personer med kollektiv beskyttelse og familieinnvandrere. Delen starter med en beskrivelse av sysselsettingssituasjonen og hvordan denne blant annet varierer med innvandringsgrunn, botid, landbakgrunn og andre individuelle kjennetegn.
+
+Det finnes en rekke ordninger og tiltak som skal bidra til at flyktninger og innvandrere kommer i og blir værende i arbeidslivet, herunder introduksjonsprogrammet, jobbsjansen, kvalifiseringsprogrammet og arbeidsmarkedstiltak i regi av Arbeids- og velferdsetaten. Disse ordningene blir behandlet i kapittel 10 og 11.
+
+Mange aktører og fragmentert virkemiddelbruk er en barriere i arbeidet med å kvalifisere innvandrere for det norske arbeidslivet. For å få flere innvandrere i arbeid, er det nødvendig at integrerings-, utdannings- og arbeidsmarkedsmyndigheter samarbeider og ser virkemidlene i sammenheng. Det gjelder både på nasjonalt, regionalt og lokalt plan. Kapittel 10 omhandler tiltak og virkemidler for å styrke samarbeidet og samordningen i integreringsarbeidet.
+
+Å fullføre videregående skole er blant det aller viktigste for å komme inn i, og bli værende i arbeidslivet. Kapittel 11 omhandler tiltak og virkemidler for å øke den formelle kompetansen blant innvandrere.
+
+Gode norskferdigheter er en nødvendighet i store deler av arbeidslivet. Kapittel 12 omhandler tiltak og virkemidler for å bedre norskferdighetene blant innvandrere.
+
+Hvilke deler av arbeidslivet innvandrere kommer inn i, har mye å si for integreringen på alle arenaer, både økonomisk, sosiokulturelt og sivilpolitisk. Kapittel 13 omhandler innvandreres arbeidsforhold og arbeidsmiljø, og hvordan regjeringen vil legge til rette for et godt og trygt arbeidsliv for alle.
+
+# Innvandreres deltakelse i arbeidslivet
+
+Siden 2015 har sysselsettingsandelen økt mer blant innvandrere enn i den øvrige befolkningen, og stadig flere unge med innvandrerbakgrunn fullfører videregående opplæring, høyere yrkesfaglig utdanning og høyere utdanning.[^167] Dette er en positiv utvikling. Samtidig har innvandrere lavere sysselsetting og mindre formell utdanning enn befolkningen ellers. Innvandrere er også overrepresentert i yrker som er fysisk belastende, de har en mer usikker tilknytning til arbeidslivet og jobber i dårligere arbeidsmiljø.[^168] Det er godt dokumentert at sysselsettingen blant innvandrere fra lavinntektsland generelt, og flyktninger og familiegjenforente spesielt, øker de første årene etter ankomst til Norge for så å falle etter fem til ti år.[^169]
+
+Det er variasjoner i sysselsettingsnivået på tvers av ulike innvandrergrupper. Innvandringsgrunn er en viktig faktor, og personer som kommer til Norge for å arbeide har jevnt over høyere sysselsetting enn andre innvandrergrupper. I perioden fra 2007 til 2021 har det vært en vekst i sysselsatte på rundt 290 000 (11,5 prosent), der arbeidsinnvandrere og utenlandske pendlere har stått for nesten halvparten av veksten.[^170]
+
+I tillegg til innvandringsgrunn er landbakgrunn, botid, kjønn, alder og medbrakt kompetanse faktorer som kan bidra til å forklare de ulike innvandrergruppenes varierende sysselsetting. Det er også variasjoner i yrkesfordelingen og andelen med midlertidig ansettelse og dårlige arbeidsvilkår mellom ulike innvandrergrupper. I dette kapittelet gjøres det rede for sysselsettingssituasjonen blant ulike innvandrergrupper, og situasjonen i arbeidslivet for innvandrere som er i arbeid.
+
+## Sysselsettingssituasjonen
+
+Sysselsettingsnivået i Norge er høyt, men sysselsettingen blant innvandrere er lavere enn i befolkningen ellers. I 4. kvartal 2022 var andelen sysselsatte innvandrere i alderen 20–66 år om lag 69 prosent, som er rundt 11 prosentpoeng lavere enn sysselsettingsandelen blant befolkningen utenom innvandrere.[^171] Blant norskfødte med innvandrerforeldre var sysselsettingsandelen på om lag 75 prosent.[^172]
+
+Deltakelse i arbeidslivet varierer betydelig på bakgrunn av om innvandrere kommer som arbeidsinnvandrere, flyktninger, familiegjenforente eller studenter. Blant alle innvandrere som innvandret til Norge for første gang i perioden mellom 2005 og 2021, kom 42 prosent på grunn av arbeid, 33 prosent til familie, 14 prosent av humanitære grunner og 10 prosent for utdanning.[^173]
+
+Arbeidsinnvandrere er en sammensatt gruppe som fordeler seg på ulike yrkesgrupper. Den største andelen kommer fra de andre nordiske landene, Polen og de baltiske landene som følge av utvidelsen av EØS-avtalen i 2004.[^174] Fra 2011 har antall arbeidsinnvandrere til Norge blitt redusert.[^175] I motsetning til arbeidsinnvandrere fra EU-land, må arbeidsinnvandrere fra tredjeland søke om opphold og ha et arbeidsforhold i Norge før de kommer. Tillatelsen innvilges på bakgrunn av deres kompetanse og arbeidsforhold i Norge. Arbeidsinnvandrere fra tredjeland kan være faglærte arbeidstakere,[^176] sesongarbeidere, selvstendig næringsdrivende eller tjenesteytere.[^177] Som det fremkommer av figur 9.1, har arbeidsinnvandrere fra tredjeland et sysselsettingsnivå på linje med nordiske innvandrere og den øvrige befolkningen. Sysselsettingen blant arbeidsinnvandrere fra EØS-landene (utenom Norden) er noe lavere, men godt over nivået til flyktninger og øvrige innvandrere.[^178] Sysselsettingen blant bosatte arbeidsinnvandrere er i større grad påvirket av konjunktursvingninger enn for befolkningen utenom innvandrere.
+
+Øvrige innvandrere fra land utenfor EØS er i hovedsak personer som får opphold på grunnlag av flukt eller familietilknytning. Som figur 9.1 viser, har flyktninger og familiegjenforente til disse relativt lav arbeidsdeltakelse sammenlignet med andre innvandrergrupper.
+
+I 4. kvartal 2022 var andelen sysselsatte flyktninger 55 prosent, mens sysselsettingen for arbeidsinnvandrere var 80 prosent.[^179]
+
+Sysselsatte innvandrere, 20–66 år, etter innvandringsgrunn,2022
+
+Kilde: 12694 Statistikkbanken (ssb.no)
+
+Samtidig er det store forskjeller i sysselsettingsnivået landgruppene imellom. Disse forskjellene har over tid vært ganske stabile og uavhengige av konjunkturene på arbeidsmarkedet. Som det framgår av figur 9.2, er det innvandrere fra Afrika og Asia som samlet har lavest sysselsetting, men sysselsettingen for disse landgruppene har økt fra 2021 til 2022. Den markante nedgangen i sysselsettingen blant innvandrere fra Europa utenom EU/EFTA/Storbritannia fra 4. kvartal i 2021 til 2022 skyldes de store ankomstene med fordrevne fra Ukraina. I perioder med høy tilstrømning av flyktninger vil det være en tendens til at sysselsettingsraten til innvandrergruppen i helhet faller, fordi det tar tid før de nye flyktningene kommer i arbeid.[^180]
+
+Andel sysselsatte i befolkningen 20–66 år etter landbakgrunn.
+
+Kilde: Olsen, 2023.
+
+Ifølge Bratsberg mfl. (2016) er det et tydelig konjunkturmønster i den innledende integreringsprosessen, der det tar kortere tid å komme i arbeid, jo bedre konjunktursituasjonen er i Norge.[^181] Dette mener Bratsberg reflekterer at arbeidsmulighetene for innvandrere generelt sett synes å være mye mer følsomme for konjunkturene i økonomien enn de tilsvarende mulighetene for norskfødte.
+
+Som i andre land er arbeidsledigheten i Norge vesentlig høyere for innvandrere enn for den øvrige befolkningen. Andel innvandrere som er registrert arbeidsledige, er mer enn fire ganger så høy som i befolkningen utenom innvandrere, henholdsvis 4,6 prosent og 1,1 prosent.[^182] Mønsteret i ledighet er mye av det samme som i sysselsettingen. Flyktninger og familieinnvandrere har jevnt over en høyere andel arbeidsledige enn arbeidsinnvandrere. Arbeidsinnvandrere, særlig fra EØS-land, arbeider i større grad i konjunkturutsatte bransjer, noe som bidrar til at ledigheten varierer mer for denne gruppen enn i befolkningen for øvrig.
+
+I tillegg til innvandringsgrunn og landbakgrunn, varierer sysselsetting med botid, kjønn og alder.
+
+### Botid
+
+Arbeidsinnvandrere har en høy sysselsettingsandel uavhengig av hvor lenge de har bodd i landet. Arbeidsinnvandrere med under fire års botid har en sysselsettingsandel på nærmere 80 prosent, mens andelen sysselsatte flyktninger med tilsvarende botid er i overkant av 15 prosent.[^183] Mange flyktninger og deres familiegjenforente deltar i introduksjonsprogrammet de første årene etter at de blir bosatt i landet. For flyktninger og deres familiegjenforente vil lengre botid i landet kunne styrke deres muligheter i arbeidsmarkedet og øke sysselsettingsnivået, fordi det tar tid å lære seg norsk, tilegne seg relevant kompetanse og få nettverk mv. På den andre siden finner flere studier fra Frischsenteret at sysselsettingsandelen blant innvandrere fra lavinntektsland generelt, og blant flyktninger og familiegjenforente spesielt, øker de første årene etter ankomst til Norge, for så å falle fem til ti år etter ankomst, se figur 9.3.[^184] Blant kvinnene inntreffer dette fallet senere og er svakere. Dette må blant annet ses i sammenheng med at innvandrere er overrepresentert i midlertidige stillinger og konjunkturutsatte bransjer. Det er større variasjon i sysselsetting og ledighet over konjunktursyklene for innvandrere enn for den øvrige befolkningen.[^185] En del innvandrergrupper, også arbeidsinnvandrere, ser ut til å ha større problemer med å komme tilbake i arbeid når de blir arbeidsledige enn befolkningen for øvrig.
+
+Sysselsetting etter botid og innvandringsgrunn/ landbakgrunn
+
+Kilde: Bratsberg mfl., 2017 med oppdaterte tall
+
+Selv om botid har større betydning for flyktningers sysselsettingsnivå, utjevner lengre botid likevel ikke forskjellene i alle landgrupper.[^186] Etter 20 år i landet er det store ulikheter mellom land. For eksempel har flyktninger fra Eritrea en sysselsettingsandel på litt under 70 prosent, mens flyktninger fra Somalia har en andel på nærmere 45 prosent.[^187]
+
+### Kjønnsforskjeller
+
+Innvandrermenn har vanligvis høyere deltakelse i arbeidslivet enn innvandrerkvinner. Innvandrerkvinners sysselsetting er sterkt avhengig av innvandringsgrunn, som vist i figur 9.4. Blant arbeidsinnvandrere fra EØS-området og fra tredjeland, er kjønnsforskjellene små, og andelen sysselsatte var på 80 prosent for både menn og kvinner 4. kvartal 2022. Sysselsettingsandelen påvirkes imidlertid av alderssammensetningen i befolkningen, og det at arbeidsinnvandrere samlet sett er yngre, gjør at flere er i arbeid.[^188] Innvandrerkvinner mellom 20–66 år har i alt en sysselsettingsandel på 65 prosent.[^189]
+
+Sysselsatte innvandrere. 4. kvartal 2022, etter innvandringsgrunn og kjønn
+
+Kilde: SSB, tabell 12694
+
+Som det fremgår av figur 9.4, har kvinner med fluktbakgrunn en sysselsettingsandel på 43 prosent mot 61 prosent blant mennene.[^190] Kjønnsforskjellene varierer også mellom ulike landgrupper. Det er for eksempel store kjønnsforskjeller blant flyktninger fra Syria, Afghanistan og Sudan, mens det blant flyktninger fra Vietnam og Iran er små forskjeller mellom kvinner og menn.
+
+Mannlige flyktninger kommer raskere i arbeid enn kvinner, og kjønnsforskjellene er særlig store i gruppene med botid i Norge på under ti år. SSB finner forskjeller på 20 til 30 prosentpoeng i menns favør i disse gruppene.[^191] Dette skyldes blant annet at mange flyktningkvinner får barn de første årene etter ankomst til landet. Forskjellene reduseres med økt botid, og er omtrent halvert blant dem med 10–14 års botid, og er liten blant dem med botid på over 15 år.
+
+Sysselsettingsgapet mellom flyktningkvinner (inkludert familiegjenforente til flyktninger) og kvinner i hele befolkningen, er på over 20 prosentpoeng. Dette må ses i sammenheng med at deltakelsen i arbeidslivet er høy for kvinner i Norge i alderen 15–64 år, med en sysselsettingsandel på 72 prosent.[^192] Sysselsettingsforskjellen mellom menn og kvinner i Norge har vært stabil over det siste tiåret på om lag 5 prosentpoeng, og er en av de minste i OECD-sammenheng.[^193]
+
+### Alder
+
+Den mest yrkesaktive aldersgruppen i Norge er i alderen 25–54 år, se figur 9.5. Mange under 25 år er fortsatt under utdanning og utenfor arbeidsstyrken, mens en økende andel over 55 år er utenfor på grunn av uføretrygd og førtidspensjonering. De fleste som innvandrer til Norge, er i yrkesaktiv alder. Bare 6 prosent av innvandrerbefolkningen i Norge var over 67 år i 2023.[^194]
+
+Sysselsettingsrater etter aldersgrupper og kjønn i hele befolkningen
+
+Kilde: SSB
+
+Alder ved innvandring og utdanning og arbeid ved 30 års alder
+
+Kilde: Hermansen (2017), med oppdaterte tall fra 2023.
+
+Desto yngre en person er ved ankomst til Norge, desto høyere er sysselsettingsraten og jo lavere er uføreraten ti år etter, ifølge Bratsberg mfl.[^195] De som kommer til Norge i ung alder har større sannsynlighet for å ta utdanning i Norge, noe som reduserer risikoen for å falle utenfor utdanning og arbeid.[^196] Som det framgår av figur 9.6, har unge som innvandrer i midten av tenårene, 20 prosentpoeng lavere sannsynlighet for å fullføre videregående utdanning og høyere utdanning enn befolkningen ellers i tilsvarende alder. I tillegg har de vesentlig høyere sannsynlighet for å ikke være i arbeid.
+
+### Utdanningsnivå
+
+I en internasjonal sammenheng er den voksne befolkningen i Norge høyt utdannet. Utdanningsnivået blant innvandrere varierer mye. Mens nesten 50 prosent av flyktningene bare har grunnskole, gjelder dette kun 12 prosent av de europeiske arbeidsinnvandrerne og omtrent 20 prosent i hele befolkningen.[^197]
+
+Som det framgår av figur 9.7, skiller arbeidsinnvandrere fra land utenfor EØS seg klart fra øvrige grupper, med en andel med høyskole- og universitetsutdanning på 77,5 prosent. Dette kan forklares med at det stilles kompetansekrav for oppholdstillatelse for denne gruppen. Arbeidsinnvandrerne fra EØS-landene har en annen kompetanseprofil med 40 prosent på høyere utdanningsnivå, og om lag like stor andel med videregående som høyeste fullførte utdanning. Denne gruppen er forholdsvis lik øvrig befolkning uten innvandrere. Flyktningene skiller seg ut med en stor andel med ingen/kun grunnskole og litt under en firedel med høyere utdanning.
+
+Bosatte 20–66 år etter innvandrerbakgrunn¹ og utdanning. 4. kvartal 2020. Prosent
+
+Kilde: Dzamarija mfl., (2022).
+
+Som for befolkningen ellers har utdanningsnivået stor betydning for innvandreres tilknytning til arbeidsmarkedet. Innvandrere som har videregående opplæring fra Norge, er sysselsatt på tilsvarende nivå som den øvrige befolkningen med samme utdanningsnivå. Gruppen som kun har grunnskole, har lavest andel i arbeid eller utdanning uansett hvilken befolkningsgruppe en ser på. Gruppen med kun grunnskole er også betydelig overrepresentert blant arbeidsledige. Hele 49 prosent av alle registrerte arbeidssøkere hos Arbeids- og velferdsetaten har ikke fullført videregående skole.[^198] Samtidig viser tall fra Arbeids- og velferdsdirektoratet at 49 prosent av alle arbeidssøkere har innvandrerbakgrunn.[^199] Til sammenligning utgjør andelen med grunnskole i arbeidsstyrken 24 prosent.[^200]
+
+### Tilknytningsformer
+
+Innvandrere har en lavere andel i heltidsjobb sammenlignet med befolkningen ellers, henholdsvis 73 mot 78 prosent.[^201] Innvandrere og personer med lav utdanning har den høyeste andelen av alle med midlertidig ansettelse.[^202] Andelen med en midlertidig ansettelse blant innvandrere var 14 prosent, mot 12 prosent i hele befolkningen. Blant sysselsatte innvandrere med botid under fire år var hele 23 prosent midlertidig ansatt.[^203] Det er forskjeller i hvor mye innvandrere med ulik landbakgrunn jobber. Tall fra SSB viser at heltidsarbeid er mest utbredt i gruppene der flest er i jobb.[^204] Dette gjelder for innvandrere fra Norden, fra EU-land i Sentral- og Øst-Europa og EU-land i Vest-Europa utenom Norden. Innvandrere fra Asia og Afrika har både lavere sysselsettingsandel og lavere andel i heltidsjobb. Tilsvarende er innvandrerkvinner i mindre grad i jobb og en lavere andel jobber heltid sammenlignet med innvandrermennene.[^205]
+
+Ifølge SSB fordeler innvandrere seg etter yrker på en annen måte enn sysselsatte i befolkningen ellers.[^206] Innvandrere har en større andel i arbeid innen næringer som har høyt innslag av deltid og mange i midlertidige stillinger. Mange flyktninger har små og/eller kortvarige jobber, gjerne med arbeidsledighet imellom. Det er ikke uvanlig med løse arbeidsavtaler, med varierende og uforutsigbar arbeidstid. Innvandrere fra Asia og Afrika jobber i større grad i næringer der deltid er vanlig, blant annet innenfor helse- og sosialtjenester og serveringsvirksomhet.[^207]
+
+Utenlandske pendlere, etter referansetidspunkt 3. kvartal (august) og hele året som referansetidspunkt. 2015–2021
+
+Kilde: Berge mfl., 2022.
+
+Virksomheter som bruker utenlandsk arbeidskraft, kombinerer gjerne ulike tilknytningsformer. Innleie er mer utbredt blant innvandrere enn blant norskfødte, og i særlig grad blant innvandrere fra Sentral- og Øst-Europa. Flertallet av de ansatte i bemanningsforetak har innvandrerbakgrunn, og utenlandske pendlere (arbeidsinnvandrere på korttidsopphold) fra EU-land i Sentral- og Øst Europa har utgjort om lag en tredel av de sysselsatte i bransjen.[^208] Figur 9.8 viser at antallet utenlandske pendlere varierer mellom 73 000 og 104 000 når en ser på tredje kvartal i perioden 2015–2021. Når SSB går fra å telle tredje kvartal til å se på hele året, så doblet antall utenlandske pendlere seg i 2021 fra 73 000 til 145 000.[^209] Nedgangen i 2020 og 2021 henger sammen med koronapandemien. SSB anslår at det i løpet av 2022 var i overkant av 169 000 utenlandske pendlere som arbeidet i Norge for en kortere eller lengre periode. Det er altså betydelig flere utenlandske pendlere enn det kvartalsstatistikken viser.[^210] Bygg og anlegg og bemanningsbransjen er næringene med flest utenlandske pendlere.[^211] Ifølge SSB økte omfanget i løpet av 2022 slik at en fra og med første kvartal 2023 var på et høyere nivå enn det som var før pandemien. Når det gjelder arbeidstakere fra EU-landene i Øst-Europa, er omfanget likevel fortsatt noe lavere. En årsak kan være at arbeid i Norge ikke framstår like økonomisk attraktivt som tidligere. En annen årsak kan være redusert aktivitet i de næringene hvor mange utenlandske pendlere har fått jobb tidligere. SSBs tall viser at det i løpet av 2023 er blitt færre som jobber i bemanningsbransjen. SSBs vurdering er at dette blant annet skyldes nytt regelverk for ut- og innleie av arbeidskraft fra bemanningsbransjen. Regelverket trådte i kraft 1. april 2023. Dessuten påvirker konjunktursituasjonen etterspørselen etter arbeidskraft. Mange innleide arbeidstakere har jobbet i byggenæringen, hvor aktivitetsnivået nå er fallende.
+
+Ifølge en rapport publisert av EU-byrået Eurofound opplever arbeidstakere med alternative tilknytningsformer høyere jobbusikkerhet, økt opplevelse av å stå utenfor samfunnet og mindre tiltro til demokratiet enn arbeidstakere som har hele og faste stillinger.[^212] Kartleggingen bygger på undersøkelser fra EU-landene. Et fellestrekk med situasjonen i Norge er at mange innvandrere har slike atypiske jobber. Bratsberg mfl. finner at innvandrere fra landgruppe 3[^213] i større grad enn andre jobber i bedrifter som må nedbemanne eller går konkurs, og at de over en toårsperiode har mer enn dobbelt så høy sannsynlighet for å miste jobben ufrivillig.[^214] I tillegg er konsekvensene mer alvorlige for denne gruppen, ved at det tar lengre tid før de kommer i jobb igjen.
+
+Innvandrere er overrepresentert i lavinntektsgruppen. Vedvarende lavinntekt øker blant annet risikoen for fattigdom og utenforskap. Lavinntekt er nærmere omtalt under punkt 15.1.
+
+Yrkestilknytning
+
+Blant lønnstakere i Norge er det store forskjeller i yrkesfordelingen mellom innvandrere og resten av befolkningen. Det er også forskjeller mellom ulike innvandrergrupper. Det er flere innvandrere som jobber i lavtlønnede yrker enn i befolkningen ellers. Som det framgår av figur 9.9, jobbet omtrent 12 prosent av innvandrere som renholdere og hjelpearbeidere i 2022. Innvandrere forblir også i større grad i disse yrkene over mange år, særlig kvinner med innvandrerbakgrunn. Innvandrere er også overrepresentert i salgs- og serviceyrker, der de utgjorde 24 prosent av de sysselsatte i 2022. Et fellestrekk ved disse yrkesområdene er at de ikke stiller særlige krav til utdanning. Generelt jobber innvandrere i mindre grad i akademiske yrker, høyskoleyrker eller som ledere.
+
+Sysselsatte (20–66) etter yrke, kjønn og todelt landgruppe, 2022
+
+Landgruppe 1: Norden utenom Norge, EU/EFTA, Storbritannia, USA, Canada, Australia, New Zealand. Landgruppe 2: Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+
+Kilde: SSB Statistikkbanken kildetabell 12554
+
+Selv om innvandrere er overrepresentert i lavtlønnede yrker, er det variasjoner i bransjetilknytning mellom innvandrergruppene. Blant sysselsatte innvandrere fra EU er bygge- og anleggsnæringen klart mest utbredt (31 pst.), etterfulgt av industri og forretningsmessig tjenesteyting, hvor mange er sysselsatt i bemanningsbransjen. Arbeidsinnvandrere fra tredjeland er derimot i størst grad sysselsatt innen næringsgruppene informasjon, kommunikasjon, helse- og sosialtjenester og undervisning.[^215] Blant flyktninger er helse- og sosialtjenester den næringsgruppen som sysselsetter flest med en andel på 26,7 prosent.[^216]

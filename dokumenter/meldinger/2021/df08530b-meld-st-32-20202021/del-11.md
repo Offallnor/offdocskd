@@ -1,867 +1,244 @@
-# Meld. St. 32 (2020–2021), del 11 av 16 (side 112–121)
+# Meld. St. 32 (2020–2021), del 11 av 15
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/meldinger/2021/df08530b-meld-st-32-20202021.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/meld.-st.-32-20202021/id2856870/
 - Original-PDF: https://www.regjeringen.no/contentassets/ce1f2d9ff9a64db2967817b0b337702c/no/pdfs/stm202020210032000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 17 figurer, 16 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 112]
+# Bedre forebyggende sosialt arbeid, sosiale tjenester og sosial inkludering
 
-110
+## Innledning
 
-Meld. St. 32
-Ingen utenfor – En helhetlig politikk for å inkludere flere i arbeids- og samfunnsliv
+For å bidra til bedre forebygging av sosiale problemer og legge til rette for en helhetlig innsats lokalt, har regjeringen tatt initiativ til flere nasjonale tverrgående strategier og handlingsplaner. Frivillige organisasjoner og sosiale entreprenører er viktige samarbeidspartnere i dette arbeidet.
 
-ferdstjenestene. Fagrådet er et rådgivende organ
-og har ikke besluttende myndighet. Rådet har for
-tiden 14 medlemmer som har bakgrunn fra helseog omsorgstjenesten, arbeids- og velferdsforvaltningen og forskningsinstitusjoner. De har alle
-omfattende kunnskap om fagområdet basert på
-erfaring fra praksisfeltet og/eller forskning. To av
-medlemmene er brukerrepresentanter. Sakene
-som tas opp foreslås av rådet selv, av direktoratene eller av andre. Rådene som gis er både
-direkte rettet mot direktoratenes arbeid og rettet
-mot andre aktører, som Helse- og omsorgsdepartementet, Forskningsrådet, de regionale helseforetakene, Den nasjonale forskningsetiske komité,
-Kunnskapsdepartementet mfl.
-Helsedirektoratet er sammen med Arbeids- og
-velferdsdirektoratet gitt i oppdrag å utarbeide
-felles nasjonale faglige anbefalinger for tjenesteutøvere innen fagområdet arbeid og helse. Det er
-lagt opp til at anbefalingene vil ha en temabasert
-oppbygging, hvor IPS vil utgjøre temadel 1 mens
-HelseIArbeid vil være temadel 2.
-Styrke kunnskapsgrunnlaget for videre utvikling av
-strategi og tjenester
-En hovedutfordring for de involverte sektorene er
-å utvikle et solid kunnskapsgrunnlag om hvilke
-tjenester, metoder, tiltak og samhandlingsformer
-som har dokumentert effekt. Kunnskapsutviklingen bør særlig rette seg inn mot de store
-brukergruppene (personer med muskel- og
-skjelettlidelser, personer med psykiske lidelser og
-personer med sammensatte helse- og livsproblemer) i både arbeids- og velferdsforvaltningen
-og helse- og omsorgstjenestene og deres muligheter for deltagelse i arbeidslivet. Det er behov for
-kunnskap om hvordan en kan få til en best mulig
-koordinert innsats. Det er både behov for
-forskning på effekter, men også prosessevalueringer som kan avdekke hva som hemmer og
-fremmer samhandling mellom sektorene, samt
-hvordan en kan lykkes med å implementere mer
-samordnede tiltak og praksiser. Et eksempel på et
-slikt forskningsarbeid er en evaluering som nylig
-er gjennomført av NORCE på oppdrag fra Arbeidsog sosialdepartementet.20 I evalueringen er det
-undersøkt hvordan jobbspesialister fra Arbeidsog velferdsetaten og behandlere fra helse- og
-omsorgstjenesten samarbeider i integrerte
-20
+Dette kapitlet omhandler kommunens forebyggingsansvar etter sosialtjenesteloven, individuelle sosiale tjenester og tiltak som bidrar til sosial inkludering. Kommunene har et omfattende ansvar for innbyggernes velferd på områder som helse, sosial, bolig, integrering, barnevern, oppvekst og utdanning, og kultur og fritid. I tillegg har de et særlig ansvar for personer som faller utenfor eller får utilstrekkelig hjelp gjennom andre velferdsordninger.
 
-Fyhn, T., Øygarden, O., Monstad, K. & Skagseth, M.
-(2021). Evaluering av samarbeidet mellom NAV og helsetjenesten om Individuell jobbstøtte (IPS). Rapport 1-2021.
-NORCE
+Sosialtjenesteloven skal både fremme overgang til arbeid, sosial inkludering og aktiv deltakelse i samfunnet og bidra til å bedre levekårene for vanskeligstilte og til økonomisk og sosial trygghet. Sosiale tjenester og sosialfaglig oppfølgingsarbeid er viktig i et helhetlig tjenestetilbud til personer som opplever utenforskap og sosiale problemer, men også i kommunens arbeid med å forebygge at slike problemer oppstår. En utfordring i utvikling av de sosiale tjenestene er å få mer systematisk kunnskap om hvordan kommunene kan ivareta sitt generelle forebyggingsansvar og hvordan dette kan videreutvikles.
 
-2020–2021
+I de individuelle tjenestene er grundig kartlegging av den enkeltes behov og muligheter, individuell tilpasning av tiltak og tett oppfølging viktig. Økonomisk stønad er ment som en midlertidig inntektssikring, som sammen med sosialfaglig oppfølging og relevante tiltak skal bidra til å gjøre den enkelte selvhjulpen. Manglende individuell tilpasning av tiltak kan bidra til at stønadsperioden forlenges, mulighetene for å bli selvhjulpen reduseres og risikoen for økonomiske vansker øker. Vilkår om aktivitet er et viktig virkemiddel for å inkludere flere i arbeid. For at aktivitetsplikten skal øke mulighetene for den enkelte til å komme i arbeid, må innholdet i plikten tilpasses den enkelte.
 
-behandlingsteam om individuell jobbstøtte (IPS).
-Evalueringen viser blant annet at faktorer som er
-avgjørende for suksess i integrerte team omfatter
-rammebetingelser, felles kultur og forståelse, likeverdighet i teamet, pasientens ønsker og motivasjon, og tid til å jobbe seg sammen. Hovedutfordringer i samarbeidet omfatter formelle hindre,
-manglende felles forståelse av IPS, manglende
-inkludering av jobbspesialist i behandlingsteamet
-og profesjonsmotsetninger. Pasientene som mottar individuell jobbstøtte opplever samhandlingen
-mellom helsearbeider og jobbspesialist som koordinert, trygg og helhetlig. Undersøkelsen viser
-også at arbeidsgivere setter pris på oppfølgingen
-som gis av jobbspesialist og behandler, og at den
-bl.a. bidrar til å gi arbeidsgiver bedre forståelse av
-den ansattes situasjon, behov og eventuell tilrettelegging.
-Et annet eksempel er et forskningsprosjekt
-som gjennomføres av Nordlandssykehuset HF,
-finansiert av Forskningsrådet (NFR), som blant
-annet skal belyse implementering og implementeringsutfordringer knyttet til IPS. Også den pågående kartleggingen som gjennomføres av statsforvalteren illustrerer at det er behov for mer kunnskap om samhandling mellom tjenestene. Denne
-kartleggingen vil i neste omgang kunne være et
-nyttig grunnlag for senere utprøving av og
-forskning på samarbeidsformer og tiltak.
+De sosiale tjenestene må ses i sammenheng med og virke sammen med andre tjenester i NAV-kontoret og ulike helse- og utdanningstjenester. God tilgang til relevante statlige arbeidsmarkedstiltak er viktige for at flere av de som mottar økonomisk stønad kan komme i arbeid. Arbeidsmarkedstiltakene må også utvikles og utformes med dette for øye. Sosiale tjenester som økonomisk rådgivning kan være aktuelle også for de som har en statlig ytelse som hovedinntekt, og må gjøres tilgjengelig for alle med behov for dette.
 
-5.5
+NAV-kontoret møter ofte personer med komplekse behov for bistand og tjenester. For noen vil arbeid være et mål som kan nås i løpet av forholdsvis kort tid, mens for andre et mer langsiktig og usikkert mål. For disse vil inkludering på andre samfunnsarenaer enn ordinært arbeidsliv både kunne ha en verdi i selv, og i noen tilfelle bidra til at arbeid etter hvert blir et mer realistisk mål. For personer med en varig statlig inntektssikring vil også mulighet til å delta på andre arenaer enn ordinært arbeidsliv være viktig.
 
-Oppsummering av tiltak
+Politikken for å inkludere flere i arbeid må derfor ses i nær sammenheng med og virke sammen med en politikk for sosial inkludering. Varig tilrettelagt arbeid (VTA) er et tilbud for uføretrygdede med behov for spesiell tilrettelegging og tett oppfølging. VTA skal bidra til å utvikle ressurser hos deltakeren gjennom kvalifisering og tilrettelagte arbeidsoppgaver. Gjennom VTA gis deltakeren anledning til å bidra til samfunnet og delta i et sosialt fellesskap på arbeidsplassen. De fleste jobber i en skjermet virksomhet, men regjeringen ønsker å øke bruken av ordinære virksomheter som arrangører av tiltaket gjennom å styrke oppfølgingen av deltakerne i VTA i ordinær virksomhet.
 
-Arbeidsinkludering er viktig for å motvirke utenforskap. En sentral problemstilling er hvordan
-innsatsen kan tilpasses brukere med omfattende
-og sammensatte utfordringer på en bedre måte.
-Sammensatte utfordringer krever ofte løsninger
-som går utover en enkelt sektors ansvarsområde.
-Mange av Arbeids- og velferdsetatens brukere
-mangler den kompetansen arbeidsmarkedet etterspør. Arbeids- og velferdsetaten kan, ved behov,
-tilby opplæringstiltak, men bruken av opplæringstiltakene har over tid gått ned. Framover forventes færre jobber for ufaglærte og økt etterspørsel
-etter personer med gjennomgått fag- og yrkesopplæring. Det er behov for en forsterket, samordnet
-innsats mellom Arbeids- og velferdsetaten og
-fylkeskommunene for å sikre at flere brukere som
-trenger det, får tilbud om tilrettelagt videregående
-opplæring – med vekt på fag- og yrkesopplæring.
-Mange av dem som står utenfor arbeidslivet
-mangler grunnleggende ferdigheter. Grunnskoleopplæringen er i liten grad tilpasset voksne, og
-det kan være utfordringer bl.a. knyttet til finan-
+I en politikk for sosial inkludering er offentlig innsats alene ikke tilstrekkelig. En rekke frivillige organisasjoner og sosiale entreprenører er viktige samarbeidspartnere og yter viktige bidrag for å gi flere mulighet til å delta og bli inkludert i samfunnsliv. Regjeringen vil fortsette å legge til rette for denne typen samarbeid.
 
-[Side 113]
+Kommunenes forebyggingsansvar omtales i kapittel 6.2, de individuelle sosiale tjenestene i kapittel 6.3 og tiltak som bidrar til sosial inkludering i kapittel 6.4. Regjeringens videre arbeid på disse områdene oppsummeres i kapittel 6.5.
 
-2020–2021
+## Forebyggende sosialt arbeid
 
-Meld. St. 32
-Ingen utenfor – En helhetlig politikk for å inkludere flere i arbeids- og samfunnsliv
+Sosialtjenesteloven inngår som en del av kommunens samlede velferdsansvar og er et siste sikkerhetsnett i velferdsordningene. Formålet med loven er å
 
-siering av livsopphold under opplæringen. Grunnskoleopplæringen er primært kommunens ansvar,
-men Arbeids- og velferdsetaten kan tilby opplæring i grunnleggende ferdigheter og norsk innenfor den tidsbegrensningen som gjelder for opplæring i forskrift om arbeidsmarkedstiltak. Det er
-behov for å styrke samarbeidet mellom kommunen, fylkeskommunen og Arbeids- og velferdsetaten om å gi flere grunnleggende ferdigheter,
-bidra til at flere gjennomfører videregående opplæring og kommer i arbeid. Endringer i dagpengeregelverket skal støtte opp under og gi flere
-muligheter for opplæring og kompetansepåfyll
-mens de går ledige og mottar dagpenger.
-Mange med helseproblemer som står utenfor
-arbeidslivet har behov for samtidig bistand fra
-arbeids- og velferdsforvaltningen og helse- og
-omsorgstjenestene for at mål om økt arbeidsdeltakelse og bedre helse skal nås. Arbeid har ofte
-først blitt et tema når behandling er sluttført.
-Hverken Arbeids- og velferdsetatens eller helseog omsorgstjenestens virkemidler er alene tilstrekkelige for å bistå personer med for eksempel
-psykiske/psykososiale problemer, smerteproblematikk og/eller sammensatte helse- og livsproblemer. Dette gjør at helse- og omsorgstjenestene
-og Arbeids- og velferdsetaten må samarbeide
-bedre for å kunne møte brukernes behov for
-tjenester.
-Regjeringen vil gjennomføre følgende tiltak for
-å bedre samhandlingen mellom utdanning, arbeid
-og helse:
-– Videreføre og styrke innsatsen i inkluderingsdugnaden, og videreutvikle samarbeidet mellom sektorene for arbeid, helse og utdanning.
-Innretningen vil vurderes nærmere, med sikte
-på å gjøre satsingen mer målrettet og tilpasset
-utviklingen i arbeidsmarkedet, og vil også
-bygge på erfaringer med kampanjen #Semuligheter.
-– Legge til rette for at opplæring for voksne blir
-bedre tilpasset voksnes behov for fleksible og
-komprimerte løp, blant annet ved at modulstrukturert opplæring skal være hovedmodell
-for all opplæring for voksne opp til og med
-videregående opplæring, jf. Meld. St. 21 (2020–
-2021) Fullføringsreformen – med åpne dører til
-verden og fremtiden. Regjeringen foreslår også
-å gi unge og voksne rett til opplæring inntil de
-har fullført og bestått videregående opplæring,
-og en rett til yrkesfaglig rekvalifisering (fagbrev 2) for de som allerede har studie- eller
-yrkeskompetanse.
-– Styrke og videreutvikle samarbeidet mellom
-Arbeids- og velferdsetaten og fylkeskommu-
+*«bedre levekårene for vanskeligstilte, bidra til sosial og økonomisk trygghet, herunder at den enkelte får mulighet til å leve og bo selvstendig, og fremme overgang til arbeid, sosial inkludering og aktiv deltakelse i samfunnet. Loven skal bidra til at utsatte barn og unge og deres familier får et helhetlig og samordnet tjenestetilbud. Loven skal bidra til likeverd og likestilling og forebygge sosiale problemer.» (§ 1)*
 
-–
-
-–
-
-–
-
-–
-
-–
-
-111
-
-nen for å gi flere voksne utenfor arbeidslivet tilbud om tilpasset videregående opplæring.
-Dette vil blant annet følges opp gjennom felles
-oppdrag til Arbeids- og velferdsdirektoratet og
-Kompetanse Norge om utprøving av tilpasset
-opplærings- og utdanningstiltak, spredning av
-gode modeller for tilbud og samarbeid, mer
-systematisk realkompetansevurdering, vurdere forhold rundt deling og innhenting av personopplysninger på tvers av arbeids- og velferdssektoren og utdanningssektoren mv.
-Samarbeidet mellom Arbeids- og velferdsetaten og fylkeskommunen vil også styrkes
-gjennom egne opplæringskoordinatorstillinger
-i Arbeids- og velferdsetaten som bl.a. skal
-bygge bro mellom sektorene, og økt satsing på
-oppfølging av grupper med bistandsbehov som
-deltar i opplæringstiltak.
-Vurdere å sette i gang et forsøk hvor tilrettelagte
-opplæringstilbud kan finansieres gjennom felles
-tilskuddsmidler. Midlene vil kunne bidra til å
-dekke både opplæringstilbudet, oppfølging av
-deltakerne, nødvendig norskopplæring, tilgang
-til realkompetansevurdering samt spredning av
-informasjon om vellykkede samarbeidsprosjekt.
-Formålet med et ev. slikt forsøk er å stimulere til
-et utvidet tverrsektorielt samarbeid om en opplæringstjeneste som inkluderer både Arbeidsog velferdsetatens og fylkeskommunens virkemidler. Dette kan legge grunnlag for et framtidig samarbeid som finansieres på ordinær måte.
-En ev. tilskuddsordning skal være søkbar og
-underlegges et felles sett med styrings- og
-prioriteringssignaler til hhv. Kompetanse Norge
-og Arbeids- og velferdsdirektoratet.
-Etablere et avgrenset forsøk i Arbeids- og velferdsetaten med opplæring for personer som
-har så svake grunnleggende ferdigheter at de
-trenger grunnopplæring av lengre varighet
-enn det opplæringstiltaket nå gir adgang til.
-Legge til rette for at flere ledige og permitterte
-får påfyll av kompetanse i ledighetsperioden
-gjennom endringer i dagpengeregelverket som
-skal gjøre det mulig for flere å fullføre grunnskole og videregående opplæring i ledighetsperioden, og bidra til at flere kvalifiseres til
-arbeid.
-Innhente mer kunnskap om hva som skal til for
-at flere ledige kan fullføre nødvendige opplæringsløp og hvordan det kan tilrettelegges
-bedre for dette.
-Sette i gang et arbeid for å videreutvikle og
-benytte kompetansen til unge gamere som står
-utenfor arbeidslivet, og koble denne opp mot
-bedrifter som trenger digital kompetanse. Det
-
-[Side 114]
-
-112
-
-–
-
-–
-
-Meld. St. 32
-Ingen utenfor – En helhetlig politikk for å inkludere flere i arbeids- og samfunnsliv
-
-vurderes bl.a. å opprette piloter ved NAV-kontorer i to fylker med sikte på å videreutvikle og
-forsterke satsingen.
-Styrke norskopplæringen for voksne innvandrere ved å utarbeide prøver for standardisert
-kartlegging av deltakers norsknivå slik at opplæringen kan tilpasses den enkeltes ferdigheter og legge til rette for oppnåelse av norskmål.
-Legge til rette for tettere og mer systematisk
-samhandling mellom arbeidsrettede tjenester
-og helse- og omsorgstjenestene. Arbeids- og
-velferdsdirektoratet og Helsedirektoratet vil få
-et felles oppdrag om å undersøke barrierer og
-mulige tiltak for tettere og mer systematisk
-tjenestesamhandling. Oppdraget vil også innebære å prøve ut nye modeller for tjenestesamhandling.
-
-–
-–
-–
-
-–
-
-2020–2021
-
-Arbeide for et bedre og mer effektivt samarbeid mellom Arbeids- og velferdsetaten og
-fastlegene.
-Prioritere arbeidet med å få på plass felles,
-nasjonale faglige anbefalinger innenfor arbeid
-og helse.
-Videreutvikle piloteringen av FACT ung med
-deltakelse fra utdannings- og jobbspesialist
-med sikte på å gi unge med psykiske lidelser
-og ruslidelser tett individuell oppfølging rettet
-mot arbeid og skole.
-Prøve ut individuell jobbstøtte for unge under
-30 år der målet er at flere unge med moderate
-til alvorlige psykiske lidelser og/eller ruslidelser gjennomfører utdanning/lærlingeløp og
-kommer over i ordinært lønnet arbeid.
-
-[Side 115]
-
-2020–2021
-
-Meld. St. 32
-Ingen utenfor – En helhetlig politikk for å inkludere flere i arbeids- og samfunnsliv
-
-113
-
-6 Bedre forebyggende sosialt arbeid, sosiale tjenester
-og sosial inkludering
-6.1
-
-Innledning
-
-For å bidra til bedre forebygging av sosiale problemer og legge til rette for en helhetlig innsats
-lokalt, har regjeringen tatt initiativ til flere nasjonale tverrgående strategier og handlingsplaner.
-Frivillige organisasjoner og sosiale entreprenører
-er viktige samarbeidspartnere i dette arbeidet.
-Dette kapitlet omhandler kommunens forebyggingsansvar etter sosialtjenesteloven, individuelle sosiale tjenester og tiltak som bidrar til
-sosial inkludering. Kommunene har et omfattende
-ansvar for innbyggernes velferd på områder som
-helse, sosial, bolig, integrering, barnevern, oppvekst og utdanning, og kultur og fritid. I tillegg
-har de et særlig ansvar for personer som faller
-utenfor eller får utilstrekkelig hjelp gjennom
-andre velferdsordninger.
-Sosialtjenesteloven skal både fremme overgang til arbeid, sosial inkludering og aktiv deltakelse i samfunnet og bidra til å bedre levekårene
-for vanskeligstilte og til økonomisk og sosial
-trygghet. Sosiale tjenester og sosialfaglig oppfølgingsarbeid er viktig i et helhetlig tjenestetilbud til personer som opplever utenforskap og
-sosiale problemer, men også i kommunens arbeid
-med å forebygge at slike problemer oppstår. En
-utfordring i utvikling av de sosiale tjenestene er å
-få mer systematisk kunnskap om hvordan kommunene kan ivareta sitt generelle forebyggingsansvar og hvordan dette kan videreutvikles.
-I de individuelle tjenestene er grundig kartlegging av den enkeltes behov og muligheter, individuell tilpasning av tiltak og tett oppfølging viktig.
-Økonomisk stønad er ment som en midlertidig inntektssikring, som sammen med sosialfaglig oppfølging og relevante tiltak skal bidra til å gjøre den
-enkelte selvhjulpen. Manglende individuell tilpasning av tiltak kan bidra til at stønadsperioden forlenges, mulighetene for å bli selvhjulpen reduseres
-og risikoen for økonomiske vansker øker. Vilkår
-om aktivitet er et viktig virkemiddel for å inkludere
-flere i arbeid. For at aktivitetsplikten skal øke
-mulighetene for den enkelte til å komme i arbeid,
-må innholdet i plikten tilpasses den enkelte.
-
-De sosiale tjenestene må ses i sammenheng
-med og virke sammen med andre tjenester i NAVkontoret og ulike helse- og utdanningstjenester.
-God tilgang til relevante statlige arbeidsmarkedstiltak er viktige for at flere av de som mottar økonomisk stønad kan komme i arbeid. Arbeidsmarkedstiltakene må også utvikles og utformes
-med dette for øye. Sosiale tjenester som økonomisk rådgivning kan være aktuelle også for de
-som har en statlig ytelse som hovedinntekt, og
-må gjøres tilgjengelig for alle med behov for
-dette.
-NAV-kontoret møter ofte personer med komplekse behov for bistand og tjenester. For noen vil
-arbeid være et mål som kan nås i løpet av forholdsvis kort tid, mens for andre et mer langsiktig
-og usikkert mål. For disse vil inkludering på
-andre samfunnsarenaer enn ordinært arbeidsliv
-både kunne ha en verdi i selv, og i noen tilfelle
-bidra til at arbeid etter hvert blir et mer realistisk
-mål. For personer med en varig statlig inntektssikring vil også mulighet til å delta på andre
-arenaer enn ordinært arbeidsliv være viktig.
-Politikken for å inkludere flere i arbeid må derfor ses i nær sammenheng med og virke sammen
-med en politikk for sosial inkludering. Varig tilrettelagt arbeid (VTA) er et tilbud for uføretrygdede
-med behov for spesiell tilrettelegging og tett oppfølging. VTA skal bidra til å utvikle ressurser hos
-deltakeren gjennom kvalifisering og tilrettelagte
-arbeidsoppgaver. Gjennom VTA gis deltakeren
-anledning til å bidra til samfunnet og delta i et
-sosialt fellesskap på arbeidsplassen. De fleste jobber i en skjermet virksomhet, men regjeringen
-ønsker å øke bruken av ordinære virksomheter
-som arrangører av tiltaket gjennom å styrke oppfølgingen av deltakerne i VTA i ordinær virksomhet.
-I en politikk for sosial inkludering er offentlig
-innsats alene ikke tilstrekkelig. En rekke frivillige
-organisasjoner og sosiale entreprenører er viktige
-samarbeidspartnere og yter viktige bidrag for å gi
-flere mulighet til å delta og bli inkludert i samfunnsliv. Regjeringen vil fortsette å legge til rette
-for denne typen samarbeid.
-
-[Side 116]
-
-114
-
-Meld. St. 32
-Ingen utenfor – En helhetlig politikk for å inkludere flere i arbeids- og samfunnsliv
-
-Kommunenes forebyggingsansvar omtales i
-kapittel 6.2, de individuelle sosiale tjenestene i
-kapittel 6.3 og tiltak som bidrar til sosial inkludering i kapittel 6.4. Regjeringens videre arbeid på
-disse områdene oppsummeres i kapittel 6.5.
-
-6.2
-
-Forebyggende sosialt arbeid
-
-Sosialtjenesteloven inngår som en del av kommunens samlede velferdsansvar og er et siste sikkerhetsnett i velferdsordningene. Formålet med
-loven er å
-«bedre levekårene for vanskeligstilte, bidra til
-sosial og økonomisk trygghet, herunder at den
-enkelte får mulighet til å leve og bo selvstendig,
-og fremme overgang til arbeid, sosial inkludering
-og aktiv deltakelse i samfunnet. Loven skal bidra
-til at utsatte barn og unge og deres familier får et
-helhetlig og samordnet tjenestetilbud. Loven skal
-bidra til likeverd og likestilling og forebygge
-sosiale problemer.» (§ 1)
 Sosialtjenesteloven regulerer kommunale tjenester og oppgaver NAV-kontoret skal utføre og medvirke inn i, og som må planlegges og ses i sammenheng med kommunens øvrige velferdsområder.
-Det er av vesentlig betydning å sette inn tiltak
-og forebyggende innsats for å hindre videre problemutvikling og langvarig utenforskap. Det gjelder både på individnivå i arbeidet overfor den som
-står i fare for å falle utenfor eller som opplever
-sosiale problemer, og i arbeidet på systemnivå
-med forhold som kan bidra til at utenforskap og
-sosiale problemer oppstår, utvikles og forsterkes.
-Loven gir kommunene ansvar for flere oppgaver knyttet til informasjon og forebyggende
-virksomhet. Kommunene skal gjøre seg kjent
-med innbyggernes levekår, vie spesiell oppmerksomhet til trekk ved utviklingen som kan skape
-eller opprettholde sosiale problemer, søke å finne
-tiltak som kan forebygge slike problemer, og søke
-å legge forholdene til rette for å utvikle og styrke
-sosialt fellesskap og solidaritet i nærmiljøet. Kommunen skal også spre kunnskap om sosiale forhold og tjenester i kommunen.
-For at formålet med loven skal bli oppfylt skal
-kommunen i arbeids- og velferdsforvaltningen
-også bidra til at sosiale hensyn blir ivaretatt av
-andre offentlige organer, og samarbeide med
-andre sektorer og forvaltningsnivåer når dette
-kan bidra til å løse oppgavene som kommunen er
-pålagt etter denne loven. De skal også samarbeide
 
-2020–2021
+Det er av vesentlig betydning å sette inn tiltak og forebyggende innsats for å hindre videre problemutvikling og langvarig utenforskap. Det gjelder både på individnivå i arbeidet overfor den som står i fare for å falle utenfor eller som opplever sosiale problemer, og i arbeidet på systemnivå med forhold som kan bidra til at utenforskap og sosiale problemer oppstår, utvikles og forsterkes.
 
-med brukergruppers organisasjoner og frivillige
-organisasjoner som arbeider med de samme oppgavene som kommunen, samt medvirke i kommunens arbeid med å skaffe boliger til vanskeligstilte
-personer som ikke selv kan ivareta sine interesser
-på boligmarkedet.
-Det er de siste årene tatt flere initiativ for å
-bedre kvalitet og måloppnåelse på de sosiale
-tjenestene. Det er gjennomført regelverksendringer, etablert tilskuddsordninger og gjennomført en rekke kompetansehevende og andre
-tilretteleggende tiltak. Kvalifiseringsprogrammet
-ble innført som en lovpålagt oppgave for alle kommuner fra 2010, aktivitetsplikt for sosialhjelpsmottakere under 30 år fra 2017, endringer i regelverket for kvalifiseringsprogrammet fra 2019 og
-norskopplæringsplikt og vurderingsplikt for sosialhjelpsmottakere under 30 år fra 2021. Fra 2017
-ble flere kommunerettede tilskudd samlet i en felles tilskuddsordning til utvikling av de sosiale tjenestene i NAV-kontoret. Det overordnede målet
-for tilskuddsordningen er et helthetlig og samordnet tjenestetilbud tilpasset brukernes behov.
-Innenfor ordningen kan det gis tilskudd både til
-lokale tiltak som inngår i nasjonale satsinger og
-til lokalt initierte tiltak. Blant nasjonale satsinger
-finansiert gjennom denne ordningen er forsøk
-med NAV-veiledere i videregående opplæring.
-Blant lokalt initierte tiltak finnes også flere
-eksempler hvor målet er tidlig innsats og forbyggende arbeid.
-Arbeids- og velferdsdirektoratet har sammen
-med statsforvalterne gjennomført en rekke kompetansehevende og andre tilretteleggende tiltak
-for å legge til rette for at kommunene kan ivareta
-sitt ansvar for de sosiale tjenestene på en god
-måte. Direktoratet har også utarbeidet et strategisk rammeverk for utvikling av de sosiale tjenestene. Rammeverket har følgende fire grep:
-– Økt satsing på å tilrettelegge for og understøtte
-god kompetanse på sosiale tjenester i kommunene.
-– Mer strategisk arbeid med FoU for å understøtte spredning av beste praksis.
-– Økt satsing på digitalisering.
-– Styrket fagdirektoratsrolle med mer samordnede planprosesser og styringssignaler.
-Det finnes eksempler på en rekke enkeltstående initiativ både nasjonalt og lokalt på tiltak for
-å forebygge utenforskap og sosiale problemer,
-men lite systematisk kunnskap om hvordan kommunene ivaretar sitt generelle forebyggingsansvar og hva som er gode virkemidler for å legge
-til rette for at kommunene ivaretar dette ansvaret
-på en god måte. Det er behov for økt oppmerk-
+Loven gir kommunene ansvar for flere oppgaver knyttet til informasjon og forebyggende virksomhet. Kommunene skal gjøre seg kjent med innbyggernes levekår, vie spesiell oppmerksomhet til trekk ved utviklingen som kan skape eller opprettholde sosiale problemer, søke å finne tiltak som kan forebygge slike problemer, og søke å legge forholdene til rette for å utvikle og styrke sosialt fellesskap og solidaritet i nærmiljøet. Kommunen skal også spre kunnskap om sosiale forhold og tjenester i kommunen.
 
-[Side 117]
+For at formålet med loven skal bli oppfylt skal kommunen i arbeids- og velferdsforvaltningen også bidra til at sosiale hensyn blir ivaretatt av andre offentlige organer, og samarbeide med andre sektorer og forvaltningsnivåer når dette kan bidra til å løse oppgavene som kommunen er pålagt etter denne loven. De skal også samarbeide med brukergruppers organisasjoner og frivillige organisasjoner som arbeider med de samme oppgavene som kommunen, samt medvirke i kommunens arbeid med å skaffe boliger til vanskeligstilte personer som ikke selv kan ivareta sine interesser på boligmarkedet.
 
-2020–2021
+Det er de siste årene tatt flere initiativ for å bedre kvalitet og måloppnåelse på de sosiale tjenestene. Det er gjennomført regelverksendringer, etablert tilskuddsordninger og gjennomført en rekke kompetansehevende og andre tilretteleggende tiltak. Kvalifiseringsprogrammet ble innført som en lovpålagt oppgave for alle kommuner fra 2010, aktivitetsplikt for sosialhjelpsmottakere under 30 år fra 2017, endringer i regelverket for kvalifiseringsprogrammet fra 2019 og norskopplæringsplikt og vurderingsplikt for sosialhjelpsmottakere under 30 år fra 2021. Fra 2017 ble flere kommunerettede tilskudd samlet i en felles tilskuddsordning til utvikling av de sosiale tjenestene i NAV-kontoret. Det overordnede målet for tilskuddsordningen er et helthetlig og samordnet tjenestetilbud tilpasset brukernes behov. Innenfor ordningen kan det gis tilskudd både til lokale tiltak som inngår i nasjonale satsinger og til lokalt initierte tiltak. Blant nasjonale satsinger finansiert gjennom denne ordningen er forsøk med NAV-veiledere i videregående opplæring. Blant lokalt initierte tiltak finnes også flere eksempler hvor målet er tidlig innsats og forbyggende arbeid.
 
-Meld. St. 32
-Ingen utenfor – En helhetlig politikk for å inkludere flere i arbeids- og samfunnsliv
+Arbeids- og velferdsdirektoratet har sammen med statsforvalterne gjennomført en rekke kompetansehevende og andre tilretteleggende tiltak for å legge til rette for at kommunene kan ivareta sitt ansvar for de sosiale tjenestene på en god måte. Direktoratet har også utarbeidet et strategisk rammeverk for utvikling av de sosiale tjenestene. Rammeverket har følgende fire grep:
 
-Boks 6.1 Velferdspiloten
-«Velferdspiloten» er et utviklingsarbeid med et
-bredt forebyggende formål.
-Piloten gjennomføres i et samarbeid mellom Statsforvalteren i Oslo og Viken, Viken
-fylkeskommune, Bufetat, NAV Øst-Viken,
-Høgskolen i Østfold, Husbanken Øst og kommunene Fredrikstad, Sarpsborg, Indre Østfold
-og Halden. De fire kommunene har i hovedsak valgt «lavinntektsfamilier og utenforskap»
-som den velferdsutfordringen de har behov
-for å samarbeide med samlede regionale aktører for å løse. Dette har utløst en rekke aktiviteter. Regionale aktører har i samspill med
-kommunene utarbeidet en veileder i hvordan
-ta boligsosiale hensyn i kommunalt planarbeid. Det er også gitt felles regionale innspill
-til fylkeskommunens planstrategi, kommunale
-planstrategier, kommuneplanens samfunnsdel og til kommunedelplan oppvekst.
+- Økt satsing på å tilrettelegge for og understøtte god kompetanse på sosiale tjenester i kommunene.
 
-somhet rundt dette ansvaret og hva det i praksis
-kan innebære.
-Departementet vil på denne bakgrunn ta initiativ til et program for å styrke og videreutvikle forebyggende sosialt arbeid og helhetlig forebyggende innsats lokalt. Et overordnet mål for programmet vil være å bidra til at kommunene i
-større grad forebygger utenforskap og sosiale
-problemer, slik at færre blir stående permanent
-utenfor arbeids- og samfunnsliv. Kommunene skal
-få bedre kompetanse i forebyggende sosialt
-arbeid og kvaliteten på de individuelle sosiale tjenestene skal øke, slik at flere blir selvhjulpne ved
-eget arbeid eller gis mulighet for å delta på andre
-sosiale arenaer. Noen delmål for programmet vil
-være å tydeliggjøre hvilken rolle NAV-kontoret
-har i en helhetlig forebyggende innsats lokalt, å
-bidra til utvikling av gode samarbeidsmodeller
-mellom NAV-kontoret og andre tjenester lokalt i
-arbeidet for å forebygge utenforskap og sosiale
-problemer, samt å styrke kunnskapen om hva som
-kan være gode virkemidler fra statens side overfor kommunene. Et viktig tiltak i en oppstartsfase
-vil være å styrke kunnskapsgrunnlaget og utvikle
-statistikk som grunnlag for kommunenes arbeid.
-Arbeids- og velferdsdirektoratet skal ha hovedansvaret for gjennomføring av programmet. Det
-skal bygge videre på tiltak iverksatt som ledd i
-oppfølgingen av det strategiske rammeverket for
+- Mer strategisk arbeid med FoU for å understøtte spredning av beste praksis.
 
-115
+- Økt satsing på digitalisering.
 
-utvikling av de sosiale tjenestene. Programmet må
-også ses i sammenheng med initiativ i regi av
-andre sektorer for å bidra til en helhetlig forebyggende innsats lokalt.
+- Styrket fagdirektoratsrolle med mer samordnede planprosesser og styringssignaler.
 
-6.3
+  Velferdspiloten
 
-Individuelle sosiale tjenester
+«Velferdspiloten» er et utviklingsarbeid med et bredt forebyggende formål.
 
-Sosialtjenesteloven regulerer fem individuelle
-sosiale tjenester som alle skal bidra til at lovens
-formål nås. Det er opplysning, råd og veiledning,
-økonomisk stønad til livsopphold (økonomisk
-sosialhjelp), kvalifiseringsprogrammet, midlertidig botilbud og individuell plan.
-Mottakere av sosiale tjenester utgjør en sammensatt gruppe. Det kan eksempelvis være ungdommer som har behov for utdanning eller
-arbeidsrettet oppfølging, samtidig som de trenger
-økonomisk trygghet. Det kan være familier som
-har behov for hjelp knyttet til gjeld, og til å løse
-akutte boligproblemer og andre sosiale problemer
-som kan komme i kjølvannet av å bli syk eller
-miste jobben. Men det kan også være personer
-som har en ytelse fra folketrygden og som allerede er i et oppfølgingsløp. Disse vil i noen perioder også kunne ha behov for sosiale tjenester.
-Samme person kan eksempelvis motta ytelser fra
-folketrygden, motta økonomisk sosialhjelp og
-andre tjenester under sosialtjenesteloven, og være
-arbeidssøker. Mottakerne kan også være personer som over lengre tid ikke har andre inntektsmuligheter enn økonomisk sosialhjelp eller
-som deltar på kvalifiseringsprogrammet.
-Sosiale tjenester og sosialfaglig oppfølgingsarbeid er viktig både i et helhetlig tjenestetilbud
-til personer som opplever utenforskap og sosiale
-problemer og i kommunens arbeid med å forebygge at slike problemer oppstår. Oppfølgingsarbeidet skjer gjerne når den enkelte henvender
-seg til NAV-kontoret, men kan også skje i form av
-ulike former for oppsøkende arbeid i et samarbeid med andre kommunale tjenester, og/eller
-skole og oppfølgingstjenesten. Det er særlig viktig å komme i kontakt med unge før problemene
-blir så store at de kan føre til langvarig utenforskap.
+Piloten gjennomføres i et samarbeid mellom Statsforvalteren i Oslo og Viken, Viken fylkeskommune, Bufetat, NAV Øst-Viken, Høgskolen i Østfold, Husbanken Øst og kommunene Fredrikstad, Sarpsborg, Indre Østfold og Halden. De fire kommunene har i hovedsak valgt «lavinntektsfamilier og utenforskap» som den velferdsutfordringen de har behov for å samarbeide med samlede regionale aktører for å løse. Dette har utløst en rekke aktiviteter. Regionale aktører har i samspill med kommunene utarbeidet en veileder i hvordan ta boligsosiale hensyn i kommunalt planarbeid. Det er også gitt felles regionale innspill til fylkeskommunens planstrategi, kommunale planstrategier, kommuneplanens samfunnsdel og til kommunedelplan oppvekst.
 
-6.3.1 Opplysning, råd og veiledning
-Opplysning, råd og veiledning er en av kjerneoppgavene i NAV-kontoret. I tillegg til å være en individuell tjeneste, innebærer oppgaven også en plikt
-til å gi generell informasjon ut til befolkningen og
-til å drive oppsøkende informasjonsvirksomhet til
-særskilte grupper hvis det er i tråd med sosial-
+\[Boks slutt\]
 
-[Side 118]
+Det finnes eksempler på en rekke enkeltstående initiativ både nasjonalt og lokalt på tiltak for å forebygge utenforskap og sosiale problemer, men lite systematisk kunnskap om hvordan kommunene ivaretar sitt generelle forebyggingsansvar og hva som er gode virkemidler for å legge til rette for at kommunene ivaretar dette ansvaret på en god måte. Det er behov for økt oppmerksomhet rundt dette ansvaret og hva det i praksis kan innebære.
 
-116
+Departementet vil på denne bakgrunn ta initiativ til et program for å styrke og videreutvikle forebyggende sosialt arbeid og helhetlig forebyggende innsats lokalt. Et overordnet mål for programmet vil være å bidra til at kommunene i større grad forebygger utenforskap og sosiale problemer, slik at færre blir stående permanent utenfor arbeids- og samfunnsliv. Kommunene skal få bedre kompetanse i forebyggende sosialt arbeid og kvaliteten på de individuelle sosiale tjenestene skal øke, slik at flere blir selvhjulpne ved eget arbeid eller gis mulighet for å delta på andre sosiale arenaer. Noen delmål for programmet vil være å tydeliggjøre hvilken rolle NAV-kontoret har i en helhetlig forebyggende innsats lokalt, å bidra til utvikling av gode samarbeidsmodeller mellom NAV-kontoret og andre tjenester lokalt i arbeidet for å forebygge utenforskap og sosiale problemer, samt å styrke kunnskapen om hva som kan være gode virkemidler fra statens side overfor kommunene. Et viktig tiltak i en oppstartsfase vil være å styrke kunnskapsgrunnlaget og utvikle statistikk som grunnlag for kommunenes arbeid.
 
-Meld. St. 32
-Ingen utenfor – En helhetlig politikk for å inkludere flere i arbeids- og samfunnsliv
+Arbeids- og velferdsdirektoratet skal ha hovedansvaret for gjennomføring av programmet. Det skal bygge videre på tiltak iverksatt som ledd i oppfølgingen av det strategiske rammeverket for utvikling av de sosiale tjenestene. Programmet må også ses i sammenheng med initiativ i regi av andre sektorer for å bidra til en helhetlig forebyggende innsats lokalt.
 
-tjenestelovens formål. Råd- og veiledningsplikten
-omfatter alle typer sosiale problemer.
+## Individuelle sosiale tjenester
+
+Sosialtjenesteloven regulerer fem individuelle sosiale tjenester som alle skal bidra til at lovens formål nås. Det er opplysning, råd og veiledning, økonomisk stønad til livsopphold (økonomisk sosialhjelp), kvalifiseringsprogrammet, midlertidig botilbud og individuell plan.
+
+Mottakere av sosiale tjenester utgjør en sammensatt gruppe. Det kan eksempelvis være ungdommer som har behov for utdanning eller arbeidsrettet oppfølging, samtidig som de trenger økonomisk trygghet. Det kan være familier som har behov for hjelp knyttet til gjeld, og til å løse akutte boligproblemer og andre sosiale problemer som kan komme i kjølvannet av å bli syk eller miste jobben. Men det kan også være personer som har en ytelse fra folketrygden og som allerede er i et oppfølgingsløp. Disse vil i noen perioder også kunne ha behov for sosiale tjenester. Samme person kan eksempelvis motta ytelser fra folketrygden, motta økonomisk sosialhjelp og andre tjenester under sosialtjenesteloven, og være arbeidssøker. Mottakerne kan også være personer som over lengre tid ikke har andre inntektsmuligheter enn økonomisk sosialhjelp eller som deltar på kvalifiseringsprogrammet.
+
+Sosiale tjenester og sosialfaglig oppfølgingsarbeid er viktig både i et helhetlig tjenestetilbud til personer som opplever utenforskap og sosiale problemer og i kommunens arbeid med å forebygge at slike problemer oppstår. Oppfølgingsarbeidet skjer gjerne når den enkelte henvender seg til NAV-kontoret, men kan også skje i form av ulike former for oppsøkende arbeid i et samarbeid med andre kommunale tjenester, og/eller skole og oppfølgingstjenesten. Det er særlig viktig å komme i kontakt med unge før problemene blir så store at de kan føre til langvarig utenforskap.
+
+### Opplysning, råd og veiledning
+
+Opplysning, råd og veiledning er en av kjerneoppgavene i NAV-kontoret. I tillegg til å være en individuell tjeneste, innebærer oppgaven også en plikt til å gi generell informasjon ut til befolkningen og til å drive oppsøkende informasjonsvirksomhet til særskilte grupper hvis det er i tråd med sosialtjenestelovens formål. Råd- og veiledningsplikten omfatter alle typer sosiale problemer.
+
 Økonomisk rådgivning og gjeldsrådgivning
-Økonomisk rådgivning, herunder gjeldsrådgivning, er en del av veiledningsplikten som NAVkontoret har etter sosialtjenesteloven. Formålet
-med økonomisk rådgivning er å forebygge økonomiske problemer og bidra til at enkeltpersoner og
-familier med økonomiske problemer og uhåndterlig gjeld får kontroll og styring over egen økonomi. Tjenesten har i utgangspunktet alle kommunens innbyggere som målgruppe.
-Det finnes ingen nyere undersøkelser om tilgjengeligheten til og kvaliteten på den økonomiske rådgivningen i NAV-kontorene. Arbeids- og
-sosialdepartementet vil ta initiativ til å få oppdatert kunnskap om tjenesten.
-Tidligere undersøkelser tyder på at det er
-utfordringer knyttet til tilgjengeligheten til økonomisk rådgivning i NAV-kontorene. Det er over
-flere år iverksatt tiltak for å øke tilgjengeligheten
-til tilbudet til personer med økonomi- og gjeldsproblemer. Den landsdekkende økonomirådstelefonen – NAV Gjeldsrådgivning – har som formål å
-gjøre økonomisk rådgivning lettere tilgjengelig og
-å hjelpe personer med betalingsproblemer med å
-komme raskt i gang med å finne en løsning. Økonomirådstelefonen er et lavterskeltilbud og et supplement til den personlige rådgivningen i NAVkontorene.
-Koronapandemien forventes å føre til ytterligere økt behov for og etterspørsel etter økonomisk rådgivning. Det iverksettes i 2021 tiltak for å
-bedre tilbudet og tilgjengeligheten til økonomisk
-rådgivning i arbeids- og velferdsforvaltningen.
-Kapasiteten og bemanningen ved den landsdekkende økonomirådstelefonen styrkes. Det er
-utviklet en digital veiviser som samler informasjon
-om økonomisk rådgivning og gjeldsrådgivning på
-nav.no. Det er satt av midler til å etablere en rådog veiledningstjeneste (en direktelinje) for ansatte
-som arbeider med økonomisk rådgivning og
-gjeldsrådgivning i NAV-kontorene. Tjenesten vil
-bli lagt i tilknytning til et større fagmiljø innen
-økonomi- og gjeldsrådgivning. Fagmateriell til
-bruk i undervisning og for veiledere i NAV-kontor
-vil bli oppdatert, digitalisert og gjort tilgjengelig
-på nett.
-Det er behov for å fange opp personer med
-økonomiske problemer på et tidlig tidspunkt som
-et forebyggende tiltak. Samtidig er det behov for å
-synliggjøre og styrke tjenesten økonomisk rådgivning i NAV-kontorene. Arbeids- og velferdsdirek-
 
-2020–2021
+Økonomisk rådgivning, herunder gjeldsrådgivning, er en del av veiledningsplikten som NAV-kontoret har etter sosialtjenesteloven. Formålet med økonomisk rådgivning er å forebygge økonomiske problemer og bidra til at enkeltpersoner og familier med økonomiske problemer og uhåndterlig gjeld får kontroll og styring over egen økonomi. Tjenesten har i utgangspunktet alle kommunens innbyggere som målgruppe.
 
-toratet vil se på om det bør utvikles digitale løsninger for samhandling mellom brukere og
-arbeids- og velferdsforvaltningen når det gjelder
-økonomi- og gjeldsproblemer.
-Det er over flere år iverksatt tiltak for å heve
-kvalitet og kompetanse i tilbudet til personer med
-økonomi- og gjeldsproblemer. Statsforvalterne
-gjennomfører opplæring og kompetanseheving
-gjennom kurs, samlinger og faglige fora for
-ansatte i NAV-kontorene som jobber med økonomisk rådgivning. Det er utarbeidet faglig veiledningsmateriell for økonomiske rådgivere i NAVkontorene. Det er etablert videreutdanningstilbud
-i økonomisk rådgivning ved Universitetet i Agder,
-Nord Universitet i Bodø og OsloMet.
-Økonomisk rådgivning krever god, og i
-enkelte tilfeller spesialisert, kompetanse. Mange
-kommuner har en lav stillingsandel innen økonomi- og gjeldsrådgivning, noe som gjør det vanskelig å opprettholde et godt fagmiljø. Dette kan
-være en utfordring, spesielt for mindre kommuner. Behovet for økonomisk rådgivning vil også
-kunne variere over tid, noe som kan by på utfordringer med hensyn til kapasitet ved det enkelte
-NAV-kontor. Sosialtjenesteloven åpner for interkommunalt samarbeid om økonomisk rådgivning.
-Det er opprettet et interkommunalt kompetansesenter i Trøndelag med en ny organisatorisk
-modell for samarbeid om de tyngste gjeldssakene.
-Et interkommunalt kompetansesenter i Agder
-bistår kommunene i økonomirådgivningssaker.
-Det er også etablert et interkommunalt samarbeid
-i Rogaland med formål å følge opp personer under
-gjeldsordning, i samarbeid med Namsmannen i
-Sør-Vest politidistrikt. Det kan være aktuelt å se
-nærmere på om NAV-kontorenes rådgivning i de
-tyngste gjeldssakene bør legges til færre enheter,
-slik at saksmengden og dermed kompetansen ved
-den enkelte enhet kan bli større.
-I det nasjonale forebyggingsprosjektet Fra
-minus til pluss er det utviklet en nettside
-(Ipluss.org) med råd om økonomisk atferd og
-hverdagsøkonomi, også om hvordan unngå økonomiske problemer i en situasjon der inntekten
-reduseres. Det er utviklet et kursopplegg for kommuner som ønsker å tilby økonomikurs til sine
-innbyggere. Prosjektet er avsluttet, men nettsiden
-drives videre av NAV Drammen.
-Kunnskap og kompetanse innen personlig
-økonomi er viktig for å håndtere egen økonomi og
-unngå gjeldsproblemer. OECD oppfordrer alle
-medlemsland til å etablere strategier for å styrke
-den økonomiske forståelsen blant sine innbyggere. Regjeringen vil utarbeide en egen nasjonal
-strategi for styrket økonomiforståelse i befolk-
+Det finnes ingen nyere undersøkelser om tilgjengeligheten til og kvaliteten på den økonomiske rådgivningen i NAV-kontorene. Arbeids- og sosialdepartementet vil ta initiativ til å få oppdatert kunnskap om tjenesten.
 
-[Side 119]
+Tidligere undersøkelser tyder på at det er utfordringer knyttet til tilgjengeligheten til økonomisk rådgivning i NAV-kontorene. Det er over flere år iverksatt tiltak for å øke tilgjengeligheten til tilbudet til personer med økonomi- og gjeldsproblemer. Den landsdekkende økonomirådstelefonen – NAV Gjeldsrådgivning – har som formål å gjøre økonomisk rådgivning lettere tilgjengelig og å hjelpe personer med betalingsproblemer med å komme raskt i gang med å finne en løsning. Økonomirådstelefonen er et lavterskeltilbud og et supplement til den personlige rådgivningen i NAV-kontorene.
 
-2020–2021
+Koronapandemien forventes å føre til ytterligere økt behov for og etterspørsel etter økonomisk rådgivning. Det iverksettes i 2021 tiltak for å bedre tilbudet og tilgjengeligheten til økonomisk rådgivning i arbeids- og velferdsforvaltningen. Kapasiteten og bemanningen ved den landsdekkende økonomirådstelefonen styrkes. Det er utviklet en digital veiviser som samler informasjon om økonomisk rådgivning og gjeldsrådgivning på nav.no. Det er satt av midler til å etablere en råd- og veiledningstjeneste (en direktelinje) for ansatte som arbeider med økonomisk rådgivning og gjeldsrådgivning i NAV-kontorene. Tjenesten vil bli lagt i tilknytning til et større fagmiljø innen økonomi- og gjeldsrådgivning. Fagmateriell til bruk i undervisning og for veiledere i NAV-kontor vil bli oppdatert, digitalisert og gjort tilgjengelig på nett.
 
-Meld. St. 32
-Ingen utenfor – En helhetlig politikk for å inkludere flere i arbeids- og samfunnsliv
+Det er behov for å fange opp personer med økonomiske problemer på et tidlig tidspunkt som et forebyggende tiltak. Samtidig er det behov for å synliggjøre og styrke tjenesten økonomisk rådgivning i NAV-kontorene. Arbeids- og velferdsdirektoratet vil se på om det bør utvikles digitale løsninger for samhandling mellom brukere og arbeids- og velferdsforvaltningen når det gjelder økonomi- og gjeldsproblemer.
 
-ningen. Her kan det være aktuelt med tiltak rettet
-mot spesifikke grupper av befolkningen med liten
-kunnskap og erfaringsgrunnlag, som unge, og
-personer med lav inntekt.
-Regjeringen vil styrke samarbeidet mellom
-namsmennene og økonomiske rådgivere i
-arbeids- og velferdsforvaltningen. Et godt samarbeid er viktig bl.a. for å forebygge nye gjeldsproblemer hos personer som har en gjeldsordning.
-Mange skyldnere har sosiale problemer i tillegg
-til økonomiske. Det kan være en forutsetning for
-en vellykket gjeldsordning at tilleggsproblemer
-som påvirker skyldnerens økonomiske situasjon
-blir løst. Enkelte har behov for tettere oppfølging
-og sosialfaglig råd og veiledning i forbindelse med
-søknad og gjennomføring av gjeldsordning. I forbindelse med revisjon av gjeldsordningsloven,
-vurderes det om NAV-kontorene bør tildeles et
-ansvar for å kartlegge oppfølgingsbehovet til personer under gjeldsordning og tilby individuell
-oppfølging basert på kartleggingen.
-Gjeldsordningsloven er et viktig virkemiddel i
-arbeidet med å motvirke og avhjelpe gjeldsproblemer i befolkningen. Loven skal gi privatpersoner med alvorlige gjeldsproblemer en mulighet til
-å få kontroll over sin økonomi. Den skal også
-sikre at gjelden innfris så langt det er mulig, og at
-det skjer en ordnet og rettferdig fordeling av
-skyldnerens midler mellom kreditorene. Barneog familiedepartementet har satt i gang et større
-arbeid med å gjennomgå gjeldsordningsloven. En
-målsetning er å gjøre saksbehandlingen mer
-effektiv, slik at de med store gjeldsproblemer
-raskere får hjelp. Det skal også vurderes om
-skyldnere med gjeldsordning kan tilbys tettere
-oppfølging, slik at flere gjennomfører ordningen
-på en vellykket måte og ikke havner i nye økonomiske vansker etter at ordningen er fullført.
-Videre skal det tas stilling til om ordningen bør
-gjøres mer tilgjengelig for flere, og om det bør gå
-raskere å fullføre ordningen. Endringene skal gi
-gjeldstyngede personer bedre muligheter til en
-ny start. Barne- og familiedepartementet jobber
-med et høringsnotat om endringer i gjeldsordningsloven, som planlegges sendt på høring før
-sommeren 2021.
+Det er over flere år iverksatt tiltak for å heve kvalitet og kompetanse i tilbudet til personer med økonomi- og gjeldsproblemer. Statsforvalterne gjennomfører opplæring og kompetanseheving gjennom kurs, samlinger og faglige fora for ansatte i NAV-kontorene som jobber med økonomisk rådgivning. Det er utarbeidet faglig veiledningsmateriell for økonomiske rådgivere i NAV-kontorene. Det er etablert videreutdanningstilbud i økonomisk rådgivning ved Universitetet i Agder, Nord Universitet i Bodø og OsloMet.
 
-6.3.2
+Økonomisk rådgivning krever god, og i enkelte tilfeller spesialisert, kompetanse. Mange kommuner har en lav stillingsandel innen økonomi- og gjeldsrådgivning, noe som gjør det vanskelig å opprettholde et godt fagmiljø. Dette kan være en utfordring, spesielt for mindre kommuner. Behovet for økonomisk rådgivning vil også kunne variere over tid, noe som kan by på utfordringer med hensyn til kapasitet ved det enkelte NAV-kontor. Sosialtjenesteloven åpner for interkommunalt samarbeid om økonomisk rådgivning. Det er opprettet et interkommunalt kompetansesenter i Trøndelag med en ny organisatorisk modell for samarbeid om de tyngste gjeldssakene. Et interkommunalt kompetansesenter i Agder bistår kommunene i økonomirådgivningssaker. Det er også etablert et interkommunalt samarbeid i Rogaland med formål å følge opp personer under gjeldsordning, i samarbeid med Namsmannen i Sør-Vest politidistrikt. Det kan være aktuelt å se nærmere på om NAV-kontorenes rådgivning i de tyngste gjeldssakene bør legges til færre enheter, slik at saksmengden og dermed kompetansen ved den enkelte enhet kan bli større.
 
-Økonomisk stønad til livsopphold
-(økonomisk sosialhjelp)
-Økonomisk stønad til livsopphold er et siste
-sikkerhetsnett i velferdsordningene. Personer
-som ikke kan forsørge seg selv gjennom arbeid,
-egne midler eller ved å gjøre gjeldende økonomiske rettigheter, har krav på økonomisk stønad.
+I det nasjonale forebyggingsprosjektet *Fra minus til pluss* er det utviklet en nettside (Ipluss.org) med råd om økonomisk atferd og hverdagsøkonomi, også om hvordan unngå økonomiske problemer i en situasjon der inntekten reduseres. Det er utviklet et kursopplegg for kommuner som ønsker å tilby økonomikurs til sine innbyggere. Prosjektet er avsluttet, men nettsiden drives videre av NAV Drammen.
 
-117
+Kunnskap og kompetanse innen personlig økonomi er viktig for å håndtere egen økonomi og unngå gjeldsproblemer. OECD oppfordrer alle medlemsland til å etablere strategier for å styrke den økonomiske forståelsen blant sine innbyggere. Regjeringen vil utarbeide en egen nasjonal strategi for styrket økonomiforståelse i befolkningen. Her kan det være aktuelt med tiltak rettet mot spesifikke grupper av befolkningen med liten kunnskap og erfaringsgrunnlag, som unge, og personer med lav inntekt.
 
-Stønaden bør ta sikte på å gjøre vedkommende
-selvhjulpen.
-Sosialtjenesteloven gir adgang til å stille vilkår
-for stønaden. Ved brudd på vilkår i et vedtak om
-økonomisk stønad, kan NAV-kontoret etter en
-konkret og individuell vurdering fatte vedtak om
-at stønaden skal reduseres. Stønaden kan imidlertid ikke reduseres til et uforsvarlig lavt nivå.
-Stortinget vedtok i april 2015 etter forslag fra
-regjeringen å innføre en plikt for kommunene til å
-stille vilkår om aktivitet ved tildeling av økonomisk stønad etter sosialtjenesteloven. Formålet
-med en slik plikt for kommunene er å styrke den
-enkeltes muligheter for å komme i arbeid og bli
-selvforsørget. Det følger av stortingsvedtaket at
-lovendringen ikke skal iverksettes før kommunene blir kompensert for eventuelle merkostnader lovendringen medfører. Regjeringen foreslo
-høsten 2016, og fikk Stortingets tilslutning til, at
-det i første omgang innføres en plikt for kommunene til å stille vilkår om aktivitet til mottakere av
-økonomisk stønad under 30 år. Aktivitetsplikt for
-denne gruppen ble innført fra 1. januar 2017. Bakgrunnen var at kommuner som har erfaringer
-med å stille vilkår om aktivitet, kan vise til gode
-resultater, og da særlig for unge sosialhjelpsmottakere. Lovendringen (ny § 20) om vilkår om aktivitet for alle mottakere av økonomisk stønad er
-per dags dato ikke tredd i kraft.
-Det framgår av Granavolden-plattformen at
-regjeringen vil stille krav om å delta i norskopplæring for mottakere av økonomisk sosialhjelp,
-som på grunn av manglende norskferdigheter
-ikke er selvhjulpne. Stortinget vedtok i desember 2020 etter forslag fra regjeringen at det innføres en plikt for kommunene til å stille vilkår om
-norskopplæring til sosialhjelpsmottakere, dersom manglende norskkunnskaper er årsaken til
-at en person ikke er selvhjulpen (norskopplæringsplikt). Norskopplæringsplikten skal gjelde
-mottakere som har hatt rett og plikt til å delta i
-introduksjonsprogram. For alle andre sosialhjelpsmottakere som ikke er selvhjulpne fordi de
-ikke kan norsk, innføres det en plikt for kommunene til å vurdere å stille vilkår om norskopplæring (vurderingsplikt). Intensjonen med denne
-lovendringen er å øke språkkunnskapene til personer med mangelfull norskkunnskap slik at
-dette ikke er til hinder for at de kan bli økonomisk selvhjulpne. Pliktene trådte i kraft overfor
-mottakere under 30 år fra 2021. Arbeids- og velferdsdirektoratet skal følge med på kommunenes
-ivaretakelse av norskopplærings- og vurderingsplikten, og legge til rette for at pliktene ivaretas
-på en god måte.
+Regjeringen vil styrke samarbeidet mellom namsmennene og økonomiske rådgivere i arbeids- og velferdsforvaltningen. Et godt samarbeid er viktig bl.a. for å forebygge nye gjeldsproblemer hos personer som har en gjeldsordning. Mange skyldnere har sosiale problemer i tillegg til økonomiske. Det kan være en forutsetning for en vellykket gjeldsordning at tilleggsproblemer som påvirker skyldnerens økonomiske situasjon blir løst. Enkelte har behov for tettere oppfølging og sosialfaglig råd og veiledning i forbindelse med søknad og gjennomføring av gjeldsordning. I forbindelse med revisjon av gjeldsordningsloven, vurderes det om NAV-kontorene bør tildeles et ansvar for å kartlegge oppfølgingsbehovet til personer under gjeldsordning og tilby individuell oppfølging basert på kartleggingen.
 
-[Side 120]
+Gjeldsordningsloven er et viktig virkemiddel i arbeidet med å motvirke og avhjelpe gjeldsproblemer i befolkningen. Loven skal gi privatpersoner med alvorlige gjeldsproblemer en mulighet til å få kontroll over sin økonomi. Den skal også sikre at gjelden innfris så langt det er mulig, og at det skjer en ordnet og rettferdig fordeling av skyldnerens midler mellom kreditorene. Barne- og familiedepartementet har satt i gang et større arbeid med å gjennomgå gjeldsordningsloven. En målsetning er å gjøre saksbehandlingen mer effektiv, slik at de med store gjeldsproblemer raskere får hjelp. Det skal også vurderes om skyldnere med gjeldsordning kan tilbys tettere oppfølging, slik at flere gjennomfører ordningen på en vellykket måte og ikke havner i nye økonomiske vansker etter at ordningen er fullført. Videre skal det tas stilling til om ordningen bør gjøres mer tilgjengelig for flere, og om det bør gå raskere å fullføre ordningen. Endringene skal gi gjeldstyngede personer bedre muligheter til en ny start. Barne- og familiedepartementet jobber med et høringsnotat om endringer i gjeldsordningsloven, som planlegges sendt på høring før sommeren 2021.
 
-118
+### Økonomisk stønad til livsopphold (økonomisk sosialhjelp)
 
-Meld. St. 32
-Ingen utenfor – En helhetlig politikk for å inkludere flere i arbeids- og samfunnsliv
+Økonomisk stønad til livsopphold er et siste sikkerhetsnett i velferdsordningene. Personer som ikke kan forsørge seg selv gjennom arbeid, egne midler eller ved å gjøre gjeldende økonomiske rettigheter, har krav på økonomisk stønad. Stønaden bør ta sikte på å gjøre vedkommende selvhjulpen.
 
-I en flertallsmerknad fra komiteen ved
-behandling av statsbudsjettet for 2017, jf. Innst.
-111 L (2016–2017), forventes det at regjeringen
-følger opp med en utvidelse av aktivitetsplikten til
-å gjelde uavhengig av mottakerens alder, i tråd
-med Stortingets tidligere vedtak. Utvidelse av
-aktivitetsplikten for sosialhjelpsmottakere til også
-å gjelde mottakere over 30 år, men med klare unntak, er også et punkt i Granavoldenplattformen.
-Arbeids- og sosialdepartementet viste i Prop. 1 S
-(2017–2018) til at man vil følge opp dette bl.a. ved
-at aktivitetsplikten for mottakere under 30 år skal
-evalueres.
-I representantforslag 8:132 S (2017–2018) bes
-regjeringen fremme en egen sak med vurdering
-av hvordan en rett og plikt til aktivitet for alle mottakere av økonomisk sosialhjelp kan utformes.
-Arbeids- og sosialministeren viste i sitt svar til at
-regjeringen vil komme tilbake til Stortinget på
-egnet måte med en vurdering og forslag til videre
-oppfølging når evalueringen av aktivitetsplikten
-foreligger. I den forbindelse kan det være aktuelt
-å vurdere om den lovfestede plikten for kommunene til å stille vilkår om aktivitet bør utvides til
-også å være en rett til aktivitet, i hvert fall dersom
-evalueringen eller annen kunnskap skulle tilsi at
-det kan være hensiktsmessig.
-Institutt for samfunnsforskning og Frischsenteret har på oppdrag fra Arbeids- og velferdsdirektoratet evaluert innføringen av plikten for
-kommunene til å stille vilkår om aktivitet til sosialhjelpsmottakere under 30 år. Formålet med
-evalueringen har vært å frambringe kunnskap om
-hvordan denne lovendringen har virket. Det foreligger to delrapporter fra evalueringen.
-Delrapport 1 omhandler hvordan loven blir
-praktisert i et utvalg av NAV-kontor i forskjellige
-deler av landet.1 Overordnet er de ansatte positive
-til aktivitetsplikten da de opplever at den gir dem
-nye verktøy i arbeidet med brukergruppen, og det
-er stor tiltro til at det å stille vilkår om aktivitet
-hjelper mange på veien mot selvforsørgelse. Blant
-brukerne er bildet mer delt. Aktivitet sees jevnt
-over som et gode, men en del er frustrerte over at
-aktiviteten er lite konstruktiv eller bærer preg av
-oppbevaring. Undersøkelsen viser at det er ulikt
-hvordan unntak fra aktivitetsplikten blir praktisert. Det er også stor variasjon i hvordan NAVkontorene håndterer tilfeller der aktivitetsplikten
-ikke er oppfylt.
+Sosialtjenesteloven gir adgang til å stille vilkår for stønaden. Ved brudd på vilkår i et vedtak om økonomisk stønad, kan NAV-kontoret etter en konkret og individuell vurdering fatte vedtak om at stønaden skal reduseres. Stønaden kan imidlertid ikke reduseres til et uforsvarlig lavt nivå.
 
-Både NAV-ansatte og brukere peker på at rask
-avklaring og tett oppfølging er viktig for å bli selvhjulpen. Undersøkelsen viser at NAV-kontorene
-har gode aktiviteter til de som står nærmest
-arbeidslivet, men at det er utfordringer knyttet til
-å kunne tilby meningsfulle aktiviteter til alle i
-brukergruppen. Det er variasjon i de tiltakene
-som benyttes, men de fleste kommunene benytter
-en av de følgende tilnærmingene: (1) en opptrappet satsing på å snu brukerne i døra ved å gi
-dem tett oppfølging og få dem inn i arbeidslivet så
-snart som mulig, enten i ordinært arbeid, med
-eller uten lønnstilskudd, eller i praksisplasser; (2)
-jobbsentraler der brukerne har pliktig oppmøte
-og får opplæring og oppfølging i jobbsøking med
-videre; (3) kommunale jobbteam der brukerne
-utfører praktiske oppgaver sammen med arbeidsledere. Forskerne konkluderer med at det generelt ser ut til at aktivitetsplikten bidrar til bedre
-oppfølging av brukergruppen, men det er en
-generell og betydelig mangel at få NAV-kontor
-evner å gi meningsfull og velegnet aktivitet til hele
-bredden av en meget sammensatt brukergruppe.
-Delrapport 2 omhandler hvorvidt plikten for
-kommunene til å stille vilkår om aktivitet til sosialhjelpsmottakere under 30 år har påvirket den
-enkeltes muligheter for overgang til arbeid eller
-utdanning, eller for å bli selvhjulpen på annen
-måte, og om den har hatt andre, utilsiktede konsekvenser.2 Delrapporten evaluerer gjennomsnittsvirkninger på gruppenivå av at kommunene fikk
-plikt til å stille vilkår om aktivitet for sosialhjelpsmottakere under 30 år. Evalueringen er strukturert som en serie sammenligninger av grupper
-som i større eller mindre grad skulle få endret
-situasjon som følge av lovendringen. Disse sammenligningene gjøres over tid for å se om noe
-endrer seg. Rapporten tar ikke for seg virkningen
-av vilkår om aktivitet på individuelt nivå. Resultatene som helhet tyder ikke på noen systematiske
-virkninger av lovendringen fra 1. januar 2017.
-Man finner ikke tegn til økt deltakelse i utdanning
-eller arbeid, men finner heller ikke det motsatte.
-Man finner ingen tegn til redusert inntekt eller
-økt utenforskap, definert som å være utenfor både
-arbeidsliv, utdanning og statlige tiltak, eller til
-mottak av helserelaterte trygdeytelser.
-Forskerne peker i tolkningen av resultatene på
-at det er viktig å tenke på hvem i gruppen under
-30 år som opplever en faktisk endring som følge
-2
+Stortinget vedtok i april 2015 etter forslag fra regjeringen å innføre en plikt for kommunene til å stille vilkår om aktivitet ved tildeling av økonomisk stønad etter sosialtjenesteloven. Formålet med en slik plikt for kommunene er å styrke den enkeltes muligheter for å komme i arbeid og bli selvforsørget. Det følger av stortingsvedtaket at lovendringen ikke skal iverksettes før kommunene blir kompensert for eventuelle merkostnader lovendringen medfører. Regjeringen foreslo høsten 2016, og fikk Stortingets tilslutning til, at det i første omgang innføres en plikt for kommunene til å stille vilkår om aktivitet til mottakere av økonomisk stønad under 30 år. Aktivitetsplikt for denne gruppen ble innført fra 1. januar 2017. Bakgrunnen var at kommuner som har erfaringer med å stille vilkår om aktivitet, kan vise til gode resultater, og da særlig for unge sosialhjelpsmottakere. Lovendringen (ny § 20) om vilkår om aktivitet for alle mottakere av økonomisk stønad er per dags dato ikke tredd i kraft.
 
-1
+Det framgår av Granavolden-plattformen at regjeringen vil stille krav om å delta i norskopplæring for mottakere av økonomisk sosialhjelp, som på grunn av manglende norskferdigheter ikke er selvhjulpne. Stortinget vedtok i desember 2020 etter forslag fra regjeringen at det innføres en plikt for kommunene til å stille vilkår om norskopplæring til sosialhjelpsmottakere, dersom manglende norskkunnskaper er årsaken til at en person ikke er selvhjulpen (norskopplæringsplikt). Norskopplæringsplikten skal gjelde mottakere som har hatt rett og plikt til å delta i introduksjonsprogram. For alle andre sosialhjelpsmottakere som ikke er selvhjulpne fordi de ikke kan norsk, innføres det en plikt for kommunene til å vurdere å stille vilkår om norskopplæring (vurderingsplikt). Intensjonen med denne lovendringen er å øke språkkunnskapene til personer med mangelfull norskkunnskap slik at dette ikke er til hinder for at de kan bli økonomisk selvhjulpne. Pliktene trådte i kraft overfor mottakere under 30 år fra 2021. Arbeids- og velferdsdirektoratet skal følge med på kommunenes ivaretakelse av norskopplærings- og vurderingsplikten, og legge til rette for at pliktene ivaretas på en god måte.
 
-Lidén, H. T. og Solbu, H. (2019). Delrapport 1 Aktivitetsplikt
-for unge mottakere av sosialhjelp. Oslo: Institutt for samfunnsforskning. Rapport 2/2019.
+I en flertallsmerknad fra komiteen ved behandling av statsbudsjettet for 2017, jf. Innst. 111 L (2016–2017), forventes det at regjeringen følger opp med en utvidelse av aktivitetsplikten til å gjelde uavhengig av mottakerens alder, i tråd med Stortingets tidligere vedtak. Utvidelse av aktivitetsplikten for sosialhjelpsmottakere til også å gjelde mottakere over 30 år, men med klare unntak, er også et punkt i Granavoldenplattformen. Arbeids- og sosialdepartementet viste i Prop. 1 S (2017–2018) til at man vil følge opp dette bl.a. ved at aktivitetsplikten for mottakere under 30 år skal evalueres.
 
-2020–2021
+I representantforslag 8:132 S (2017–2018) bes regjeringen fremme en egen sak med vurdering av hvordan en rett og plikt til aktivitet for alle mottakere av økonomisk sosialhjelp kan utformes. Arbeids- og sosialministeren viste i sitt svar til at regjeringen vil komme tilbake til Stortinget på egnet måte med en vurdering og forslag til videre oppfølging når evalueringen av aktivitetsplikten foreligger. I den forbindelse kan det være aktuelt å vurdere om den lovfestede plikten for kommunene til å stille vilkår om aktivitet bør utvides til også å være en rett til aktivitet, i hvert fall dersom evalueringen eller annen kunnskap skulle tilsi at det kan være hensiktsmessig.
 
-Hernæs, Ø. M. (2021). Delrapport 2 Kvantitativ evaluering
-av innføring av plikt for kommunene til å stille vilkår om
-aktivitet til sosialhjelpsmottakere under 30 år. Oslo: Stiftelsen Frischsenteret for samfunnsøkonomisk forskning. Rapport 3/2021.
+Institutt for samfunnsforskning og Frischsenteret har på oppdrag fra Arbeids- og velferdsdirektoratet evaluert innføringen av plikten for kommunene til å stille vilkår om aktivitet til sosialhjelpsmottakere under 30 år. Formålet med evalueringen har vært å frambringe kunnskap om hvordan denne lovendringen har virket. Det foreligger to delrapporter fra evalueringen.
 
-[Side 121]
+Delrapport 1 omhandler hvordan loven blir praktisert i et utvalg av NAV-kontor i forskjellige deler av landet.[^217] Overordnet er de ansatte positive til aktivitetsplikten da de opplever at den gir dem nye verktøy i arbeidet med brukergruppen, og det er stor tiltro til at det å stille vilkår om aktivitet hjelper mange på veien mot selvforsørgelse. Blant brukerne er bildet mer delt. Aktivitet sees jevnt over som et gode, men en del er frustrerte over at aktiviteten er lite konstruktiv eller bærer preg av oppbevaring. Undersøkelsen viser at det er ulikt hvordan unntak fra aktivitetsplikten blir praktisert. Det er også stor variasjon i hvordan NAV-kontorene håndterer tilfeller der aktivitetsplikten ikke er oppfylt.
 
-2020–2021
+Både NAV-ansatte og brukere peker på at rask avklaring og tett oppfølging er viktig for å bli selvhjulpen. Undersøkelsen viser at NAV-kontorene har gode aktiviteter til de som står nærmest arbeidslivet, men at det er utfordringer knyttet til å kunne tilby meningsfulle aktiviteter til alle i brukergruppen. Det er variasjon i de tiltakene som benyttes, men de fleste kommunene benytter en av de følgende tilnærmingene: (1) en opptrappet satsing på å snu brukerne i døra ved å gi dem tett oppfølging og få dem inn i arbeidslivet så snart som mulig, enten i ordinært arbeid, med eller uten lønnstilskudd, eller i praksisplasser; (2) jobbsentraler der brukerne har pliktig oppmøte og får opplæring og oppfølging i jobbsøking med videre; (3) kommunale jobbteam der brukerne utfører praktiske oppgaver sammen med arbeidsledere. Forskerne konkluderer med at det generelt ser ut til at aktivitetsplikten bidrar til bedre oppfølging av brukergruppen, men det er en generell og betydelig mangel at få NAV-kontor evner å gi meningsfull og velegnet aktivitet til hele bredden av en meget sammensatt brukergruppe.
 
-Meld. St. 32
-Ingen utenfor – En helhetlig politikk for å inkludere flere i arbeids- og samfunnsliv
+Delrapport 2 omhandler hvorvidt plikten for kommunene til å stille vilkår om aktivitet til sosialhjelpsmottakere under 30 år har påvirket den enkeltes muligheter for overgang til arbeid eller utdanning, eller for å bli selvhjulpen på annen måte, og om den har hatt andre, utilsiktede konsekvenser.[^218] Delrapporten evaluerer gjennomsnittsvirkninger på gruppenivå av at kommunene fikk plikt til å stille vilkår om aktivitet for sosialhjelpsmottakere under 30 år. Evalueringen er strukturert som en serie sammenligninger av grupper som i større eller mindre grad skulle få endret situasjon som følge av lovendringen. Disse sammenligningene gjøres over tid for å se om noe endrer seg. Rapporten tar ikke for seg virkningen av vilkår om aktivitet på individuelt nivå. Resultatene som helhet tyder ikke på noen systematiske virkninger av lovendringen fra 1. januar 2017. Man finner ikke tegn til økt deltakelse i utdanning eller arbeid, men finner heller ikke det motsatte. Man finner ingen tegn til redusert inntekt eller økt utenforskap, definert som å være utenfor både arbeidsliv, utdanning og statlige tiltak, eller til mottak av helserelaterte trygdeytelser.
 
-av lovendringen. Ettersom NAV-kontorene lenge
-har hatt anledning til å benytte vilkår om aktivitet,
-og i stor grad har gjort det, burde mange personer
-som kan antas å ha utbytte av aktivitet for å bli
-mer selvhjulpne, allerede ha fått dette som vilkår.
-En følge av dette er at antallet personer som deltar
-på en nyttig aktivitet som følge av lovendringen,
-men ikke ville gjort det uten, antakelig ikke er så
-høyt. Hvis det er slik at lovendringen først og
-fremst gjorde en forskjell for personer som det
-lokale NAV-kontoret ikke ville vurdert at vilkår
-om aktivitet var formålstjenlig for, er fravær av
-utilsiktede virkninger desto viktigere. Hvis denne
-gruppen trenger vedvarende oppfølging over tid
-før de kan forventes å bli selvhjulpne, vil en eventuell effekt i beste fall være synlig på lang sikt.
-Forskerne avslutter med å si at resultatene ikke
-gir grunnlag for å konkludere om innføringen av
-aktivitetsplikt var vellykket eller ikke. Plikten,
-både for kommunen og for tjenestemottakeren,
-kan likevel være et nyttig hjelpemiddel i det sosialfaglige arbeidet.
-Evalueringen av innføring av plikt for kommunene til å stille vilkår om aktivitet til sosialhjelpsmottakere under 30 år gir nyttig kunnskap om
-erfaringer med denne lovendringen så langt.
-Utfordringer knyttet til individuelle vurderinger i
-de sosiale tjenestene og bruk av standardtiltak er
-også belyst tidligere. Statens Helsetilsyn har i
-landsomfattende tilsyn avdekket mangler i kvaliteten på de sosiale tjenestene, herunder manglende
-individuelle vurderinger og manglende kartlegging.3 I en undersøkelse fra 2019 gjennomført
-av Arbeids- og velferdsdirektoratet på oppdrag fra
-Arbeids- og sosialdepartementet, framgår det at
-flere NAV-kontor bruker standardaktiviteter i stedet for å foreta individuell vurdering av hva som er
-mest hensiktsmessig aktivitet i oppfølging av langtidsmottakere av sosialhjelp. Det gjør at aktivitetene ofte blir kortsiktige og lite målrettet, og at
-mulighetene for å komme nærmere arbeid i
-verste fall kan svekkes.4
-Regjeringen mener at det å være i aktivitet har
-en verdi i seg selv og at det bør stilles krav og forventninger også til de som mottar økonomisk sosialhjelp. Arbeids- og sosialdepartementet vil i lys
-av erfaringene så langt med lovendringen fra 2017
-vurdere hvordan man kan gjøre aktivitetsplikten
-for sosialhjelpsmottakere til et bedre virkemiddel
-3
+Forskerne peker i tolkningen av resultatene på at det er viktig å tenke på hvem i gruppen under 30 år som opplever en faktisk endring som følge av lovendringen. Ettersom NAV-kontorene lenge har hatt anledning til å benytte vilkår om aktivitet, og i stor grad har gjort det, burde mange personer som kan antas å ha utbytte av aktivitet for å bli mer selvhjulpne, allerede ha fått dette som vilkår. En følge av dette er at antallet personer som deltar på en nyttig aktivitet som følge av lovendringen, men ikke ville gjort det uten, antakelig ikke er så høyt. Hvis det er slik at lovendringen først og fremst gjorde en forskjell for personer som det lokale NAV-kontoret ikke ville vurdert at vilkår om aktivitet var formålstjenlig for, er fravær av utilsiktede virkninger desto viktigere. Hvis denne gruppen trenger vedvarende oppfølging over tid før de kan forventes å bli selvhjulpne, vil en eventuell effekt i beste fall være synlig på lang sikt. Forskerne avslutter med å si at resultatene ikke gir grunnlag for å konkludere om innføringen av aktivitetsplikt var vellykket eller ikke. Plikten, både for kommunen og for tjenestemottakeren, kan likevel være et nyttig hjelpemiddel i det sosialfaglige arbeidet.
 
-4
+Evalueringen av innføring av plikt for kommunene til å stille vilkår om aktivitet til sosialhjelpsmottakere under 30 år gir nyttig kunnskap om erfaringer med denne lovendringen så langt. Utfordringer knyttet til individuelle vurderinger i de sosiale tjenestene og bruk av standardtiltak er også belyst tidligere. Statens Helsetilsyn har i landsomfattende tilsyn avdekket mangler i kvaliteten på de sosiale tjenestene, herunder manglende individuelle vurderinger og manglende kartlegging.[^219] I en undersøkelse fra 2019 gjennomført av Arbeids- og velferdsdirektoratet på oppdrag fra Arbeids- og sosialdepartementet, framgår det at flere NAV-kontor bruker standardaktiviteter i stedet for å foreta individuell vurdering av hva som er mest hensiktsmessig aktivitet i oppfølging av langtidsmottakere av sosialhjelp. Det gjør at aktivitetene ofte blir kortsiktige og lite målrettet, og at mulighetene for å komme nærmere arbeid i verste fall kan svekkes.[^220]
 
-Helsetilsynet (2015). Kvalifisert til kvalifisering? Oppsummering av landsomfattende tilsyn med kvalifiseringsprogrammet i NAV, Oslo: Rapport fra Helsetilsynet 2/2015.
-Arbeids- og velferdsdirektoratet (2019). Gjennomgang av
-sosiale tjenester for langtidsmottakere av økonomisk sosialhjelp. NAV-notat nr.1/2019.
+Regjeringen mener at det å være i aktivitet har en verdi i seg selv og at det bør stilles krav og forventninger også til de som mottar økonomisk sosialhjelp. Arbeids- og sosialdepartementet vil i lys av erfaringene så langt med lovendringen fra 2017 vurdere hvordan man kan gjøre aktivitetsplikten for sosialhjelpsmottakere til et bedre virkemiddel for å få flere i arbeid og til å bli selvforsørget. Departementet vil be Arbeids- og velferdsdirektoratet vurdere hvordan man kan stimulere til utvikling av et bredere spekter av tiltak for en sammensatt brukergruppe og hvordan man kan dekke behovet for ytterligere kompetansehevende tiltak for å sikre individuell vurdering og tilpasning av tiltak. Det vil i vurderingen av tiltakene være aktuelt å se nærmere både på arbeidsmarkedstiltak i statlig regi, kommunale tiltak og tiltak som anskaffes og tilbys i samarbeid med ikke-offentlige aktører som frivillige organisasjoner og sosiale entreprenører. Departementet vil også innhente mer kunnskap om forskjeller og likhetstrekk mellom aktiviteter som benyttes for sosialhjelpsmottakere, hvilke effekter de ulike aktivitetene har og hvilke forhold som bidrar til dette.
 
-119
+### Kvalifiseringsprogrammet
 
-for å få flere i arbeid og til å bli selvforsørget.
-Departementet vil be Arbeids- og velferdsdirektoratet vurdere hvordan man kan stimulere til utvikling av et bredere spekter av tiltak for en sammensatt brukergruppe og hvordan man kan dekke
-behovet for ytterligere kompetansehevende tiltak
-for å sikre individuell vurdering og tilpasning av
-tiltak. Det vil i vurderingen av tiltakene være aktuelt å se nærmere både på arbeidsmarkedstiltak i
-statlig regi, kommunale tiltak og tiltak som
-anskaffes og tilbys i samarbeid med ikke-offentlige aktører som frivillige organisasjoner og
-sosiale entreprenører. Departementet vil også innhente mer kunnskap om forskjeller og likhetstrekk mellom aktiviteter som benyttes for sosialhjelpsmottakere, hvilke effekter de ulike aktivitetene har og hvilke forhold som bidrar til dette.
+Økonomisk sosialhjelp er ment å være en midlertidig tjeneste som skal bidra til selvhjulpenhet. Mange mottar likevel økonomisk sosialhjelp over lengre tid. Langtidsmottakere er overrepresentert når det gjelder vedvarende lavinntekt.
 
-6.3.3
+Kvalifiseringsprogrammet ble fra 1. januar 2010 en lovpålagt oppgave for alle kommuner og en rettighet for de som fyller lovens vilkår. Programmet er innrettet mot personer mellom 18 og 67 år med vesentlig nedsatt arbeids- og inntektsevne og ingen eller svært begrensede ytelser til livsopphold etter folketrygdloven eller arbeidsmarkedsloven. Dette vil i praksis i hovedsak si personer som uten et slikt program ville vært avhengig av økonomisk sosialhjelp som hovedinntektskilde over lengre perioder. Formålet med kvalifiseringsprogrammet er å bidra til at flere i målgruppen kommer i arbeid. Det har blitt framhevet som et sentralt virkemiddel i kampen mot fattigdom, og var ett av de nye virkemidlene som kom sammen med NAV-reformen. Innholdet i kvalifiseringsprogrammet skal tilpasses den enkeltes behov og forutsetninger. Den vesentlige delen av programmet skal bestå av tiltak som direkte forventes å styrke deltakers muligheter for overgang til arbeid etter endt program. Programmet kan også inneholde tiltak som kan være med på å støtte opp under og forberede overgang til arbeid, og det kan settes av tid til aktiviteter som bedrer deltakers helse. Programmet skal være helårig og på full tid.
 
-Kvalifiseringsprogrammet
+En effektevaluering fra Frischsenteret fra 2016, basert på data om deltakere i perioden 2008–2011, viste at kvalifiseringsprogrammet bedrer utsiktene for arbeid betydelig. Forfatterne finner indikasjoner på at kvalifiseringsprogrammet to år etter inntak har en positiv effekt på sannsynligheten for å komme i arbeid, og at denne effekten øker over tid. Etter fire år har kvalifiseringsprogrammet en estimert effekt på 18 prosentpoeng på sannsynligheten for å komme i arbeid, alt annet likt. En stor del av den økte sysselsettingen er imidlertid i form av lavt betalte jobber og/eller deltidsjobber, noe som innebærer at mange fortsatt er avhengig av offentlige ytelser.[^221] En analyse som ble publisert av Arbeids- og velferdsdirektoratet i 2018 viste at det er mange som fortsetter å motta ulike typer bistand og ytelser fra arbeids- og velferdsforvaltningen også etter avsluttet program, og at ganske få er i fulltidsarbeid uten noen form for offentlig støtte en tid etter avsluttet program.[^222]
 
-Økonomisk sosialhjelp er ment å være en midlertidig tjeneste som skal bidra til selvhjulpenhet.
-Mange mottar likevel økonomisk sosialhjelp over
-lengre tid. Langtidsmottakere er overrepresentert
-når det gjelder vedvarende lavinntekt.
-Kvalifiseringsprogrammet ble fra 1. januar
-2010 en lovpålagt oppgave for alle kommuner og
-en rettighet for de som fyller lovens vilkår. Programmet er innrettet mot personer mellom 18 og
-67 år med vesentlig nedsatt arbeids- og inntektsevne og ingen eller svært begrensede ytelser til
-livsopphold etter folketrygdloven eller arbeidsmarkedsloven. Dette vil i praksis i hovedsak si
-personer som uten et slikt program ville vært
-avhengig av økonomisk sosialhjelp som hovedinntektskilde over lengre perioder. Formålet med
-kvalifiseringsprogrammet er å bidra til at flere i
-målgruppen kommer i arbeid. Det har blitt framhevet som et sentralt virkemiddel i kampen mot
-fattigdom, og var ett av de nye virkemidlene som
-kom sammen med NAV-reformen. Innholdet i
-kvalifiseringsprogrammet skal tilpasses den
-enkeltes behov og forutsetninger. Den vesentlige
-delen av programmet skal bestå av tiltak som
-direkte forventes å styrke deltakers muligheter
-for overgang til arbeid etter endt program. Programmet kan også inneholde tiltak som kan være
-med på å støtte opp under og forberede overgang
-til arbeid, og det kan settes av tid til aktiviteter
-som bedrer deltakers helse. Programmet skal
-være helårig og på full tid.
-En effektevaluering fra Frischsenteret fra
-2016, basert på data om deltakere i perioden
-2008–2011, viste at kvalifiseringsprogrammet
-bedrer utsiktene for arbeid betydelig. Forfatterne
+Rapportering fra NAV-kontorene har vist at andelen som går til arbeidsrettet løp (arbeid, statlige arbeidsmarkedstiltak eller skolegang/utdanning) etter avsluttet kvalifiseringsprogram har økt hvert år siden 2010. I følge Arbeids- og velferdsdirektoratet kan det være ulike årsaker til dette. Det kan være at man i NAV-kontorene jobber bedre med de som er i program, men det kan også være at man i større grad tilbyr programmet til personer som har gode muligheter for å komme i arbeid. Direktoratet mottar en del tilbakemeldinger fra NAV-kontor om at de har mange brukere som har så store utfordringer at det er vanskelig for dem å gjennomføre et kvalifiseringsprogram, og det er et dilemma, da programmet er etablert med tanke på denne målgruppen.[^223]
+
+Gode resultater mht. overgang til arbeid etter avsluttet program viser at kvalifiseringsprogrammet er en viktig tjeneste for å inkludere flere av de som står langt fra arbeidsmarkedet i arbeid. Det er samtidig grunnlag for bekymring knyttet til at ikke alle i målgruppen blir vurdert for deltakelse og får tilbud om program hvis de fyller lovens vilkår.
+
+Rapportering fra statsforvalterne og Arbeids- og velferdsdirektoratet viser at dette er et sammensatt bilde, som bl.a. handler om kompetanse og prioritering av knappe ressurser. Et landsomfattende tilsyn med kommunenes arbeid med kvalifiseringsprogrammet i 2013 og 2014 viste at omtrent halvparten av kommunene de undersøkte ikke informerte godt nok om programmet som en mulig rettighet, og at det manglet system og rutiner for å kunne identifisere personer som kan fylle inntakskriteriene til programmet.[^224] En undersøkelse Riksrevisjonen har gjennomført av myndighetenes arbeid med å integrere innvandrere gjennom kvalifisering og arbeid i perioden 2010–2018 viste at mange innvandrere som har rett til deltakelse i kvalifiseringsprogrammet, ikke får tilbud om dette. Det framgår her at NAV-kontorene har ulik tilgang på arbeidsrettede tiltak for deltakere med dårlige norskkunnskaper, og gjør ulike vurderinger av om slike brukere kan nyttiggjøre seg av programmet.[^225]
+
+Fra 1. januar 2019 ble det innført enkelte endringer i regelverket for kvalifiseringsprogrammet for å legge til rette for økt bruk av dette. Endringene gjelder inngangsvilkår, varighet og innhold i programmet, og skal samlet sett bidra til å gjøre programmet mer fleksibelt og tilgjengelig. Det framgår av rapporteringen for 2019 at både antall deltakere i programmet og andelen som får arbeid etter avsluttet program, har økt. Arbeids- og velferdsdirektoratets vurdering er at dette har sammenheng med nevnte lovendringer, og at programmet er mer fleksibelt og gir større muligheter.
+
+Arbeids- og velferdsdirektoratet har sammen med statsforvalterne siden innføring av programmet gjennomført en rekke kompetansehevende og andre tilretteleggende tiltak overfor kommunene. På regionalt nivå samarbeider statsforvalterne og Arbeids- og velferdsetatens fylkesledd om erfaringssamlinger, felles kompetanseplaner, strategier for fagutvikling mv.
+
+Det er behov for å videreføre og forsterke dette arbeidet. For å styrke kunnskapsgrunnlaget for arbeidet vil Arbeids- og sosialdepartementet ta initiativ til å innhente mer systematisk kunnskap både om kjennetegn ved målgruppen og NAV-kontorenes praksis og ivaretakelsen av ansvaret for programmet.
+
+## Sosial inkludering
+
+En lang rekke offentlige velferdstjenester bidrar sammen med familien, frivillige organisasjoner og andre aktører i sivilsamfunn til sosial tilhørighet og inkludering på ulike samfunnsarenaer.
+
+Sosial deltakelse bidrar til sosial tilhørighet og motvirker ensomhet. En meningsfylt fritid er viktig for læring, mestring, helse og deltakelse i samfunnet. Å kunne drive med kultur og idrett og å delta i fritidsaktiviteter og på fellesarenaer er viktig for å unngå utenforskap, men også for å få venner.
+
+NAV-kontoret møter i dag ofte personer med komplekse behov for bistand og tjenester. For noen vil arbeid være et mål som kan nås i løpet av forholdsvis kort tid, mens det for andre er et mer langsiktig og usikkert mål. For disse vil inkludering på andre samfunnsarenaer enn ordinært arbeidsliv både kunne ha en verdi i selv, og i noen tilfelle kunne bidra til at arbeid etter hvert blir et mer realistisk mål.
+
+### Deltakelse i frivillige organisasjoner
+
+Frivillige organisasjoner er et sted for samfunnsdeltakelse, fellesskap og inkludering. Omfanget av deltakelse i frivillige organisasjoner og frivillig innsats i Norge er høyt i internasjonal sammenheng. En mangfoldig frivillighet, der mange deltar, er en forutsetning for et velfungerende samfunn. Kulturdepartementet gir gjennom brede ordninger til frivillige organisasjoner, økonomiske rammevilkår som setter de i stand til å rekruttere og bevare et mangfold av deltakere og frivillige. Det er et mål å legge til rette for økt mangfold i deltakelse i alle typer frivillighet og frivillige organisasjoner, for å speile mangfoldet i dagens samfunn. Samfunnsgrupper som er underrepresenterte på arenaer for kultur, idrett og frivillighet bør i større grad inkluderes.
+
+Deltakelse i frivillige organisasjoner og i frivillig arbeid kan være arenaer for å oppleve mestring, læring, bygge sosial kompetanse og nettverk. Mange arbeidsgivere vektlegger i større og større grad uformell kompetanse og frivillig arbeid ved ansettelser. For personer som står utenfor utdanning og arbeidsliv kan deltakelse i frivillig arbeid og verv bidra til å styrke mulighetene for å komme i arbeid. For innvandrere kan det å delta i sivilsamfunnet være en viktig arena for språklæring og en vei inn i yrkeslivet.
+
+Det er viktig at arbeids- og velferdsforvaltningen og det offentlige legger til rette for at personer kan delta i frivillig arbeid. Regelverket åpner i stor grad for at sykmeldte og arbeidsledige kan delta i frivillig arbeid. Fra 2018 ble regelverket for arbeidsavklaringspenger endret slik at frivillig arbeid kan anses som arbeidsrettet tiltak dersom aktiviteten er egnet til å styrke muligheten til å komme i arbeid.
+
+### Tilskudd til aktivisering og arbeidstrening i regi av frivillige organisasjoner
+
+Arbeids- og velferdsdirektoratet forvalter en tilskuddsordning rettet mot frivillige organisasjoner som tilbyr aktivisering og arbeidstrening til personer med liten eller ingen tilknytning til arbeidsmarkedet. Formålet med tilskuddsordningen er å stimulere til utvikling av nye tiltak og metoder for aktivisering og arbeidstrening i regi av frivillige organisasjoner. Det overordnede målet er å gi alle muligheter til å komme i arbeid og å bedre levekårene for de vanskeligst stilte. Målgruppen er personer som står svært langt fra arbeidsmarkedet, og som i mange sammenhenger er sosialt ekskludert. Siktemålet vil for enkelte være rehabilitering, inkludering og økt livskvalitet, mens andre vil kunne nyttiggjøre seg av mer arbeidsrettede tiltak med sikte på inkludering i arbeidslivet. Tiltakene omfatter et bredt spekter av tiltak fra sosial trening og hverdagsmestring til mer arbeidsrettede tiltak. Personer med rusproblemer og tidligere rusavhengige er en prioritert målgruppe for tiltak. I 2020 ble det tildelt tilskudd til 73 prosjekter. Det er igangsatt en ekstern evaluering av tilskuddsordningen.
+
+### Varig tilrettelagt arbeid (VTA)
+
+Varig tilrettelagt arbeid (VTA) er et statlig arbeidsmarkedstiltak for personer som mottar eller i nær framtid ventes å få innvilget uføretrygd, og som har behov for spesiell tilrettelegging og tett oppfølging. I tillegg skal andre arbeidsmarkedstiltak ha vært vurdert og funnet uaktuelle. VTA skal bidra til å utvikle ressurser hos tiltaksdeltakeren gjennom kvalifisering og tilrettelagte arbeidsoppgaver. Formålet er også å gi deltakeren anledning til å bidra til samfunnet og delta i et fellesskap på arbeidsplassen.
+
+De største diagnosegruppene i VTA er utviklingshemmede og personer med psykiske lidelser. Andelen med psykiske lidelser har økt over tid, og andelen med utviklingshemming er noe redusert. Regjeringen signaliserte i Granavolden-plattformen at VTA-plassene i større grad skal tilbys utviklingshemmede.
+
+I motsetning til de fleste andre arbeidsmarkedstiltak, har VTA ingen maksimal varighet. I prinsippet kan deltakerne bli i tiltaket fram til ordinær pensjonsalder. VTA er regulert i forskrift om arbeidsmarkedstiltak. Det følger av forskriften at deltakerne skal være arbeidstakere i virksomhetene. Dette innebærer at deltakerne skal gis fast ansettelse med en arbeidskontrakt. Siden deltakerne forutsettes å være uføretrygdede, mottar de ikke lønn. Det er imidlertid inngått tariffavtale mellom ASVL (arbeidsgiverforening for vekst- og attføringsbedrifter) og Fellesforbundet (LO) om en minstelønn som tillegg til uføretrygden (for tiden 22,50 kroner timen).[^226]
+
+Regjeringen har ønsket å styrke VTA. Dette ble bl.a. signalisert i Jeløy-erklæringen og Granavolden-plattformen. Som følge av dette har ressursinnsatsen blitt trappet opp de siste årene. Ved utgangen av 2020 var det 11 900 personer i VTA. Til sammenlikning var det 9 060 personer i VTA ved utgangen av 2012. Det innebærer en økning på vel 2 800 deltakere i denne perioden. I samme periode har det også vært en økning i andelen unge deltakere under 30 år, fra 23 pst. til 29 pst. Regjeringen ser fortsatt behov for å styrke VTA og vil videreføre opptrappingen av plasser i tiltaket i årene framover. Opptrappingen vil bli vurdert årlig i forbindelse med den ordinære budsjettprosessen.
+
+De fleste deltakere i VTA jobber i en skjermet virksomhet, dvs. en virksomhet som har som hovedformål å tilby arbeid til målgruppen. De skjermede virksomhetene produserer varer og tjenester for markedet. De mottar tilskudd fra staten og fra deltakernes bostedskommuner for å gi oppfølging i et tilrettelagt arbeidsmiljø. Forskrift om arbeidsmarkedstiltak (§ 14-5) setter en rekke vilkår for å bli godkjent og motta tilskudd som skjermet virksomhet, bl.a. er det krav om kommunal aksjemajoritet og forbud mot å ta ut utbytte.
+
+Siden 2006 har Arbeids- og velferdsetaten også hatt anledning til å tilby VTA i ordinære virksomheter. For tiden gjelder dette om lag 22 pst. av VTA-deltakerne. VTA i ordinær virksomhet (VTA-O) bygger på prinsippet om naturlig bistand. Naturlig bistand betyr at det er kollegaer på arbeidsplassen som bistår brukerne i den faglige og sosiale inkluderingen på arbeidsplassen. I VTA-O skal arbeidsplassen oppnevne en fadder som skal følge opp VTA-arbeidstakeren. I tillegg skal det oppnevnes en person som Arbeids- og velferdsetaten kan kontakte ved behov. Regjeringen har bedt om at VTA i ordinær virksomhet vektlegges ved opprettelse av nye plasser i VTA.
+
+Er VTA lønnsomt?
+
+Statens utgifter til varig tilrettelagt arbeid bør ses i forhold til de alternative kostnadene hvis tiltaket ikke fantes. For de fleste deltakerne vil alternativet trolig være et tilbud om plass ved et kommunalt dagsenter.
+
+Helse- og omsorgstjenesteloven §3-3 gir kommunene en plikt til å arbeide for at det blir satt i verk velferds- og aktivitetstiltak for barn, eldre og funksjonshemmede og andre som har behov for det. Helse- og omsorgsloven sier ikke hvordan tilbudet skal organiseres, men svært mange kommuner har opprettet kommunale dagsentre.
+
+Innholdet i det kommunale tilbudet og kostnadene varierer. I forbindelse med evalueringen av VTA i kommunal regi estimerte Telemarksforsking kostnadene til kommunale dagsenter til å ligge rundt 280 000 kroner i året per person i snitt ved full deltakelse. Mange deltakere i kommunale dagsentre har mindre enn full deltakelse. Grunnlaget for estimatet er regnskapsdata fra 49 dagsentra i 14 kommuner.<sup>1</sup> Til sammenligning er statens tilskudd til VTA i skjermet virksomhet 174 000 kroner i året. Hvis man regner med den kommunale medfinansieringen som skal tilsvare minst 25 pst av statens tilskudd er det samlede tilskuddet fra det offentlige 217 00 kroner i året for en heltidsplass. Tilskuddet til VTA i ordinær virksomhet er i underkant av 73 000 kroner i året per deltaker. For denne tiltaksvarianten er det ikke krav om kommunal medfinansiering.
+
+Med forbehold om at kostnadene for dagsentre er estimater, er den totale kostnaden for det offentlige altså lavere for VTA enn for full deltakelse i dagsentre. I dette regnestykket er verdien av det VTA-deltakerne produserer ikke tatt med, da det ikke foreligger tall for dette. I tillegg kommer de positive gevinstene når de gjelder deltakernes helse og velferd, som det heller ikke er mulig å tallfeste.
+
+<sup>1</sup> Møller, G. og Magnussen E. (2020). *Evaluering av forsøk med varig tilrettelagt arbeid i kommunal regi*, TM-forsk rapport 552/2020. ss. 135–136. Telemarksforsking opplyser at de bare hadde fullstendige regskapsdata fra 40 av dagsentrene. Kost-nytte ved VTA er tidligere vurdert i to masteroppgaver ved NHH: Igland og Sandal (2011). *De lønnsomme arbeiderne* og Andersen og Laland (2011). *Hva er verdien av varig tilrettelagt arbeid*. Begge disse konkluderer at VTA er lønnsomt når alternativet er kommunalt dagsenter.
+
+\[Boks slutt\]
+
+I forbindelse med kommunereformen ble det igangsatt et forsøk med VTA i kommunal regi, der seks forsøkskommuner har fått et utvidet ansvar for å gi arbeid til målgruppen. Formålet med forsøket er å gi bedre grunnlag for å vurdere om ansvaret for VTA bør overføres fra staten til kommunene. Forsøket skulle i utgangspunktet avsluttes i 2020, men er forlenget til utgangen av 2021.
+
+En foreløpig evaluering fra Telemarksforsking viser ingen vesentlig forskjell mellom VTA-forsøket og vanlig VTA når det gjelder deltakernes tilfredshet. Rapporten sier at forsøket har vært preget av prøving og feiling, men den erfaringsbaserte kompetansen til veiledere og andre i forsøket er forbedret underveis.
+
+Minst tre av forsøkskommunene har samarbeidet tett med dagsentrene, noe Telemarksforsking mener har åpnet for mer fleksible overganger mellom dagsentrene og VTA. Det er i denne sammenheng interessant at noen av kommunene har brukt forsøket til å forsøke å gi tilbud til en kategori deltakere som ikke har hatt noe godt tilbud. Noen av forsøkskommunene har søkt å rekruttere personer med for dårlig fungeringsevne til at de har vært aktuelle for VTA, men samtidig med for god fungeringsevne til at kommunens dagsentertilbud har vært ansett som passende. At mange forsøksdeltakere har jobbet kort deltid, kan henge sammen med dette.
+
+Forsøket har også åpnet for mer bruk av kommunale arbeidsplasser i VTA, i motsetning til vanlig VTA som i hovedsak arrangeres i skjermede virksomheter eller i virksomheter i privat sektor.[^227] Det vil være interessant å se nærmere på om forsøket har gitt innsikt som kan bidra til at flere i VTA-målgruppen kan bli sysselsatt i kommunal virksomhet.
+
+Det er likevel for tidlig å trekke noen endelige konklusjoner om forsøket på nåværende tidspunkt. Arbeids- og sosialdepartementet har bedt Arbeids- og velferdsdirektoratet sørge for at det blir foretatt en sluttevaluering når forsøket avsluttes ved utgangen av 2021.
+
+Rettighetsutvalgets utredning «*På lik linje*» ble lagt fram høsten 2016.[^228] Utvalget hadde bl.a. i oppdrag å vurdere hva som har bidratt til å bedre levekårene til mennesker med utviklingshemming siden ansvarsreformen, og ble bedt om å analysere og vurdere hvilke konkrete endringer som er nødvendige for å sikre oppfyllelsen av grunnleggende rettigheter til mennesker med utviklingshemming. Utvalget ble også bedt om å legge fram forslag til tiltak som er nødvendige for å imøtekomme utfordringene på feltet, og sikre at de politiske målene oppnås.
+
+Forslagene fra utvalget omfatter bl.a. forslag knyttet til arbeid for alle funksjonshemmede. Utvalget foreslår bl.a. at utviklingshemmede skal få vurdert sin arbeidsevne på en skikkelig måte, på lik linje med andre, av Arbeids- og velferdsetaten. De foreslår også at utviklingshemmede tilbys varige oppfølgingstiltak med individuell støtte i ordinære bedrifter. Utvalget mener bl.a. at kommunene skal sikre plass i VTA, sysselsette i kommunal sektor, eller samarbeide med private arbeidsgivere.
+
+Regjeringen signaliserte i Granavolden-plattformen at det er ønskelig med en større vektlegging av VTA i ordinært arbeidsliv. Departementet har bedt Arbeids- og velferdsetaten ta hensyn til dette når det opprettes nye VTA-plasser. For å legge bedre til rette for at flere kan nyttiggjøre seg VTA-plasser i ordinært arbeidsliv, vil Arbeids- og sosialdepartementet vurdere en ordning med større grad av oppfølging av VTA-deltakere i ordinære bedrifter. En slik oppfølging vil gi økt støtte til deltakeren og bedriften, og vil være et supplement til den fadderen som også i dag skal oppnevnes i bedriften når det kommer VTA-deltakere. Departementet vil vurdere hvordan VTA-bedriftene og andre leverandører kan bidra i en slik oppfølging. I tillegg vil Arbeids- og sosialdepartementet treffe tiltak for å gjøre det lettere for tilsatte i VTA i skjermet virksomhet å hospitere i ordinære virksomheter deler av arbeidstiden.
+
+## Oppsummering av tiltak
+
+Dette kapitlet har tatt for seg kommunenes ansvar for forebyggende arbeid og sosiale tjenester etter sosialtjenesteloven, samt tiltak som bidrar til sosial inkludering.
+
+Gjennomgangen har vist at det er behov for økt oppmerksomhet rundt kommunenes generelle forebyggingsansvar og hvordan dette kan ivaretas i praksis. Det er også behov for å bedre tilbudet til personer med alvorlige gjeldsproblemer og andre økonomiske utfordringer, og iverksette tiltak for å gjøre aktivitetsplikten for sosialhjelpsmottakere under 30 år til et bedre virkemiddel for å inkludere flere i arbeid. Det er grunnlag for bekymring for at ikke alle i målgruppen for kvalifiseringsprogrammet blir vurdert for deltakelse i programmet. og behov for å forsterke tiltak som kan bidra til dette.
+
+NAV-kontoret er kun en av mange aktører som bidrar til sosial inkludering. Blant bidragsyterne er de frivillige organisasjonene viktige. VTA er et tilbud om tilrettelagt arbeid for uføretrygdede med behov for spesiell tilrettelegging og tett oppfølging. Antall plasser er økt vesentlig de senere årene, men det er behov for en ytterligere styrking i årene framover.
+
+Regjeringen vil:
+
+- Ta initiativ til et program for å styrke og videreutvikle forebyggende sosialt arbeid og helhetlig forebyggende innsats lokalt. Programmet skal bidra til at kommunene i større grad forebygger utenforskap og sosiale problemer slik at færre blir stående permanent utenfor arbeids- og samfunnsliv.
+
+- Iverksette tiltak for å bedre tilbudet og tilgjengeligheten til økonomisk rådgivning og gjeldsrådgivning i arbeids- og velferdsforvaltningen.
+
+- Sende ut et høringsnotat om revisjon av gjeldsordningsloven før sommeren 2021.
+
+- Styrke samarbeidet mellom namsmennene og økonomiske rådgivere i arbeids- og velferdsforvaltningen.
+
+- Gjøre aktivitetsplikten for sosialhjelpsmottakere under 30 år til et bedre virkemiddel for å få flere i arbeid og selvforsørget. Dette omfatter en vurdering av hvordan man kan stimulere til utvikling av et bredere spekter av tiltak for mottakerne og hvordan man kan dekke behovet for ytterligere kompetansehevende tiltak for å sikre individuell vurdering og tilpasning av tiltak.
+
+- Forsterke tiltak for å bidra til at alle i målgruppen for kvalifiseringsprogrammet blir vurdert for deltakelse i programmet. Det inkluderer å innhente systematisk kunnskap om kjennetegn ved målgruppen og NAV-kontorenes praksis.
+
+- Øke antall plasser i VTA og prioritere utviklingshemmede ved inntak til tiltaket. Styrkingen av VTA vurderes i forbindelse med den ordinære budsjettprosessen.
+
+- Øke antallet VTA-plasser som arrangeres i ordinært arbeidsliv og vurdere å styrke oppfølgingen i VTA i ordinært arbeidsliv. Gjøre det lettere for tilsatte i VTA i skjermet virksomhet å hospitere i ordinære virksomheter.

@@ -1,903 +1,216 @@
-# NOU 2021: 9, del 18 av 36 (side 197–206)
+# NOU 2021: 9, del 18 av 42
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2021/a2e6ef96-nou-2021-9.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2021-9/id2862895/
 - Original-PDF: https://www.regjeringen.no/contentassets/7b8fb44f93a4402981ed7f279b345dbe/no/pdfs/nou202120210009000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 tabeller, 28 figurer, 239 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 197]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-–
-–
-
-oppdragsgiver beholder ansvaret for det
-utførte arbeid, og
-oppdragsgivers materialer og verktøy nyttes under oppdraget.
-
-Selv om det påpekes at lovendringen av innleiereglene i 2000 ikke var «ment å innebære noen endring i grensedragningen mellom arbeidsleie og
-entreprise», jf. over, ble momentlisten kortet noe
-ned sammenlignet med forarbeidene fra 1971.
-Det er særlig Blaalid-utvalgets momentliste
-som er vist til og anvendt i etterfølgende forarbeider og rettspraksis, selv om også forarbeidene fra
-1971 nevnes. I HR-2018-2371-A (Norwegian) uttaler Høyesterett i avsnitt 79 at «dermed gjelder
-fortsatt den forståelsen av grensedragningen mellom innleie og entreprise som forarbeidene til tidligere lover gir uttrykk for». Høyesterett uttalte
-videre at momentlisten ikke innebærer likestilte
-eller kumulative vilkår, men at «det må foretas en
-helhetsvurdering der de sentrale kriteriene er
-ansvar for ledelsen og resultatet av det arbeidet
-som utføres. De øvrige kriteriene tjener mest som
-sperre mot forsøk på omgåelse», jf. avsnitt 80.
-Særlig to sentrale høyesterettsdommer har
-vist hvordan grensedragningen mellom innleie og
-entreprise kan komme på spissen. Begge dommer
-omhandler
-det
-som
-benevnes
-som
-«bemanningsentreprise». I begge dommer kom
-Høyesterett til at det «klart» forelå entreprise.
-Rt-2013-998 (Quality People) omhandler A,
-som i 1990 begynte å arbeide ved kontoret til
-Norsk Hydro på Sandsli utenfor Bergen. A var
-ansatt i ulike foretak som hadde oppdrag for
-Norsk Hydro. I 2000 inngikk Norsk Hydro
-(senere Statoil) en rammeavtale med selskapet
-Quality People om blant annet drift og bemanning
-av det bedriftsinterne postkontoret ved virksomheten på Sandsli (omtalt som Posten). A ble da
-ansatt i Quality People med Posten som arbeidssted; et kontor han også ledet fra 2001. I 2010 mistet Quality People avtalen med Statoil, og A måtte
-slutte der. A tok da ut søksmål mot Statoil med
-krav om fast ansettelse etter fireårsregelen, jf.
-aml. § 14-12 fjerde ledd, jf. § 14-9 sjuende ledd.
-Spørsmålet som ble behandlet i Høyesterett var
-om arbeidet A utførte var som ledd i en entreprise, eller om det gjaldt innleie av arbeidskraft
-som ville gitt krav på fast ansettelse etter så
-mange år.
-I dommen går Høyesterett gjennom den historiske utviklingen og rettskildene som er omtalt
-ovenfor, og fastholder at grensedragningen mellom innleie og entreprise tar utgangspunkt i
-momentlisten fra Blaalid-utvalget. Høyesterett
-
-195
-
-Kapittel 8
-
-påpekte at grensen mellom innleie og entreprise
-skal foretas etter en helhetsvurdering, hvor det
-sentrale må være hvem av partene som har ansvaret for ledelsen og resultatet av det arbeidet som
-skal presteres. Det kan ikke være avgjørende om
-oppdraget går ut på å levere et produkt eller
-løpende tjeneste. Høyesterett presiserte også at
-det må være opp til lovgiver å vurdere om det er
-behov for å nyansere gjeldende rett eller eventuelt
-trekke nye grenser på området.
-Høyesterett startet med å se på rammeavtalen
-mellom Statoil og Quality People og påpekte at det
-er de reelle forholdene som skal legges til grunn
-ved grensedragningen mellom innleie og entreprise. Selv om rammeavtalens tittel tilsa at avtalen
-gjelder «leie av personell», så kunne ikke det bety
-at ethvert arbeid som ble bestilt under rammeavtalen skulle vært innleie i arbeidsrettslig forstand,
-jf. avsnitt 72. I den konkrete bevisbedømmelsen
-gikk Høyesterett videre systematisk gjennom
-momentene fra forarbeidene. Alle bestillingene fra
-Statoil var tydelige på hvilke oppgaver som skulle
-utføres, og hvilke prosedyrer som skulle følges.
-Høyesterett anså det derfor som lite tvilsomt at
-kravet til at arbeidsoppdraget var klart bestemt,
-var oppfylt (avsnitt 77). Hos Statoil var det plassert en «på stedet-leder» fra Quality People, som
-tilsa at det var Quality People som hadde ledelsen
-med arbeidet på Posten. Høyesterett mente at det
-ikke spilte noen rolle at denne lederen ikke fysisk
-hadde sitt kontor i avdeling Posten (avsnitt 83). I
-bestillingen fra Statoil var åpningstiden til Posten
-bestemt, men Høyesterett mente at dette ikke fratok Quality People arbeidsgiverfunksjonen.
-Åpningstidene ble ansett å være en del av Quality
-Peoples arbeidsbeskrivelse, men selskapet rapporterte ikke sitt timeforbruk på Posten til Statoil
-for godkjenning (avsnitt 85). Selv om Statoil av
-sikkerhetsmessige grunner forbeholdt seg rett til
-å godkjenne personell som skulle ha tilgang til
-bygningene, innebar ikke dette begrensninger i
-Quality Peoples rett til å bestemme arbeidsstyrkens sammensetning (avsnitt 90).
-Oppdraget ved Posten ble avregnet etter en
-fastpris, og arbeidstakerne i Quality People førte
-timer i selskapets eget system, som Statoil ikke
-godkjente. Høyesterett la derfor til grunn at oppdraget ikke var avregnet på bakgrunn av utførte
-timer, men fastpris, som er et tegn på entreprise
-(avsnitt 100). Høyesterett mente videre at Quality
-People hadde et resultatansvar, ettersom selskapet ikke ville få ekstra betalt om de hadde feilkalkulert oppdraget (avsnitt 106). Høyesterett anså
-det naturlig at tjenesten, som var å distribuere
-post som var kommet inn til Statoil, ble utøvd i Sta-
-
-[Side 198]
-
-196
-
-NOU 2021: 9
-
-Kapittel 8
-
-Den norske modellen og fremtidens arbeidsliv
-
-toils lokaler og med Statoils utstyr, uten at dette
-skulle tilsi at det forelå innleie av arbeidskraft
-(avsnitt 108). Etter en konkret gjennomgang av
-alle momentene, og etter en helhetsvurdering,
-konkluderte Høyesterett med at det i denne saken
-klart forelå et entrepriseforhold, og A hadde derved ikke krav på ansettelse i Statoil (avsnitt 110 og
-111).
-Videre uttalte Høyesterett følgende (avsnitt
-63):
-Jeg vil likevel ikke utelukke at en fragmentering av en oppdragsgivers virksomhet ved å
-inngå en rekke entrepriser som dekker virksomhetens behov for å operere i markedet, vil
-kunne utfordre arbeidsmiljølovens formål om
-sikring av trygge ansettelsesforhold. Det vil
-imidlertid med utgangspunkt i hva som er gjeldende rett etter min oppfatning være en lovgiveroppgave å vurdere om det er behov for å
-nyansere eller trekke eventuelle nye grenser
-på dette området og i tilfelle på hvilken måte.
-Departementet har da også i Prop. 74 L (2011–
-2012) uttrykt at det vil følge situasjonen nøye.
-Også i HR-2018-2371-A (Norwegian) kom Høyesterett til at det «klart» forelå entreprise, jf. avsnitt
-99. Høyesterett foretar i avsnitt 81–92 en omfattende vurdering av hvem som har ansvaret for å
-lede arbeidet, og kommer til at den daglige ledelsen av arbeidet lå hos datterselskapet som pilotene og kabinpersonalet var ansatt hos («NAR»),
-og ikke hos morselskapet («NAS») eller det sentrale driftsselskapet («NAN»). Det ble blant annet
-lagt vekt på at NAR hadde ansvar for at besetningene var faglig kvalifisert med nødvendig trening, at NAR var det selskapet som satte opp
-arbeidsplaner, og at NAR bestemte hvilke piloter
-og kabinpersonale som bemannet den enkelte
-flyvning. Det at NAS og NAN etter avtalen hadde
-rett til å kreve individuelle piloter eller kabinansatte erstattet dersom de ikke tilfredsstilte selskapenes kvalifikasjonskrav, kunne isolert sett tale
-for innleie, men var etter førstvoterendes syn mer
-naturlig å se som et utslag av «den rett til å føre
-kontroll som også en oppdragsgiver må ha», og
-dessuten at det kunne «karakteriseres som kontroll med «arbeidsresultatet»» (avsnitt 84). Høyesterett holdt det imidlertid åpent at «[o]ppdragsgivers kontroll, selv om den er myndighetspålagt,
-kan selvsagt bli så detaljert og direkte at man må
-konkludere med at det i praksis er oppdragsgiveren som leder arbeidet. En så aktiv og direkte
-kontroll kan man imidlertid ikke utlede av kontraktene» (avsnitt 85). Det ble dessuten vist til at
-
-det var NAR som etter avtalen tok alle beslutninger rundt ansettelse, oppsigelse, lønn og arbeidsbetingelser.
-Når det gjaldt det andre sentrale vilkåret,
-spørsmålet om hvem som har ansvar for resultatet
-av arbeidsinnsatsen, kom Høyesterett til at NAR
-«klart» hadde et ansvar for at arbeidsinnsatsen var
-kontraktsmessig (avsnitt 94). Det ble blant annet
-vist til at NAR måtte håndtere og skaffe erstatning
-for arbeidstakere som ikke kunne stille på jobb,
-og var ansvarlig for å kompensere NAS eller NAN
-for eventuell erstatning til passasjerer som følge
-av forsinkelser eller kanselleringer grunnet mangel på personell.
-Videre uttalte Høyesterett følgende (avsnitt
-119):
-Som Høyesterett bemerket i Rt-2013-998 (Quality People) avsnitt 63, kan nye måter å organisere næringsvirksomhet på utfordre arbeidsmiljølovens formål om å sikre trygge ansettelsesforhold. Det er videre slik at flytting av
-arbeidstakere til andre selskaper innen et konsern får konsekvenser for deres rett til informasjon, samarbeid og medbestemmelse i henhold
-til hovedavtalen og arbeidsmiljøloven. Gitt de
-klare lovgiveruttalelsene knyttet til gjeldende
-arbeidsgiverbegrep må det imidlertid være
-opp til lovgiver å avgjøre om det bør gis en slik
-regel som arbeidstakersiden her har argumentert for.
-
-8.6.7
-
-Regulering av innleie i de nordiske
-landene
-
-8.6.7.1 Sverige
-«Lag (2012:854) om uthyrning av arbetstagare»
-gjennomfører vikarbyrådirektivet, jf. Inghammar,
-2020. I særskilt angitte tilfeller kan man ved tariffavtale fravike lovens bestemmelser, jf. § 3.
-Det følger av loven at kravet til likebehandling
-av lønn ikke gjelder arbeidstaker som er fast
-ansatt og som får lønn mellom oppdragene, jf. § 8.
-Det gjelder også en særskilt bestemmelse om at
-bemanningsforetaket ikke kan hindre arbeidstaker gjennom avtale eller på noen annen måte å få
-ansettelse hos innleier, jf. § 9 i samme lov.
-Hovedansvaret for å ivareta den utleide
-arbeidstakerens helse, miljø og sikkerhet ligger
-hos vedkommende arbeidsgiver, bemanningsforetaket. Innleievirksomheten har imidlertid visse
-HMS-plikter overfor den innleide, jf. «arbetsmiljölagen» (1977:1160) kapittel 3 § 12.
-
-[Side 199]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-I medhold av «lag (1976:580) om medbestämmande i arbetslivet» §§ 38, 39 og 40 gjelder dessuten visse forhandlingsregler som innebærer at
-arbeidsgiver som hovedregel må forhandle med
-arbeidstakerorganisasjonene før beslutning om
-blant annet innleie treffes. Dersom sentral
-arbeidstakerorganisasjon, eller arbeidstakerorganisasjon som har inngått tariffavtale, erklærer at
-arbeidet (innleien) som planlegges av arbeidsgiveren kan antas å stride mot lov eller tariffavtale
-eller på annen måte vil bryte med det som er allment godtatt i partenes avtaleområde, så kan ikke
-handlingen (innleien) besluttes eller gjennomføres av arbeidsgiveren.
-I Sverige finnes en autorisasjonsordning i
-bemanningsbransjen. Spørsmål om autorisasjon
-vurderes av Bemanningsföretagens Auktorisationsnämnd, og besluttes av styret i arbeidsgiverorganisasjonen Bemanningsföretagen. Autorisasjonen skal sikre at bemanningsforetakene er seriøse selskaper som oppfyller høye krav, og skaper
-trygghet for kunder og arbeidstakere, men er
-ikke en autorisasjonsordning som følger av lov.
-
-8.6.7.2 Danmark
-Vikarbyrådirektivet ble gjennomført i dansk rett i
-2013 gjennom vedtakelse av «vikarloven»24. Loven
-får anvendelse for «vikarer, som har indgået en
-arbejdsaftale eller et ansættelsesforhold med et
-dansk eller et udenlandsk vikarbureau og af vikarbureauet udsendes til brugervirksomheder i Danmark for midlertidigt at udføre arbejdsopgaver
-under disses tilsyn og ledelse», jf. § 1 første ledd.
-I lovens kapittel 2 fremgår vikarbyråets forpliktelser hvor blant annet kravene til likebehandling
-som følger av virkarbyrådirektivet er fastsatt. I tillegg fastslås det at gjentatte utsendelser av innleid
-arbeidstaker til samme innleievirksomhet er forbudt, med mindre det foreligger saklig grunn, jf.
-§ 3 fjerde ledd. Reglene kan fravikes gjennom
-landsomfattende tariffavtale så fremt visse vilkår
-er oppfylt, jf. § 3 femte ledd.
-8.6.7.3 Finland
-I Finland er innleie definert i «Arbetsavtalslagen»
-(55/2001) og har følgende ordlyd, jf. kapittel 1 § 7:
-När arbetsgivaren med samtycke av arbetstagaren överför denne till en annan arbetsgivares
-förfogande (användarföretag), övertar använ24
-
-Lov No 595 af 12 June 2013 om vikarers retsstilling ved
-udsendelse afet vikarbureau mv.
-
-197
-
-Kapittel 8
-
-darföretaget rätten att leda och övervaka arbetet samt de för arbetsgivaren föreskrivna
-skyldigheter som har direkt samband med hur
-arbetet utförs och ordnas. Användarföretaget
-ska lämna arbetstagarens arbetsgivare de
-uppgifter som arbetsgivaren behöver för att
-kunna fullgöra sina skyldigheter.
-Det følger av den finske arbeidsmiljøloven (738/
-2002) at det er den som leder og kontrollerer
-arbeidet som har plikt til å sørge for arbeidstakeres HMS, jf. kapittel 6 § 49. Gjennom denne
-bestemmelsen ligger HMS-ansvaret på innleievirksomheten overfor den innleide.
-
-8.7
-
-Regler ved tjenestekjøp fra
-selvstendig oppdragstakere og
-andre virksomheter (entreprise)
-
-8.7.1 Innledning og begreper
-Med tjenestekjøp menes at en virksomhet (oppdragsgiver) kjøper tjenester fra en annen (oppdragstaker). Dette kan være tjenestekjøp fra selvstendige oppdragstakere eller fra andre virksomheter med egne ansatte. Sistnevnte benevnes
-gjerne som entreprise.
-Slike oppdrag kan utføres enten på oppdragsgivers område eller arbeidsplass («on site»), eller
-utenfor oppdragsgivers område, typisk i oppdragstakers egne lokaler («off site»). Ulike regler
-kan gjelde om det er på eller utenfor oppdragsgivers område, jf. nedenfor.
-En endring fra å utføre arbeid selv til å kjøpe
-inn samme tjeneste, omtales gjerne som outsourcing eller utsetting av arbeid. I mange tilfeller vil
-outsoucing til en annen virksomhet med egne
-ansatte også innebære en virksomhetsoverdragelse,
-som i så fall utløser en rekke rettigheter for
-arbeidstakerne, jf. arbeidsmiljøloven kapittel 16.
-Utsetting av arbeid til oppdragstakere stiller dessuten strengere krav til oppsigelse dersom det i forbindelse med utsettingen oppstår overtallighet og
-behov for oppsigelser hos oppdragsgiver, jf.
-nedenfor.
-8.7.2
-
-Selvstendig oppdragstaker
-i arbeidsmiljøloven
-Begrepet selvstendig oppdragstaker er ikke definert i arbeidsmiljøloven, men begrepet eller lignende begreper går igjen i flere bestemmelser.
-Begrepsbruken er imidlertid ikke konsekvent.
-Både «selvstendig», «selvstendig næringsdrivende» og «selvstendig oppdragstaker» benyttes.
-
-[Side 200]
-
-198
-
-NOU 2021: 9
-
-Kapittel 8
-
-Den norske modellen og fremtidens arbeidsliv
-
-I arbeidsmiljøloven § 2-2 benyttes begrepet
-«selvstendige». Bestemmelsen regulerer arbeidsgivers plikter når det gjelder HMS for andre enn
-egne arbeidstakere. I Ot.prp. nr. 49 (2004–2005)
-side 304 gis det følgende beskrivelse av hva som
-menes med selvstendige:
-Med selvstendige menes her personer som
-utøver sin yrkesaktivitet uten et ansettelsesforhold av noen art og uten å være underordnet en
-tredjeperson. Dette er samme innhold som legges til grunn i EUs henstilling om å forbedre
-helse og sikkerhet for selvstendige. Begrepet
-«selvstendige»
-omfatter
-således
-både
-enmannsbedrifter/-foretak og selvstendige
-oppdragstakere.
-Begrepet brukes også i arbeidsmiljøloven kapittel
-13 som regulerer vern mot diskriminering, hvor
-det heter at reglene «gjelder tilsvarende for
-arbeidsgivers valg og behandling av selvstendig
-næringsdrivende og innleide arbeidstakere», jf.
-§ 13-2 andre ledd. I forarbeidene til bestemmelsen
-beskrives ikke nærmere hva som menes med
-selvstendig næringsdrivende. Det vises imidlertid til at «arbeidsmiljøloven avgrenser i dag mot
-selvstendig næringsdrivende», hvilket kan indikere en henvisning til lovens virkeområde og
-avgrensningen mot oppdragstaker, jf. § 1-2, jf. § 18 første ledd. Begrepet omtales dessuten også
-som «selvstendig næringsdrivende oppdragstakere», jf. Ot.prp. nr. 104 (2002–2003) side 25.
-Bestemmelsen kan neppe forstås slik at den kun
-omfatter selvstendig næringsdrivende slik dette
-begrepet for eksempel er definert i folketrygdloven, jf. nedenfor. Det er naturlig å anta at også
-andre typer selvstendige oppdragstakere som faller utenfor arbeidsmiljøloven, for eksempel frilansere, er beskyttet av diskrimineringsvernet i
-kapittel 13.
-I arbeidsmiljøloven § 15-7 tredje ledd finnes en
-tredje formulering. Bestemmelsen regulerer
-arbeidstakers oppsigelsesvern når oppsigelsen
-skyldes at virksomhetens drift settes ut «på oppdrag ved bruk av selvstendige oppdragstakere». I
-merknaden til lovteksten i Ot.prp. nr. 49 (2004–
-2005) står det at «begrepet «selvstendige oppdragstakere» retter seg mot personer som er selvstendige næringsdrivende (uten egne ansatte)
-eller andre selvstendige oppdragstakere».
-Selv om det benyttes ulike begreper i arbeidsmiljøloven, er det med bakgrunn i forarbeidsuttalelsene grunn til å anta at alle de nevnte bestemmelsene omfatter samme personkrets. Det vil si
-enkeltpersoner som uten egne ansatte utfører
-
-arbeid i oppdrag for en virksomhet uten å være
-arbeidstaker i relasjon til arbeidsmiljøloven § 1-8
-første ledd.
-Utgangspunktet er at arbeidsmiljøloven ikke
-gjelder for selvstendige oppdragstakere. Kontraktsforholdet mellom oppdragsgiver (virksomheten) og den selvstendige oppdragstakeren
-reguleres gjennom kontrakt og alminnelige
-avtale- og kontraktsrettslige prinsipper. Dette
-innebærer for eksempel at arbeidsmiljølovens
-regler om stillingsvern, arbeidstid og medvirkning ikke kommer til anvendelse på en selvstendig oppdragstaker. En selvstendig oppdragstaker må dermed som utgangspunkt selv sørge
-for å forhandle fram sine kontraktsvilkår, og selv
-sørge for å arbeide under forsvarlige arbeidsforhold. Det er likevel enkelte bestemmelser i
-arbeidsmiljøloven som gjelder for selvstendige
-oppdragstakere. For det første vil arbeidsgivers
-HMS-ansvar for andre enn egne arbeidstakere
-som følger av § 2-2, gjelde for selvstendige oppdragstakere dersom arbeidet utføres i tilknytning
-til arbeidsgivers aktivitet eller innretning. Det
-vises til omtale ovenfor i punkt 8.2.5. Det vises
-likevel til NOU 2017: 4 (Delingsøkonomiutvalget)
-punkt 5.2.4.2, hvor det fremholdes at:
-Det knytter seg en viss usikkerhet til om
-bestemmelsen kommer til anvendelse for oppdragstakere i delingsøkonomien. Dette skyldes for det første at bestemmelsens anvendelse
-forutsetter at plattformen faller inn under
-arbeidsmiljølovens arbeidsgiverbegrep/virksomhetsbegrep, og for det andre er det en viss
-usikkerhet om bestemmelsen er ment å
-omfatte digital virksomhet.
-Dernest er selvstendige oppdragstakere også vernet av diskrimineringsforbudet i kapittel 13, jf.
-§ 13-2 andre ledd som sier at «bestemmelsene i
-dette kapittel gjelder tilsvarende for arbeidsgivers
-valg og behandling av selvstendig næringsdrivende og innleide arbeidstakere».
-Selvstendige oppdragstakere har heller ikke
-rettigheter knyttet til for eksempel ferieloven eller
-lønnsgarantiloven. Rettigheter til trygde-, pensjons- og velferdsordninger for selvstendige er
-beskrevet nedenfor i punkt 8.9.
-
-8.7.3
-
-Kollektiv forhandlingsrett for
-selvstendige?
-Et spørsmål som har aktualisert seg i forbindelse
-med arbeidstakerstatus og arbeid i «gråsonen»
-mellom arbeidstaker og selvstendig oppdragsta-
-
-[Side 201]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-ker, er hvorvidt selvstendige oppdragstakere kan
-ha rett til å forhandle kollektivt og inngå tariffavtaler om prisen på oppdrag. Spørsmålet kan ikke
-sies å være endelig avklart, verken etter norsk
-eller internasjonal rett. Nedenfor følger likevel en
-gjennomgang av de sentrale problemstillinger og
-rettskilder. Det er dessuten på gang et arbeid i EU
-som sannsynligvis vil bidra til avklaring, jf. nedenfor.
-Spørsmålet om selvstendige oppdragstakere
-har lov til å forhandle kollektivt beror dels på en
-tolkning av regler som verner forhandlingsretten,
-og dels på konkurranserettslige regler om forbud
-mot kartellvirksomhet eller ulovlig prissamarbeid,
-samt forholdet mellom disse regelsettene (Hotvedt 2020, punkt 2). Forhandlingsretten for
-arbeidstakere er vernet gjennom den europeiske
-sosialpakt, den europeiske menneskerettskonvensjonen og ILO-konvensjon nr. 87 om forenings- og
-organisasjonsfrihet. I Norge kommer dette til
-uttrykk både i Grunnloven og i arbeidstvistloven,
-jf. nedenfor. Samtidig setter EUs konkurranseregler om forbud mot konkurransebegrensede avtaler, herunder om prissamarbeid, begrensninger
-for kollektiv opptreden for foretak. EUs konkurranseregler er i norsk rett blant annet gjennomført i konkurranseloven.25 Kjernen i spørsmålet er
-om ulike grupper av selvstendige, eksempelvis
-oppdragstakere, frilansere mv., er å anse som foretak eller ikke etter konkurranselovgivningen.
-I norsk rett er regler om tariffavtaler og organisasjonene nedfelt i arbeidstvistloven. Forhandlingsretten fremgår av § 3, som blant annet gir fagforeninger rett til å forhandle om inngåelse eller
-revidering av tariffavtale. En fagforening er i § 1
-bokstav c definert som «enhver sammenslutning
-av arbeidstakere eller av arbeidstakeres
-foreninger som har til formål å vareta arbeidstakernes interesser overfor deres arbeidsgivere».
-Det er altså sammenslutninger av «arbeidstakere»
-som kan kreve forhandlinger etter arbeidstvistloven. En arbeidstaker er i loven § 1 bokstav a definert som «enhver som utfører arbeid i en annens
-tjeneste og som ikke går inn under lov om offentlige tjenestetvister». Det fremgår av forarbeidene
-at arbeidstakerbegrepet «defineres på tilsvarende
-måte som i arbeidsmiljøloven § 1-8 første ledd», jf.
-Prop. 134 L (2010–2011) punkt 9.1. Som et
-utgangspunkt er altså forhandlingsretten etter
-arbeidstvistloven dermed avgrenset til å gjelde for
-arbeidstakere.
-
-Konkurranselovens regler får direkte betydning for hvem som lovlig kan samarbeide om pris
-eller forhandle kollektivt om pris. Loven forbyr
-såkalt kartellvirksomhet eller prissamarbeid, jf.
-§ 10. Kjernen i kartellforbudet er at priser og
-andre forretningsvilkår skal fastsettes individuelt
-av det enkelte foretak. Begrepet «foretak» er nærmere definert i konkurranseloven § 2 til «enhver
-enhet som utøver privat eller offentlig ervervsvirksomhet». I rettspraksis er foretaksbegrepet
-tolket slik at det må dreie seg om økonomisk aktivitet, som betyr at det må tilbys varer eller tjenester i et marked. Økonomisk aktivitet må skilles fra
-ikke-økonomisk aktivitet, som typisk innebærer
-utøvelse av offentlig myndighet.
-I den norske konkurranseloven er det gitt en
-særbestemmelse i § 3 første ledd om lønns- og
-arbeidsvilkår, også omtalt som «tariffunntaket».
-Det følger av forarbeidene at denne bestemmelsen i praksis er unødvendig ettersom forbudet i
-blant annet konkurranseloven § 10 uansett må
-anvendes i overensstemmelse med praksis for
-vurderinger av bestemmelser i kollektive arbeidsavtaler i EU/EØS.26 Det betyr at tariffunntaket i
-konkurranseloven § 3, som følge av EØS-harmoniseringen, må tolkes i samsvar med rettsutviklingen i EU/EØS for kollektive arbeidsavtaler.
-Sammenhengen mellom foretaksbegrepet og
-tariffunntaket beskrives av Hotvedt (2020
-punkt 4):
-Foretaksbegrepet avgrenser hvilke aktørers
-opptreden som omfattes. Begrepet er EU-rettslig og forstås funksjonelt, det omfatter enhver
-enhet – også fysiske personer – som driver
-økonomisk virksomhet, uavhengig av rettslig
-status og finansieringsform. Som økonomisk
-virksomhet regnes det å tilby varer eller tjenester på et marked. En arbeidsgiver/oppdragsgiver er derfor et foretak når den driver økonomisk virksomhet på markedet for varer og tjenester. En selvstendig oppdragstaker er også i
-utgangspunktet et foretak. Vedkommende er i
-prinsippet en økonomisk enhet som tilbyr tjenester. En arbeidstaker er derimot ikke et foretak, men anses integrert i arbeidsgiverforetaket så lenge arbeidsavtalen løper. Det er dels
-begrunnet gjennom doktrinen om økonomisk
-enhet, som innebærer at flere juridiske eller
-fysiske personer kan anses som samme enhet i
-den grad de er underlagt en annens avgjørende
-26
-
-25
-
-Lov 5. mars 2004 nr. 12 om konkurranse mellom foretak og
-kontroll med foretakssammenslutninger.
-
-199
-
-Kapittel 8
-
-Se Ot.prp. nr. 6 (2003–2004) punkt 4.3 side 34–36 og
-merknadene til konkurranseloven § 3 første ledd side 221–
-222.
-
-[Side 202]
-
-200
-
-NOU 2021: 9
-
-Kapittel 8
-
-Den norske modellen og fremtidens arbeidsliv
-
-innflytelse eller kontroll. Arbeidstakeren
-betraktes ikke som en egen økonomisk enhet
-særlig fordi arbeidet er underlagt arbeidsgiverens kontroll. Men dels er det vist til at markedet for arbeidskraft skiller seg fra markedet for
-varer og tjenester og ikke er ment å bli regulert
-av konkurransereglene. Med den begrunnelsen vil verken arbeidstakeres virksomhet som
-tilbydere av arbeidskraft eller arbeidsgiveres
-virksomhet som etterspørrere av arbeidskraft
-omfattes av konkurransereglene. Her ligger
-sammenhengen med tariffunntaket, som kan
-sees som et utslag av avgrensningen av foretaksbegrepet.
-En fagforening vil på denne bakgrunn normalt ikke utgjøre en «sammenslutning av foretak» når den opptrer på vegne av medlemmer
-som er arbeidstakere. Foreningen kan imidlertid være en «sammenslutning av foretak» dersom den opptrer på vegne av medlemmer som
-er oppdragstakere.
-Er man arbeidstakere i henhold til arbeidstvistloven kan man dermed danne fagforening som kan
-forhandle lønns- og arbeidsvilkår på sine vegne.
-Dette kan utledes av arbeidstvistloven § 3, jf. § 1,
-og lener seg dessuten på den grunnleggende forhandlingsretten som følger av flere internasjonale
-regler. Dersom foreningen derimot opptrer på
-vegne av medlemmer som er å anse som oppdragstakere, vil den kunne karakteriseres som en sammenslutning av foretak hvor det som et utgangspunkt er forbudt med slik kollektiv opptreden, jf.
-konkurranseloven § 10.
-Spørsmålet i denne sammenheng er hvordan
-ulike yrkesgrupper, som ikke er arbeidstakere,
-skal innplasseres. Én tolkningsmulighet er at oppdragstakere som ikke er å anse som arbeidstakere, «automatisk» vil måtte plasseres i kategorien «foretak» og dermed avskjæres fra å forhandle kollektivt, jf. konkurranseloven § 10. En
-annen tolkningsmulighet er at det eksisterer en
-slags form for mellomkategori, hvor oppdragstakere verken er å anse som arbeidstaker eller foretak, og dermed kan «gå klar» av kartellforbudet i
-konkurranseloven.
-Det foreligger enkelte internasjonale avgjørelser som kaster lys over problemstillingen. I EUdomstolens avgjørelse i C-413/13 (FNV Kunsten)
-konkluderte EU-domstolen med at tariffunntaket
-kan anvendes på oppdragstakere «såfremt disse
-tjenesteytere er ‘falske selvstændige’, dvs. tjenesteydere, der befinder sig i en med disse arbejdstagere sammenlignelig situation», jf. premiss 42.
-
-Hva som ligger i «falske selvstendige» er imidlertid ikke helt klart. Det kan på den ene siden
-bety at det kun gjelder feilklassifiserte arbeidstakere, altså de som etter en «realitetsvurdering» er
-å anse som arbeidstakere. På den andre siden kan
-det bety også dem som verken er arbeidstakere
-eller «genuint» selvstendige, men oppdragstakere som ligger et sted imellom i den såkalte «gråsonen». Hotvedt (2020) synes å helle i retning av
-det siste: «Etter mitt syn gir FNV Kunsten dermed
-holdepunkter for at tariffunntaket først og fremst
-skal avgrenses mot de klart selvstendige oppdragstakerne. I så fall kan tvil være tilstrekkelig til
-å gi tariffunntaket anvendelse.» (Hotvedt, 2020,
-punkt 4.2).
-Delingsøkonomiutvalget uttaler noe i samme
-retning, jf. NOU 2017: 4 punkt 5.4.8.1:
-Domstolen presiserer at de den omtaler som
-«false self-employed», det vil si personer som
-leier ut sine tjenester til oppdragsgivere som
-bruker tjenesteyterne som om de var arbeidstakere, ikke skal anses som foretak i konkurransereglenes forstand.
-For selvstendig næringsdrivende som kan
-klassifiseres som «false self-employed» der de
-leies inn eller tar oppdrag, kan kollektive avtaler dermed regulere arbeids- og ansettelsesvilkår. Selvstendig næringsdrivende som opptrer
-som reelle oppdragstakere overfor sine kunder, kan ikke regulere priser og andre forretningsvilkår gjennom slike kollektive avtaler.
-OECD antyder muligens det motsatte i rapporten
-«Negotiating our way up», 2019 side 237:
-In addition, workers in the grey zone who
-share some of the vulnerabilities inherent to an
-employee status but are not false self-employed
-are still barred from accessing bargaining following that ruling. Moreover, the ruling also
-forbids collective bargaining for genuinely selfemployed workers that nevertheless are in
-unbalanced power relationship vis-à-vis their
-employer/client.
-Bekkedal (2021) argumenterer i samme retning,
-og viser på side 20 til at EU-domstolen i FNV
-Kunsten:
-Also noted that the competition rules should
-not be applied to «‘false self-employed’, that is
-to say, service providers in a situation comparable to that of employees». Some scholars have
-asked whether this marks a possible expansion
-
-[Side 203]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-of the notion of «employee». In our view, the
-answer is in the negative. The Court simply
-responded to a factual development: that «in
-today’s economy it is not always easy to establish the status of some self-employed contractors as ‘undertakings’». The EU competition rules can only be applied to entities that
-according to EU law are undertakings, not
-employees. Because the concrete assessment
-has become more complex than before, it is
-indeed advisable to check that the definition at
-the national level is correct. Such check does
-not change the notion of «employee».
-En avgjørelse fra danske konkurransemyndigheter 26. august 2020 vedrørende bruk av minimumspriser i tariffavtale i plattformselskapet
-Hilfr, kom til den konklusjon at minimumsprisene
-strider med konkurranseretten fordi plattformarbeiderne må anses som foretak og ikke arbeidstakere.27 Danske konkurransemyndigheter synes
-dermed å legge seg på en «streng» linje hvor alle
-som ikke er arbeidstakere «automatisk» omfattes
-av kartellforbudet.
-En annen sak som kaster lys over problemstillingen, er saken ICTU vs. Irland fra desember
-2018. Her la den europeiske sosialkomiteen under
-Europarådet til grunn at Den europeiske sosialpakten (Sosialpakten eller ESP) artikkel 6 nr. 2 i
-utgangspunktet omfatter selvstendige oppdragstakere.
-Sosialpakten har i artikkel 5 og 6 uttrykkelig
-vernet arbeidstakernes rett til å organisere seg for
-å ivareta sine økonomiske og sosiale interesser.
-I ICTU vs. Irland var saksforholdet at det i
-Irland tidligere gjaldt et forbud mot kollektive forhandlinger for blant annet voice-over skuespillere,
-frilansjournalister og visse musikere. Det ble klaget på at disse ikke hadde rett til å forhandle kollektivt om vederlaget for tjenestene de leverte.
-Komiteen tok utgangspunkt i at selvstendige
-oppdragstakere er «workers» med rett til kollektive forhandlinger etter ESP artikkel 6 nr. 2.
-Begrunnelsen var at de tre gruppene oppdragstakere ikke var genuint selvstendige oppdragstakere, blant annet fordi de ikke hadde innflytelse
-på betalingsvilkårene uten en rett til kollektive forhandlinger (avsnitt 99). Komiteen mente dette
-måtte være forenlig med konkurranseretten, fordi
-kollektive forhandlinger og avtaler for denne
-typen grupper av selvstendige oppdragstakere
-ikke ville påvirke konkurransen nevneverdig
-27
-
-https://www.kfst.dk/media/qv5hoinx/20200826-minimumspriser-p%C3%A5-hilfrs-platform.pdf
-
-201
-
-Kapittel 8
-
-annerledes («significally different») enn om de
-gjaldt arbeidstakere (avsnitt 100).
-Om selvstendige oppdragstakere kan utelukkes fra retten til å føre kollektive forhandlinger,
-måtte vurderes etter Sosialpakten punkt G, hvor
-forutsetningen for et eventuelt forbud mot kollektive forhandlinger måtte være «nødvendige i et
-demokratisk samfunn for å verne andre menneskers rettigheter og frihet, eller for å verne
-offentlige interesser, nasjonal sikkerhet og helse
-og moral i samfunnet». Om dette uttalte komiteen:
-In this respect, it cannot be automatically presumed that restrictions following from competition law or commercial law do not pursue a
-legitimate aim and/or are not necessary in a
-democratic society, for example to protect the
-rights and freedoms of others» (avsnitt 36).
-Komiteen viste til at lav betaling og manglende
-økonomisk selvstendighet for selvstendige oppdragstakere er et voksende problem. Komiteen
-fremhevet videre at retten til kollektive forhandlinger er begrunnet i den svakere forhandlingsposisjonen for dem som tilbyr arbeidskraften. I konkurranseretten er forutsetningen at en koordinering av pris på varer ikke er forenlig med rettferdige priser for kjøpere av varer og tjenester. Det
-avgjørende for komiteens konklusjon var maktubalansen mellom dem som tilbyr arbeidskraften
-og dem som etterspør den. Komiteen uttaler at det
-avgjørende er om:
-there is an imbalance of power between the
-providers and engagers of labour. Where providers of labour have no substantial influence on
-the content of contractual conditions, they
-must be given the possibility of improving the
-power imbalance through collective bargaining
-(avsnitt 38).
-Uttalelsen viser at det sentrale er ubalanse i muligheten til å påvirke arbeidsvilkårene, og at oppdragstakere uten vesentlig innflytelse på arbeidsvilkårene, dersom de skulle ha forhandlet individuelt, må få mulighet til å forbedre maktubalansen gjennom kollektive forhandlinger.
-Hotvedt (2020) oppsummerer avgjørelsen ved
-å si at «Konkurranserettslige regler kan ikke
-begrunne et forbud mot kollektive forhandlinger
-for alle oppdragstakere. Bare de genuint selvstendige kan utelukkes, og terskelen synes å være
-høy. Oppdragstakere i gråsonen skal derfor normalt ha adgang til kollektive forhandlinger».
-
-[Side 204]
-
-202
-
-NOU 2021: 9
-
-Kapittel 8
-
-Den norske modellen og fremtidens arbeidsliv
-
-Denne avgjørelsen synes dermed å gå lenger
-enn C-413/13 FNV Kunsten, som altså la til grunn
-et skille mellom falske og ekte selvstendige.
-Bekkedal (2021) har en noe annen innfallsvinkel til problemstillingen og skriver følgende om
-dette på side 2–3 (vår utheving):
-
-stolen i Albany-avgjørelsen (sak C-67/96). Dette
-var før kollektiv forhandlingsrett ble anerkjent
-som en grunnleggende menneskerettighet i medhold av EMK artikkel 11.
-Hovedpoenget, som Bekkedal framholder i sin
-konklusjon, er dermed at (side 26):
-
-We resist the attempt to «reconcile» legal sources that stem from different legal orders and
-that seemingly point in opposite directions.
-Instead, we show that within a system of multilevel governance, different actors at different
-levels do not apply the exact same rule and do
-the exact same thing, as if e.g. there were an
-ongoing competition among the different
-levels to have the «best» court. We show that
-Article 11 ECHR allocate different powers to
-different courts at different levels, so that they
-may legitimately adopt different approaches.
-Put simply, the European Court of Human
-Rights defines the margin of appreciation; the
-European Court of Justice operates within it. But
-we acknowledge that the developments at the
-level of fundamental rights require renewed reflection of whether the restrictions imposed by EU
-Law are justified or go too far.
-Currently, the tension between the approaches of the European Court of Human Rights
-and the European Court of Justice consumes
-every margin of appreciation and keeps other
-players off the table in issues pertaining to the
-growth of atypical work.
-
-The main problem of the opposite approaches
-of the ECtHR and the ECJ is that the tension
-between them consumes all flexibility: the ECJ
-has pressed the margin of appreciation to its
-outer limit. With regard to the issue of collective bargaining for self-employed, there is no
-space left for other decision-makers, such as
-lawmakers, trade unions and employers organization. The lack of flexibility is unfortunate.
-The growth in the number of self-employed has
-turned the regulatory approach towards this
-group into a core issue of industrial organization. Empirical assessments, political considerations and co-operation between the social
-partners is necessary to respond to emerging
-trends.
-
-Bekkedal tar utgangspunkt i EMK artikkel 11,
-som verner organisasjonsfriheten. Gjennom dom
-avsagt i Den europeiske menneskerettighetsdomstolen (EMD), Demir og Baykara28 er det slått fast
-at kollektiv forhandlingsrett er vernet i medhold
-av EMK artikkel 11. Av artikkelen følger det at
-enhver er vernet, jf. artikkel 11 nr. 1. Det er dermed på det rene at selvstendige oppdragstakere i
-utgangspunktet nyter et slikt menneskerettslig
-vern. Dette følger ikke bare av EMK, men også
-andre internasjonale menneskerettighetsforpliktelser, herunder Den europeiske sosialpakten29.
-Bekkedal peker videre på at EU-domstolen på
-sin side har en annen tilnærming til kollektiv forhandlingsrett. Det som vernes er prosessen kollektiv forhandlingsrett, med andre ord en kollektiv
-rett og ikke en individuell rettighet. Tariffunntaket, unntaket fra forbudet mot konkurransebegrensende samarbeid, ble anerkjent av EU-dom-
-
-Enn så lenge er spørsmålet om kollektiv forhandlingsrett for oppdragstakere uavklart. Det kan
-muligens utledes fra ovenstående avgjørelser at
-visse oppdragstakere i gråsonen kan tenkes å ha
-slik forhandlingsrett, men det er høyst uklart hvor
-grensen går og hva som nærmere kjennetegner
-denne gruppen.
-EU har på sin side vedkjent at konkurranselovgivningen kan tenkes å stå i veien for kollektive
-forhandlinger for visse oppdragstakere som trenger det.30 Kommisjonen ønsker derfor å sikre at
-arbeidsforhold kan bedres gjennom kollektive
-avtaler, ikke bare for arbeidstakere, men også for
-visse oppdragstakere som trenger beskyttelse.
-Europakommisjonen la den 6. januar 2021 fram en
-innledende konsekvensanalyse (Inception Impact
-Assessment)31, som redegjør for Kommisjonens
-arbeid med å sikre kollektiv forhandlingsrett for
-29
-
-30
-28
-
-Demir and Baykara v Turkey (grand Chamber), Application
-No 34503/97, 12 November 2008.
-
-31
-
-Begrunnelsen for at Bekkedal tar utgangspunkt i EMK
-artikkel 11 som primærrettskilde for menneskerettighetsperspektivet er følgende: «…the European Convention is
-the most important and highest ranking source. Other
-instruments are important to the extent that the interpretation of the European Convention is unclear or unresolved.
-They also contribute to the dynamic interpretation of the
-Convention: they supported and promoted the developments in the practice of the ECtHR (…). When the shift has
-occurred, the secondary sources regain their character of
-being less important.» (side 15)
-Competition: Collective bargaining for the self-employed
-(europa.eu)
-Ref. Ares(2021)102652 – 06/01/2021.
-
-[Side 205]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-203
-
-Kapittel 8
-
-Boks 8.3 Nærmere om innholdet i EU-kommisjonens innledende konsekvensanalyse
-og deres kontraktsparter kan forhandle kollekMed henvisning til OECD viser Kommisjonen til
-tiv uten risiko for å bryte EUs konkurranserett.
-at noen selvstendige oppdragstakere kan befinne
-Kommisjonen skisserer fire mulige virkeområseg i en ubalansert forhandlingsposisjon vis-á-vis
-der for hvem som kan tenkes å omfattes av en
-visse selskaper eller kunder, som kan innebære
-slik ny regel: i) Alle selvstendige oppdragstaliten forhandlingsmakt på prisen («price-takers»)
-kere uten egne ansatte som stiller til rådighet
-og med liten makt over egne arbeidsvilkår. Kolsin egen arbeidskraft gjennom digitale plattforlektive forhandlinger kan være et virkningsfullt
-mer, ii) Alle selvstendige oppdragstakere uten
-verktøy for å forbedre arbeidsvilkårene. Kommiegne ansatte som stiller til rådighet sin arbeidssjonen viser til at dette både kan gjelde for arbeid
-kraft gjennom digitale plattformer eller til profeinnenfor plattformøkonomien, men også være til
-sjonelle kunder av en viss størrelse, iii) Alle selvstede for visse selvstendige utenfor plattformstendige oppdragstakere uten egne ansatte som
-økonomien. Kommisjonen viser til at ettersom
-stiller til rådighet sin egen arbeidskraft gjennom
-grensen mellom arbeidstaker og oppdragstakere
-digitale plattformer eller til profesjonelle kunder
-i økende grad blir utydelig, innebærer det at
-uavhengig av størrelse, men med unntak av oppnoen personer ikke har klarhet rundt egen
-dragstakere som utøver regulerte profesjoner,
-arbeidstakerstatus og dermed heller ikke om
-eller iv) Alle selvstendige oppdragstakere uten
-deres rett til kollektive forhandlinger. Dette kan
-egne ansatte som stiller til rådighet sin egen
-forhindre dem fra å forhandle kollektivt i frykt
-arbeidskraft gjennom digitale plattformer eller
-for EUs konkurranseregler.
-til profesjonelle kunder uansett størrelse.
-Formålet med Kommisjonens initiativ er å
-klargjøre at visse selvstendige oppdragstakere
-
-selvstendige oppdragstakere, herunder behovet
-for mulige endringer i EUs konkurranserett.
-Kommisjonen har signalisert at det skal legges
-fram et forslag i fjerde kvartal 2021.32
-
-8.7.4
-
-Stillingsvern ved utsetting av oppdrag
-(«outsourcing»)
-Når en virksomhet velger å sette ut virksomhetens drift på oppdrag, kan konsekvensen være at
-det oppstår overtallighet og behov for oppsigelser
-hos oppdragsgiver.
-Oppsigelsesvernet i arbeidsmiljøloven skiller
-her mellom tilfeller hvor virksomheten setter ut
-drift på oppdrag til selvstendige oppdragstakere,
-og hvor virksomheten setter ut drift på oppdrag til
-andre virksomheter med egne ansatte. Dersom
-driften blir satt ut på oppdrag til andre virksomheter med egne ansatte, vil det generelle oppsigelsesvernet i § 15-7 første og andre ledd gjelde ved
-overtallighet hos oppdragsgiver. I tilfeller hvor
-virksomhetens drift settes ut på oppdrag ved bruk
-av selvstendige oppdragstakere, gjelder imidlertid
-det særskilte oppsigelsesvernet i § 15-7 tredje
-ledd ved overtallighet hos oppdragsgiver.
-32
-
-The European Pillar of Social Rights Action Plan | European Commission (europa.eu)
-
-Siktemålet med tredje ledd er særlig å ramme
-omgåelser av stillingsvernet ved at arbeidstakere
-blir erstattet av selvstendige. Bestemmelsen innebærer at det gjelder en strengere saklighetsnorm
-enn det som ellers gjelder ved oppsigelse.
-Bestemmelsen ble presisert i forbindelse med lovrevisjonen i 2005, hvor departementet skriver at
-bestemmelsen «primært bør ta sikte på å forhindre den situasjon at arbeidstakerne sies opp med
-tilbud om å komme tilbake som selvstendige», jf.
-Ot.prp. nr. 49 (2004–2005) punkt 18.2.
-Den særlige oppsigelsesregelen i § 15-7 tredje
-ledd gjelder altså ikke ved oppsigelse i forbindelse
-med utsetting av arbeid til andre virksomheter
-(entreprise). «Hvorvidt en oppsigelse vil være
-rettslig holdbar i en slik situasjon vil bero på en
-saklighetsvurdering», jf. Ot.prp. nr. 49 (2004–
-2005) side 230. Utsetting av drift på oppdrag til
-andre virksomheter kan imidlertid være å anse
-som en virksomhetsoverdragelse, slik at reglene i
-arbeidsmiljøloven kapittel 16 kommer til anvendelse.
-
-8.7.5
-
-Entreprise
-
-Entreprise må avgrenses mot innleie. Det vises til
-punkt 8.6.6 ovenfor.
-
-[Side 206]
-
-204
-
-NOU 2021: 9
-
-Kapittel 8
-
-Den norske modellen og fremtidens arbeidsliv
-
-Når det gjelder de arbeidsrettslige sidene i et
-entrepriseforhold, vil forholdet mellom oppdragstaker og egne arbeidstakere være underlagt de
-alminnelige regler i arbeidsforhold. Oppdragsgiver har i utgangspunktet ingen arbeidsgiverplikter overfor oppdragstakers arbeidstakere. Det finnes likevel noen regler som gir oppdragsgiver
-visse plikter og ansvar i entreprisesituasjoner.
-For det første vil en arbeidsgiver som foretar
-entreprisekjøp (oppdragsgiver) kunne ha et visst
-ansvar og enkelte plikter overfor oppdragstakerens arbeidstakere når det gjelder helse, miljø og
-sikkerhet. Det vises til redegjørelsen for § 2-2 i
-kapittel 8.2.5 ovenfor. Det fremgår av Ot.prp. nr.
-49 (2004–2005) side 303–304 at bestemmelsen
-typisk kan gjelde i entreprisesituasjoner:
-Bestemmelsen omfatter først og fremst
-arbeidstakere som er ansatt hos andre arbeidsgivere, men som for eksempel utfører håndverkstjenester i arbeidsgivers virksomhet.
-Regler om samordning og HMS-ansvar finner
-man også igjen i for eksempel forskrift 6. desember 1996 nr. 1127 om systematisk helse-, miljø- og
-sikkerhetsarbeid i virksomheter (internkontrollforskriften) og forskrift 3. august 2009 nr. 1028 om
-sikkerhet, helse og arbeidsmiljø på bygge- eller
-anleggsplasser (byggherreforskriften).
-For det andre kan en arbeidsgiver som foretar
-entreprisekjøp (oppdragsgiver) ha visse plikter og
-ansvar relatert til lønns- og arbeidsvilkår. På allmenngjorte områder vil oppdragsgiver ha en
-informasjons- og påseplikt knyttet til de allmenngjorte vilkårene, jf. forskrift 22. februar 2008 nr.
-166 om informasjons- og påseplikt og innsynsrett
-jf. allmenngjøringsloven § 12. Informasjonsplikten innebærer å informere oppdragstaker i kontrakten om «at virksomhetenes arbeidstakere
-minst skal ha de lønns- og arbeidsvilkår som følger av allmenngjøringsforskrifter», jf. § 5. Påseplikten innebærer en plikt for oppdragsgiver til å
-påse at lønns- og arbeidsvilkår hos oppdragstaker
-er i overensstemmelse med gjeldende allmenngjøringsforskrifter, jf. § 6. Forskriften benytter begrepene bestiller, hovedleverandør og underleverandør. En bestiller vil i denne sammenheng være
-oppdragsgiver overfor hovedleverandøren, og
-hovedleverandøren vil være oppdragsgiver overfor underleverandøren. Allmenngjøringsloven
-§ 13 oppstiller også et solidaransvar for oppdragsgivere.
-Videre har offentlige oppdragsgivere særlige
-plikter ved tildeling av tjenestekontrakter og
-bygge- og anleggskontrakter som overstiger 1,3
-
-millioner kroner eksklusiv mva. for statlige
-myndigheter og 2,05 millioner kroner eksklusiv
-mva. for andre oppdragsgivere, jf. forskrift 8.
-februar 2008 nr. 112 om lønns- og arbeidsvilkår i
-offentlige kontrakter § 4. Forskriften stiller blant
-annet krav til at oppdragsgiveren i sine kontrakter
-skal «stille krav om at ansatte hos leverandører og
-eventuelle underleverandører som direkte medvirker til å oppfylle kontrakten, har lønns- og
-arbeidsvilkår i samsvar med» gjeldende allmenngjøringsforskrifter eller i gjeldende landsomfattende tariffavtale for den aktuelle bransje, jf. § 5.
-Forskriften stiller også krav til at oppdragsgiver
-sørger for dokumentasjon, kontroll og sanksjon.
-
-8.7.6 Virksomhetsoverdragelse
-En virksomhetsoverdragelse innebærer at en virksomhet eller del av virksomhet overføres til en
-annen arbeidsgiver, jf. arbeidsmiljøloven § 16-1
-første punktum. Dersom den overdragende virksomheten kjøper tilbake tjenester fra den nye
-innehaveren, blir det etterfølgende tjenestekjøpet
-gjerne å anse som en entreprise. Det er imidlertid
-ikke noe krav om en etterfølgende entrepriseavtale mellom kontraktspartene for at det skal foreligge en virksomhetsoverdragelse. Det er gitt
-egne regler i arbeidsmiljøloven kapittel 16 om
-hvilke rettigheter arbeidstakere har i forbindelse
-med en virksomhetsoverdragelse. I det følgende
-gis det en kort beskrivelse av disse reglene.
-Reglene i arbeidsmiljøloven kapittel 16 er en
-gjennomføring av EU-direktiv 2001/23 (virksomhetsoverdragelsesdirektivet), og må tolkes i samsvar med praksis fra EU- og EFTA-domstolen, jf.
-blant annet Rt. 2015 side 718 avsnitt 60. Formålet
-med reglene er å gi arbeidstakerne trygghet og
-forutsigbarhet, ved å sikre at arbeidstakeres
-arbeidsforhold i størst mulig grad kan fortsette på
-uendrede vilkår hos ny arbeidsgiver dersom virksomheten de jobber i overdras til andre.
-Arbeidsmiljøloven § 16-1 oppstiller visse kriterier som må være oppfylt for at det kan sies å foreligge en virksomhetsoverdragelse:
-Dette kapittel kommer til anvendelse ved overdragelse av en virksomhet eller del av virksomhet til en annen arbeidsgiver. Med overdragelse menes overføring av en selvstendig
-enhet som beholder sin identitet etter overføringen.
-Det er i rettspraksis slått fast at følgende vilkår må
-være oppfylt for at det skal ha skjedd en virksomhetsoverdragelse, jf. blant annet Rt. 2011 side
+## Arbeidsgiverbegrepet og virksomhetsbegrepet
+
+### Innledning
+
+Arbeidsgiver er arbeidstakerens kontraktsmotpart i et arbeidsforhold, det vil si den som har ansatt arbeidstakeren for å utføre arbeid under seg. Arbeidsgiveren kan være en person eller en virksomhet. Som et utgangspunkt vil det rettssubjekt som er arbeidsgiver, være sammenfallende med arbeidsgivers virksomhet. Er det en juridisk person som eier og driver virksomheten, vil det være den juridiske personen som er arbeidsgiver, mens arbeidsgiverfunksjonene vil utøves av den juridiske personens organer eller andre som kan opptre på dennes vegne, jf. Ot.prp. nr. 49 (2004–2005) punkt 6.2.1.
+
+Arbeidsgiveren er den sterke parten i avtaleforholdet, og som i kraft av sin *styringsrett* løpende treffer ensidige avgjørelser som får betydning for arbeidsforholdet. Styringsretten er en samlebetegnelse på den rett en arbeidsgiver har til å «organisere, lede, kontrollere og fordele arbeidet», jf. blant annet Rt. 2000 side 1602. Styringsretten omfatter både virksomhets- og arbeidsrelaterte beslutninger, og omfatter blant annet retten til å etablere virksomhet, til å ansette, til å bestemme arbeidsted, til nedleggelse, til omorganisering, til oppsigelser og så videre, jf. Fougner, 2019, kapittel 4. Rekkevidden av styringsretten begrenses av blant annet lov og forskrifter, tariffavtaler, individuelle arbeidsavtaler samt krav til saklighet, jf. Rt. 2001 side 418 (Kårstø). Fougner, 2019, side 105–106 fremholder at domstolenes prøvelse av «styringsbeslutningene er minst intens overfor de rene virksomhetsrelaterte beslutningene, mens prøvelsen av beslutninger som nærmer seg eller går over i den individuelle arbeidsledelsen, er mer inngående».
+
+Til arbeidsgiverbegrepet er det også knyttet en rekke plikter i lovgivningen. Dette betegnes gjerne som *arbeidsgiverplikter eller arbeidsgiveransvar.* Det er arbeidsgiver som skal sørge for at lovens bestemmelser blir overholdt, jf. § 2-1. Pliktene kan være av både privatrettslig og offentligrettslig art. Det er nær sammenheng mellom arbeidsgivers styringsrett og at arbeidsgiver er gitt et hovedansvar for at arbeidsmiljøloven overholdes. I Fougner mfl. (2018, side 97) fremgår det at «\[i\] plikten til å ‘sørge for’ at lovens bestemmelser blir overholdt, ligger det omfattende ansvar som følger av styringsretten, og at arbeidsgiver disponerer over virksomhetens ressurser».
+
+Arbeidsgivers pliktansvar etter loven synes derfor å følge direkte av arbeidsgivers innflytelse og bestemmelse over arbeidsforholdet, jf. Ot.prp. nr. 3 (1975–1976) side 32:
+
+Når det gjelder ansvarsreglene, må disse ta utgangspunkt i hvem som faktisk har muligheter til å iverksette tiltakene. Når det gjelder fordeling av ansvaret innenfor den enkelte virksomhet, må en således bygge på den maktstruktur som er til stede i virksomhetene.
+
+Departementet mener at loven for å være realistisk må ta utgangspunkt i at i de fleste virksomheter loven omfatter, arbeider det personer med ulike muligheter til å påvirke utviklingen innenfor virksomheten og med ulike oppgaver, myndighet og ansvar. Etter departementets mening må en derfor, slik arbeidervernloven gjør, fortsatt bygge på de tre grunnleggende forutsetninger for den individuelle arbeidsavtale, nemlig arbeidsgiverens styringsrett, arbeidstakerens arbeids- og lydighetsplikt, og arbeidsgiverens omsorgsplikt.
+
+Hvem som er det ansvarlige arbeidsgiversubjektet i en relasjon hvor arbeid utføres, har i lys av styringsrett og arbeidsgiverplikter, følgelig stor betydning. Både med hensyn til hvem arbeidstakeren skal forholde seg til, ta imot ordrer fra, håndheve rettigheter overfor og rette eventuelle krav mot. Men også for tilsynsmyndighetene når det gjelder hvem som er tilsyns- og påleggsobjekt etter de offentligrettslige reglene.
+
+### Hvem er arbeidsgiver?
+
+Arbeidsgiver er i arbeidsmiljøloven § 1-8 andre ledd definert som «enhver som har ansatt arbeidstaker for å utføre arbeid i sin tjeneste». Definisjonen speiler arbeidstakerdefinisjonen i § 1-8 første ledd, og arbeidsgiver vil normalt være kontraktsmotparten til arbeidstaker.
+
+Oftest vil det være ukomplisert å avgjøre hvem som er arbeidsgiver. Det følger også av arbeidsmiljøloven § 14-6 første ledd bokstav a at partenes identitet skal fremgå av den skriftlige arbeidsavtalen. Det fremgår følgende av Ot.prp. nr. 49 (2004–2005) punkt 6.2.1:
+
+Som alminnelig regel vil det rettssubjekt som er arbeidsgiver være sammenfallende med arbeidsgivers virksomhet. For de fleste praktiske tilfeller vil en virksomhet være det som etter alminnelig språkbruk er en bedrift. Hovedregelen er at arbeidstakers rettigheter er knyttet til den enkelte virksomhet. Er det en juridisk person som eier og driver virksomheten vil det være den juridiske person som er arbeidsgiver, mens arbeidsgiverfunksjonene vil utøves av den juridiske persons organer eller andre som kan opptre på dennes vegne. Arbeidsgiver er vedkommende aksjeselskap, andelslag, stiftelse, statsforetak, statsetat, fylkeskommune eller kommune og så videre.
+
+Det følger av Ot.prp. nr. 49 (2004–2005) punkt 6.2.4 at arbeidsgiverbegrepet er ment å treffe det rettssubjekt som har den reelle avgjørelsesmyndigheten over arbeidsmiljøspørsmål: «Gjeldende definisjon av arbeidsgiverbegrepet i arbeidsmiljøloven § 4 og praksis knyttet til denne, er i de aller fleste tilfeller god og treffende med hensyn til hvor den reelle avgjørelsesmyndigheten i arbeidsmiljøspørsmål ligger.»
+
+Det kan likevel oppstå tvil med hensyn til hvilket rettssubjekt som er arbeidsgiver. I Ot.prp. nr. 49 (2004–2005) punkt 6.2.4 fremgår det at «departementet legger til grunn at det etter gjeldende rett blant annet skal legges vekt på hvem som i praksis har opptrådt som arbeidsgiver og som har utøvet arbeidsgiverfunksjoner». Dette blir gjerne omtalt som at arbeidsgiverbegrepet er funksjonelt. Dette kan i teorien innebære at et annet rettssubjekt enn det som er benevnt som part i avtalen, eller utad fremstår som arbeidsgiver, er den reelle arbeidsgiver. Dette kan gjelde fullt ut, eller at arbeidsgiveransvaret er delt mellom to eller flere ulike rettssubjekter. Delt arbeidsgiveransvar omtales nedenfor i punkt 8.2.3.
+
+I Rt. 1993 side 490 (Reksten) kom Høyesterett til at utydeligheter rundt hvem ansettelseskontrakten var inngått med, medførte at fullmektigen (eller «manageren») ble ansett for å være arbeidsgiver. I Rt. 1993 side 954 (Back Stage) var det spørsmål om arbeidstaker var ansatt hos to ledere i selskapet personlig, eller i aksjeselskapet eid av den ene lederen. Høyesterett kom med generelle uttalelser om at det er av sentral betydning for arbeidstaker å kjenne identiteten til arbeidsgiver, og at plikten til avklaring ligger på arbeidsgiver. Høyesterett viste til at «i slike tilfeller må det i tråd med alminnelige avtalerettslige regler kreves at det blir opplyst at ansettelsen skjer i selskapet om eieren ikke selv skal bli personlig ansvarlig».
+
+### Delt arbeidsgiveransvar
+
+Det er i forarbeider og rettspraksis lagt til grunn at det etter omstendighetene og på *særskilt grunnlag* kan foreligge delt arbeidsgiveransvar, det vil si at flere rettssubjekter har arbeidsgiveransvar for samme arbeidstaker. Læren om delt arbeidsgiveransvar på særskilt grunnlag er ulovfestet, en form for gjennomskjæring, og må ses på som en regel om «ansvarsgjennombrudd basert på arbeidsrettslige hensyn», jf. HR-2018-2371-A (Norwegian) avsnitt 121. Høyesterett uttalte videre i avsnitt 110 at «felles arbeidsgiveransvar er en snever unntaksregel – det skal mye til før et annet foretak enn den formelle arbeidsgiveren kan anses for å ha del i arbeidsgiveransvaret».
+
+Læren om delt arbeidsgiveransvar reiser særlig to spørsmål. For det første er det et spørsmål om når og i hvilke tilfeller delt arbeidsgiveransvar kan inntre, og for det andre er det et spørsmål om hvilke sider av arbeidsgiveransvaret som i så fall deles mellom flere rettssubjekter.
+
+I Ot.prp. nr. 49 (2004–2005) side 74–75 skrev departementet at slike «særlige grunnlag» kan være at det er avtalt flere arbeidsgivere, at flere selskaper har opptrådt som arbeidsgivere eller ved kontraktsmessige uklarheter:
+
+I rettspraksis har det vært lagt til grunn at flere rettssubjekter kan ha et arbeidsgiveransvar dersom arbeidsgiverfunksjonene har vært delt mellom dem. Sakene om delt arbeidsgiveransvar har vært knyttet til oppsigelsesvernet og plikten til å tilby annet passende arbeid etter § 60 nr. 2. I den grad det etter rettspraksis er oppstilt et delt arbeidsgiveransvar, så har det etter en konkret vurdering vært et særskilt grunnlag for det. Slike særlige grunnlag har i hovedsak vært at det er avtalt flere arbeidsgivere, at flere selskaper reelt har opptrådt som arbeidsgiver og utøvd arbeidsgiverfunksjoner, eller at arbeidsforholdet har kontraktsmessige uklarheter.
+
+Spørsmål om delt arbeidsgiveransvar fordi *flere har opptrådt som arbeidsgivere og utøvd arbeidsgiverfunksjoner* har blitt vurdert i flere dommer. Høyesteretts avgjørelser i Rt. 1990 side 1126 (Wärtsilä), Rt. 1997 side 623 (PPD), Rt. 2012 side 983 (Stena Drilling) og HR-2018-2371-A (Norwegian) gjennomgås nedenfor.
+
+Rt. 1990 side 1126 (Wärtsilä) gjaldt stillingsvern i konsernforhold. Administrerende direktør for et norsk datterselskap ble sagt opp i forbindelse med finsk morselskaps omlegging av virksomheten i Norge. Spørsmålet var om oppsigelse fra det norske datterselskapet var ugyldig som følge av at morselskapet også måtte anses som arbeidsgiver og kunne tilby passende arbeid i konsernet. Arbeidstakeren hadde først vært ansatt i morselskapet, og rettigheter og plikter ved overføring til Norge var regulert i avtale med morselskapet. I avtalen stod det at arbeidstakeren «rettslig skulle \[…\] anses ansatt i det norske datterselskap» (side 1132). Samtidig var det avtalt at han skulle kunne gjeninntre i morselskapets tjeneste når ansettelsen i datterselskapet var slutt. Videre skriver førstvoterende:
+
+Det er på det rene at han under sin tjeneste i Norge var lønnet av det norske datterselskap. Når det gjelder hans pensjonsrettigheter, fremgår det at disse skulle tilsvare dem han ville ha hatt som ansatt i morselskapet. \[Arbeidstakers\] lønns- og pensjonsforhold under tjenesten i Norge er ellers nærmere regulert i avtalen av oktober 1980, inngått mellom ham og morselskapet. Det fremgår av denne at morselskapet hadde avgjørende innflytelse på hans lønns- og pensjonsforhold og at han var forpliktet til å følge de direktiver som til enhver tid ble gitt av morselskapets ledelse. Indirekte hadde morselskapet oppsigelses-retten gjennom adgangen til å oppsi avtalen av 1980, og den uformelle oppsigelse \[arbeidstaker\] mottok ved brevet av 28. juni 1985, kom fra morselskapet.
+
+Det var «klart» at datterselskapet var arbeidsgiver etter loven (side 1132). Ut fra en samlet vurdering kom Høyesterett likevel til at forholdet mellom datterselskapet og morselskapet, og de plikter og rettigheter arbeidstaker hadde overfor morselskapet, medførte at *også* morselskapet måtte anses som arbeidsgiver. Førstvoterende kunne ikke se at loven var til hinder for å anse et datterselskap og et morselskap for å ha felles arbeidsgiveransvar hvor arbeidsgiverfunksjonene var delt mellom begge selskapene slik som var tilfellet her, og viste til sammenligning til Rt. 1989 side 231 (Exploration Logging). At morselskapet også hadde arbeidsgiveransvar overfor arbeidstakeren, knyttet seg til spørsmålet om oppsigelsen var saklig, jf. presiseringen «i den forbindelse som her er aktuell» (side 1132).
+
+Oppsigelsen ble ansett å være saklig begrunnet. Arbeidstakeren hadde avslått en stilling i morselskapet i Finland, i tillegg til at en direktørstilling i et nytt selskap innen konsernet falt utenfor plikten å tilby annet passende arbeid som følge av krav til stillingen og arbeidstakerens kvalifikasjoner. Flertallet fastsatte likevel at arbeidstaker hadde rett til å fortsette i stillingen til saken var rettskraftig avgjort, og han ble tilkjent erstatning for tapt lønn, som morselskapet ble holdt medansvarlig for.
+
+Rt. 1997 side 623 (PPD) omhandlet et interkommunalt Pedagogisk-Psykologisk Distriktssenter (PPD-senter) hvor senterets skole- og boavdeling ble nedlagt og de ansatte ved boavdelingen ble oppsagt fra sine stillinger. De gikk til søksmål mot PPD-senteret og samarbeidskommunene og hevdet at oppsigelsene var usaklige fordi samarbeidskommunene pliktet å tilby dem passende ledige stillinger i kommunene. Etter en konkret vurdering fant flertallet at PPD-senteret var et selvstendig rettssubjekt, og at styret ved PPD-senteret var formell arbeidsgiver etter loven.
+
+Høyesterett vurderte så videre om samarbeidskommunene også kunne ha arbeidsgiveransvar når det gjaldt gyldigheten av oppsigelsen og om samarbeidskommunene var pliktige til å tilby dem passende ledige stillinger i kommunene. Det ble vist til at det har vært lagt til grunn i rettspraksis at flere rettssubjekter kan ha et arbeidsgiveransvar etter dagjeldende bestemmelse om saklig oppsigelse, dersom arbeidsgiverfunksjonene har vært delt mellom dem, jf. Wärtsilä. Førstvoterende kunne ikke se at dette hadde vært tilfelle i denne saken:
+
+Alle sentrale arbeidsgiverfunksjoner har tilligget og blitt utøvet av styret ved PPD-senteret. Det var dette styret som foretok tilsettingene. Styringsretten over de ansatte har både formelt og reelt tilligget styret. De lokale lønnsforhandlingene er – etter det opplyste – skjedd mellom styret for PPD-senteret og arbeidstakerorganisasjonene for de tilsatte. At det ikke er fremforhandlet noen egen tariffavtale for de ansatte ved senteret og at generelle tariffavtaler for kommunalt tilsatte – etter det opplyste – har vært anvendt, kan jeg ikke se kan tillegges noen betydning i denne sammenheng (side 631).
+
+Saken stod på «vesentlige punkter» i en annen stilling enn Wärtsilä, og det ble også vist til at arbeidsgiveransvar for morselskapet i Wärtsilä hadde tydelig forankring i avtale, noe som ikke var tilfellet her (side 631–632). Flertallet avviste derfor et arbeidsgiveransvar for samarbeidskommunene. Det var dermed kun PPD-senteret som hadde arbeidsgiveransvar overfor de oppsagte arbeidstakerne. Oppsigelsene ble funnet å være saklige, da det var på det rene at det ikke fantes passende arbeid for de oppsagte ved PPD-senteret ettersom senteret var lagt ned (dissens 4-1).
+
+Rt. 2012 side 983 (Stena Drilling) gjaldt i likhet med Wärtsilä stillingsvern i konsernforhold. I Stena Drilling var det tale om to datterselskap i samme konsern, et utenlandsk og et norsk selskap. Saken omhandlet ikke direkte spørsmålet om delt arbeidsgiveransvar, men gjaldt likevel spørsmål om hvem som var *arbeidsgiver* i virksomhetsoverdragelsesreglenes forstand.
+
+Spørsmålet var om arbeidstakerne hadde en slik tilknytning til overdrageren (det norske datterselskapet) som ga dem rett til å gå over til erververen (et selskap som ikke var del av konsernet). Det var det utenlandske datterselskapet som hadde inngått arbeidsavtalene, og ble betegnet som «den opprinnelige arbeidsgiver» (avsnitt 103). Arbeidsavtalene, som altså var inngått med det utenlandske datterselskapet, la opp til at arbeidstakerne skulle utføre arbeid for andre selskap i samme konsern gjennom såkalt «secondment» (utlån), og så kunne kalles tilbake. Arbeidstakerne hadde vært utlånt til arbeid på en rigg som ble driftet av det norske datterselskapet. Spørsmålet var om det norske selskapet også skulle regnes som arbeidsgiver i virksomhetsoverdragelsesreglenes forstand. Høyesterett uttalte følgende:
+
+Skal den opprinnelige arbeidsgiver beholde statusen som arbeidsgiver, må denne opprettholde det vesentlige av arbeidsgiverfunksjonene. Jo mer det reelle forholdet mellom verten og den «seconderte» har karakter av et ordinært ansettelsesforhold, jo lettere vil dette bli lagt til grunn, i alle fall på den måten at den «seconderte», kan gjøre gjeldende rettigheter som tilkommer ordinært ansatte hos verten (avsnitt 103).
+
+Høyesterett la så til grunn at det norske selskapet opptrådte «for alle praktiske formål \[…\] som deres arbeidsgiver» og «de hadde lønns- og arbeidsvilkår på linje med arbeidstakere på riggen som var direkte ansatt». Det norske selskapet ble dermed regnet som arbeidsgiver i denne relasjonen, noe som ga dem slik «ansettelsesmessig tilknytning» at de hadde rett til ansettelse hos erververen etter virksomhetsoverføringen (avsnitt 105).
+
+I Norwegian (HR-2018-2371-A) ble det over flere år gjennomført en omfattende omorganisering. Som del av denne ble det gjennomført virksomhetsoverdragelser der flygende personell ble overført fra morselskapet og driftsselskap til egne datterselskaper i konsernet. Omorganiseringen skyldtes mange forhold, og det er i dommen trukket frem behovet for finansiering av fly som gjorde at rettighetene til disse måtte ligge i egne selskaper. Videre ble organiseringen fra Norwegians side for Høyesterett forklart ut fra «den internasjonale veksten i konsernet, etablering av flere AOC-selskaper i ulike land og behovet for kostnadseffektiv drift uten unødig duplisering av ressurser og funksjoner». Etter omstruktureringen leverte datterselskapene pilot- og kabintjenester til mor- og driftsselskapet gjennom egne entrepriseavtaler. Pilotene og de kabinansatte reiste krav mot morselskapet og driftsselskapet (AOC-selskapet) i konsernet hvor de hadde vært ansatt i en mellomperiode, om at disse var arbeidsgiver. Arbeidstakerne anførte at det forelå arbeidsgiveransvar på flere ulike grunnlag: at det forelå arbeidsgiveransvar på særskilt grunnlag, at entrepriseavtalene i realiteten var ulovlige innleieavtaler og at det i en mellomperiode foregikk ulovlig innleie (partene var enige om at det i denne mellomperioden var innleie, men var uenige om hvorvidt vilkårene for innleie var oppfylt).
+
+Når det gjaldt arbeidsgiveransvar på særskilt grunnlag, poengterte Høyesterett i avsnitt 110 at «felles arbeidsgiveransvar er en snever unntaksregel – det skal mye til før et annet foretak enn den formelle arbeidsgiveren kan anses for å ha del i arbeidsgiveransvaret». Når det gjaldt den konkrete vurderingen av hvorvidt morselskapet i realiteten opptrådte som arbeidsgiver, viste Høyesterett til sin forutgående vurdering av hvorvidt det forelå entreprise eller innleie, og trakk deretter en parallell mellom spørsmålet om arbeidsgiveransvar på særskilt grunnlag og kriteriene for skillet mellom innleie og entreprise. I vurderingen av innleie/entreprise kom Høyesterett til at det «klart» forelå entreprise, jf. avsnitt 99.[^101] Om delt arbeidsgiveransvar uttaler Høyesterett i avsnitt 111:
+
+Jeg viser til min drøftelse av om det foreligger entreprise eller arbeidsinnleie, der jeg konkluderte med at den innflytelsen som NAS har over pilotenes og de kabinansattes arbeid, ikke går ut over det som en oppdragsgiver kan ha i et entrepriseforhold. De samme trekk ved forholdet innebærer at NAS heller ikke kan sies å ha utøvd arbeidsgiverfunksjoner annet enn i helt marginal grad. Slik kriteriene for å skille entreprise fra arbeidsinnleie er utformet, er det i det hele vanskelig å tenke seg at det i praksis skulle foreligge både et entrepriseforhold og et felles arbeidsgiveransvar for oppdragstaker og oppdragsgiver.
+
+Høyesterett vurderte deretter om konsernforholdet i seg selv, og forhold rundt omstruktureringen i konsernet, kunne ha betydning. Partshjelper i saken, LO, hadde blant annet hevdet at omstruktureringen innebar at «arbeidstakerne flyttes ‘nedover’ i konsernstrukturen samtidig som de beholder sine arbeidsoppgaver, og morselskapet beholder avgjørende innflytelse over virksomheten». Det ble også anført at morselskapet var det eneste selskapet i konsernet med egen økonomi, og at datterselskapene som pilotene og kabinpersonalet var ansatt i var avhengig av (entreprise)vederlaget de fikk fra morselskapet. Høyesterett viste til flertallet i Konsernlovutvalgets forslag i NOU 1996: 6 om en utvidelse av arbeidsgiverbegrepet til å omfatte «ethvert annet foretak som kan utøve bestemmende innflytelse over arbeidsgiver». Deretter viser Høyesterett til departementets begrunnelse for ikke å gå videre med flertallets forslag. Departementet uttalte her blant annet at en slik utvidelse av arbeidsgiverbegrepet kan bli vanskelig å håndtere i praksis, og at det ofte vil være «vanskelig å fastslå når og hvem som utøver reell innflytelse over en virksomhet», jf. Ot.prp. nr. 49 (2004–2005) side 76.
+
+Høyesterett konkluderte med at det ikke forelå felles arbeidsgiveransvar på særskilt grunnlag, men uttalte i avsnitt 119:
+
+Som Høyesterett bemerket i Rt-2013-998 (Quality People) avsnitt 63, kan nye måter å organisere næringsvirksomhet på, utfordre arbeidsmiljølovens formål om å sikre trygge ansettelsesforhold. Det er videre slik at flytting av arbeidstakere til andre selskaper innen et konsern får konsekvenser for deres rett til informasjon, samarbeid og medbestemmelse i henhold til hovedavtalen og arbeidsmiljøloven. Gitt de klare lovgiveruttalelsene knyttet til gjeldende arbeidsgiverbegrep, må det imidlertid være opp til lovgiver å avgjøre om det bør gis en slik regel som arbeidstakersiden her har argumentert for.
+
+Når det gjelder rettsvirkningene av delt arbeidsgiveransvar, knytter foreliggende rettspraksis seg til deling av *visse* sider av arbeidsgiveransvaret, eksempelvis oppsigelsesvern og plikten til å tilby annet passende arbeid. Hotvedt (2016, side 403) anfører med henvisning til Jakhelln at *begrenset felles arbeidsgiveransvar* derfor er en mer presis betegnelse på rettstilstanden om delt eller felles arbeidsgiveransvar. Departementet peker også i Ot.prp. nr. 49 (2004–2005) side 76 på at et generelt felles arbeidsgiveransvar blant annet ville ført til at flere får ansvar for at lovens krav til helse, miljø og sikkerhet overholdes, og at det vil få betydning for overtidsberegning og spørsmålet om lovens ytre rammer for arbeidstidens lengde er overholdt, samt for plikten til å tilby annet passende arbeid i forbindelse med oppsigelser. I Norwegian peker også Høyesterett på at «en dom for at flere foretak har stilling som arbeidsgiver uten nærmere avgrensning av hvilke forhold det gjelder for, synes å reise flere spørsmål om hva som ville være rettsvirkningene av en slik dom», jf. avsnitt 123.
+
+### Plikter og ansvar for egne arbeidstakere
+
+Det følger av arbeidsmiljøloven § 2-1 at arbeidsgiver skal sørge for at bestemmelsene gitt i og i medhold av loven blir overholdt. Dette er et grunnleggende ansvar som har sammenheng med arbeidsgivers styringsrett og maktposisjon i arbeidsforholdet.
+
+Det følger av § 1-8 andre ledd at «det som i denne lov er bestemt om arbeidsgiver, skal gjelde tilsvarende for den som i arbeidsgivers sted leder virksomheten». I mange tilfeller vil arbeidsgiverfunksjoner være delegert til ledelsen i selskapet, som dermed har det praktiske ansvaret for å sørge for at lovens bestemmelser blir overholdt.
+
+### Plikter overfor andre enn egne arbeidstakere
+
+Utgangspunktet for pliktansvaret etter arbeidsmiljøloven er at pliktene gjelder fullt ut overfor egne ansatte. En arbeidsgiver kan imidlertid også ha visse plikter og ansvar overfor andre enn egne ansatte. Disse pliktene gjelder særlig en arbeidsgivers ansvar overfor innleide og selvstendige.
+
+Det er inntatt en egen bestemmelse om arbeidsgiveres HMS-ansvar overfor andre enn egne ansatte i § 2-2:
+
+\(1\) Når andre enn arbeidsgivers egne arbeidstakere, herunder innleide arbeidstakere eller selvstendige, utfører arbeidsoppgaver i tilknytning til arbeidsgivers aktivitet eller innretning, skal arbeidsgiver:
+
+a\) sørge for at egen virksomhet er innrettet og egne arbeidstakeres arbeid er ordnet og blir utført på en slik måte at også andre enn egne arbeidstakere er sikret et fullt forsvarlig arbeidsmiljø,
+
+b\) samarbeide med andre arbeidsgivere for å sikre et fullt forsvarlig arbeidsmiljø,
+
+c\) sørge for at innleid arbeidstakers arbeidstid er i samsvar med bestemmelsene i kapittel 10.
+
+\(2\) Hovedbedriften skal ha ansvaret for samordningen av de enkelte virksomheters helse-, miljø- og sikkerhetsarbeid. Dersom det samtidig sysselsettes mer enn 10 arbeidstakere, og ingen virksomhet kan regnes som hovedbedrift, skal det skriftlig avtales hvem som skal ha ansvaret for samordningen. Kommer slik avtale ikke i stand, skal det meldes til Arbeidstilsynet som bestemmer hvem som skal ha ansvaret for samordningen.
+
+\(3\) Departementet kan i forskrift gi nærmere bestemmelser om gjennomføringen av arbeidsgivers plikter etter denne paragraf.
+
+Det følger av Ot.prp. nr. 49 (2004–2005) side 303 at kjernen i bestemmelsen er at arbeidsgiver har plikt til å sørge for at egen virksomhet er innrettet på en slik måte at også andre enn egne arbeidstakere er sikret et fullt forsvarlig arbeidsmiljø. Bestemmelsen pålegger også en plikt til å samarbeide med andre arbeidsgivere. Ansvaret som følger av bestemmelsen supplerer det ordinære arbeidsgiveransvaret som ligger på den arbeidsgiver som arbeidstaker er ansatt hos. Om den nærmere rekkevidden av bestemmelsen skrev departementet:
+
+Bestemmelsen gjelder kun så langt arbeidsgivers virksomhet eller ansatte representerer en arbeidsmiljørisiko for andre personer som utfører arbeid. Arbeidsgiver har således ikke ansvar for hvordan arbeid utføres, med mindre den som utfører arbeidet på samme måte som sine egne arbeidstakere er underlagt arbeidsgivers styring av arbeidet. Dette vil for eksempel kunne være tilfelle ved innleie av arbeidstaker fra et vikarbyrå. Arbeidsgiver har heller ikke ansvar overfor de som arbeider i andre virksomheter hvis egen virksomhet ikke representerer noen arbeidsmiljørisiko for dem.
+
+Når det gjelder innleie spesielt, følger det av første ledd bokstav c at innleievirksomheten har et ansvar for at innleid arbeidstakers arbeidstid er i samsvar med arbeidsmiljøloven kapittel 10. Bestemmelsen innebærer ikke noen svekkelse av utleiers plikter som arbeidsgiver etter § 2-1. Utleier vil som arbeidstakers arbeidsgiver ha ansvar for at arbeidstakers samlede arbeidstid er i samsvar med loven, jf. Ot.prp. nr. 74 (2011–2012) side 103. Innleiers ansvar overfor den innleides helse, miljø og sikkerhet fremgår av første ledd bokstav a.
+
+Videre oppstiller § 1-6 et HMS-vern for visse persongrupper som utfører arbeid i en virksomhet uten å være arbeidstakere. Disse persongruppene omfatter elever ved institusjoner som har undervisning eller forskning som formål, vernepliktige, sivile tjenestepliktige og tjenestepliktige i sivilforsvaret, innsatte i kriminalomsorgens anstalter, pasienter i helseinstitusjoner, attføringsinstitusjoner o.l., personer som i opplæringsøyemed eller i forbindelse med arbeidsrettede tiltak utplasseres i virksomheter uten å være arbeidstakere og personer som uten å være arbeidstakere deltar i arbeidsmarkedstiltak.
+
+Et annet område hvor arbeidsgivere er pålagt plikter overfor andre enn egne arbeidstakere, er plikten til ikke å diskriminere som følger av kapittel 13. Det følger av § 13-2 andre ledd at bestemmelsene i kapittel 13 også gjelder «for arbeidsgivers valg og behandling av selvstendig næringsdrivende og innleide arbeidstakere». Bestemmelsen innebærer at innleide arbeidstakere og selvstendig næringsdrivende er vernet av diskrimineringsforbudet på linje med arbeidstakerne i en virksomhet. Bestemmelsen betyr ikke at innleide og selvstendig næringsdrivende skal behandles tilsvarende fast ansatte, men at innleide og selvstendig næringsdrivende kan påberope seg diskrimineringsbestemmelsene på lik linje med arbeidstakere dersom de blir diskriminert på grunnlag av noen av diskrimineringsgrunnene nevnt i § 13-1 første ledd, jf. Ot.prp. nr. 49 (2004–2005).
+
+### Virksomhetsbegrepet i arbeidsmiljøloven
+
+Et annet sentralt begrep i arbeidsmiljøloven er *virksomhetsbegrepet*. Begrepet har ingen definisjon, men går igjen en rekke steder i arbeidsmiljøloven. Virksomhetsbegrepet og dets forhold til arbeidsgiverbegrepet har i litteraturen blitt beskrevet som «den aktiviteten arbeidsgiver og arbeidstaker i fellesskap bedriver, og som gjør denne til et pliktobjekt etter loven», jf. Fougner, 2019, side 705. Virksomhetsbegrepet har flere funksjoner i loven, og må i utgangspunktet tolkes i lys av den aktuelle bestemmelsen. Det er ikke et enhetlig begrep, og det kan etter omstendighetene forstås og avgrenses ulikt i de ulike bestemmelsene i arbeidsmiljøloven.
+
+I NOU 2004: 5 side 148 fremgår det at «hovedregelen er at arbeidstakers rettigheter er knyttet til den enkelte virksomhet. Som alminnelig regel vil avgrensningen av virksomhetsbegrepet falle sammen med det rettssubjekt som er arbeidsgiver». Tidligere arbeidervernlover brukte begrepet «bedrift», men dette ble endret til «virksomhet» i 1977-loven. Begrepsendringen var ikke ment å innebære en realitetsendring, men var blant annet begrunnet i at offentlig forvaltning ikke kunne karakteriseres som «bedrift» etter alminnelig språkbruk, jf. NOU 2004: 5 side 149.
+
+En viktig funksjon for virksomhetsbegrepet er at det sammen med arbeidstakerbegrepet angir arbeidsmiljølovens virkeområde, jf. § 1-2 hvor det fremgår at «loven gjelder for virksomhet som sysselsetter arbeidstaker». Det følger av NOU 2004: 5 at «\[b\]egrepet virksomhet omfatter alle former for næringsvirksomhet og offentlig forvaltning. Det omfatter videre både ideell og immateriell virksomhet. Det er ikke avgjørende om virksomheten drives med gevinst for øye» (side 149). Det følger av forarbeider og rettspraksis at det finnes en «nedre grense» for hva som kan sies å være en virksomhet som faller inn under arbeidsmiljøloven. Det stilles blant annet som krav at det må foreligge en viss grad av organisasjon og varighet som ikke er helt ubetydelig. Rent personlige/private arbeidsavtaler omfattes ikke (NOU 2004: 5 side 149).
+
+Avgrensningen av virksomhetsbegrepet har også betydning i andre bestemmelser i loven. For eksempel kan det reises spørsmål om avgrensningen av virksomhetsbegrepet i § 15-7 andre ledd om oppsigelser som skyldes driftsinnskrenkning eller rasjonaliseringstiltak, og rekkevidden av plikten til å tilby annet passende arbeid i virksomheten. I HR-2018-880-A sier Høyesterett følgende:
+
+Den klare hovedregelen er altså at arbeidstakerrettighetene er knyttet til hele virksomheten. Det er likevel sikker rett at dette utgangspunktet kan «fravikes på saklig grunnlag» for så vidt gjelder kretsen for utvalg av arbeidstakere som vurderes oppsagt, jf. avsnitt 48 følgende i HR-2017-561-A (Posten II) med videre henvisninger.
+
+Rettspraksis gir derimot ikke grunnlag for noen tilsvarende innskrenkning av virksomhetsbegrepet når det gjelder plikten etter arbeidsmiljøloven § 15-7 andre ledd første punktum. Tvert om er det uttrykkelig slått fast i avsnitt 81 i Posten II at det avgjørende ved vurderingen etter denne bestemmelsen er «hva som måtte finnes av slikt arbeid i virksomheten, ikke i utvalgskretsen».
+
+Høyesterett har også behandlet en sak som gjaldt rekkevidden av virksomhetsbegrepet i § 14-13 om innleie fra produksjonsbedrift, jf. Rt. 2013 side 1730 (YIT). Her kom Høyesterett til at virksomhetsbegrepet i § 14-13 måtte forstås likt som i § 1-2.
+
+### Arbeidsgiverbegrepet i EU/EØS-retten
+
+En rekke EU-rettsakter (direktiver og forordninger) fastsetter arbeidsgiverplikter. Dette er en naturlig konsekvens av at arbeidsgiver er pliktsubjektet i arbeidsforholdet. I sekundærlovgivningen er det fastsatt forpliktelser for «arbeidsgiver», men det varierer om og hvordan begrepet er definert. Arbeidsgiverbegrepet må følgelig fastlegges konkret i relasjon til det enkelte direktiv, men i utgangspunktet overlates det til nasjonal rett.
+
+Det nye direktivet om tydelige og forutsigbare arbeidsvilkår ((EU) 2019/1152) omhandler arbeidsgivers plikt til å informere om vilkårene i arbeidsavtalen eller arbeidsforholdet, jf. omtale i punkt 6.4.3 ovenfor. Begrepet «arbeidsgiver» er ikke definert i selve direktivet. I fortalen til direktivet er det imidlertid inntatt i avsnitt 13 at *flere* fysiske eller juridiske rettssubjekt i noen tilfeller kan anses som arbeidsgiver, helt eller delvis, men at dette overlates til nasjonal rett:
+
+Several different natural or legal persons or other entities may in practice assume the functions and responsibilities of an employer. Member States should remain free to determine more precisely the persons who are considered to be wholly or partly responsible for the execution of the obligations that this Directive lays down for employers, as long as all those obligations are fulfilled. Member States should also be able to decide that some or all of those obligations are to be assigned to a natural or legal person who is not party to the employment relationship.
+
+Videre kan nevnes en avgjørelse i EU-domstolen (C-610/18) vedrørende trygdeforordningene, hvor domstolen kom med uttalelser om arbeidsgiverbegrepet i domskonklusjonen, og hvor realitetene ble lagt til grunn. Saken som var til behandling i EU-domstolen angikk spørsmålet om nederlandske lastebilsjåfører tilhørte kypriotisk eller nederlandsk trygdeordning. Formelt sett var sjåførene ansatt i et kypriotisk selskap, men dette selskapet hadde en rammeavtale med transportselskaper registrert i Nederland, som sjåførene utførte transportoppdrag for. Problemstillingen for EU-domstolen var om det var det kypriotiske selskapet eller de nederlandske selskapene som skulle anses som sjåførenes arbeidsgiver. Spørsmålet hadde betydning for om arbeidstakerne var tilknyttet det kypriotiske trygdesystemet eller det nederlandske.
+
+I saken hadde sjåførene utført alle oppdrag for de nederlandske transportselskapene, som også var ansvarlige for rekrutteringen, arbeidsvilkårene og avslutning av arbeidsforholdene. Det var fast praksis at sjåfører umiddelbart mistet jobben dersom det ikke lenger var behov hos de nederlandske selskapene. Selv om det kypriotiske selskapet formelt sett var arbeidsgiver etter arbeidsavtalen, ble det ikke ansett for å være avgjørende for tolkningen av arbeidsgiverbegrepet i trygdeforordningen. Domstolen uttalte følgende i sin domskonklusjon (vår utheving):
+
+Artikel 14, nr. 2), litra a), i Rådets forordning (EØF) nr. 1408/71 af 14. juni 1971 om anvendelse af de sociale sikringsordninger på arbejdstagere, selvstændige erhvervsdrivende og deres familiemedlemmer, der flytter inden for Fællesskabet, som ændret og ajourført ved Rådets forordning (EF) nr. 118/97 af 2. december 1996, som ændret ved Europa-Parlamentets og Rådets forordning (EF) nr. 631/2004 af 31. marts 2004, og artikel 13, stk. 1, litra b), nr. i), i Europa-Parlamentets og Rådets forordning (EF) nr. 883/2004 af 29. april 2004 om koordinering af de sociale sikringsordninger, som ændret ved Europa-Parlamentets og Rådets forordning (EU) nr. 465/2012 af 22. maj 2012, skal fortolkes således, *at en international lastbilchaufførs arbejdsgiver som omhandlet i disse bestemmelser er den virksomhed, der udøver den faktiske ledelsesbeføjelse over denne lastbilchauffør, som faktisk bærer de tilsvarende lønomkostninger, og som har den faktiske ret til at afskedige vedkommende, og ikke den virksomhed, med hvilken den nævnte chauffør har indgået en ansættelseskontrakt, og som formelt er angivet i denne kontrakt som denne chaufførs arbejdsgiver*.
+
+### Regulering av arbeidsgiverbegrepet i de nordiske landene
+
+#### Sverige
+
+I svensk arbeidsrett speiler arbeidsgiverbegrepet arbeidstakerbegrepet, jf. Westregård, 2019. I Medbestämmandelagen (1976:580) regnes arbeidsgiver som «den som arbeidstaker utfører arbeid for», jf. § 1 andre ledd. Den svenske Arbetsdomstolen har i en dom definert arbeidsgiver som «en fysisk eller juridisk person som har inngått en kontrakt med en annen (fysisk) person om at denne skal utføre arbeid under slike omstendigheter at en arbeidsavtale foreligger» (AD 1984 nr. 141). Arbeidsgiverbegrepet i svensk rett tar utgangspunkt i rettssubjektet. Det er den juridiske eller fysiske personen som har inngått en arbeidsavtale som anses som arbeidsgiver. Vurderingstema i rettspraksis er dermed å identifisere hvilket rettssubjekt som har inngått arbeidsavtalen. Hvis en arbeidstaker er ansatt i et datterselskap i et konsern, er det datterselskapet som et eget rettssubjekt som anses som arbeidsgiver. Hvis det er uklart om det er den fysiske eller juridiske personen som er arbeidsgiver, er det arbeidsgivers ansvar å klargjøre dette. Å gjøre endringer i kontraktsforholdet er ikke tillatt uten samtykke fra den andre parten, det vil si arbeidstakeren (Selberg, 2017).
+
+Arbeidsgiver har visse lovbestemte arbeidsgiverplikter overfor andre enn egne arbeidstakere på arbeidsplassen, uten at det medfører et generelt arbeidsgiveransvar. Dette gjelder særskilt enkelte plikter knyttet til HMS-ansvar for andre enn egne arbeidstakere, jf. arbetsmiljölagen (1977:1160) kapittel 3 § 12.
+
+#### Danmark
+
+Det er ingen generell arbeidsgiverdefinisjon i dansk rett, jf. Lund-Sørensen og Munkholm, 2020. Utgangspunktet er avtalerettslig og formelt. Arbeidsgiver er den som har inngått arbeidsavtalen med arbeidstakeren. Gjennom arbeidsavtalen gis arbeidsgiver rett til å utøve styringsrett og er ansvarlig for rettigheter og plikter overfor arbeidstaker. Hvis kontraktsforholdet er uklart, kan domstolene legge de reelle forhold til grunn for å avgjøre hvem som er arbeidsgiver, herunder hvem som har utøvd styringsrett overfor arbeidstaker, jf. blant annet Høyesterettsdom U.2001.987 H.
+
+Arbejdsmiljøloven (nr. 1084 af 19/09/2017), som regulerer arbeidsmiljø og HMS, har imidlertid en bredere arbeidsgiverdefinisjon ved at loven gjelder «arbeid utført for en arbeidsgiver», jf. § 2. Vurderingene knyttet til denne loven vektlegger hvem som har mulighet til å sikre helse og sikkerheten til den som utfører arbeidet, uavhengig av hvem som har status som formell arbeidsgiver i medhold av arbeidsavtalen. Det samme prinsippet gjelder for Funktionærloven (nr. 1002 af 24/08/2017), som gir funksjonærer (kontoransatte mv.) en rekke rettigheter knyttet til oppsigelse, oppsigelsesvarsel, lønn under sykdom mv.
+
+#### Finland
+
+Verken arbeidsgiver- eller arbeidstakerbegrepet er sentrale rettslige begrep i finsk arbeidsrett, jf. Ylhäinen, 2020. Arbeidsgiverbegrepet utledes fra definisjonen av hva som anses å være et ansettelsesforhold. Begrepet ansettelsesavtale er definert i ansettelsesavtaleloven (55/2001). Arbeidsgiver identifiseres således på bakgrunn av samme vurderingstema som gjelder for arbeidstaker. På bakgrunn av dette er arbeidsgiver den kontraktsparten som har utbytte av arbeidskontrakten, som er ansvarlig for å utbetale lønn og som et minimum har mulighet til å lede og styre arbeidet. Spørsmålet om felles eller delt arbeidsgiveransvar har ikke vært særlig diskutert i finsk litteratur. At ansettelsesavtaleloven kapittel 1 § 7 første ledd fastsetter at partene i en ansettelsesavtale ikke kan overføre rettigheter og plikter som kan utledes av avtalen til en tredjeperson uten samtykke fra den andre parten eller fastsatt på annen måte, gir mindre rom for et funksjonelt arbeidsgiverbegrep.
+
+## Fast ansettelse
+
+### Innledning
+
+Hovedregelen i norsk arbeidsliv er at arbeidstaker skal ansettes fast, jf. arbeidsmiljøloven § 14-9 første ledd. Det er det bred politisk enighet om, inkludert blant partene i arbeidslivet. I praksis har om lag tre av fire fast ansettelse enten i heltidsstilling eller i såkalt lang deltidsstilling (over 20 timer i uken), jf. punkt 5.4.1. Hovedregelen om fast ansettelse med fullt stillingsvern uttrykkes også gjennom lovens formålsparagraf, hvor det «å sikre trygge ansettelsesforhold» er ett av lovens formål, jf. § 1-1 bokstav b. Det pekes på i forarbeidene at «stillingsvernsbestemmelsene utgjør en stor og viktig del» av loven, og at det er viktig at «hovedformålet bak kontraktsreglene kommer til uttrykk i formålsparagrafen».[^102] Hovedregelen om fast ansettelse synliggjøres også ved at adgangen til midlertidige ansettelser er formulert som unntak fra hovedregelen i bestemte situasjoner.
+
+Prinsippet om fast ansettelse som hovedregel, følger dessuten av EU-retten. Direktiv 99/70/EF om midlertidig ansettelse, som Norge er bundet av gjennom EØS-avtalen, fastslår at fast ansettelse skal være hovedregelen. I innledningen til direktivets rammeavtale heter det at «partene i denne avtale erkjenner at faste avtaler er og fortsatt vil være den alminnelige form for ansettelsesforhold mellom arbeidstaker og arbeidsgiver». Videre heter det under punkt 6 i de generelle betraktninger i rammeavtalen at «faste arbeidsavtaler er den alminnelige form for ansettelsesforhold og bidrar til livskvaliteten for de berørte arbeidstakerne og til en bedre arbeidsinnsats».
+
+Det er i norsk rett lagt til grunn at fast ansettelse gir forutsigbarhet og andre fordeler for begge parter i arbeidsforholdet. Arbeidslivslovutvalget (NOU 2004: 5, punkt 15.3.7) pekte på at fast ansettelse «imøtekommer ønsket til en klar majoritet av arbeidstakerne om stabile og forutsigbare arbeidsvilkår» og la samtidig til grunn at også arbeidsgiverne «normalt vil ønske faste ansettelsesforhold»:
+
+Fast ansettelse gir stabil arbeidskraft. Arbeidsgiverne unngår stadig ny opplæring av ansatte, og får fordel av kompetanseheving over lengre tid. Fast ansettelse er en fordel også i forhold til å skape et godt arbeidsmiljø i virksomhetene.
+
+Ansettelse i staten følger særskilte regler i statsansatteloven. Hovedregelen er også her at arbeidstaker skal ansettes fast. Det er imidlertid en rekke særregler om ansettelse og utnevnelse, prøvetid, oppsigelse, avskjed, ordensstraff mv. Fremstillingen nedenfor avgrenses til arbeidsmiljølovens regulering.
+
+### Definisjon av fast ansettelse
+
+Rettslig sett har innholdet av fast ansettelse i stor grad vært ansett som selvsagt og tilstrekkelig regulert, og man har ikke sett behov for en nærmere definisjon. De senere årene har man sett ansettelser i deler av arbeidslivet som omtales som faste, men som ikke har det innhold som man tradisjonelt forbinder med dette. I bemanningsbransjen var det for eksempel etablert en praksis med såkalt «fast ansettelse uten garantilønn». Det forelå i disse tilfellene ingen avtale mellom partene om en fastlagt stillingsprosent eller annen minste garanti for arbeidsomfang og lønn.
+
+Med virkning fra 1. januar 2019 kom det særlig på denne bakgrunn inn en definisjon av fast ansettelse i arbeidsmiljøloven § 14-9 første ledd. Definisjonen bygger på hvordan begrepet fast ansettelse er forstått gjennom rettspraksis, men presiserer og utfyller praksis nærmere. Forarbeidene til lovendringen finnes i Prop. 73 L (2017–2018) kapittel 6.
+
+I Kjell Braaten-dommen, Rt. 2005 side 826, pekte Høyesterett på viktige elementer som må være til stede ved en fast ansettelse. Arbeidsgiver hevdet at arbeidstaker var fast ansatt, arbeidsavtalen ikke var tidsbegrenset og at det var avtalt oppsigelsestid. Selv om arbeidsavtalen ble omtalt som fast og etter sin ordlyd falt utenfor reglene om midlertidig ansettelse, ble den likevel vurdert opp mot reglene om midlertidig ansettelse. Retten konstaterte at arbeidsavtalen bare anga en ramme som det var opp til arbeidsgiveren å gi innhold. Arbeidstakeren ble gitt en utsikt til arbeid, etter arbeidsgiverens behov og vilje til å benytte seg av ham. Retten kom til at avtalen «manglet helt den trygghet for arbeidstakeren som blant annet følger av arbeidsmiljølovens regler om stillingsvern ved fast ansettelse, i tillegg til at den \[…\] i det hele tatt gir arbeidstakeren en beskjeden sikkerhet for å få arbeid og dermed lønnsinntekt» (avsnitt 30). Retten kom til at arbeidsavtalen måtte anses som en ulovlig avtale om midlertidig ansettelse og ikke en fast ansettelse.
+
+Med definisjonen som kom inn i loven i 2019, oppstilles det nå tre vilkår som må være til stede for at arbeidsavtalen kan sies å være fast: en løpende og tidsubegrenset avtale, at lovens regler for opphør av arbeidsforholdet gjelder og at arbeidstaker sikres forutsigbarhet for arbeid i form av et reelt stillingsomfang, jf. § 14-9 første ledd. At faste ansettelser løper uten at det avtales noen tidsbegrensning og at fullt stillingsvern gjelder, er velkjent. Med endringen kreves det også at fast ansatt arbeidstaker skal ha forutsigbarhet for at han/hun får arbeid i et bestemt omfang. Det gjelder ikke noen nedre grense for hvilket stillingsomfang som kan avtales, men omfanget må være avklart mellom partene og være konkret beskrevet i arbeidsavtalen, typisk ved en stillingsprosent. Det stillingsomfang som avtales må være reelt og i samsvar med det omfanget arbeidsgiver ved ansettelsen planlegger å benytte arbeidstaker til. Kravet til innhold ved en fast ansettelse innebærer ikke i seg selv krav om lønnsytelse eller en løpende lønnsytelse. Avtale om arbeidsytelse vil imidlertid normalt også innebære avtale om en eller annen form for lønn. Det vises for øvrig til Prop. 73 L (2017–2018).
+
+### Stillingsvern
+
+At reglene for opphør av arbeidsforholdet gjelder, innebærer at arbeidstaker som er fast ansatt har fullt stillingsvern. Dette innebærer i hovedtrekk at det gjelder drøftingsplikt før beslutning om oppsigelse, at det gjelder oppsigelsesfrister og formkrav til oppsigelsen, at det kreves saklig grunn for oppsigelse, at annet særskilt oppsigelsesvern gjelder, at særlige krav oppstilles for avskjed samt at konstaterte brudd på reglene har bestemte rettsvirkninger dersom saken bringes inn for domstolene til avgjørelse.
+
+Innledningsvis i et fast (eller midlertidig) arbeidsforhold kan det skriftlig avtales prøvetid for en periode på inntil seks måneder, jf. arbeidsmiljøloven § 15-6. Perioden kan forlenges ved arbeidstakers fravær i prøvetiden. I prøvetiden er oppsigelsesvernet noe svakere for de tilfellene der oppsigelse er begrunnet i «arbeidstakers tilpasning til arbeidet, faglig dyktighet eller pålitelighet», jf. bestemmelsens første ledd. Terskelen for oppsigelse er ifølge Høyesteretts praksis «noe – ikke helt ubetydelig – lavere enn det som ellers gjelder» jf. Rt. 2003 side 1071 og Rt. 2011 side 74. Der oppsigelsen som gis i prøvetiden skyldes andre forhold gjelder de vanlige reglene for oppsigelse, jf. bestemmelsens andre ledd.
+
+### Brudd på reglene om fast ansettelse
+
+Reglene om fast ansettelse gjelder de avtalemessige forholdene mellom partene. Dette er privatrettslige regler, som må forfølges av den enkelte arbeidstaker som mener at regelverket er brutt. Eventuelt må en sak avgjøres endelig gjennom domstolene. Dersom retten konstaterer brudd på bestemmelsene om fast ansettelse, for eksempel ved at arbeidstaker er ulovlig midlertidig ansatt, skal den etter påstand fra arbeidstaker avsi dom for fast ansettelse eller at arbeidsforholdet fortsetter, jf. arbeidsmiljøloven § 14-11 første ledd. I særlige tilfeller kan retten etter påstand fra arbeidsgiver bestemme at arbeidsforholdet skal opphøre, dersom den finner det åpenbart urimelig at dette fortsetter. Arbeidstaker kan også kreve erstatning, jf. bestemmelsens andre ledd.
+
+### Fortrinnsrett til ny ansettelse
+
+Fast ansettelse gir fortrinnsrett til ny ansettelse etter oppsigelse som skyldes virksomhetens forhold, typisk nedbemanning, jf. arbeidsmiljøloven § 14-2. Fast ansatte har i slike tilfeller fortrinnsrett til ny ansettelse i samme virksomhet, dersom arbeidstaker har vært ansatt i til sammen tolv måneder de to siste årene før oppsigelse. Fortrinnsretten gjelder fra oppsigelsestidspunktet og i ett år fra oppsigelsesfristens utløp. Den som krever fortrinnsrett, må være kvalifisert for stillingen.
+
+### Fast ansattes rettigheter sammenlignet med andre arbeidstakere
+
+Fast ansettelse skal i prinsippet ikke innebære bedre rettigheter etter arbeidsmiljøloven enn andre typer ansettelse, utover at fullt stillingsvern gjelder. Fast ansatte kan ikke behandles bedre enn andre arbeidstakere med hensyn til omplassering, opplæring eller lønns- og arbeidsvilkår mv., utelukkende fordi de er midlertidig ansatt eller deltidsansatt, jf. arbeidsmiljøloven § 13-1 tredje ledd.
+
+Når det gjelder medvirkning og forhold omkring helse, miljø og sikkerhet, gjelder de samme regler uavhengig av ansettelsesform. Arbeidsgiver har de samme plikter på dette området overfor alle direkte ansatte, enten de er på faste eller midlertidige arbeidsavtaler.

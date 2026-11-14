@@ -1,1075 +1,198 @@
-# NOU 2021: 9, del 20 av 36 (side 217–230)
+# NOU 2021: 9, del 20 av 42
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2021/a2e6ef96-nou-2021-9.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2021-9/id2862895/
 - Original-PDF: https://www.regjeringen.no/contentassets/7b8fb44f93a4402981ed7f279b345dbe/no/pdfs/nou202120210009000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 tabeller, 28 figurer, 239 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 217]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-mellom forbund og bedrift. De fleste direkteavtaler er kopier av gjeldende avtaler inngått mellom
-de sentrale parter, og den aktuelle hovedavtale
-gjøres gjeldende. Bestemmelser om medbestemmelse, drøfting, informasjon og prosedyrer for
-samarbeid og for konfliktløsning brukes så langt
-de passer.
-
-8.8.5
-
-Medvirkning og medbestemmelse i
-grensekryssende selskapsforhold
-Med bakgrunn i ulike EU-direktiver, er det gitt
-visse regler for arbeidstakernes innflytelse i grensekryssende selskapsforhold i EU/EØS-området.
-Reglene er gjennomført i norsk rett gjennom fire
-ulike forskrifter, og rammeverket omfatter reguleringer om ansatterepresentasjon gjennom europeiske samarbeidsutvalg, ved grenseoverskridende fusjoner, i europeiske selskaper og i europeiske samvirkeforetak.
-Reglene om europeiske samarbeidsutvalg
-(ESU) er regulert i forskrift 28. juli 2000 nr. 79 om
-europeiske samarbeidsutvalg mv., og gjennomfører direktiv 2009/38/EF. Forskriften er en allmenngjort tariffavtale mellom LO og NHO, med
-hjemmel i lov 23. august 1996 nr. 63 om allmenngjøring av bestemmelser i tariffavtale om europeiske samarbeidsutvalg m.v. Formålet med
-reglene er å bedre de ansattes konsultasjons- og
-informasjonsrettigheter i store foretak og konserner med virksomhet i flere land innenfor EØSområdet. I virksomheter med minst 1000 ansatte
-innenfor EØS-området, hvor det er minst 150
-ansatte i hvert av minst to EØS-land, kan de
-ansatte fremme krav om å opprette ESU. I ESU
-skal det informeres og drøftes om saker av grensekryssende karakter. Reglene kommer i tillegg
-til de nasjonale lov- og/eller tariffbaserte ordningene i de enkelte EØS-land. Ifølge ETUIs The
-european works councils database er det per april
-2021 40 ESU som er etablert med grunnlag i norske regler.33
-I aksjelovene er det gitt egne regler for grensekryssende fusjoner, jf. §§ 16-25 følgende. Regler
-om ansattes rett til representasjon ved grensekryssende fusjoner er regulert i forskrift 9. januar
-2008 nr. 50 om arbeidstakernes rett til representasjon ved fusjon over landegrensene av selskaper
-med begrenset ansvar. Reglene gjennomfører
-direktiv 2005/56/EF. Som hovedregel skal det
-fusjonerte selskapet være omfattet av de bestemmelser om arbeidstakernes representasjon som
-gjelder i medlemsstaten der selskapet har sitt for33
-
-http://www.ewcdb.eu/search/analysis
-
-215
-
-Kapittel 8
-
-retningskontor, jf. forskriften § 4 første ledd. Dette
-gjelder likevel ikke dersom minst ett av de fusjonerende selskapene i løpet av de seks siste månedene forut for offentliggjøringen av fusjonsplanen
-har et gjennomsnittlig antall arbeidstakere på over
-500, og er omfattet av reglene for representasjon i
-henhold til § 3 bokstav e. Hovedregelen gjelder
-heller ikke dersom hovedregelen gir et lavere nivå
-for arbeidstakernes representasjon enn det som
-gjelder for de berørte fusjonerende selskapene,
-målt i forhold til andelen arbeidstakerrepresentanter i administrasjons- eller kontrollorganet,
-eller deres komiteer eller i ledelsesgruppen som
-omfatter selskapets resultatenheter og som omfattes av arbeidstakernes representasjon. Videre
-gjelder ikke hovedregelen dersom hovedregelen
-ikke fastsetter samme rett til representasjon for
-arbeidstakere i driftsenheter i det fusjonerte selskapet som ligger i andre medlemsstater, som for
-arbeidstakerne i medlemsstaten der det fusjonerte selskapet har sitt forretningskontor. I disse
-tilfellene skal det opprettes et forhandlingsutvalg
-som skal forhandle fram en avtale om ansatterepresentasjon i selskapet, jf. forskriften §§ 5-15.
-Det er også gitt regler for ansatterepresentasjon i de særlige selskapsformene europeiske selskaper (SE-selskaper) og europeiske samvirkeforetak (SCE-foretak). Reglene om ansatterepresentasjon er regulert i henholdsvis forskrift 1.
-april 2005 nr. 273 om arbeidstakernes rett til innflytelse i europeiske selskaper og forskrift 3.
-november 2006 nr. 1213 om arbeidstakernes rett
-til innflytelse i europeiske samvirkeforetak, som
-gjennomfører henholdsvis direktiv 2001/86/EF
-og 2003/72/EF.
-
-8.9
-
-Trygde- og pensjonsrettigheter
-
-8.9.1 Innledning og begreper
-Tilknytningsform kan ha betydning for hvilke
-trygde- og pensjonsytelser man har krav på. I
-denne sammenheng er det særlig spørsmålet om
-arbeidstakerstatus som får betydning. Om man er
-fast eller midlertidig ansatt har normalt ikke
-betydning. Det å ha en lav deltidsstilling kan imidlertid påvirke selve retten til visse ytelser dersom
-inntektsgrunnlaget er for lavt, samt at størrelsen
-på ytelsen kan påvirkes for ytelser som beregnes
-av tidligere inntekt.
-Folketrygdloven skiller mellom arbeidstaker,
-frilanser og selvstendig næringsdrivende. Klassifiseringen har også betydning når det gjelder skatt.
-Skattemessig har skillet mellom arbeids- og virksomhetsinntekt betydning blant annet for bereg-
-
-[Side 218]
-
-216
-
-NOU 2021: 9
-
-Kapittel 8
-
-Den norske modellen og fremtidens arbeidsliv
-
-ningen av personinntekt som grunnlag for trygdeavgift og trinnskatt, satsen for trygdeavgift og
-plikten til å betale arbeidsgiveravgift. Etter skatteloven skilles det ikke mellom arbeid i og utenfor
-tjenesteforhold. Inntekt fra enkeltstående oppdrag
-utenfor tjenesteforhold følger reglene om
-lønnsinntekt i tjenesteforhold.
-I folketrygdloven er arbeidstaker definert som
-«enhver som arbeider i en annens tjeneste for
-lønn eller annen godtgjørelse», jf. § 1-8. Ordlyden i
-definisjonen skiller seg fra arbeidsmiljølovens
-definisjon ved at det forutsettes at det utbetales
-lønn eller annen godtgjørelse. For øvrig skal
-mange av de samme momentene som etter arbeids-
+## Innleie av arbeidskraft
 
-miljøloven legges til grunn, jf. Ot.prp. nr. 29
-(1995–96):
-Avgjørelsen av om en person skal regnes som
-arbeidstaker etter folketrygdloven beror på en
-skjønnsmessig helhetsvurdering. Det legges
-blant annet vekt på
-–
-–
+### Innledning
 
-om vedkommende har stilt sin arbeidskraft til
-disposisjon for en annen person (arbeidsgiveren),
-om vedkommende er underlagt en annen persons (arbeidsgiverens) instruksjonsmyndighet
-og tilsyn,
+Bruk av innleid arbeidskraft fra andre virksomheter er en av hovedkategoriene for alternativ tilknytning til arbeidsmarkedet. Bruk av innleid arbeidskraft kan bidra til fleksibilitet for virksomhetene ved midlertidig arbeidskraftsbehov. Innleie av arbeidskraft kan dekke etterspørselen etter korttidsarbeidskraft, og kan være et alternativ til midlertidig ansettelse, bruk av overtid blant egne ansatte eller kjøp av tjenester/entrepriser fra andre virksomheter (NOU 1998: 15 punkt 10.2.2). En praksis med omfattende bruk av innleie kan samtidig svekke fagkompetanse og rekruttering og på sikt få konsekvenser for produktivitet og kvalitet, samt bidra til et todelt arbeidsmarked (Prop. 73 L (2017–2018) punkt 8.3.2).
 
-Tabell 8.1 Skjematisk oversikt over hvilke regler som kommer til anvendelse på henholdsvis arbeidstakere,
-selvstendig næringsdrivende og frilansere
-Regelverk
+Det har vært mye oppmerksomhet om bruken av innleie, særlig som følge av økende innleie i byggenæringen og omfattende bruk av utenlandsk arbeidskraft fra Øst-Europa. Det har også vært mye oppmerksomhet om mulige brudd på regelverket og behovet for sterkere håndhevingsmekanismer, jf. nærmere omtale i punkt 5.5.
 
-Arbeidstakere
+Det er tillatt med utleie av alle typer arbeidskraft. Det kreves likevel at virksomheter som leier ut arbeidstakere oppfyller visse betingelser, jf. arbeidsmarkedsloven § 27. Det er gitt bestemmelser i forskrift[^108] om at bemanningsforetak årlig må sende melding om sin aktivitet til et bemanningsforetaksregister som administreres av Arbeidstilsynet. Innleie av arbeidstaker fra bemanningsforetak er kun tillatt fra foretak som er registrert, jf. forskriften § 10.
 
-Selvstendig
-næringsdrivende
+Innleie innebærer en trepartsrelasjon mellom arbeidstaker, arbeidsgiver i foretaket som leier ut og virksomheten som leier inn. Selv om det er utleievirksomheten som er arbeidsgiver, er det i praksis innleievirksomheten som organiserer og styrer arbeidet som arbeidstakeren skal utføre. Det er et ansettelsesforhold mellom utleier (arbeidsgiver) og arbeidstaker, mens det er et oppdrags-/kontraktsforhold mellom utleier og innleier. Ansettelser i virksomheter som leier ut arbeidskraft må skje på samme vilkår som i øvrige virksomheter. Det vil si at arbeidstaker som hovedregel skal ansettes fast, men at midlertidig ansettelse kan benyttes dersom vilkårene for dette er oppfylt.
 
-Frilansere
+Arbeidsmiljøloven regulerer adgangen til innleie og hvilke vilkår som gjelder ved innleie. Reglene retter seg dels mot innleier og dels mot utleier. Det skilles i loven mellom innleie fra virksomhet som har til formål å drive utleie (bemanningsforetak) og innleie fra virksomheter som ikke har som formål å drive utleie. Sistnevnte kategori virksomhet betegnes i arbeidsmiljøloven som «produksjonsbedrift». Den nærmere grensedragningen mellom bemanningsforetak og produksjonsbedrift fremkommer av arbeidsmiljøloven § 14-13 første ledd, se nærmere omtale nedenfor. Systematikken i loven er at dersom innleien ikke faller inn under § 14-13, omfattes den av § 14-12 om innleie fra bemanningsforetak.
 
-Uføretrygd
+Leie av arbeidskraft må avgrenses mot entreprise. Et entrepriseforhold kjennetegnes gjerne ved at en underentreprenør bringer med seg egne arbeidstakere for å utføre arbeid på oppdrag for en oppdragsgiver. Entrepriser er ikke omfattet av arbeidsmiljølovens regler om arbeidsleie. Det har dermed betydning for rettigheter og plikter om det er tale om utleie eller entreprise. Se nærmere om skillet i punkt 8.6.6.
 
-Ja
+### Direktiv 2008/104/EF om vikararbeid
 
-Ja
+Europaparlaments- og rådsdirektiv 2008/104/EF om vikarbeid (vikarbyrådirektivet) ble vedtatt i 2008. Direktivet ble gjennomført i norsk rett med virkning fra 1. januar 2013 jf. Prop. 74 L (2011–2012).
 
-Ja
+Formålene med direktivet er flere, jf. artikkel 2. Det tar sikte på å beskytte arbeidstakere som leies ut fra et vikarbyrå, og å forbedre kvaliteten på vikararbeid gjennom prinsippet om likebehandling av innleide arbeidstakere. Videre skal vikarbyråer anerkjennes som arbeidsgivere og det skal etableres passende rammer for anvendelse av arbeidsleie. Direktivet skal dessuten bidra til å skape arbeidsplasser og til å utvikle fleksible arbeidsformer.
 
-Sykepenger
+Direktivet gjelder ved ut-/innleie fra virksomhet som har til formål å drive utleie (bemanningsforetak), jf. artikkel 1 nr. 1 om virkeområde, samt definisjon av vikarbyrå i artikkel 3 nr. 1 bokstav b. Direktivet innfører blant annet et likebehandlingsprinsipp, som i korte trekk innebærer at de grunnleggende arbeids- og ansettelsesvilkår for den utleide arbeidstakeren minst skal tilsvare de vilkår som ville gjelde ved direkte ansettelse i innleievirksomheten så lenge oppdraget varer, jf. artikkel 5 nr. 1. Direktivet begrenser samtidig medlemsstatenes adgang til å forby eller ha restriksjoner på bruken av vikararbeid, jf. artikkel 4. I sak C-533/13 kom EU-domstolen til at artikkel 4 kun retter seg til nasjonale myndigheter, og ikke til domstolene.
 
-Fra første dag. Ytes
-med 100 prosent av
-grunnlaget.
+I artikkel 5 nr. 5 heter det at «medlemsstatene skal treffe nødvendige tiltak i samsvar med nasjonal lovgivning og/eller praksis for å forebygge misbruk ved anvendelsen av denne artikkel, særlig for å forebygge flere oppdrag som følger etter hverandre og som har til formål å omgå bestemmelsene i dette direktiv». I dom fra EU-domstolen i sak C-681/18 konkluderte domstolen blant annet med at medlemsstatene må ha tiltak som tar sikte på å sikre at karakteren av innleie fra bemanningsforetak forblir midlertidig, for å forebygge at arbeidstakere leies ut til samme virksomhet flere ganger etter hverandre for å omgå direktivets bestemmelser.
 
-Etter 16 dager. Ytes
-med 80 prosent av
-grunnlaget. Kan tegne
-tilleggsforsikring for
-100 prosent av grunnlaget og/ eller fra første
-dag.
+### Innleie fra virksomhet som har til formål å drive utleie (bemanningsforetak)
 
-Etter 16 dager. Ytes
-med 100 prosent av
-grunnlaget. Kan tegne
-tilleggsforsikring for
-100 prosent av grunnlaget fra første dag.
+Adgangen til innleie av arbeidstaker fra virksomhet som har til formål å drive utleie er regulert i arbeidsmiljøloven § 14-12. Som regel vil det være et bemanningsforetak (vikarbyrå), men må ikke være det. Om en virksomhet skal anses for å ha til *formål å drive utleie* beror på «en helhetsvurdering av virksomhetens art, herunder med hvilket omfang og hyppighet utleie skjer og hvor stor andel av virksomheten utleie utgjør. Vurderingen vil måtte ta utgangspunkt i de reelle underliggende forhold», jf. Ot.prp. nr. 70 (1998–99) side 43 følgende. Virksomheter som har til formål å drive utleie, vil for enkelhetens skyld benevnes bemanningsforetak i det videre.
 
-Arbeidsavklaringspenger
+Innleie fra bemanningsforetak er for det første tillatt i samme utstrekning som det kan avtales midlertidig ansettelse etter arbeidsmiljøloven § 14-9 andre ledd bokstav a til e, jf. § 14-12 første ledd. Innleie vil for eksempel være lovlig der arbeidet er av midlertidig karakter eller det gjelder arbeid i vikariat. Begrunnelsen i forarbeidene[^109] for i hovedsak å ha samme vilkår for innleie som for midlertidige ansettelser, er at innleie og midlertidig ansettelse ofte vil være alternative tilknytningsformer. Her fremkommer det at en vesentlig videre adgang til å leie inn arbeidskraft enn å ansette arbeidstakere midlertidig, vil kunne føre til omgåelse av reglene om midlertidig ansettelse. Bestemmelsen bygger på lovgivers utgangspunkt om at fast ansettelse i et topartsforhold mellom arbeidsgiver og arbeidstaker skal være det normale.
 
-Ja
+Det ble innført et nytt grunnlag for midlertidig ansettelse 1. juli 2015. Etter arbeidsmiljøloven § 14-9 andre ledd bokstav f kan det på generelt grunnlag inngås avtale om midlertidig ansettelse for en periode på inntil tolv måneder. Det er ikke gitt tilsvarende adgang til innleie på dette grunnlaget. I forarbeidene[^110] til bestemmelsen om den generelle adgangen til midlertidig ansettelse, ble det vist til at en slik utvidelse på innleieområdet kunne føre til hyppigere valg av innleie, på bekostning av midlertidig eller fast ansettelse. For å ivareta topartsforholdene, mente departementet at adgangen til innleie fra bemanningsforetak ikke burde utvides til å gjelde tilsvarende for den generelle adgangen.
 
-Ja
+I virksomhet som er bundet av tariffavtale inngått med fagforening med innstillingsrett etter arbeidstvistloven, kan arbeidsgiver og tillitsvalgte lokalt inngå skriftlig avtale om tidsbegrenset innleie, jf. § 14-12 andre ledd. Formålet var ifølge forarbeidene å hindre at innleiehjemmelen etter første ledd i enkelte tilfeller skulle bli for restriktiv, jf. Ot.prp. nr. 70 (1998–99) punkt 6.3.3.4. Adgangen gjelder uten hinder av vilkårene i § 14-12 første ledd. Tidligere var kravet for å inngå avtale om innleie at virksomheten var bundet av tariffavtale, uavhengig av «nivå» på tariffavtalen. Eksempelvis var avtaler inngått i virksomheten uten forankring i en overordnet overenskomst, såkalte «husavtaler», tidligere tilstrekkelig dersom øvrige vilkår var oppfylt. Endringen om at virksomheten må være bundet av tariffavtale med fagforening med innstillingsrett etter arbeidstvistloven, trådte i kraft fra 1. januar 2019 med en viss overgangsperiode.[^111] Bakgrunnen for endringen var først og fremst å demme opp mot en høy andel innleide arbeidstakere fra bemanningsforetak i bygge- og anleggsbransjen i de senere årene. Kravet til at virksomheten må være bundet av tariffavtale inngått med fagforening med innstillingsrett for å inngå avtale om innleie lokalt, gjelder imidlertid generelt for alle bransjer. Selve avtalen om innleie må inngås med tillitsvalgte som til sammen representerer et flertall av den kategori arbeidstakere som skal leies inn. Hvem som kan anses som representativ må vurderes konkret. Det kreves at avtalen med de tillitsvalgte inngås skriftlig og at den er tidsbegrenset.
 
-Ja
+Arbeidsgiver skal minst én gang per år drøfte bruken av innleid arbeidskraft med de tillitsvalgte, jf. § 14-12 tredje ledd. Også praktiseringen av kravet til likebehandling skal inngå i drøftingene. Formålet er å belyse det faktiske grunnlaget for innleie og skape en bevissthet rundt beslutningsgrunnlaget for bruken av innleide, se Prop. 74 L (2011–2012) punkt 14.3. Drøftingsplikten gjelder virksomhetens samlede bruk av innleide fra bemanningsforetak. Arbeidstilsynet har tilsvarende myndighet til å kontrollere at drøftinger gjennomføres i tråd med reglene som ved midlertidig ansettelse, jf. arbeidsmiljøloven § 18-6 første ledd.
 
-Pleiepenger
+Innleid arbeidstaker har rett til fast ansettelse og fullt stillingsvern etter en viss periode, tilsvarende som ved midlertidig ansettelse, jf. § 14-12 fjerde ledd jf. § 14-9 sjuende ledd. Retten knytter seg forutsetningsvis til innleie etter § 14-12 første ledd, og ikke ved innleie etter § 14-12 andre ledd, jf. ordlyden i § 14-9 sjuende ledd.
 
-Ja
+Departementet er gitt forskriftshjemmel til å forby innleie av visse arbeidstakergrupper eller på visse områder når viktige samfunnshensyn tilsier dette, jf. § 14-12 femte ledd. Forskriftshjemmelen er hittil ikke benyttet.
 
-Ja
+Ved brudd på reglene kan innleid arbeidstaker bringe saken inn for domstolene til avgjørelse. Dersom retten konstaterer brudd på reglene i § 14-12, skal den etter krav fra arbeidstaker avsi dom for at den innleide er fast ansatt hos innleier. Dersom innleier krever det, kan retten likevel bestemme at den innleide ikke har fast ansettelse, dersom den kommer til at det vil være åpenbart urimelig etter en avveining av partenes interesser. Denne adgangen brukte Høyesterett for eksempel i HR-2018-2371-A (Norwegian) avsnitt 137–138. I forarbeidene legges det til grunn at vurderingen av om den innleide skal gis fast ansettelse hos innleier kan falle noe forskjellig ut etter denne bestemmelsen i forhold til vurderingen etter tilsvarende bestemmelse i § 14-11 ved ulovlig midlertidig ansettelse.[^112]
 
-Ja
+Fra 1. juli 2020 har også Arbeidstilsynet myndighet til å føre tilsyn med innleie- og likebehandlingsreglene i arbeidsmiljøloven, jf. § 18-6 første ledd. I tillegg har Petroleumstilsynet og Luftfartstilsynet samme myndighet innenfor sine myndighetsområder. Arbeidstilsynets håndhevingsmyndighet gjelder både reglene om *innleie* i § 14-12 og om *likebehandling* ved utleie av arbeidskraft, jf. § 14-12 a første ledd. Dersom det avdekkes brudd, kan tilsynene gi pålegg om at den ulovlige innleien må opphøre, eller at bemanningsforetaket for fremtiden må gi vilkår som innebærer likebehandling. Den offentlige tilsynsmyndigheten kommer i tillegg til den enkelte arbeidstakers mulighet til selv å følge opp saken. Den enkelte må selv, som tidligere, reise krav overfor virksomheten om fast ansettelse og erstatning, og eventuelt inndrive manglende utbetalt lønn. Det er også innført tilsyn med den opplysningsplikt innleier har overfor bemanningsforetaket for å sikre oppfyllelse av likebehandlingsregelen i § 14-12 b.
 
-Omsorgspenger
-(syke barn)
+### Innleie fra virksomhet som ikke har til formål å drive utleie
 
-Ja
+Vilkårene for å leie inn fra virksomhet som ikke har til formål å drive utleie fremgår av arbeidsmiljøloven § 14-13. Dette er ofte betegnet som innleie fra produksjonsbedrift. Slik innleie er tillatt når den innleide er fast ansatt hos utleier. For at virksomheten skal sies ikke å ha til formål å drive utleie, er det et vilkår at utleie skjer innenfor de samme fagområder som utgjør utleierens hovedbeskjeftigelse og at utleieaktiviteten ikke omfatter mer enn 50 prosent av de fast ansatte hos utleier. Innleier skal drøfte spørsmålet om slik innleie med tillitsvalgte som til sammen representerer et flertall av den arbeidstakerkategorien innleien gjelder, før beslutning om innleie treffes. Dette følger av første ledd.
 
-Etter ti dager.
+For innleie som overstiger ti prosent av de ansatte hos innleier, likevel ikke færre enn tre personer, eller som har en varighet ut over ett år, skal det inngås skriftlig avtale med tillitsvalgte som til sammen representerer et flertall av den arbeidstakerkategorien innleien gjelder, jf. § 14-13 andre ledd. Dette gjelder ikke for innleie innenfor samme konsern.
 
-Etter ti dager.
+Ut fra ordlyden i bestemmelsen kan det synes som at det er nok at vilkårene nevnt over er oppfylt for at det lovlig kan foretas utleie etter § 14-13. I Rt. 2013 side 1730 (YIT) uttaler imidlertid Høyesterett om vilkårene for utleie i arbeidsmiljøloven § 14-13:
 
-Alderspensjon fra folke- Ja
-trygden
+Paragraf 14-13 angir altså de rettslige utgangspunktene og hovedregelen for arbeidsleie mellom bedrifter som ikke har utleie som formål. Men det følger av forarbeidene at vilkårene i bestemmelsen er minimumsvilkår. Selv om utleievirksomheten omfatter færre enn 50 prosent av de ansatte og skjer innenfor fagområder under hovedbeskjeftigelsen, vil en helhetsvurdering kunne lede til at innleieforholdet likevel må anses omfattet av § 14-12. Formålene bak bestemmelsen står sentralt ved denne vurderingen, og det er de reelle forhold som må være avgjørende, ikke hva utleier selv oppgir, jf. Ot.prp.nr.70 (1998–1999) kapittel 6.3.3.2. For å unngå omgåelser av reglene om arbeidsutleie skal det derfor foretas en konkret vurdering av virksomhetens arbeidsutleie sett på bakgrunn av formålet med bestemmelsen. Omgåelse vil kunne foreligge dersom en produksjonsbedrift utvikler arbeidsutleie som «et forretningsområde» eller permanent leier ut en andel av sine ansatte uavhengig av om bedriftens behov eller andre av de oppgitte formål tilsier slik utleie.
 
-Ja
+I den aktuelle saken var den utleide blitt ansatt i utleievirksomheten på grunn av innleiers behov og kun for å bli leid ut til denne innleievirksomheten. Høyesterett konkluderte slik:
 
-Ja
+Det må altså legges til grunn at både ansettelsen av A i YIT og utleien av ham til Statoil var initiert av og begrunnet i Statoils behov. A har etter det opplyste heller ingen passende arbeidsoppgaver i YIT å gå tilbake til. Hovedformålet med § 14-13 er å tilgodese utleiebedrifters behov for å kunne leie ut egne produksjonsansatte arbeidstakere når de ellers ville blitt midlertidig overflødige i egen bedrift. I As tilfelle ligger leieforholdet såpass fjernt fra det som var ment omfattet av § 14-13, at utleien ikke kan anses å ha hjemmel i bestemmelsen.
 
-Tjenestepensjon
+Utleieforholdet er da omfattet av § 14-12, og A har krav på fast ansettelse i Statoil i medhold av § 14-12 fjerde ledd, jf. § 14-9 femte ledd.
 
-Ja, obligatorisk.
+Forholdene i denne saken ble av førstvoterende karakterisert som svært spesielle. Det er likevel grunn til å være oppmerksom på at det skal gjøres en helhetsvurdering av de faktiske forholdene i utleievirksomheten selv om minstevilkårene er oppfylt, og at formålsbetraktninger står sentralt i denne vurderingen.
 
-Ja, frivillig.
+Det følger videre av § 14-13 tredje ledd at arbeidsgiver må dokumentere overfor tillitsvalgte at vilkårene for utleie/innleie foreligger.
 
-Ja, frivillig.
+Departementet kan i forskrift også forby innleie etter denne bestemmelsen av visse arbeidstakergrupper eller på visse områder når viktige samfunnshensyn tilsier det, jf. § 14-13 fjerde ledd. Forskriftshjemmelen er hittil ikke benyttet.
 
-Dagpenger
+### Likebehandling av lønns- og arbeidsvilkår ved innleie fra bemanningsforetak
 
-Ja, etter tre ventedager.
+I forbindelse med at vikarbyrådirektivet ble gjennomført i norsk rett, ble det først og fremst innført regler om likebehandling av lønns- og arbeidsvilkår, jf. arbeidsmiljøloven § 14-12 a første ledd. Bestemmelsen pålegger bemanningsforetaket å sørge for at arbeidstaker får bestemte lønns- og arbeidsvilkår i samsvar med det han/hun ville fått ved direkte ansettelse i innleievirksomheten, for å utføre samme arbeid som utføres ved innleien. Kravet til likebehandling gjelder arbeidstidens lengde og plassering, overtidsarbeid, varighet og plassering av pauser og hvileperioder, ferie/feriepenger og fridager og godtgjøring på slike dager, lønn og utgiftsdekning. I HR-2020-2109-A kom Høyesterett til at likebehandlingsregelen i arbeidsmiljøloven § 14-12 a første ledd gir innleide arbeidstakere samme rett til resultatbasert bonus som de fast ansatte, så lenge det dreier seg om vederlag for arbeid.
 
-Nei
+Det kreves dessuten at innleier gir innleid arbeidstakers tilgang til felles goder og tjenester hos innleier, jf. § 14-12 a andre ledd. Dette gjelder fysiske fasiliteter som kantine, treningsrom, parkering mv. Dersom det er objektive grunner for det, kan innleide nektes tilgang.
 
-Som for ansatte dersom
-inntekten er utbetalt og
-innberettet som lønn.
+Arbeidsgivers drøftingsplikt med de tillitsvalgte om bruken av innleie, gjelder også hvordan kravet til likebehandling praktiseres ved virksomheten, jf. arbeidsmiljøloven § 14-12 tredje ledd.
 
-Yrkesskadetrygd
+I arbeidsmiljøloven § 14-12 b er det gitt bestemmelser som skal bidra til å sikre at likebehandlingsreglene følges. Ved innleie av arbeidstaker skal innleier gi vikarbyrået de opplysninger som er nødvendige for at vikarbyrået skal kunne ivareta kravet om likebehandling. Hvilke opplysninger som er «nødvendige» vil avhenge av den konkrete situasjonen, men vil typisk kunne være lov/forskrift, tariffavtale eller personalpolitiske retningslinjer. Når arbeidstaker ber om det, skal vikarbyrået gi arbeidstaker de opplysninger som er nødvendige for at arbeidstaker skal kunne vurdere om egne lønns- og arbeidsvilkår oppfyller kravet om likebehandling. Normalt vil dette omfatte de opplysninger innleievirksomheten har plikt til å gi til vikarbyrået som grunnlag for deres fastsettelse av vilkårene. Når tillitsvalgte hos innleier ber om det, skal innleier dokumentere hvilke lønns- og arbeidsvilkår som er avtalt mellom innleid arbeidstaker og dennes arbeidsgiver. Plikten omfatter bare vilkår som nevnt i § 14-12 a første ledd. Når innleier ber om det, skal vikarbyrået dokumentere hvilke lønns- og arbeidsvilkår som er avtalt med arbeidstaker som leies ut til innleier. Dette må ses i sammenheng med regelen om innsynsrett for de tillitsvalgte.
 
-Ja
+Det ble i tillegg innført solidaransvar for innleier med virkning fra 1. juli 2013, jf. arbeidsmiljøloven § 14-12 c. Solidaransvaret omfatter forfalte krav på lønn, feriepenger og eventuelt annen godtgjøring etter likebehandlingsprinsippet, opptjent i tilknytning til det aktuelle innleieforholdet. Solidaransvaret vil inntre så snart arbeidstakers krav er misligholdt. Det er ikke et krav at arbeidstaker først må forsøke å få dekket sitt krav hos arbeidsgiver før solidaransvar kan gjøres gjeldende.
 
-Nei, men kan tegne frivillig forsikring.
+Departementet har hjemmel til å fastsette forskrift om og i hvilken utstrekning reglene om likebehandling kan fravikes ved tariffavtale, jf. arbeidsmiljøloven § 14-12 a tredje ledd. Det ble fastsatt slik forskrift i 2015.[^113] Forskriften innebærer at dersom det gjelder en tariffavtale i bemanningsforetaket, som er inngått med en fagforening med minst 10 000 medlemmer, kan likebehandlingsreglene fravikes. Mange tariffavtaler viser imidlertid til likebehandlingsreglene i loven slik de ble vedtatt i 2012, uten unntaksadgang. Arbeidsretten tok stilling til spørsmålet når det gjaldt Industrioverenskomstens fellesbilag 8 og 8A om likebehandling ved innleie, og kom til at en mulig fremtidig unntaksadgang fra likebehandling ikke var tariffestet, jf. ARD 2017 side 13. Forskriftens unntaksadgang har derfor hatt liten praktisk betydning.
 
-Nei, men kan tegne frivillig forsikring.
+Innleie av arbeidskraft er også regulert i tariffavtaler. Dette omfatter blant annet intensjonsbestemmelser om bruk av innleie, drøftingsplikt og ulike vilkår for innleie. Eksempler på tariffregulering av innleie er Fellesbilag 8 i Industrioverenskomsten, Hovedtariffavtalen i kommunal sektor kapittel 1 punkt 2.3.3 og Hovedtariffavtalen i staten kapittel 5.7.
 
-Yrkesskadeforsikring
+### Grensen mellom innleie og entreprise
 
-Ja
+Innleie må avgrenses mot entreprise. Et entrepriseforhold kjennetegnes gjerne ved at en oppdragstaker bringer med seg egne arbeidstakere for å utføre et bestemt oppdrag for en oppdragsgiver. Dette reguleres gjennom avtale mellom oppdragsgiver og oppdragstaker, og følger alminnelig kontrakts- og avtalerett. Innen bygg og anlegg er det ofte tale om omfattende kontrakter. Her er det over tid utviklet standardkontrakter som regulerer entrepriseforholdet. Også på andre områder vil det normalt være detaljerte kontrakter som regulerer forholdet mellom partene. Entrepriser kan ha mange likhetstrekk med leie av arbeidskraft, men entrepriser er ikke omfattet av arbeidsmiljølovens regler om innleie, og det har dermed stor betydning for rettigheter og plikter om det er tale om arbeidsleie eller entreprise. Ved entrepriser må for eksempel ikke vilkårene for innleie i § 14-12 være oppfylt. Likebehandlingsreglene i § 14-12 a følgende gjelder ikke, og rett til fast ansettelse etter en viss tid eller ved brudd på adgangen til innleie, jf. § 14-12 fjerde ledd og § 14-14, kommer ikke til anvendelse.
 
-Nei
+Høyesterett uttaler i Rt-2013-998 (Quality People) at det ikke er avgjørende i grensedragningen mellom innleie og entreprise om oppdraget går ut på å levere et produkt eller en løpende tjeneste. At en entreprise kan gå ut på levering av løpende tjeneste ble senere stadfestet av Høyesterett i HR-2018-2371-A (Norwegian). I dommene omtales entreprisene som «bemanningsentreprise».
 
-Nei
+Arbeidsrettslige regler som gjelder under entrepriseoppdrag omtales nedenfor i punkt 8.7.5.
 
-Arbeidsmiljøloven,
-blant annet HMS,
-arbeidstid, permisjoner,
-stillingsvern
+Grensen mellom leie og entreprise må vurderes konkret. Forholdet er ikke regulert i arbeidsmiljøloven, men definisjonen av utleie i arbeidsmarkedsloven § 27, forarbeider og rettspraksis er veiledende for vurderingen.
 
-Ja
+De første sentrale forarbeider om grensevurderingen kom i 1971 i forbindelse med at det ble innført et forbud mot innleie i dagjeldende sysselsettingslov, jf. Ot.prp. nr. 53 (1970–71) og Innstilling om arbeidsutleiefirmaenes virksomhet (Tjenestemannsutvalget), som proposisjonen i det alt vesentlige sluttet seg til. Det var gjort generelt unntak i forskrift fra innleieforbudet på visse områder, blant annet kontorsektoren. På andre områder kunne det etter søknad gis generell dispensasjon eller dispensasjon for enkelte oppdrag. I Ot.prp. nr. 53 (1970–71) side 23 og 24 omtales avgrensning av utleievirksomhet mot entreprise, hvor det trekkes frem noen sentrale kjennetegn på entreprise.
 
-Nei (med noen unntak
-for regler om arbeidsmiljø og diskriminering).
+Det fremgikk at entreprise gjerne defineres som en avtale om at entreprenøren mot vederlag skal utføre et *bestemt arbeid* for oppdragsgiveren. Ved et entrepriseoppdrag må *arbeidsoppdraget på forhånd være klart bestemt*. Et helt avgjørende kjennetegn på entreprise er at *entreprenøren faktisk utøver arbeidsledelsen*. Oppdragsgiveren *kontrollerer* imidlertid *arbeidsresultatet* på vanlig måte. Ved en entreprise vil det ofte være avtalt at arbeidet skal *utføres innen en bestemt tid*. Innenfor denne fristen vil entreprenøren innen visse grenser selv kunne avgjøre når arbeidet skal finne sted. Ved entreprise er det vanligvis entreprenøren som *avgjør arbeidsstyrkens størrelse og sammensetning*. Det fremgår videre at *arten av arbeidsoppdraget* må tillegges vekt, og at et indisium på entreprise er *at arbeidsoppgaven skiller seg fra hva oppdragsgiverens egen arbeidsstyrke arbeider med*. Videre taler det for entreprise at entreprenøren stiller *materiell, maskiner og verktøy* til disposisjon. Endelig at avtalt *fast pris* for arbeidet, eller at arbeidet påtas etter *anbud*, er tegn på entreprise.
 
-Nei (med noen unntak
-for regler om arbeidsmiljø og diskriminering).
+I 2000 ble forbudet i sysselsettingsloven opphevet og utleie av arbeidskraft ble generelt tillatt, se Ot.prp. nr. 70 (1998–99) og NOU 1998: 15 (Blaalid-utvalget). Det ble stilt enkelte krav i daværende sysselsettingslov § 27 og det ble innført et nytt kapittel om innleie av arbeidstakere i arbeidsmiljøloven kapittel XI B. Når det gjelder grensedragningen mellom utleie av arbeidskraft og entreprise tar Blaalid-utvalget utgangspunkt i de momenter som var redegjort for i Tjenestemannsutvalgets innstilling, og det uttales i Ot.prp. nr. 70 (1998–1999) side 41 at «forslaget til regulering av innleie er ikke ment å innebære noen endring i grensedragningen mellom arbeidsleie og entreprise».
 
-Selvstendig næringsdrivende får nå sykepenger med 80 prosent av grunnlaget, jf. Prop. 116 L (2018–2019). Endringen var et ledd i
-oppfølgingen av Granavoldenplattformen, der det framgikk at regjeringen skulle «Foreta en gjennomgang av alle rammevilkår og
-ordninger for gründere og selvstendig næringsdrivende, blant annet sosiale rettigheter og sykepenger.
-Kilde: Tabellen er hentet fra NOU 2017: 4 Delingsøkonomien, tabell 5.1, men satsen for sykepenger for selvstendig næringsdrivende er oppdatert og omtalen av tjenestepensjon er justert.
+Blaalid-utvalget skisserte i punkt 5.1.4 opp følgende utgangspunkt for vurderingen:
 
-[Side 219]
+Loven beskriver utleie av arbeidskraft som å
 
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
+«stille egne ansatte til disposisjon for en oppdragsgiver når disse er underlagt oppdragsgivers ledelse».
 
-–
-–
-–
+I mange tilfeller kan det likevel ofte være uklart hva som er selvstendige oppdrag (entreprise) som faller utenfor sysselsettingsloven § 27, og hva som er utleie av arbeidskraft. Strekpunktene nevnt nedenfor er momenter i vurderingen av om det foreligger entreprise eller utleie av arbeidskraft.
 
-om vedkommende har ansvaret for arbeidsresultatet,
-om vedkommende har plikt til å utføre arbeidet
-personlig,
-om vedkommende benytter en annens
-(arbeidsgiverens) redskaper, materialer og
-lokaler.
+I utgangspunktet er det entreprise når:
 
-I folketrygdloven deles selvstendig oppdragstakere inn i to grupper; frilansere og selvstendig
-næringsdrivende.
-Frilanser er i § 1-9 definert som «enhver som
-utfører arbeid eller oppdrag utenfor tjeneste for
-lønn eller annen godtgjørelse, men uten å være
-selvstendig næringsdrivende». Frilansere er i motsetning til arbeidstakere ikke underlagt arbeidsgivers instruksjonsmyndighet, og utfører arbeidet
-for egen regning og risiko. I skatterettslig sammenheng behandles de imidlertid som lønnstakere på samme måte som arbeidstakere.34 En
-frilanser etter folketrygdloven vil normalt ikke
-være å anse som arbeidstaker etter arbeidsmiljøloven. Frilanserbegrepet er en sekkebestemmelse som fanger opp de som verken er arbeidstaker eller selvstendig næringsdrivende etter folketrygdloven §§ 1-8 og 1-10, jf. Høyesteretts dom i
-HR-2016-589-A.
-Selvstendig næringsdrivende er i folketrygdloven § 1-10 første ledd definert som «enhver som
-for egen regning og risiko driver en vedvarende
-virksomhet som er egnet til å gi nettoinntekt». I
-andre ledd er det angitt hvilke momenter det skal
-legges vekt på i vurderingen:
-1. om virksomheten har et visst omfang,
-2. om vedkommende har ansvaret for resultatet av virksomheten,
-3. om vedkommende har arbeidstakere i sin
-tjeneste eller nytter frilansere,
-4. om vedkommende driver virksomheten fra
-et fast forretningssted (kontor, verksted
-e.l.),
-5. om vedkommende har den økonomiske
-risikoen for virksomheten,
-6. om vedkommende bruker egne driftsmidler.
-Når det gjelder trygde- og pensjonsrettigheter,
-har selvstendige oppdragstakere mange av de
-samme rettighetene som arbeidstakere, men med
-visse unntak og forskjeller når det gjelder dekningsgrad og karensperiode.
+- ledelsen av arbeidet er hos entreprenøren og ikke hos oppdragsgiver,
 
-34
+- antall arbeidstakere som nyttes på oppdraget er uvedkommende for oppdragsgiver,
 
-NOU 2017: 4 punkt 5.2.3.
+- det er avtalt en fast pris,
 
-217
+- oppdraget er klart avgrenset,
 
-Kapittel 8
+- entreprenøren har et selvstendig ansvar for resultatet, og
 
-8.9.2 Medlemskap i folketrygden
-For alle ytelsene fra folketrygden stilles det som
-vilkår at man enten er eller har vært medlem i folketrygden eller kan avlede rettigheter fra et nåværende eller tidligere medlem i folketrygden. Medlemskap i folketrygden er følgelig inngangsporten
-til ytelser fra folketrygden.
-Hovedregelen for medlemskap er at alle som
-er lovlig bosatt i Norge, er pliktige medlemmer i
-folketrygden, jf. folketrygdloven § 2-1. Man regnes i denne sammenhengen som bosatt dersom
-man oppholder seg i Norge og oppholdet er ment
-å vare eller har vart i minst tolv måneder. Bestemmelsen skiller ikke mellom arbeidstakere, selvstendig næringsdrivende og frilansere. Også personer som ikke er yrkesaktive omfattes av
-bestemmelsen.
-Personer som ikke er bosatt i Norge etter
-denne bestemmelsen, vil også være pliktige medlemmer i folketrygden, dersom de er arbeidstakere i Norge eller på kontinentalsokkelen, og har
-lovlig adgang til å ta slikt arbeid, se § 2-2. Denne
-bestemmelsen omfatter altså ikke selvstendig
-næringsdrivende og frilansere.
-I EØS-tilfellene må det i tillegg ses hen til lovvalgsbestemmelsene i Europaparlaments- og rådsforordning (EF) nr. 883/2004. Det redegjøres ikke
-nærmere for dette regelverket her.
-8.9.3 Sykepenger
-Inngangsvilkårene i folketrygdloven for å få rett til
-sykepenger er like for arbeidstakere, frilansere og
-selvstendig næringsdrivende. Man må ha tapt
-pensjonsgivende inntekt på grunn av sykdom
-eller skade. Det er videre krav om minst fire ukers
-forutgående yrkesaktivitet (opptjeningstid), og
-inntektsgrunnlaget må minst svare til halvparten
-av folketrygdens grunnbeløp (½ G), for at man
-skal få rett til sykepenger. Sykepenger utbetales
-inntil ett år.
-Sykepenger fra trygden ytes etter ulike regler
-for arbeidstakere, frilansere og selvstendig
-næringsdrivende. Sykepengegrunnlaget kan ikke
-overstige seks ganger grunnbeløpet. Dette gjelder
-alle grupper. Til arbeidstakere ytes det sykepenger med 100 prosent av sykepengegrunnlaget fra
-17. dag. Arbeidsgiver utbetaler sykepenger de første 16 dagene (arbeidsgiverperioden). Frilansere
-får 100 prosent dekning fra trygden fra 17. dag. De
-første 16 dagene må de dekke selv. Selvstendig
-næringsdrivende får 80 prosent dekning fra trygden fra 17. dag og de må også dekke de første 16
-dagene selv. Dette har sammenheng med at disse
+- entreprenøren nytter egne materialer og verktøy.
 
-[Side 220]
+Det er utleie av arbeidskraft når:
 
-218
+- oppdragsgiver har ledelsen av arbeidet,
 
-Kapittel 8
+- et bestemt antall arbeidstakere er stilt til disposisjon for oppdragsgiver,
 
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
+- det er fastsatt en timepris eller timeavhengig pris,
 
-Tabell 8.2 Antall forsikringer fordelt etter ordning
-Tidspunkt:
-Ordning:
+- det er ubestemte eller kun skisserte arbeidsoppgaver,
 
-30.09.18
+- oppdragsgiver beholder ansvaret for det utførte arbeid, og
 
-30.09.19
+- oppdragsgivers materialer og verktøy nyttes under oppdraget.
 
-Endring i prosent
+Selv om det påpekes at lovendringen av innleiereglene i 2000 ikke var «ment å innebære noen endring i grensedragningen mellom arbeidsleie og entreprise», jf. over, ble momentlisten kortet noe ned sammenlignet med forarbeidene fra 1971.
 
-75 prosent fra første dag
+Det er særlig Blaalid-utvalgets momentliste som er vist til og anvendt i etterfølgende forarbeider og rettspraksis, selv om også forarbeidene fra 1971 nevnes. I HR-2018-2371-A (Norwegian) uttaler Høyesterett i avsnitt 79 at «dermed gjelder fortsatt den forståelsen av grensedragningen mellom innleie og entreprise som forarbeidene til tidligere lover gir uttrykk for». Høyesterett uttalte videre at momentlisten ikke innebærer likestilte eller kumulative vilkår, men at «det må foretas en helhetsvurdering der de sentrale kriteriene er ansvar for ledelsen og resultatet av det arbeidet som utføres. De øvrige kriteriene tjener mest som sperre mot forsøk på omgåelse», jf. avsnitt 80.
 
-1 734
+Særlig to sentrale høyesterettsdommer har vist hvordan grensedragningen mellom innleie og entreprise kan komme på spissen. Begge dommer omhandler det som benevnes som «bemanningsentreprise». I begge dommer kom Høyesterett til at det «klart» forelå entreprise.
 
-1 724
+Rt-2013-998 (Quality People) omhandler A, som i 1990 begynte å arbeide ved kontoret til Norsk Hydro på Sandsli utenfor Bergen. A var ansatt i ulike foretak som hadde oppdrag for Norsk Hydro. I 2000 inngikk Norsk Hydro (senere Statoil) en rammeavtale med selskapet Quality People om blant annet drift og bemanning av det bedriftsinterne postkontoret ved virksomheten på Sandsli (omtalt som Posten). A ble da ansatt i Quality People med Posten som arbeidssted; et kontor han også ledet fra 2001. I 2010 mistet Quality People avtalen med Statoil, og A måtte slutte der. A tok da ut søksmål mot Statoil med krav om fast ansettelse etter fireårsregelen, jf. aml. § 14-12 fjerde ledd, jf. § 14-9 sjuende ledd. Spørsmålet som ble behandlet i Høyesterett var om arbeidet A utførte var som ledd i en entreprise, eller om det gjaldt innleie av arbeidskraft som ville gitt krav på fast ansettelse etter så mange år.
 
--0,6
+I dommen går Høyesterett gjennom den historiske utviklingen og rettskildene som er omtalt ovenfor, og fastholder at grensedragningen mellom innleie og entreprise tar utgangspunkt i momentlisten fra Blaalid-utvalget. Høyesterett påpekte at grensen mellom innleie og entreprise skal foretas etter en helhetsvurdering, hvor det sentrale må være hvem av partene som har ansvaret for ledelsen og resultatet av det arbeidet som skal presteres. Det kan ikke være avgjørende om oppdraget går ut på å levere et produkt eller løpende tjeneste. Høyesterett presiserte også at det må være opp til lovgiver å vurdere om det er behov for å nyansere gjeldende rett eller eventuelt trekke nye grenser på området.
 
-100 prosent fra 17. dag
+Høyesterett startet med å se på rammeavtalen mellom Statoil og Quality People og påpekte at det er de reelle forholdene som skal legges til grunn ved grensedragningen mellom innleie og entreprise. Selv om rammeavtalens tittel tilsa at avtalen gjelder «leie av personell», så kunne ikke det bety at ethvert arbeid som ble bestilt under rammeavtalen skulle vært innleie i arbeidsrettslig forstand, jf. avsnitt 72. I den konkrete bevisbedømmelsen gikk Høyesterett videre systematisk gjennom momentene fra forarbeidene. Alle bestillingene fra Statoil var tydelige på hvilke oppgaver som skulle utføres, og hvilke prosedyrer som skulle følges. Høyesterett anså det derfor som lite tvilsomt at kravet til at arbeidsoppdraget var klart bestemt, var oppfylt (avsnitt 77). Hos Statoil var det plassert en «på stedet-leder» fra Quality People, som tilsa at det var Quality People som hadde ledelsen med arbeidet på Posten. Høyesterett mente at det ikke spilte noen rolle at denne lederen ikke fysisk hadde sitt kontor i avdeling Posten (avsnitt 83). I bestillingen fra Statoil var åpningstiden til Posten bestemt, men Høyesterett mente at dette ikke fratok Quality People arbeidsgiverfunksjonen. Åpningstidene ble ansett å være en del av Quality Peoples arbeidsbeskrivelse, men selskapet rapporterte ikke sitt timeforbruk på Posten til Statoil for godkjenning (avsnitt 85). Selv om Statoil av sikkerhetsmessige grunner forbeholdt seg rett til å godkjenne personell som skulle ha tilgang til bygningene, innebar ikke dette begrensninger i Quality Peoples rett til å bestemme arbeidsstyrkens sammensetning (avsnitt 90).
 
-12 901
+Oppdraget ved Posten ble avregnet etter en fastpris, og arbeidstakerne i Quality People førte timer i selskapets eget system, som Statoil ikke godkjente. Høyesterett la derfor til grunn at oppdraget ikke var avregnet på bakgrunn av utførte timer, men fastpris, som er et tegn på entreprise (avsnitt 100). Høyesterett mente videre at Quality People hadde et resultatansvar, ettersom selskapet ikke ville få ekstra betalt om de hadde feilkalkulert oppdraget (avsnitt 106). Høyesterett anså det naturlig at tjenesten, som var å distribuere post som var kommet inn til Statoil, ble utøvd i Statoils lokaler og med Statoils utstyr, uten at dette skulle tilsi at det forelå innleie av arbeidskraft (avsnitt 108). Etter en konkret gjennomgang av alle momentene, og etter en helhetsvurdering, konkluderte Høyesterett med at det i denne saken klart forelå et entrepriseforhold, og A hadde derved ikke krav på ansettelse i Statoil (avsnitt 110 og 111).
 
-11 932
+Videre uttalte Høyesterett følgende (avsnitt 63):
 
--7,5
+Jeg vil likevel ikke utelukke at en fragmentering av en oppdragsgivers virksomhet ved å inngå en rekke entrepriser som dekker virksomhetens behov for å operere i markedet, vil kunne utfordre arbeidsmiljølovens formål om sikring av trygge ansettelsesforhold. Det vil imidlertid med utgangspunkt i hva som er gjeldende rett etter min oppfatning være en lovgiveroppgave å vurdere om det er behov for å nyansere eller trekke eventuelle nye grenser på dette området og i tilfelle på hvilken måte. Departementet har da også i Prop. 74 L (2011–2012) uttrykt at det vil følge situasjonen nøye.
 
-100 prosent fra første dag
+Også i HR-2018-2371-A (Norwegian) kom Høyesterett til at det «klart» forelå entreprise, jf. avsnitt 99. Høyesterett foretar i avsnitt 81–92 en omfattende vurdering av *hvem som har ansvaret for å lede arbeidet*, og kommer til at den daglige ledelsen av arbeidet lå hos datterselskapet som pilotene og kabinpersonalet var ansatt hos («NAR»), og ikke hos morselskapet («NAS») eller det sentrale driftsselskapet («NAN»). Det ble blant annet lagt vekt på at NAR hadde ansvar for at besetningene var faglig kvalifisert med nødvendig trening, at NAR var det selskapet som satte opp arbeidsplaner, og at NAR bestemte hvilke piloter og kabinpersonale som bemannet den enkelte flyvning. Det at NAS og NAN etter avtalen hadde rett til å kreve individuelle piloter eller kabinansatte erstattet dersom de ikke tilfredsstilte selskapenes kvalifikasjonskrav, kunne isolert sett tale for innleie, men var etter førstvoterendes syn mer naturlig å se som et utslag av «den rett til å føre kontroll som også en oppdragsgiver må ha», og dessuten at det kunne «karakteriseres som kontroll med «arbeidsresultatet»» (avsnitt 84). Høyesterett holdt det imidlertid åpent at «\[o\]ppdragsgivers kontroll, selv om den er myndighetspålagt, kan selvsagt bli så detaljert og direkte at man må konkludere med at det i praksis er oppdragsgiveren som leder arbeidet. En så aktiv og direkte kontroll kan man imidlertid ikke utlede av kontraktene» (avsnitt 85). Det ble dessuten vist til at det var NAR som etter avtalen tok alle beslutninger rundt ansettelse, oppsigelse, lønn og arbeidsbetingelser.
 
-331
+Når det gjaldt det andre sentrale vilkåret, spørsmålet om *hvem som har ansvar for resultatet* av arbeidsinnsatsen, kom Høyesterett til at NAR «klart» hadde et ansvar for at arbeidsinnsatsen var kontraktsmessig (avsnitt 94). Det ble blant annet vist til at NAR måtte håndtere og skaffe erstatning for arbeidstakere som ikke kunne stille på jobb, og var ansvarlig for å kompensere NAS eller NAN for eventuell erstatning til passasjerer som følge av forsinkelser eller kanselleringer grunnet mangel på personell.
 
-285
+Videre uttalte Høyesterett følgende (avsnitt 119):
 
--13,9
-
-15 141
-
-14 115
-
--6,8
-
-69
-
-108
-
-56,5
-
-Selvstendig næringsdrivende
-
-Sum selvstendig næringsdrivende
-Frilansere
-
-gruppene anses som sin egen arbeidsgiver (derfor
-fra dag 17), og at de ikke alltid mister hele sin inntekt ved sykdom. Selvstendig næringsdrivende
-kan mot særskilt premie tegne tilleggsforsikring
-som gir rett til sykepenger med 1) 80 prosent fra
-første dag, 2) 100 prosent fra 17. dag eller 3) 100
-prosent fra første dag. Frilansere kan tegne tilleggsforsikring som gir rett til sykepenger fra første dag. Disse gruppene har dermed mulighet til å
-betale for å få samme rett til sykepenger som
-arbeidstakere. Frivillig tilleggstrygd er en selvfinansierende forsikringsordning.
-Ovenfor vises en tabell over antall som har tegnet frivillig tilleggstrygd:
-Tabellen over viser en nedgang i medlemstallet for de fleste av ordningene som gjelder tillegg
-til sykepenger. Dette kan ha sammenheng med at
-kompensasjonsnivået har økt de siste årene. Det
-er sannsynlig at færre selvstendig næringsdrivende vil anse det nødvendig med en forsikring
-ettersom trygdens kompensasjonsgrad økte fra 75
-til 80 prosent fra 1. oktober 2019.
-Premien fastsettes i prosent av forventet pensjonsgivende årsinntekt som selvstendig næringsdrivende. For sykepenger med 80 prosent av sykepengegrunnlaget for de første 16 kalenderdagene
-er premiesatsen 2,3 prosent. For sykepenger med
-100 prosent av sykepengegrunnlaget fra 17. sykedag er premiesatsen 1,6 prosent. For sykepenger
-med 100 prosent av sykepengegrunnlaget fra første sykedag er premiesatsen 9,4 prosent. For
-frilansere med forsikring for tilleggssykepenger
-for de første 16 kalenderdagene er premiesatsen
-2,2 prosent.
-Selv om premien er selvfinansierende, kan det
-for personer som forventer at de er mindre syke
-enn gjennomsnittet være lønnsomt å avstå fra frivillig tilleggstrygd. Det er ikke et mål at alle skal
-tegne frivillig tilleggstrygd. Samtidig er selvsten-
-
-dig næringsdrivendes obligatoriske folketrygdavgifter vesentlig lavere enn for arbeidstakere.
-Mens det for arbeidstakere betales trygdeavgift
-og arbeidsgiveravgift til folketrygden på til
-sammen inntil 22,3 prosent av lønnen, betaler selvstendig næringsdrivende trygdeavgift på 11,4 prosent av inntekten og ingen arbeidsgiveravgift.
-Trygdeavgiften for selvstendig næringsdrivende
-ble ikke økt da kompensasjonsgraden i sykepengene ble økt. Eksempelvis vil selvstendig næringsdrivende som tegner frivillig tilleggstrygd for å
-kunne få 100 prosent av sykepengegrunnlaget fra
-første sykedag, samlet betale 20,8 prosent.
-
-8.9.4 Omsorgspenger og pleiepenger
-Omsorgspenger og pleiepenger gis til yrkesaktive
-som taper arbeidsinntekt i forbindelse med barns
-sykdom. Det er krav om minst fire ukers forutgående yrkesaktivitet (opptjeningstid), og inntektsgrunnlaget må minst svare til halvparten av folketrygdens grunnbeløp (½ G), for at man skal få rett
-til ytelsene (inntektsgrensen gjelder ikke omsorgspenger fra arbeidsgiver). Omsorgspenger og pleiepenger beregnes etter samme regler som gjelder
-for sykepenger.
-Arbeidstakere har rett til ti stønadsdager med
-omsorgspenger. Hvis man har omsorg for mer
-enn to barn ytes det omsorgspenger i opptil 15
-stønadsdager. Når arbeidstakeren er alene om
-omsorgen økes antallet stønadsdager til henholdsvis 20 og 30.
-Omsorgspenger gis til og med det kalenderåret barnet fyller tolv år. Dersom barnet er kronisk sykt eller funksjonshemmet gjelder retten til
-omsorgspenger til og med det året barnet fyller 18
-år.
-Arbeidsgiver har ansvar for å utbetale ti stønadsdager med omsorgspenger dersom arbeids-
-
-[Side 221]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-forholdet har vart i minst fire uker. Arbeidsgiver
-kan kreve refusjon fra trygden for det antall stønadsdager som overstiger ti. Dersom arbeidstakeren bare har ansvar for et kronisk sykt eller funksjonshemmet barn over tolv år refunderes
-omsorgspengene fullt ut.
-Frilansere og selvstendig næringsdrivende har
-rett til omsorgspenger fra trygden, men ikke for
-de ti første dagene. Dersom frilanseren eller den
-selvstendig næringsdrivende bare har omsorg for
-et kronisk sykt eller funksjonshemmet barn over
-tolv år, ytes omsorgspenger fra og med første fraværsdag.
-Et medlem som må være borte fra arbeidet på
-grunn av pleie av et barn som har behov for kontinuerlig tilsyn og pleie på grunn av sykdom, skade
-eller lyte, har rett til pleiepenger. Pleiepenger gis
-med 100 prosent dekning fra trygden fra første
-dag til arbeidstakere, frilansere og selvstendig
-næringsdrivende.
-
-8.9.5 Arbeidsavklaringspenger
-Arbeidsavklaringspenger skal sikre inntekt for et
-medlem (mellom 18–67 år) som på grunn av sykdom, skade eller lyte har fått nedsatt arbeidsevne
-og som får aktiv behandling eller deltar på
-arbeidsrettet tiltak, eller får annen oppfølging med
-sikte på å skaffe seg eller beholde arbeid. Det er
-krav til forutgående medlemskap (fem år fra 1.
-januar 2021) og fortsatt medlemskap for å få rett
-til ytelsen. Videre er det et vilkår at arbeidsevnen
-er nedsatt med minst halvparten. Sykdom, skade
-eller lyte må være en vesentlig medvirkende årsak
-til den nedsatte arbeidsevnen. Arbeidsavklaringspenger gis så lenge det er nødvendig for at vedkommende skal kunne gjennomføre fastsatt aktivitet, men ikke lenger enn tre år. Perioden kan i
-visse tilfeller forlenges inntil to år. Arbeidsavklaringspengene fastsettes ut fra medlemmets pensjonsgivende inntekt siste året før arbeidsevnen
-ble nedsatt med minst halvparten, eller ut fra gjennomsnittet av pensjonsgivende inntekt de tre siste
-kalenderårene, dersom dette gir et høyere grunnlag. Pensjonsgivende inntekt over seks ganger
-gjennomsnittlig grunnbeløp i et kalenderår regnes ikke med i grunnlaget. Arbeidsavklaringspenger gis med 66 prosent av grunnlaget. Minste
-årlige ytelse er to ganger grunnbeløpet (2 G). For
-personer under 25 år er minsteytelsen 2/3 av 2 G.
-8.9.6 Uføretrygd
-Uføretrygd skal sikre inntekt for personer som
-har fått sin inntektsevne varig nedsatt på grunn av
-
-219
-
-Kapittel 8
-
-sykdom, skade eller lyte. Uføretrygd gis til personer mellom 18 og 67 år som har vært medlemmer
-i minst fem år umiddelbart frem til uførheten inntrådte og som har varig redusert inntektsevne
-med minst 50 prosent på grunn av sykdom, skade
-eller lyte. For personer som mottar arbeidsavklaringspenger når kravet om uføretrygd settes
-frem, er det tilstrekkelig at inntektsevnen er nedsatt med 40 prosent. Det er et vilkår at hensiktsmessig behandling og attføring er gjennomført.
-Uføretrygden beregnes på grunnlag av gjennomsnittet av pensjonsgivende inntekt i de tre
-beste av de fem siste årene før uføretidspunktet.
-Inntekt over 6 G regnes ikke med i grunnlaget.
-Uføretrygden ytes med 66 prosent av dette grunnlaget. Personer med lav eller ingen opptjening er
-sikret en minsteytelse. Personer som er født uføre
-eller blir uføre før fylte 26 år, har rett til en høyere
-minste årlig ytelse. Det stilles imidlertid strengere
-krav til den medisinske lidelsens alvorlighet og
-dokumentasjon enn ved den ordinære uførevurderingen. Ved delvis uførhet blir trygden redusert
-forholdsmessig.
-
-8.9.7 Alderspensjon fra folketrygden
-Alderspensjonen skal sikre inntekt i alderdommen og legge til rette for en fleksibel og gradvis
-overgang fra arbeid til pensjon. Det er adgang til
-fleksibelt uttak av alderspensjon i alderen 62 til 75
-år. For å ta ut alderspensjon før fylte 67 år, må pensjonen når vedkommende fyller 67 år, generelt
-minst tilsvare minste pensjonsnivå med full trygdetid.
-Som følge av pensjonsreformen, er det innført
-nye regler for opptjening av pensjon for personer
-født etter 1953. For personer som er født i årene
-1954–1962, vil alderspensjonen bestå av forholdsmessige andeler beregnet etter gamle og nye opptjeningsregler. Personer født fra og med 1963, vil
-få hele pensjonen beregnet etter de nye opptjeningsreglene. I det videre omtales kun de nye
-opptjeningsreglene.
-Medlemmer i folketrygden som har pensjonsgivende inntekt, uavhengig av om denne er tjent
-som arbeidstaker, selvstendig næringsdrivende
-eller frilanser, får hvert kalenderår en pensjonsopptjening tilsvarende 18,1 prosent av inntekten.
-Det regnes bare med inntekt opp til 7,1 ganger folketrygdens grunnbeløp. Pensjonsbeholdningen
-utgjør summen av årlig pensjonsopptjening. Den
-årlige inntektspensjonen fastsettes ved at pensjonsbeholdningen på uttakstidspunktet divideres med pensjonistens delingstall. Til personer
-
-[Side 222]
-
-220
-
-NOU 2021: 9
-
-Kapittel 8
-
-Den norske modellen og fremtidens arbeidsliv
-
-som har opparbeidet liten eller ingen pensjonsbeholdning, gis det garantipensjon.
-
-8.9.8
-
-Tjenestepensjon og privat
-pensjonssparing
-Tjenestepensjon er pensjon fra arbeidsgiver.
-Sammen med eventuell privat pensjonssparing
-supplerer tjenestepensjonen utbetalingene fra folketrygden. Etter lov om obligatorisk tjenestepensjon er arbeidsgivere pålagt å ha en tjenestepensjon på et visst nivå for sine arbeidstakere, etter
-nærmere bestemmelser. Ansatte som er over 20
-år og som arbeider i over 20 prosent stilling har
-krav på å være medlem i tjenestepensjonsordningen. Innskuddet til tjenestepensjonen må minimum utgjøre to prosent av arbeidstakerens lønn
-mellom 1 og 12 G. Arbeidsgiver gis skattemessige
-fradrag for tilskudd til tjenestepensjonsordninger
-innenfor visse grenser. Blant annet gis det for innskuddspensjon fradrag for innskudd inntil sju prosent av lønn inntil 12 G, samt eventuelt tilleggsinnskudd inntil 18,1 prosent av lønn mellom 7,1 og 12
-G. Ifølge statistikk fra Finans Norge var under tre
-prosent medlem i en ordning med maksimalsatser
-i 2019, mens om lag 25 prosent av de forsikrede
-var med i en ordning med minstesatser.35
-For selvstendig næringsdrivende er det frivillig å ha en ordning som tilsvarer tjenestepensjon.
-Selvstendig næringsdrivende og frilansere kan få
-skattemessige fradrag for innskudd i en slik frivillig innskuddspensjonsordning på inntil sju prosent av lønn eller beregnet personinntekt
-(næringsinntekt) mellom 1 og 12 G. Grensen er
-økt gradvis fra fire prosent i 2016. Dette gjelder
-også for personlig deltaker i selskap med deltakerfastsetting, ansatt eier av aksjeselskap/allmennaksjeselskap og frilansere.
-I tillegg kan selvstendig næringsdrivende og
-frilansere, på samme måte som arbeidstakere, få
-fradrag for sparing på inntil 40 000 kroner per år i
-ordningen for skattefavorisert individuell sparing
-til pensjon, som ble innført i 2017. Ordningen
-erstattet en ordning med maksimal sparing på inntil 15 000 kroner per år.
-8.9.9
-
-8.9.10 Dagpenger
-Dagpengeordningens hovedformål er å kompensere for arbeidstakeres tap av arbeidsinntekt som
-følge av arbeidsløshet. For å kunne motta dagpenger må man ha tapt arbeidsinntekt og ha fått redusert arbeidstiden med minst 50 prosent i forhold
-til før ledigheten. For å kunne få dagpenger må
-man ha hatt en arbeidsinntekt på minst 1,5 G de
-siste 12 månedene, eller minst 3 G de siste 36
-månedene før søknadstidspunktet.
-Personer som ikke har hatt inntekt som ansatt
-arbeidstaker eller andre inntekter som ikke regnes som arbeidsinntekt har ikke rett til dagpenger. Selvstendig næringsdrivende som bare har
-næringsinntekt, vil ikke oppfylle kravet til minste
-arbeidsinntekt og har dermed ingen inntektssikring dersom oppdrag faller bort. Frilansere som
-har hatt arbeidsinntekt vil kunne oppfylle minsteinntektskravet og få rett på dagpenger.
-Ytelsen utgjør 62,4 prosent av brutto arbeidsinntekt opp til et tak på 6 G som per i dag utgjør
-599 148 kroner.
-Dagpengemottakere som har hatt en inntekt
-på minst 2 G siste 12 månedene eller i gjennomsnitt 2 G siste 36 månedene, kan motta dagpenger
-i inntil to år. De som har hatt en lavere inntekt enn
-dette har maksimal varighet på dagpengeperioden
-i ett år.
-
-Yrkesskadedekning
-
-Formålet med folketrygdens yrkesskadebestemmelser er å gi særfordeler utover folketrygdens
-ordinære stønadssystem til personer som blir
-35
-
-rammet av en yrkesskade eller likestilte yrkessykdommer.
-Etter folketrygdloven § 13-5 er arbeidstakere
-som er medlemmer i folketrygden yrkesskadedekket for yrkesskader som oppstår mens
-arbeidstakeren er i arbeid på arbeidsstedet i
-arbeidstiden.
-Selvstendig næringsdrivende og frilansere er i
-utgangspunktet ikke yrkesskadedekket, men dersom de er under 67 år og den forventede årsinntekten utenfor tjeneste overstiger folketrygdens
-grunnbeløp, kan de tegne frivillig yrkesskadetrygd, jf. folketrygdloven § 13-13. Yrkesskadedekningen gjelder for yrkesskader som oppstår under
-utøvelse av virksomheten som selvstendig
-næringsdrivende og frilanser.
-
-https://www.finansnorge.no/statistikk/livsforsikringg/
-statistikk-og-nokkeltall-for-livsforsikring-og-pensjon-2019/
-privat-tjenestepensjon---innskuddsordninger/
-
-8.9.11 Avgifter til trygden
-Ulikheter i ytelsene fra folketrygden for henholdsvis arbeidstaker, frilanser og selvstendig næringsdrivende, har sammenheng med finansieringen av
-trygden. For folketrygdens vedkommende finansieres den fra tre kilder. For det første gjennom
-trygdeavgift for medlemmene. Denne er på 8,2
-
-[Side 223]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-prosent for arbeidstakere og frilansere («lønnstakere»), og 11,4 prosent for selvstendig næringsdrivende. Fiskere betaler en trygdeavgift på 8,2
-prosent, men betaler i tillegg en produktavgift på
-førstegangsomsetning av fisk. Produktavgiften i
-fiskerinæringen skal, foruten å dekke mellomlegget mellom 8,2 prosent og 11,4 prosent i trygdeavgiften, også dekke kollektiv medlemspremie til
-yrkesskadetrygd, kollektiv forsikring for tilleggssykepenger for manntallsførte fiskere og utgifter i
-forbindelse med stønad til arbeidsledige i næringen. For det andre finansieres trygden gjennom
-arbeidsgiveravgift. Arbeidsgiveravgiften er regionalt differensiert med en maksimalsats på 14,1
-prosent og gjennomsnittssats på 13 prosent, og
-betales kun av lønnsinntekt, det vil si for arbeidstakere og frilansere. Trygden finansieres for det
-tredje gjennom skattefinansiert statstilskudd.
-Dette innebærer at det betales vesentlig mer i
-avgifter for arbeidstakere og frilansere, enn hva
-som er tilfelle for selvstendig næringsdrivende, og
-forklarer dermed også hvorfor arbeidstakere og
-frilansere har krav på flere og større ytelser. Mens
-det for arbeidstakere betales trygdeavgift og
-arbeidsgiveravgift til folketrygden på til sammen
-inntil 22,3 prosent av lønnen, betaler selvstendig
-næringsdrivende trygdeavgift på 11,4 prosent av
-inntekten og ingen arbeidsgiveravgift. Selvstendig
-næringsdrivende kan på sin side velge å utvide sin
-dekning på enkelte ytelser gjennom frivillige ordninger, gjennom en selvfinansierende tilleggspremie.
-
-8.9.12 Midlertidige ordninger i forbindelse
-med koronapandemien
-Utbruddet av koronapandemien i 2020 førte til at
-store deler av norsk arbeids- og næringsliv
-omtrent over natten måtte stenge ned, og både
-
-221
-
-Kapittel 8
-
-permitteringer og arbeidsledighet skjøt i været.
-Det oppstod et akutt behov for inntektssikring for
-en rekke personer. På grunn av situasjonen ble
-det innført flere midlertidige ordninger, blant
-annet knyttet til dagpenger, arbeidsgivers lønnsplikt ved permittering, arbeidsavklaringspenger,
-omsorgspenger, og sykepenger, jf. blant annet
-midlertidig forskrift 20. mars 2020 nr. 368 om unntak fra folketrygdloven og arbeidsmiljøloven i forbindelse med koronapandemien, med senere
-endringer.
-Som følge av pandemien opplevde også mange
-selvstendig næringsdrivende og frilansere inntektsbortfall. I tråd med anmodningsvedtak 395
-som Stortinget fattet 16. mars 2020, ble det innført
-en midlertidig inntektssikring for selvstendig
-næringsdrivende og frilansere. Ordningen er nå
-hjemlet i midlertidig lov 5. mars 2021 om kompensasjonsytelse for selvstendig næringsdrivende og
-frilansere som har mistet inntekt som følge av
-utbrudd av covid-19, og opphører 1. oktober
-2021.36
-Formålet er, opp til et visst nivå, å kompensere
-for inntektsbortfall som selvstendig næringsdrivende og frilansere har som en følge av koronautbruddet, og som ikke kan kompenseres gjennom andre ordninger. Ordningen er knyttet til tap
-av inntekt for personer, ikke til omsetningssvikt i
-virksomheter. Til og med oktober 2020 ga ordningen en kompensasjon på 80 prosent. Fra 1.
-november 2020 er satsen 60 prosent.
-
-36
-
-Ordningen var først etablert ved en midlertidig forskrift
-vedtatt 8. april 2020, med hjemmel i koronaloven. Forskriften ble forlenget til og med 27. mai 2020, men ble opphevet
-som følge av at koronaloven (midlertidig lov 27. mars 2020
-om forskriftshjemmel for å avhjelpe konsekvenser av
-utbrudd av Covid-19 mv.) opphørte å gjelde. Ordningen ble
-deretter hjemlet i en egen, midlertidig lov.
-
-[Side 224]
-
-222
-
-Kapittel 8
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-[Side 225]
-
-Del III
-Vurderinger og forslag
-
-[Side 226]
-
-[Side 227]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-225
-
-Kapittel 9
-
-Kapittel 9
-
-Utvalgets overordnede vurderinger
-9.1
-
-Innledning
-
-I dette kapitlet og videre i del 3 av innstillingen
-legger utvalget frem sine vurderinger av
-utviklingstrekk og utfordringer i norsk arbeidsliv,
-sett i sammenheng med det internasjonale rammeverket og de analyser og initiativer som er lagt
-frem av blant annet EU, OECD og ILO. På bakgrunn av de utfordringer man ser gjennom
-utviklingstrekk vurderer utvalget rammeverket
-for ulike tilknytningsformer, arbeidsgiveransvar
-og organisering av arbeid og virksomhet. I dette
-kapitlet legges vekten på det overordnede bildet. I
-de påfølgende kapitlene i vurderingsdelen vil
-utvalget gå nærmere inn på enkelte temaer. Utvalgets vurderinger og forslag må ses i lys av målet
-om en fortsatt høy andel faste ansettelser og legge
-til rette for tariffavtaler i alle deler av arbeidslivet.
-
-9.2
-9.2.1
-
-Situasjonen i norsk arbeidsliv
-
-Høy stabilitet og gode arbeidsforhold
-for de fleste
-Utvalget registrerer at tilstandsbeskrivelsen viser
-at det er stor stabilitet i norsk arbeidsliv med hensyn til bruken av ulike tilknytningsformer. Andelen arbeidstakere med fast ansettelse har vært
-jevnt økende de siste 20–25 årene og Norge har
-en høyere andel med fast tilknytning til arbeid enn
-gjennomsnittet for EU-landene, jf. punkt 5.4.1.
-Analyser basert på registerdata tyder ikke på at
-det er blitt flere med alternative tilknytningsformer, men sammensetningen har endret seg ved at
-det er blitt færre selvstendige og flere innleide
-(Strøm og von Simson, 2020). Utviklingen i bruken av tilknytningsformer i arbeidslivet omtales
-nærmere i punkt 9.4.
-Situasjonen i norsk arbeidsliv er beskrevet i
-del II av innstillingen. Det er visse dokumentasjonsutfordringer når det gjelder grupper som i
-antall utgjør en liten del av arbeidslivet, som for
-eksempel selvstendige og innleide arbeidstakere.
-Samlet sett foreligger det imidlertid mye kunn-
-
-skap, både fra kvalitative og kvantitative nasjonale
-kartlegginger, internasjonale sammenligninger og
-partenes og myndighetenes erfaringer. Utvalget
-har også selv tatt ulike initiativ for å få frem ny
-kunnskap på enkelte områder.
-De fleste i norsk arbeidsliv opplever gode
-arbeidsforhold. Lønnsnivået er høyt sammenlignet med andre land. Arbeidslivsreguleringene gir
-trygghet, og arbeidsmiljøet bidrar til gode og helsefremmende arbeidsplasser for de fleste. Mange
-opplever gode muligheter for medvirkning, medbestemmelse og samarbeid på arbeidsplassen.
-Arbeidstakerne har muligheter for å utvikle sin
-kompetanse. Myndighetene og partene har hver
-for seg og sammen over tid satt kompetanse på
-dagsorden, gjennom blant annet Nasjonal kompetansepolitisk strategi og Regjeringens kompetansereform.
-Som følge av koronapandemien er imidlertid
-arbeidsledigheten blitt høyere og flere arbeidstakere og virksomheter opplever en usikker situasjon.
-Arbeidslivet er sammensatt. De som deltar i
-arbeidslivet spenner fra de som har få kvalifikasjoner og vansker med å oppnå fast jobb til de som
-sitter på unik, spesialisert kompetanse som en
-arbeidsgiver eller oppdragsgiver har stort behov
-for å få del i. En sentral målsetting er at alle, uansett forutsetninger, skal gis muligheter til å delta i
-arbeidslivet. At store grupper av befolkningen har
-mulighet for å delta i arbeidslivet er en vesentlig
-forutsetning for vårt velferdssamfunn, jf. punkt
-3.1.
-Det er høy oppslutning om det organiserte
-arbeidslivet, men en økende del av arbeidstakerne
-i privat sektor er ikke omfattet av tariffavtaler og
-det er store forskjeller mellom næringer, jf. punkt
-3.4.4. Trepartssamarbeidet mellom organisasjonene på arbeidstaker- og arbeidsgiversiden og
-myndighetene er omfattende, og bygger på samarbeidet mellom partene i arbeidslivet som er forankret lokalt på arbeidsplassene. Medlemstallet i
-organisasjonene har vært jevnt økende, andelen
-organiserte arbeidstakere av alle sysselsatte er
-
-[Side 228]
-
-226
-
-Kapittel 9
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-imidlertid noe lavere enn situasjonen på 1980- og
-1990-tallet. Organisasjonsgraden blant arbeidsgivere i privat sektor har vært økende i samme periode. I offentlig sektor er organisasjonsgraden
-blant arbeidstakere høy og alle omfattes av tariffavtaler. Utfordringene med svakere oppslutning
-om det organiserte arbeidslivet er størst innen de
-voksende tjenestenæringene og innen bygg og
-anlegg.
-
-9.2.2
-
-Endringer som påvirker
-arbeidsmarked, næringsstruktur og
-virksomhetsorganisering
-Samtidig med at bruken av ulike tilknytningsformer har vært stabil, har det skjedd strukturelle
-endringer som påvirker arbeidsmarkedet og
-næringslivet. Næringssammensetningen har
-endret seg over tid, med økende andel i tjenestenæringer og fallende andel i primærnæringer og
-vareproduksjon. De siste tiårene har det vært en
-markant økning i sysselsettingen innen helse og
-omsorg, kunnskapsbasert tjenesteyting (blant
-annet IKT-tjenester), samt kultur og opplevelser,
-jf. punkt 4.2.1. Mye av veksten i sysselsetting er
-kommet innen offentlig sektor, som har mindre
-forskjeller i lønn enn privat sektor. Det har også
-vært betydelig vekst innen privat tjenesteyting.
-Industrien står nå for rundt ti prosent av sysselsettingen. Der er det blitt gjennomført omfattende
-effektiviseringer og enkelte funksjoner er blitt
-skilt ut i tjenestevirksomheter.
-Andre endringer med konsekvenser for
-arbeidslivet er at utdanningsnivået har blitt og blir
-stadig høyere. Videre at det siden EU-utvidelsene
-fra 2004 har vært en betydelig arbeidsinnvandring
-til Norge. En annen endring er at det i løpet av det
-siste tiåret har vært en svakt nedadgående trend i
-samlet sysselsettingsnivå.
-Det norske arbeidslivet preges av mange små
-virksomheter, men flertallet av de sysselsatte i privat sektor er likevel ansatt i større virksomheter.
-Nærmere halvparten jobber i virksomheter med
-mer enn 50 ansatte. Det siste tiåret har denne
-andelen økt noe. Omstillingstakten i norsk
-arbeidsliv er høy, målt som andel arbeidstakere
-som slutter og begynner i ny jobb.
-9.2.3
-
-Norge sammenlignet med andre land
-
-Yrkesdeltakelsen og sysselsettingen er høy i
-Norge sammenlignet med andre land. Også lønnsnivået for arbeidstakere ligger vesentlig høyere.
-Teknisk beregningsutvalg viser at timelønnsnivået i industrien var 20 prosent høyere i Norge
-
-enn hos våre handelspartnere i 2020, jf. NOU
-2021: 5, figur 5.4. Internasjonale sammenligninger
-av arbeidsmiljø som den europeiske arbeidsmiljøundersøkelsen (Statens arbeidsmiljøinstitutt,
-2017) og OECD Job Quality Framework1 viser at
-Norge skårer høyt når det gjelder jobbtrygghet
-og arbeidsmiljøstandard.
-Omfanget av alternative tilknytningsformer i
-arbeidslivet er lavere enn i de fleste andre europeiske land. Særlig gjelder dette selvstendige,
-hvor Norge er et av landene med lavest andel.
-Dette kan skyldes flere forhold, blant annet utviklingen på arbeidsmarkedet og at mange har hatt
-muligheter for å oppnå fast ansettelse. Norge er et
-av landene med høy andel deltidsarbeidende. De
-fleste av disse er fast ansatte.
-OECDs sammenligninger av stillingsvernreglene viser at Norge er om lag midt på treet når
-det gjelder stillingsvern for fast ansatte, mens vi er
-et av landene som har den strengeste reguleringen av adgangen til midlertidig ansettelse og
-andre kortvarige tilknytningsformer, jf. punkt
-5.8.1.
-Internasjonalt er det rettet oppmerksomhet
-mot tendenser til polarisering i arbeidslivet. Det
-innebærer at andelen som jobber i den midtre
-delen av lønns- eller kompetansefordelingen reduseres, mens veksten i sysselsetting konsentreres
-til høykompetansejobber, samt jobber med lite
-krav til utdanning. Dette øker risikoen for sterkere todeling av arbeidsmarkedet mellom grupper med gode betingelser og de som opplever økt
-usikkerhet knyttet til arbeidsforholdet. Studier
-OECD har gjennomført tyder på at tendensen til
-polarisering henger nokså direkte sammen med
-teknologiendringer, og det er en utvikling der
-«jobber i midten» forsvinner i de fleste OECDland. I Norge tyder imidlertid utviklingen i senere
-år på at det ikke skjer en tilsvarende polarisering,
-men at det er en mer entydig utvikling i retning av
-økt etterspørsel i yrker hvor det er vanlig med høy
-utdanning, jf. punkt 4.8.3.
-
-9.3
-
-Drivkrefter og utviklingstrekk
-
-9.3.1 Betydningen av teknologiendringer
-Økende digitalisering og automatisering har og vil
-fortsatt få konsekvenser for hvordan virksomheter organiserer seg, også med tanke på arbeidsgiveransvar og hvilken status og rettigheter de som
-utfører arbeidet får. Det er ulike vurderinger av i
-1
-
-Se OECDs nettside: http://www.oecd.org/employment/
-job-quality.htm
-
-[Side 229]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-hvilken grad automatisering vil føre til at en
-økende andel arbeidstakere blir overflødige.
-OECD venter at norsk arbeidsliv vil bli relativt lite
-påvirket av automatisering, noe som blant annet
-kan skyldes at det allerede er gjennomført omfattende omstillinger og effektiviseringer i norsk
-arbeidsliv, jf. punkt 4.1.2. Digitaliseringen av varer
-og tjenester innebærer uansett en mer gjennomgripende endring og fører til nye forretningsmodeller som vil kunne omforme nesten alle sektorer i nærings- og arbeidslivet (Kvernberg Andersen, 2020). Teknologi skaper for eksempel nye
-muligheter og koblinger mellom de som skal ha
-en oppgave utført og de som skal utføre arbeid.
-Fremveksten av digitale plattformer representerer nye måter å organisere tilknytningen til
-arbeid. Bruken så langt har vært begrenset, kartlegginger fra noen år tilbake viste at mellom 0,3
-og 2,5 prosent av den yrkesaktive befolkningen
-hadde utført arbeid formidlet gjennom digitale
-plattformer en eller flere ganger siste år, jf. punkt
-5.3.2. Samtidig representerer de digitale plattformene muligheter for nyskaping, vekst og økt sysselsetting, jf. punkt 5.3.5.
-Digitalisering og innføring og økt bruk av nye
-og mer avanserte IKT-systemer påvirker arbeidsprosessene, organiseringen og utføringen av
-arbeidsoppgaver og tjenester på mange måter.
-Det gjør det mulig å utføre arbeid på andre steder
-enn det tradisjonelle arbeidsstedet. Under koronapandemien er hjemmekontor og digitale løsninger
-tatt i bruk i stort omfang. Det kan være grunn til å
-anta at det vil føre til endringer i måten det arbeides på og at virksomhetene vil legge opp til økt
-bruk av fjernarbeid også i en normalsituasjon.
-Bruk av fjernarbeid og digitale løsninger kan gi
-muligheter for reduserte kostnader for virksomhetene og gi arbeidstakere en mer fleksibel
-arbeidshverdag. Samtidig vil det påvirke arbeidsmiljøet for arbeidstakere dersom de i større grad
-arbeider selvstendig og alene.
-
-9.3.2 Andre sentrale drivkrefter
-I del 2 er det i tillegg til teknologiendringer pekt
-på globalisering, klima og endringer i befolkningssammensetningen som sentrale drivkrefter som
-påvirker arbeidslivet.
-Globaliseringen og ny teknologi omformer det
-internasjonale næringslivet. Dannelse av multinasjonale konserner har vært en langvarig utvikling,
-men en ser nå en kanskje enda sterkere konsentrasjon av markedsandeler og makt hos store globale virksomheter med utgangspunkt i informasjonsteknologi og media, slik som Amazon, Google,
-
-227
-
-Kapittel 9
-
-Microsoft med flere. Også de store norske bedriftene er blitt globale aktører og har de siste tiårene
-i hovedsak vokst utenlands når det gjelder verdiskapning og sysselsetting, noe som også bidrar til
-å utvikle næringslivet og trygge norske arbeidsplasser.
-Behovet for å motvirke for store klimaendringer representerer en grunnleggende utfordring for verdenssamfunnet. Dette krever betydelige omstillinger og utvikling av ny kompetanse,
-som vil påvirke arbeidslivet langs flere dimensjoner, også når det gjelder virksomhetenes organisering. Forsterkede krav til kutt i klimagasser og
-forventet lavere etterspørsel etter olje og gass vil
-gjøre behovet for omstillinger større i tiden som
-kommer. Dette kan bli mer krevende for Norge
-enn for mange andre land, jf. Norge mot 2025utvalgets innstilling (NOU 2021: 4, punkt 6.5). På
-den andre siden peker Klimarisikoutvalget (NOU
-2018: 17) på at land med høyere inntektsnivå og
-fleksible arbeidsmarkeder kan ha større evne til å
-bære omstillingskostnader på veien til et lavutslippssamfunn.
-I flere offentlige utredninger2 og i regjeringens perspektivmelding (Meld. St. 14 (2020–
-2021)) pekes det på at endringer i befolkningssammensetningen medfører endringer for det
-norske samfunnet. En aldrende befolkning vil øke
-forsørgerbyrden for de som er yrkesaktive, samtidig vil utgiftene og arbeidskraftsbehovet innen
-helse- og omsorgsyrkene øke betydelig.
-
-9.3.3 Virkninger av arbeidsinnvandring
-Utvalget peker på at høy arbeidsinnvandring har
-vært et særlig viktig utviklingstrekk i norsk
-arbeidsliv de siste 15 årene. Mange utenlandske
-arbeidstakere, i hovedsak fra nye EU-land, er blitt
-tilknyttet blant annet bygg og anlegg, industri, fiskeindustri, landbruk og næringer innen tjenestesektoren, jf. punkt 4.6. Mange utenlandske
-arbeidstakere er ansatt i bemanningsforetak, jf.
-punkt 9.5.2. Mange utenlandske arbeidstakere er
-også knyttet til underleverandører, eller er blitt
-direkte ansatt i norske virksomheter. Den økte tilgangen på arbeidskraft har bidratt vesentlig til
-veksten i produksjon og sysselsetting, ikke minst i
-distriktene, og har dermed også bidratt til sikring
-av norsk velferd. Samtidig har kontrollmyndighetene avdekket mange tilfeller der utenlandske
-arbeidstakere underbetales eller lønnes svart.
-Kontrollmyndighetene har også funnet tilfeller av
-2
-
-Jf. NOU 2020: 15. Det handler om Norge og NOU 2021: 4
-Norge mot 2025.
-
-[Side 230]
-
-228
-
-Kapittel 9
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-omgåelse av arbeidsgiveransvar og bruk av selvstendige oppdragstakere i stedet for arbeidstakere, samt tilfeller der innleie av arbeidskraft
-behandles som entreprise.
-Erfaringene fra etatenes kontrollvirksomhet
-viser at omgåelser av regelverk er økonomisk
-motivert. Det er innført ulike typer regelverk for å
-motvirke dette, slik som allmenngjøring av lønnsog arbeidsvilkår i tariffavtaler og likebehandlingsreglene for ansatte i bemanningsforetak. Kartlegginger tyder på at nytt regelverk har bidratt til økt
-etterlevelse (jf. Eldring mfl. 2011, Bjørnstad (red.)
-2015, Alsos mfl. 2016). Arbeidstilsynet har ved lovendring i 2020 fått utvidet kompetanse til å føre tilsyn med innleie.
-Internasjonalt er det blitt gjennomført flere
-empiriske studier som ser på virkningen av innvandring på lønnsutviklingen. Resultatene varierer betydelig. Ifølge en oppsummering i Holden
-III-utvalget konkluderer en overvekt av studiene
-med at arbeidsinnvandring fører til lavere
-lønnsvekst for tidligere innvandrere og i noen
-grad for innfødte arbeidstakere med lav kompetanse, utdanning og yrkeserfaring, jf. punkt 4.6.2.
-
-9.3.4 Endringer i virksomhetsorganisering
-Virksomheter kan organiseres på ulike måter, ut
-fra deres behov for utvikling og verdiskapning.
-Dette kan ha betydning for utøvelse av roller som
-arbeidsgiver eller oppdragsgiver, og for hvordan
-arbeidstakere og oppdragstakere knyttes til virksomheten. Dette berører både privat og offentlig
-sektor, hvor det har skjedd og fortsatt skjer omfattende endringer i organiseringen av tjenester og
-oppgaver. På en del områder benyttes bruk av
-konkurranse og kontrakter med private tjenesteleverandører i gjennomføringen av oppgaver det
-offentlige har ansvar for. Dette er tema som nylig
-er gjennomgått av Velferdstjenesteutvalget (NOU
-2020: 13).
-Utvalget har i samsvar med mandatet rettet
-særlig oppmerksomhet mot situasjoner hvor flere
-virksomheter er involvert i styring/kontroll/
-ledelse av arbeidet, eller hvor arbeidskraften samles i egne selskaper eller at arbeidsoppgaver og
-tjenester settes ut til andre.
-Utviklingen ser ut til å gå i retning av at konserndannelser blir stadig mer vanlig i næringslivet, jf. punkt 4.3.2. En kartlegging som er gjort
-innen tjenestenæringene tyder på at virksomhetene med konserntilknytning har flere sysselsatte
-og høyere omsetning enn de frittstående virksom-
-
-hetene (Ødegård mfl. 2021). Bruken av franchisekontrakter er også blitt kartlagt. Dette har mindre
-omfang og gjelder først og fremst varehandel.
-Franchisedrift innebærer at enkelte rammer for
-forretningsdriften fastsettes i en egen avtale, men
-det er fortsatt den enkelte franchisetaker som har
-arbeidsgiveransvar.
-En annen utbredt kontraktsform i næringslivet
-er entreprisekontrakter mellom virksomheter.
-Omfang og bruk av entreprise har vært lite kartlagt. Utvalget tok initiativ til å få gjennomført en
-utredning og beskrivelse av bruken av entreprisekontrakter, hvor vekten er lagt på å beskrive
-omfang og særtrekk ved entreprise som utføres
-«på stedet» («on-site») hos en oppdragsgiver
-(Oslo Economics, 2020). På bakgrunn av analyser
-av foreliggende statistikk anslås det at vel 8,5 prosent av den samlede arbeidsstyrken arbeider gjennom «on-site» entreprisekontrakter. Omfanget er
-størst innen bygg og anlegg, der entrepriser er en
-sentral del av bransjens særpreg, og innen forretningsmessig tjenesteyting, jf. nærmere omtale av
-rapporten og konklusjoner i punkt 4.3.5.
-Det er ikke et nytt utviklingstrekk at mange
-virksomheter har valgt å konsentrere sine ressurser om deler av en verdikjede eller om såkalt kjernevirksomhet, og ut over dette kjøpe støttetjenester fra andre. Hastigheten og omfanget i den
-teknologiske utviklingen kan øke virksomhetenes
-behov for – og ønsker om å gjøre omstillinger.
-Teknologiske endringer og digitalisering kan slik
-sett være en sentral driver bak de pågående og
-raske endringene i virksomhetenes arbeidsprosesser og organisering. Dette gjelder både i privat
-og offentlig sektor.
-Som en del av sin kartlegging gjennomførte
-Oslo Economics en spørreundersøkelse innen
-byggenæringen og intervjuet representanter fra
-organisasjonene i arbeidslivet. Grensen mellom
-innleie og «on-site» entreprise ble av flere nevnt
-som svært problematisk. Oslo Economics konkluderte med at det kan være indikasjoner på at innstramming av regelverket for innleie har ført til at
-enkelte virksomheter omgår innleieregelverket
-ved å organisere virksomheten som entreprise.
-I Norwegian-dommen (HR-2018-2371-A) tok
-Høyesterett stilling til en virksomhetsmodell der
-ulike deler av virksomheten, herunder drift, personell og tjenester ble lagt til ulike datterselskaper. Driftsselskapene skulle deretter kjøpe inn tjenester fra de øvrige selskapene ved behov, men i
-en varig entrepriseløsning (jf. boks 4.2).
+Som Høyesterett bemerket i Rt-2013-998 (Quality People) avsnitt 63, kan nye måter å organisere næringsvirksomhet på utfordre arbeidsmiljølovens formål om å sikre trygge ansettelsesforhold. Det er videre slik at flytting av arbeidstakere til andre selskaper innen et konsern får konsekvenser for deres rett til informasjon, samarbeid og medbestemmelse i henhold til hovedavtalen og arbeidsmiljøloven. Gitt de klare lovgiveruttalelsene knyttet til gjeldende arbeidsgiverbegrep må det imidlertid være opp til lovgiver å avgjøre om det bør gis en slik regel som arbeidstakersiden her har argumentert for.
+
+### Regulering av innleie i de nordiske landene
+
+#### Sverige
+
+«Lag (2012:854) om uthyrning av arbetstagare» gjennomfører vikarbyrådirektivet, jf. Inghammar, 2020. I særskilt angitte tilfeller kan man ved tariffavtale fravike lovens bestemmelser, jf. § 3.
+
+Det følger av loven at kravet til likebehandling av lønn ikke gjelder arbeidstaker som er fast ansatt og som får lønn mellom oppdragene, jf. § 8. Det gjelder også en særskilt bestemmelse om at bemanningsforetaket ikke kan hindre arbeidstaker gjennom avtale eller på noen annen måte å få ansettelse hos innleier, jf. § 9 i samme lov.
+
+Hovedansvaret for å ivareta den utleide arbeidstakerens helse, miljø og sikkerhet ligger hos vedkommende arbeidsgiver, bemanningsforetaket. Innleievirksomheten har imidlertid visse HMS-plikter overfor den innleide, jf. «arbetsmiljölagen» (1977:1160) kapittel 3 § 12.
+
+I medhold av «lag (1976:580) om medbestämmande i arbetslivet» §§ 38, 39 og 40 gjelder dessuten visse forhandlingsregler som innebærer at arbeidsgiver som hovedregel må forhandle med arbeidstakerorganisasjonene før beslutning om blant annet innleie treffes. Dersom sentral arbeidstakerorganisasjon, eller arbeidstakerorganisasjon som har inngått tariffavtale, erklærer at arbeidet (innleien) som planlegges av arbeidsgiveren kan antas å stride mot lov eller tariffavtale eller på annen måte vil bryte med det som er allment godtatt i partenes avtaleområde, så kan ikke handlingen (innleien) besluttes eller gjennomføres av arbeidsgiveren.
+
+I Sverige finnes en autorisasjonsordning i bemanningsbransjen. Spørsmål om autorisasjon vurderes av Bemanningsföretagens Auktorisationsnämnd, og besluttes av styret i arbeidsgiverorganisasjonen Bemanningsföretagen. Autorisasjonen skal sikre at bemanningsforetakene er seriøse selskaper som oppfyller høye krav, og skaper trygghet for kunder og arbeidstakere, men er ikke en autorisasjonsordning som følger av lov.
+
+#### Danmark
+
+Vikarbyrådirektivet ble gjennomført i dansk rett i 2013 gjennom vedtakelse av «vikarloven»[^114]. Loven får anvendelse for «vikarer, som har indgået en arbejdsaftale eller et ansættelsesforhold med et dansk eller et udenlandsk vikarbureau og af vikarbureauet udsendes til brugervirksomheder i Danmark for midlertidigt at udføre arbejdsopgaver under disses tilsyn og ledelse», jf. § 1 første ledd.
+
+I lovens kapittel 2 fremgår vikarbyråets forpliktelser hvor blant annet kravene til likebehandling som følger av virkarbyrådirektivet er fastsatt. I tillegg fastslås det at gjentatte utsendelser av innleid arbeidstaker til samme innleievirksomhet er forbudt, med mindre det foreligger saklig grunn, jf. § 3 fjerde ledd. Reglene kan fravikes gjennom landsomfattende tariffavtale så fremt visse vilkår er oppfylt, jf. § 3 femte ledd.
+
+#### Finland
+
+I Finland er innleie definert i «Arbetsavtalslagen» (55/2001) og har følgende ordlyd, jf. kapittel 1 § 7:
+
+När arbetsgivaren med samtycke av arbetstagaren överför denne till en annan arbetsgivares förfogande (användarföretag), övertar användarföretaget rätten att leda och övervaka arbetet samt de för arbetsgivaren föreskrivna skyldigheter som har direkt samband med hur arbetet utförs och ordnas. Användarföretaget ska lämna arbetstagarens arbetsgivare de uppgifter som arbetsgivaren behöver för att kunna fullgöra sina skyldigheter.
+
+Det følger av den finske arbeidsmiljøloven (738/2002) at det er den som leder og kontrollerer arbeidet som har plikt til å sørge for arbeidstakeres HMS, jf. kapittel 6 § 49. Gjennom denne bestemmelsen ligger HMS-ansvaret på innleievirksomheten overfor den innleide.

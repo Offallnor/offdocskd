@@ -1,3156 +1,974 @@
-# NOU 2025: 4, del 15 av 15 (side 218–232)
+# NOU 2025: 4, del 15 av 28
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2025/2f09cbc4-nou-2025-4.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2025-4/id3094178/
 - Original-PDF: https://www.regjeringen.no/contentassets/df345d0f3ed942baaac1e0d57c4b72c9/no/pdfs/nou202520250004000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 126 tabeller, 72 figurer, 11733 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 218]
+## Inntektsutviklingen for pensjonister og trygdede
+
+Pensjonssystemet hovedformål er å sikre den enkelte et rimelig inntektsnivå i forhold til tidligere inntekt. I tillegg skal pensjonssystemet gi en akseptabel grunnsikring for personer uten eller med liten tilknytning til arbeidsmarkedet. Pensjonsreformen har gjort det mulig å velge selv når uttaket av alderspensjon fra folketrygden skal starte i intervallet 62–75 år. Uttaksbeslutningen kan i langt større grad enn tidligere nå ses på som en ren finansiell beslutning. Dette har gitt den enkelte større mulighet til å bestemme fordelingen av pensjonsutbetalingene over livsløpet etter 62 år.
+
+I dette avsnittet redegjøres det nærmere for inntektsutviklingen for pensjonister og trygdede før og etter skatt med hovedvekt på utviklingen i pensjon. Samlede pensjons- og trygdeytelser består av pensjon og trygd fra folketrygden, ytelser fra tjenestepensjonsordninger, AFP og individuelle pensjonsordninger.
+
+Utviklingen i grunnbeløpet i folketrygden, minstepensjonene for enslige og ektepar og pensjonene til enslige uføre de siste ti årene framgår av tabell 4.2 i vedlegg 4.
+
+I kapittel 6 i rapporten «*Arbeid, pensjon og inntekt i den eldre befolkningen*»[^75] fra Pensjonspolitisk arbeidsgruppe er det en grundig omtale av utviklingen i samlet inntektsnivå, endringer i samlet inntekt over tid, lavinntekt for ulike aldersgrupper og sammensetningen av samlet inntekt i den eldre befolkningen. Omtalen av inntektsutviklingen for trygdede og pensjonister er derfor mer kortfattet her. På noen områder er det likevel vist til og gitt en kort omtale av hovedpoeng i rapporten fra Pensjonspolitisk arbeidsgruppe.
+
+### Utviklingen i pensjons- og trygdeytelser
+
+Tabell 10.4 viser nominell og reell årlig vekst i samlede overføringer for personer som har hovedinntekt fra pensjon eller trygd. Overføringer inkluderer både ytelser fra folketrygden (alderspensjon, uføretrygd, arbeidsavklaringspenger mv.) og andre ytelser, herunder fra tjenestepensjonsordninger og AFP. Overføringer utgjorde 87 prosent av gruppens samlede inntekt i 2023.
+
+Utvikling i overføringer<sup>1</sup> for trygdede og pensjonister<sup>2</sup>. Prosent
+
+05J1xt2
+
+<table>
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 19%" />
+<col style="width: 19%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr>
+<td></td>
+<td style="text-align: right;">Årlig nominell<br />
+vekst i overføringer</td>
+<td style="text-align: right;">Årlig realvekst<br />
+i overføringer</td>
+<td style="text-align: right;">Gjennomsnittlige<br />
+overføringer i 2023-kroner</td>
+<td style="text-align: right;">Overføringer som andel av samlet inntekt før skatt</td>
+</tr>
+<tr>
+<td>2014</td>
+<td style="text-align: right;">3,8</td>
+<td style="text-align: right;">1,7</td>
+<td style="text-align: right;">359 500</td>
+<td style="text-align: right;">87,2</td>
+</tr>
+<tr>
+<td>2015</td>
+<td style="text-align: right;">4,9</td>
+<td style="text-align: right;">2,7</td>
+<td style="text-align: right;">369 300</td>
+<td style="text-align: right;">86,9</td>
+</tr>
+<tr>
+<td>2016</td>
+<td style="text-align: right;">2,9</td>
+<td style="text-align: right;">-0,7</td>
+<td style="text-align: right;">366 800</td>
+<td style="text-align: right;">88,8</td>
+</tr>
+<tr>
+<td>2017</td>
+<td style="text-align: right;">2,2</td>
+<td style="text-align: right;">0,4</td>
+<td style="text-align: right;">368 200</td>
+<td style="text-align: right;">88,8</td>
+</tr>
+<tr>
+<td>2018</td>
+<td style="text-align: right;">2,9</td>
+<td style="text-align: right;">0,2</td>
+<td style="text-align: right;">368 900</td>
+<td style="text-align: right;">88,8</td>
+</tr>
+<tr>
+<td>2019</td>
+<td style="text-align: right;">3,3</td>
+<td style="text-align: right;">1,1</td>
+<td style="text-align: right;">372 900</td>
+<td style="text-align: right;">88,9</td>
+</tr>
+<tr>
+<td>2020</td>
+<td style="text-align: right;">2,2</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">376 500</td>
+<td style="text-align: right;">89,3</td>
+</tr>
+<tr>
+<td>2021</td>
+<td style="text-align: right;">3,8</td>
+<td style="text-align: right;">0,3</td>
+<td style="text-align: right;">377 700</td>
+<td style="text-align: right;">86,4</td>
+</tr>
+<tr>
+<td>2022</td>
+<td style="text-align: right;">4,0</td>
+<td style="text-align: right;">-1,6</td>
+<td style="text-align: right;">371 500</td>
+<td style="text-align: right;">88,6</td>
+</tr>
+<tr>
+<td>2023</td>
+<td style="text-align: right;">6,2</td>
+<td style="text-align: right;">0,7</td>
+<td style="text-align: right;">374 000</td>
+<td style="text-align: right;">87,0</td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup> Inkluderer både offentlig og privat tjenestepensjon. Inkluderer ikke dagpenger, sykepenger og foreldrepenger.
+
+<sup>2</sup> Omfatter personer med sosioøkonomisk status pensjonist/trygdet. Det gjelder alle personer som ikke er yrkesaktive og mottar trygde-/pensjonsytelser og yrkesaktive personer som har større inntekt fra trygde-/pensjonsytelser enn lønn (inkl. dagpenger, sykepenger og foreldrepenger) eller næringsinntekt. En person er yrkesaktiv når næringsinntekten (inkl. absoluttverdi av årets underskudd i næring) og lønn (inkl. dagpenger, sykepenger og foreldrepenger) overstiger 2G. Det var 1 179 509 personer definert som trygdet eller pensjonist i 2013 og 1 423 087 personer i 2023.
 
-216
-
-Vedlegg 5
-
-NOU 2025: 4
-Grunnlaget for inntektsoppgjørene 2025
-
-Boks 5.1 (forts.)
-Forskrift om delvis allmenngjøring av tariffavtaler for
-godstransport på vei
-Forskriften er fastsatt på grunnlag av de to likelydende avtalene Overenskomst for godstransport av 2020 mellom Norges LastebileierForbund (NLF) og NLFs overenskomstbundne
-medlemsbedrifter på den ene side og Yrkesorganisasjonenes Sentralforbund og Yrkestrafikkforbundet på den annen side og Overenskomst for godstransport av 2020 mellom Norges
-Lastebileier-Forbund og NLFs overenskomstbundne medlemsbedrifter på den ene side og
-Landsorganisasjonen i Norge/ Fellesforbundet
-på den annen side. Forskriften gjelder for
-arbeidstakere som utfører godstransport på vei
-med kjøretøy med totalvekt over 3,5 tonn. Fra
-1. juni 2025 utvides forskriften til også å omfatte
-varebiler, da vektgrensen senkes til 2,5 tonn.
-Forskriften gjelder også kabotasjekjøring, det vil
-si transportoppdrag mellom steder i Norge som
-etterfølger en grensekryssende transport til
-Norge, og kombinert transport, det vil si transport på vei i Norge som starter eller slutter med
-en grensekryssende transport på jernbane eller
-skip. Forskriften gjelder ikke grensekryssende
-transportvirksomhet (internasjonal transport)
-ut over dette. For arbeidstakere i bedrifter som
-er etablert utenfor Norge gjelder forskriften
-bare i den utstrekning transporten er en
-tjenesteytelse etter arbeidsmiljøloven § 1-7
-(utsendt arbeidstaker). Forskriften gjelder ikke
-ved transport av virksomhetens egne varer.
-Minstelønnssatsen per time er på 222 kroner.
-Ved transportoppdrag med planlagt overnatting,
-skal diett utbetales i henhold til det norske
-myndigheter til enhver tid godkjenner som
-skattefri diett. Det utbetales 1/3 diettsats per
-påbegynt 8. time.
-Forskrift om allmenngjøring av tariffavtaler for
-persontransport med turbil
-Forskriften er fastsatt på grunnlag av Bussbransjeavtalen av 2020 mellom Næringslivets
-
-Hovedorganisasjon og NHO Transport på den
-ene side og Yrkesorganisasjonenes Sentralforbund og Yrkestrafikkforbundet på den annen
-side og Bussbransjeavtalen 2022–2024 mellom
-Næringslivets Hovedorganisasjon og NHO
-Transport på den ene side og Landsorganisasjonen i Norge og Fellesforbundet på den annen
-side. Forskriften gjelder for arbeidstakere i
-bedrifter som utfører persontransport med turvogn eller buss når transporten ikke krever tildeling av løyve ved konkurranse etter yrkestransportlova § 8. Forskriften gjelder også
-kabotasjekjøring, det vil si når en utenlandsk
-transportvirksomhet driver midlertidig turbiltransport med på- og/eller avstigning i Norge.
-Forskriften gjelder ikke grensekryssende transportvirksomhet (internasjonal transport) ut over
-dette. For arbeidstakere i bedrifter som er etablert utenfor Norge gjelder forskriften bare i
-den utstrekning transporten er en tjenesteytelse
-etter arbeidsmiljøloven § 1-7 (utsendt arbeidstaker). Minstelønnssatsen per time er på 213,62
-kroner.
-Forskrift om allmenngjøring av tariffavtale for
-overnattings-, serverings- og cateringvirksomheter
-Forskriften er fastsatt på grunnlag av Riksavtalen 2022–2024 mellom Næringslivets
-Hovedorganisasjon og NHO Reiseliv på den
-ene siden og LO og Fellesforbundet på den
-annen side. Forskriften gjelder for ansatte
-innenfor overnattingsvirksomhet, serveringsvirksomhet, cateringvirksomhet og liknende på
-land, med unntak av ansatte som faller inn
-under Landforpleiningsavtalen og ansatte som
-organisasjonsmessig hører inn under avtaleområdet til FLT/LO. Begynnerlønn for arbeidstakere over 20 år/etter 4 md. praksis over 18 år
-er minst kroner 197,79 per time. Unge arbeidstakere i kategoriene 16, 17 og 18 år skal ha en
-lønn per time på minst henholdsvis kroner
-135,58, 145,08 og 159,34. Det er fastsatt egne
-satser for fratrekk i lønn for innkvartering i
-bedriften.
-
-[Side 219]
-
-217
-
-NOU 2025: 4
-Grunnlaget for inntektsoppgjørene 2025
-
-Vedlegg 5
-
-Tabell 5.5 Store tariffavtaler etter næring/sektor
-
-Næring/
-sektor
-
-Omtrentlig
-antall ansatte
-Forhandlingsnivå
-som omfattes
-og omfang
-Lønnsdannelse
-i 20232
-
-Forbund/
-forening
-
-Arbeidsgiverorganisasjon
-
-LO/Fellesforbundet
-
-NHO/Norsk Forbundsvist,
-Industri
-arbeidere
-
-Minstelønn
-
-38 000
-
-Bygg- og
-Fellesoverenskomsten for
-anleggsvirksomhet byggfag
-
-LO/Fellesforbundet
-
-NHO/Bygge- Forbundsvist,
-næringens
-arbeidere
-Landsforening
-
-Minstelønn
-
-32 000
-
-Varehandel Landsoverenskomsten med
-bransjeavtaler
-
-Handel og
-Kontor
-
-Virke
-
-Forbundsvist,
-funksjonærer
-
-Minstelønn
-
-70 000
-
-Samferdsel Overenskomst
-for
-Posten
-
-LO Stat
-
-Spekter
-
-Sentralt
-Minstelønn
-mellom LO Stat
-og Spekter.
-Lokalt mellom
-forbundene
-og ledelsen.
-
-10 000
-
-Bussbransjeavtalen
-
-LO/Fellesforbundet og
-YS/YTF
-
-NHO/NHO
-Transport
-
-Forbundsvist,
-arbeidere
-
-Normallønn
-
-9 000
-
-Bussbransjeavtalen
-
-LO Stat/YS
-Spekter
-
-Spekter
-
-Sentralt,
-forbundsvist
-
-Normallønn
-
-4 500
-
-Hotell- og
-Riksavtalen
-restaurant- for hotell- og
-virksomhet restaurant
-
-LO/Fellesforbundet
-
-NHO/NHO
-Reiseliv
-
-Forbundsvist,
-arbeidere
-
-Minstelønn
-
-30 000
-
-Finanstjenester
-
-Sentralavtalen
-for finansnæringen
-
-Finansforbundet
-
-NHO/Finans Sentralt,
-Norge
-vertikalt
-
-Minstelønn
-
-33 000
-
-Staten
-
-Hovedtariffavtalene i
-staten for LO
-Stat og YS Stat
-
-LO Stat og
-YS Stat
-
-DFD
-
-Sentralt,
-vertikalt
-
-Minstelønn
-
-70 000
-
-Hovedtariffavtalene i
-staten for
-Akademikerne
-og Unio
-
-Akademikerne DFD
-og Unio
-
-Sentralt,
-lokalt
-
-Industrien
-
-Tariffavtale
-
-Industrioverenskomsten1
-
-95 000
-
-[Side 220]
-
-218
-
-NOU 2025: 4
-
-Vedlegg 5
-
-Grunnlaget for inntektsoppgjørene 2025
-
-Tabell 5.5 Store tariffavtaler etter næring/sektor
-
-Næring/
-sektor
-
-Forbund/
-forening
-
-Arbeidsgiverorganisasjon
-
-Kommuner Hovedtariffog fylkesavtalen
-kommuner,
-ekskl. Oslo
-kommune
-Hovedtariffavtalen, kap. 3
-og 5 (stillinger
-med lokal
-lønnsdannelse)
-
-Forhandlingssammenslutninger
-i KS-området
-
-KS
-
-De statlig
-eide helseforetakene
-
-Forbundene
-i Unio
-
-NHOområdet
-
-1
-
-Tariffavtale
-
-Omtrentlig
-antall ansatte
-Forhandlingsnivå
-som omfattes
-og omfang
-Lønnsdannelse
-i 20232
-
-Sentralt,
-lokalt
-
-Garantilønn/
-uten minstelønnssatser
-
-400 000
-
-Lokalt.
-Ledere og
-akademikere
-
-Uten lønnssatser
-
-61 000
-
-Sentralt,
-forbundsvist
-
-Minstelønn
-
-51 000
-
-Overenskomst Forbundene
-for LO-forbund i LO Stat
-
-Sentralt,
-forbundsvist
-
-Minstelønn
-
-25 000
-
-Overenskomst
-for YS-forbund
-
-Forbundene
-i YS Spekter
-
-Sentralt,
-forbundsvist
-
-Minstelønn
-
-8 000
-
-Overenskomst
-Akademikerne
-– Helse
-
-Foreningene i
-Akademikerne
-– Helse
-
-Sentralt,
-forbundsvist
-og lokalt
-
-Normallønn/
-minstelønn/
-uten lønnssatser
-
-26 000
-
-Overenskomst
-øvrige
-akademikerforbund Helse
-
-Foreningene
-i SAN
-
-Forbundsvist
-og lokalt
-
-Uten
-sentrale
-lønnssatser
-
-97000
-
-Hovedavtalen
-Tekna
-
-Tekna
-
-Lokalt,
-funksjonærer
-
-Uten
-sentrale
-lønnssatser
-
-28 000
-
-Overenskomst
-for Unio
-
-Spekter
-
-NHO/
-tilsluttede
-landsforeninger
-
-Om lag 5 000 av de som er omfattet av Industrioverenskomsten, er ansatte i byggebedrifter.
-Tall for antall ansatte som er omfattet av Sentralavtalen for finansnæringen er for 2019 og fra 2022 for staten.
-Kilde: Beregningsutvalget
-2
-
-[Side 221]
-
-NOU 2025: 4
-Grunnlaget for inntektsoppgjørene 2025
-
-219
-
-Vedlegg 6
-
-Vedlegg 6
-
-Lønn og lønnskostnader
-I dette vedlegget beskrives sammenhenger mellom enkelte begreper for lønn og lønnskostnader
-og utviklingen i disse, jf. omtale i Holden IVutvalgets utredning NOU 2023: 30.
-Begreper
-Lønn per årsverk omfatter alle lønnsutbetalinger til
-en arbeidstaker, også naturallønn, overtid, sluttvederlag og opsjoner knyttet til individuelle avtaler. Feriepenger føres til året de er påløpt.
-Lønnskostnadene er summen av direkte og
-indirekte lønnskostnader. Lønnskostnadene inkluderer i prinsippet direkte lønnskostnader (alle
-lønnsutbetalinger inklusive overtidsgodtgjørelse
-og lønn under sykdom, permisjoner mv. som betales av arbeidsgiver) og indirekte lønnskostnader
-(som arbeidsgiveravgift, faktiske og beregnede
-pensjonsutgifter betalt av arbeidsgiver). I tabellene i dette vedlegget vises lønnskostnader regnet
-per årsverk, se definisjon av årsverk i nasjonalregnskapet i vedlegg 2.
-Timelønnskostnadene som omtales i kapittel 8,
-utgjør i hovedsak samlede lønnskostnader regnet
-per utførte timeverk. Antall utførte timeverk inkluderer overtid, mens fravær som ferie, permisjon og
-sykefravær holdes utenom. Dersom sykefravær i
-arbeidsgiverperioden øker, vil det trekke opp timelønnskostnadene. Tilsvarende vil mer permanente
-endringer i arbeidstids- og feriebestemmelser
-påvirke
-timelønnskostnadene.
-Arbeidsgivers
-bidrag til pensjonsordninger er, i tillegg til arbeidstid, av størst betydning for forskjellen mellom lønn
-og lønnskostnad per utførte timeverk.
-Nærmere om sammenhengen mellom timelønnskostnader og årslønn (påløpt)
-T.o.m. 2021 utarbeidet nasjonalregnskapet påløpt
-årslønn etter næring. Årslønnen i nasjonalregnskapet omfattet da avtalt lønn med faste tillegg
-inklusive etterbetalinger, feriepengetillegg, bonus
-og uregelmessige tillegg knyttet til arbeidets art,
-mens naturallønn, overtidslønn og sluttvederlag
-ikke var inkludert. For en lønnstaker er dette løn-
-
-nen en normalt vil motta i løpet av kalenderåret
-hvis det arbeides fulltid uten fravær og betalt overtid.
-Etter 2021 har påløpt årslønn bare blitt beregnet samlet for alle næringer, og basert på korrigering av utbetalt årslønn i forhold til når etterbetalinger påløper, se vedlegg 2. Gitt denne metodeendringen, er ikke lenger den påløpte årslønnen
-direkte sammenlignbar med nasjonalregnskapets
-lønn- og lønnskostnader per årsverk. Dette har å
-gjøre med at populasjonen bak tallene har noe ulik
-definisjon, blant annet inkluderes rekrutter i
-førstegangstjeneste som lønnsmottakere i nasjonalregnskapet, mens disse ikke inngår i beregningen av utbetalt årslønn. Samlet sett omfatter
-nasjonalregnskapet i overkant av 100 000 flere
-årsverk enn lønnsstatistikken (heltidsekvivalente)
-i 2024. Om lag en tredel av disse ligger i offentlig
-administrasjon og forsvar. Andre næringsgrupperinger med avvik er varehandel, overnatting og
-servering, samt helse- og sosialtjenester (inkludert offentlig drift av helse- og sosialtjenester).
-Følgende forhold kan bidra til ulik utvikling i timelønnskostnader og årslønn:
-– endringer i overtid
-– endringer i sykefravær
-– endringer i antall virkedager, f.eks. pga.
-endringer i bevegelige helligdager og skuddår
-– endringer i arbeidsgiveravgift og pensjonspremier
-– endret sats for feriepenger
-– forskjeller i populasjon
-Tabell 6.1 gir en illustrasjon på hvordan ulike faktorer har bidratt til avvik mellom årlig vekst i
-årslønn og i lønnskostnader per utførte timeverk i
-Norge siden 2015. I 2023 var forskjellen i antall
-virkedager fra 2022 en viktig årsak til avvik. I 2024
-var det samme antall virkedager som i 2023, og
-forskjellene i 2024 skyldes dermed andre forhold.
-Avviket er imidlertid mindre enn i 2023. Tallene
-for 2023 og 2024 er imidlertid beheftet med usikkerhet som følge av at anslagene for utvikling i
-overtid, skiftarbeid og trygde- og pensjonspremier bygger på et foreløpig kildemateriale.
-
-[Side 222]
-
-220
-
-NOU 2025: 4
-
-Vedlegg 6
-
-Grunnlaget for inntektsoppgjørene 2025
-
-Tabell 6.1 Ulike faktorers bidrag til avvik mellom vekstratene for årslønn og lønnskostnader per utførte
-timeverk for alle grupper. Bidrag i prosentpoeng
-2015
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022 2023* 2024*
-
-Lønnskostnader per time, prosent
-
-2,4
-
-1,1
-
-2,9
-
-3,2
-
-3,9
-
-2,4
-
-3,6
-
-4,7
-
-7,1
-
-5,3
-
-Årslønn, prosent
-
-2,8
-
-1,7
-
-2,3
-
-2,8
-
-3,5
-
-3,1
-
-3,5
-
-4,3
-
-5,2
-
-5,6
-
-Avvik i prosentpoeng1
-
--0,4
-
--0,6
-
-0,6
-
-0,4
-
-0,4
-
--0,7
-
-0,1
-
-0,4
-
-1,9
-
--0,3
-
-Anslag på bidrag til avvik i prosentpoeng.2 Endring i:
-– Antall virkedager
-
--0,4
-
--0,4
-
-0,8
-
-0,3
-
-0,0
-
--1,0
-
-0,0
-
-0,0
-
-0,7
-
-0,0
-
-– Sykedager
-
-0,0
-
-0,0
-
-0,0
-
-0,0
-
-0,0
-
-0,0
-
-0,0
-
-0,0
-
-0,0
-
-0,0
-
-– Overtid
-
-0,0
-
-0,0
-
-0,0
-
-0,0
-
-0,0
-
-0,0
-
-0,0
-
-0,0
-
-0,0
-
-0,0
-
-– Naturallønn
-
--0,1
-
-0,0
-
--0,1
-
-0,0
-
-0,0
-
--0,1
-
-0,0
-
-0,0
-
-0,0
-
-0,0
-
-– Andre arbeidskraftkostnader
-(inkl. strukturendringer og
-forskjell i populasjon etter 2021)
-
-0,1
-
--0,2
-
--0,1
-
-0,1
-
-0,4
-
-0,4
-
--0,1
-
-0,4
-
-1,2
-
--0,3
-
-Antall virkedager
-
-252
-
-253
-
-251
-
-250
-
-250
-
-253
-
-253
-
-253
-
-251
-
-251
-
-* Foreløpige tall.
-1 Positivt avvik innebærer at timelønnskostnadene øker mer enn årslønn.
-2
-Flere virkedager bidrar til lavere timelønnskostnader sammenlignet med årslønn. Økt overtid og naturallønn bidrar motsatt.
-Økt sykefravær bidrar normalt også til å øke timelønnskostnadene relativt til årslønn. Avrunding betyr at summen av komponentene kan være forskjellig fra samlet avvik.
 Kilder: Statistisk sentralbyrå og Beregningsutvalget
 
-Tabell 6.2 Antall virkedager
-2022
-
-2023
-
-2024
-
-2025
-
-2026
-
-2027
-
-2028
-
-2029
-
-253
-
-251
-
-251
-
-250
-
-252
-
-255
-
-252
-
-251
-
-Utviklingen i lønn og lønnskostnader per årsverk i 2024
-Tallene for statsforvaltningen for utbetalt årslønn i
-dette vedlegget er påvirket av at lønnsoppgjøret i
-staten ikke er inkludert i tallgrunnlaget for 2024
-på grunn av konflikten våren 2024. Dette kan
-påvirke lønn og lønnskostnader per årsverk.
-Tabell 6.3 viser nivået på lønn og lønnskostnader
-per årsverk samlet for alle næringer og for
-utvalgte næringer slik det framkommer i nasjonalregnskapet. Påløpt årslønn slik den ble beregnet i
-nasjonalregnskapet vises t.o.m. med 2021. Som
-sammenligningsgrunnlag vises også påløpt
-årslønn beregnet etter ny metode samlet for alle
-næringer, mens utbetalt årslønnen er lagt inn for
-de respektive næringene.
-Tabell 6.4 viser den prosentvise årlige veksten
-i lønn og lønnskostnader per årsverk og i utbetalt
-årslønn. Som gjennomsnitt over en ti-årsperiode
-er det liten forskjell på veksten i de tre lønns-
-
-begrepene, men større variasjoner kan forekomme i de ulike årene. I 2024 var veksten i lønn
-per årsverk betydelig over veksten i utbetalt lønn i
-industrien, overnattings- og serveringsvirksomhet og i statlig og kommunal forvaltning. I de
-andre grupperingene var veksten i lønn per
-årsverk godt under veksten i utbetalt lønn. Variasjonene kan delvis forklares med at lønn per
-årsverk følger prinsippene i nasjonalregnskapet,
-at populasjonen er litt forskjellig, og at veksten
-påvirkes av endringer i for eksempel overtid,
-sykefravær og permisjoner. Veksten i lønnskostnader per årsverk utvikler seg gjennomgående i
-takt med veksten i lønn per årsverk. Den midlertidige arbeidsgiveravgiften som ble innført for
-lønnsinntekter over 750 000 kroner i 2023, førte
-imidlertid til at lønnskostnader per årsverk økte
-mer enn lønnen dette året.
-I tabell 6.5 er lønnskostnadene per årsverk fordelt på lønn, arbeidsgiveravgift og pensjons-
-
-[Side 223]
-
-221
-
-NOU 2025: 4
-Grunnlaget for inntektsoppgjørene 2025
-
-Vedlegg 6
-
-110
-
-105
-Lønn per timeverk
-Lønn per årsverk
-
-Lønnskostnader per timeverk
-
-2024*
-
-2023*
-
-2022
-
-2021
-
-2020
-
-2019
-
-2018
-
-2017
-
-2015
-
-2024*
-
-2023*
-
-85
-2022
-
-80
-2021
-
-90
-
-2020
-
-85
-
-2019
-
-95
-
-2018
-
-90
-
-2017
-
-100
-
-2016
-
-95
-
-2015
-
-105
-
-2016
-
-Lønnskostnader per årsverk
-
-100
-
-Figur 6.1 Lønn per årsverk og timeverk i offentlig
-forvaltning sammenlignet med lønn per årsverk og
-timeverk i industrien. Lønn per årsverk/timeverk i
-industrien=100
-
-Figur 6.2 Lønnskostnad per årsverk og timeverk i
-offentlig forvaltning sammenlignet med
-lønnskostnad per årsverk og timeverk i industrien.
-Lønnskostnad per årsverk/timeverk i industrien=100
-
-* Foreløpige tall
-Kilde: Nasjonalregnskapet, Statistisk sentralbyrå
-
-* Foreløpige tall
-Kilde: Nasjonalregnskapet, Statistisk sentralbyrå
-
-kostnader mv. I gjennomsnitt utgjør lønnen om
-lag 79 prosent, arbeidsgiveravgiften i underkant
-av 12 prosent og pensjonskostnader mv. resten. I
-industrien utgjorde lønnen 80,4 prosent og pensjonskostnadene mv. 7,8 prosent i 2024. I offentlig
-forvaltning utgjorde lønnen 75,8 prosent av samlede lønnskostnader, og pensjonskostnader mv.
-13,1 prosent. I de fleste områdene var andelen til
-pensjonskostnader noe høyere i slutten enn i
-begynnelsen av den siste tiårsperioden.
-I figur 6.1 sammenlignes lønn per årsverk i
-offentlig forvaltning med tilsvarende i industrien.
-Det er forskjell i antall utførte timer bak årsverkene i ulike næringer. Derfor viser figuren
-også det relative forholdet mellom lønn i offentlig
-forvaltning og i industrien når man regner per
-utførte timeverk. Lønn per årsverk i offentlig forvaltning relativt til industrien var om lag 90 pro-
-
-sent i 2024, litt høyere enn i 2023. Til sammenlikning utgjorde lønn per årsverk i 2015 86 prosent av industriens. Regnet per timeverk var
-offentlig forvaltnings lønn 95 prosent av lønnen i
-industrien i 2024, 0,9 prosentpoeng lavere enn
-året før. Både lønn per årsverk og lønn per timeverk i offentlig forvaltning økte om lag 1 prosentpoeng mer enn i industrien fra 2023 til 2024.
-En tilsvarende sammenligning av lønnskostnader per årsverk og per timeverk for offentlig forvaltning og industri er vist i figur 6.2. Lønnskostnader per timeverk har vært litt høyere i
-offentlig forvaltning enn i industrien etter 2016.
-Den relative forskjellen avtok i 2024, men offentlig
-forvaltning ligger fortsatt over industrien. Regnet
-per årsverk, utgjorde lønnskostnadene i forvaltningen 95 prosent av industrien lønnskostnader i
-2024. Dette forholdet har vært stabilt siden 2018.
-
-[Side 224]
-
-222
-
-Vedlegg 6
-
-NOU 2025: 4
-Grunnlaget for inntektsoppgjørene 2025
-
-Tabell 6.3 Lønnsnivå og lønnskostnader per årsverk. 1 000 kroner1
-2015
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022
-
-2023*
-
-2024*
-
-Årslønn, påløpt
-
-519,8 528,9 541,0 556,3 575,7 593,5 614,3
-
--
-
--
-
--
-
-Årslønn(kr)
-
-516,0 522,7 535,4 550,8 569,9 587,6 609,6 634,7 668,4 704,7
-
-Lønn per årsverk
-
-528,0 535,7 546,1 561,9 581,2 593,9 619,1 646,0 678,0 714,6
-
-Lønnskostnader per årsverk
-
-660,0 668,1 680,4 701,4 728,3 741,6 775,4 812,2 862,1 906,1
-
-Totalt
-
-Industrien
-Årslønn, påløpt
-
-526,9 535,7 547,1 560,7 578,8 593,8 612,8
-
--
-
--
-
--
-
-Årslønn(kr)
-
-530,2 534,1 546,4 560,6 578,6 591,9 612,0 638,4 671,5 707,4
-
-Lønn per årsverk
-
-567,3 575,9 585,8 599,9 619,6 622,8 648,6 672,0 709,4 749,3
-
-Lønnskostnader per årsverk
-
-696,4 707,9 718,4 735,9 763,8 765,4 796,6 830,5 885,9 931,3
-
-Varehandel og reparasjon av
-motorvogner
-Årslønn, påløpt
-
-465,4 476,9 490,8 502,0 519,5 537,7 562,4
-
--
-
--
-
--
-
-Årslønn(kr)
-
-484,2 498,7 509,6 524,4 539,8 555,9 576,9 599,1 630,3 667,7
-
-Lønn per årsverk
-
-478,0 489,5 502,8 518,0 538,1 545,7 578,3 604,3 627,4 649,7
-
-Lønnskostnader per årsverk
-
-575,9 589,1 604,9 624,1 649,9 660,7 703,0 737,1 772,5 799,3
-
-Bygge- og anleggsvirksomhet
-Årslønn, påløpt
-
-496,2 507,7 520,7 534,9 549,8 569,6 589,0
-
--
-
--
-
--
-
-Årslønn(kr)
-
-456,3 465,8 480,9 494,9 512,8 532,4 557,4 577,3 603,2 635,1
-
-Lønn per årsverk
-
-514,3 525,8 540,3 554,1 569,2 577,5 604,3 625,7 661,4 690,3
-
-Lønnskostnader per årsverk
-
-611,2 625,5 643,5 661,0 680,2 691,7 724,7 754,4 804,6 839,1
-
-Overnattings- og serveringsvirksomhet
-Årslønn, påløpt
-
-365,8 373,5 382,4 394,7 411,3 421,6 438,9
-
--
-
--
-
--
-
-Årslønn(kr)
-
-350,2 354,2 360,3 373,5 388,9 398,7 413,9 429,4 453,1 480,0
-
-Lønn per årsverk
-
-339,8 342,8 347,7 363,1 383,4 350,5 389,5 424,8 446,9 475,4
-
-Lønnskostnader per årsverk
-
-396,1 399,2 404,6 423,2 448,7 412,1 457,8 501,8 531,0 565,4
-
-Finansierings- og forsikringsvirksomhet
-Årslønn, påløpt
-
-752,8 775,1 792,5 817,1 846,0 870,5 901,0
-
--
-
--
-
--
-
-Årslønn(kr)
-
-764,4 745,7 770,8 798,4 816,6 845,3 878,2 934,8 951,1 997,5
-
-Lønn per årsverk
-
-755,9 781,0 802,2 834,7 854,9 891,6 925,0 961,0 987,5 1020,8
-
-Lønnskostnader per årsverk 1002,6 1027,8 1037,3 1079,1 1109,9 1138,5 1189,2 1236,1 1304,0 1332,0
-
-[Side 225]
-
-223
-
-NOU 2025: 4
-Grunnlaget for inntektsoppgjørene 2025
-
-Vedlegg 6
-
-Tabell 6.3 Lønnsnivå og lønnskostnader per årsverk. 1 000 kroner1
-2015
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022
-
-2023*
-
-2024*
-
-Årslønn, påløpt
-
-509,5 521,3 534,9 551,3 570,7 585,0 600,8
-
--
-
--
-
--
-
-Årslønn(kr), utbetalt
-
-545,0 556,4 576,6 594,9 616,7 629,1 647,1 677,7 721,3 752,4
-
-Lønn per årsverk
-
-492,2 503,6 515,4 531,4 548,2 565,6 575,9 600,1 629,7 671,4
-
-Lønnskostnader per årsverk
-
-643,7 655,8 673,4 695,8 721,7 736,4 753,3 788,2 831,5 886,0
-
-Offentlig forvaltning
-
-Statsforvaltning
-Årslønn(kr)
-
-549,6 561,1 580,5 599,0 620,5 632,9 656,1 684,1 723,9 757,0
-
-Lønn per årsverk
-
-548,2 560,7 574,9 595,4 615,0 633,7 647,6 673,6 708,7 756,1
-
-Lønnskostnader per årsverk
-
-722,5 730,6 754,0 780,5 807,9 822,8 844,2 881,7 930,8 998,4
-
-Kommuneforvaltning
-Årslønn(kr)
-
-464,2 476,9 489,9 503,1 520,2 531,9 544,1 564,5 597,6 628,3
-
-Lønn per årsverk
-
-456,7 467,7 478,3 491,7 506,9 522,6 530,2 552,9 578,8 617,1
-
-Lønnskostnader per årsverk
-
-593,7 608,7 623,1 643,4 668,5 681,9 695,5 728,3 767,5 814,0
-
-* Foreløpige tall.
-1
-Næringsfordelt påløpt årslønn foreligger til og med 2021.
-Kilde: Nasjonalregnskapet, Statistisk sentralbyrå
-
-Tabell 6.4 Gjennomsnittlig vekst i årslønn, lønn per årsverk og lønnskostnader per årsverk. Prosentvis vekst
-fra året før1
-2015
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022
-
-2023*
-
-2024* Gj.snitt
-
-1,3
-
-2,4
-
-2,9
-
-3,5
-
-3,1
-
-3,7
-
-4,1
-
-5,3
-
-5,4
-
-2,8
-
-Totalt
-Årslønn, utbetalt
-Lønn per årsverk
-
-2,7
-
-1,5
-
-1,9
-
-2,9
-
-3,4
-
-2,2
-
-4,2
-
-4,3
-
-5,0
-
-5,4
-
-2,8
-
-Lønnskostnader per årsverk
-
-2,7
-
-1,2
-
-1,8
-
-3,1
-
-3,8
-
-1,8
-
-4,6
-
-4,7
-
-6,1
-
-5,1
-
-2,9
-
-0,7
-
-2,3
-
-2,6
-
-3,2
-
-2,3
-
-3,4
-
-4,3
-
-5,2
-
-5,3
-
-2,6
-
-Industrien
-Årslønn, utbetalt
-Lønn per årsverk
-
-2,5
-
-1,5
-
-1,7
-
-2,4
-
-3,3
-
-0,5
-
-4,1
-
-3,6
-
-5,6
-
-5,6
-
-2,7
-
-Lønnskostnader per årsverk
-
-2,5
-
-1,6
-
-1,5
-
-2,4
-
-3,8
-
-0,2
-
-4,1
-
-4,2
-
-6,7
-
-5,1
-
-2,8
-
-Varehandel og reparasjon av
-motorvogner
-
-0,0
-
-Årslønn, utbetalt
-
-3,0
-
-2,2
-
-2,9
-
-2,9
-
-3,0
-
-3,8
-
-3,8
-
-5,2
-
-5,9
-
-2,7
-
-Lønn per årsverk
-
-3,1
-
-2,4
-
-2,7
-
-3,0
-
-3,9
-
-1,4
-
-6,0
-
-4,5
-
-3,8
-
-3,6
-
-2,6
-
-Lønnskostnader per årsverk
-
-2,8
-
-2,3
-
-2,7
-
-3,2
-
-4,1
-
-1,7
-
-6,4
-
-4,9
-
-4,8
-
-3,5
-
-2,8
-
-[Side 226]
-
-224
-
-NOU 2025: 4
-
-Vedlegg 6
-
-Grunnlaget for inntektsoppgjørene 2025
-
-Tabell 6.4 Gjennomsnittlig vekst i årslønn, lønn per årsverk og lønnskostnader per årsverk. Prosentvis vekst
-fra året før1
-2015
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022
-
-2023*
-
-2024* Gj.snitt
-
-2,1
-
-3,2
-
-2,9
-
-3,6
-
-3,8
-
-4,7
-
-3,6
-
-4,5
-
-5,3
-
-2,8
-
-Bygge- og anleggsvirksomhet
-Årslønn, utbetalt
-Lønn per årsverk
-
-2,9
-
-2,2
-
-2,8
-
-2,6
-
-2,7
-
-1,5
-
-4,6
-
-3,5
-
-5,7
-
-4,4
-
-2,6
-
-Lønnskostnader per årsverk
-
-2,9
-
-2,3
-
-2,9
-
-2,7
-
-2,9
-
-1,7
-
-4,8
-
-4,1
-
-6,7
-
-4,3
-
-2,7
-
-1,1
-
-1,7
-
-3,7
-
-4,1
-
-2,5
-
-3,8
-
-3,7
-
-5,5
-
-5,9
-
-2,9
-
-Overnattings- og serveringsvirksomhet
-Årslønn, utbetalt
-Lønn per årsverk
-
-2,7
-
-0,9
-
-1,4
-
-4,4
-
-5,6
-
--8,6
-
-11,1
-
-9,1
-
-5,2
-
-6,4
-
-2,8
-
-Lønnskostnader per årsverk
-
-2,5
-
-0,8
-
-1,4
-
-4,6
-
-6,0
-
--8,2
-
-11,1
-
-9,6
-
-5,8
-
-6,5
-
-3,0
-
--2,4
-
-3,4
-
-3,6
-
-2,3
-
-3,5
-
-3,9
-
-6,4
-
-1,7
-
-4,9
-
-2,6
-
-Finansierings- og forsikringsvirksomhet
-Årslønn, utbetalt
-Lønn per årsverk
-
-3,9
-
-3,3
-
-2,7
-
-4,1
-
-2,4
-
-4,3
-
-3,7
-
-3,9
-
-2,8
-
-3,4
-
-2,7
-
-Lønnskostnader per årsverk
-
-3,8
-
-2,5
-
-0,9
-
-4,0
-
-2,9
-
-2,6
-
-4,5
-
-3,9
-
-5,5
-
-2,1
-
-2,7
-
-2,1
-
-3,6
-
-3,2
-
-3,7
-
-2,0
-
-2,9
-
-4,7
-
-6,4
-
-4,3
-
-2,7
-
-Offentlig forvaltning
-Årslønn, utbetalt
-Lønn per årsverk
-
-3,3
-
-2,3
-
-2,3
-
-3,1
-
-3,2
-
-3,2
-
-1,8
-
-4,2
-
-4,9
-
-6,6
-
-2,7
-
-Lønnskostnader per årsverk
-
-3,4
-
-1,9
-
-2,7
-
-3,3
-
-3,7
-
-2,0
-
-2,3
-
-4,6
-
-5,5
-
-6,6
-
-2,8
-
-2,1
-
-3,5
-
-3,2
-
-3,6
-
-2,0
-
-3,7
-
-4,3
-
-5,8
-
-4,6
-
-2,7
-
-Statsforvaltning
-Årslønn, utbetalt
-Lønn per årsverk
-
-2,8
-
-2,3
-
-2,5
-
-3,6
-
-3,3
-
-3,0
-
-2,2
-
-4,0
-
-5,2
-
-6,7
-
-2,8
-
-Lønnskostnader per årsverk
-
-3,5
-
-1,1
-
-3,2
-
-3,5
-
-3,5
-
-1,8
-
-2,6
-
-4,4
-
-5,6
-
-7,3
-
-2,8
-
-2,7
-
-2,7
-
-2,7
-
-3,4
-
-2,2
-
-2,3
-
-3,7
-
-5,9
-
-5,1
-
-2,5
-
-Kommuneforvaltning
-Årslønn, utbetalt
-Lønn per årsverk
-
-3,5
-
-2,4
-
-2,3
-
-2,8
-
-3,1
-
-3,1
-
-1,4
-
-4,3
-
-4,7
-
-6,6
-
-2,6
-
-Lønnskostnader per årsverk
-
-3,2
-
-2,5
-
-2,4
-
-3,3
-
-3,9
-
-2,0
-
-2,0
-
-4,7
-
-5,4
-
-6,1
-
-2,8
-
-* Foreløpige tall.
-1
-Næringsfordelt påløpt årslønn foreligger til og med 2021.
-2
-Gjennomsnittlig årlig vekst 2024–2023. Geometrisk gjennomsnitt.
-Kilde: Nasjonalregnskapet, Statistisk sentralbyrå
-
-[Side 227]
-
-225
-
-NOU 2025: 4
-Grunnlaget for inntektsoppgjørene 2025
-
-Vedlegg 6
-
-Tabell 6.5 Lønnskostnader per årsverk i 1 000 kroner, og fordeling på kostnadstype i prosent
-2015
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022
-
-2023*
-
-2024*
-
-Totalt
-Lønnskostnader per årsverk
-
-660,0 668,1 680,4 701,4 728,3 741,6 775,4 812,2 862,1 906,1
-
-Lønn
-
-80,0
-
-80,2
-
-80,3
-
-80,1
-
-79,8
-
-80,1
-
-79,8
-
-79,5
-
-78,6
-
-78,9
-
-Arbeidsgiveravgift
-
-11,4
-
-11,4
-
-11,3
-
-11,3
-
-11,3
-
-11,3
-
-11,4
-
-11,4
-
-12,0
-
-11,8
-
-Pensjonskostnader mv.
-
-8,6
-
-8,4
-
-8,4
-
-8,6
-
-8,9
-
-8,6
-
-8,7
-
-9,1
-
-9,4
-
-9,3
-
-Markedsrettet virksomhet
-Fastlands-Norge
-Lønnskostnader per årsverk
-
-656,7 664,5 674,6 694,7 721,3 734,2 777,3 813,1 865,1 904,1
-
-Lønn
-
-82,0
-
-82,1
-
-82,3
-
-82,2
-
-81,9
-
-82,0
-
-81,8
-
-81,5
-
-80,4
-
-80,8
-
-Arbeidsgiveravgift
-
-11,6
-
-11,5
-
-11,5
-
-11,5
-
-11,5
-
-11,5
-
-11,6
-
-11,6
-
-12,1
-
-12,1
-
-Pensjonskostnader mv.
-
-6,4
-
-6,4
-
-6,2
-
-6,3
-
-6,5
-
-6,5
-
-6,6
-
-7,0
-
-7,5
-
-7,1
-
-Industri
-Lønnskostnader per årsverk
-
-696,4 707,9 718,4 735,9 763,8 765,4 796,6 830,5 885,9 931,3
-
-Lønn
-
-81,5
-
-81,4
-
-81,5
-
-81,5
-
-81,1
-
-81,4
-
-81,4
-
-80,9
-
-80,1
-
-80,4
-
-Arbeidsgiveravgift
-
-11,5
-
-11,4
-
-11,4
-
-11,4
-
-11,4
-
-11,4
-
-11,4
-
-11,4
-
-11,9
-
-11,7
-
-Pensjonskostnader mv.
-
-7,0
-
-7,2
-
-7,1
-
-7,1
-
-7,5
-
-7,3
-
-7,2
-
-7,7
-
-8,0
-
-7,8
-
-Varehandel og reparasjon av
-motorvogner
-Lønnskostnader per årsverk
-
-575,9 589,1 604,9 624,1 649,9 660,7 703,0 737,1 772,5 799,3
-
-Lønn
-
-83,0
-
-83,1
-
-83,1
-
-83,0
-
-82,8
-
-82,6
-
-82,3
-
-82,0
-
-81,2
-
-81,3
-
-Arbeidsgiveravgift
-
-11,6
-
-11,6
-
-11,6
-
-11,6
-
-11,6
-
-11,6
-
-11,7
-
-11,7
-
-12,1
-
-12,1
-
-Pensjonskostnader mv.
-
-5,4
-
-5,3
-
-5,3
-
-5,4
-
-5,6
-
-5,8
-
-6,0
-
-6,3
-
-6,7
-
-6,6
-
-Overnatting og servering
-Lønnskostnader per årsverk
-
-396,1 399,2 404,6 423,2 448,7 412,1 457,8 501,8 531,0 565,4
-
-Lønn
-
-85,8
-
-85,9
-
-85,9
-
-85,8
-
-85,4
-
-85,1
-
-85,1
-
-84,7
-
-84,2
-
-84,1
-
-Arbeidsgiveravgift
-
-11,3
-
-11,3
-
-11,3
-
-11,3
-
-11,4
-
-11,5
-
-11,5
-
-11,6
-
-11,7
-
-11,7
-
-Pensjonskostnader mv.
-
-2,9
-
-2,8
-
-2,8
-
-2,9
-
-3,1
-
-3,4
-
-3,4
-
-3,7
-
-4,1
-
-4,2
-
-Offentlig forvaltning,
-Lønnskostnader per årsverk
-
-640,5 655,7 671,8 698,2 723,8 733,4 761,5 788,2 831,5 886,0
-
-Lønn
-
-76,8
-
-76,8
-
-76,7
-
-76,1
-
-75,7
-
-77,1
-
-75,6
-
-76,1
-
-75,7
-
-75,8
-
-Arbeidsgiveravgift
-
-11,2
-
-11,1
-
-10,8
-
-10,9
-
-10,9
-
-11,0
-
-11,0
-
-11,0
-
-11,6
-
-11,1
-
-Pensjonskostnader mv.
-
-12,5
-
-12,1
-
-12,7
-
-12,6
-
-13,0
-
-12,3
-
-12,3
-
-12,8
-
-12,7
-
-13,1
-
-[Side 228]
-
-226
-
-Vedlegg 6
-
-NOU 2025: 4
-Grunnlaget for inntektsoppgjørene 2025
-
-Tabell 6.5 Lønnskostnader per årsverk i 1 000 kroner, og fordeling på kostnadstype i prosent
-2015
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022
-
-2023*
-
-2024*
-
-Statsforvaltning
-Lønnskostnader per årsverk
-
-722,5 730,6 754,0 780,5 807,9 822,8 844,2 881,7 930,8 998,4
-
-Lønn
-
-75,9
-
-76,7
-
-76,2
-
-76,3
-
-76,1
-
-77,0
-
-76,7
-
-76,4
-
-76,1
-
-75,7
-
-Arbeidsgiveravgift
-
-11,4
-
-11,4
-
-10,8
-
-11,0
-
-11,2
-
-11,1
-
-11,3
-
-11,2
-
-11,7
-
-11,4
-
-Pensjonskostnader mv.
-
-12,7
-
-11,8
-
-13,0
-
-12,7
-
-12,7
-
-11,9
-
-12,0
-
-12,4
-
-12,1
-
-12,9
-
-Kommuneforvaltning
-Lønnskostnader per årsverk
-
-593,7 608,7 623,1 643,4 668,5 681,9 695,5 728,3 767,5 814,0
-
-Lønn
-
-76,9
-
-76,8
-
-76,8
-
-76,4
-
-75,8
-
-76,6
-
-76,2
-
-75,9
-
-75,4
-
-75,8
-
-Arbeidsgiveravgift
-
-10,9
-
-10,8
-
-10,8
-
-10,9
-
-10,8
-
-10,8
-
-11,0
-
-10,9
-
-11,4
-
-10,9
-
-Pensjonskostnader mv.
-
-12,2
-
-12,3
-
-12,4
-
-12,7
-
-13,3
-
-12,6
-
-12,8
-
-13,2
-
-13,2
-
-13,3
-
-* Foreløpige tall.
-Kilde: Nasjonalregnskapet, Statistisk sentralbyrå
-
-[Side 229]
-
-227
-
-NOU 2025: 4
-Grunnlaget for inntektsoppgjørene 2025
-
-Vedlegg 6
-
-Tabell 6.6 Utviklingen i lønnskostnader per årsverk fordelt på kostnadstype. Prosentvis vekst fra året før
-2015
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022
-
-2023*
-
-2024*
-
-Lønnskostnader per årsverk
-
-2,7
-
-1,2
-
-1,8
-
-3,1
-
-3,8
-
-1,8
-
-4,6
-
-4,7
-
-6,1
-
-5,1
-
-Lønn
-
-2,7
-
-1,5
-
-1,9
-
-2,9
-
-3,4
-
-2,2
-
-4,2
-
-4,3
-
-5,0
-
-5,4
-
-Arbeidsgiveravgift
-
-2,5
-
-1,0
-
-0,8
-
-3,4
-
-4,1
-
-1,5
-
-5,6
-
-4,6
-
-11,2
-
-3,6
-
-Pensjonskostnader mv.
-
-3,0
-
--0,6
-
-2,1
-
-4,5
-
-7,4
-
--0,9
-
-6,1
-
-8,5
-
-10,2
-
-4,5
-
-Lønnskostnader per årsverk
-
-2,6
-
-1,2
-
-1,5
-
-3,0
-
-3,8
-
-1,8
-
-5,9
-
-4,6
-
-6,4
-
-4,5
-
-Lønn
-
-2,7
-
-1,3
-
-1,8
-
-2,8
-
-3,5
-
-1,9
-
-5,6
-
-4,1
-
-5,0
-
-5,0
-
-Arbeidsgiveravgift
-
-2,5
-
-0,8
-
-1,3
-
-2,8
-
-4,0
-
-1,6
-
-6,5
-
-4,7
-
-11,2
-
-4,4
-
-Pensjonskostnader mv.
-
-1,9
-
-1,0
-
--1,8
-
-5,5
-
-7,3
-
-1,1
-
-7,7
-
-10,2
-
-14,5
-
--1,1
-
-Lønnskostnader per årsverk
-
-2,5
-
-1,6
-
-1,5
-
-2,4
-
-3,8
-
-0,2
-
-4,1
-
-4,2
-
-6,7
-
-5,1
-
-Lønn
-
-2,5
-
-1,5
-
-1,7
-
-2,4
-
-3,3
-
-0,5
-
-4,1
-
-3,6
-
-5,6
-
-5,6
-
-Arbeidsgiveravgift
-
-2,7
-
-1,0
-
-0,9
-
-2,5
-
-3,8
-
-0,1
-
-4,3
-
-4,5
-
-11,5
-
-3,5
-
-Pensjonskostnader mv.
-
-2,2
-
-4,2
-
--0,2
-
-2,6
-
-9,9
-
--3,0
-
-3,1
-
-11,2
-
-11,0
-
-2,8
-
-Lønnskostnader per årsverk
-
-2,8
-
-2,3
-
-2,7
-
-3,2
-
-4,1
-
-1,7
-
-6,4
-
-4,9
-
-4,8
-
-3,5
-
-Lønn
-
-3,1
-
-2,4
-
-2,7
-
-3,0
-
-3,9
-
-1,4
-
-6,0
-
-4,5
-
-3,8
-
-3,6
-
-Arbeidsgiveravgift
-
-1,8
-
-1,9
-
-2,6
-
-3,3
-
-4,4
-
-1,8
-
-6,9
-
-5,0
-
-8,2
-
-3,1
-
-Pensjonskostnader mv.
-
-0,2
-
-1,6
-
-2,3
-
-5,2
-
-7,2
-
-5,2
-
-11,4
-
-9,6
-
-11,0
-
-3,0
-
-Lønnskostnader per årsverk
-
-2,5
-
-0,8
-
-1,4
-
-4,6
-
-6,0
-
--8,2
-
-11,1
-
-9,6
-
-5,8
-
-6,5
-
-Lønn
-
-2,7
-
-0,9
-
-1,4
-
-4,4
-
-5,6
-
--8,6
-
-11,1
-
-9,1
-
-5,2
-
-6,4
-
-Arbeidsgiveravgift
-
-2,5
-
-0,5
-
-1,0
-
-4,8
-
-7,4
-
--7,7
-
-11,0
-
-10,6
-
-6,8
-
-6,5
-
-Pensjonskostnader mv.
-
--4,4
-
--1,3
-
-0,5
-
-9,0
-
-13,6
-
-1,7
-
-10,8
-
-19,6
-
-16,3
-
-9,3
-
-Lønnskostnader per årsverk
-
-3,4
-
-1,9
-
-2,7
-
-3,3
-
-3,7
-
-2,0
-
-2,3
-
-4,6
-
-5,5
-
-6,6
-
-Lønn
-
-3,3
-
-2,3
-
-2,3
-
-3,1
-
-3,2
-
-3,2
-
-1,8
-
-4,2
-
-4,9
-
-6,6
-
-Arbeidsgiveravgift
-
-3,5
-
-1,8
-
-0,1
-
-4,7
-
-4,0
-
-1,5
-
-4,3
-
-3,7
-
-10,6
-
-2,5
-
-Pensjonskostnader mv.
-
-3,9
-
--0,7
-
-7,1
-
-3,6
-
-6,9
-
--4,1
-
-3,6
-
-8,2
-
-4,4
-
-9,9
-
-Totalt
-
-Markedsrettet virksomhet
-Fastlands-Norge
-
-Industri
-
-Varehandel og reparasjon av
-motorvogner
-
-Overnatting og servering
-
-Offentlig forvaltning
-
-* Foreløpige tall.
-Kilde: Nasjonalregnskapet, Statistisk sentralbyrå
-
-[Side 230]
-
-[Side 231]
-
-Norges offentlige utredninger
-2024
-Arbeids- og inkluderingsdepartementet:
-NOU 2024: 3 Felles innsats mot ekstremisme:
-Bedre vilkår for det forebyggende arbeidet
-NOU 2024: 6 Grunnlaget for inntektsoppgjørene 2024
-NOU 2024: 11 Lavlønn i Norge
-NOU 2024: 13 Lov og frihet
-Digitaliserings- og for valtningsdepartementet:
-NOU 2024: 1 Definisjon og registrering av ideelle
-velferdsaktører
-NOU 2024: 14 Med lov skal data deles
-NOU 2024: 17 Kommersielle og ideelle aktørers rolle
-i fellesskapets velferdstjenester
-Finansdepartementet:
-NOU 2024: 16 Endringer i verdipapirhandelloven
-NOU 2024: 21 Trygge og enkle betalinger for alle
-NOU 2024: 22 Norske sparebanker – tradisjon og
-tilpasning
-Helse- og omsorgsdepartementet:
-NOU 2024: 18 En universell tannhelsetjeneste
-Justis- og beredskapsdepartementet:
-NOU 2024: 4 Voldtekt – et uløst samfunnsproblem
-NOU 2024: 5 Maktens ansikt
-NOU 2024: 12 Håndheving av mindre
-narkotikaovertredelser
-NOU 2024: 24 Prøvd på nytt
-
-Klima- og miljødepartementet:
-NOU 2024: 2 I samspill med naturen
-NOU 2024: 10 Ny motorferdsellov
-Kommunal- og distriktsdepartementet:
-NOU 2024: 19 Ny boligleielov
-NOU 2024: 23 Det tekniske beregningsutvalg for
-kommunal og fylkeskommunal økonomi
-Kultur- og likestillingsdepartementet:
-NOU 2024: 8 Likestillingens neste steg
-Kunnskapsdepartementet:
-NOU 2024: 20 Det digitale (i) livet
-Nærings- og fiskeridepartementet:
-NOU 2024: 9 Ny lov om offentlige anskaffelser
-– Andre delutredning
-Samferdselsdepartementet:
-NOU 2024: 15 En bedre regulert drosjenæring
-Utenriksdepartementet:
-NOU 2024: 7 Norge og EØS: Utvikling og erfaringer
-
-[Side 232]
-
-Bestilling av publikasjoner
-Departementenes sikkerhets- og serviceorganisasjon
-publikasjoner.dep.no
-Telefon: 22 24 00 00
-Publikasjonene er også tilgjengelige på
-www.regjeringen.no
-
-N
-VA
-
-E MER K
-
-Trykksak
-2041 0446
-
-E
-T
-
-S
-
-Trykk: Departementenes sikkerhets- og
-serviceorganisasjon – 03/2025
+Tabell 10.5 viser utvikling i grunnbeløpet, minstepensjonene, gjennomsnittlig alderspensjon og uføretrygd, samt reguleringen av løpende alderspensjon fra folketrygden.
+
+Grunnbeløp, pensjon og uføretrygd. Årlig gjennomsnitt. Prosentvis endring fra året før og gjennomsnittlig endring per år. 2015–2024
+
+13J1xt2
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+|----|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+|  | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2015–2024 | Gj. sn. per år<sup>1</sup> |
+| Grunnbeløp | 2,5 | 2,5 | 1,7 | 2,7 | 3,2 | 2,0 | 3,8 | 4,8 | 5,9 | 5,1 | 39,9 | 3,4 |
+| Minste pensjonsnivå/ alderspensjon for enslige | 2,0 | 2,8 | 3,3 | 3,6 | 3,2 | 4,1 | 5,8 | 5,3 | 8,7 | 4,6 | 52,7 | 4,3 |
+| Minste pensjonsnivå/ alderspensjon for ektepar/samboende | 2,0 | 2,9 | 3,1 | 2,5 | 2,5 | 1,4 | 3,9 | 4,1 | 6,9 | 4,6 | 39,4 | 3,4 |
+| Alderspensjon i gjennomsnitt | 2,2 | 2,5 | 1,9 | 2,3 | 2,7 | 1,5 | 4,2 | 4,5 | 7,0 | 3,1 | 36,8 | 3,2 |
+| Regulering av løpende alderspensjoner | 1,7 | 1,7 | 0,9 | 1,9 | 2,4 | 1,3 | 3,8 | 4,1 | 6,9 | 4,6 | 33,3 | 2,9 |
+| Uføretrygd i gjennomsnitt | 19,0<sup>2</sup> | 2,9 | 2,2 | 2,8 | 3,1 | 2,1 | 3,8 | 4,8 | 5,9 | 5,5 |  | 3,7<sup>3</sup> |
+| Memo: Samlet årslønnsvekst<sup>4</sup> | 2,8 | 1,7 | 2,3 | 2,8 | 3,5 | 3,1 | 3,5 | 4,3 | 5,2 | 5,7 | 40,8 | 3,5 |
+| Memo: KPI | 2,1 | 3,6 | 1,8 | 2,7 | 2,2 | 1,3 | 3,5 | 5,8 | 5,5 | 3,1 | 36,4 | 3,2 |
+
+<sup>1</sup> Geometrisk gjennomsnitt.
+
+<sup>2</sup> Den høye nominelle veksten skyldes uførereformen fra 2015. Innføring av lønnsbeskatning av uføretrygd ble kompensert med en økning i brutto uføreytelse.
+
+<sup>3</sup> Gjelder perioden 2015–2024, eksklusiv 2015.
+
+<sup>4</sup> Lønnsutviklingen slik den framkommer av kolonnen «Påløpt årslønn» i tabell 2.1.
+
+Kilder: Arbeids- og velferdsdirektoratet, Statistisk sentralbyrå og Beregningsutvalget
+
+Tabell 10.6 viser utviklingen i samlede lønns- og pensjonsinntekter for ulike aldersgrupper, og for henholdsvis alle og for mottakere av alderspensjon. I aldersgruppene 67 år og over mottar nesten alle alderspensjon, og utviklingen er dermed ganske parallell for de to gruppene. Over tid har veksten i samlede lønns- og pensjonsinntekter for aldersgruppene over 67 år vært noe høyere enn årslønnsveksten i økonomien, blant annet som en følge av stadig høyere pensjonsopptjening blant nye pensjonister.
+
+Utviklingen i samlede lønns- og pensjonsinntekter<sup>1</sup>. Årlig nominell vekst. Prosent
+
+10J2xt2
+
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 13%" />
+<col style="width: 1%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 13%" />
+</colgroup>
+<tbody>
+<tr>
+<td></td>
+<td colspan="4" style="text-align: center;">Alle</td>
+<td style="text-align: center;"></td>
+<td colspan="4" style="text-align: center;">Mottakere av alderspensjon fra folketrygden</td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: right;">62–66 år</td>
+<td style="text-align: right;">67–69 år</td>
+<td style="text-align: right;">70–74 år</td>
+<td style="text-align: right;">67 år og eldre</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">62–66 år</td>
+<td style="text-align: right;">67–69 år</td>
+<td style="text-align: right;">70–74 år</td>
+<td style="text-align: right;">67 år og eldre</td>
+</tr>
+<tr>
+<td>2013</td>
+<td style="text-align: right;">8,6</td>
+<td style="text-align: right;">3,7</td>
+<td style="text-align: right;">5,1</td>
+<td style="text-align: right;">4,9</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">3,8</td>
+<td style="text-align: right;">4,0</td>
+<td style="text-align: right;">5,1</td>
+<td style="text-align: right;">4,8</td>
+</tr>
+<tr>
+<td>2014</td>
+<td style="text-align: right;">6,8</td>
+<td style="text-align: right;">1,6</td>
+<td style="text-align: right;">4,7</td>
+<td style="text-align: right;">4,5</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">2,4</td>
+<td style="text-align: right;">1,9</td>
+<td style="text-align: right;">4,6</td>
+<td style="text-align: right;">4,5</td>
+</tr>
+<tr>
+<td>2015</td>
+<td style="text-align: right;">5,2</td>
+<td style="text-align: right;">-2,5</td>
+<td style="text-align: right;">2,9</td>
+<td style="text-align: right;">3,0</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">1,5</td>
+<td style="text-align: right;">-2,7</td>
+<td style="text-align: right;">2,9</td>
+<td style="text-align: right;">3,0</td>
+</tr>
+<tr>
+<td>2016</td>
+<td style="text-align: right;">3,2</td>
+<td style="text-align: right;">-1,6</td>
+<td style="text-align: right;">2,6</td>
+<td style="text-align: right;">2,7</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">2,2</td>
+<td style="text-align: right;">-1,8</td>
+<td style="text-align: right;">2,6</td>
+<td style="text-align: right;">2,7</td>
+</tr>
+<tr>
+<td>2017</td>
+<td style="text-align: right;">3,1</td>
+<td style="text-align: right;">-1,4</td>
+<td style="text-align: right;">1,8</td>
+<td style="text-align: right;">2,5</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">2,0</td>
+<td style="text-align: right;">-1,6</td>
+<td style="text-align: right;">1,8</td>
+<td style="text-align: right;">2,5</td>
+</tr>
+<tr>
+<td>2018</td>
+<td style="text-align: right;">3,6</td>
+<td style="text-align: right;">0,6</td>
+<td style="text-align: right;">1,9</td>
+<td style="text-align: right;">3,0</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">2,6</td>
+<td style="text-align: right;">0,3</td>
+<td style="text-align: right;">1,9</td>
+<td style="text-align: right;">2,9</td>
+</tr>
+<tr>
+<td>2019</td>
+<td style="text-align: right;">4,4</td>
+<td style="text-align: right;">3,5</td>
+<td style="text-align: right;">2,7</td>
+<td style="text-align: right;">3,4</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">3,5</td>
+<td style="text-align: right;">3,4</td>
+<td style="text-align: right;">2,7</td>
+<td style="text-align: right;">3,4</td>
+</tr>
+<tr>
+<td>2020</td>
+<td style="text-align: right;">1,6</td>
+<td style="text-align: right;">2,1</td>
+<td style="text-align: right;">1,2</td>
+<td style="text-align: right;">2,1</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">1,9</td>
+<td style="text-align: right;">1,2</td>
+<td style="text-align: right;">2,0</td>
+</tr>
+<tr>
+<td>2021</td>
+<td style="text-align: right;">4,9</td>
+<td style="text-align: right;">4,3</td>
+<td style="text-align: right;">4,1</td>
+<td style="text-align: right;">4,6</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">3,9</td>
+<td style="text-align: right;">4,2</td>
+<td style="text-align: right;">4,1</td>
+<td style="text-align: right;">4,5</td>
+</tr>
+<tr>
+<td>2022</td>
+<td style="text-align: right;">5,2</td>
+<td style="text-align: right;">4,8</td>
+<td style="text-align: right;">4,4</td>
+<td style="text-align: right;">4,7</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">4,1</td>
+<td style="text-align: right;">4,8</td>
+<td style="text-align: right;">4,7</td>
+<td style="text-align: right;">4,8</td>
+</tr>
+<tr>
+<td>2023</td>
+<td style="text-align: right;">5,5</td>
+<td style="text-align: right;">6,5</td>
+<td style="text-align: right;">6,4</td>
+<td style="text-align: right;">6,8</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">5,4</td>
+<td style="text-align: right;">6,6</td>
+<td style="text-align: right;">6,6</td>
+<td style="text-align: right;">7,0</td>
+</tr>
+<tr>
+<td>Antall personer i 2023</td>
+<td style="text-align: right;">309 531</td>
+<td style="text-align: right;">172 406</td>
+<td style="text-align: right;">257 003</td>
+<td style="text-align: right;">915 481</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">84 510</td>
+<td style="text-align: right;">162 059</td>
+<td style="text-align: right;">254 223</td>
+<td style="text-align: right;">898 640</td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup> Summen av lønns- og pensjonsinntekter. Pensjonsinntekter omfatter alderspensjon, offentlig og privat tjenestepensjon og AFP.
+
+Kilde: Statistisk sentralbyrå
+
+For gruppen «alle» i aldersgruppen 62–66 år har veksten vært høyere enn for de som er mottakere av alderspensjon fra folketrygden. Utviklingen har sammenheng med at stadig flere i denne aldersgruppen kombinerer arbeid og alderspensjon.
+
+Figur 10.1 viser prosentvis realvekst i gjennomsnittlig samlet inntekt og inntektskomponentenes del av endringen i perioden 2013–2023.
+
+For aldersgruppen 62–66 år er det økt yrkesinntekt som har bidratt sterkest til økningen i samlet inntekt. Også for aldersgruppen 67–69 år har yrkesinntekt i stor grad bidratt til økningen i samlet inntekt. For de over 75 år er det økning i alderspensjon som har bidratt mest til veksten i samlet inntekt. Kapitalinntekter har også bidratt vesentlig til inntektsveksten for alle aldersgruppene opp til 85 år. At det har vært en økning i kapitalinntektene i perioden kan bety at gjelden har gått ned, og at nettoformuen er høyere enn tilsvarende for 2013. Videre vil rentenivået og aksjeavkastningen ha betydning for kapitalinntektene.
+
+Prosentvis realvekst i samlet inntekt før skatt og inntektskomponentenes del av endringen 2013–2023
+
+Kilde: Statistisk sentralbyrå.
+
+Tabell 10.7 viser veksten i gjennomsnittlig utbetalt alderspensjon og uføretrygd som *ikke* har yrkesinntekt i tillegg til pensjon/trygd. I gjennomsnitt over perioden 2013–2023 har veksten i alderpensjon vært høyest, mens veksten i uføretrygd har vært noe høyere enn årslønnsveksten. Det er da sett bort fra 2015 hvor uførereformen gav en svært høy vekst i utbetalt uføretrygd.
+
+Utvikling i gjennomsnittlig utbetalt alderspensjon og uføretrygd til bosatte personer som ikke har yrkesinntekt. Prosent endring fra året før og andel av alderspensjonister og uføretrygdede som ikke har yrkesinntekt. 2013–2023
+
+06J1xt2
+
+<table>
+<colgroup>
+<col style="width: 7%" />
+<col style="width: 14%" />
+<col style="width: 11%" />
+<col style="width: 14%" />
+<col style="width: 26%" />
+<col style="width: 24%" />
+</colgroup>
+<tbody>
+<tr>
+<td></td>
+<td style="text-align: right;">Alderspensjon</td>
+<td style="text-align: right;">Uføretrygd</td>
+<td style="text-align: right;">Samlet<br />
+årslønnsvekst</td>
+<td style="text-align: right;">Andel av alderspensjonister som ikke har yrkesinntekt.</td>
+<td style="text-align: right;">Andel av uføretrygdede som ikke har yrkesinntekt</td>
+</tr>
+<tr>
+<td>2013</td>
+<td style="text-align: right;">4,1</td>
+<td style="text-align: right;">2,5</td>
+<td style="text-align: right;">3,9</td>
+<td style="text-align: right;">0,74</td>
+<td style="text-align: right;">0,66</td>
+</tr>
+<tr>
+<td>2014</td>
+<td style="text-align: right;">4,5</td>
+<td style="text-align: right;">2,6</td>
+<td style="text-align: right;">3,1</td>
+<td style="text-align: right;">0,73</td>
+<td style="text-align: right;">0,66</td>
+</tr>
+<tr>
+<td>2015</td>
+<td style="text-align: right;">2,8</td>
+<td style="text-align: right;">19,5<sup>1</sup></td>
+<td style="text-align: right;">2,8</td>
+<td style="text-align: right;">0,72</td>
+<td style="text-align: right;">0,66</td>
+</tr>
+<tr>
+<td>2016</td>
+<td style="text-align: right;">3,3</td>
+<td style="text-align: right;">3,9</td>
+<td style="text-align: right;">1,8</td>
+<td style="text-align: right;">0,72</td>
+<td style="text-align: right;">0,67</td>
+</tr>
+<tr>
+<td>2017</td>
+<td style="text-align: right;">2,5</td>
+<td style="text-align: right;">1,9</td>
+<td style="text-align: right;">2,3</td>
+<td style="text-align: right;">0,73</td>
+<td style="text-align: right;">0,67</td>
+</tr>
+<tr>
+<td>2018</td>
+<td style="text-align: right;">2,8</td>
+<td style="text-align: right;">2,6</td>
+<td style="text-align: right;">2,8</td>
+<td style="text-align: right;">0,73</td>
+<td style="text-align: right;">0,67</td>
+</tr>
+<tr>
+<td>2019</td>
+<td style="text-align: right;">2,8</td>
+<td style="text-align: right;">3,9</td>
+<td style="text-align: right;">3,5</td>
+<td style="text-align: right;">0,72</td>
+<td style="text-align: right;">0,66</td>
+</tr>
+<tr>
+<td>2020</td>
+<td style="text-align: right;">1,8</td>
+<td style="text-align: right;">3,0</td>
+<td style="text-align: right;">3,1</td>
+<td style="text-align: right;">0,74</td>
+<td style="text-align: right;">0,68</td>
+</tr>
+<tr>
+<td>2021</td>
+<td style="text-align: right;">4,6</td>
+<td style="text-align: right;">3,7</td>
+<td style="text-align: right;">3,5</td>
+<td style="text-align: right;">0,75</td>
+<td style="text-align: right;">0,68</td>
+</tr>
+<tr>
+<td>2022</td>
+<td style="text-align: right;">4,3</td>
+<td style="text-align: right;">4,5</td>
+<td style="text-align: right;">4,3</td>
+<td style="text-align: right;">0,75</td>
+<td style="text-align: right;">0,68</td>
+</tr>
+<tr>
+<td>2023</td>
+<td style="text-align: right;">7,1</td>
+<td style="text-align: right;">6,0</td>
+<td style="text-align: right;">5,2</td>
+<td style="text-align: right;">0,74</td>
+<td style="text-align: right;">0,68</td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup> Den høye nominelle veksten skyldes uførereformen fra 2015. Innføring av lønnsbeskatning av uføretrygd ble kompensert med en økning i brutto uføreytelse.
+
+Kilde: Statistisk sentralbyrå.
+
+Regelverksendringer på pensjonsområdet
+
+Innledning
+
+Det samlede pensjonssystemet består av alderspensjon fra folketrygden, tjenestepensjoner (pensjoner opptjent i arbeidsforhold) inkludert avtalefestet pensjon (AFP) samt individuell pensjonssparing. Hovedkomponentene i folketrygdens alderspensjon etter gammel opptjeningsmodell, er grunnpensjon, særtillegg/pensjonstillegg og tilleggspensjon. Fra 2016 er den nye alderspensjonen bestående av inntektspensjon og garantipensjon faset gradvis inn for personer født fra og med 1954. Personer født 1963 og senere er fullt ut omfattet av de nye opptjeningsreglene.
+
+Mellom 2011 og 2020 ble alderspensjon under utbetaling regulert med lønnsveksten og deretter fratrukket 0,75 prosent. I 2021 ble alderpensjon regulert særskilt i tråd med lønnsveksten, og fra og med 2022 reguleres alderspensjon under utbetaling med gjennomsnittet av lønns- og prisvekst. Historisk har gjennomsnittlig alderspensjon økt mer enn grunnbeløpet fordi pensjonister med høy opptjening har kommet til og erstattet pensjonister med lav opptjening som har falt fra. I de siste årene har denne effekten blitt svakere fordi mange har tatt ut pensjon fra 62 år og dermed fått lavere årlig pensjon.
+
+Som følge av reguleringsreglene for alderspensjon fra 2011, fastsettes satsene for minste pensjonsnivå for alderspensjonister med et kronebeløp. Satsene for minstenivåene ble i perioden 2011–2020 regulert med lønnsveksten justert for effekten av levealdersjusteringen for 67-åringer i reguleringsåret. Særskilte økninger i satsene har likevel forekommet en rekke ganger etter 2015. I 2021 ble minste pensjonsnivå regulert særskilt i tråd med lønnsveksten, på samme måte som for løpende alderspensjon. Fra 2022 reguleres minstenivåene med gjennomsnittet av pris- og lønnsvekst. Minste pensjonsnivå for alderspensjon per 1. mai 2024 utgjør 192 984 kroner for lav sats (gift med alderspensjonist med høy tilleggspensjon), 223 358 kroner for ordinær sats (gift med minstepensjonist) og 264 134 kroner for særskilt sats (enslig).
+
+Personer født 1963 og senere får garantipensjon som minste pensjonsytelse, istedenfor minstepensjon. For personer født mellom 1954 og 1962 blir minstepensjonen gradvis erstattet av garantipensjon. Garantipensjonen har to satser: ordinær sats og høy sats. Garantipensjon reguleres på samme måte som minste pensjonsnivå. Fra 1. mai 2024 er ordinær sats for garantipensjon 216 226 kroner (gjelder for personer med partner som har trygd, alderspensjon eller årlig inntekt større enn 2 G). Høy sats er 233 746 kroner (gjelder for enslige og personer med partner hvis partneren verken har trygd, alderspensjon samt årlig inntekt større enn 2 G).
+
+Ny folketrygd og privat AFP
+
+Fra 2011 ble alderpensjonen i folketrygden lagt om. Det ble blant annet innført fleksibelt uttak av pensjon fra 62 år, levealdersjustering og nye regler for årlig regulering av pensjon. Samtidig ble AFP i privat sektor tilpasset den nye folketrygden ved at den ble omgjort fra en tidligpensjonsordning for alderen 62–66 år til et livsvarig tillegg til alderspensjonen fra folketrygden. Etter hovedoppgjøret i 2018 ble det gjort enkelte endringer i ordningen. Det har også blitt gjennomført en felles utredning om en mulig omlegging av ordningen. I hovedoppgjøret 2018 ble det også avtalt en sliterordning som utbetaler ekstra ytelse til de som tar ut AFP ved 62–64 år uten arbeidsinntekt ved siden av. Det første årskullet som kunne søke om slitertillegg er de født i 1957. Disse mottok 1/7 av full ytelse. Senere årskull blir tillagt ytterligere 1/7 av ytelsen, frem til 1963-kullet som får full ytelse. Full årlig ytelse tilsvarer 0,25 G.
+
+Privat tjenestepensjon
+
+Også tjenestepensjonene er i endring. Økte kostnader og arbeidsgivernes ønske om mer forutsigbare pensjonskostnader har ført til sterk vekst i antall arbeidstakere i privat sektor som omfattes av innskuddsordninger. Ytelsesordningene, som tidligere dominerte det private tjenestepensjonsmarkedet, har i all hovedsak blitt avviklet eller lukket. Innføringen av obligatorisk tjenestepensjon (OTP) i 2006 medførte at antall innskuddsordninger økte kraftig, særlig blant bedrifter som ikke hadde pensjonsordning tidligere. Fra 2014 trådte den nye tjenestepensjonsloven i kraft med regler for en ny type tjenestepensjon i privat sektor, ofte kalt «hybrid» fordi den kombinerer elementer fra innskudds- og ytelsespensjon. Det er foreløpig etablert relativt få pensjonsordninger basert på det nye regelverket for hybridpensjon, men etter 2020 har det vært flere aktive medlemmer i hybridordningene enn i ytelsesordningene.
+
+Fra 1. januar 2021 fikk om lag 1,5 millioner arbeidstakere i privat sektor samlet sin pensjonsopptjening fra innskuddspensjonsordninger på en egen pensjonskonto. Ved utløpet av 2024 var det ifølge Finans Norge etablert mer enn 2,1 mill. pensjonskontoer. Egen pensjonskonto innebærer at arbeidstakere som er ansatt i en bedrift med innskuddspensjonsordning, skal få samlet sin tidligere pensjonsopptjening fra innskuddspensjonsordninger på én pensjonskonto. Pensjonsopptjening fra tidligere arbeidsforhold skal samles og forvaltes sammen med pensjonskapitalen arbeidstakeren tjener opp i sitt nåværende arbeidsforhold. Pensjonskontoen skal følge arbeidstakeren gjennom de arbeidsforhold der arbeidstakeren har innskuddspensjonsordning. Formålet med egen pensjonskonto er å gi arbeidstakerne reduserte kostnader til pensjonssparing og mer oversikt over egen pensjon.
+
+Reglene om pensjon fra første krone og dag trådte i kraft 1. januar 2022, og innebærer blant annet at det stilles krav om at det skal spares minst 2 prosent av medlemmers inntekt fra første krone i alle private tjenestepensjonsordninger. Det tidligere kravet om 20 prosent stilling for rett på medlemskap i ordningene er opphevet. Aldersgrensen for medlemskap er satt ned fra 20 til 13 år som i folketrygden. Ansatte får rett på medlemskap i ordningene når inntekten overstiger grensene for rapporteringspliktig lønn i a-ordningen. Denne grensen er som hovedregel på 2 000 kroner, men er 10 000 kroner for skattefrie organisasjoner mv.
+
+Offentlig tjenestepensjon
+
+Arbeids- og sosialdepartementet og partene i offentlig sektor kom 3. mars 2018 til enighet om en ny pensjonsløsning for offentlig ansatte basert på opptjening etter en såkalt påslagsmodell.
+
+Departementet fulgte opp med en lovproposisjon våren 2019. De nye opptjeningsreglene trådte i kraft 1. januar 2020 og gjelder for offentlig ansatte født i 1963 eller senere.
+
+I pensjonsavtalen i offentlig sektor heter det videre ny offentlig AFP utformes etter mønster av den private AFP-ordningen. Departementet fulgte opp dette med et lovforslag om ny AFP for medlemmer av Statens pensjonskasse, som ble vedtatt av Stortinget 21. mars 2024. Ny offentlig AFP gjelder for offentlig ansatte født i 1963 eller senere.
+
+Arbeids- og inkluderingsdepartementet og partene i offentlig sektor ble 25. august 2023 enige om nye pensjonsregler for offentlig ansatte med særaldersgrense. Avtalen innebærer at pensjonsalderen for de som har særaldersgrense skal økes gradvis i takt med øvrige aldersgrenser i pensjonssystemet. Det innføres også et nytt særalderspåslag som kommer til utbetaling i tillegg til de ordinære pensjonsytelsene. Yrkesgruppene med de laveste aldersgrensene, 60 og 63 år, beholder også rett til en tidligpensjon i et visst antall år før utbetalingen av ordinære pensjonsytelser starter. Arbeids- og inkluderingsdepartementet og partene i offentlig sektor ble 13. januar 2025 enige om en endring sammenlignet med avtalen fra august 2023 som innebærer et høyere fribeløp før tidligpensjon blir avkortet mot inntekt fra ikke medlemspliktig stilling.
+
+Antall minstepensjonister
+
+Siden 2011 har minstepensjonister hatt en litt bedre utvikling i pensjonen enn alderspensjonister med høyere pensjon. Økt minste pensjonsnivå, særlig for enslige, og økt grunnpensjon for gifte/samboende førte til at minstepensjonen både for enslige og ektepar økte mer enn lønnsveksten i både 2016 og 2017. Disse endringene førte også til at flere blir omfattet av minstesatsene. Arbeids- og velferdsdirektoratet har anslått at økningene i minstepensjon i 2016 og i 2017, herunder også økt grunnpensjon for gifte og samboende i 2016, medførte tilnærmet 25 000 flere minstepensjonister. Økningen i minste pensjonsnivå i 2019 og 2021 medførte en ytterligere økning på henholdsvis om lag 12 000 og 9 800 minstepensjonister.
+
+Selv om økningen i minstesatsene isolert sett har ført til flere minstepensjonister, har antall minstepensjonister gått ned i mange år. Det skyldes dels at yngre kull av alderspensjonister har mer opptjening til alderspensjon enn de eldre kullene, dels de nye opptjeningsreglene for alderspensjon som omfatter stadig flere personer. Per desember 2024 var det 121 170 minstepensjonister. Minstepensjonistene utgjorde 11,4 prosent av alle alderspensjonister i desember 2024. Andelen kvinner med minstepensjon har falt gradvis fra om lag 87 prosent i desember 2014 til om lag 83 prosent i desember 2024. For menn har andelen økt fra om lag 13 prosent i 2014 til om lag 17 prosent i 2024.
+
+Uføretrygd
+
+Etter uførereformen i 2015 utgjør uføretrygden 66 prosent av et beregningsgrunnlag som består av et gjennomsnitt av årsinntekten opp til 6 G for de tre beste av de fem siste årene før uførhet. Uføretrygden justeres i forhold til uføregraden. Ved lavt eller intet beregningsgrunnlag mottas en garantert minsteytelse fra folketrygden. Minsteytelsen for uføretrygdede etter økningen fra 1. juli 2024 er 2,529 G for enslige og 2,329 G for ektefeller/samboere. Personer som er født uføre eller blir uføre i ung alder har en høyere minsteytelse, 2,959 G for enslige og 2,709 G for ektefeller/samboere. Uføre som forsørger barn mottar barnetillegg. Uføretrygden skattlegges som lønn. I desember 2024 var det 97 522 personer som mottok minsteytelse i uføretrygden.
+
+Per september 2024 var det ifølge NAV 18,0 prosent av de med utbetaling av uføretrygd som var registrert med et arbeidsforhold. Før uførereformen i 2015 ble uføregraden revurdert og trygdeutbetalingene redusert dersom arbeidsinntekten overskred en friinntekt på 1 G. De nye reglene fra 2015 innebærer at arbeidsinntekt over en fastsatt inntektsgrense fører til reduksjon av uføretrygden, men uten at uføregraden blir revurdert. For personer med 100 prosent uføregrad er inntektsgrensen 0,4 G. For de med gradert uføretrygd fastsettes en individuell inntektsgrense. Dersom inntekten blir høyere enn 80 prosent av inntekt før uførhet, blir det ikke utbetalt uføretrygd det aktuelle året.
+
+Omleggingen av uføreytelsen i folketrygden gjorde det nødvendig å tilpasse uføreytelsene fra tjenestepensjonsordningene. Uførepensjon fra de offentlige tjenestepensjonsordningene beregnes fra 2015 som et direkte tillegg til uføretrygden fra folketrygden og er uavhengig av størrelsen på uføretrygden. Fra 1. januar 2017 følger alle uføreordninger i privat sektor nytt regelverk, som innebærer at det i hovedsak vil være mulig å gi uføredekning på linje med den nye uføreordningen i offentlig sektor. Det er imidlertid fortsatt frivillig for foretak i privat sektor om de vil knytte uførepensjon til tjenestepensjonsordningen og i hvilken grad de vil utnytte rammene i loven.
+
+Reform av ytelser til etterlatte
+
+Stortinget vedtok 10. desember 2020 en reform av folketrygdens etterlatteytelser. Omleggingen av etterlatteytelsene er en del av pensjonsreformen, og følger opp Etterlatteutvalgets utredning (NOU 2017: 3). De nye reglene trådte i kraft 1. januar 2024, og innebærer at ytelsen til voksne etterlatte under 67 år er endret til en tidsavgrenset omstillingsstønad med aktivitetsplikt, der formålet er at den etterlatte skal bli selvforsørget. Personer som mottok gjenlevendepensjon ved utgangen av 2023 vil som hovedregel kunne beholde denne i inntil tre år, tilsvarende som for nye tilfeller som får innvilget den nye omstillingsstønaden. Videre blir særreglene for å beregne uføretrygd og alderspensjon til etterlatte faset ut. Ytelsen til etterlatte barn (barnepensjon) er styrket og regelverket for ytelsen er forenklet.
+
+\[Boks slutt\]
+
+Tabell 10.8 viser gjennomsnittlig nivå og nominell vekst i alderspensjon fra folketrygden for ulike aldersgrupper de siste ti årene. Tabellen viser at den nominelle veksten i gjennomsnittlig alderspensjon avtok i årene 2012–2017. I årene 2018–2021 økte den, med unntak av i 2020, hvor veksten var den laveste i tiårsperioden. Nye alderspensjonister har gjennomgående høyere pensjonsopptjening enn de som faller fra. Nye uttaksregler trekker isolert sett pensjonene ned. Økt innslag av pensjonister med kort botid og yrkeskarriere i Norge som har tjent opp lavere pensjoner trekker også ned pensjonsnivået. For nye alderspensjonister bidrar levealdersjusteringen isolert sett til lavere alderspensjon og denne effekten øker for nye årskull.
+
+Etter pensjonsreformen i 2011 og fram til 2019 var veksten i gjennomsnittlig alderspensjon lavere i aldersgruppene 62–66 år og 67–69 år enn for gruppen 70–74 år. Denne utviklingen må ses i sammenheng med innfasingen av mulighet for tidlig uttak av alderspensjon. 1949-kullet var 61 år ved inngangen til 2011, og dermed første årskull som kunne ta ut alderspensjon fra fylte 62 år.
+
+I årene 2016–2018 (da 1949-kullet var i alderen 67–69 år) var veksten særlig lav i gruppen 67–69 år. Det må ses i sammenheng med at denne kohorten erstattet en kohort som ikke hadde hatt mulighet for tidlig uttak av alderspensjon. Veksten i alderspensjon for gruppen 70–74 år lå over gjennomsnittet for alle i perioden 2012–2016, men har vært lavere de senere årene. De som mottar alderspensjon i aldersgruppen 62–66 år har betydelige yrkesinntekter, og mange fortsetter i arbeid samtidig som de tar ut alderspensjon. Ifølge tall fra Arbeids- og velferdsdirektoratet var 59,2 prosent av alderspensjonister 62–66 år registrert med et arbeidsforhold ved slutten av 2023. På samme tidspunkt i 2022 var andelen 58,7 prosent.
+
+Gjennomsnittlig samlet inntekt for de som kombinerer arbeid og uttak av alderspensjon er høy. På den annen side får de som tar ut alderspensjon før 67 år en lavere årlig alderspensjon resten av livet enn om de hadde ventet til 67 år.
+
+Utvikling i gjennomsnittlig årlig alderspensjon<sup>1</sup> fra NAV før skatt, nivå og prosentvis årlig nominell vekst
+
+15J2xt2
+
+<table>
+<colgroup>
+<col style="width: 7%" />
+<col style="width: 10%" />
+<col style="width: 6%" />
+<col style="width: 2%" />
+<col style="width: 10%" />
+<col style="width: 6%" />
+<col style="width: 2%" />
+<col style="width: 10%" />
+<col style="width: 6%" />
+<col style="width: 2%" />
+<col style="width: 10%" />
+<col style="width: 6%" />
+<col style="width: 2%" />
+<col style="width: 10%" />
+<col style="width: 6%" />
+</colgroup>
+<tbody>
+<tr>
+<td></td>
+<td colspan="2" style="text-align: center;">Alle mottakere</td>
+<td style="text-align: center;"></td>
+<td colspan="2" style="text-align: center;">62–66 år</td>
+<td style="text-align: center;"></td>
+<td colspan="2" style="text-align: center;">67–69 år</td>
+<td style="text-align: center;"></td>
+<td colspan="2" style="text-align: center;">70–74 år</td>
+<td style="text-align: center;"></td>
+<td colspan="2" style="text-align: center;">67 år og eldre</td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: right;">Alders-pensjon. Kroner</td>
+<td style="text-align: right;">Årlig vekst. Pst.</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">Alders-pensjon. Kroner</td>
+<td style="text-align: right;">Årlig vekst. Pst.</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">Alders-pensjon. Kroner</td>
+<td style="text-align: right;">Årlig vekst. Pst.</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">Alders-pensjon. Kroner</td>
+<td style="text-align: right;">Årlig vekst. Pst.</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">Alders-pensjon. Kroner</td>
+<td style="text-align: right;">Årlig vekst. Pst.</td>
+</tr>
+<tr>
+<td>2012</td>
+<td style="text-align: right;">202 946</td>
+<td style="text-align: right;">4,7</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">212 546</td>
+<td style="text-align: right;">0,5</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">219 306</td>
+<td style="text-align: right;">4,4</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">209 184</td>
+<td style="text-align: right;">5,0</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">202 247</td>
+<td style="text-align: right;">4,7</td>
+</tr>
+<tr>
+<td>2013</td>
+<td style="text-align: right;">210 831</td>
+<td style="text-align: right;">3,9</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">213 426</td>
+<td style="text-align: right;">0,4</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">226 296</td>
+<td style="text-align: right;">3,2</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">218 688</td>
+<td style="text-align: right;">4,5</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">210 594</td>
+<td style="text-align: right;">4,1</td>
+</tr>
+<tr>
+<td>2014</td>
+<td style="text-align: right;">218 589</td>
+<td style="text-align: right;">3,7</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">215 579</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">231 716</td>
+<td style="text-align: right;">2,4</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">228 496</td>
+<td style="text-align: right;">4,5</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">218 901</td>
+<td style="text-align: right;">3,9</td>
+</tr>
+<tr>
+<td>2015</td>
+<td style="text-align: right;">224 140</td>
+<td style="text-align: right;">2,5</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">216 930</td>
+<td style="text-align: right;">0,6</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">234 310</td>
+<td style="text-align: right;">1,1</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">235 662</td>
+<td style="text-align: right;">3,1</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">224 952</td>
+<td style="text-align: right;">2,8</td>
+</tr>
+<tr>
+<td>2016</td>
+<td style="text-align: right;">229 724</td>
+<td style="text-align: right;">2,5</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">219 906</td>
+<td style="text-align: right;">1,4</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">235 936</td>
+<td style="text-align: right;">0,7</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">242 496</td>
+<td style="text-align: right;">2,9</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">230 848</td>
+<td style="text-align: right;">2,6</td>
+</tr>
+<tr>
+<td>2017</td>
+<td style="text-align: right;">234 247</td>
+<td style="text-align: right;">2,0</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">222 705</td>
+<td style="text-align: right;">1,3</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">236 060</td>
+<td style="text-align: right;">0,1</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">247 076</td>
+<td style="text-align: right;">1,9</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">235 554</td>
+<td style="text-align: right;">2,0</td>
+</tr>
+<tr>
+<td>2018</td>
+<td style="text-align: right;">239 630</td>
+<td style="text-align: right;">2,3</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">226 327</td>
+<td style="text-align: right;">1,6</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">237 481</td>
+<td style="text-align: right;">0,6</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">251 591</td>
+<td style="text-align: right;">1,8</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">241 104</td>
+<td style="text-align: right;">2,4</td>
+</tr>
+<tr>
+<td>2019</td>
+<td style="text-align: right;">246 090</td>
+<td style="text-align: right;">2,7</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">231 101</td>
+<td style="text-align: right;">2,1</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">242 074</td>
+<td style="text-align: right;">1,9</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">255 638</td>
+<td style="text-align: right;">1,6</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">247 697</td>
+<td style="text-align: right;">2,7</td>
+</tr>
+<tr>
+<td>2020</td>
+<td style="text-align: right;">249 877</td>
+<td style="text-align: right;">1,5</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">232 913</td>
+<td style="text-align: right;">0,8</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">245 353</td>
+<td style="text-align: right;">1,4</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">256 055</td>
+<td style="text-align: right;">0,2</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">251 628</td>
+<td style="text-align: right;">1,6</td>
+</tr>
+<tr>
+<td>2021</td>
+<td style="text-align: right;">259 725</td>
+<td style="text-align: right;">3,9</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">239 577</td>
+<td style="text-align: right;">2,9</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">254 253</td>
+<td style="text-align: right;">3,6</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">262 542</td>
+<td style="text-align: right;">2,5</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">261 707</td>
+<td style="text-align: right;">4,0</td>
+</tr>
+<tr>
+<td>2022</td>
+<td style="text-align: right;">271 365</td>
+<td style="text-align: right;">4,5</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">247 785</td>
+<td style="text-align: right;">3,4</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">264 002</td>
+<td style="text-align: right;">3,8</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">271 583</td>
+<td style="text-align: right;">3,4</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">273 554</td>
+<td style="text-align: right;">4,5</td>
+</tr>
+<tr>
+<td>2023</td>
+<td style="text-align: right;">290 231</td>
+<td style="text-align: right;">7,1</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">261 888</td>
+<td style="text-align: right;">5,7</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">279 647</td>
+<td style="text-align: right;">5,9</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">288 539</td>
+<td style="text-align: right;">6,2</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">292 733</td>
+<td style="text-align: right;">7,0</td>
+</tr>
+<tr>
+<td>2024</td>
+<td style="text-align: right;">299 137</td>
+<td style="text-align: right;">3,1</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">270 127</td>
+<td style="text-align: right;">3,1</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">287 341</td>
+<td style="text-align: right;">2,8</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">295 804</td>
+<td style="text-align: right;">2,5</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">301 574</td>
+<td style="text-align: right;">3,0</td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup> Tallene er korrigert for uttaksgrad ved at de er omregnet til 100 prosent utbetalt pensjon. Gjennomsnittlig alderspensjon omfatter ikke etterbetalinger.
+
+Kilde: Arbeids- og velferdsdirektoratet
+
+Pensjonsforliket
+
+Regjeringen la 15. desember 2023 fram Meld. St. 6 (2023–2024) *Et forbedret pensjonssystem med en styrket sosial profil*. I meldingen sluttet regjeringen seg i all hovedsak til forslagene fra flertallet i Pensjonsutvalget i NOU 2022: 7 Et forbedret pensjonssystem. Hovedformålet med forslagene i meldingen var å styrke den sosiale profilen i folketrygdens alderspensjon.
+
+29\. februar 2024 ble det inngått en avtale mellom regjeringspartiene, Arbeiderpartiet og Senterpartiet, og partiene Høyre, Sosialistisk Venstreparti, Venstre, Kristelig Folkeparti og Miljøpartiet De Grønne om pensjonssystemet. Hovedelementene i avtalen er bl.a.:
+
+- Aldersgrensene i folketrygden skal økes i tråd med forslaget i Meld. St. 6 (2023–2024). Dette innebærer en gradvis økning av aldersgrensene fra og med 1964-kullet.
+
+- Sosiale rettigheter som sykepenger, dagpenger og AAP utvides i tråd med endringen av normert pensjonsalder, dvs. at den øvre alderen slike ytelser kan mottas til økes i takt med økningen av aldersgrensene i folketrygden.
+
+- Det skal etableres en sliterordning i folketrygden. Ordningen skal etableres etter modell av sliterordningen i privat AFP og ha en årlig ytelse på 0,25 G for de som går av fem år før normert pensjonsalder og trappes gradvis ned ved høyere avgangsalder. Partene skal involveres i utformingen av sliterordningen.
+
+- Plikten til å fratre ved oppnådd særaldersgrense gjeninnføres ikke. Hvilke stillinger som i fremtiden skal ha særaldersgrenser, samt hvilke aldersgrenser som skal gjelde, avklares i en egen prosess, som avtalt med partene.
+
+- Den alminnelige aldersgrensen for statsansatte og andre medlemmer i Statens pensjonskasse økes fra 70 til 72 år
+
+- Det skal også utredes tiltak for å gjøre det lettere å stå videre i arbeid utover de ordinære aldergrensene i aldersgrenseloven (staten) og arbeidsmiljøloven, herunder vurdere bedriftsinterne aldersgrenser.
+
+- Alderspensjonen til uføre skal styrkes i tråd med forslaget i Meld. St. 6 (2023–2024). Dette innebærer i utgangspunktet at uføre skjermes for 2/3-deler av effekten av levealdersjusteringen, og at uføres videre skjerming skal speile yrkesaktives avgangsmønster.
+
+- Det skal etableres en overgangsordning for uføre i kullene 1954–1962. Overgangsordningen skal ivareta kullene som ikke har skjermingstillegg i den delen av pensjon som utmåles etter gamle regler.
+
+- Minsteytelsene skal reguleres i tråd med forslaget i Meld. St. 6 (2023–2024). Dette innebærer at minstesatsene skal G-reguleres, samtidig som alle løpende ytelser skal reguleres med gjennomsnittet av lønns- og prisvekst. Regulering med snitt av lønns- og prisvekst etter uttak, sikrer at de som mottar minsteytelsene i likhet med andre pensjonister, får økt kjøpekraft når lønnsmottagerne får det.
+
+- Det skal utarbeides en helhetlig strategi for informasjon på pensjonsområdet.
+
+- Grensen for individuell sparing til pensjon med skattefradrag, IPS, skal økes til minst 25 000 kroner.
+
+- Pensjonssystemet skal evalueres om lag hvert tiende år, for å følge med på utviklingen i systemets sosiale og økonomiske bærekraft.
+
+### Realvekst etter skatt i pensjon og trygd
+
+Husholdninger med eldre personer har hatt en sterk samlet realvekst i inntekt etter skatt de siste tiårene. Figur 10.2 viser at den reelle medianinntekten etter skatt økte mer for husholdninger med personer over 65 år enn for husholdninger samlet i perioden 1990–2023. Endringer i sammensetningen av gruppen er en viktig forklaring på dette. Stadig flere alderspensjonister har opptjent rettigheter til tilleggspensjon. I tillegg er det etter pensjonsreformen blitt mer vanlig med yrkesinntekt blant mottakere av alderspensjon. For alle husholdninger under ett økte median realinntekt etter skatt med 2,4 prosent fra 2022 til 2023. For par uten barn hvor eldste person var 65 år eller eldre og aleneboende 65 år og eldre økte median realinntekt etter skatt med hhv. 3,5 prosent og 4,3 prosent fra 2022 til 2023. For alle husholdninger under ett er det lønnsinntekt og overføringer/pensjoner som har økt mest fra 2022 til 2023. For aleneboende over 65 år og par uten barn hvor eldste person er over 65 er det kapitalinntekter og overføringer/pensjoner som har økt mest.
+
+Medianinntekt etter skatt for ulike husholdningstyper. Indeks i faste priser. 1990=100. 1990–2023
+
+Kilde: Statistisk sentralbyrå.
+
+En måte å måle inntektsfordeling på er å dele befolkningen inn i ulike grupper basert på størrelsen på inntekten, og måle hvordan inntekten i de forskjellige gruppene har utviklet seg. En ofte brukt grupperingsenhet er en desilfordeling. En desilfordeling for samlet inntekt betyr at populasjonen er delt i 10 grupper, slik at hver gruppe inneholder like mange personer. Desil 1 referer da til den gruppen med de 10 prosentene med lavest inntekt, desil 2 refererer til de 10 prosentene med nest lavest inntekt, osv.
+
+Figur 10.3 viser at det har vært realvekst i median inntekt etter skatt for alle desiler for aldersgruppen 62 år og eldre fra 2013 til 2023. Økningen i inntekt etter skatt har vært sterk i de fem nederste desilene og for de to øverste desilene i denne perioden. At realveksten har vært sterkest for de med lavest samlet inntekt, reflekterer trolig en økning i minstepensjonen i perioden. At realveksten i samlet inntekt har vært sterkt blant de med høyest samlet inntekt, kan fange opp at en del høytlønnede kombinerer full jobb og full pensjon.
+
+Realvekst i median samlet inntekt før og etter skatt for personer 62 år og eldre. Prosent 2013–2023.
+
+Kilde: Statistisk sentralbyrå.
+
+Tabell 10.9 viser beregnet vekst i utbetalt pensjon og realvekst etter skatt for ulike husholdningstyper som mottar alderspensjon eller uføretrygd. Minste pensjonsnivå økte med 4,6 prosent både for enslige med minste pensjonsnivå og pensjonistektepar med minste pensjonsnivå i 2024. Realvekst i pensjonsinntekt etter skatt var 1,4 prosent for begge grupper.
+
+Pensjonistenes inntektsforhold bestemmes også av tilleggspensjon (inntektspensjon i ny alderspensjon) fra folketrygden, andre pensjonsordninger og andre inntekts- og formuesforhold. Tabellen inneholder derfor også beregninger for enslige alderspensjonister med pensjon på henholdsvis 300 000 kroner og 600 000 kroner og for pensjonistektepar med en samlet inntekt på 650 000 kroner og 850 000 kroner. I beregningene forutsettes det at disse husholdningene kun har alderspensjon (inkludert tjenestepensjon) som inntekt og ikke betaler skatt på formue. Dette tilsvarer forutsetningene som ligger til grunn i tabell 10.3, jf. boks 10.1.
+
+Den nominelle veksten i alderspensjonene svarer til den årlige reguleringen av alderspensjon fra folketrygden. Fra 2022 blir alderspensjon under utbetaling regulert med gjennomsnittet av lønns- og prisvekst.
+
+Etter skatt var det en reell vekst i pensjonsinntekt i 2024 på 1,6 prosent for enslige med 300 000 kroner i alderspensjon.
+
+Beregnet realvekst i pensjon og trygd etter skatt for utvalgte husholdningstyper. Vekst i prosent fra året før
+
+06J2tx2
+
+<table>
+<colgroup>
+<col style="width: 13%" />
+<col style="width: 40%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+</colgroup>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2" style="text-align: center;">2023</td>
+<td colspan="2" style="text-align: center;">2024</td>
+</tr>
+<tr>
+<td>Pensjon/trygd i 2024 (kr)</td>
+<td>Familiesituasjon</td>
+<td style="text-align: right;">Nominell vekst</td>
+<td style="text-align: right;">Realvekst etter skatt</td>
+<td style="text-align: right;">Nominell vekst</td>
+<td style="text-align: right;">Realvekst etter skatt</td>
+</tr>
+<tr>
+<td>306 158</td>
+<td>Enslig ufør, minsteytelse</td>
+<td style="text-align: right;">5,9</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">6,2</td>
+<td style="text-align: right;">2,8</td>
+</tr>
+<tr>
+<td>563 425</td>
+<td>Ektepar ufør, begge har minsteytelse</td>
+<td style="text-align: right;">5,9</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">6,3</td>
+<td style="text-align: right;">2,9</td>
+</tr>
+<tr>
+<td>261 769</td>
+<td>Enslig minstepensjonist</td>
+<td style="text-align: right;">8,7</td>
+<td style="text-align: right;">3,1</td>
+<td style="text-align: right;">4,6</td>
+<td style="text-align: right;">1,4</td>
+</tr>
+<tr>
+<td>442 716</td>
+<td>Ektepar, begge har minstepensjon</td>
+<td style="text-align: right;">6,9</td>
+<td style="text-align: right;">1,3</td>
+<td style="text-align: right;">4,6</td>
+<td style="text-align: right;">1,4</td>
+</tr>
+<tr>
+<td>300 000</td>
+<td>Enslig alderspensjonist<sup>1</sup></td>
+<td style="text-align: right;">6,9</td>
+<td style="text-align: right;">2,0</td>
+<td style="text-align: right;">4,6</td>
+<td style="text-align: right;">1,6</td>
+</tr>
+<tr>
+<td>600 000</td>
+<td>Enslig alderspensjonist<sup>1</sup></td>
+<td style="text-align: right;">6,9</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">4,6</td>
+<td style="text-align: right;">1,5</td>
+</tr>
+<tr>
+<td>650 000</td>
+<td>Ektepar med alderspensjon hvor den ene har 400 000 kroner og den andre har 250 000 kroner<sup>1</sup></td>
+<td style="text-align: right;">6,9</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">4,6</td>
+<td style="text-align: right;">1,5</td>
+</tr>
+<tr>
+<td>850 000</td>
+<td>Ektepar hvor den ene har 550 000 kroner og den andre har 300 000 kroner<sup>1</sup></td>
+<td style="text-align: right;">6,9</td>
+<td style="text-align: right;">1,3</td>
+<td style="text-align: right;">4,6</td>
+<td style="text-align: right;">1,5</td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup> Nominell vekst er lik gjennomsnittet av pris og lønnsvekst.
+
+Kilde: Beregningsutvalget
+
+For enslige uføre økte realverdien av minsteytelsen med 2,8 prosent etter skatt, mens den økte med 2,9 prosent for ektepar/samboende der begge har minsteytelse i 2024.
+
+### Endringer i de særskilte skattereglene for pensjonister fra 2024 til 2025
+
+AFP- og alderspensjonister får et skattefradrag, som i 2025 utgjør maksimalt 36 000 kroner, mens det i 2024 var på 34 350 kroner. Størrelsen på skattefradraget justeres årlig slik at personer som kun har minstepensjon som inntekt, ikke betaler inntektsskatt. Skattefradraget trappes ned mot pensjonsinntekt over to trinn. I 2025 er innslagspunktet på det første trinnet 276 400 kroner, og nedtrappingssatsen er 16,7 prosent. Det betyr at skattefradraget reduseres med 16,7 øre per pensjonskrone som mottas over 276 400 kroner. På det andre trinnet er innslagspunktet 422 950 kroner i 2025, og nedtrappingssatsen er 6,0 prosent. Det betyr at skattefradraget reduseres med 6 øre per pensjonskrone som mottas over 422 950 kroner. Disse satsene gjør at skattefradraget fases helt ut ved en pensjonsinntekt på 616 000 kroner (forutsatt at skattyter har standard fradrag). Skattefradraget fastsettes uavhengig av ektefellens inntekt.
+
+Trygdeavgift på pensjon har vært 5,1 prosent siden 2014. Satsen i minstefradraget i pensjonsinntekt er 40 prosent i 2025, uendret fra 2024. Den øvre grensen i minstefradraget for pensjonsinntekt er redusert fra 86 250 kroner i 2024 til 73 150 kroner i 2025.

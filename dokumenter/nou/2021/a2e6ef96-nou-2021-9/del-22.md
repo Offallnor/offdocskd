@@ -1,913 +1,198 @@
-# NOU 2021: 9, del 22 av 36 (side 241–250)
+# NOU 2021: 9, del 22 av 42
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2021/a2e6ef96-nou-2021-9.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2021-9/id2862895/
 - Original-PDF: https://www.regjeringen.no/contentassets/7b8fb44f93a4402981ed7f279b345dbe/no/pdfs/nou202120210009000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 tabeller, 28 figurer, 239 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 241]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-Ikke alle som utfører arbeid skal eller ønsker å
-være arbeidstakere. Et annet vurderingstema for
-utvalget har vært om enkelte oppdragstakere likevel kan ha behov for enkelte rettigheter eller vern
-som i utgangspunktet er forbeholdt arbeidstakere.
-Muligheten for å forhandle kollektivt har utpekt
-seg som det mest relevante spørsmålet, og
-behandles i dette kapitlet. Det vises for øvrig til
-kapittel 14 nedenfor som vurderer behovet for
-utvidelse av visse arbeidsgiverplikter, særlig knyttet til arbeidsmiljø og medvirkning, også overfor
-selvstendige oppdragstakere.
-
-10.2 Vurdering av utfordringsbildet
-10.2.1 Utgangspunkter for vurderingen
-Fast ansettelse mellom en arbeidstaker og en
-arbeidsgiver er et sentralt element i den norske
-arbeidslivsmodellen. Etter utvalgets vurdering er
-det av stor betydning at omgåelser og feilklassifisering av arbeidstakere unngås. Dette gjelder
-både når feilklassifisering skyldes uklarhet rundt
-grensedragningen, men ikke minst når feilklassifisering skyldes bevisste omgåelser for å unngå
-regler eller oppnå økonomiske fordeler. Regelverket må også støtte opp om de sentrale elementene
-i den norske arbeidslivsmodellen.
-Det er likevel viktig og nødvendig å legge til
-rette for at de personer som ønsker det, kan jobbe
-som selvstendige oppdragstakere. Ikke minst er
-det viktig å legge til rette for næringsvirksomhet,
-innovasjon og gründerskap, både med tanke på
-verdiskapning og sysselsetting. Om det i en tenkt
-situasjon skulle skje stor vekst i andelen selvstendige sammenlignet med andelen ansatte, ville det
-kunne få betydning også på samfunnsnivå, for
-eksempel ved at en nedgang i andel ansatte kan
-føre til at organisasjonsgraden går ned og trepartssamarbeidet svekkes. Dette er imidlertid på
-kort og mellomlang sikt en lite sannsynlig utvikling. Norge har en lav andel selvstendige sammenlignet med andre land. Det er ikke grunn til å tro
-at det samlede omfanget av selvstendige vil innebære utfordringer for den norske arbeidslivsmodellen, men eventuelle omgåelser og feilklassifiseringer av reelle arbeidstakere som selvstendige vil
-være uheldig og uønsket. Utvalget mener derfor
-det er et viktig mål at andelen som befinner seg i
-en gråsone mellom arbeidstaker og oppdragstaker med uklar status er færrest mulig. Uklarhet
-og tvil rundt arbeidstakerstatus er uheldig for
-begge parter i kontraktsforholdet.
-Utvalget vil i det følgende vurdere om det er
-behov for endringer i arbeidstakerbegrepet. Utval-
-
-239
-
-Kapittel 10
-
-get vil særlig vurdere endringsbehov i lys av nåsituasjonen i arbeidslivet, relevante utviklingstrekk som kan utfordre arbeidstakerbegrepet
-også i tiden fremover, samt om arbeidstakerbegrepet isolert sett er tilstrekkelig tydelig, hensiktsmessig og tilpasningsdyktig både for dagens og
-framtidens arbeidsliv, jf. mandatet.
-
-10.2.2 Vurdering av tilstanden
-Slik utvalget ser det, kan det være mange faktorer
-som spiller inn på utvikling og omfang av ulike tilknytningsformer, herunder andelen selvstendige
-oppdragstakere. Blant annet kan det ha betydning
-hvordan velferdsordningene er innrettet, konjunktursituasjonen, samt nivået på sysselsetting og
-arbeidsledighet. Videre kan ulike faktorer, som
-for eksempel teknologisk utvikling, legge til rette
-for at man velger alternative tilknytningsformer.
-Regelverk kan også antas å ha betydning for valg
-av tilknytningsform.
-Utvalget konstaterer at hovedbildet viser stabilitet i bruken av de ulike tilknytningsformene i
-norsk arbeidsliv. Andelen selvstendige har blitt
-noe lavere de siste 20–25 årene, jf. punkt 5.2. De
-aller fleste som utfører arbeid i Norge, har status
-som arbeidstaker. Utvalget viser imidlertid til at
-man ser en endring med hensyn til hvilke bransjer
-de selvstendige befinner seg i. Det er en dreining
-fra primæryrkene til andre næringer som IKT,
-undervisning, kultur og personlige tjenester.
-Andelen selvstendige har gått tydelig ned over tid
-i alle næringer bortsett fra personlig tjenesteyting,
-inkludert kulturell virksomhet, hvor den mest
-vanlige tilknytningsformen er å være selvstendig
-næringsdrivende, jf. punkt 5.2.3. Videre er de
-fleste som utfører arbeid gjennom digitale plattformer selvstendige, men så langt er omfanget
-begrenset, jf. punkt 5.3.2. Omsetningen i de kunnskapsbaserte plattformene er imidlertid økende.
-Etter utvalgets syn er det positivt og viktig å
-ivareta muligheten til å kunne være selvstendig og
-skape sin egen arbeidsplass. Dette er viktig for
-omstillingsevnen, ikke minst i perioder med høy
-arbeidsledighet. Gründervirksomhet kan skape
-nye arbeidsplasser for andre. Som påpekt i regjeringens perspektivmelding (Meld. St. 14 (2020–
-2021)) er et sterkt, mangfoldig og omstillingsdyktig næringsliv avgjørende for Norges vekstevne
-og for et godt velferdsnivå i fremtiden. Det forutsetter evne til omstilling, innovasjon og nyskapning både i bedrifter og hos den enkelte arbeidstaker. Samtidig er det viktig å være oppmerksom på
-omgåelser av arbeidstakerbegrepet, slik man har
-sett i enkelte andre land, og slik Arbeidstilsynet
-
-[Side 242]
-
-240
-
-Kapittel 10
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-avdekker tilfeller av også her i landet, jf. punkt
-5.7.2. I Norge utgjør imidlertid ikke omfanget av
-selvstendige i seg selv en utfordring. Utvalget oppfordrer likevel myndighetene til å følge utviklingen nøye.
-Utvalget viser til at de selvstendige er en sammensatt gruppe. En finner både flere med kort
-utdanning og flere med lang utdanning sammenlignet med de sysselsatte for øvrig. Andelen selvstendige er høyest blant de med kort utdanning,
-men blant kvinner er det mange med lang utdanning.
-Utvalget viser videre til at undersøkelser tyder
-på at de fleste er selvstendige etter eget valg. I en
-undersøkelse blant selvstendige i 2017 svarte
-rundt 70 prosent at de selv hadde ønsket å bli selvstendig, mens om lag 20 prosent svarte at de heller ville vært lønnstaker om de hadde mulighet til
-å velge (SSB/Eurostat). Det var en høy andel som
-svarte at de var fornøyde med jobben, og en høyere andel av de selvstendige sa seg «svært fornøyd» sammenlignet med lønnstakere.
-Utvalget viser til omtalen i punkt 5.6 foran om
-hvilke forskjeller en finner for personer som utfører arbeid med alternative tilknytningsformer
-sammenlignet med arbeidstakere med en fast
-ansettelse. For de selvstendige kan særlig følgende trekkes frem:
-– Personer som arbeider som selvstendige skårer høyest når det gjelder motivasjon (93 prosent) og jobbtilhørighet (96 prosent) i Levekårsundersøkelsen (LKU) 2019. Det er en overvekt blant selvstendige som først og fremst ser
-sitt arbeid som en kilde til utvikling og utfoldelse, og som sier at det er helt nødvendig at de
-får bruke sin fantasi og kreativitet i arbeidet.
-– Selvstendige er den gruppen som arbeider flest
-timer i løpet av en uke.
-– Det er relativt lite vanlig blant selvstendige å
-være fagorganisert, men innen enkelte profesjonsgrupper som leger, tannleger, psykologer,
-veterinærer, jurister og ingeniører er det betydelig grad av organisering. Akademikerne opplyser at bortimot ti prosent av deres medlemmer er næringsdrivende. I YS Arbeidslivsbarometer svarte 25 prosent blant de selvstendige
-at de var organisert (69 prosent samlet). I LKU
-er gruppen «konsulenter» særskilt skilt ut.
-Dette kan være selvstendige, men også ansatte
-i en virksomhet som arbeider for andre gjennom entreprisekontrakter. For dem var organisasjonsgraden lik andre, men langt færre er
-omfattet av tariffavtaler. Tariffavtaledekningen
-er imidlertid lav også for arbeidstakere innen
-IKT, rådgivning mv.
-
-–
-
-–
-–
-
-Selvstendige har i gjennomsnitt høyere inntekt
-enn fast ansatte. Det er imidlertid store forskjeller i gruppen, og over tid er det blitt flere
-selvstendige i den nedre delen av inntektsfordelingen og færre i den øvre delen.
-Selvstendige svarer oftere enn fast ansatte at
-de sannsynligvis er i samme jobb og samme
-bransje om fem år.
-Det er forskjeller mellom arbeidstakere og
-selvstendige når det gjelder enkelte trygde- og
-pensjonsrettigheter og selvstendige kan oppleve større usikkerhet rundt sitt sikkerhetsnett, og større behov for å spare selv.
-
-Etter utvalgets vurdering indikerer disse funnene
-at selvstendige er tilfredse med sin arbeidssituasjon. Det er særlig positivt at de selvstendige skårer høyt på motivasjon og jobbtilhørighet.
-Det å være selvstendig innebærer større grad
-av frihet og større muligheter til inntjening, samtidig som det også innebærer høyere risiko. Tradisjonelt velger gjerne personer med høy kompetanse innenfor en del yrker med lang utdanning,
-som for eksempel advokat, veterinær, lege eller
-tannlege, å være selvstendig. Enkeltyrkene med
-høyest andel selvstendige er tømrere/snekkere,
-frisører og musikere. Utvalget ser at dette i mange
-tilfeller er en hensiktsmessig tilknytning både for
-den enkelte og for samfunnet.
-Utvalgets flertall, medlemmene Fougner, Dahle,
-Kastet, Olsen, Salvanes, Stokland, Sverdrup Svendsen og Tinnlund, ser imidlertid flere potensielle
-utfordringer på dette området. Det ene knytter
-seg til omgåelser. Det er problematisk dersom
-virksomheter kommer i en bedre konkurransemessig posisjon enn andre ved å kutte kostnader
-gjennom omgåelser av regelverket. Det er også
-problematisk dersom personer ikke har andre
-sysselsettingsvalg enn å inngå oppdragskontrakter, eller presses ut av ansettelsesforhold og inn i
-oppdragsforhold, med tap av vern og rettigheter,
-dersom det i realiteten foreligger et arbeidsforhold. De negative sidene ved dette forsterkes
-ytterligere dersom det er tale om personer med
-marginal tilknytning til arbeidsmarkedet, med
-liten utdanning og lav inntekt, som antas å stå i
-større fare for utnyttelse og med mindre sjanse for
-å utfordre arbeidstakerstatusen rettslig. Flertallet
-kommer tilbake til dette nedenfor i punkt 10.2.4.
-Flertallet peker i denne sammenheng også på at
-rundt 20 prosent av de selvstendige oppgir at de
-heller ville vært arbeidstaker om de hadde mulighet til å velge, og at det over tid har blitt flere selvstendige i den nedre delen av inntektsfordelingen
-og færre i den øvre delen.
-
-[Side 243]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-Utvalgets mindretall, medlemmene Almestrand, Brandshaug Dale, Juliussen og Spjelkavik,
-viser til sin merknad i punkt 10.3.3.
-Det andre knytter seg til gråsoneproblematikk. Utvalget mener det er særlig grunn til å være
-oppmerksomme på personer som befinner seg i
-en gråsone mellom arbeidstaker og oppdragstaker med uklar status. Med «gråsone» mener utvalget oppdragstakere som har likhetstrekk med
-arbeidstakere, og som av denne grunn kan oppleve skjevhet i avtaleforholdet. Hotvedt mfl.
-(2020b side 30) omtaler gråsonekontrakter som
-kontraktsforhold som inneholder både avhengige
-og uavhengige elementer, og viser til at arbeidstakervurderingen i slike tilfeller er kompliserte og
-vanskelige å forutse. OECD viser til at denne
-gruppen kan oppleve elementer av avhengighet
-og/eller underordning, men fordi de klassifiseres
-som selvstendige, vil de generelt sett ikke dra
-nytte av beskyttelsen arbeidslovgivningen gir for
-arbeidstakere, slik som kollektiv forhandlingsrett,
-sosial beskyttelse og lik tilgang til opplæring. I
-ytterste konsekvens står man igjen med risikoen,
-uten å dra fordelene av mulighetene for inntjening
-og fleksibilitet som selvstendige normalt har.
-Det å identifisere og tallfeste hvor mange som
-befinner seg i den såkalte gråsonen, og dermed
-angi omfanget på problemet, er imidlertid ikke
-helt enkelt. Ei heller å si noe om forventet fremtidig utvikling.
-Én bekymring som er uttrykt, blant annet fra
-OECD, er tilfeller hvor selvstendig næringsdrivende er avhengig av én enkeltkunde eller oppdragsgiver, som kan innebære så sterk tilknytning
-og avhengighet, at kontraktsforholdet i realiteten
-ligner et arbeidsforhold. OECD viser til at situasjoner hvor oppdragstakere blir avhengige av en
-dominerende oppdragsgiver, kan føre til ubalanse
-mellom partene, med større forhandlingsmakt for
-oppdragsgiver, noe som kan føre til lavere inntjening gjennom lavere etterspørsel etter arbeid.
-Dette refereres ofte til som arbeidsmarkedsmonopsoni. En undersøkelse fra 2017 som ble
-gjennomført av SSB/Eurostat tyder på at det i
-Norge er få som kan regnes som avhengige selvstendige og en noe større gruppe som er økonomisk avhengige av en dominerende kunde, jf.
-punkt 5.2.4. En undersøkelse gjennomført av
-Respons Analyse for Akademikerne i 2021 viser at
-60 prosent av de selvstendige oppgir at de har et
-større antall kunder/oppdragsgivere, 11 prosent
-sier at de hovedsakelig jobber for én kunde/oppdragsgiver. 24 prosent oppgir at de hovedsakelig
-har to til fem faste kunder/oppdragsgivere.
-
-241
-
-Kapittel 10
-
-Opplysninger som er innhentet fra Skatteetaten viser at det er om lag 27 000 personer som er
-det de karakteriserer som «selvstendig næringsdrivende uten fast forretningssted». Disse personene utfører oppdrag for en lang rekke oppdragsgivere, med hovedvekt innen kultursektoren,
-offentlige tjenester, forretningsmessig tjenesteyting og primærnæringene. I denne gruppen kan
-det imidlertid også være arbeidstakere som har
-biinntekter fra oppdrag.
-En gruppe som ofte blir brukt som eksempel
-på «gråsone»-arbeidere, er personer som utfører
-arbeid gjennom digitale plattformer, se blant
-annet Hotvedt mfl. (2020b, side 70). Disse finnes i
-en rekke former. Her er rene selvstendige, som
-bruker plattformen som et sted blant annet for
-markedsføring. Disse kan bruke oppdragskontrakter via tjenester som yelpi.no, luado.no og lignende. Videre er det dem som yter tjenester for
-eksempel gjennom matbestillingsplattformer, som
-sykkelbudene til Foodora, som er arbeidstakere,
-jf. punkt 5.3. Også mer tradisjonell virksomhet
-innenfor tjenesteytende sektor kan ha «gråsonearbeidere», eksempler finnes i transportbransjen
-og treningssenterbransjen. Delingsøkonomiutvalget viste i NOU 2017: 4 punkt 5.2.1.2 til at det er
-«stor variasjon mellom de forskjellige plattformene når det gjelder ytelsen, grad av styring fra
-plattformeier eller kunde, krav til utførelsen og
-annen oppfølging, vilkår for å tilknytte seg plattformen, varighet og omfang av tilknytningen osv.»
-Det kan derfor ikke sies noe generelt om arbeidstakerstatusen til plattformarbeidere i Norge, men
-den må vurderes fra sak til sak. Spørsmålet er så
-langt heller ikke prøvd for norske domstoler.
-Grunnen til at denne gruppen gjerne blir omtalt å
-befinne seg i gråsonen, kan være at de tradisjonelle momentene for å avklare arbeidstakerstatus
-gjerne peker i begge retninger, eller at de tradisjonelle momentene ikke passer så godt. I Hotvedt
-(2016b, side 499) ble det foretatt en rettslig analyse av om oppdragsavtalene i Uber var arbeidsavtaler. Hotvedts analyse viste at de tradisjonelle
-momentene pekte i begge retninger i dette tilfellet:
-Etter min vurdering ligger sjåføravtalene nær
-arbeidsavtaler. Realitetene under utførelsen av
-arbeidet tilsier isolert sett at arbeidsavtalens
-primærforpliktelser er til stede. Under utførelsen av oppdragene er arbeidsplikten strengt
-personlig, og sjåførene styres i betydelig grad.
-Når sjåføren er pålogget, er det den personlige
-arbeidskraften som stilles til rådighet. Det som
-i første rekke skaper tvil, er at kontrakten – i
-
-[Side 244]
-
-242
-
-NOU 2021: 9
-
-Kapittel 10
-
-Den norske modellen og fremtidens arbeidsliv
-
-hvert fall formelt – åpner for bruk av medhjelpere og gir frihet til å bestemme hvor ofte og
-hvor lenge man vil være pålogget. Et viktig
-spørsmål er derfor hvor reell friheten er. Det
-varierer antakelig sterkt fra sjåfør til sjåfør.
-Denne type plattformarbeid kjennetegnes også av
-at personene som utfører arbeid gjennom digitale
-plattformer ofte har liten innflytelse på prisen på
-tjenesten de leverer, dette blir gjerne fastsatt av
-plattformen. De kan også mangle individuell forhandlingsmakt for å forhandle egne vilkår. Både
-EU og OECD viser til at dette er forhold som kan
-begrunne kollektiv forhandlingsrett for denne
-gruppen.1
-Utvalget viser til at selv om arbeid gjennom
-digitale plattformer er et forholdsvis nytt fenomen
-muliggjort av den teknologiske utviklingen, er
-ikke problemstillingen vedrørende klassifiseringsutfordringene ny. På 1980- og 1990-tallet ble det
-avsagt flere avgjørelser om hvorvidt bud- og transportarbeidere skulle anses som næringsdrivende
-eller lønnstakere i relasjon til merverdiavgiftsloven og/eller skatteloven.2 Sakene ble vurdert
-konkret med ulikt utfall, og det kan ikke utledes
-noe generelt med tanke på klassifisering av sjåfører. Sakene er likevel interessante fordi de viser at
-tilsvarende vanskelige grensespørsmål som plattformøkonomien reiser i dag, har eksistert lenge.
-Ett eksempel er Borgarting lagmannsretts
-dom av 8. mai 1996. Flertallet mente at budbilsjåføren var næringsdrivende, og viste blant annet til
-at partenes valg av oppdragsforhold som tilknytningsform måtte tillegges vekt. Flertallet la dessuten «betydelig vekt» på at budbilsjåføren ikke var
-sikret transportoppdrag, samt pliktig til selv å
-holde driftsmiddelet, altså stille med egen bil.
-Mindretallet kom på sin side til at budbilsjåføren
-var lønnstaker, og viste blant annet til arbeidsinstruksens bestemmelser om arbeidstid, ferie,
-utbetaling av vederlag mv., at budbilsjåføren var
-pliktig til å stå til disposisjon for oppdragsgiver når
-sentralen var åpen, og at eventuell bruk av vikar
-måtte godkjennes av oppdragsgiver. Etter mindretallets syn innebar disse forholdene i praksis at
-oppdragsgiver hadde «faglig og organisasjonsmessig instruksjonsmyndighet over [A], og han
-har liten innflytelse på virksomheten», og dessu1
-2
-
-Se OECD (2019) og Europakommisjonens Inception
-Impact Assessment Ref. Ares(2021)102652 – 06/01/2021.
-Hålogaland lagmannsrett 18. desember 1986, Eidsivating
-lagmannsrett 25. februar 1991, Borgarting lagmannsrett 8.
-mai 1996.
-
-ten at kontraktsforholdet ikke tok sikte på å være
-av forbigående art.
-Utvalget viser til at det således ikke er noe nytt
-at personer kan befinne seg i en gråsone mellom
-arbeidstaker og oppdragstaker.
-Per i dag er det ganske få personer som utfører arbeid innenfor plattformøkonomien i Norge,
-jf. ovenfor. Delingsøkonomiutvalgets flertall
-mente at det verken var grunn til å utvide, innsnevre eller presisere arbeidstakerbegrepet når
-det gjaldt plattformarbeid. Flertallet viste blant
-annet til at den begrensede utbredelsen av
-delingsøkonomien og på dette stadiet i utviklingen, ikke kunne peke på behov for endringer, jf.
-NOU 2017: 4 punkt 5.5.2. Mindretallet viste på sin
-side til at «delingsøkonomien har potensiale til å
-vokse raskt og omfatte mange flere arbeidstakere
-enn i dag», og at det «er viktig å være i forkant
-med å avklare rammebetingelsene for aktørene i
-delingsøkonomien». Mindretallet foreslo derfor at
-det ble nedsatt et «lovutvalg som skal vurdere
-arbeidsmiljølovens begrepsapparat». Dette utvalget er et slikt utvalg.
-Plattformbegrepet dekker plattformer med
-ulike kjennetegn. Plattform er ikke et homogent
-begrep. En viktig del av denne vurderingen er i
-hvilken grad plattformeier på egen hånd kan fastsette tjenestepris- og vilkår overfor de som tilbyr
-sine tjenester via plattformen. I Storbritannia har
-Høyesterett nylig avgjort at Ubersjåfører skal
-anses som «workers», jf. punkt 5.3.3.3 Her kom
-domstolen til at sjåførene var i en underordnet og
-avhengig posisjon i relasjon til Uber, på en slik
-måte at de hadde lite eller ingen mulighet til å forbedre sin økonomiske posisjon gjennom faglige
-eller entrepenørskapende ferdigheter. Denne type
-særtrekk ved avtalerelasjonen synes i mindre
-grad å fanges opp i det gjeldende arbeidstakerbegrepet vi har i Norge i dag, eller det kan i hvert fall
-fremstå uklart om slike forhold kan og bør vektlegges i grensevurderingen.
-Etter utvalgets vurdering kan det være et
-poeng i seg selv at man i en tidlig fase av utviklingen foretar de nødvendige avklaringer, for å sikre
-en større klarhet og forutsigbarhet for denne
-gruppens status, både av hensyn til de som utfører arbeid og til plattformene selv. Utvalget viser
-til at det er flere pågående prosesser i EU som
-berører regulering og rettigheter for plattformarbeidere, som i sin tur kan innebære behov for
-regelendringer i norsk rett på sikt, jf. kapittel 6.
-3
-
-«Workers» er en mellomkategori mellom arbeidstaker og
-selvstendig oppdragstaker.
-
-[Side 245]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-Det er likevel noe ulike syn i utvalget. Utvalgets flertall, medlemmene Fougner, Dahle, Kastet,
-Olsen, Salvanes, Stokland, Sverdrup Svendsen og
-Tinnlund, mener at utbredelsen av nye forretningsvirksomheter ikke kan være grunnlag for
-fraskrivelse av arbeidsgiveransvar og hvem som
-skal omfattes av arbeidstakerbegrepet. Oppdragsforhold som etter en helhetsvurdering i praksis
-bærer preg av underordning, avhengighet og
-skjevhet i styrkeforholdet, må klassifiseres som
-arbeidstakerforhold uavhengig av om arbeidet
-formidles gjennom en digital plattform eller i mer
-tradisjonelle former. Etter hva flertallet kan forstå,
-også i lys av rettsavgjørelser fra andre land, er det
-sannsynlig at enkelte plattformarbeidere i dag er
-feilklassifiserte som oppdragstakere og at de dermed reelt sett er arbeidstakere. Flertallet mener
-det er behov for klargjøring, slik at det for denne
-gruppen blir lettere å avklare klassifiseringsspørsmålet.
-Mindretallet, medlemmene Almestrand, Brandshaug Dale, Juliussen og Spjelkavik, viser til sin
-merknad i punkt 10.3.3.
-Utvalget er enige om at andelen personer i gråsonen mellom arbeidstaker og oppdragstaker
-med uklar status bør være så liten som mulig,
-både innenfor og utenfor plattformøkonomien.
-Det vises for øvrig til vurderingene som fremgår av punkt 10.3 nedenfor.
-
-10.2.3 Vurdering av utviklingstrekk
-En rekke utviklingstrekk og drivkrefter påvirker
-norsk arbeidsliv på ulike måter, hver for seg og
-sammen, jf. punkt 4.1. Teknologiendringer er kanskje det utviklingstrekket som i størst grad har
-endret, og vil kunne endre, måtene vi jobber og
-samhandler på. Utvalget mener det er viktig og
-nødvendig at norsk arbeidsliv innrettes slik at fordelene som ny teknologi fører med seg kan benyttes på en hensiktsmessig måte. Dette kan skape
-økonomisk vekst, gi effektiviseringsgevinster og
-konkurransefortrinn, samt skape nye arbeidsplasser, jf. utvalgets vurderinger i kapittel 9. Utvalget
-peker samtidig på at det er viktig at arbeidslivet
-tar i bruk digitale løsninger på en kunnskapsbasert måte hvor implementering av løsninger kan
-stå seg over tid.
-I relasjon til arbeidstakerklassifisering ønsker
-utvalget likevel å fremheve særlig to områder som
-det er grunn til å være oppmerksomme på.
-For det første legger teknologien til rette for
-bruk av fjernarbeid. Dette har to implikasjoner.
-Der hvor man tidligere måtte møte fysisk på en
-arbeidsplass, kan mye arbeid utføres og leveres
-
-243
-
-Kapittel 10
-
-digitalt. Fjernarbeid legger således for det første
-til rette for at virksomheter i stedet for ansettelser
-kan innhente spisskompetanse gjennom tjenestekjøp, ikke bare fra norske oppdragstakere, men
-fra hele verdens arbeidsmarked. Teknologien og
-globaliseringen forsterker dermed hverandre.
-Etter utvalgets vurdering gir dette muligheter for
-effektiv arbeidsdeling og kan være egnet for at
-virksomhetene kan få utført enkeltstående oppgaver. Utvalget viser til at muligheten til fjernarbeid gjennom teknologiske løsninger har vært til
-stede en stund, uten at det så langt har endret på
-hovedbildet om stabiliteten i bruken av ulike tilknytningsformer. Utvalget er imidlertid opptatt av
-at oppdragskontrakter på permanent basis ikke
-erstatter bruk av fast ansatte.
-Da koronapandemien rammet Norge i 2020,
-ble man i store deler av arbeidslivet over natten
-tvunget til å arbeide og samhandle fra hjemmekontor. Større bruk av fjernarbeid og hjemmekontor enn det vi hadde før pandemien vil uten tvil
-gjøre seg gjeldende. Et av de viktigste kjennetegnene ved arbeidsforhold er arbeidsgivers rettslige
-adgang eller faktiske mulighet til styring, ledelse
-og kontroll over arbeidstakeren. En naturlig konsekvens av utstrakt bruk av hjemmekontor eller
-fjernarbeid generelt, er at det kan skape større
-avstand mellom arbeidstaker og arbeidsgiver,
-med større grad av selvstendighet i arbeidet for
-arbeidstaker og mindre grad av, eller annen form
-for, styring og kontroll fra arbeidsgiver. Også
-enkelte av de andre tradisjonelle momentene kan
-muligens «utfordres» når arbeidet utføres andre
-steder enn på arbeidsplassen, for eksempel at det
-er arbeidstaker som stiller med arbeidsrom og/
-eller utstyr. Dette tilsier imidlertid ikke nødvendigvis at vernebehovet er mindre. Den andre
-implikasjonen av fjernarbeid er således at det kan
-utfordre de tradisjonelle kjennetegnene ved et
-arbeidsforhold. Etter utvalgets vurdering må
-arbeidstakerbegrepet være teknologinøytralt og
-tilpasset at arbeid, jevnlig eller sporadisk, kan
-utføres digitalt og på andre steder enn arbeidsplassen.
-For det andre viser utvalget til teknologiens
-avgjørende betydning for utbredelsen av nye forretningsmodeller innenfor den digitale økonomien.
-Det vises til omtalen ovenfor.
-
-10.2.4 Vurdering av arbeidstakerbegrepets
-«anvendelighet»
-Utvalget mener at et helt sentralt mål er å unngå
-svekkelse av arbeidstakervern og omgåelse av
-arbeidsgiveransvar gjennom at arbeidstakere blir
-
-[Side 246]
-
-244
-
-Kapittel 10
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-feilklassifisert som selvstendig oppdragstaker,
-enten dette skyldes uklarheter og misforståelser
-eller bevisste omgåelser. For å sikre dette må
-arbeidstakerbegrepet etter utvalgets vurdering
-være lett å forstå og anvende i praksis, gi minst
-mulig rom for tvil, samtidig som det innehar en
-fleksibilitet til å favne et bredt og mangefasettert
-arbeidsliv, samt å tilpasse seg endringer og et stadig skiftende arbeidsliv.
-Et viktig spørsmål for utvalget har vært om
-arbeidstakerbegrepet er tilstrekkelig enkelt å
-praktisere. En indikator på dette spørsmålet kan
-være antallet tvistesaker for domstolene. I Advokatfirmaet Haavinds kartlegging av rettssaker om
-arbeidstakerbegrepet i perioden 2010 til 2020, ble
-det identifisert 25 saker, hvorav 3 i Høyesterett, 5 i
-lagmannsrettene og 17 i tingrettene, jf. punkt 5.7.
-Sakene knytter seg i all hovedsak til grensen mellom arbeidstaker og selvstendig oppdragstaker. I
-20 av 25 saker har retten funnet at resultatet er
-klart. I de fem sakene som skapte tvil, var det
-enten fordi de ulike momentene trakk i forskjellige retninger, eller fordi det var en klar uenighet
-mellom mindretallet og flertallet i vurderingen av
-momentene og/eller resultatet. I 13 saker kom
-domstolen til at saksøker(ne) var arbeidstaker, og
-i 11 saker kom domstolen til at saksøker(ne) ikke
-var arbeidstaker.
-Etter utvalgets vurdering er ikke 25 saker for
-domstolene i løpet av en tiårsperiode isolert sett et
-høyt tall. Flere i utvalget mener imidlertid at det
-er betenkelig at såpass mange saker om lovens
-virkeområde må finne sin avgjørelse i domstolene,
-mens andre mener det ikke er betenkelig blant
-annet fordi retten i så mange som 20 av 25 saker
-fant resultatet klart.
-Samtidig kan ikke antall rettssaker for domstolene alene si noe om hvor mange tilfeller av feilklassifisering eller uklarhet som skjer ute i
-arbeidslivet. Utvalget utelukker ikke at regelverket kan praktiseres feil selv om forholdet ikke prøves for retten. I noen tilfeller vil begge parter leve
-godt med et oppdragsforhold selv om realiteten
-tilsier at det skulle være et arbeidsforhold. Andre
-ganger kan det være vanskelig for arbeidstakeren
-å ta belastningen med å ta saken for retten. Utvalget viser i denne sammenheng også til at selvstendige oppdragstakere i mindre grad er organisert
-sammenlignet med fast ansatte, og derfor ikke får
-støtte og bistand fra fagforening til å få saken sin
-prøvd. Det å ta ut søksmål kan dessuten være
-svært kostbart, og man risikerer å måtte betale
-høye omkostninger om man ikke vinner frem.
-Etter utvalgets vurdering er det uheldig at det kan
-være knyttet stor økonomisk risiko og en høy ter-
-
-skel for den enkelte det gjelder til å få avklart noe
-så grunnleggende som arbeidstakerstatus. Det
-bør derfor være et mål i seg selv at arbeidstakerbegrepet gir minst mulig rom for uklarhet og tvil.
-Utvalget viser til at arbeidstakerstatus i dag
-blant annet må avgjøres gjennom en formålsorientert helhetsvurdering med utgangspunkt i sju kriterier/momenter, jf. punkt 8.1. Etter utvalgets vurdering er en slik lovgivningsmetode godt egnet til
-å sikre et dynamisk og fleksibelt arbeidstakerbegrep.
-Flertallet i utvalget, medlemmene Fougner,
-Dahle, Kastet, Olsen, Salvanes, Stokland, Sverdrup Svendsen og Tinnlund, viser samtidig til at
-rettstilstanden kan innebære uforutsigbarhet med
-tanke på hvilke momenter som blir vektlagt og
-hvordan de ulike momentene vektes seg imellom.
-Det vises til Rt. 2013 side 342 (Beredskapshjem)
-som et eksempel på at domstolene løste saken
-med utgangspunkt i momentene, men hvor det
-var behov for å utfylle utgangspunktet gjennom en
-formålsorientert helhetsvurdering. I dette tilfellet
-ble det funnet like mange kriterier som talte for at
-det var et arbeidsforhold, som mot at det var et
-arbeidsforhold. Høyesterett løste saken ved at det
-avgjørende ble at oppdraget (det å være beredskapshjem) adskilte seg i for stor grad fra det som
-tradisjonelt karakteriseres som arbeidsforhold, og
-uttalte følgende i avsnitt 62:
-Kjernen i oppdraget er å stille til rådighet et
-hjem hvor fosterbarnet så langt mulig skal
-være som et familiemedlem. En slik oppgave
-skiller seg i sine grunntrekk klart fra hva som
-naturlig kan karakteriseres som «arbeid i
-annens tjeneste.
-I andre saker ser man at også en rekke andre
-momenter/kriterier enn de som er nevnt i forarbeidene, blir vurdert og tillagt vekt. Her er det viktig å påpeke at forarbeidene også åpner for dette.
-Rettspraksis viser på den ene siden at det gjeldende arbeidstakerbegrepet nettopp er så fleksibelt som gjeldende forarbeider peker på er formålet, og at vanskelige grensedragninger vil gjøres
-av domstolene. På den andre siden synliggjør rettspraksis etter flertallets syn at det ikke nødvendigvis alltid er så enkelt å klassifisere riktig i praksis,
-og at det kan ligge større eller mindre grad av
-uforutsigbarhet knyttet til hvilke momenter en
-domstol vil legge vekt på og hvordan disse
-momentene vil vektes innbyrdes. Etter flertallets
-vurdering kan det være grunn til å vurdere om
-arbeidstakerbegrepet kan gjøres lettere tilgjengelig og mer forutsigbart enn det er utformet i dag.
-
-[Side 247]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-Mindretallet,
-medlemmene
-Almestrand,
-Brandshaug Dale, Juliussen og Spjelkavik, viser til
-sin merknad i punkt 10.3.3.
-
-10.2.5 Oppsummering
-Utvalgets vurderinger i punkt 10.2 kan oppsummeres slik:
-Utvalget viser til at omfanget av selvstendige i
-norsk arbeidsliv i seg selv ikke er høyt, og de
-fleste har en slik tilknytning etter eget valg og
-ønske. Selvstendige er et viktig supplement til
-hovedregelen i norsk arbeidsliv som er og skal
-forbli faste ansettelser. Det er imidlertid grunn til
-å følge utviklingen nøye. Det er særlig grunn til å
-være oppmerksom på om det skulle skje en
-økning i andelen selvstendige i grupper med en
-mer marginal tilknytning til arbeidsmarkedet og/
-eller hos lavinntektsgrupper og hos de med svak
-posisjon i arbeidsmarkedet. Utvalget mener at
-omgåelser og feilklassifisering av arbeidstakerstatus må unngås, og at andelen personer med uklar
-status bør være så liten som mulig.
-Flertallet, medlemmene Fougner, Dahle, Kastet,
-Olsen, Salvanes, Stokland, Sverdrup Svendsen og
-Tinnlund, mener at det er en fordel om arbeidstakerstatusen til personer som arbeider gjennom
-digitale plattformer blir tydeliggjort og avklart før
-fenomenet vokser seg større. Det er likevel ikke
-mulig å si noe helt generelt om arbeidstakerstatusen til hele grupper. Flertallet viser videre til at
-det gjeldende arbeidstakerbegrepet er fleksibelt
-og dynamisk, men at det noen ganger kan være
-vanskelig og uforutsigbart å avklare i praksis.
-Flertallet mener det er problematisk dersom personer ikke har andre sysselsettingsvalg enn å
-inngå oppdragskontrakter, eller presses ut av
-ansettelsesforhold og inn i oppdragsforhold, med
-tap av vern og rettigheter, dersom det i realiteten
-foreligger arbeidsforhold. Flertallet mener at det
-generelt er problematisk om personer befinner
-seg i gråsonen mellom arbeidstaker og oppdragstaker med uklar status. Flertallet mener på denne
-bakgrunn at det bør vurderes hvordan arbeidstakerbegrepet kan gjøres lettere tilgjengelig og mer
-brukervennlig.
-Mindretallet,
-medlemmene
-Almestrand,
-Brandshaug Dale, Juliussen og Spjelkavik, viser til
-sin merknad i punkt 10.3.3.
-
-245
-
-Kapittel 10
-
-10.3 Arbeidstakerbegrepet i
-arbeidsmiljøloven
-10.3.1 Generelle vurderinger
-Norsk arbeidsliv er sammensatt, og det er et vidt
-spenn når det gjelder hva som kjennetegner
-arbeidstakere. Det kan strekke seg fra de med
-svak tilknytning til arbeidsmarkedet og lav kompetanse, til høykompetente spesialister som det er
-stor etterspørsel etter. Det er også stor spredning
-når det gjelder for eksempel lønns- og arbeidsvilkår, og graden av autonomi og selvstendighet i
-arbeidsutførelsen. Arbeidsmiljøloven skal gjelde
-for alle disse, og arbeidstakerbegrepet favner dermed et vidt spekter av variasjoner.
-På tross av dette spennet er det likevel noen
-grunnleggende hensyn som kjennetegner og
-begrunner arbeidsmiljølovens verneregler. Hotvedt mfl. (2020b) viser til at de grunnleggende formålene med arbeidslivsreguleringene blant annet
-er å utligne maktubalanse og fasilitere samarbeid
-og tillit mellom partene. Gjeldende forarbeider
-beskriver arbeidstakeren som en som «normalt
-[er] økonomisk avhengig som lønnsmottaker og
-står i et organisatorisk avhengighetsforhold som
-innebærer underordning i forhold til arbeidsgiver», jf. Ot.prp. nr. 49 (2004–2005) punkt 6.1.1.
-Etter utvalgets vurdering er dette fortsatt en nokså
-treffende beskrivelse, som synliggjør hvorfor
-arbeidstakeren har et vernebehov etter loven, og
-hvorfor Høyesterett har pekt på at de som har
-behov for vern må bli vernet, jf. Rt. 2013 side 354.
-Med «vernebehov» sikter utvalget til objektive
-kjennetegn ved arbeidsrelasjonen, og ikke til subjektive kjennetegn ved personen som på et individuelt plan tilsier et vernebehov.
-Utvalget legger til grunn at de aller fleste
-arbeidsgivere i norsk arbeidsliv både ønsker, og
-rent faktisk, klassifiserer riktig. Utvalget mener at
-det gjeldende arbeidstakerbegrepet i utgangspunktet er en fleksibel og god regel, som fanger
-opp forsøk på eventuelle omgåelser, og som tar
-høyde for variasjoner og nyskapninger i arbeidslivet. Begrepet synes dessuten i det store og hele å
-være på linje med det EU-rettslige arbeidstakerbegrepet og til dels også arbeidstakerbegrepet i
-andre europeiske land.
-Et samlet utvalg er likevel enige om at det i lys
-av mandatet er behov for en gjennomgang av
-arbeidsmiljølovens arbeidstakerbegrep.4 Utvalget
-har blant vurdert om det er behov for å gjøre
-4
-
-For en gjennomgang av momentene og dagens arbeidstakerbegrep, se foran i punkt 8.1.2, herunder også boks 8.1.
-
-[Side 248]
-
-246
-
-Kapittel 10
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-begrepet tydeligere, bedre egnet til å fange opp
-omgåelser og å unngå gråsonetilfeller og tvil.
-Utvalget har vurdert om begrepet bør innrettes
-eller formuleres på en måte som gjør det mer
-pedagogisk og brukervennlig, herunder gjøre det
-enklere å avklare arbeidstakerstatus i praksis. Det
-vises i denne sammenheng også til OECD som
-anbefaler medlemsstatene blant annet å sørge for
-å redusere omfanget av personer i «gråsonen»
-mellom arbeidstaker og oppdragstaker, ved å
-gjøre arbeidstakerdefinisjonen så tydelig som
-mulig for å redusere tvil og usikkerhet for begge
-parter (OECD, 2019, side 159).
-Videre har utvalget vurdert om begrepet eller
-momentlisten bør fornyes, for eksempel slik at
-momentene i tydeligere grad enn i dag reflekterer
-instruksjons- og avhengighetsforholdet som særpreger arbeidsforholdet. Dette kan for eksempel
-innebære å fremheve og tydeliggjøre enkelte av
-de tradisjonelle momentene, nedtone betydningen
-av enkelte av de tradisjonelle momentene, eller å
-lansere nye momenter.
-Flertallet viser i denne sammenheng også til
-anbefalingene i det nordiske prosjektet Future of
-Work, som mener at arbeidslivsreguleringene bør
-gjelde i avtaleforhold med tydelig maktubalanse,
-hvor arbeidstakere har liten påvirkning på egne
-individuelle arbeidsvilkår. I rapporten anbefales
-det at kriteriene for å avklare arbeidsforhold i
-tydeligere grad enn i dag, bør reflektere at personer som i realiteten er personlig eller økonomisk
-avhengig av «prinsipalen» sin, bør ha arbeidstakerstatus. Det vises til at mulige kriterier kan være
-hvorvidt arbeidspersonen er i posisjon til individuelt å forhandle arbeidsvilkår, og/eller hvorvidt
-arbeidet er ensidig sanksjonert (Hotvedt mfl.,
-2020b, side 149–150).
-Utvalget har også vurdert om begrepet i tilstrekkelig grad reflekterer betydningen av digitalt
-arbeid, fjernarbeid og/eller arbeid gjennom digitale plattformer.
-Utvalgets flertall, medlemmene Fougner, Dahle,
-Kastet, Olsen, Salvanes, Stokland, Sverdrup Svendsen og Tinnlund, har utarbeidet et forslag til
-momentliste nedenfor som dels er basert på de
-gjeldende tradisjonelle momentene, dels basert på
-nyere rettsutvikling, og dels er noen av momentene nye sammenlignet med i dag. Når flertallet
-har vurdert hvilke momenter som bør vektlegges,
-er det særlig sett hen til i hvilken grad momentene er egnet til å skille mellom avhengighet og
-underordning på den ene siden, og uavhengighet
-og selvstendighet på den andre siden.
-Utvalget er delt i sitt syn på hvilken rettslig
-betydning momentlisten har eller bør ha. Flertal-
-
-let ønsker å påpeke viktigheten av at arbeidsmiljøloven må komme til anvendelse i partsrelasjoner
-som er preget av maktubalanse, underordning og
-avhengighet. Graden av sistnevnte kan variere.
-Arbeidsforhold må avgrenses mot selvstendige
-oppdragsforhold, som dermed langt på vei statuerer det motsatte, nemlig en vesentlig sterkere
-grad av balanse i styrkeforholdet, selvstendighet
-og uavhengighet.
-Etter flertallets vurdering er momentlisten
-nedenfor til dels ment som en tydeliggjøring og
-presisering av gjeldende rett, men samtidig som
-bidrag til å avklare noen eksisterende og potensielle gråsoner. Fordi det for visse personer eller
-visse grupper kan være uklart om man er arbeidstaker eller oppdragstaker i dag, utelukker ikke
-flertallet dermed at forslaget i praksis vil kunne
-innebære at flere får arbeidstakerstatus. Dette kan
-for eksempel gjelde personer som utfører arbeid
-innen den digitale plattformøkonomien. I
-momentlisten nedenfor er det adressert flere forhold som typisk kan gjelde innenfor plattformøkonomien. Flertallet ønsker å være tydelige på at
-arbeidstakerbegrepet og momentlisten må tolkes
-teknologinøytralt. Avtalerelasjoner som samlet
-sett bærer preg av avhengighet, underordning og
-skjevhet i styrkeforholdet, må klassifiseres som
-arbeidstakerforhold uavhengig av om arbeidet
-formidles gjennom en digital plattform eller i mer
-tradisjonelle former.
-Utvalget er også delt i sitt syn på hvordan
-arbeidstakerbegrepet bør formuleres og innrettes i loven. Det vises til flertallets vurderinger og
-forslag som fremgår av punkt 10.3.2 og mindretallets vurdering i punkt 10.3.3 nedenfor.
-Stiller sin arbeidskraft til disposisjon
-Arbeidstakeren stiller seg og sin personlige
-arbeidskraft og kompetanse løpende til disposisjon, og arbeidsgiver står innenfor rammen av lovog avtaleverk og styringsrett, fritt til å benytte
-arbeidstakers arbeidskraft. Arbeidsgiveren bærer
-risikoen for arbeidsresultatet. En selvstendig oppdragstaker stiller på sin side ikke nødvendigvis
-med sin personlige arbeidskraft, men med en
-resultatforpliktelse. Tilbyr man som selvstendig
-oppdragstaker en spesialkompetanse, velges man
-også ofte ut fra en forventning om at man stiller
-sin personlige arbeidskraft/kunnskaper på området til disposisjon. Likevel anses slike tilfeller ikke
-å falle inn under dette momentet fordi det er leveransen av en resultatforpliktelse på grunn av spesialistkompetansen som overordnet etterspørres.
-Selvstendige oppdragstakere, også de med spesia-
-
-[Side 249]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-listkompetanse, vil måtte stå til ansvar og bære
-risikoen for et kontraktsmessig resultat. Se også
-punktet om personlig arbeidsplikt nedenfor.
-Hvem som bærer risikoen for arbeidsresultatet, er
-til sammenligning også sentralt i den gjeldende
-rettslige grensen mellom innleie og entreprise.
-Personlig arbeidsplikt
-Arbeidsplikten til en arbeidstaker er personlig, og
-vedkommende kan ikke bruke andre til å utføre
-arbeidet. En selvstendig oppdragstaker kan på sin
-side som et utgangspunkt fritt benytte andre personer for egen regning i oppdragsleveransen. Det
-at enkelte selvstendige oppdragstakere, for
-eksempel en advokat eller snekker, forventes fra
-kundens side å utføre oppdraget selv, betyr imidlertid ikke at vedkommende er å anse som arbeidstaker av den grunn alene.
-Underordnet styring, ledelse og kontroll
-Arbeidsgivers styringsrett og arbeidstakerens
-plikt til å underordne seg arbeidsgiveren, er et
-helt sentralt kjennetegn på arbeidsforhold som
-illustrerer underordning og organisatorisk avhengighet. Selv om mange arbeidstakere i praksis har
-stor grad av autonomi i arbeidsutførelsen og fleksible arbeidstidsordninger, er det likevel til
-syvende og sist arbeidsgiver som har myndighet
-til å bestemme når, hvor og hvordan arbeidet skal
-foregå. Innenfor styringsrettens rammer har
-arbeidsgiver også myndighet til å bestemme
-endringer i arbeidsoppgaver, arbeidstider mv. Det
-er nok at arbeidsgiver rettslig sett har slik myndighet, det er ikke krav om faktisk utøvelse av styringsrett, jf. HR-2016-1366-A (Avlaster II). Tilsvarende er kjennetegnet til stede også dersom tredjepart utøver kontroll og ledelse, jf. Rt. 2013 side
-354 (Avlaster I). I tillegg til «fysiske» tredjepersoner, kan det etter flertallets vurdering etter
-omstendighetene også innebære styring og kontroll gjennom tekniske applikasjoner og algoritmer. Personer som utfører arbeid gjennom digitale plattformer, og blir styrt gjennom algoritmer
-eller kunder, vil etter omstendighetene kunne tenkes å være underlagt en annens styring, ledelse
-og kontroll.
-En oppdragsgiver har ingen tilsvarende styringsrett overfor en oppdragstaker, slik som
-arbeidsgiveren har overfor arbeidstakeren. Oppdragsgiver kan heller ikke uten videre ensidig
-foreta endringer i avtalen underveis. En selvstendig oppdragstaker står innenfor rammen av avtalen fritt til å utføre oppdraget uten oppdragsgivers
-
-247
-
-Kapittel 10
-
-innblanding og føringer, og kan innenfor rammen
-av avtalen legge opp arbeidstid, arbeidsfri og
-arbeidsutførelse slik han vil. Realiteten i denne
-selvstendigheten og friheten må vurderes. Det
-kan for eksempel ligge mindre reell frihet og selvstendighet i en oppdragsavtale som er inngått i
-mangel av andre sysselsettingsmuligheter for sårbare personer med marginal tilknytning til
-arbeidsmarkedet, enn for etablerte utøvere. I
-denne sammenheng kan det også være relevant å
-se hen til om vedkommende kan takke nei til oppdrag, og om vedkommende reelt sett har mulighet
-til å tilby sine tjenester til andre, jf. også «tilknytningsmomentet» nedenfor.
-Etter flertallets vurdering er disse tre kjennetegnene helt sentrale i vurderingen av arbeidstakerstatus.
-Det kan være behov for å vurdere også andre
-sider ved avtaleforholdet. I så fall mener flertallet
-at følgende kjennetegn kan være egnet til å skille
-arbeidstakere fra selvstendige oppdragstakere:
-Om tilknytningsforholdet er stabilt, og/eller hvorvidt
-det arbeides hovedsakelig for én arbeidsgiver (eksklusivitet versus kundeportefølje)
-Det å utføre arbeid for i hovedsak én oppdragsgiver, særlig hvis arbeidet er stabilt og noenlunde
-fast over tid, på fulltid, uten mulighet til å ta annet
-arbeid, kan tilsi økonomisk avhengighet. Slike
-oppdragsforhold kan indikere en skjevhet i avtaleforholdet, og det bør vurderes om det foreligger
-en avhengighet som tilsier arbeidstakerstatus. En
-selvstendig oppdragstaker inngår på den annen
-side gjerne mer sporadiske, tilfeldige og/eller
-kortvarige oppdragsforhold, selv om det også er
-oppdragstakere som har få oppdragsgivere for
-eksempel fordi kundekretsen er liten ut fra spesialistkompetanse man besitter. En oppdragstaker
-kan imidlertid normalt bygge egne kundeporteføljer og påta seg de oppdrag vedkommende selv vil,
-for eksempel innenfor profesjonsbaserte etiske
-regler. Samtidig kan også oppdragsforhold ha en
-lengre og mer fast karakter, for eksempel ved at et
-spesifikt arbeid skal sluttføres, slik at dette ikke
-utelukker oppdragsforhold. Selv om tilknytningsforholdet ikke er stabilt, kan tilknytningsmomentet sammen med andre sentrale momenter innebære at vedkommende etter en konkret helhetsvurdering omfattes av arbeidstakerbegrepet. Det
-kan typisk gjelde sesongarbeidere, tilkallingsvikarer, mv. Flertallet presiserer derfor at også personer som ikke har et stabilt ansettelsesforhold, skal
-omfattes av arbeidstakerbegrepet dersom det er
-personlig arbeidsplikt og vedkommende er under-
-
-[Side 250]
-
-248
-
-Kapittel 10
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-lagt en annens styring, ledelse og kontroll, samt
-om de øvrige momentene og helhetsvurderingen
-tilsier det.
-Hvem av partene som stiller med arbeidsrom og utstyr
-Hvem av partene som stiller med arbeidsrom og
-utstyr mv., er etter flertallets vurdering i utgangspunktet mindre veiledende for om det foreligger
-skjevhet eller avhengighet, og er dessuten egnet
-til å tilpasses i avtalevilkårene. Den teknologiske
-utviklingen og digitaliseringen legger dessuten til
-rette for at arbeid, både jevnlig og mer sporadisk, i
-økende grad kan utføres digitalt fra andre steder
-enn på arbeidsplassen, og det kan fort oppstå
-grensetilfeller med tanke på hvem av partene som
-stiller med arbeidsrom og utstyr. Koronapandemien medførte utstrakt bruk av hjemmekontor,
-og det kan være grunn til å tro at mange vil
-benytte seg mer av hjemmearbeid også i tiden
-fremover. Momentet kan likevel være et støttemoment når også andre momenter trekker i
-samme retning. Det at arbeidspersonen i utgangspunktet har eget spesialisert arbeidsutstyr og
-eget/fast forretningssted, kan for eksempel si noe
-om personens formål eller intensjon om å drive
-vedvarende næringsvirksomhet. Dette kan tilsi en
-større grad av selvstendighet og uavhengighet.
-Det at arbeidspersonen stiller med noe enkeltstående utstyr selv, for eksempel varebil eller sykkel
-innenfor bud og transport, bør etter flertallets vurdering imidlertid ikke alene være nok til at personen kan anses selvstendig i denne sammenheng.
-Vederlagsform og oppsigelsesvilkår
-Etter flertallets vurdering bør heller ikke den
-avtalte eller praktiserte vederlagsformen, eller oppsigelsesvilkårene, spille noen avgjørende betydning
-i klassifiseringen. Dette er momenter som kan tilpasses i kontraktsvilkårene, uten at det sier så
-mye om vernebehovet til personen som utfører
-arbeidet. Momentene vil likevel fortsatt være relevante som støttemomenter når også andre
-momenter trekker i samme retning.
-Flertallet mener at det i lys av samfunnsutviklingen videre kan være grunn til å tilføre momentlisten følgende to momenter:
-Arbeidets art – om arbeidet utføres i nær tilknytning til
-arbeidsgivers ordinære virksomhet og organisasjon
-Arbeidets art kan ha betydning. I tvils- og gråsonetilfeller vil det være relevant å se hen til om
-
-arbeidet som utføres er innenfor virksomhetens
-kjernevirksomhet og dermed gjelder virksomhetens permanente og ordinære arbeidskraftsbehov,
-herunder om tilsvarende arbeid utføres, eller
-burde utføres, av andre arbeidstakere i virksomheten. Dette momentet kan etter omstendighetene tale for at det foreligger et arbeidsforhold.
-Dersom arbeidspersonen utfører arbeid som skiller seg fra det som hører under virksomhetens
-permanente og ordinære arbeidskraftsbehov, kan
-det tale for at vedkommende er selvstendig oppdragstaker. Det vil variere ut fra de konkrete saksforhold om momentet er relevant og hvor stor
-vekt dette momentet skal ha.
-Om vedkommende har mulighet til å forhandle om
-egne vilkår
-Forhandlingsmakten mellom partene kan si noe
-om styrkeforholdene og vernebehovet, og kan ha
-betydning for om det er tale om et arbeidsforhold.
-Det er flere forhold som avgjør om, og i hvilken
-grad, den som utfører arbeidet kan forhandle prisen på sitt arbeid eller andre vilkår, eksempelvis
-markedssituasjonen, om vedkommende har
-etterspurt kompetanse mv. Momentet innebærer
-ikke at den som utfører arbeid som kan forhandle
-på pris, automatisk må betraktes som selvstendig
-oppdragstaker. Også arbeidstakere kan i mange
-tilfeller ha reelle forhandlinger om lønn og inntekt. Og motsatt kan det være etablerte selvstendige oppdragstakere som må akseptere markedsprisen uten at det skjer reelle forhandlinger. Oppdragsforhold hvor oppdragstaker ikke har mulighet til å forhandle egne vilkår, men hvor disse er
-ensidig fastsatt av den konkrete oppdragsgiver, kan
-imidlertid tilsi et økonomisk avhengighetsforhold.
-Eksempelvis vil plattformarbeidere uten mulighet
-til å fastsette egne priser ut mot kunder, eller egne
-vilkår vis-à-vis plattformen, kunne tenkes å ha et
-vernebehov i denne sammenheng. Som det ble
-fremhevet av Høyesterett i saken mot Uber i Storbritannia, jf. punkt 10.2.2: Sjåførene var i en underordnet og avhengig posisjon i relasjon til Uber, på
-en slik måte at de hadde lite eller ingen mulighet
-til å forbedre sin økonomiske posisjon gjennom
-faglige eller entrepenørskapende ferdigheter.
-Dette momentet er kanskje mest relevant for plattformarbeidere.
-Oppsummering momenter
-Flertallet presiserer at vurderingen av de ovenfor
-nevnte momenter må skje gjennom en formålsorientert helhetsvurdering, og ikke gjennom en «for-
+## Medvirkning, medbestemmelse, informasjon, drøfting og samarbeid
+
+### Innledning
+
+Ansattes rett til medvirkning, medbestemmelse, informasjon, drøfting og samarbeid er ansett som et grunnleggende prinsipp i norsk arbeidsliv. Retten til medvirkning er også grunnlovsfestet i Grunnloven § 110 andre ledd, hvor det fremgår at «Nærare føresegner om medråderetten til dei tilsette på arbeidsplassen blir fastsette i lov». Begrunnelsen for ansattes deltakelse i styring av egen arbeidsplass ble av Medvirknings- og medbestemmelsesutvalget (NOU 2010: 1 side 102) beskrevet som todelt:
+
+i\) Deltakelse er et ledd i demokratiseringen av det norske samfunn og bygger på rettferdighets- og likhetsnormer og ii) deltakelse er effektivt for virksomhetens drift, fordi de ansattes innsats og kompetanse er avgjørende for virksomhetens produktivitet.
+
+### Arbeidsmiljølovens ordninger
+
+Arbeidsmiljølovens ordninger for medvirkning, informasjon og drøfting kan grovt deles i to hovedkategorier. Den første hovedkategorien er bestemmelser som stiller krav til ansattes løpende deltakelse i spørsmål som gjelder *arbeidsmiljøet*, herunder krav til informasjon og medvirkning om arbeidsmiljøforhold i § 4-2, krav til verneombud i kapittel 6 og krav til arbeidsmiljøutvalg i kapittel 7.
+
+Den andre hovedkategorien er bestemmelser som stiller krav til informasjon og drøfting med arbeidstakernes tillitsvalgte om *konkrete spørsmål og i konkrete saker*. Dette omfatter blant annet bestemmelser som stiller krav til drøfting om bruken av deltid, midlertidig ansettelse og innleid arbeidskraft, om ulike arbeidstidsordninger, om bruken av kontrolltiltak, og drøfting ved masseoppsigelse og virksomhetsoverdragelse. Loven oppstiller også mer generelle bestemmelser i kapittel 8 om at det i større virksomheter alltid skal informeres og drøftes om spørsmål «av betydning for arbeidstakernes arbeidsforhold». Flere av reglene er kommet inn i loven som følge av norsk gjennomføring av EU-direktiver.
+
+De ovennevnte bestemmelsene gjelder *kollektive* rettigheter. Loven inneholder også enkelte *individuelle* rettigheter knyttet til drøfting, for eksempel i forbindelse med fortrinnsrett og oppsigelse. Disse reglene gjennomgås ikke her.
+
+Arbeidsmiljølovens regler gjelder for alle virksomheter og arbeidstakere som omfattes av loven, gitt at terskelverdiene slår inn.
+
+Medvirkning etter § 4-2
+
+Det følger av § 4-2 første ledd at arbeidstakerne og deres tillitsvalgte løpende skal holdes informert om systemer som nyttes ved planlegging og gjennomføring av arbeidet. Arbeidstakerne skal gis nødvendig opplæring for å sette seg inn i systemene, og skal medvirke ved utformingen av dem. Det følger videre av tredje ledd at under omstillingsprosesser som medfører endring av betydning for arbeidstakernes arbeidssituasjon, skal arbeidsgiver sørge for informasjon, medvirkning og kompetanseutvikling som er nødvendig for å ivareta lovens krav til et fullt forsvarlig arbeidsmiljø. Bestemmelsen har ingen terskelverdi, og gjelder følgelig for alle virksomheter som omfattes av loven.
+
+Verneombud, jf. kapittel 6
+
+Verneombudene er arbeidstakernes representanter i verne- og arbeidsmiljøspørsmål, jf. Ot.prp. nr. 49 (2004–2005) side 114. Verneombudet skal ivareta arbeidstakernes interesser i saker som angår arbeidsmiljøet. Verneombudet skal se til at virksomheten er innrettet og vedlikeholdt, og at arbeidet blir utført på en slik måte at hensynet til arbeidstakernes sikkerhet, helse og velferd er ivaretatt i samsvar med bestemmelsene i denne lov, jf. § 6-2. Verneombudet skal tas med på råd under planlegging og gjennomføring av tiltak som har betydning for arbeidsmiljøet innenfor ombudets verneområde, herunder etablering, utøvelse og vedlikehold av virksomhetens systematiske helse-, miljø- og sikkerhetsarbeid, jf. fjerde ledd.
+
+I utgangspunktet skal det velges verneombud i alle virksomheter som kommer inn under arbeidsmiljøloven, jf. § 6-1. I virksomheter med mindre enn ti ansatte kan det likevel skriftlig avtales at det ikke skal velges verneombud. I virksomheter med flere enn ti ansatte, kan det velges flere verneombud, og antallet fastsettes i forhold til virksomhetens størrelse, arbeidets art og arbeidsforholdene for øvrig, jf. andre ledd. Det følger av § 2-1 at det er arbeidsgiver som har ansvaret for at lovens bestemmelse om verneombud oppfylles. Arbeidsgiver har plikt til å ta initiativ til at arbeidstakerne velger verneombud og skal legge forholdene til rette for at verneombudet kan fungere etter lovens intensjoner. Arbeidsgiver skal ikke forholde seg passiv til en eventuell manglende interesse eller andre forhold som hindrer verneombudet fra å fungere slik det er ment, men må aktivt arbeide for å oppnå dette, jf. Ot.prp. nr. 49 (2004–2005) side 309-310.
+
+Arbeidsmiljøutvalg, jf. kapittel 7
+
+Arbeidsmiljøutvalget er et samarbeidsorgan med lik representasjon fra arbeidsgiverens og arbeidstakernes side. Arbeidsmiljøutvalget skal virke for gjennomføring av et fullt forsvarlig arbeidsmiljø i virksomheten. Utvalget skal delta i planleggingen av verne- og miljøarbeidet, og nøye følge utviklingen i spørsmål som angår arbeidstakernes sikkerhet, helse og velferd, jf. § 7-2. Arbeidsmiljøutvalg er påkrevd i alle virksomheter hvor det jevnlig sysselsettes minst 50 arbeidstakere. Arbeidsmiljøutvalg skal opprettes også i virksomhet med mellom 20 og 50 arbeidstakere, når en av partene ved virksomheten krever det. Der arbeidsforholdene tilsier det, kan Arbeidstilsynet bestemme at det skal opprettes arbeidsmiljøutvalg i virksomhet med færre enn 50 arbeidstakere, jf. § 7-1.
+
+Krav til informasjon og drøfting i kapittel 8
+
+I kapittel 8 er det gitt regler som stiller generelle krav til at arbeidsgiver skal informere om og drøfte spørsmål «av betydning for arbeidstakernes arbeidsforhold» med de tillitsvalgte. Omfanget og innholdet i informasjons- og drøftingsplikten er nærmere angitt i § 8-2, hvor det fremgår at plikten omfatter:
+
+a\) informasjon om den aktuelle og forventede utvikling av virksomhetens aktiviteter og økonomiske situasjon,
+
+b\) informasjon om og drøfting av den aktuelle og forventede bemanningssituasjon i virksomheten, inkludert eventuelle innskrenkninger og de tiltak arbeidsgiver vurderer i den forbindelse,
+
+c\) informasjon om og drøfting av beslutninger som kan føre til vesentlig endring i arbeidsorganisering eller ansettelsesforhold.
+
+Informasjon skal gis på et passende tidspunkt, men slik at informasjon og drøfting etter bokstav b og c skal skje så tidlig som mulig, jf. § 8-2 andre ledd. Bestemmelsen i § 8-2 kan fravikes ved tariffavtale, jf. fjerde ledd.
+
+Det er i § 8-3 gitt egne bestemmelser om håndtering av fortrolige opplysninger, som innebærer at arbeidsgiver kan pålegge de tillitsvalgte taushetsplikt, eventuelt i særlige tilfeller unnlate å gi informasjon eller gjennomføre drøfting dersom det på det aktuelle tidspunktet vil være til betydelig skade for virksomheten.
+
+Kapittel 8 gjelder for virksomheter som jevnlig sysselsetter minst 50 arbeidstakere, jf. § 8-1. Av forarbeidene fremgår det at informasjons- og drøftingsplikten ikke skal gjelde for mindre virksomheter på grunn av «viktigheten av blant annet å ikke pålegge administrative, finansielle og rettslige byrder som vil hemme opprettelsen og utviklingen av små og mellomstore virksomheter», jf. Ot.prp. nr. 49 (2004–2005) side 125. Det følger av forarbeidene at reglene «bør videre ha samme anvendelsesområde som arbeidsmiljøloven for øvrig», jf. Ot.prp. nr. 49 (2004–2005) side 125. I dette ligger det formodentlig en avgrensning i at informasjons- og drøftingsplikten er knyttet til den enkelte virksomhet, jf. § 1-2, og må som utgangspunkt blant annet avgrenses mot for eksempel andre virksomheter i samme konsern. Noe annet er at beslutninger i én del av konsernet, også kan få betydning for andre virksomheter i samme konsern. Da vil imidlertid informasjons- og drøftingsplikten følge direkte av den materielle plikten til å informere og drøfte om spørsmål av betydning for arbeidstakerne. Det følger av blant annet aksjeloven § 6-16 andre ledd andre punktum at morselskapet har plikt til å underrette datterselskapets styre om beslutninger som kan ha betydning for datterselskapet før endelig beslutning treffes. Dette vil utløse drøftingsplikt i det datterselskapet som skal styrebehandle saken dersom det er spørsmål av betydning for arbeidstakernes arbeidsforhold. Til dette kommer også at arbeidstakere kan kreve styrerepresentasjon i både eget selskap og i morselskapet, jf. nedenfor i punkt 8.8.3. Dessuten inneholder hovedavtalene bestemmelser om drøftelser i konsern, se punkt 8.8.4 nedenfor.
+
+Reglene i kapittel 8 kom inn i loven som følge av at EU-direktiv 2002/14/EF om informasjon til og konsultasjon med arbeidstakerne ble innlemmet i EØS-avtalen, jf. Ot.prp. nr. 49 (2004–2005).
+
+Flere av hovedavtalene, eksempelvis Hovedavtalen mellom LO og NHO kapittel IX, har egne regler om drøfting, og går dermed foran arbeidsmiljølovens regler, jf. § 8-2 fjerde ledd. Hovedavtalene går gjerne lenger enn kapittel 8, og åpner ikke for å unnta noe fra drøfting.
+
+Krav til informasjon og drøfting ved masseoppsigelser, jf. § 15-2
+
+Arbeidsmiljøloven § 15-2 inneholder regler om krav til drøfting med tillitsvalgte ved masseoppsigelser. Med masseoppsigelser menes oppsigelser som foretas overfor minst ti arbeidstakere innenfor et tidsrom på 30 dager, uten at oppsigelsene er begrunnet i de enkelte arbeidstakeres forhold. Andre former for opphør av arbeidskontrakter som ikke er begrunnet i de enkelte arbeidstakeres forhold, skal tas med i beregningen såfremt minst fem sies opp, jf. første ledd.
+
+Arbeidsgiver som vurderer å gå til masseoppsigelser, skal så tidlig som mulig innlede drøftinger med arbeidstakernes tillitsvalgte med sikte på å komme frem til en avtale for å unngå masseoppsigelser eller for å redusere antall oppsagte. Vurderer arbeidsgiver å legge ned virksomheten eller en selvstendig del av denne, og nedleggelsen innebærer en masseoppsigelse, skal også muligheten for videre drift drøftes, herunder mulighetene for de ansattes overtakelse av virksomheten. Dersom oppsigelser ikke kan unngås, skal de uheldige sidene ved dem søkes redusert. Drøftingene skal omfatte mulige sosiale tiltak med sikte på blant annet støtte til omplassering eller omskolering av de oppsagte. Arbeidstakernes tillitsvalgte kan la seg bistå av sakkyndige. Arbeidsgiver har plikt til å innlede drøftinger selv om de planlagte oppsigelsene skyldes andre enn arbeidsgiver og som har beslutningsmyndighet overfor denne, for eksempel en konsernledelse, jf. andre ledd.
+
+Loven stiller krav til hvilke opplysninger som skal gis til de tillitsvalgte. Det skal gis opplysninger om grunnene til eventuelle oppsigelser, antall arbeidstakere som vil kunne bli oppsagt, hvilke arbeidsgrupper de tilhører, antall arbeidstakere som normalt er ansatt, hvilke arbeidstakergrupper som normalt er sysselsatt, over hvilken periode oppsigelsene vil kunne bli foretatt, forslag til kriterier for utvelgelse av de som eventuelt skal sies opp og forslag til kriterier for beregning av eventuelle ekstraordinære sluttvederlag, jf. tredje ledd.
+
+Formålet med reglene er «å få til en avtale om å unngå oppsigelser. Dersom det ikke er mulig å forhindre oppsigelser, skal man søke å redusere antall oppsagte samt lette følgene av oppsigelsene», jf. Ot.prp. nr. 71 (1991–92) side 10.
+
+Bestemmelsen gjennomfører EU-direktiv 75/129/EØF, som senere ble endret med direktiv 92/56/EØF.
+
+Krav til informasjon og drøfting ved virksomhetsoverdragelse, jf. kapittel 16
+
+I kapittel 16 finnes det regler om virksomhetsoverdragelse. En virksomhetsoverdragelse innebærer at en virksomhet eller del av virksomhet overføres til en annen arbeidsgiver, jf. § 16-1 første punktum. Reglene i kapittel 16 er en gjennomføring av EU-direktiv 2001/23 (virksomhetsoverdragelsesdirektivet). Det vises til nærmere omtale av reglene om virksomhetsoverdragelse i punkt 5.8.1.3.
+
+I §§ 16-5 og 16-6 finnes det egne bestemmelser om krav til informasjon og drøfting med tillitsvalgte og informasjon til arbeidstakere ved virksomhetsoverdragelse. Tidligere og ny arbeidsgiver skal så tidlig som mulig gi informasjon om og drøfte overdragelsen med arbeidstakernes tillitsvalgte. Det skal gis særskilt informasjon om grunnen til overdragelsen, fastsatt eller foreslått dato for overdragelsen, de rettslige, økonomiske og sosiale følger av overdragelsen for arbeidstakerne, endringer i tariffavtaleforhold, planlagte tiltak overfor arbeidstakerne, reservasjons- og fortrinnsrett og fristen for å utøve slike rettigheter, jf. § 16-5.
+
+Tidligere og ny arbeidsgiver skal så tidlig som mulig informere de berørte arbeidstakerne om overdragelse, jf. § 16-6. Det skal gis særskilt informasjon om forhold nevnt i § 16-5 andre ledd.
+
+Av § 16-7 følger det også at hvis virksomheten bevarer sin uavhengighet, skal de tillitsvalgte som berøres av overdragelse som nevnt i § 16-1, beholde sin rettsstilling og funksjon. Hvis virksomheten ikke bevarer sin uavhengighet, skal de overførte arbeidstakere som var representert før overdragelsen, fortsatt være representert på en egnet måte fram til nyvalg kan finne sted. Første ledd kommer ikke til anvendelse dersom overdragelsen medfører at grunnlaget for arbeidstakernes representasjon opphører. I slike tilfeller skal tillitsvalgte fortsatt være sikret vern i samsvar med avtaler som beskytter tillitsvalgte på dette området.
+
+Krav til å drøfte bruken av deltid, midlertidig ansettelse, innleid arbeidskraft, arbeidstid og kontrolltiltak
+
+Plikten til å drøfte ulike forhold kan ses på som et ledd i arbeidstakernes medvirkning på arbeidsplassen. Drøftingsplikten innebærer ikke at temaet er gjenstand for forhandling. Arbeidsgiver vil i kraft av styringsretten ta den endelige avgjørelsen. Drøftingsplikten bidrar imidlertid til at saken blir godt opplyst, at temaet settes på dagsorden og at arbeidstakerne involveres.
+
+Reglene om plikt til å drøfte bruken av deltid, midlertidig ansettelse og innleid arbeidskraft med tillitsvalgte, er forholdsvis nye i loven.
+
+Plikt til å drøfte bruken av *deltid* fremgår av § 14-1 a, hvor det fremgår at arbeidsgiver minst én gang per år skal drøfte bruken av deltid med de tillitsvalgte. Det fremgår av forarbeidene at «Bestemmelsen innfører plikt for arbeidsgiver til å drøfte bruken av deltid med de tillitsvalgte, etter mønster av gjeldende drøftingsplikt for bruk av midlertidige ansettelser etter § 14-9 første ledd og innleid arbeidskraft etter § 14-12 tredje ledd. Bestemmelsen innebærer at arbeidsgiver minst en gang per år må drøfte virksomhetens bruk av deltidsstillinger med arbeidstakernes tillitsvalgte. Bestemmelsen er ikke til hinder for at drøftinger foretas oftere dersom partene er enige om det, eller dersom en slik plikt følger av avtale eller annet regelverk. Bestemmelsen forutsetter at arbeidsgiver gir tilstrekkelig informasjon og legger frem nødvendig dokumentasjon over virksomhetens deltidsbruk, slik at partene settes i stand til å gjennomføre en reell drøfting av virksomhetens bruk av deltid. Informasjonen må gis på et tidspunkt som gjør det mulig for de tillitsvalgte å sette seg inn i saken, foreta en passende undersøkelse, vurdere saken og forberede drøftingen», jf. Prop. 83 L (2012–2013) punkt 6.1.
+
+Det følger av § 14-9 andre ledd at arbeidsgiver skal drøfte bruken av *midlertidig ansettelse* med de tillitsvalgte minst en gang per år. Drøftelsen skal blant annet omfatte grunnlaget for og omfanget av slike ansettelser, samt konsekvenser for arbeidsmiljøet. Formålet med bestemmelsen er at regelen vil «bidra til økt bevissthet hos arbeidsgiverne om lovligheten av eventuelle midlertidige arbeidsavtaler. Trolig vil det også kunne bidra til økt bevissthet når det gjelder nødvendigheten av midlertidig ansettelse, også i tilfeller der lovens vilkår er oppfylt. En slik plikt kan også bidra til kompetanseheving, ved at virksomhetene systematisk må sette spørsmålet på dagsordenen», jf. Ot.prp. nr. 104 (2009–2010) side 8–9.
+
+En tilsvarende bestemmelse ble innført når det gjelder drøfting av bruken av *innleie* med Prop. 74 L (2011–2012). Det fremgår av forarbeidene at «Drøftingsplikten omfatter den samlede innleiebruken i virksomheten, slik at både lov- og avtalebasert innleie må sees i sammenheng under drøftingen. Drøftingsplikten omfatter også praktiseringen av kravet om likebehandling. Dersom det ikke benyttes innleid arbeidskraft i virksomheten, utgår drøftingsplikten. Plikten skal likevel følges opp dersom virksomheten har benyttet eller ventelig vil benytte seg av slik arbeidskraft gjennom året. Arbeidsgiver vil i tilknytning til drøftingen gi den informasjon og legge frem den dokumentasjon som setter partene i stand til å gjennomføre en reell drøfting av virksomhetens bruk av innleid arbeidskraft og praktiseringen av kravet om likebehandling.» Det gjelder en drøftingsplikt både ved innleie fra bemanningsforetak, jf. § 14-12 og ved innleie fra produksjonsbedrift, jf. § 14-13.
+
+Kapittel 10 om *arbeidstid* har flere bestemmelser som innebærer drøftingsplikt. Loven stiller krav til drøfting av arbeidsplaner, jf. § 10-3, bruk av overtid, søndagsarbeid og nattarbeid, jf. §§ 10-6, 10-10 og 10-11.
+
+Det følger videre av § 9-2 at arbeidsgiver plikter så tidlig som mulig å drøfte behov, utforming, gjennomføring og vesentlig endring av *kontrolltiltak* i virksomheten med arbeidstakernes tillitsvalgte. Bestemmelsen krever også at kontrolltiltak evalueres jevnlig med de tillitsvalgte.
+
+Nærmere om lovens tillitsvalgtbegrep
+
+Begrepet «tillitsvalgt» går igjen en rekke steder i loven. Begrepet benyttes gjerne der loven oppstiller krav til kollektive rettigheter knyttet til informasjon og drøfting, jf. ovenfor. For enkelte bestemmelser angir forarbeidene nærmere hvem som anses som tillitsvalgt etter bestemmelsen, mens i andre bestemmelser er forarbeidene tause. I forbindelse med lovrevisjonen i 2005 kom departementet med følgende generelle uttalelse, jf. Ot.prp. nr. 49 (2004–2005) punkt 9.4.6:
+
+Departementet foreslår at gjeldende terminologi i loven med hensyn til uttrykket «tillitsvalgte» som betegnelse for hvem som er arbeidstakernes representanter videreføres. Hvem som skal regnes som tillitsvalgt eller representant for arbeidstakerne bør som nå avgjøres etter en fortolkning av den enkelte bestemmelse. Det avgjørende skal fortsatt være om de arbeidstakere som berøres av de konkrete spørsmål det er tale om, er representert. Departementet presiserer at termen «tillitsvalgt» ikke skal forstås snevert som bare representanter for arbeidstakere som er organisert i tradisjonelle fagforeninger/fagforbund og som er valgt i henhold til en tariffavtale som virksomheten er bundet av. Det kan også være tale om representanter for en fast eller ad-hoc sammenslutning av to eller flere personer uten organisasjonsmessig tilknytning (husforening). Begrepet kan i tillegg omfatte andre valgte representanter for arbeidstakere som ikke er fagforeningsmedlemmer. Dette er i tråd med gjeldende forståelse av arbeidsmiljøloven.
+
+I kravene til informasjon og drøfting etter kapittel 8 er det i forarbeidene påpekt at tillitsvalgtbegrepet kan omfatte en vid krets av «arbeidstakerrepresentanter», jf. lovmerknadene i Ot.prp. nr. 49 (2004–2005):
+
+Retten til informasjon og drøfting gjelder tillitsvalgte i virksomheten. Poenget er at arbeidsgiver skal informere og drøfte med representanter for arbeidstakerne. Arbeidsgiver må sørge for at de arbeidstakere som berøres av eventuelle beslutninger, tiltak og så videre er representert når informasjon og drøfting gjennomføres. Gjennomføringen av informasjon og drøfting kan legges til arbeidsmiljøutvalg etter § 7-3 eller til avtalt samarbeidsorgan etter § 7-2 dersom dette er hensiktsmessig. I disse tilfellene vil verneombudet og arbeidstakernes representanter i samarbeidsorganet/arbeidsmiljøutvalget oppfylle lovens krav til representativitet.
+
+Senere forarbeidsuttalelser synes å forutsette at en slik vid krets av arbeidstakerrepresentanter gjelder generelt der loven bruker tillitsvalgtbegrepet, jf. blant annet uttalelser ved innføring av drøftingsplikt om bruk av midlertidig ansettelse i Prop. 104 L (2009–2010) side 14:
+
+Når det gjelder begrepet «tillitsvalgte» legges samme forståelse til grunn som for arbeidsmiljøloven for øvrig, for eksempel i §§ 9-2 og 16-5, slik at også for eksempel verneombud og andre valgte tillitspersoner kan opptre som representanter for arbeidstakerne. Bestemmelsen vil således komme til anvendelse selv om virksomheten ikke har tillitsvalgte i tariffrettslig forstand.
+
+Pliktene som ligger på arbeidsgiver om å involvere tillitsvalgte i ulike saker, forutsetter at det *er* tillitsvalgte i virksomheten som kan representere arbeidstakerne. Foruten kravet til verneombud og arbeidstakerrepresentanter i AMU, oppstiller ikke loven noe eksplisitt krav om at det *skal* være tillitsvalgte i virksomheten. Det kan antas at i virksomheter uten organisasjonstillitsvalgte, vil verneombud eller andre tillitspersoner valgt ad hoc eller for lengre varighet, i praksis være de som representerer arbeidstakerne i ulike drøftinger mv.
+
+### Selskapslovgivningens ordninger
+
+Selskapslovgivningens ordninger for medbestemmelse omtales gjerne som bedriftsdemokrati eller rett til ansatterepresentasjon. Retten til ansatterepresentasjon i et foretaks styrende organer omfatter blant annet representasjon i foretakets styre, bedriftsforsamling, selskapsmøte mv. Retten er regulert i respektive foretaks særlovgivning, for eksempel aksjeloven, selskapsloven og stiftelsesloven. Reguleringene om ansatterepresentasjon er i stor grad sammenfallende for de forskjellige selskapsformene. Aksjeloven med tilhørende forskrifter vil i det følgende brukes som eksempel på hvilke reguleringer som finnes.
+
+Ansattes rett til å velge styrerepresentant betinges normalt av at selskapet har et visst antall ansatte, og at det fremsettes krav om styrerepresentasjon. Se for eksempel aksjeloven § 6-4 første ledd hvor det fremgår at «Når et selskap med flere enn 30 ansatte ikke har bedriftsforsamling, jf. § 6-35, kan et flertall av de ansatte kreve at ett styremedlem og en observatør med varamedlemmer velges av og blant de ansatte». I selskaper med over 200 ansatte er det en plikt til å ha ansatterepresentasjon i styrene, jf. § 6-4 tredje ledd.
+
+Som ansattevalgt styrerepresentant har man de samme rettigheter og plikter som øvrige aksjonærvalgte styremedlemmer.
+
+Retten til ansatterepresentasjon er i utgangspunktet knyttet til det enkelte selskap. I konsernforhold kan det i tillegg etableres såkalte konsernordninger, jf. § 6-5. En konsernordning innebærer at ansatte i datterselskaper er valgbare og stemmeberettigede ved valg til morselskapets styre, og at de skal regnes som ansatt i morselskapet ved beregningen av antall ansatte som utløser rett til ansatterepresentasjon, jf. aksjeloven og allmennaksjeloven § 6-4 første og andre ledd. Det samme gjelder gruppe av foretak som er knyttet sammen gjennom eierinteresser eller felles ledelse, jf. aksjeloven og allmennaksjeloven § 6-5 tredje ledd. Det fremgår av Ot.prp. nr. 19 (1974–75) side 79:
+
+Forutsetningen for anvendelse av det foran gjengitte alternativ er at gruppen er knyttet sammen ved eierinteresser eller felles ledelse. Konserndefinisjonen i § 1-2 forutsetter at morselskapet er et aksjeselskap, og konserndefinisjonen er blant annet av denne grunn ikke tilstrekkelig i denne sammenheng. Dessuten omfatter alternativet tilfelle hvor to eller flere foretak har felles ledelse – et uttrykk som omfatter også tilfelle hvor flertallet i de styrende organer består av de samme personer eller representanter for de samme interessenter. Det er ikke noen forutsetning for bruk av dette alternativ at det ene foretak står i et overordnet forhold til det annet – foretakene kan være sideordnet.
+
+Rett til representasjon i morselskapets styre kommer som hovedregel i tillegg til styrerepresentasjon i det selskapet de er ansatt. Hensynet bak konsernordninger er at ansatte skal få medbestemmelses- og påvirkningsmulighet der avgjørelser av betydning for de ansatte treffes. Se også omtale av begrunnelsen for konsernordning i Ot.prp. nr. 19 (1974–1975) side 77:
+
+Karakteristisk for konserner er at de er hierarkisk oppbygd. I spissen for konsernet står et morselskap som har dominerende innflytelse over ett eller flere datterselskaper, se definisjonen i § 1-2. Den politikk morselskapet legger opp til, får derfor ofte avgjørende innflytelse på resultatet i datterselskapet. Dette er bakgrunnen for at aksjelovforslaget i en rekke relasjoner behandler konsernet som en enhet.
+
+For de ansatte i datterselskap foreligger en naturlig interesse for å bli representert i morselskapets organer. Dette er en løsning som kan kombineres med at de ansattes representasjon overføres fra de enkelte datterselskaper til morselskapet, eller ved at de gis representasjon både i datterselskapet og i morselskapet. Det fins en rekke mellomløsninger, f.eks. kan man sløyfe bedriftsforsamling, men beholde styrerepresentasjon i datterselskapene.
+
+Begrunnelsen for konsernordninger har altså sin bakgrunn i et morselskaps bestemmende innflytelse, jf. konserndefinisjonen i aksjeloven § 1-3, og det forhold at morselskapet ofte treffer avgjørelser av betydning for datterselskapene.
+
+Konsernordning er ingen ubetinget rett, men kan etableres på to måter. For det første følger det av aksjeloven og allmennaksjeloven § 6-5 første ledd at partene kan inngå avtale om konsernordning. Forutsetningen for en slik avtale er at ordningen omfatter alle ansatte i konsernet, jf. forskrift om de ansattes rett til representasjon i aksjeselskapers og allmennaksjeselskapers styre og bedriftsforsamling mv. (representasjonsforskriften) § 42 første ledd. Såkalte delkonsernordninger, hvor den felles representasjonsordningen kun omfatter deler av konsernet, kan dermed ikke avtales. Det er også et vilkår for avtalens gyldighet at de ansatte fortsatt har rett til representasjon i henhold til aksjeloven og allmennaksjeloven § 6-4 i selskapet hvor de er ansatt, jf. representasjonsforskriften § 42 tredje ledd. Partene kan med andre ord ikke avtale at konsernrepresentasjon skal komme i stedet for representasjon hos egen arbeidsgiver.
+
+For det andre følger det av § 6-5 andre ledd at når det ikke er inngått avtale etter første ledd, kan Tvisteløsningsnemnda etter søknad fra konsernet, et flertall av dets ansatte eller én eller flere lokale fagforeninger som representerer et flertall av de ansatte i konsernet, treffe vedtak om konsernordning. Nemndas kompetanse til å treffe vedtak omfatter også delkonsernordninger, jf. aksjeloven § 6-5 fjerde ledd.
+
+Etter norsk rett vil konsernordninger også kunne omfatte utenlandske datterselskaper, ved at ansatte i utenlandske datterselskaper er valgbare og stemmeberettigede til et norsk morselskaps styre. Dette er en forutsetning dersom konsernordning *avtales*, jf. representasjonsforskriften § 42, som forutsetter at en avtale om konsernordning må omfatte «alle ansatte i konsernet». Dette omfatter dermed også ansatte i utenlandske datterselskaper. Eventuelle delkonsernordninger som ikke omfatter utenlandske datterselskaper, må etter søknad avgjøres av Tvisteløsningsnemnda, jf. ovenfor. Aksjelovgivningen begrenser altså ikke retten til konsernordninger til norske selskaper. Hvorvidt ansatte i norske datterselskaper har representasjonsrettigheter i et utenlandsk morselskap, vil bero på reguleringen i det enkelte land. I EU-domstolens avgjørelse i Erzberger v. TUI (C-566/15), ble det reist spørsmål om det var forenlig med TFEU artikkel 18 (antidiskriminering) og TFEU artikkel 45 (fri bevegelse for arbeidstakere) å ha nasjonale reguleringer om at kun arbeidstakere som arbeider i den aktuelle medlemsstaten kan være valgbare og stemmeberettigede til konsernstyret.
+
+Saken gjaldt det tyskeide TUI-konsernet. Spørsmålet var om det var lov å utelukke henholdsvis arbeidstakere i utenlandske datterselskaper, samt tyske arbeidstakere som ble sendt ut til utenlandske datterselskaper, fra regler om stemmerett og valgbarhet i det tyske morselskapet. Når det gjaldt ansatte i utenlandske datterselskaper kom EU-domstolen til at artikkel 45 i TEUF ikke kom til anvendelse fordi disse arbeidstakerne ikke utøvde fri bevegelighet, jf. premiss 28-30. Når det gjaldt de utsendte arbeidstakerne, uttalte EU-domstolen for det første at EU-retten gir ingen garantier for at arbeidstakere som flytter på seg garanteres nøytrale virkninger på det sosiale området:
+
+34 Den primære EU-ret kan imidlertid ikke garantere en arbejdstager, at en flytning fra dennes oprindelsesmedlemsstat til en anden medlemsstat har neutrale virkninger på det sociale område, idet en sådan flytning, henset til de forskelle, der er mellem medlemsstaternes ordninger og lovgivninger, i det konkrete tilfælde kan være mere eller mindre fordelagtig eller bebyrdende for den pågældende person med hensyn til dette område, jf. analogt dom af 26.4.2007, Alevizos, C-392/05, EU:C:2007:251, præmis 76 og den deri nævnte retspraksis, og af 13.7.2016, Pöpperl, C-187/15, EU:C:2016:550, præmis 24.
+
+35 Som generaladvokaten i det væsentlige har anført i punkt 75 og 78 i forslaget til afgørelse, giver artikel 45 TEUF ikke denne arbejdstager ret til at påberåbe sig de arbejdsvilkår i værtsmedlemsstaten, som vedkommende var berettiget til i sin oprindelsesmedlemsstat i overensstemmelse med den nationale lovgivning i sidstnævnte medlemsstat.
+
+Dessuten viste EU-domstolen til at regler om ansatterepresentasjon i et innenlandsk selskap på nåværende tidspunkt ikke var et område som var harmonisert på EU-plan. EU-retten var derfor ikke til hinder for slik regulering som saken omhandlet:
+
+36 I denne forbindelse tilføjes, at medlemsstaterne, da der ikke er harmoniserings- eller koordineringsforanstaltninger på det pågældende område på EU-plan, som udgangspunkt stadig frit kan fastlægge kriterierne for, at den pågældende situation har tilknytning til deres lovgivnings anvendelsesområde, under forudsætning af at disse kriterier er objektive og ikke medfører uberettiget forskelsbehandling.
+
+37 I denne sammenhæng er EU-retten ikke til hinder for, at en medlemsstat, for så vidt angår repræsentation og kollektivt forsvar af arbejdstagernes interesser i et indenlandsk selskabs ledelses- og bestyrelsesorganer – et område, der på nuværende tidspunkt ikke er blevet harmoniseret endsige koordineret på EU-plan – fastsætter, at de af medlemsstaten vedtagne regler kun finder anvendelse på arbejdstagere, der er beskæftiget ved driftssteder beliggende på det nationale område, ligesom det også er tilladt for en anden medlemsstat at opstille et andet tilknytningsmoment med henblik på anvendelse af dennes egne nationale regler.
+
+Avgjørelsen innebærer i praksis at det ikke foreligger EU-rettslige begrensninger i at medlemsstater kan ha nasjonale reguleringer som utelukker utenlandske arbeidstakere fra å ha representasjonsrettigheter i den enkelte medlemsstat. Se likevel omtale av medvirkningsordninger i grensekryssende selskapsforhold i punkt 8.8.5 nedenfor.
+
+### Tariffbaserte ordninger
+
+De fleste hovedavtalene har bestemmelser om medbestemmelse, drøfting, informasjon og prosedyrer for samarbeid og for konfliktløsning. De tariffbaserte rettighetene kommer normalt i tillegg til, eller hvis loven åpner for det, i stedet for de lovbestemte rettighetene, og gjelder for de arbeidstakerne og virksomhetene som omfattes av de respektive avtalene. Som et generelt utgangspunkt er reguleringene i hovedavtalene gjerne noe mer detaljerte og omfattende med hensyn til informasjons- og drøftingsplikten sammenlignet med lovens ordninger. Et viktig skille er også at hovedavtalene normalt ikke begrenser pliktene til kun å gjelde større selskaper, slik tilfellet er i arbeidsmiljøloven kapittel 8, men gjelder for de virksomhetene som er bundet av tariffavtalene uavhengig av størrelse. En annen forskjell er at når hovedavtalene stiller krav til involvering av «tillitsvalgte», så menes de tillitsvalgte som er knyttet til de forbund eller fagforeninger som hører inn under avtalen. Dette i motsetning til lovens medvirkningsordninger hvor begrepet tillitsvalgt normalt ikke stiller krav til fagforeningstilhørighet, men kan være andre tillitsvalgte som representerer de ansatte, jf. ovenfor i punkt 8.8.2.
+
+Når det gjelder de konkrete hovedavtalene, kan disse sorteres under fem hovedområder; Hovedavtalene i NHO-området, Hovedavtalene i Virke-området, Hovedavtalen i kommunal sektor, Hovedavtalen i staten, og Hovedavtalene i Spekter-området. I kommunal sektor har dessuten Oslo kommune en egen hovedavtale.
+
+NHO har 13 hovedavtaler som alle har kapittel om informasjon, samarbeid og medbestemmelse og som med enkelte variasjoner bygger på Hovedavtalen (Arbeideravtalen) mellom LO og NHO. Hovedavtalen mellom YS og NHO er lik Hovedavtalen mellom LO og NHO.
+
+Hovedavtalen LO-NHO er den første som kom i stand og har vært mønsterdannende på mange områder. Derfor gis det en noe mer utfyllende omtale av denne. Sentralt i denne sammenheng er særlig Hovedavtalens Del A kapittel IX om informasjon, samarbeid og medbestemmelse, samt Del B «Samarbeidsavtalen» som også inneholder bestemmelser om konsernforhold i kapittel XVI.
+
+En generell målsetting for partssamarbeidet fremgår av § 9-1, hvor det heter:
+
+LO og NHO er enige om nødvendigheten av at det legges til rette for et godt og tillitsfullt forhold mellom arbeidstakerne, deres tillitsvalgte og ledelsen i enkeltselskaper og i konsern.
+
+De ansatte og deres tillitsvalgte skal ha reell medinnflytelse og gjennom samarbeid, informasjon og drøftelse bidra til økt verdiskaping og produktivitet og derved til de økonomiske forutsetninger for bedriftens fortsatte utvikling og trygge og gode arbeidsplasser.
+
+Samarbeid og medvirkning må tilpasses bedriftens art, størrelse, faktiske styringsstruktur mv., jf. § 9-2. Det følger av § 9-3, som regulerer drøftelser om bedriftens ordinære drift, at ledelsen skal drøfte med de tillitsvalgte spørsmål som vedrører den økonomiske og produksjonsmessige stilling og utvikling, forhold som har umiddelbar sammenheng med arbeidsplassen og den daglige drift, og de alminnelige lønns- og arbeidsforhold ved bedriften. Drøftelser skal holdes så tidlig som mulig og minst en gang i måneden, hvis det ikke er enighet om noe annet, og for øvrig når de tillitsvalgte ber om det. Drøftelser skal også skje ved *mulige endringer*, herunder omlegging av driften, jf. § 9-4 og om selskapsrettslige forhold, jf. § 9-5. Paragraf 9-6 regulerer forskjellen mellom drøftelse og informasjon. Paragraf 9-6 nr. 1 regulerer en plikt for ledelsen til å la tillitsvalgte *fremme synspunkter før beslutning tas*. Før ledelsen treffer sine beslutninger i saker som angår arbeidstakernes sysselsetting og arbeidsforhold skal dette *drøftes* med de tillitsvalgte. I de tilfellene ledelsen ikke finner å kunne ta hensyn til de tillitsvalgtes anførsler, skal den begrunne sitt syn. Paragraf 9-6 nr. 2 regulerer ledelsens plikt til å *informere* tillitsvalgte om årsaker til og virkninger av ledelsens disposisjoner. I saker som omhandler forhold omfattet av §§ 9-4 og 9-5 skal tillitsvalgte informeres om årsakene til ledelsens disposisjoner samt de juridiske, økonomiske og arbeidsmessige konsekvenser disse må antas å få for arbeidstakerne.
+
+Det er inntatt en egen bestemmelse om drøftelser innen konsern, jf. § 9-12, hvor det fremgår at hvis det er planer om utvidelser, innskrenkninger eller omlegginger som også kan få vesentlig betydning for sysselsettingen i flere enheter i konsernet, skal konsernledelsen så tidlig som mulig drøfte disse spørsmål med et koordinerende utvalg av tillitsvalgte etter § 16-2 tredje ledd for arbeidstakere som går inn under Del A, uten hensyn til om bedriftene er bundet av felles overenskomst. Konsernledelsen kan tilkalle representanter for ledelsen innen de bedrifter saken gjelder. Begrepet «konsern» i Hovedavtalen omfatter også sammenslutninger av juridiske og/eller administrativt selvstendige enheter, (for eksempel aksjeselskaper og/eller divisjoner) som finansielt, og delvis også administrativt og kommersielt danner en enhet, jf. § 9-12 tredje ledd.
+
+Bestemmelsene i Del B (Samarbeidsavtalen) er ment å skulle legge grunnlaget for samarbeidsformer mellom arbeidstakere og ledelsen som bidrar til å sikre det økonomiske grunnlaget for bedriftens fremtid og dermed for trygge og sikre arbeidsforhold. Samarbeid etter Del B kan i tillegg til de tillitsvalgte etter Del A også omfatte representanter for ansatte uten organisasjonsmessig tilknytning (fagforeninger). De viktigste bestemmelsene er etablering av bedriftsutvalg, avdelingsutvalg, konsernutvalg og konserntillitsvalgt, jf. omtale i NOU 2010: 1 punkt 7.1.
+
+Virke har hovedavtaler med henholdsvis LO, YS og NITO, samt en hovedavtale/parallellavtale med 32 arbeidstakerorganisasjoner. Hovedavtalene bygger med enkelte variasjoner på de samme grunnprinsippene. Bestemmelser om informasjon, samarbeid og medbestemmelse finnes i kapittel IV i Hovedavtalen mellom Virke og LO. Det fremgår av § 4-1.1 at «gjennom medinnflytelse og samarbeid skal de ansatte med sin erfaring og innsikt være med på å sikre økonomiske forutsetninger for effektiv drift, bærekraftig utvikling, og trygge og gode arbeidsforhold til beste for så vel bedrift som ansatt.» Hovedavtalen har flere og detaljerte bestemmelser om involvering av de ansatte og hvilken informasjon som skal gis.
+
+KS har én hovedavtale med 40 ulike arbeidstakerorganisasjoner under forhandlingssammenslutningene LO Kommune, YS Kommune, Unio, Akademikerne Kommune samt to frittstående forbund. Hovedavtalen regulerer bestemmelser om medbestemmelse i form av informasjon og drøfting både i kommunal og fylkeskommunal sektor (Del A og B), samt i tariffområdet Samfunnsbedriftene (Del A og C). I Hovedavtalen Del C § 4 er det regulert særlige bestemmelser om konsern, blant annet om drøftinger innen et konsern. Planer om utvidelser, innskrenkninger eller omlegninger som kan få vesentlig betydning for sysseltettingen i flere bedrifter innen samme konsern, skal drøftes så tidlig som mulig i fellesmøter mellom konsernledelsen og tillitsvalgte, jf. § 4-5 siste ledd.
+
+I kommunal sektor har dessuten Oslo kommune en egen Hovedavtale, som er inngått mellom Oslo kommune og 26 arbeidstakerorganisasjoner tilknyttet LO, YS, Unio og Akademikerne. I formålsbestemmelsen til avtalen legges det vekt på viktigheten av samarbeid for å utvikle et godt arbeidsmiljø, øke effektiviteten til beste for byens innbyggere, de ansatte og for Oslo kommune. Det poengteres at et godt og tillitsfullt forhold i virksomhetene er nødvendig.
+
+Hovedavtalen i staten er inngått mellom Kommunal- og moderniseringsdepartementet (KMD) og hovedsammenslutningene LO Stat, YS Stat, Unio og Akademikerne. Avtalens hovedformål er å skape et best mulig samarbeidsgrunnlag mellom partene på alle nivåer, herunder å gi grunnlag for arbeidstakernes rett til medbestemmelse og reell innflytelse på hvordan deres arbeidsplass skal organiseres og hvordan arbeidsmetodene skal utvikles, jf. § 1.1. Hovedavtalens Del 1 omhandler medbestemmelse, og inneholder en rekke bestemmelser knyttet til informasjon, drøfting og forhandlinger. Informasjon, drøfting og forhandlinger er de tre ulike nivåene for den kollektive medvirkningen i staten. Dersom en avgjørelse skal treffes ved forhandlinger kreves det enighet mellom partene, jf. § 19. Dersom megling ikke fører frem ved en eventuell uenighet, kan de tillitsvalgte kreve saken avgjort av en partssammensatt nemnd eller bringe saken inn for fagdepartementet, jf. § 24. Medbestemmelsesordningene etter Hovedavtalen i staten er utformet slik at politiske beslutninger ikke er omfattet av partssamarbeidet, mens organisasjonene på den andre siden har forhandlingsrett i enkelte saker. En slik forhandlingsrett finnes ikke i de andre hovedavtalene, jf. Hagen mfl. (2020, side 10).
+
+Spekter har hovedavtaler med LO Stat, YS, SAN, Unio, Akademikerne, Norsk Journalistlag og Norsk Flygelederforening. Med unntak av noen bestemmelser er hovedavtalene i stor grad likelydende og følger samme struktur. Regler om informasjon, samarbeid og medbestemmelse finnes i kapittel VII i hovedavtalene. Av formålsbestemmelsen i § 28 i hovedavtalene fremgår blant annet at «gjennom medinnflytelse og samarbeid skal de ansatte med sin erfaring og innsikt være med å skape de økonomiske forutsetningene for virksomhetens fortsatte utvikling og for trygge og gode arbeidsforhold, bærekraftig utvikling av virksomheten, et godt fungerende arbeidsmiljø og resultatoppnåelse til beste for så vel virksomhet som ansatte.» Det er inntatt bestemmelser som stiller krav til drøfting både om ordinær drift, ved omlegging av drift og av selskapsrettslige forhold, jf. §§ 30 og 31. Det er egne bestemmelser om drøfting i konsern og konsernutvalg, jf. §§ 42 og 43. Etter § 42 skal planer om utvidelser, innskrenkninger eller omlegginger som kan få vesentlig betydning for sysselsettingen i flere virksomheter, drøftes med tillitsvalgte så tidlig som mulig. Spørsmål som gjelder konsernets økonomi og utvikling skal også drøftes. De tillitsvalgte skal gis mulighet til å fremme sine synspunkter før konsernledelsen treffer beslutninger i slike saker. For å ivareta de ansattes interesser i saker som behandles på konsernnivå, og som har betydning for de ansatte i konsernet som helhet, kan det velges konserntillitsvalgte. Alternativt kan det etableres et konsernutvalg sammensatt av representanter for tillitsvalgte i virksomheten. Dette gjøres blant annet i regionale helseforetak (for eksempel Helse Sør-Øst RHF) der konserntillitsvalgte representerer ansatte i foretaksgruppen i beslutninger som fattes på konsernnivå. Foretaksgruppen består av de helseforetakene regionhelseforetaket eier.
+
+I tillegg finnes en det en rekke direkteavtaler i privat sektor på bedriftsnivå, som regel inngått mellom forbund og bedrift. De fleste direkteavtaler er kopier av gjeldende avtaler inngått mellom de sentrale parter, og den aktuelle hovedavtale gjøres gjeldende. Bestemmelser om medbestemmelse, drøfting, informasjon og prosedyrer for samarbeid og for konfliktløsning brukes så langt de passer.
+
+### Medvirkning og medbestemmelse i grensekryssende selskapsforhold
+
+Med bakgrunn i ulike EU-direktiver, er det gitt visse regler for arbeidstakernes innflytelse i grensekryssende selskapsforhold i EU/EØS-området. Reglene er gjennomført i norsk rett gjennom fire ulike forskrifter, og rammeverket omfatter reguleringer om ansatterepresentasjon gjennom europeiske samarbeidsutvalg, ved grenseoverskridende fusjoner, i europeiske selskaper og i europeiske samvirkeforetak.
+
+Reglene om europeiske samarbeidsutvalg (ESU) er regulert i forskrift 28. juli 2000 nr. 79 om europeiske samarbeidsutvalg mv., og gjennomfører direktiv 2009/38/EF. Forskriften er en allmenngjort tariffavtale mellom LO og NHO, med hjemmel i lov 23. august 1996 nr. 63 om allmenngjøring av bestemmelser i tariffavtale om europeiske samarbeidsutvalg m.v. Formålet med reglene er å bedre de ansattes konsultasjons- og informasjonsrettigheter i store foretak og konserner med virksomhet i flere land innenfor EØS-området. I virksomheter med minst 1000 ansatte innenfor EØS-området, hvor det er minst 150 ansatte i hvert av minst to EØS-land, kan de ansatte fremme krav om å opprette ESU. I ESU skal det informeres og drøftes om saker av grensekryssende karakter. Reglene kommer i tillegg til de nasjonale lov- og/eller tariffbaserte ordningene i de enkelte EØS-land. Ifølge ETUIs The european works councils database er det per april 2021 40 ESU som er etablert med grunnlag i norske regler.[^123]
+
+I aksjelovene er det gitt egne regler for grensekryssende fusjoner, jf. §§ 16-25 følgende. Regler om ansattes rett til representasjon ved grensekryssende fusjoner er regulert i forskrift 9. januar 2008 nr. 50 om arbeidstakernes rett til representasjon ved fusjon over landegrensene av selskaper med begrenset ansvar. Reglene gjennomfører direktiv 2005/56/EF. Som hovedregel skal det fusjonerte selskapet være omfattet av de bestemmelser om arbeidstakernes representasjon som gjelder i medlemsstaten der selskapet har sitt forretningskontor, jf. forskriften § 4 første ledd. Dette gjelder likevel ikke dersom minst ett av de fusjonerende selskapene i løpet av de seks siste månedene forut for offentliggjøringen av fusjonsplanen har et gjennomsnittlig antall arbeidstakere på over 500, og er omfattet av reglene for representasjon i henhold til § 3 bokstav e. Hovedregelen gjelder heller ikke dersom hovedregelen gir et lavere nivå for arbeidstakernes representasjon enn det som gjelder for de berørte fusjonerende selskapene, målt i forhold til andelen arbeidstakerrepresentanter i administrasjons- eller kontrollorganet, eller deres komiteer eller i ledelsesgruppen som omfatter selskapets resultatenheter og som omfattes av arbeidstakernes representasjon. Videre gjelder ikke hovedregelen dersom hovedregelen ikke fastsetter samme rett til representasjon for arbeidstakere i driftsenheter i det fusjonerte selskapet som ligger i andre medlemsstater, som for arbeidstakerne i medlemsstaten der det fusjonerte selskapet har sitt forretningskontor. I disse tilfellene skal det opprettes et forhandlingsutvalg som skal forhandle fram en avtale om ansatterepresentasjon i selskapet, jf. forskriften §§ 5-15.
+
+Det er også gitt regler for ansatterepresentasjon i de særlige selskapsformene europeiske selskaper (SE-selskaper) og europeiske samvirkeforetak (SCE-foretak). Reglene om ansatterepresentasjon er regulert i henholdsvis forskrift 1. april 2005 nr. 273 om arbeidstakernes rett til innflytelse i europeiske selskaper og forskrift 3. november 2006 nr. 1213 om arbeidstakernes rett til innflytelse i europeiske samvirkeforetak, som gjennomfører henholdsvis direktiv 2001/86/EF og 2003/72/EF.

@@ -1,1425 +1,322 @@
-# NOU 2016: 1, del 11 av 22 (side 133–144)
+# NOU 2016: 1, del 11 av 21
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/09a7a902-nou-2016-1.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-1/id2467468/
 - Original-PDF: https://www.regjeringen.no/contentassets/32354d9ee7974df0976d76790cab566e/no/pdfs/nou201620160001000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 47 tabeller, 63 figurer, 825 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 133]
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-7.3.3
-
-Lange og sammenpressede
-arbeidsøkter
-
-Lange arbeidsuker og overtid betyr mye for hvorvidt vi opplever konflikt mellom arbeids- og familielivet. Motsatt finner studier at det er en sammenheng mellom deltid og redusert arbeid/familiekonflikt, særlig for kvinner.27
-Blant tidligere studier som har sett på «sammenpressede arbeidsuker», det vil si uker med
-om lag 37,5 timers arbeidstid fordelt på vakter på
-10–12 timer, talte funnene for at dette hadde
-ingen, eller positiv, effekt på søvnmønster, helse
-eller familieliv.28 Nyere studier som omhandler
-såkalte alternative arbeidstidsordninger, blant
-annet langturnuser med intensive eller komprimerte arbeidsperioder og vakter opp mot 13 timer
-per døgn som avløses med lange friperioder, viser
-også til økt trivsel og bedre arbeidsmiljø, fornøyde
-brukere, samt mindre stress både på jobb og i privatlivet for arbeidstakerne.29 30 31 En viktig forutsetning for at disse arbeidstidsordningene lykkes,
-ser ut til å være arbeidstakernes innflytelse og
-medbestemmelse over egne arbeidsvilkår.
-Blant studier som har undersøkt lange
-arbeidsuker, uker med mer enn 45 arbeidstimer,
-er det sterke holdepunkter for at arbeidstakerne
-opplever utfordringer knyttet til balansen mellom
-arbeid og privatliv målt ved økt konfliktnivå mellom arbeid og familie, tid til familie og egne sysler.32 33 Dette gjelder for studier der bare kvinner
-eller begge kjønn er inkludert. Enkelte studier
-som bare omfatter menn, finner ingen sammenheng mellom arbeidsperiodens lengde og påvirkning på balansen mellom arbeid og privatliv.
-
-7.3.4
-Fleksibel arbeidstid
-Fleksibel arbeidstid kan anses som et gode i
-arbeidslivet fordi det gir mulighet for å tilpasse
-arbeidstiden etter egne behov. Men bildet er ikke
-helt entydig.34 Når arbeidstakeren selv kan
-påvirke sin arbeidstid, ser fleksibel arbeidstid ut
-til å virke positivt på opplevelsen av arbeid/familiekonflikt ved å legge til rette for familieliv. Flere
-studier av fleksible arbeidstidsordninger kobler
-dette til redusert stress og mindre sykefravær for
-arbeidstakeren.35 36
-Forskning gjort på tidsfleksibilitet i et likestilling- og arbeid-familie perspektiv finner imidlertid
-tydelige forskjeller på menn og kvinners bruk av
-tidsfleksibilitet i forhold til arbeid og familie.
-Ifølge disse studiene bruker kvinner fleksibiliteten til å ivareta familien/barna, mens menn bruker den til å fremme egne karrierehensyn.37 38
-Økt fleksibilitet kan derfor også gjøre det vanskeligere for arbeidstakere med omsorgsforpliktelser
-og kan skape negative konsekvenser for kvinners
-karriere og for kjønnslikestilling på arbeidsplassen.39 40
-Fleksibiliteten kan også føre til grensene mellom arbeid og fritid/familie blir uklare, og skape
-spenninger i familien, særlig for kvinner. De skandinaviske landene har i større grad enn andre
-europeiske land hatt et mål om likestilt arbeid/
-omsorg der kvinner og menn skal være forholdsvis likt representert i lønnsarbeid og i ulønnet
-arbeid i hjemmet.41 Likevel er arbeidsdelingen
-fortsatt kjønnsdelt i Norge. Menn bruker riktig34
-
-35
-
-27
-
-STAMI (2015): Faktaboka om arbeidsmiljø 2015, STAMIrapport nummer 3, 2015.
-28
-Moen, S.E. m.fl. (2011): Sosiale og helsemessige konsekvenser av arbeidstidsordninger i helse,- pleie- og omsorgssektoren. En litteraturstudie. Fafo-notat 2011:11.
-29
-Olberg, D. og H. Nicolaisen (2013): Arbeidstid – dilemmaer
-og utfordringer. Fafo-rapport 2013:17.
-30
-Moland, L.E. og K. Bråthen (2012): Langturnus og hele stillinger i Bergen Kommune. Arbeidstid i tjenester for
-utviklingshemmede og psykisk syke. Fafo-rapport 2012:60.
-31
-Engbråten, A.L. (2015): Fra skadebegrensning til tjenesteutvikling, Evaluering av langturnus i Lillevollen bofellesskap i Bodø kommune.
-32
-Caruso, C.C. m.fl. (2006): Long working hours, safety and
-health: Towards a national research agenda. American
-Journal of Industrial Medicine. Vol 49, Issue 11, p. 930–942.
-33
-Albertsen, K. m.fl. (2007): Working time arrangements and
-social consequences – what do we know? TemaNord 2007:
-607, København: Nordic Council of Ministers.
-
-133
-
-Kapittel 7
-
-36
-
-37
-
-38
-
-39
-
-40
-
-41
-
-Albertsen, K. m.fl. (2007): Working time arrangements and
-social consequencies – what do we know? TemaNord 2007:
-607, København: Nordic Council of Ministers.
-Darr, W. og G. Johns (2008): Work strain, health and absenteeism, Journal of Occupational Health Psychology, 13:
-293–318.
-Grzywacz, J.G., D.S. Carlson og S. Shulkin (2008): Schedule flexibility and stress: linking formal flexible arrangement and perceived flexibility to employee health, Work
-and Family, 11: 199–214.
-Boje, T.P. (2007): Welfare and work. The gendered organisation of work and care in different European Countries.
-European Review 15 (3): 373–395.
-Gatrell, C.J. and C.L. Cooper (2008): Work-life balance:
-Working for whom?, European Journal of International
-Management, 2(1): 71–86.
-Eikhof, D.R. (2012): A double-edged sword: twenty-first
-century workplace trends and gender equality, Gender in
-Management: An International Journal, 27(1): 7–22.
-Lyng, S.T. og S. Halrynjo (2010): Fars forkjørsrett – mors
-vikeplikt? Karriere, kjønn og omsorgsansvar i eliteprofesjoner, Tidsskrift for samfunnsforskning, 51(2): 249–275.
-Nicolaisen, H.(2012): Innarbeidingsordninger og familieliv
-– erfaringer fra helsesektoren og industrien, søkelys på
-arbeidslivet, 29: 224–241.
-
-[Side 134]
-
-134
-
-NOU 2016: 1
-
-Kapittel 7
-
-Arbeidstidsutvalget
-
-nok mer tid på barnepass og husarbeid enn før,
-men kvinner gjør fortsatt mest. Kvinner kan derfor oppleve mer tidspress fordi de har større husarbeidsbyrde, fordi mange husholdsoppgaver
-ikke lar seg utsette, og fordi kvinner oftere har en
-rolle som koordinator av familiens aktiviteter.42 43
-
-7.4
-
-Arbeidstid og produktivitet
-
-Arbeidstidens lengde, organisering og plassering
-i løpet av døgnet, uken eller året kan påvirke produktiviteten gjennom virkninger på produktiviteten til de enkelte arbeidstakerne, men også gjennom hvordan bedriftene organiserer produksjonen og utnytter tilgjengelige ressurser. Det eksisterer ingen stor forskningslitteratur på sammenhengen mellom produktivitet og arbeidstid.
-
-7.4.1
-
-Arbeidstidens lengde og
-produktivitet
-Hvilken type arbeidstidsordning som er mest produktiv, vil avhenge av arbeidsoppgavene og andre
-forhold knyttet til arbeidet. Ut ifra enkle samfunnsøkonomiske resonnementer kan en skissere
-noen viktige sammenhenger. I jobber som innebærer betydelige faste kostnader for den enkelte
-arbeidstaker, for eksempel til opplæring, informasjon og administrasjon, vil det vanligvis være mest
-produktivt med arbeidstakere som jobber fulltid.
-I jobber som er slitsomme, eller der behovet
-for arbeidskraft er særlig høyt i mer kortvarige
-perioder, som bussjåfører i rushtiden, kan det
-være mest produktivt med kortere arbeidstid som
-er tilpasset arbeidskraftbehovet. I virksomheter
-der man bruker dyrt kapitalutstyr vil det være viktig å få høy brukstid på kapitalutstyret. Hvis det er
-behov for betydelig opplæring av de ansatte, vil
-det være mest produktivt med lang arbeidstid.
-Dette har tradisjonelt blitt anført som et argument
-for å tillate lange eller ubekvemme arbeidstider
-innen industri, men kan i like stor grad gjelde i
-forhold til effektiv utnyttelse av dyrt medisinsk
-utstyr eller andre former for dyre investeringer i
-både privat og offentlig sektor. Produktivitetskommisjonens første rapport (NOU 2015: 1) framhever mulighetene for bedre ressursutnyttelse på
-dette området. Hvis opplæringsbehovet er min-
-
-dre, kan man sikre høy brukstid på kapitalutstyret
-med mange ansatte istedenfor lang arbeidstid.
-Tretthet og behov for søvn og hvile setter
-imidlertid fysiologiske begrensninger for hvor
-lenge og hvor effektivt arbeidstakere kan arbeide,
-og innebærer at produktiviteten vil være avtagende ved lang arbeidstid. Det er ikke opplagt
-hvor grensen går mellom økende eller avtagende
-gjennomsnittsproduktivitet knyttet til arbeidstid
-eller arbeidstidens organisering. Trolig er lengden på arbeidstiden som gir høyest gjennomsnittsproduktivitet forskjellig i ulike bransjer og
-yrker.
-Pencavel (2014) beskriver hvordan analyser av
-enkeltbedrifter mot slutten av 1800-tallet og tidlig
-på 1900-tallet bidro til en oppfatning av at svært
-lang arbeidstid ikke var produktivt.44 I første halvdel av det 20. århundre ble det også gjennomført
-en rekke analyser etter oppdrag fra nasjonale
-myndigheter i USA som viste produktivitetsvirkninger av redusert arbeidstid. Slike analyser i
-både USA og andre land hadde trolig betydning
-for utviklingen av arbeidstidsreguleringer i de
-fleste utviklede landene de siste 50 årene.
-Cette (2011) analyserer hvordan gjennomsnittlig arbeidstid i 18 (rike) OECD-land, inkludert
-Norge, henger sammen med arbeidsproduktivitet.45 Analysen er basert på seks utvalgte år fra
-1870 til 2005 og årlige data for tidsperioden 1950–
-2005. Arbeidstid på henholdsvis 1 825, 1 925 og 2
-025 timer i året undersøkes, noe som tilsvarer
-henholdsvis 38, 40 og 42 gjennomsnittlige arbeidstimer for 48 arbeidsuker i året. Analysene tar også
-hensyn til at sysselsettingsratene var forskjellige i
-landene som ble undersøkt. Resultatene tyder på
-at produktiviteten av arbeidstid er avtagende ved
-de angitte nivåene, særlig for de to høyere nivåene: en økning i arbeidstid på 1 prosent ved 1 925eller 2 025-timers arbeidstid henger sammen med
-en nedgang i produktivitet på henholdsvis 0,9 og 1
-prosent. Resultatene må allikevel tolkes med varsomhet, da studien ikke kunne ta høyde for inntektseffekten av produktivitetsvekst som skyldes
-andre forhold, det vil si at en del av velstandsøkning fra teknologisk utvikling muligens vil tas ut
-som økt fritid (redusert arbeidstid). Det blir dermed vanskelig å skille mellom årsak og virkning i
-analysen.
-44
-
-42
-
-Vaage, O.F. (2012): Tidene skifter. Tidsbruk 1971–2010.
-Statistisk sentralbyrå.
-43
-Holter, Ø.G., H. Svare og C. Egeland (2008): Likestilling og
-livskvalitet, AFI-rapport 1 2008.
-
-45
-
-Pencavel, J. (2014) The productivity of working hours, IZA
-Discussion Paper No. 8129.
-Cette, G., S. Chang og M. Konte (2011): The decreasing
-returns on working time: an empirical analysis on panel
-country data, Applied Economics Letters, (18(7), 16771682.
-
-[Side 135]
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-135
-
-Kapittel 7
-
-Shepard og Clifton (2000) tar for seg sammenhengen mellom overtidsbruk og produktivitet i 18
-industrinæringer i USA i perioden 1956–1991.46
-Analysene antyder at en økning i overtidstimer på
-10 prosent hang sammen med en produktivitetsnedgang på cirka 2–4 prosent for de fleste næringene som ble undersøkt. Slike sterke, negative
-effekter var ikke tilstede for alle næringene, og de
-negative effektene som ble avdekket varierte en
-del mellom næringene.
-Garnero et al (2014)47 analyserer et mål på
-gjennomsnittlig produksjon i virksomhetene og
-relaterer dette til innslag av deltid vs. heltid. Studien finner at høyere innslag av deltid henger
-positivt sammen med gjennomsnittlig produksjon.
-De finner imidlertid ingen sammenheng mellom
-gjennomsnittlig lønnsnivå og deltidsinnslag i virksomhetene. Når de så konstruerer et mål på gjennomsnittlig produksjon i forhold til gjennomsnittlig lønn finner de dermed at deltid er lønnsom for
-bedriftene. Deltid er da lønnsom for bedriftene
-fordi de kan betale lavere lønn til deltidsarbeidende enn den høyere produktiviteten til deltidsarbeid skulle tilsi.
-I en studie fra Fafo48 gjort i deler av kommuneog helsesektoren pekes det på at større stillingsprosent kan føre med seg større eierskap til jobben og arbeidsoppgavene, samt bedre arbeidsmiljø. I disse virksomhetene fant man at å ha ansatte
-i større stillingsandeler ga bedre muligheter til å
-beholde verdifull kompetanse, mindre turnover
-og et bedre omdømme som arbeidsplass. I helseog omsorgssektoren vil økt bruk av heltid ifølge
-studien kunne gi høyere kompetanse, og bidra til
-at brukerne får færre ansatte å forholde seg til,
-noe som kan gi kvalitetsforbedringer. Alt i alt
-peker dette i retning av at det er en positiv sammenheng mellom høyt innslag av heltidsstillinger
-og god drift.
-Andre aspekter av måten arbeidstiden organiseres på kan også virke inn på forholdet mellom
-
-arbeidstid og produktivitet. Dette kan gjelde for
-når arbeidstiden plasseres i løpet av et døgn, uke
-eller år eller om arbeidstakeren har noe fleksibilitet i forhold til hvor og når arbeidet gjennomføres.
-En type arbeidstidsordning som har blitt hyppig diskutert er fleksibel arbeidstid. Her er det
-imidlertid viktig å skille mellom fleksible løsninger som arbeidsgiveren bestemmer, og fleksible
-ordninger hvor arbeidstakere har noe kontroll
-over når arbeidstiden avvikles. Golden (2012)
-snakker om «variabel arbeidstid» når fleksibiliteten gjelder arbeidsgiverens disponering av
-arbeidstid og «fleksible ordninger» når noe kontroll over egen arbeidstid overlates til arbeidstakere.49 Ifølge oversiktene i både Baltas et al
-(1999) og Golden (2012) finnes det en rekke fordeler med fleksible ordninger, og disse kan tenkes å være gunstige for produktiviteten50. Fleksible ordninger kan gjøre det lettere for arbeidstakere å legge arbeidstimer til tider av døgnet når
-de er mest opplagte eller er minst utsatte for forstyrrelser. Dette henger sammen med den mer
-generelle innsikten at mer autonomi på jobb kan
-være gunstig for trivsel og derigjennom produktivitet. Fleksible ordninger kan i tillegg i noen grad
-veie opp for stress og andre eventuelle negative
-effekter av lang arbeidstid (Golden 2012).
-En annen type arbeidstidsordning som har
-blitt mye omtalt er «komprimerte arbeidsuker»,
-det vil si at ukentlige arbeidstimer fordeles over
-færre dager enn det som er vanlig. Dette kan tenkes å ha både positive og negative effekter på produktiviteten. Mulige ulemper knyttes opp mot lengre arbeidsøkter, mens mulige fordeler handler
-om større fleksibilitet og lavere kostnader knyttet
-til færre arbeidsøkter (eksempelvis reisekostnader eller oppstartskostnader). En meta-analyse fra
-1999 (se Baltes et al (1999)) gir ikke grunnlag for
-å konkludere med at komprimerte arbeidsuker
-gir høyere produktivitet, men Golden (2012) påpeker at nyere studier antyder positive produktivitetseffekter av komprimerte arbeidsuker.
-
-46
-
-49
-
-Shepard, E. og T. Clifton (2000): Are longer hours reducing
-productivity in manufacturing? International Journal of
-Manpower, 21(7), 540–552.
-47
-Garnero, A., S. Kampelmann og F. Rycx (2014): Part-time
-work, wages and productivity: evidence from Belgian matched panel data, Industrial and Labor Relations Review,
-67(3), 926–954.
-48
-Moland, L.E. (2015): Større stillinger og bedre drift. Evaluering av programmet ufrivillig deltid, Fafo-rapport nr.
-2015:25.
-
-50
-
-Golden, L. (2012): The effects of working time on productivity and firm performance: a research synthesis paper,
-Conditions of Work and Employment Series No. 33, ILO.
-Golden, L. (2012): The effects of working time on productivity and firm performance: a research synthesis paper,
-Conditions of Work and Employment Series No. 33, ILO;
-Baltes, B.B., T.E. Briggs, J.W. Huff, J.A. Wright og G.A.
-Neuman (1999) Flexible and compressed workweek schedules: a meta-analysis of their effects on work-related criteria, Journal of Applied Psychology, 84(4), 496–513.
-
-[Side 136]
-
-136
-
-NOU 2016: 1
-
-Kapittel 8
-
-Arbeidstidsutvalget
-
-Kapittel 8
-
-Brudd på arbeidstidsbestemmelsene
-8.1
-
-Innledning
-
-Utvalget er i mandatet bedt om å kartlegge brudd
-på arbeidstidsreguleringene i norsk arbeidsliv.
-Utvalget er bedt om å se på hvilke bestemmelser
-som brytes og hva som er de viktigste årsakene til
-bruddene.
-Omfanget av brudd på arbeidstidsbestemmelsene er et viktig grunnlag for å vurdere hvordan
-arbeidsmiljøloven fungerer i praksis og i hvilken
-grad den etterleves.
-Ideelt sett hadde utvalget ønsket seg en fullstendig oversikt over alle brudd på arbeidstidsreglene i norsk arbeidsliv som grunnlag for analysen. Dette viste seg imidlertid ikke å være mulig.
-Statistisk sentralbyrå har ikke registerdata eller
-utvalgsdata som belyser dette. Arbeidstilsynet og
-Petroleumstilsynet1 gjennomfører risikobasert tilsyn. Det innebærer at de ikke har oversikter som
-kan benyttes til å analysere brudd i særlig grad.
-En annen mulig kilde for oversikt over brudd på
-arbeidstidsreglene er rettsapparatet, men heller
-ikke her fant utvalget at det er systematiserte
-oversikter. På ett vesentlig samfunnsområde –
-nemlig helseforetakene – fikk utvalget imidlertid
-tilgang til administrative og detaljerte data.
-Med dette som bakgrunn besluttet utvalget å
-følge en tredelt strategi for å svare på mandatet.
-Det ble foretatt tre analyser basert på henholdsvis:
-– data fra helseforetakene om brudd på arbeidstidsbestemmelsene
-– en spørreundersøkelse blant norske virksomheter og tillitsvalgte i utvalgte fagforbund
-– data fra Arbeidstilsynets register over reaksjoner på arbeidstidsbestemmelsene i 2014.
-Arbeids- og sosialdepartementet ga på vegne av
-utvalget Fafo oppdrag om å gjøre undersøkelsene.
-
-1
-
-Petroleumstilsynet har blitt kontaktet og oppga at det kun
-har gitt ett pålegg på arbeidstidsbestemmelsene i perioden
-fra 2012 til 2014.
-
-Nedenfor følger en oppsummering av hovedfunnene.2
-I punkt 8.3 presenteres en analyse av brudd i
-helseforetakene. I punkt 8.4 presenteres resultater fra spørreundersøkelser blant virksomheter
-og tillitsvalgte. I punkt 8.5 omtales Arbeidstilsynets reaksjoner på arbeidstid.
-
-8.2
-
-Nærmere om metode og bakgrunn
-
-Hovedhensikten med analysen til Fafo har vært å
-kartlegge mulige brudd på arbeidstidsreguleringene og hvilke bestemmelser i hvilke reguleringer som brytes.
-Lovens arbeidstidskapittel inneholder blant
-annet bestemmelser om grenser for alminnelig
-arbeidstid og gjennomsnittsberegning, overtid,
-rett til arbeidsfri og pauser, samt bestemmelser
-om søndagsarbeid og nattarbeid. Arbeidsmiljøloven er ufravikelig, men unntak fra hovedreglene
-kan gjøres dersom loven uttrykkelig åpner for det.
-Det er adgang til å gjøre unntak fra de fleste
-bestemmelsene. Hvilke bestemmelser som kan
-fravikes og hvilke rammer som gjelder for slike
-fravik, avhenger av på hvilke nivå avtalene inngås
-(se omtale i kapittel 3).
-Arbeidstid er det området innenfor arbeidsmiljøloven hvor lov og tariffavtaler i størst grad supplerer hverandre. Dette kan skje både ved at loven
-gir minstebestemmelser som utfylles av tariffavtalene, og ved at avtalepartene benytter seg av
-adgangen lovgiver har gitt dem til å gjøre unntak
-fra bestemmelsene gjennom tariffavtale. Kartlegging av om virksomheten bryter arbeidstidsbestemmelsene vil dermed måtte ta høyde for om
-bruddene faktisk gjelder lov, tariffavtale eller individuell avtale.
-Når brudd på arbeidstidsbestemmelsene er
-tema, er det også kompliserende at enkelte grup2
-
-Andersen, R.K., K. Jesnes og K. Nergaard (2015): Kartlegging av brudd på arbeidstidsbestemmelsene, Fafo-rapport
-2015:47.
-
-[Side 137]
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-per er unntatt fra (sentrale deler av) arbeidstidskapitlet, det vil si har ledende eller særlig uavhengig
-stilling. Her reises med jevne mellomrom spørsmål om disse omfatter flere ansatte enn det som
-er meningen, og hvis ja, skulle denne gruppen
-arbeidstakere hatt annen arbeidstid enn det de
-faktisk har (overtidsbetaling, lengre hvileperioder
-og så videre). Dette temaet er belyst i kapittel 4.
-I og med at arbeidstidsreguleringene er såpass
-detaljerte, kan det være vanskelig å kartlegge
-brudd på alle typer bestemmelser. Fafo foretok
-derfor en prioritering av hvilke bestemmelser
-som ble undersøkt. Følgende områder ble kartlagt:
-– daglig og ukentlig alminnelig arbeidstid
-– daglig og ukentlig alminnelig arbeidstid der
-det brukes gjennomsnittsberegning
-– daglig og ukentlig arbeidsfri
-– søndagsarbeid
-– nattarbeid
-– overtid.
-Dette innebærer at det ikke ble undersøkt om det
-foreligger arbeidsplaner og om disse ble drøftet
-med arbeidstakernes tillitsvalgte. Når det gjelder
-overtidsbestemmelsen (§ 10-6) har Fafo valgt å
-undersøke grensene per uke og grensene per år.
-Øvrige bestemmelser i arbeidstidskapitlet er ikke
-undersøkt. Fafo påpeker at undersøkelsen ikke
-omhandlet hvor alvorlige eller helseskadelige
-overskridelsene på de ulike bestemmelsene er,
-kun om det er en overskridelse eller ikke.
-
-8.3
-8.3.1
-
-Analyse av brudd på arbeidstidsbestemmelsene i helseforetakene
-Innledning
-
-I helseforetakene finnes det en rekke ulike
-arbeidstidsordninger avhengig av type stillingsgruppe (leger, pleiepersonell, drift- og støttefunksjoner, administrative stillinger og så videre) og
-avdelingens driftstid. Blant pleiepersonell vil
-mange arbeide tredelt turnus. Men det benyttes
-også andre typer skift/turnus, inkludert vaktordninger som kan strekke seg over et døgn og mer.
-Det inngås avtaler med tillitsvalgte om unntak
-fra hovedreglene i arbeidstidskapitlet både på sentralt og lokalt nivå. Hovedprinsipper for legenes
-arbeidstid legges for eksempel i avtaler på sentralt
-nivå mellom Den norske Lægeforening og Spekter, men avtalen åpner også for avtaler på lavere
-nivå. For andre forbund inngås vanligvis avtalene
-om unntak fra hovedreglene med tillitsvalgte på et
-
-137
-
-Kapittel 8
-
-noe lavere nivå (per helseforetak eller på hver
-enkelt enhet).
-Følgende problemstillinger/spørsmål tas opp:
-– Hvor ofte brytes arbeidstidsbestemmelsene og
-hva kjennetegner bruddene?
-– Hvilke bestemmelser i loven blir brutt? Og
-hvordan forklares årsaken til at det ble et
-brudd?
-– Er spesielle stillingsgrupper særlig utsatt?
-– Hvor omfattende er avviket (målt ved timer
-over/under den aktuelle grensen)?
-– Er det spesielle tidspunkt (ukedager, ferie og
-høytider) som er krevende i betydningen at vi
-finner mange brudd?
-– Hvordan fordeler bruddene seg blant arbeidstakerne? Er det få eller mange som berøres i
-betydningen om bruddene fordeler seg noenlunde jevnt eller om det er et mindretall som
-peker seg ut med mange brudd?
-Årsaken til at Fafo kan analysere brudd på
-arbeidstidsbestemmelsene i denne sektoren er at
-helseforetakene har administrative systemer for
-registrering av arbeidstid der mulige brudd på
-arbeidstidsbestemmelsene framkommer.3 Bruddene framkommer (genereres) automatisk når
-den enkeltes arbeidstid legges inn og kontrolleres
-for forhåndsdefinerte grenser for daglig og ukentlig arbeidstid mv., ifølge oppsatt arbeidsplan. Dermed kan Fafo benytte disse dataene til å beskrive
-både omfanget av brudd og hvilke bestemmelser
-som eventuelt brytes.
-Det er viktig å understreke at det som
-systemet «produserer» er mulige brudd. De dataene Fafo har hatt tilgang til, har ikke gjennomgått
-kvalitetssikring i betydning av at den enkelte
-registering er etterprøvd for å si om dette allikevel
-er innenfor bestemmelsene i lov og avtale. Automatikken i registreringssystemet innebærer at
-noen brudd likevel ikke er brudd i lovens forstand. Det vil være akutte situasjoner der grensene kan fravikes innenfor lovens unntaksbestemmelser, eller andre situasjoner der systemet ikke
-fanger opp at det ikke dreier seg om et brudd.
-Sistnevnte spenner fra at et bytte av to vakter innebærer at arbeidsplanen likevel går opp innenfor
-grensen for den ukentlige alminnelige arbeidstid
-ved gjennomsnittsberegning, til en vurdering av
-hvordan man skal fortolke de såkalte vernebestemmelsene i legeavtalen (er det å gå utover
-3
-
-Også andre virksomheter innen helsesektoren benytter
-slike systemer. For eksempel Trondheim kommune har
-data fra samme type administrativt system som mange av
-helseforetakene benytter.
-
-[Side 138]
-
-138
-
-NOU 2016: 1
-
-Kapittel 8
-
-Arbeidstidsutvalget
-
-disse et brudd eller ikke). I den grad betegnelsen
-brudd (og ikke mulige brudd) benyttes videre i
-den løpende teksten er det mulige brudd som er
-det faktiske forhold.
-Legenes arbeidstidsbestemmelser er preget
-av at det er gitt omfattende muligheter for unntak
-fra lovens grenser gjennom sentral avtale. Det er
-krevende å tolke hvordan genererte brudd skal
-forstås for denne stillingsgruppen. I deler av analysen har Fafo derfor tatt ut legene og ser i stedet
-på disse isolert.
-
-8.3.2
-Data
-Analysen av mulige brudd på arbeidstidsbestemmelsene er gjort med utgangspunkt i opplysninger fra tre av fire helseregioner for 2014. De tre er
-Helse Sør-Øst, Helse Vest og Helse Nord. Den
-siste av helseregionene (Helse Midt-Norge) har et
-annet arbeidsplansystem som innebærer at sammenlignbare data ikke er tilgjengelig innen tidsrammen for oppdraget til Fafo.
-I Fafos rapport er det i hovedsak sett på nasjonale tall, det vil si for tre av fire helseregioner samlet. Men for enkelte av analysene har Fafo måttet
-avgrense seg til Helse Vest eller presenterer tall
-for hver helseregion. Helse Vest har mer detaljerte registeringer enn de øvrige to. I tilfeller der
-det er store variasjoner mellom helseregionene og
-dette påvirker forståelsen av data, kommenteres
-dette i teksten. Dataene som Fafo har fått tilgang
-til sier kun noe om hvilke grenser som anvendes i
-det enkelte tilfelle. Fafo peker på at de derfor ikke
-vet om dette skyldes at man ikke har forsøkt å
-oppnå avtale om kortere hvile eller om partene
-ikke er blitt enige i forhandlinger om alternative
-grenser.
-
-8.3.3
-
-Hvor ofte brytes
-arbeidstidsbestemmelsene?
-
-De tre helseregionene hadde til sammen 17,8 millioner vakter i 2014. Med vakt forstås en arbeidsøkt for en enkelt arbeidstaker. Hvis vi regner 220
-vakter på et årsverk i gjennomsnitt4, vil dette
-utgjøre drøye 80 000 årsverk. Men antall personer
-er adskillig høyere. De tre helseregionene hadde i
-gjennomsnitt 120 000 medarbeidere per måned,
-men flere vil ha vært i arbeid over året. Det vil si at
-dataene omfatter et stort antall arbeidstakere
-innen helsesektoren.
-Helseforetakene i de tre helseregionene rapporterte inn drøye 550 000 mulige brudd i 2014.
-Noen av disse framkommer innenfor samme vakt.
-Man kan for eksempel bryte både reglene om
-overtid og samlet daglig arbeidstid (alminnelig
-arbeidstid + overtid) innenfor en og samme vakt.
-Antall vakter med mulige brudd vil med andre ord
-være lavere.
-Tallene for Helse Vest (tabell 8.1) viser at det
-er registrert 112 000 mulige brudd fordelt på
-knappe 85 000 vakter. Helse Vest hadde i alt 4,05
-millioner vakter i 2014, og 2,1 prosent av disse var
-registrert med mulige brudd.
-Årsaken til at antallet mulige brudd er høyere
-enn antallet vakter med mulige brudd, er at
-samme vakt kan ha brudd på mer enn en bestemmelse. I gjennomsnitt brytes 1,32 bestemmelser
-per vakt med brudd innen Helse Vest. Et annet
-mål er forholdstallet mellom antall mulige brudd i
-alt og antall vakter i alt. For Helse Vest er dette tallet 2,8, det vil si at for hver 100 vakter har det vært
-2,8 mulige brudd.
-4
-
-Antall vakter for en heltidsansatt vil variere fra om lag 210
-vakter på en typisk tredelt turnus til 233 dager gitt en årlig
-arbeidstid på 1750 timer (normal arbeidstid for dagarbeidere). Anslaget på 220 vakter er omtrentlig.
-
-Tabell 8.1 Antall og andel mulige brudd etter helseregion. I alt og som andel av antall vakter. 2014
-
-Helseregion
-
-Antall
-brudd
-
-Antall
-vakter
-med brudd
-
-Antall
-vakter
-i alt
-
-Helse Vest
-
-111 887
-
-84 569
-
-4 051 673
-
-2,1
-
-2,8
-
-Helse Sør-Øst
-
-258 986
-
-197 0351
-
-11 233 545
-
-1,81
-
-2,3
-
-183 426
-
-117 3471
-
-2 521 278
-
-4,71
-
-7,3
-
-554 299
-
-398 9511
-
-17 806 496
-
-2,21
-
-3,1
-
-Helse Nord
-I alt
-1
-
-Forholdstall
-Andel vakter med
-(brudd i alt/
-brudd (prosent) 100 vakter i alt)
-
-Estimat med utgangspunkt i antall datoer med brudd fra datasettet over genererte brudd. Tallet er korrigert med forholdstallet
-for antall datoer med brudd og antall vakter med brudd for Helse Vest.
-Kilde: Andersen, R.K., K. Jesnes og K. Nergaard (2015).
-
-[Side 139]
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-melsene brytes eller det er forskjøvet arbeidstid
-(at vakten begynner før eller senere enn planlagt).
-Dette er også en endring av vaktens plassering
-tidsmessig som nok i de fleste tilfeller skjer på initiativ fra arbeidsgiver.
-I Helse Vest er 14 prosent av bruddene betegnet i arbeidsplansystemet som «normal vakt».
-Dette betyr at det er en vakt i en arbeidsplan som
-er satt opp med et brudd på de grenser som er
-oppgitt for den enkelte arbeidstaker. Etter nærmere gjennomgang av arbeidsplanene i Helse
-Vest mener man at en del av disse ikke er reelle
-brudd, men at det kan komme av at det er inngått
-avtaler som ikke er blitt registrert korrekt i
-systemet. Hvor stor andel av 14 prosent dette
-dreier seg om, er ikke kjent.
-
-Ekstravakter
-Utrykninger
-Overtid i etterkant av vakt
-Overtid i forkant av vakt
-Overtid
-Bytte vakt (arbeidsgiver)
-Forskjøvet vakt
-Bytt av vakt (arbeidstaker)
-Fravær
-Normalvakt1
-0
-
-10
-
-20
-
-30
-
-Figur 8.1 Kategorisering av brudd på arbeidstidsbestemmelsene etter type vakt. Alle brudd
-i Helse Vest per 2014
-1
-
-En del av bruddene på normalvaktene er trolig ikke reelle
-brudd, men skyldes at det er inngått avtale som ikke er
-registrert korrekt.
-Kilde: Andersen, R.K., K. Jesnes og K. Nergaard (2015).
-
-Ser vi på alle helseregionene samlet, er andel
-vakter med mulige brudd 2,2 prosent og antall
-mulige brudd i alt i prosent av antall vakter i alt,
-3,1 prosent.
-
-8.3.4
-Hvilke typer vakter som gir brudd
-De drøye 550 000 mulige bruddene for 2014 er i
-registreringssystemene også gruppert etter hvilken type brudd det er tale om, jf. figur 8.1. Opplysningene er imidlertid ikke fullstendig, og oversikten er derfor bare basert på data for Helse Vest
-der datamaterialet var best.
-Figuren viser at drøye 40 prosent av bruddene
-i Helse Vest er knyttet til overtidsarbeid, inkludert
-overtid som påløper i forkant eller etterkant av en
-vanlig vakt.5 Bytter eller forskjøvet arbeidstid
-(endringer av arbeidsplan) står for 20 prosent av
-bruddene, og nesten halvparten av disse (ni prosent av alle mulige brudd i Helse Vest) er bytter
-der arbeidstakere selv har tatt initiativ til å bytte
-vakter. I seks prosent av tilfellene er det avdelingen (arbeidsgiver) som har tatt initiativ til å
-bytte vakter på en slik måte at arbeidstidsbestem5
-
-139
-
-Kapittel 8
-
-At bruddet er knyttet til overtidsarbeid sier kun noe om
-typen vakt og betyr ikke at det er overtidsbestemmelsene i
-arbeidsmiljøloven som brytes. Overtidsvakter innen lovens
-grenser kan for eksempel medføre brudd på daglig eller
-ukentlig samlet arbeidstid eller hviletidsbestemmelsene.
-
-8.3.5
-
-Hvilke bestemmelser i loven blir
-brutt?
-Det er registrert om lag 550 000 mulige brudd på
-arbeidstidsbestemmelsene i de tre helseregionene.
-Dette inkluderer situasjoner der samme hendelse
-er registrert som flere brudd fordi en vakt kan
-bryte med flere bestemmelser samtidig. Typene
-brudd er forhåndskodet i helseforetakenes systemer, og det mulige bruddet generes automatisk
-når arbeidstiden føres inn. Fafo har gruppert de
-ulike typene brudd i noen hovedbestemmelser, jf.
-figur 8.2.
-Figur 8.2 viser alle mulige brudd i de tre helseregionene kodet etter hvilken bestemmelse i
-loven som brytes. Vi ser her bort fra legene og
-står dermed igjen med 456 000 mulige brudd.
-Samlet daglig arbeidstid (brudd på daglig arbeidsfri) er de bestemmelsene som oftest genererer
-brudd og står for om lag en fjerdedel av alle
-mulige brudd. Overtid per syv dager, overtid per
-fire uker, ukentlig arbeidsfri og flere søndager på
-rad hadde omtrent samme antall brudd (rundt 15
-prosent). Det er færre brudd på bestemmelsene
-om alminnelig ukentlig arbeidstid (ved gjennomsnittsberegning) og på årlig overtid.
-8.3.6
-Hvilke situasjoner fører til brudd?
-Helseforetakene registrerer hvilke typer situasjoner som leder til at arbeidstidsbestemmelsene
-brytes. Følgende koder benyttes:
-– Akutt hendelse: Benyttes ved akutt endring av
-aktivitetsnivået (kortvarige endringer), for
-eksempel influensaepidemier eller andre situasjoner som gjør at mange pasienter kommer
-inn samtidig.
-
-[Side 140]
-
-140
-
-NOU 2016: 1
-
-Kapittel 8
-
-Arbeidstidsutvalget
-
-Antall søndager på rad
-
-Ikke gruppert
-
-Ukentlig arbeidsfri
-
-Utrykning
-
-Alm. ukentlig arbeidstid
-(per enkeltuke)
-
-Katastofealarm
-
-Alm. ukentlig arbeidstid
-(per 8 uker)
-
-Bytte av vakt (inititiv
-medarbeider)
-
-Samlet daglig arbeidstid
-(daglig arbeidsfri)
-
-Bytte av vakt (drift)
-Akutt sjukdom
-
-Overtid per 12 måneder
-
-Akutt mangel på
-kompetanse
-
-Overtid per 4 uker
-
-Akutt hendelse
-
-Overtid per 7 dager
-0
-
-0
-
-5
-
-10
-
-15
-
-20
-
-25
-
-10
-
-20
-
-30
-
-40
-
-30
-
-Figur 8.2 Fordeling av mulige brudd på arbeidstidsbestemmelsene etter bestemmelse. Legestillinger ikke tatt med. 2014. Prosent
-
-Figur 8.3 Vakter med brudd på arbeidstidsbestemmelsene etter bruddårsak. Leger unntatt.
-Helse Vest 2014. Prosent
-
-Kilde: Andersen, R.K., K. Jesnes og K. Nergaard (2015).
-
-Kilde: Andersen, R.K., K. Jesnes og K. Nergaard (2015).
-
-–
-
-Figur 8.3 er basert på opplysninger fra Helse
-Vest. Akutt mangel på nødvendig kompetanse –
-det vil si mangel på medarbeidere med riktig kompetanse – er den viktigste forklaringen på mulige
-brudd. Brudd som følge av bytte etter initiativ fra
-arbeidstaker står for 15 prosent av bruddene.
-Ambulansepersonell og pleiepersonell er overrepresentert når det gjelder mulige brudd. Det er
-særlig i Helse Nord at ambulansetjenestene har
-hyppige brudd på arbeidstidsbestemmelsene.
-Ambulansepersonell har ofte brudd på hviletidsbestemmelsene (daglig og ukentlig arbeidsfri).
-Arbeidstakere innen ledelse og administrasjon
-har færre brudd enn andre grupper.
-
-–
-–
-–
-–
-–
-–
-
-Akutt mangel på nødvendig kompetanse:
-Benyttes der det er behov for spesiell kompetanse utover det som er lagt til grunn for
-dimensjoneringen.
-Akutt sykdom hos medarbeider: Benyttes den
-første dagen der det ikke er andre muligheter
-til omdisponeringer.
-Bytte drift: Benyttes ved bytte av vakt på grunn
-av driftsmessige forhold der initiativet kommer
-fra helseforetaket.
-Initiativ medarbeider: Benyttes ved bytte av
-vakt på initiativ fra medarbeider.
-Katastrofealarm.
-Utrykning: Omfatter flere typer utrykninger,
-prehospitale utrykninger og utrykninger som
-inkluderer andre typer personell.
-Ingen kode.
-
-Noen av disse situasjonene kan omfattes av
-nødrettsbestemmelsen i § 10-12 tredje ledd som
-tillater arbeid utover arbeidstidsbestemmelsene
-når arbeidet er «nødvendig for å avverge fare for
-skade på liv eller eiendom», jf. også lov om helsemessig og sosial beredskap. Dette kan for eksempel gjelde ved akutt hendelse, katastrofealarm og
-utrykning. Fafo har i rapporten ikke hatt mulighet
-til å vurdere hvor mange av de genererte bruddene som vil falle inn under denne unntaksbestemmelsen.
-
-8.3.7
-
-Hvilke grenser brytes og med hvor
-mange timer?
-
-Overtid
-Hvor omfattende er de mulige bruddene målt ved
-antall timer?6 Hvor mange går litt over grensen?
-Og hvor mange er oppført med mer omfattende
-brudd på grensene?
-6
-
-I rapporten begrenser man seg til ett brudd per vakt (dato)
-for hver enkelt bestemmelse og tar den høyeste verdien i
-de tilfeller der man har ført flere brudd fortløpende på
-samme dato. Det vil si at hvis man har «samlet opp» brudd
-over en lang vakt med påfølgende utrykninger, legger Fafo
-den mest ekstreme verdien til grunn.
-
-[Side 141]
-
-141
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-Kapittel 8
-
-Tabell 8.2 Fordeling av brudd på overtidsbestemmelsene etter antall timer over fastsatt grense. Ett eller
-flere brudd per bestemmelse per vakt (dato). Unntatt legene. 2014
-Overtid
-per 7 dager
-
-Overtid
-per 4 uker
-
-Overtid
-per år
-
-1. kvartil (25 prosent av alle)
-
-3
-
-5
-
-27
-
-Median (halvparten av alle)
-
-5
-
-11
-
-67
-
-3. kvartil (75 prosent av alle)
-
-10
-
-23
-
-138
-
-63 236
-
-60 270
-
-17 100
-
-Antall vakter med brudd (datoer)
-Kilde: Andersen, R.K., K. Jesnes og K. Nergaard (2015).
-
-Når det gjelder overtid per 7 dager viser tabell
-8.2 at ett av fire mulige brudd innebærer en
-arbeidstid på maksimalt tre timer over grensen.
-Halvparten er oppført med en verdi på fem timer
-over grensen eller mindre. Hvert fjerde brudd
-innebærer at arbeidstakeren har arbeidet mer enn
-ti timer over den gjeldende grensen for overtid
-per syv dager.
-Når det gjelder overtid per fire uker ligger ett
-av fire brudd på 1–5 timer over grensen som gjelder for arbeidstakeren, mens medianen (halvparten av bruddene) ligger inntil 11 timer over grensen. Ett av fire brudd innebærer 23 timer over
-gjeldende grense.
-De fleste av de mulige bruddene på overtidsbestemmelsen skjer i situasjoner der grensen for
-overtidsarbeid er 10 timer per uke. Det kan bety
-at det i begrenset grad finnes avtaler om utvidet
-grense (inntil 15 timer), eller at arbeidsplasser
-med avtale har færre brudd på denne bestemmelsen og dermed ikke opptrer i dataene over mulige
-brudd. Halvparten av bruddene (49 prosent) ligger ifølge Fafo mellom hva arbeidsgiver kan
-pålegge (10 timer) og den avtalefestede grensen
-som gjaldt i 2014 (15 timer). Mønsteret er noenlunde det samme når man ser på overtid per år.
-Om lag halvparten av bruddene skjer der det ikke
-er avtale om utvidet overtid og ligger i intervallet
-mellom det arbeidsgiver kan pålegge og det som
-kan avtales gjennom lokal avtale.
-Det er få av dem med brudd som er ført opp
-der det er avtalt utvidet overtid (grenser på 15, 40
-eller 300 timer).
-Arbeidsmiljølovens grenser for lokal avtale om
-overtid per 7 dager og per 4 uker ble endret 1. juli
-2015. 75 prosent av bruddene knyttet til disse to
-bestemmelsene er innenfor den avtalegrensen
-som da ble innført. Det vil si at med de nye
-reglene ville kun 25 prosent ha vært brudd på
-overtid (forutsatt lokal avtale om overtid).
-
-Grense for ukentlig alminnelig arbeidstid ved
-gjennomsnittsberegning
-Arbeidsgiver kan inngå en individuell avtale med
-arbeidstaker eller en avtale med tillitsvalgte om
-gjennomsnittsberegning av ukentlig arbeidstid.
-Ett av fire mulige brudd innebærer at arbeidstiden strekker seg opp mot maksimalt to timer
-utover den grensen som gjelder for arbeidsforholdet (tabell 8.3). Halvparten av de mulige bruddene ligger innenfor fire timer utover oppgitt
-grense, mens en fjerdedel av arbeidstakerne har
-brudd som overskrider grensen med syv timer
-eller mer.
-De aller fleste bruddene skjer i et arbeidsforhold der man har avtale om gjennomsnittsberegning, og grensen for ukentlig arbeidstid er avtalt
-til maksimalt 48 timer.
-Brudd på hviletidsbestemmelsene
-Tabell 8.4 viser at en fjerdedel av bruddene på
-samlet daglig arbeidstid (daglig arbeidsfri), leger
-og ambulansepersonell unntatt, er på inntil to
-timer over grensen. Noen av disse ligger svært
-nær grensen, noe som kan tyde på at det også
-
-Tabell 8.3 Fordeling av brudd på grensen av den
-alminnelige ukentlige arbeidstid (med og uten
-gjennomsnittsberegning) etter antall timer over
-oppgitt grense. Ett brudd per bestemmelse per
-vakt (dato). Unntatt leger. 2014
-Antall timer
-over fastsatt
-grense
-
-1. kvartil (25 prosent av alle)
-
-2
-
-Median (halvparten av alle)
-
-4
-
-3. kvartil (75 prosent av alle)
-
-7
-
-Antall vakter med brudd (datoer)
-
-31 219
-
-Kilde: Andersen, R.K., K. Jesnes og K. Nergaard (2015).
-
-[Side 142]
-
-142
-
-Kapittel 8
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-Tabell 8.4 Fordeling av brudd på bestemmelsene om samlet daglig arbeidstid1 (daglig arbeidsfri) og
-ukentlig arbeidsfri. Ett eller flere brudd per bestemmelse per døgn (dato). Unntatt leger. 2014
-Samlet daglig arbeidstid
-(antall timer over grensen)2
-
-Ukentlig arbeidsfri
-(antall timer for lite)
-
-1. kvartil (25 prosent av alle)
-
-2
-
-3
-
-Median (halvparten av alle)
-
-3
-
-4
-
-3 kvartal (75 prosent av alle)
-
-6
-
-12
-
-106 661
-
-74 280
-
-Antall vakter med brudd (datoer)
-1
-
-Det vil si indirekte brudd på bestemmelsene om daglig arbeidsfri.
-Det vil si antall arbeidede timer utover grensen for daglig arbeidsfri.
-Kilde: Andersen, R.K., K. Jesnes og K. Nergaard (2015).
-2
-
-registreres brudd der den ansatte er litt sent ut av
-vakt eller stempler inn litt tidlig på vakt. En fjerdedel av de ansatte (eksklusive leger og ambulansepersonell) har en arbeidstid som strekker seg
-seks timer utover den avtalte grensen for samlet
-daglig arbeidstid.
-Når det gjelder ukentlig hvile ser Fafo på hvor
-mange timer ukehvilen er forkortet med. Den fjerdedelen med minst avvik har tre timer eller mindre for lite hvile. Man kan legge merke til at ved
-ett av fire brudd mangler hele 12 timer av ukehvilen.
-Nesten halvparten av de mulige bruddene på
-samlet daglig arbeidstid er i intervallet for lokale
-avtaler (13–16 timer).
-Også når det gjelder ukehvile (tabell 8.5), finner Fafo at de aller fleste bruddene (94 prosent) er
-generert i en arbeidsplan der det ikke er avtalt
-kortere ukehvile og grensen for ukehvile er 35
-timer (lovens hovedregel). Få brudd skjer i situasjoner med avtalt kortere ukehvile. Drøyt halvparten av de mulige bruddene ligger i intervallet mellom lovens hovedregel om grense på minst 35
-timer og grensen for lokal avtale på minst 28 timer.
-
-Jobbe flere søndager på rad
-I utgangspunktet sier loven at annenhver søndag
-skal være fri, mens det er lov å avtale å arbeide to
-søndager på rad. Fra og med 1. juli 2015 er avtaleadgangen utvidet til tre søndager på rad.
-Om lag halvparten av alle brudd på søndagsbestemmelsene er at man jobber to søndager på
-rad og det ikke er avtale om dette. Det er også en
-god del (30 prosent) som er oppført med fire søndager eller flere.
-Særskilte tidspunkter
-Det er flere brudd i helgene enn ellers (figur 8.4).
-Variasjonen over uka er størst for overtidsbestemmelsene, men er også markant for andre typer
-brudd. Dette gjelder alle yrkesgrupper med et
-visst unntak for ambulansepersonell.
-Sommermånedene har flere mulige brudd enn
-resten av året, jf. figur 8.5. Dette gjelder alle typer
-bestemmelser, og effekten forsterkes av at det er
-færre arbeidstakere på arbeid i juli.
-I forlengelsen av dette så Fafo på om det er
-noen typer brudd som forekommer oftere i sommermånedene. Det kan se ut som om brudd på
-overtidsbestemmelsene særlig peker seg ut i
-
-Tabell 8.5 Fordeling av brudd på ukehvile (ukentlig arbeidsfri) etter type grense og verdi (antall timer
-hvile). Ett eller flere brudd per bestemmelse per døgn (dato). Prosent. 2014
-Grense for arbeidsforholdet
-35 timers hvile
-
-28 timers hvile
-
-Mellom 28 og 35 timers hvile
-
-56
-
-0
-
-Mindre enn 28 timers hvile
-
-38
-
-6
-
-Total
-
-94
-
-6
-
-69 807
-
-4 473
-
-Antall vakter med brudd (datoer)
-Kilde: Andersen, R.K., K. Jesnes og K. Nergaard (2015).
-
-[Side 143]
-
-143
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-Kapittel 8
-
-16 000
-14 000
-12 000
-10 000
-8 000
-6 000
-4 000
-2 000
-Mandag
-
-Tirsdag
-
-Onsdag
-
-Torsdag
-
-Per 7 dager
-
-Per 4 uker
-
-Fredag
-
-Lørdag
-
-Søndag
-
-Figur 8.4 Vakter (datoer) med brudd på overtidsbestemmelsen fordelt på ukedager. Unntatt leger.
-2014
-Kilde: Andersen, R.K., K. Jesnes og K. Nergaard (2015).
-
-8.4
-
-Spørreundersøkelser om
-arbeidstid blant virksomheter og
-tillitsvalgte
-
-8.4.1
-Bakgrunn
-I spørreundersøkelsen til virksomhetsledere ble
-det lagt vekt på å få med mange nok store bedrifter, siden disse utgjør en større andel av arbeidsstyrken. Fafo utførte 1 937 intervjuer. Det var en
-
-50 000
-
-0,9
-
-45 000
-
-0,8
-
-40 000
-
-0,7
-
-Brudd i alt
-
-35 000
-
-0,6
-
-30 000
-
-0,5
-
-25 000
-0,4
-
-20 000
-
-0,3
-
-15 000
-
-0,2
-
-10 000
-
-I alt
-
-Brudd per månedsverk
-
-r
-be
-
-r
-es
-D
-
-em
-ov
-N
-
-em
-
-be
-
-er
-
-r
-
-ob
-kt
-
-O
-
-pt
-
-em
-
-be
-
-st
-Se
-
-Au
-gu
-
-li
-Ju
-
-Ju
-
-M
-
-Ap
-
-s
-ar
-M
-
-Fe
-
-br
-
-ua
-
-ar
-nu
-Ja
-
-ni
-
-0
-
-ai
-
-0
-
-ril
-
-0,1
-
-r
-
-5 000
-
-Figur 8.5 Vakter (datoer) med brudd. Antall og som brudd per 1000 månedsverk. 2014
-Kilde: Andersen, R.K., K. Jesnes og K. Nergaard (2015).
-
-Brudd per månedsverk
-
-denne perioden. Fafo fant ikke samme effekt for
-andre ferieperioder. I 2014 var påsken i april. Det
-ser ikke ut som om denne høytiden har utløst
-flere brudd. Fafo fant heller ingen effekt av fridager i mai eller desember.
-
-[Side 144]
-
-144
-
-Kapittel 8
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-svarprosent på 25 prosent. Virksomhetene ble
-bedt om å se bort fra ledere og arbeidstakere med
-særlig uavhengig stilling. Der arbeidstidsordningene varierte mellom ulike grupper ansatte, ble
-virksomheten bedt om å svare med utgangspunkt
-i hovedyrkesgruppen.
-Spørreundersøkelsen blant tillitsvalgte ble
-gjennomført blant medlemmer i seks forbund –
-Norges Ingeniør og Teknologiorganisasjon (NITO),
-Norsk Sykepleierforbund (NSF), Norsk Journalistlag (NJ), Forskerforbundet (FF), Finansforbundet, – samt i 18 ulike LO-forbund gjennom LOs tillitsvalgtpanel. Forbundene i undersøkelsen har
-om lag 815 000 yrkesaktive medlemmer. Fafo
-utførte 3 904 intervjuer blant de tillitsvalgte. Dette
-utgjorde en svarprosent på 32 prosent.
-Spørreundersøkelsen til virksomhetsledere er
-lagt opp slik at utvalget skal reflektere hvor stor
-andel av den totale sysselsettingen virksomheten
-står for. Dette i motsetning til et utvalg som trekkes tilfeldig med basis i antall virksomheter i alt,
-og der små bedrifter vil dominere på grunn av
-antall. Spørsmålene om brudd gjelder for brudd
-som er gjort i løpet av det siste året. Der virksomhetene oppga at det ofte eller av og til har forekommet brudd på arbeidstidsbestemmelsene, har
-Fafo undersøkt videre hvor mange det gjelder i
-virksomheten.
-Bruddene i disse undersøkelsene gjelder ikke
-alle ansatte i virksomhetene. For noen brudd kan
-det gjelde opptil 25 prosent av alle ansatte, i andre
-brudd kan det omfatte minst 75 prosent.
-
-8.4.2
-Fravik fra arbeidstidsbestemmelsene
-Individuelle avtaler
-For en del av arbeidstidsbestemmelsene er det
-mulig å inngå individuelle skriftlige avtaler om
-unntak med arbeidstakere. Andelen som har slike
-avtaler med en eller flere arbeidstakere er vist i
-figur 8.6.
-Som det går fram av figur 8.6 har flertallet av
-virksomhetene ingen slike avtaler. De representerer til sammen 83 prosent av sysselsettingen.
-Blant de tillitsvalgte oppgir 74 prosent at virksomheten ikke har slike individuelle avtaler.
-Avtaler med tillitsvalgte
-Dersom virksomheten er bundet av en tariffavtale,
-er det mulig å inngå avtale om unntak fra hovedreglene innenfor flere områder. Andel som har ulike
-former for avtaler med lokal eller sentral fagforening er vist i figur 8.7.
-
-Avtale om
-gjennomsnittsberegning
-Avtale om unntak fra
-bestemmelsen om daglig
-eller ukentlig arbeidsfri
-Avtale om unntak fra
-overtidsbestemmelsen
-Avtale om å arbeide flere
-søndager på rad
-Andre unntak
-Ingen individuelle avtale/
-ikke sikker
-0
-
-20
-
-Virksomheter
-
-40
-
-60
-
-80
-
-100
-
-Tillitsvalgte
-
-Figur 8.6 Andel virksomheter og tillitsvalgte
-som oppgir at det i deres virksomhet er inngått
-skriftlige individuelle avtaler med en eller flere
-arbeidstakere om unntak fra arbeidstidsbestemmelsen i arbeidsmiljøloven etter type unntak
-(flere svar mulig). Prosent
-Kilde: Andersen, R.K., K. Jesnes og K. Nergaard (2015).
-
-Avtale om
-gjenomsnittsberegning
-Avtale om unntak fra
-bestemmelsen om daglig eller
-ukentlig arbeidsfri
-Avtale om unntak fra
-overtidsbestemmelsen
-Avtale om å arbeide flere
-søndager på rad
-
-Andre unntak
-
-Ingen avtale/(ikke sikker
-0
-Virksomheter
-
-10 20 30 40 50 60 70
-Tillitsvalgte
-
-Figur 8.7 Andel virksomheter og tillitsvalgte (i
-tariffbundne virksomheter) der det er inngått
-skriftlig avtale med fagforbund eller lokal fagforening/tillitsvalgt om unntak fra arbeidstidsbestemmelsen etter type unntak (flere svar mulig). Prosent
-Kilde: Andersen, R.K., K. Jesnes og K. Nergaard (2015).
+Arbeidstilsynet gjennomførte i 2013 og 2014 om lag 30 000 tilsyn. I halvparten av tilsynene ble ett eller flere forhold knyttet til arbeidstidsbestemmelsene kontrollert. I ti prosent av tilsynene som kontrollerte arbeidstid i 2013 og 2014 gav Arbeidstilsynet en eller flere reaksjoner knyttet til arbeidstid. En reaksjon kan være et varsel om pålegg, pålegg, varsel om tvangsmulkt, tvangsmulkt, vedtak om stans på grunn av umiddelbar fare, stans som pressmiddel eller overtredelsesgebyr. Av de reaksjoner som ble gitt på dette området var de fleste knyttet til manglende oversikt over den enkelte arbeidstakers arbeidstid, manglende arbeidsplaner, samt brudd på en eller flere av reglene om overtid.
+
+Tilsyn er planlagte og systematiske gjennomganger av utvalgte områder i virksomheten for å undersøke om virksomheten følger de lovkravene som inngår i Arbeidstilsynets myndighetsområde. Det vil variere hvilke forhold Arbeidstilsynet prioriterer å undersøke under tilsyn, og under noen tilsyn vil det være mer aktuelt å se nærmere på hvordan arbeidstidsbestemmelsene overholdes enn under andre tilsyn. Figur 8.10 viser i hvilke paragrafer reaksjonene på arbeidstidsbestemmelsene er hjemlet. Dette sier dels noe om hvilke paragrafer Arbeidstilsynet prioriterer å undersøke under tilsyn, men også hvilke paragrafer innen arbeidstidsbestemmelsene som har de største utfordringene.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Fordeling av antall reaksjoner på de ulike paragrafene<sup>1</sup> i arbeidstidsbestemmelsene, 2014. (n= 1 737). Prosent
+
+<sup>1</sup> Se punkt 3.1 for mer informasjon om hva de ulike lovparagrafene innebærer.
+
+Andersen, R.K., K. Jesnes og K. Nergaard (2015).
+
+Figur 8.10 viser at mangel på rutiner for registrering av arbeidstid og oversikt over arbeidstiden til arbeidstakerne (§ 10-7, § 10-3, § 10-1), har samlet fått flest reaksjoner i 2014. Videre ser vi at § 10-6 (overtid) har fått relativt mange reaksjoner. I det følgende går vi nærmere inn på ulike paragrafene enkeltvis.
+
+Det framkommer av figuren over at av totalt 1 737 reaksjoner på arbeidstidsbestemmelsene som ble registrert i 2014, ble 675 reaksjoner (39 prosent) registrert på § 10-7 Oversikt over arbeidstiden. § 10-7 slår fast at det skal foreligge en oversikt, tilgjengelig for tillitsvalgte og for Arbeidstilsynet, over den enkelte arbeidssakers arbeidstid. En reaksjon på denne paragrafen innebærer at arbeidsgiver, under tilsyn, ikke har kunnet fremlegge en oversikt over hvor mye den enkelte har arbeidet.
+
+Arbeidstilsynet oppgir at § 10-7 er den bestemmelsen innen arbeidstid som er hyppigst kontrollert under tilsyn. Ifølge Arbeidstilsynet kan dette forklares med at § 10-7 omfatter det organisatoriske arbeidsmiljøet, og at det derfor er aktuelt å stille dette spørsmålet i flere av tilsynsaktivitetene. Arbeidstilsynet prioriterer å stille spørsmål som er hjemlet i § 10-7 fordi dette sier noe om hvordan virksomheten arbeider med og organiserer arbeidstid, ifølge etaten selv:
+
+Det er nødvendig med oversikt og kontroll over hvor mye den enkelte arbeidstaker arbeider dersom arbeidsgiver skal sikre seg at arbeidstiden organiseres slik at den både er hensiktsmessig for virksomhetens art, størrelse og risikoforhold, men også sikre at arbeidstiden er innenfor de rammer som loven fastsetter. Særlig viktig er det med oversikt dersom arbeidstiden organiseres utover normalarbeidstiden, eksempelvis ved fleksitidsordninger. (Arbeidstilsynet 2015).
+
+Videre i figur 8.10 ser vi at det ble registrert 253 reaksjoner på § 10-6 Overtid. Dette tilsvarer 20 prosent av totalt antall reaksjoner dette året. Vi vet ikke detaljene i hva en reaksjon på § 10-6 betyr, utover at det er et brudd på én eller flere av reglene i bestemmelsene om overtid.
+
+Ifølge Arbeidstilsynet er lovens § 10-3, i likhet med § 10-7, ofte kontrollert under tilsyn. Spørsmålet blir stilt til virksomheter som har arbeidstidsordninger hvor arbeidstakerne arbeider forskjellige tider på døgnet. 15 prosent av reaksjonene på arbeidstid i 2014 kan tilskrives § 10-3, med totalt 251 reaksjoner. Inspektørene stiller i dette tilfellet spørsmål om arbeidsgiver, sammen med arbeidstakernes tillitsvalgte, har utarbeidet arbeidsplaner. Slike arbeidsplaner skal vise når arbeidstakerne står til disposisjon for arbeidsgiver og når de har fri. Arbeidstilsynet forklarer hensikten med bestemmelsen, og etatens reaksjon som følger:
+
+Hensikten med bestemmelsen er å skape forutsigbarhet både for arbeidsgiver og arbeidstakerne. Dersom slike planer er fraværende, er Arbeidstilsynets policy at vi reagerer med å varsle pålegg om retting, dvs. krav om å utarbeide arbeidsplaner i henhold til bestemmelsens krav (Arbeidstilsynet 2015).
+
+Videre ble det registrert 157 reaksjoner på § 10-1, det vil si ni prosent av totalt antall reaksjoner på arbeidstidsbestemmelsene. En reaksjon på denne paragrafen innebærer også at arbeidsgiver ikke i tilstrekkelig grad registrerer arbeidstiden eller har en oversikt over denne som kan framvises under tilsyn. Til slutt er det også registrert en god andel reaksjoner, 108 reaksjoner (seks prosent) på § 10-4. Utover dette er det gitt fra to til 54 reaksjoner som er hjemlet i de andre arbeidstidsbestemmelsene (figur 8.10).[^187]
+
+*Reaksjoner per næring*
+
+Som tidligere nevnt bruker Arbeidstilsynet en risikobasert metode hvor de fører tilsyn i næringer de antar er mest utsatt for arbeidsmiljøbelastninger. Etaten har hatt flerårige satsninger innen bygge- og anleggsvirksomhet, helse- og sosial, renhold, transport og overnattings- og serveringsbransjen (Arbeidstilsynet, 2014). Den risikobaserte metoden Arbeidstilsynet benytter fører til at det vil være en sammenheng mellom antall reaksjoner og antall tilsyn. De næringene som er prioritert av Arbeidstilsynet dermed får flere reaksjoner på arbeidstidsbestemmelsene enn andre næringer i perioden satsingen pågår. I figur 8.11 ser vi hvilke næringer som har fått størst andel av reaksjonene på arbeidstid i 2014.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Fordeling av antall reaksjoner per næring, 2014. Prosent
+
+Andersen, R.K., K. Jesnes og K. Nergaard (2015).
+
+I figur 8.11 ser vi at hvilke næringer som har fått flest reaksjoner henger sammen med hvilke næringer som har vært prioritert av Arbeidstilsynet dette året. Overnattings- og serveringsvirksomhet stod for 24 prosent av reaksjonene på arbeidstidsbestemmelsene i 2014. Men vi finner også at varehandel, reparasjon av motorvogner, som ikke har vært en prioritert næring i perioden fra 2013–2016, har fått en god andel av reaksjonene på arbeidstidsbestemmelsene. Varehandel, reparasjon av motorvogner stod for 22 prosent av reaksjonene på arbeidstid i 2014. Videre er bygge- og anleggsvirksomhet og forretningsmessig tjenesteyting to andre næringer som fikk et betydelig antall reaksjoner på arbeidstidsbestemmelsene i 2014, med henholdsvis 16 prosent og 14 prosent. De andre næringene har fått under 4 prosent av reaksjonene. Det er verdt å merke seg at helse- og sosial, som har vært en prioritert næring i 2014, har fått relativt få reaksjoner på arbeidstid. Dette kan muligens forklares med at det er mer fokus på andre forhold enn arbeidstid i denne næringen.
+
+I tabell 8.6 gis en oversikt over gjennomsnittlig antall reaksjoner per næring for de tilsynene som omfattet arbeidstid. Vi har også inkludert tall fra SSB på antall sysselsatte per næring for å illustrere tilsyn og brudd i forhold til størrelsene på næringene målt i antall sysselsatte.
+
+1.  Antall tilsyn hvor arbeidstidsbestemmelsene er kontrollert og antall og prosent reaksjoner fordelt etter næringer, samlet for 2013 og 2014
+
+|  |  |  |  |  |
+|----|----|----|----|----|
+| Næring | Antall tilsyn hvor arbeidstid er inkludert | Antall reaksjoner (arbeidstid) | Andel reaksjoner (arbeidstid) i alt i gjennomsnitt per næring | Prosentvis fordeling av sysselsatte etter næring, 2014 |
+|  |  |  |  |  |
+| Jordbruk, skog, fiske | 480 | 37 | 8 % | 2 % |
+| Bergverk og utvinning | 41 | 6 | 15 % | 3 % |
+| Industri | 1 141 | 85 | 7 % | 9 % |
+|  |  |  |  |  |
+| El., gass, damp- og varmtvannforsyning | 17 | 3 | 18 % | 1 % |
+|  |  |  |  |  |
+| Vannforsyning, avløp og renovasjon | 138 | 3 | 2 % |  |
+|  |  |  |  |  |
+| Bygge- og anlegg | 2 149 | 307 | 14 % | 8 % |
+| Varehandel, reparasjon av motorvogner | 4 572 | 491 | 11 % | 14 % |
+| Transport og lagring | 710 | 105 | 15 % | 5 % |
+| Overnatting og servering | 1 214 | 662 | 55 % | 3 % |
+| Informasjon og kommunikasjon | 204 | 24 | 12 % | 3 % |
+| Finansiering og forsikring | 75 | 4 | 5 % |  |
+| Omsetning og drift av fast eiendom | 207 | 64 | 31 % |  |
+| Faglig, vitenskapelig og teknisk tjenesteyting | 453 | 42 | 9 % | 8 % |
+| Forretningsmessig tjenesteyting | 956 | 294 | 31 % | 5 % |
+| Offentlig adm. og forvaltning, forsvar | 547 | 18 | 3 % | 6 % |
+| Undervisning | 336 | 22 | 7 % | 8 % |
+| Helse og sosial | 1 974 | 37 | 2 % | 20 % |
+| Annet | 674 | 103 | 15 % | 4 % |
+| Sum | 15 888 | 2 301 | 14 %<sup>1</sup> | 100 % |
+|  |  |  |  |  |
+
+<sup>1</sup> Andel reaksjoner i alt (14 prosent) er høyere her enn det som presenteres i punkt 0 (10 prosent). Årsaken til dette er at i en del tilfeller kan det gis mer enn en reaksjon og denne tabellen gjenspeiler det totale antallet.
+
+Notat fra Arbeidstilsynet til Arbeidstidsutvalget (februar 2015), registerbasert sysselsettingsstatistikk, SSB.
+
+Også her ser vi at de næringene med størst andel reaksjoner samsvarer med de næringene som var prioritert av Arbeidstilsynet i 2013 og 2014, selv om vi også finner noen andre næringer høyt på listen. Overnattings- og serveringsvirksomhet er igjen den næringen hvor det er gitt størst andel reaksjoner i forhold til tilsyn. Det er gitt reaksjoner på arbeidstid i 55 prosent av tilsynene hvor arbeidstid ble kontrollert. 3 prosent av de sysselsatte jobber i overnattings- og serveringsbransjen. Innen omsetning og drift av fast eiendom er det gitt reaksjoner på arbeidstid i 31 prosent av tilfellene. Det samme gjelder for forretningsmessig tjenesteyting. Innen informasjon og kommunikasjon er det gitt reaksjoner i 12 prosent av tilfellene og denne næringen utgjør 3 prosent av sysselsatte. Noen av de prioriterte områdene (slik som helse og sosial) faller langt ned på listen når det kommer til reaksjonsprosent med bare 2 prosent reaksjoner på arbeidstid, på tross av at dette har vært et prioritert næringsområde. 20 prosent av de sysselsatte jobber innen helse og sosial. Dette kan på den ene siden bety at Arbeidstilsynet har valgt å undersøke andre forhold enn arbeidstid under tilsyn i denne næringen. På den andre siden kan det også bety at helse og sosial ikke har så mange brudd på arbeidstid. Offentlig administrasjon og forsvar, og trygdeordninger underlagt offentlig forvaltning har også en lav andel reaksjoner på arbeidstid, med 3 prosent. Det er verdt å merke seg at tabell 8.6 ikke differensierer mellom om noen få bedrifter kan ha mange reaksjoner eller om det er jevnt fordelt blant alle bedrifter i næringen.
+
+Det er også mulig å se på reaksjoner blant de ulike næringsområdene fordelt på hjemler. Følgende næringer har et høyt antall reaksjoner på § 10-7 (oversikt over arbeidstiden): Bygge- og anleggsvirksomhet, varehandel/reparasjon av motorvogner, forretningsmessig tjenesteyting, overnattings og serveringsvirksomhet. Næringer med et høyt antall reaksjoner på § 10-6 (overtid) er bygge- og anleggsvirksomhet og overnattings- og serveringsvirksomhet. På § 10-3 (arbeidsplan) ser vi at overnattings- og serveringsvirksomhet har et høyt antall reaksjoner, mens den næringen med nest flest reaksjoner på denne paragrafen er varehandel/reparasjon av motorvogner.
+
+*Reaksjoner fordelt på størrelse (målt i antall ansatte)*
+
+Det er flest reaksjoner overfor virksomheter med 1-9 ansatte (litt under halvparten av alle reaksjoner gitt på arbeidstid), og færrest overfor virksomheter med over 100 ansatte. På den annen side er det relativt flest virksomheter med få ansatte, slik at det ikke er gitt at disse har flest brudd. Som vist i tabell 8.6 er det gitt mange reaksjoner innen hotell og restaurant. Særlig i restaurant, som trolig er den delen som har vært høyest prioritert i denne næringen, er det mange små bedrifter.
+
+1.  **Politianmeldte lovbrudd på arbeidstidsbestemmelsene i arbeidsmiljøloven**
+
+I tillegg til undersøkelsen som Fafo har gjort, har *utvalget* også hentet inn data på politianmeldte lovbrudd på arbeidstidsbestemmelsene.
+
+Antall politianmeldte lovbrudd **for arbeidsmiljøkriminalitet var noe lavere i 2014 (864 anmeldelser) enn på slutten av 90-tallet (1 260 anmeldelser i 1998), jf. figur 8.12. Om lag to prosent av disse (16 anmeldelser i gjennomsnitt per år) omfattet anmeldelser på arbeidstid.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Antall anmeldte lovbrudd i alt på arbeidsmiljøkriminalitet. 1993–2014
+
+Kriminalstatistikken, SSB.
+
+Generelt er antallet anmeldte lovbrudd høyere enn antallet ferdig etterforskede brudd. Dette har ifølge SSB flere årsaker. En er at tiden for å etterforske kan ta mer enn et år. En annen kan være at anmeldelsen i etterkant er overført til en annen lovbestemmelse (for eksempel brudd på hvilebestemmelsene i vegtrafikkloven). En tredje årsak er at anmeldelsen er overført til sivil rett (for eksempel Arbeidsretten) eller til en kontrollmyndighet og ikke lenger er definert som en straffesak.
+
+SSB har per i dag kun statistikk over strafferettslige brudd og ikke sivilrettslige brudd.
+
+I 2014 var det 414 brudd på arbeidsmiljøloven som var etterforsket. Disse lovbruddene gjelder samlet og ikke bare på arbeidstid. 41 prosent av disse var uavklarte (168 brudd) og 59 prosent (246 brudd) var oppklarte. Av de som var oppklarte var det 54 prosent (133 brudd) som fikk forelegg.
+
+1.  **Behovet for arbeidskraft**
+
+*Utvalget* er bedt om å beskrive behovet for arbeidskraft fram mot 2030. Behovet for arbeidskraft er ingen objektiv størrelse, men avhenger av valg på flere nivåer. Arbeidsinnsatsen i befolkningen bestemmes gjennom et samspill mellom tilbud og etterspørsel. Hvor mye arbeidskraft som tilbys i arbeidsmarkedet, påvirkes blant annet av hvordan befolkningen i arbeidsdyktig alder avveier ønskene om inntekt og forbruk mot ønskene om fritid. Hvor mye og hva slags arbeidskraft arbeidsgiverne etterspør, avhenger blant annet av kostnaden på arbeidskraften sett i forhold til kostnadene ved andre innsatsfaktorer i produksjonen. Arbeidstidsreguleringene både gjennom lover og tariffavtaler kan spille inn på arbeidstakernes beslutninger om arbeidstilbud, arbeidsgivernes kostnader relatert til arbeid som en innsatsfaktor i produksjonen, og arbeidsgivers valg av arbeidskraft versus andre produksjonsfaktorer.
+
+På kort sikt kan konjunkturvariasjoner påvirke både etterspørselen etter og tilbudet av arbeidskraft. På lengre sikt påvirkes begge deler av utviklingstrekk som aldringen av befolkningen, globalisering og teknologiske endringer, jf. punkt 9.1. Den faktiske arbeidsinnsatsen bestemmes med andre ord i markedet. Det er dermed ikke entydig hvordan en skal definere uttrykket «behovet for arbeidskraft» – om det er snakk om samfunnets behov, herunder offentlige finansieringsbehov, arbeidsgivernes behov eller noe annet.
+
+Samfunnets behov kan forstås som et behov for at likevekten i arbeidsmarkedet realiseres på et høyt nivå for sysselsetting og arbeidstid. Samfunnet kan av ulike grunner ha høy nytte av at mer arbeidskraft tilbys og etterspørres i arbeidsmarkedet enn det tilpasningen gir «av seg selv», jf. punkt 9.2.
+
+Behovet for arbeidskraft kan også forstås i sammenheng med behovet for en bred skattebase og høye skatteinntekter for å finansiere offentlige velferdsordninger. Punktene 9.3–9.4 ser nærmere på dette aspektet.
+
+Uttrykket «behovet for arbeidskraft» kan videre forstås som behovet for kompetanse i ulike sektorer i økonomien, altså hvordan arbeidsstyrken må være sammensatt for å møte behovene i næringslivet og i offentlig sektor. Punkt 9.5 ser nærmere på balansen mellom tilbud og etterspørsel av ulike typer arbeidskraft framover.
+
+1.  **Sentrale utviklingstrekk som påvirker arbeidsmarkedet**
+
+Uavhengig av hvilket aspekt ved det framtidige arbeidskraftbehovet man studerer, påvirkes det av flere viktige trender i samfunnsutviklingen:
+
+*Aldringen av befolkningen* trekker sysselsettingsandelen (og dermed arbeidstilbudet) ned og etterspørselen etter helse og omsorgstjenester opp. Dette øker behovet for skatteinntekter til å finansiere blant annet pensjoner og helse- og omsorgstjenester og øker etterspørselen etter arbeidskraft i helse- og omsorgssektoren, fordi vi trenger flere mennesker i de sektorene som tar vare på de eldre.
+
+*Den teknologiske utviklingen* kan ha stor betydning for den framtidige etterspørselen etter arbeidskraft i ulike næringer. Det vil igjen kunne påvirke hvilke yrker befolkningen utdanner seg til. Teknologi kan erstatte eksisterende produkter eller tjenester eller endre måten de produseres på (som Uber når det gjelder transporttjenester og Airbnb når det gjelder overnattingstjenester). Teknologi kan både redusere og øke etterspørselen etter arbeidskraft til ulike oppgaver. Flere studier peker på at opptil halvparten av eksisterende typer jobber kan bli automatisert i løpet av de neste 20 årene.[^188] Fram til nå har teknologi og mekanisering stort sett erstattet manuelle jobber i for eksempel jordbruk og industri, mens automatisering av flere andre yrker med lave kompetansekrav nå er i gang (kassapersonell, sjåfører mv.). Framover ventes det at automatisering i økende grad også vil ta over mer kognitive rutineoppgaver, eksempelvis enkel regnskapsføring. Denne automatiseringen kan føre til en polarisering i arbeidsmarkedet, der det fortsatt vil være relativt høy etterspørsel etter arbeidskraft både i bunnen og toppen av utdanningsfordelingen, mens det vil bli lavere etterspørsel etter grupper med middels utdanningsnivå.[^189]
+
+Mye av den teknologiske utviklingen vil ikke bare erstatte arbeid, men også kunne komplementere det.[^190] Økt bruk av digitale løsninger og roboter vil skape større etterspørsel etter arbeidskraft som utvikler og vedlikeholder denne teknologien. Samtidig vil det sannsynligvis også bli flere som jobber med oppgaver som maskinene mestrer dårlig, slik som kreative oppgaver, omsorgsoppgaver og andre oppgaver som er forholdsvis lette eller intuitive for mennesker, men som har vist seg å være overraskende vanskelige å kodifisere eller programmere med maskiner.[^191]
+
+I helse- og omsorgssektoren kan velferdsteknologi gjøre det mulig for eldre å klare seg lenger i eget hjem, og dermed dempe veksten i etterspørsel etter arbeidskraft i sektoren eller endre sammensetningen av oppgaver som gjennomføres innenfor eldreomsorgen.
+
+*Omstilling* i næringsstrukturen vil som i de foregående tiårene endre arbeidslivet. Særlig vil omstilling fra petroleumsvirksomhet til annen virksomhet gjøre seg gjeldende. Petroleumsnæringen er svært viktig for Norge. Selv om relativt få (om lag 63 200 personer i 2014) er direkte sysselsatt i utvinning av olje og gass og i tjenester som er direkte tilknyttet næringen, er en stor del av både industrien og tjenestenæringene ellers avhengig av petroleumsnæringen fordi de leverer varer og tjenester til den. Totalt anslår SSB at om lag 117 000 sysselsatte personer i ulike tjenestenæringer i fastlandsøkonomien kunne knyttes til petroleumsvirksomheten på norsk sokkel i 2012, mens det samme gjaldt om lag 34 000 sysselsatte i industrien.[^192] Framover vil petroleumsnæringen gradvis bygges ned. Omstillingen vil bety at arbeidskraft må flyttes til andre næringer.
+
+*Globalisering* gir sterkere internasjonal konkurranse og har i stor grad påvirket arbeidsmarkedet i Norge ved sterk arbeidsinnvandring, jf. omtale i kapittel 4. Ved inngangen til 2015 var det bosatt drøyt 160 000 innvandrere fra Polen, Litauen og Sverige i landet. Dette er de tre viktigste avgiverlandene for arbeidsinnvandring til Norge. I tillegg kommer mange utenlandske personer på midlertidige arbeidsopphold. I fjerde kvartal 2014 var det registrert over 90 000 slike korttidsinnvandrere. Utviklingen framover avhenger både av hvilke muligheter arbeidsinnvandrerne har til å få jobb i Norge sammenliknet med i hjemlandet og av lønnsforskjellene mellom landene. Også innvandringen i form av flukt og familiegjenforening har tiltatt. De senere månedene har økningen i antallet asylsøkere og flyktninger vært særlig sterk. Dette vil både påvirke offentlige finanser og arbeidstilbudet framover.
+
+Felles for alle disse utviklingstrekkene er at de bidrar til usikkerhet om utviklingen framover. Beskrivelsen av ulike framskrivninger av arbeidstilbudet i dette kapitlet må tolkes i lys av denne usikkerheten.
+
+1.  **Tilbud av og etterspørsel etter arbeidskraft**
+
+Vurderinger av behovet for arbeidskraft må ta utgangspunkt i tilbudet av og etterspørselen etter arbeidskraft. Disse størrelsene bestemmes av arbeidstakere og arbeidsgiveres valg. Reguleringer blant annet av arbeidstid og strukturelle forhold har også betydning for hvordan tilpasningen med hensyn til arbeidstid blir.
+
+1.  **9.2.1 Tilbud av arbeidskraft**
+
+For å beskrive arbeidstakers valg kan vi ta utgangspunkt i en forenklet teori der arbeidstakerne vurderer fordeler og ulemper med fritid opp mot arbeid og forbruk. Vi ser bort fra forhold som arbeidsuførhet og liknende som gjør at personer ikke har et reelt valg om å jobbe. Ifølge teorien velger personene om de vil delta i arbeidslivet eller ikke, og hvor mange timer de i så fall vil jobbe. I dette valget tar de blant annet hensyn til hvilken lønn de kan få, hvor mye fritid de ønsker og andre økonomiske faktorer slik som formue eller alternative inntektskilder. Fritid ses som et gode, men det å skaffe seg mer fritid koster i form av at man må gi avkall på arbeidstid og dermed inntekt og forbruk. Arbeidstakerne veier derfor ønskene om forbruk og fritid opp mot hverandre. Ønsket arbeidstid vil avhenge av individets forutsetninger og preferanser og av de økonomiske faktorene for hvert enkelt individ. Siden både de økonomiske faktorene og selve avveiningen mellom fritid og forbruk vil variere, kan ønsket arbeidstid variere fra null for noen personer til timetall langt over normal heltid for andre.
+
+Empiriske studier av hvordan personer endrer tilpasningen på arbeidsmarkedet som følge av endringer i direkte økonomiske vilkår (typisk lønns- og skatteendringer) viser generelt at arbeidstilbudet for menn som er etablert i arbeidsmarkedet, påvirkes lite av slike endringer. På den andre siden er det mye som tyder på at arbeidstilbudet til gifte kvinner og til personer som ikke er fast etablert i arbeidsmarkedet, er vesentlig mer påvirket av lønns- og skatteendringer.[^193]
+
+Ikke-økonomiske forhold er også av betydning, slik som trivsel, arbeidsmotivasjon og graden av psykiske og fysiske belastninger i jobben. Her spiller arbeidstid og arbeidstidsordninger inn. Ulike jobber har ulike egenskaper når det gjelder både økonomisk avkastning og arbeidsmiljøfaktorer. For arbeidstakere som av ulike grunner er på grensen til å ta et valg om å trekke seg ut av arbeidslivet, endre stillingsprosent eller liknende, kan selv små endringer i én eller noen få av rammebetingelsene føre til at de endrer sine valg. Noen grupper kan være mer tilbøyelig til å endre valgene sine, slik som eldre arbeidstakere eller personer med helseproblemer.
+
+Forsøk har for eksempel vist at 20 prosent kortere arbeidstid for eldre arbeidstakere bidro til å utsette pensjoneringstidspunktet.[^194] Resultater fra annen forskning antyder at sannsynligheten for tidlig pensjonering var lavere blant arbeidstakere over 62 år i AFP-bedrifter som fikk fem ekstra fridager, sammenlignet med arbeidstakere som ikke var omfattet av en slik utvidelse.[^195]
+
+1.  **9.2.2 Etterspørsel etter arbeidskraft – organisering av arbeidstid og produktivitet**
+
+Hvilke varer og tjenester det er etterspørsel etter, påvirker hvordan nærings- og bedriftsstrukturen blir og i neste omgang hvilken arbeidskraft som etterspørres. Vi kommer tilbake til dette i punkt 9.5. I det følgende analyserer vi arbeidsgivers etterspørsel etter arbeidskraft med vekt på organisering av arbeidstiden for de enkelte arbeidstakerne.
+
+I noen typer produksjon kan én arbeidstaker relativt enkelt byttes ut med en annen. Dersom det er god nok tilgang på arbeidskraft, er det i slike tilfeller ikke nødvendigvis vesentlig for arbeidsgiver at hver enkelt arbeidstaker jobber mye. Tvert imot kan det lønne seg å sette grenser for den enkelte arbeidstakers arbeidstid, slik at produktiviteten holdes oppe og risiko for feil minskes, jf. kapittel 7. På den annen side vil det å ha folk ansatt gi en del faste kostnader knyttet til blant annet ledelse, lønns- og personalsystemer og kontor-/arbeidsplass, slik at arbeidstiden heller ikke må bli for kort.
+
+Hvis lang driftstid går sammen med stor variasjon i behovet for arbeidskraft, er det vist at deltid kan lette arbeidsgivernes planlegging.[^196] Bruk av hele stillinger kan da gi for stor bemanning de delene av døgnet eller uka som har mindre behov for arbeidskraft, samtidig som arbeidsstokken ikke er tilstrekkelig til å dekke de periodene som har stort behov for arbeidskraft. Da kan deltid gi høyere produktivitet på virksomhetsnivå. Dette kan imidlertid også bidra til ufrivillig deltid, fordi det er krevende for arbeidstakerne å finne andre deltidsstillinger som akkurat fyller den tiden personen ønsker å jobbe. Dette gir et produksjonstap for samfunnet.
+
+Tilsvarende kan organiseringen av arbeidstid være av betydning hvis produksjonen er avhengig av kompetanse som ikke er lett å erstatte. I så fall kan arbeidsgiver ønske å beholde kompetansen, noe som kan tale for å legge stor vekt på godt arbeidsmiljø og å unngå arbeidstid som har negative helsemessige konsekvenser eller som kan få jobben til å framstå som lite attraktiv.
+
+Det vil også til tider være knapphet på visse typer kompetanse som ikke kan rettes opp på kort sikt. Når behovet for kompetanse varierer, kan det oppstå flaskehalser også selv om arbeidstilbudet i en normalsituasjon er tilstrekkelig. Både for arbeidsgiver og for samfunnet vil det da kunne være lønnsomt å benytte slik type arbeidskraft intensivt i en periode. Dersom man la opp til at alle arbeidstopper skulle dekkes med ordinær bruk av arbeidskraften, kan det påføre henholdsvis virksomheter og samfunnet høye kostnader.
+
+I andre tilfeller trengs det kompetanse for å utnytte dyrt kapitalutstyr og tilrettelegge for høy brukstid på utstyret. Dette har tradisjonelt blitt anført som et argument for å tillate lange eller ubekvemme arbeidstider i industrien, men kan i like stor grad gjelde for effektiv utnyttelse av dyrt medisinsk utstyr eller andre former for dyre investeringer i både privat og offentlig sektor.
+
+Av produktivitetshensyn kan det være gunstig å tillate lange arbeidsøkter eller intensive arbeidsperioder for enkelte arbeidstakere. Dette kan gjelde for komplekse arbeidsoppgaver som krever lang forberedelse, og hvor det vil være ugunstig for resultatet om arbeidstaker avbryter arbeidsprosessen. For eksempel kan det bli vanskelig og tidskrevende for andre å overta ansvaret. Investeringer i for eksempel opplæring kan også trekke i retning av at arbeidsgivere vil ønske å få mest mulig ut av de ansatte de har, for eksempel i form av overtid.
+
+1.  **9.2.3 Samfunnets behov**
+
+Det finnes en del forhold og mekanismer som gjør at arbeidstakeren kan velge kortere eller lengre arbeidstid enn det som er ønskelig for samfunnet som helhet. For eksempel fører skatt på arbeid til at arbeidstakerne får mindre igjen for hver arbeidede time. Dette endrer den individuelle avveiningen hver enkelt foretar. Ifølge økonomisk teori og empiri kan dette føre til at arbeidstakerne ønsker å jobbe mindre enn dersom de ikke måtte betale skatt.[^197]
+
+I et samfunnsøkonomisk regnskap har skatteinntektene stor betydning, fordi de muliggjør produksjon av offentlige tjenester som skole og helsevesen, pensjonsordninger og andre offentlige forsikringsordninger. Når hver enkelt arbeidstaker kun tar hensyn til eget forbruk/forbruket for egen husholdning i arbeidsbeslutningen, blir ikke bortfallet av skatteinntekter til fellesskapet ved å eventuelt jobbe litt mindre et element i vurderingen. Tilpasningen i arbeidsmarkedet for den enkelte blir dermed ikke i tråd med den beste løsningen for samfunnet. For samfunnet ville mer tid brukt på arbeid og mindre tid brukt på fritid skapt verdier som overstiger verdien av den tapte fritiden, altså høyere samfunnsøkonomisk effektivitet.
+
+Det er også noen grunner til at noen jobber for mye fra et samfunnsperspektiv. Konkurranse mellom arbeidstakere om forfremmelser, stillinger, prestisje, oppdrag, mv. kan gi som resultat at alle forsøker å jobbe mer enn de andre for å vinne konkurransen. Dette kan gi for mye arbeid samlet sett.
+
+Lang arbeidstid kan gi negative helseeffekter og kan være årsak til feil og ulykker, jf. kapittel 7. Det samme gjelder ugunstig arbeidstid slik som nattarbeid. Kostnader til helsetjenester og trygder bæres i all hovedsak av det offentlige i Norge. De mulige helsemessige og trygdemessige konsekvensene av lange eller ukurante arbeidstider reflekteres derfor ikke direkte i sin helhet i arbeidstakers og arbeidsgivers vurderinger av den enkeltes arbeidsinnsats på kort sikt. Dette innebærer at arbeidsgivere vil kunne foreslå mindre gunstige arbeidstidsordninger, og arbeidstakere (og/eller arbeidstakerorganisasjoner) vil være mer villige til å godta slike når de ikke selv må bære alle kostnadene av disse ordningene knyttet til sykdom, skade eller nedsatt funksjon.
+
+Arbeidsstyrken er heterogen. Noen legger stor vekt på fritid og ønsker kortere arbeidstid, mens andre ønsker lang arbeidstid. Det er mulig å gi samfunnsøkonomiske begrunnelser for å verne arbeidstakere mot for lang arbeidstid. Individuelle valg om å jobbe «for lite» har imidlertid også en samfunnsøkonomisk kostnad i form av bortfall av inntekter for samfunnet.
+
+1.  **Framtidig finansieringsbehov – utfordringer for arbeidstiden**
+
+Finansieringen av velferdsordningene påvirkes både av hvor stor skattebasen er, som i sin tur påvirkes av hvor stor arbeidsstyrken er, og av hvor mye hver enkelt jobber. Andre forhold, slik som utviklingen i Statens pensjonsfond – utland, produktivitetsutviklingen i fastlandsøkonomien og hvor store utgiftene til for eksempel helse- og omsorgssektoren blir framover, har også betydning. En del ulike utviklingstrekk av betydning for finansieringen av fremtidens velferdsordninger er beskrevet i Perspektivmeldingen 2013,[^198] og beregningene ble oppdatert i forbindelse med Nasjonalbudsjettet 2015.[^199] I dette avsnittet gjengir *utvalget* noen hovedpunkter fra disse framskrivningene og går nærmere inn på hvor høy yrkesdeltakelse og arbeidstid som de ulike scenariene forutsetter.
+
+Mens personer over 66 år utgjør 14 prosent av befolkningen i 2015, vil denne andelen ha økt til 22 prosent i 2060 ifølge SSBs middelalternativ for befolkningsutviklingen. Forsørgelsesbyrden, det vil si antall barn og gamle (0–19 år og over 66 år) per person i befolkningen i de mest yrkesaktive årene (20–66), er anslått til å øke fra 0,6 i 2015 til 0,8 i 2060.
+
+Med dagens retningslinjer for finanspolitikken viser framskrivingene i Nasjonalbudsjettet 2015 at bidraget fra pensjonsfondet til finansiering av offentlige utgifter etter hvert vil avta som andel av verdiskapingen i fastlandsøkonomien.
+
+Samtidig innebærer økende levealder at offentlige utgifter til blant annet pensjoner, helse og omsorg vil øke raskere enn verdiskapingen og skattegrunnlaget i tiårene framover, selv om en ikke bygger ut velferdsordningene eller forbedrer kvaliteten på disse ytterligere. Målt ved løpende tilpasninger av skattene ble det i Nasjonalbudsjettet 2015 anslått et inndekningsbehov som gradvis ville øke til 5,2 prosent av BNP for Fastlands-Norge i 2060 (omtalt som referanseforløpet).
+
+Økningen i inndekningsbehovet blir ifølge framskrivingene særlig merkbar utover på 2030-tallet. En tidshorisont fram til 2030 som angitt i arbeidstidsutvalgets mandat gir derfor ikke noe dekkende bilde av de langsiktige utfordringene. I dette avsnittet ser vi derfor fram mot 2060, slik som i Perspektivmeldingen og i Nasjonalbudsjettet.
+
+Finansdepartementets referanseforløp for inndekningsbehovet bygger på en rekke forutsetninger, blant annet at standarden på de offentlige tjenestene og bruken av tjenestene innad i hver aldersgruppe holder seg uendret. Dette betyr at en ser bort fra at effektiviseringsgevinster som følge av ny teknologi i framtiden kan gi lavere utgifter per bruker. Man ser også bort fra at utgiftene til helse- og omsorgstjenester per bruker kan øke på grunn av nye behandlingsformer eller økt standard i pleie og omsorg. Anslaget inkluderer ikke sysselsettingsvirkninger av pensjonsreformen. Samtidig er det forutsatt at gjennomsnittlig arbeidstid holder seg uendret framover. Dette er i tråd med utviklingen de siste ti årene, men kan virke noe optimistisk når en ser arbeidstidsutviklingen i et lengre historisk perspektiv.
+
+Når andelen eldre i befolkningen øker, går antall arbeidstimer per innbygger ned. Dersom dagens tilknytning til arbeidslivet for ulike befolkningsgrupper etter alder, kjønn og landbakgrunn holder seg uendret framover, vil antallet timeverk per innbygger gå ned fra rundt 750 timeverk per innbygger i 2015 til rundt 665 timeverk per innbygger i 2060, jf. figur 9.1 (referanseforløpet).
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Arbeidstimer per innbygger
+
+Finansdepartementet og Statistisk sentralbyrå.
+
+Nedgangen i timeverk per innbygger skyldes at sysselsettingsandelen går ned når befolkningen eldes. I referanseforløpet faller sysselsettingen i alderen 15–74 år fra 70 prosent i 2014 til 67 prosent i 2060.[^200]
+
+Figuren viser også anslått utvikling i arbeidstimer per innbygger under forutsetning av at pensjonsreformen virker etter hensikten, anslått til 8 prosent økning i utførte timeverk i 2060 (økt sysselsetting) eller at arbeidstiden per sysselsatt faller i samme takt som fra 1990 til 2013, om lag 0,3 prosent per år (kortere arbeidstid).
+
+Finansieringsbehovet blir langt lettere å bære dersom arbeidsinnsatsen i befolkningen øker. Figur 9.2 viser den utviklingen i arbeidstimer per innbygger i arbeidsdyktig alder som er nødvendig for å dekke finansieringsbehovet framover dersom skattene ikke økes (kravforløpet). I kravforløpet ligger antall timeverk per innbygger i alderen 15–74 år i 2060 12 prosent over referanseforløpet.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Antall arbeidede timeverk per innbygger i alderen 15–74 år. Referanseforløp og forløp som balanserer offentlige budsjetter
+
+Finansdepartementet og Statistisk sentralbyrå.
+
+Eventuelle virkninger av pensjonsreformen på arbeidstilbudet er ikke innarbeidet i referanseforløpet, utover de effektene som er kommet til syne fram til og med 2015. Statistisk sentralbyrå har på usikkert grunnlag anslått at pensjonsreformen kan bidra til å øke antall timeverk med 8 prosent fram mot 2060 sammenliknet med utviklingen dersom reformen ikke hadde blitt gjennomført.[^201] Den tilhørende økningen i skattegrunnlaget bidrar til å redusere behovet for inndekning med om lag 3,5 prosentenheter. Dette reduserer finansieringsbehovet merkbart. I så fall ville en økning i gjennomsnittlig arbeidstid på under 4 prosent, eller på om lag 1,2 timer per uke per sysselsatt, gitt at sysselsettingen utvikler seg som i referansebanen, være tilstrekkelig for å dekke underskuddene i offentlige budsjetter.
+
+Dersom derimot gjennomsnittlig arbeidstid faller i samme takt som vi observerte mellom 1990 og 2013 (0,3 prosent per år, svarende til alternativet «kortere arbeidstid» i Finansdepartementets framskrivninger), vil sysselsettingen måtte øke til hele 83 prosent for aldersgruppen 15–74 år, mens den i dag er 70 prosent.
+
+Det er flere usikkerhetsmomenter som kan påvirke finansieringsbehovet. Dersom en forutsetter vekst i ressursinnsatsen per bruker innenfor helse og omsorg på ½ prosent per år, øker inndekningsbehovet i 2060 med ytterligere 5 prosent av fastlands-BNP. I tillegg er vi utsatt for svingninger i oljeprisen, og utviklingen i produktiviteten samt at avkastningen av Statens pensjonsfond-utland kan variere.
+
+Tabell 9.1 viser finansieringsbehovet i prosent av BNP og i form av nødvendig økning i arbeidstid i 2060. Økt arbeidstid i 2060 er eksemplifisert ved økt gjennomsnittlig arbeidstid eller alternativt økt sysselsettingsandel. De to kolonnene lengst til høyre er gjensidig utelukkende: for å dekke inn kostnadene ved økt standard i helse og omsorg må enten arbeidstiden per uke i gjennomsnitt øke med 7,4 timer blant dem som er sysselsatt, eller sysselsettingsandelen må øke til 83 prosent. Nærmere beskrivelse av de ulike alternativene er gitt i vedlegg 1.
+
+1.  Inndekningsbehov i prosent av BNP i 2060 og omsatt til økt arbeidsinnsats<sup>1</sup>
+
+|  |  |  |  |
+|----|----|----|----|
+|  |  | Hele inndekningsbehovet møtes ved økt arbeidsinnsats |  |
+|  |  |  |  |
+|  | Inndekningsbehov i prosent av BNP | Økning i arbeidstid per sysselsatt per uke<sup>2</sup> | Sysselsettingsandel<sup>3</sup> |
+|  |  |  |  |
+| Økt standard i helse og omsorg | 10,2 | 7,4 | 83 |
+| Lavere privat prod. vekst | 4,7 | 3,4 | 74 |
+| Høyere privat prod. vekst | 5,7 | 4,1 | 76 |
+| Lavere realavkastning av Statens pensjonsfond – utland | 7,5 | 5,4 | 79 |
+| Høyere realavkastning av Statens pensjonsfond – utland | 3,4 | 2,5 | 72 |
+| Lavere olje- og gasspris | 6,5 | 4,7 | 77 |
+| Høyere olje- og gasspris | 4,2 | 3,0 | 74 |
+| Referansebanen | 5,2 | 3,8 | 75 |
+|  |  |  |  |
+
+<sup>1</sup> Tabellen tar utgangspunkt i den tilgangen på arbeidskraft som etter framskrivningene er nødvendig for å dekke inndekningsbehovet i referanseforløpet (kravforløpet), og doserer dette proporsjonalt for de øvrige alternativene.
+
+<sup>2</sup> Regnet ut fra 45,2 arbeidsuker per år (fem ukers ferie og et gjennomsnitt på 8 bevegelige helligdager per år) og med utgangspunkt i at arbeidstiden i 2060 anslås til 1420,5 timer per år per sysselsatt i gjennomsnitt.
+
+<sup>3</sup> Tallene må sees i lys av at samlet sysselsettingsandel i 2060 med referanseforløpets antakelser om videreføring av sysselsettingsandeler etter alder, kjønn og landbakgrunn anslås til 67.
+
+Finansdepartementet
+
+Hvis alle over 25 år som i dag jobber deltid gikk over til heltid,[^202] mens sysselsettingsandelen holdt seg uendret, ville avtalte timeverk øke med nesten 12 prosent, altså nær den økningen som skal til for å møte inndekningsbehovet i 2060 i referansebanen. For mange av gruppene som i dag jobber deltid, er det urealistisk å jobbe heltid. Dette gjelder spesielt delvis uføretrygdede og en del eldre arbeidstakere. Beregningen er kun ment som en illustrasjon på økningen i arbeidsinnsats som kreves ifølge framskrivninger. Til sammenlikning vil utsatt tilbaketrekking fra arbeidslivet[^203] med ett år løfte antall arbeidstimer med om lag 1,6 prosent, og utsatt tilbaketrekking med fem år ville gitt en økning på om lag 7,5 prosent.
+
+Beregningene av inndekningsbehovet under de gitte forutsetningene og eksemplifiseringene av hvor stor økning i arbeidsinnsatsen som ville kreves for å dekke det, er i utgangspunktet verdinøytrale. Beregningene sier ikke om vi som samfunn bør velge å øke skattene, kutte i velferdstjenestene eller jobbe mer for å beholde kontrollen med offentlige finanser.
+
+Analysene kan imidlertid belyse konsekvenser av de ulike valgene. Perspektivmeldingen argumenterer for at å legge til rette for høyere arbeidsinnsats er å foretrekke framfor økt skatt. En årsak er at økt skatt i seg selv reduserer folks insentiver til å jobbe, slik at skattegrunnlagene krymper og dermed øker inndekningsbehovet. Dette betyr at privat forbruk reduseres mer enn om inndekningsbehovet dekkes inn ved økt arbeidsinnsats.
+
+I en rapport fra SSB fra 2014 ses det nærmere på et forløp med kortere arbeidstid.[^204] De finner at dersom gjennomsnittlig arbeidstid reduseres med 0,5 prosent per år fram mot 2060, som tilsvarer at en fulltidsarbeidsdag er redusert med 1,5 timer i 2060, vil privat forbruk være 200 000 2012-kroner lavere per innbygger i 2060 sammenliknet med referansebanen. Privat forbruk vil med dette være 1,8 ganger 2010-nivået i 2060 i scenariet med kortere arbeidstid i denne studien, mens det tilsvarende forholdstallet er 2,7 i scenariet med uendret arbeidstid.[^205]
+
+Framskrivningene fra Finansdepartementet og rapporten som er beskrevet over, analyserer ulike utviklingsforløp gitt ulike forutsetninger om blant annet gjennomsnittlig arbeidstid i framtiden. Disse analysene er således ikke primært vurderinger av sannsynlig utvikling i gjennomsnittlig arbeidstid framover.
+
+I 2008 utarbeidet SSB en modell med sikte på å anslå utviklingen i arbeidstiden.[^206] Med grunnlag i historiske utviklingstrekk finner de at reduksjonen i gjennomsnittlig arbeidstid sannsynligvis vil fortsette, og at en gjennomsnittlig arbeidsdag vil være 6 timer i 2050. I modellen for arbeidstiden drives utviklingen først og fremst av at noe av den økte velstanden også framover vil bli tatt ut i form av økt fritid, slik vi har observert historisk. Fagforeningene antas å målbære ønskene om kortere arbeidstid, og dette vil gi utslag i kortere tariffbestemt arbeidstid. Imidlertid er fagforeningenes forhandlingsstyrke avhengig av situasjonen i arbeidsmarkedet. Økt sysselsetting gir større press i arbeidsmarkedet og dermed sterkere forhandlingsposisjon for fagforeningene, slik at de i noe større grad får gjennomslag for kravene om redusert arbeidstid. Dette stemmer med den utviklingen vi har bak oss. Den økte sysselsettingsandelen de siste tiårene ga i tillegg et strammere tidsbudsjett for familiene: I og med at det var kvinnene som kom inn i arbeidslivet, ble det mer krevende å få utført omsorgsoppgavene i hjemmet. Dette kan ha forsterket ønskene om kortere arbeidstid. Studien finner også støtte for at om lag halvparten av reduksjonen i tariffbestemt arbeidstid har blitt motvirket av økt overtidsarbeid og redusert bruk av deltid.
+
+En del forhold kan utvikle seg annerledes enn forutsatt i denne studien. En vedvarende lav oljepris og økt ledighet vil for eksempel kunne gi mindre press i arbeidsmarkedet og med det også ha konsekvenser for tariffbestemt arbeidstid.
+
+1.  **Sysselsetting i offentlig sektor**
+
+I og med at behovet for helse- og omsorgstjenester vokser med en aldrende befolkning, vil timeverkene i offentlig forvaltning[^207] også øke, forutsatt at disse tjenestene fortsatt produseres i offentlig regi i like stor grad som i dag. Andelen av timeverkene som utføres i offentlig forvaltning i referansebanen øker ifølge Nasjonalbudsjettet 2015 fra om lag 27 prosent i 2015 til 33 prosent i 2060, jf. figur 9.3. Til sammenlikning sto offentlig forvaltning bare for 16 prosent av timeverkene i 1970.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Timeverk per innbygger. Totalt og i offentlig forvaltning
+
+Nasjonalbudsjettet 2015
+
+.
+
+Beregningen forutsetter samme yrkesdeltakelse som i dag for kvinner og menn og per aldersgruppe/innvandringsgruppe, og uendret arbeidstid per sysselsatt. Det siste kan tolkes som at deltidsandelen holder seg uendret.
+
+Timeverkene i offentlig forvaltning er spredt på flere sysselsatte enn i andre deler av økonomien, hovedsakelig på grunn av høyere deltidsandel og kortere arbeidstid i turnusyrkene og andre yrker innenfor helse og omsorg. I 2014 utgjorde sysselsatte i offentlig forvaltning i underkant av 30 prosent av alle sysselsatte personer. Med framskrivningen av antallet timeverk i offentlig forvaltning som i figur 9.3 og samme antall produserte timeverk per sysselsatt som i offentlig forvaltning i 2014, øker offentlig forvaltnings andel av alle sysselsatte til 36 prosent i 2060.
+
+1.  **Tilbud av og etterspørsel etter arbeidskraft etter utdanning og fagområde**
+
+Som nevnt kan eventuelle ubalanser i arbeidsmarkedet analyseres ved å se nærmere på sammensetningen av både etterspørselen etter og tilbudet av arbeidskraft og hvordan disse passer sammen. Dette kan belyses ved mer spesifikke framskrivninger av tilbud og etterspørsel etter ulike grupper arbeidskraft. SSB har gjort slike framskrivinger fram mot 2030.[^208] Framskrivningene forutsetter at tilbøyelighetene til å ta ulike typer utdanning holder seg som i dag.
+
+Etterspørselen etter de ulike gruppene er beregnet med en variant av den makroøkonomiske modellen MODAG. I disse framskrivningene er tilbud og etterspørsel framskrevet hver for seg. Mekanismer som vil bidra til å utjevne ubalanser, slik som økt lønn i yrker det blir knapphet på og redusert lønn i yrker med overskudd (som i sin tur kan påvirke unges utdanningsvalg og arbeidsgiveres etterspørsel) er ikke inkludert. Beregningene gir dermed ikke et realistisk bilde av hva som vil skje, men gir et bilde av hvor utfordringene vil komme dersom utviklingen fortsetter som i dag.
+
+Disse beregningene viser at behovet for arbeidskraft med videregående utdanning ser ut til å overstige tilbudet, samtidig som det kan bli overskudd på arbeidskraft med både kortere og lengre utdanning. En nærmere inndeling etter fagområder viser at det først og fremst er videregående fagutdanning som vil bli etterspurt, se figur 9.4. Framskrivningsresultatet for helsefagarbeidere med utdanning på videregående nivå (tilsvarende de tidligere betegnelsene hjelpepleier og omsorgsarbeider) er ikke publisert av SSB i den nyeste rapporten på grunn av usikkerhet i datamaterialet. En tidligere rapport antyder at underskuddet på slikt personell vil ligge i størrelsesorden 45 000 til 73 000 personer i 2035.[^209] Disse tallene kan være overvurdert, siden de ikke tar høyde for at en del innvandrere vil ha kompetanse tilsvarende helsefagarbeider.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Overskudd/underskudd av arbeidskraft etter utdanningsnivå i 2030. Tusen personer
+
+SSB-rapport 2014/31.
+
+Det ligger også an til at etterspørselen vil overstige tilbudet av arbeidskraft med kort høyere utdanning innenfor pleie- og omsorgsfag, typisk sykepleiere, samt lærere, jf. figur 9.5. En egen framskrivning for lærere bekrefter at etterspørselen etter lærere vil overstige tilbudet dersom utviklingen fortsetter som i dag. Rapporten anslår at det i 2040 vil være en underdekning på nesten 4 000 grunnskolelærere, mens det vil være overskudd på blant annet faglærere og barnehagelærere.[^210] Framskrivningene må tolkes med varsomhet.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Overskudd/underskudd av arbeidskraft etter utdanningsnivå og utdanningsfelt i 2030. Tusen personer
+
+SSB-rapport 2014/31.
+
+1.  **Utgangspunkt og premisser for utvalgets vurderinger og forslag**
+
+    1.  **Utgangspunktet for reguleringen av arbeidstid**
+
+        1.  **Grunnleggende hensyn**
+
+I dette kapitlet redegjøres det for grunnleggende hensyn og sentrale utviklingstrekk som har betydning for *utvalgets* vurderinger. I kapittel 11 legger *utvalget* fram sine overordnede vurderinger. I kapittel 12–17 diskuterer *utvalget* mer inngående områder hvor *utvalget* mener det er behov for endringer i dagens arbeidstidsregulering og kommer med forslag til mulige løsninger.
+
+Arbeidskraften er vår viktigste ressurs, og må brukes på en god måte. Dette innebærer at fordelingen av tilgjengelig tid mellom utdanning, fritid og arbeidstid samt allokeringen av arbeidskraft i produksjonen av varer og tjenester skjer på en slik måte at den totale velferden blir størst mulig. Arbeidstidsbestemmelsene i form av lovverk, tariffavtaler, individuelle avtaler, EUs arbeidstidsdirektiv og rettspraksis påvirker i vesentlig grad mulighetene for hvordan arbeidskraften som ressurs kan ivaretas og utnyttes best mulig.
+
+Det overordnede formålet med loven er hensynet til arbeidstakernes trygghet, helse og velferd. Reglene skal legge til rette for et trygt, fleksibelt og familievennlig arbeidsliv med plass til alle, jf. blant annet formålsbestemmelsene. Ut over det må arbeidstidsreguleringene imidlertid også ivareta andre hensyn. Dette gjelder hensynet til arbeidsgivere og virksomhetenes behov, hensynet til brukere og tredjepart og hensynet til samfunnet for øvrig.
+
+Loven er en vesentlig rammebetingelse for virksomhetenes lønnsomhet og konkurranseevne. I mandatet bes *utvalget* om å vurdere de samlede arbeidstidsreguleringene i lys av økte behov for og muligheter til fleksibilitet, både for den enkelte arbeidstaker og virksomheter. Framover vil det fortsatt være behov for å legge til rette for omstilling slik at virksomhetenes og samfunnets behov for å sikre høy produktivitet, lønnsomhet og konkurranseevne ivaretas.
+
+I privat sektor vil hensynet til kundene og brukerne i stor grad falle sammen med arbeidsgivers ønsker, som typisk vil reflektere kunders og brukeres krav og forventninger til kvalitet i de varer og tjenester som produseres. I offentlig sektor vil imidlertid denne mekanismen ofte være svakere, fordi det vanligvis ikke vil være den samme konkurransen mellom virksomheter som presser dem til å legge sterk vekt på kunders og brukeres ønsker og behov. Det kan tale for at hensynet til brukerne må vektlegges sterkere ved utforming av rammene for offentlig tjenesteproduksjon.
+
+Arbeidstidsreguleringen vil kunne innvirke på størrelsen på arbeidstilbudet. Endringer i sammensetningen av befolkningen, med en økende andel eldre, vil i tiårene framover gi markert høyere utgifter til pensjoner og helse- og omsorgstjenester. For å opprettholde og videreutvikle velferdssamfunnet er det nødvendig med høy deltakelse i arbeidslivet. Det er viktig at arbeidstidsreguleringene bidrar til dette.
+
+Reguleringen av arbeidstid innebærer avveininger av ulike hensyn og interesser. Ulike hensyn kan tenkes å komme i konflikt med hverandre. Erfaringen i norsk arbeidsliv tilsier imidlertid at det i all hovedsak lar seg gjøre å finne løsninger der et vern av arbeidstakeres helse og velferd kombineres med virksomhetenes behov, kunders og brukeres ønsker og samfunnshensyn forøvrig.

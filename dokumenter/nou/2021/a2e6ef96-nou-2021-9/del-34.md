@@ -1,910 +1,166 @@
-# NOU 2021: 9, del 34 av 36 (side 364–375)
+# NOU 2021: 9, del 34 av 42
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2021/a2e6ef96-nou-2021-9.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2021-9/id2862895/
 - Original-PDF: https://www.regjeringen.no/contentassets/7b8fb44f93a4402981ed7f279b345dbe/no/pdfs/nou202120210009000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 tabeller, 28 figurer, 239 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 364]
-
-362
-
-NOU 2021: 9
-
-Kapittel 18
-
-Den norske modellen og fremtidens arbeidsliv
-
-Det foreslås at Arbeidstilsynet på tilsvarende
-måte som i dag kan føre tilsyn med at drøfting faktisk gjennomføres, men at det ikke føres tilsyn
-med innhold eller resultat av drøftingen.
-Til arbeidsmiljøloven § 15-7 andre ledd
-Bestemmelsen utvider plikten til å tilby annet passende arbeid til å gjelde i konsernet eller gruppe
-av virksomheter som er knyttet sammen gjennom
-eierinteresser eller felles ledelse.
-Når det gjelder virkeområdet, det vil si virksomhetskretsen, oppstilles det samme regel som
-foreslås i § 14-2 første ledd nytt andre punktum.
-Med begrepet «konsern» er det tatt utgangspunkt i selskapslovgivningens definisjon av konsern, jf. for eksempel aksjeloven § 1-3. Et konsern
-består av et morselskap med ett eller flere datterselskap. Det følger videre av selskapslovgivningen
-at et selskap regnes som et morselskap hvis det på
-grunn av avtale eller som eier av aksjer eller selskapsandeler har bestemmende innflytelse over et
-annet selskap, som da er datterselskap. Et selskap
-anses alltid for å ha bestemmende innflytelse hvis
-det eier så mange aksjer eller andeler i et annet
-selskap at de representerer flertallet av stemmene
-i det andre selskapet. Det samme gjelder dersom
-selskapet har rett til å velge eller avsette et flertall
-av medlemmene i det andre selskapets styre.
-Med begrepet «gruppe av virksomheter som
-er knyttet sammen gjennom eierinteresser eller
-felles ledelse» er det tatt utgangspunkt i reglene
-om konsernrepresentasjon som ikke er begrenset
-til konsernforhold slik det er definert ovenfor, jf.
-eksempelvis aksjeloven § 6-5 annet ledd. Siktemålet er å omfatte konsernliknende forhold, selv om
-slike grupperinger ikke er konsern i selskapsrettslig forstand. Vedrørende forståelsen av § 6-5
-annet ledd så fremgår det av Aarbakke m.fl. (2017,
-kapittel 6) blant annet at:
-Det er ikke noe vilkår at et foretak som omfattes av ordningen, er et aksjeselskap eller noe
-form for selskap overhodet. Også ansatte i
-forening eller stiftelse som hører til en foretaksgruppe som nevnt, kan omfattes av representasjonsordningen for gruppen.
-En foretaksgruppe kan være knyttet
-sammen gjennom eierinteresser hvor flere
-sideordnede selskaper eies av de samme
-interesser. Eierinteressen kan ligge hos personlige eller upersonlige rettssubjekter, f.eks.
-utenlandsk aksjeselskap, samvirkelag, ansvarlig selskap, stiftelse, forening, stat, kommune
-eller enkeltperson, jf. Andenæs side 406 og G.
-
-Granden: Styrearbeid (2013) side 211 flg. Sammenknytting gjennom felles ledelse omfatter
-også tilfeller hvor flertallet i de styrende organer består av de samme personer eller representanter for de samme interesser. Det er
-ingen forutsetning at det ene foretaket står i et
-overordnet forhold til det annet, foretakene
-kan være sideordnet, jf. Ot.prp. nr. 19 (1974–
-75) side 79 og Andenæs side 391–393.
-Utvidelsen vil kun være aktuell i de tilfeller hvor
-det er fastslått at arbeidsgiver selv ikke har annet
-passende arbeid å tilby. Utvidelsen er ikke ment å
-gå foran arbeidsgivers plikt til å tilby annet passende arbeid til arbeidstakere i egen virksomhet.
-Bestemmelsen innebærer at arbeidsgiver i en
-nedbemanningsprosess, sammen med øvrige
-virksomheter i konsernet/gruppen, må undersøke om det er annet passende arbeid å tilby
-arbeidstakeren innenfor hele konsernet eller
-gruppen, dersom det ikke er annet passende
-arbeid å tilby i arbeidsgivers virksomhet. Hvis det
-finnes annet passende arbeid i konsernet/gruppen, skal stillingen tilbys arbeidstakeren. Stillingen som tilbys vil således kunne være i et annet
-rettssubjekt enn hos arbeidsgiver.
-Kravet til hva som skal anses som «annet passende arbeid» må vurderes konkret og med
-utgangspunkt i de samme vurderingstema som
-etter gjeldende § 15-7 andre ledd. Det vil ikke
-være «annet passende arbeid» å tilby en stilling
-som er geografisk plassert slik at det er urealistisk at arbeidstakeren har mulighet til å akseptere
-tilbudet om stillingen.
-I plikten til å tilby «annet passende arbeid»
-innenfor konsernet/gruppen, bør det kunne
-åpnes for at arbeidsgiver kan gjøre avgrensninger
-med hensyn til rekkevidden av undersøkelsesplikten basert på saklige kriterier. Dette vil særlig
-være aktuelt i store konserner eller store grupper
-av virksomheter. Arbeidsgiver må i så fall definere
-saklige kriterier i samråd med arbeidstakernes
-representanter. En mulig saklig avgrensning er
-for eksempel til virksomheter i konsernet/gruppen som det kan være rimelig å anta at kan ha
-annet passende arbeid, fordi virksomheten har tilsvarende arbeidsoppgaver eller ansatte innenfor
-samme arbeidstakerkategori som den eller de
-arbeidstakerne det gjelder. En annen mulig saklig
-avgrensning i store konsern/grupper kan være
-for eksempel geografisk. I tillegg kan det for
-offentligeide virksomheter være behov for at det, i
-de tilfeller et rettssubjekt eies av for eksempel
-mange kommuner, kan gjøres saklige avgrensninger med hensyn til hvilke eierkommuner som
-
-[Side 365]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-omfattes av plikten til å tilby annet passende
-arbeid.
-Et særskilt spørsmål er om arbeidstaker som
-ikke aksepterer et tilbud om annet passende
-arbeid i konsernet eller gruppen, likevel bør ha
-fortrinnsretten i behold i konsernet eller gruppen.
-Hvis arbeidstaker velger å takke nei til annet passende arbeid i konsernet/gruppen, bør fortrinnsretten i konsernet/gruppen bortfalle, jf. forslag til
-§ 14-2 første ledd tredje punktum. Den ordinære
-fortrinnsretten i arbeidsgivers virksomhet vil likevel være i behold, jf. gjeldende regel i § 14-2.
-Bestemmelsen gir kun rettigheter i virksomheter som omfattes av arbeidsmiljøloven, og ikke
-virksomheter som omfattes av statsansatteloven.
-
-363
-
-Kapittel 18
-
-Til arbeidsmiljøloven § 18-6
-Endringen innebærer at påleggskompetansen til
-Arbeidstilsynet skal omfatte drøftingsbestemmelsen i § 14-14 a, som samler og utvider drøftingsplikten. Arbeidstilsynet skal på tilsvarende måte
-som i dag, kontrollere at det faktisk er gjennomført en drøfting mellom partene i henhold til
-lovens krav. Arbeidstilsynet skal ikke kontrollere
-hva partene har drøftet innholdsmessig eller
-resultatet av drøftingene.
-Øvrige endringer i bestemmelsen knytter seg
-til at lovbestemmelser foreslås opphevet.
-
-[Side 366]
-
-364
-
-Kapittel 19
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-Kapittel 19
-
-Økonomiske og administrative konsekvenser
-Det følger av utvalgets mandat at utvalget skal
-vurdere økonomiske, administrative og andre
-vesentlige konsekvenser av sine forslag i samsvar
-med instruks om utredning av statlige tiltak
-(utredningsinstruksen). I dette kapittelet redegjøres det for de økonomiske og administrative konsekvensene av anbefalingene som utvalget foreslår i del 3.
-I mandatet til utvalget heter det blant annet:
-• Utvalget skal beskrive relevante utviklingstrekk og eventuelle utfordringer i arbeidslivet
-vedrørende tilknytningsformer og organisering av virksomhet ut fra kunnskapsgrunnlag
-som finnes. Utvalget kan også peke på områder
-hvor det er behov for videre forskning og
-utredning.
-• Utvalget skal vurdere rammeverket for ulike
-tilknytningsformer for de som utfører arbeid,
-og vurdere om dette er tilstrekkelig tydelig,
-hensiktsmessig og tilpasningsdyktig både for
-dagens og fremtidens arbeidsliv. Utvalget kan
-eksempelvis vurdere grenseoppgangene mellom ulike tilknytningsformer, og om begrepene, herunder arbeidstakerbegrepet, er tydelige og hensiktsmessige og omfatter de grupper det er ønskelig at de skal omfatte. Videre
-kan det vurderes om de ulike tilknytningsformene har de ønskede konsekvensene med
-hensyn til rettigheter og plikter for de som utfører arbeid, også sett i sammenheng med virksomhetenes behov for fleksibilitet. Med rettigheter og plikter tas det særlig sikte på rammer
-for medvirkning og samarbeid, stillingsvern og
-HMS.
-• Utvalget skal gjennomgå rammeverk for
-arbeidsgiveransvar og organisering av arbeid
-og virksomhet, og vurdere om dette er tilstrekkelig tydelig, hensiktsmessig og tilpasningsdyktig både for dagens og fremtidens arbeidsliv. Utvalget kan blant annet vurdere hvordan
-ulike organisasjonsformer og virksomhetsmodeller påvirker ansvar og plikter for den som tilbyr arbeid, og hvorvidt arbeidsmiljølovens
-arbeidsgiverbegrep er tilstrekkelig tydelig og
-
-•
-
-hensiktsmessig, særlig med tanke på den som
-har reell styring og beslutningsmyndighet når
-det gjelder arbeidsgivers virksomhet. Utvalget
-kan videre vurdere hvorvidt det bør bli tydeligere hvilke rettssubjekter som har hvilket
-ansvar, og hvilke plikter som bør gjelde i situasjoner hvor flere virksomheter er involvert i
-styring/kontroll/ledelse av arbeidet, for
-eksempel i franchise, konsern, innleieforhold
-mv. Det kan også vurderes i hvilken utstrekning den som knytter til seg selvstendige oppdragstakere, frilansere og arbeidskraft i
-delingsøkonomien mv. vil eller bør ha visse
-plikter eller ansvar.
-Utvalget kan fremme forslag til regelendringer
-eller andre tiltak som det finner hensiktsmessig. Utvalget skal i sine vurderinger avveie hensynene til forutsigbarhet, rettigheter og vern
-for de som utfører arbeid opp mot hensynet til
-arbeidslivets og næringslivets behov for utvikling, fleksibilitet og muligheter for verdiskapning. Utvalget skal i sine vurderinger og forslag se hen til og vurdere forholdet til internasjonale rammeverk og initiativer som kan ha
-betydning.
-
-Nedenfor vurderes noen økonomiske og administrative konsekvenser av utvalgets forslag. Noen av
-forslagene innebærer klare endringer, mens
-andre er mindre enkeltstående forslag. På flere
-områder kommer utvalget med forslag som peker
-på en retning, men der de tilhørende kostnadene
-og gevinstene vil være avhengig av den konkrete
-utformingen av lovforslag.
-Utvalget har tatt utgangspunkt i en bred
-beskrivelse av utviklingstrekk som kan ha betydning for hvordan virksomheter organiserer sin
-oppgaveløsning og hvordan de knytter til seg
-arbeidskraft.
-Utvalgets forståelse av mandatet har vært at
-det i hovedsak er knyttet til å vurdere sentrale lovreguleringer i arbeidsmiljøloven, som setter viktige rammer for alle som deltar i arbeidslivet.
-Arbeidsmiljølovens regler om stillingsvern og
-
-[Side 367]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-arbeidsmiljø/HMS har betydning for utviklingen i
-arbeidsmarkedet, og dermed for økonomien som
-helhet.
-Et sentralt premiss for utvalgets arbeid har
-vært å finne en god balanse mellom arbeidstakers,
-arbeidsgivers og samfunnets interesser. Dette
-omtales i kapittel 3 og følges opp i vurderingene
-av de aktuelle forslagene. Utvalget har gjennomført en vanskelig, men viktig, vurdering av de
-behovene arbeidstakerne har for rettigheter og
-vern, og virksomhetenes behov for fleksibilitet og
-omstilling, sammen med den felles nytten av et
-velfungerende arbeidsmarked med høy sysselsetting. Selv om utvalget på mange områder er enige
-om betydningen av hensiktsmessige reguleringer
-i arbeidsmiljøloven for arbeidstakerne, virksomhetene og samfunnet som helhet, viser innstillingen at det også er ulike syn på flere spørsmål. Det
-gjelder både om nødvendigheten av endringer og
-om virkningene av forslagene. Utvalget vil i
-hovedsak vise til de enkelte kapitlene i innstillingen for en nærmere beskrivelse av forslagene og
-de avveiningene som er gjort.
-I tråd med utredningsinstruksens kapittel 2
-har utvalget vurdert hvor grundig og omfattende
-de økonomiske og administrative konsekvensene
-skal utredes. Utvalget har gitt noen anbefalinger
-om videre utredninger. I slike tilfeller foreligger
-det ikke en endelig anbefaling, og utvalget går
-derfor ikke nærmere inn på økonomiske og administrative konsekvenser av disse anbefalingene,
-og utvalget forutsetter at slike utredninger kan
-gjennomføres innenfor gjeldende økonomiske
-rammer.
-Virkninger av de enkelte lovforslagene for
-virksomhetene og for arbeidsmarkedets fleksibilitet og funksjonsmåte, kan være ulike og trekke i
-ulike retninger. Det er derfor vanskelig å gi en
-helhetlig eller entydig analyse av lovforslagenes
-virkning for samfunnsøkonomien.
-Utvalget legger til grunn at de økonomiske og
-administrative virkningene vil bli arbeidet videre
-med i forbindelse med oppfølgingen av utvalgets
-innstilling, og at ulike høringsinstanser gir
-uttrykk for sine synspunkter.
-
-19.1 Overordnede vurderinger
-Utvalget har lagt den norske modellen i arbeidslivet til grunn for sitt arbeid. Dette er nærmere
-beskrevet i kapittel 3. Et overordnet mål for utvalget er at de forslag som legges frem i innstillingen
-skal bidra til å styrke og utvikle modellen. Det
-innebærer at rammeverket for arbeidslivet fortsatt
-
-365
-
-Kapittel 19
-
-skal legge til rette for høy verdiskapning, høy
-bruk av faste ansettelser og et organisert arbeidsliv forankret i tariffavtaler.
-Videre mener utvalget det er av avgjørende
-betydning å unngå en eventuell utvikling i retning
-av et mer todelt arbeidsliv, der et flertall vil fortsette å ha velordnede arbeidsforhold innenfor et
-organisert arbeidsliv, men der en etter hvert
-økende andel vil skaffe seg inntekt på mer usikkert grunnlag i en uorganisert del av arbeidslivet.
-Utvalgets flertall peker her på at det er noen sentrale utviklingstrekk, først og fremst for teknologiendringer, som i økende grad kan legge til rette
-for andre former for organisering av virksomhet,
-med økt press på bruk av alternative tilknytningsformer. Utvalget ser trekk av en slik utvikling i
-enkelte andre land og ønsker ikke at norsk
-arbeidsliv skal gå i denne retningen. Det er viktig
-at reguleringene av arbeidslivet fortsatt legger til
-rette for å bruke faste ansettelser i størst mulig
-grad. Det er også viktig å bygge videre på et organisert arbeidsliv og den balansen mellom lov- og
-avtaleregulering som preger vårt arbeidsliv. Et
-organisert arbeidsliv er viktig både for den enkeltes arbeidsvilkår, for utviklingen i virksomhetene
-og for å sikre et fortsatt velfungerende trepartssamarbeid og lønnsdannelse.
-Flertallets forslag sikter mot å gjøre lovreguleringene for arbeidslivet mer robuste i møte med
-framtidige utviklingstrekk som kan gi nye mulige
-problemstillinger for norske virksomheter og
-arbeidstakere. Endringer internasjonalt og tegn til
-tilpasninger i Norge understreker behovet for
-dette.
-Det har videre vært viktig for flertallet at lovreguleringer for arbeidslivet moderniseres og gjøres klarere og tydeligere for alle aktører. Modernisering av lovreguleringene kan i seg selv være
-administrativt besparende for virksomhetene og
-rettsapparatet, samt bidra til at både arbeidsgivere
-og arbeidstakere har tryggere rammer for beslutninger.
-Utvalget vil understreke at det har en egenverdi at rammer og regler for arbeidslivet er tydelige og noenlunde stabile over tid. Disse rammene
-og reglene påvirker både kortsiktige og langsiktige vurderinger i samfunnet, for eksempel i samband med planlegging av investeringer både i
-kapital og utdanning/kompetanse. Også for partenes arbeid med tariffavtaler er det viktig at rammevilkårene er forutsigbare, fordi regulering
-gjennom tariffavtaler og lover henger nært
-sammen.
-Det er både kostnader og gevinster ved reguleringer, men over tid har reguleringer og balan-
-
-[Side 368]
-
-366
-
-Kapittel 19
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-sering av hensyn i det norske arbeidslivet samlet
-sett vist seg å gi bedre samfunnsøkonomiske
-resultater enn i mange andre land.
-Arbeidsmarkedet i Norge er svært kjønnsdelt,
-men det er ikke tilsvarende store forskjeller i
-hvordan kvinner og menn fordeler seg på ulike tilknytningsformer. Arbeidskraftundersøkelsen viser
-blant annet at det er flere kvinner enn menn i midlertidige stillinger, mens det er flere menn enn
-kvinner som er selvstendige. De samlede virkningene av utvalgets forslag for reguleringer av
-arbeidslivet vil ventelig ikke ha stor påvirkning på
-likestilling og kjønnsdelt fordeling på tilknytningsformer.
-
-19.2 Arbeidstakerbegrepet og grensen
-mot selvstendige
-En grunnleggende forskjell mellom å være
-arbeidstaker og selvstendig oppdragstaker er at
-det bare er førstnevnte gruppe som kommer inn
-under arbeidsmiljølovens ulike bestemmelser. For
-enkelte kan det oppstå tvil om en skal regnes som
-arbeidstaker eller selvstendig. Utvalget har i samsvar med mandatet vurdert om det er behov for
-endring av arbeidstakerbegrepet blant annet for å
-forhindre omgåelser og feilklassifisering, samt
-minimere tvilstilfeller.
-Denne problemstillingen vurderes i kapittel
-10. Her har utvalgets flertall gjennomgått og vurdert hvilke momenter det bør legges vekt på i vurderingen av om en skal regnes som arbeidstaker.
-Et flertall i utvalget fremmer forslag om en
-endring av arbeidstakerbegrepet i arbeidsmiljøloven § 1-8. Formålet med endringen er å oppdatere
-lovens ordlyd og presisere at der det er rimelig
-tvil om klassifiseringen skal arbeidstakerforhold
-legges til grunn med mindre oppdragsgiver kan
-sannsynliggjøre at det foreligger et reelt selvstendig oppdragsforhold. Flertallet viser til at det er
-vedkommende som har gitt oppdraget som har de
-beste forutsetningene for å klargjøre dette.
-En gjennomgang av tvistesaker for domstolene i siste tiårsperiode viste at det hadde vært 25
-saker om arbeidstakerbegrepet i arbeidsmiljøloven. Advokatfirmaet Haavind har utarbeidet en
-rapport som følger som digitalt vedlegg til innstillingen.
-Andelen selvstendige i norsk arbeidsliv er blitt
-redusert fra vel sju prosent i 2000 til vel fem prosent i dag. En undersøkelse gjennomført av SSB/
-Eurostat viste at det var en liten gruppe, fire prosent av alle selvstendige (tilsvarer 7000 personer),
-
-som kunne regnes som avhengige på den måten
-at de ikke kunne bestemme egen arbeidstid og
-utføre oppdrag for en dominerende kunde. Opplysninger som utvalget har innhentet fra Skatteetaten viser at det er om lag 27 000 personer som er
-selvstendig næringsdrivende uten å ha et fast forretningssted. Kartlegginger viser at mellom 0,3 og
-2,5 prosent av den yrkesaktive befolkningen
-utførte arbeid formidlet gjennom digitale plattformer en eller flere ganger siste år. Samlet tyder
-dette på at det er relativt få blant de som arbeider
-som selvstendige som kan befinne seg i en mulig
-«gråsone» mellom det å være selvstendig og
-arbeidstaker.
-I utvalgets innstilling omtales også at det er
-utviklingstrekk som kan føre til endringer i denne
-situasjonen, blant annet ved at teknologi muliggjør løsninger som i mindre grad enn tidligere
-krever fysisk og stedbunden kapital, slik at arbeid
-i større grad kan styres digitalt og utføres andre
-steder enn på det fysiske arbeidsstedet. Den digitale plattformøkonomien er et uttrykk for en slik
-utvikling, hvor de fleste som utfører arbeid knyttes til plattformene som oppdragstakere. Disse
-utviklingstrekkene kan tolkes slik at det kan bli
-flere som fremover vil befinne seg i «gråsoner»
-mellom det å være selvstendig og arbeidstaker.
-Opplysninger fra Arbeidstilsynet tyder på at
-det kan være situasjoner hvor det oppstår behov
-for å gjøre avklaringer om en person som utfører
-arbeid er selvstendig oppdragstaker eller arbeidstaker, jf. punkt 5.7.2.
-Flertallet anbefaler at det legges til rette for at
-selvstendige oppdragstakere i større grad kan
-organisere seg kollektivt, men at dette forutsetter
-endring av konkurranseretten som bygger på
-EU/EØS-reguleringer. En prosess med å vurdere
-slike endringer er satt i gang i EU, og det er naturlig å følge denne prosessen nøye. Et forslag forventes å bli fremmet i løpet av 2021.
-I kapittel 10 er det også en beskrivelse av gjeldende trygde- og velferdsordninger. Disse er
-organisert ulikt avhengig av tilknytningsformen
-til arbeidslivet. Under koronapandemien er det
-blitt innført midlertidig lov om kompensasjonsytelse for selvstendig næringsdrivende og frilansere som har mistet inntekt som følge av utbrudd
-av covid-19. Utvalgets flertall har i begrenset grad
-hatt mulighet til å gå nærmere inn på tema som
-gjelder permanente ordninger for de selvstendige
-oppdragstakerne og frilanserne. Utvalgets flertall
-anbefaler at slike problemstillinger utredes nærmere.
-
-[Side 369]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-19.3 Arbeidsgiverbegrepet og
-arbeidsgiverfunksjoner
-I kapittel 11 omtaler utvalget arbeidsgiverbegrepet i arbeidsmiljøloven. Oppmerksomheten rettes
-særlig mot vurderingen av hvem som har arbeidsgiveransvar i situasjoner hvor avgjørelser tas av
-andre enn den som etter arbeidsavtalen er
-arbeidsgiver, dette gjelder i særlig grad innen konsern.
-En gjennomgang av tvistesaker for domstolene viser at det har vært 17 saker til behandling
-om arbeidsgiverbegrepet de siste ti årene.
-Utvalget viser til at den økende internasjonaliseringen av næringslivet er et sentralt
-utviklingstrekk, noe som kommer til uttrykk blant
-annet ved økende etableringer utenlands og
-økende utenlandsk eierskap i norsk næringsliv.
-Internasjonaliseringen innebærer også at virksomheter blir mer utsatt for konkurranse, og medfører behov for å svare på utfordringene med
-blant annet strukturendringer og kjededannelser.
-Slike valg av organisering og driftsform avgjøres
-av den enkelte virksomhet. Samtidig kan organisering i konsern innebære at virksomheter som er
-arbeidsgivere og formelt sett selvstendige kan
-være under innflytelse fra andre foretak. Konserndannelser blir stadig mer vanlig i næringslivet.
-Antallet virksomheter med sysselsatte som inngår
-i konsern har økt fra om lag 32 000 i 2009 til
-45 000 i 2019. Antallet ansatte i konsern har økt fra
-om lag 1,1 millioner i 2009 til om lag 1,4 millioner i
-2019. Det utgjør om lag halvparten av alle sysselsatte.
-Når det gjelder flertallets forslag om endring i
-arbeidsmiljølovens definisjon av arbeidsgiver, jf.
-§ 1-8 andre ledd, innebærer dette kun en språklig
-justering.
-Det vil i de fleste tilfeller være klart hvem som
-er arbeidsgiver. I noen unntakstilfeller har domstolene slått fast at det foreligger et delt arbeidsgiveransvar. Et flertall i utvalget fremmer forslag
-om endring av lovens ordlyd i arbeidsmiljøloven
-§ 1-8 andre ledd som tydeliggjør dette unntaket fra
-hovedregelen. Forslaget går ut på at et annet rettssubjekt enn den som er arbeidsgiver etter første
-punktum kan pålegges delt arbeidsgiveransvar
-dersom det i vesentlig grad har utøvd arbeidsgiverfunksjoner.
-I tillegg uttaler utvalgets flertall at det ser
-behov for at konsekvenser for arbeidstakerrettigheter i konsern og andre lignende eierstrukturer
-utredes videre, med tanke på hvordan nye selskapsstrukturer og avtalerelasjoner mellom virksomheter kan påvirke dette. Flertallet mener
-
-367
-
-Kapittel 19
-
-dette er forhold som bør drøftes i en bredere sammenheng enn det kunnskapsgrunnlaget som har
-vært tilgjengelig for utvalgets arbeid.
-I de sakene som er blitt behandlet for domstolene om arbeidsgiverbegrepet, var det opphør av
-arbeidsforhold ved oppsigelse eller avskjed som
-var viktigste årsak til tvisten. Et flertall i utvalget
-har lagt vekt på hvordan konsernorganisering mv.
-kan ha konsekvenser for de ansattes stilling og
-rettigheter og hvordan arbeidstakeres vern kan
-styrkes når arbeidsgiver er en del av et større økonomisk og organisatorisk fellesskap slik som i
-konsern.
-Et flertall i utvalget foreslår på bakgrunn av
-dette en endring i arbeidsmiljøloven § 14-2 første
-ledd: Inngår arbeidsgiver i et konsern eller en
-gruppe av virksomheter som er knyttet sammen
-gjennom eierinteresser eller felles ledelse, har
-arbeidstaker i tillegg fortrinnsrett til ny ansettelse
-i hele konsernet eller gruppen, med mindre det
-gjelder en stilling arbeidstakeren ikke er kvalifisert for.
-Flertallet fremmer også forslag om endring i
-arbeidsmiljøloven § 15-7 andre ledd: Tilhører
-arbeidsgiver et konsern eller annen gruppe av
-virksomheter som er knyttet sammen gjennom
-eierinteresser eller felles ledelse, er ikke oppsigelsen saklig begrunnet dersom det er annet passende arbeid å tilby arbeidstaker innenfor konsernet eller gruppen. Flertallet peker videre på at det
-kan foretas saklige avgrensninger når det gjelder
-omfanget av en slik plikt til å tilby annet passende
-arbeid.
-I og med at et stort antall arbeidstakere er sysselsatt i konsern kan forslagene potensielt berøre
-mange. På den andre siden vil det være begrenset
-i hvilke situasjoner en utvidelse av arbeidsgiveransvar knyttet til stillingsvernet ved nedbemanninger vil komme til anvendelse.
-For nærmere vurdering av konsekvensene av
-forslagene vises det til vurderingene i kapittel 11.
-
-19.4 Midlertidige ansettelser
-I kapittel 12 behandler utvalget enkelte spørsmål
-som gjelder regelverket for midlertidige ansettelser. Over tid er det blitt færre som er midlertidig
-ansatt, fra 9–10 prosent først på 2000-tallet til i
-underkant av 8 prosent nå. Det er imidlertid betydelige variasjoner mellom sektorer og næringer.
-Bruken er høyest innen universitets- og høyskolesektoren. Utvalgets flertall mener det er behov for
-å vurdere om regelverket kan tydeliggjøres for å
-begrense uklar praksis knyttet til ekstern finansi-
-
-[Side 370]
-
-368
-
-Kapittel 19
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-ering og midlertidige ansettelser i universitets- og
-høyskolesektoren.
-Et flertall i utvalget foreslår å oppheve den
-generelle adgangen til midlertidig ansettelse i inntil 12 måneder, som ble innført ved Stortingets
-vedtak i 2015 (arbeidsmiljøloven § 14-9 andre ledd
-bokstav f). Flertallet peker på kartlegginger som
-viser at ordningen er lite brukt og at formålene
-bak regelen, om å gi utsatte grupper på arbeidsmarkedet lettere innpass og samtidig gi virksomhetene noe økt fleksibilitet, i liten grad synes å ha
-blitt oppnådd.
-Et flertall i utvalget fremmer også forslag om
-at en arbeidstaker som har vært sammenhengende midlertidig ansatt i mer enn tre år, uansett
-grunnlag, skal anses som fast ansatt (arbeidsmiljøloven § 14-9 sjuende ledd). En slik regel gjelder i
-dag for de som er midlertidig ansatt som vikar
-eller på generelt grunnlag. Flertallet peker på at
-dette vil innebære en harmonisering med bestemmelsene i statsansatteloven og innebære en forenkling ved å ha ett innslagstidspunkt i loven.
-Som nevnt over tyder de kartleggingene som
-er blitt gjort på at den generelle adgangen til midlertidig ansettelse er blitt lite benyttet, og at
-utsatte grupper på arbeidsmarkedet har lavere
-sannsynlighet enn gjennomsnittet for å gå fra midlertidig til fast ansettelse. Flertallets forslag vil
-innebære en begrensning i forhold til dagens
-regulering når det gjelder adgangen til midlertidige ansettelser ved at denne generelle adgangen
-faller bort. Enkelte virksomheter vil få redusert
-sine muligheter til midlertidige ansettelser i situasjoner hvor det for eksempel kan være usikkerhet
-om deres økonomiske grunnlag ved oppstart av
-nye prosjekter og lignende. Med tanke på de erfaringene som er høstet med bruken av denne
-bestemmelsen siden den ble innført er det imidlertid rimelig å anta at konsekvensene samlet sett
-blir små. Når det gjelder forslaget om en generell
-tre-års-regel vil dette innebære en begrensing i
-forhold til mer langvarige midlertidige ansettelser. Tall fra SSBs arbeidskraftundersøkelse viser
-at det er en liten andel, åtte prosent av de midlertidig ansatte, som har en ansettelse med varighet
-mellom tre og fem år.
-
-19.5 Innleie og entreprise
-I kapittel 13 omtaler utvalget grensen mellom innleie og entreprise.
-Bruken av innleie fra bemanningsforetak har
-økt over tid, særlig innen byggenæringen. Samlet
-utgjør innleie av arbeidskraft fra bemanningsfore-
-
-tak mellom 1,5 og 2 prosent av alle årsverk, inkludert arbeidstakere på korttidsopphold i Norge.
-Bruken har endret karakter ved at en større andel
-av lønnstakerne i bemanningsbransjen er utenlandske arbeidstakere. Foreliggende statistikk fra
-SSB og bemanningsbransjen i NHO Service og
-Handel viser at omfanget har blitt noe redusert
-siden 2019.
-Entreprisekontrakter innebærer at virksomheter kjøper tjenester av hverandre. Dette kan
-karakteriseres som en essensiell kontraktsform
-for å sikre effektiv arbeidsdeling og et velfungerende næringsliv. Utvalget tok initiativ til å få gjennomført en utredning og beskrivelse av bruken av
-entreprisekontrakter, hvor vekten er lagt på å
-beskrive omfang og særtrekk ved entreprise som
-utføres «på stedet» («on-site») hos en oppdragsgiver. Oslo Economics har utarbeidet en rapport
-som følger som digitalt vedlegg til innstillingen.
-De anslår at vel 8,5 prosent av den samlede
-arbeidsstyrken arbeider gjennom «on-site» entreprisekontrakter. Omfanget er størst innen bygg og
-anlegg, der entrepriser er en sentral del av bransjens særpreg, og innen forretningsmessig tjenesteyting. Som en del av sin kartlegging gjennomførte Oslo Economics en spørreundersøkelse
-innen byggenæringen og intervjuet representanter fra organisasjonene i arbeidslivet. Grensen
-mellom innleie og «on-site» entreprise ble av flere
-nevnt som problematisk. Oslo Economics konkluderte med at det kan være indikasjoner på at innstramming av regelverket for innleie har ført til at
-enkelte virksomheter omgår innleieregelverket
-ved å organisere virksomheten som entreprise.
-Også opplysninger fra Arbeidstilsynet indikerer at det kan oppstå situasjoner hvor det må gjøres vurderinger av om det foreligger innleie eller
-entreprise, jf. punktene 4.6.4 og 5.7.2.
-Etter utvalgets vurdering er det vesentlig at
-grensen for hva som er innleie og hva som er
-entreprise, er tydelig og forutsigbar, både av hensyn til virksomheter og arbeidstakere. I dag er det
-ingen definisjon av innleie i arbeidsmiljøloven. Et
-flertall i utvalget foreslår å ta inn en slik definisjon
-i arbeidsmiljøloven § 14-11a. Flertallet i utvalget
-foreslår at det skal presiseres at det er innleie når
-en leveranse i hovedsak går ut på å levere arbeidskraft, og hvor innleier utøver arbeidsledelsen og
-har et selvstendig ansvar for resultatet. I tillegg
-inneholder forslagets andre punktum en presisering om at ytterligere tre momenter skal vektlegges i en helhetsvurdering. Denne presiseringen
-har særlig til formål å forhindre at arbeidsoppgaver som ligger innenfor en virksomhets vedvarende arbeidskraftsbehov og kjernevirksomhet
-
-[Side 371]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-som utføres i nær tilknytning til virksomheten,
-settes ut i entrepriser.
-
-19.6 Arbeidsmiljø, medvirkning og
-samarbeid
-I kapittel 14 omtaler utvalget rammeverket som
-gjelder arbeidsmiljø, medvirkning, medbestemmelse og samarbeid på arbeidsplassene. Utvalgets
-flertall viser til at valg av organisasjons- og tilknytningsform kan få direkte betydning for grunnleggende rettigheter i arbeidslivet, slik som lokal
-medvirkning og samarbeid, stillingsvern og HMS.
-De kartlegginger som er gjort viser at det er en
-del forskjeller etter tilknytningsform når det gjelder arbeidsmiljøforhold og arbeidstakeres muligheter for medvirkning. Det er høy utbredelse av
-ordninger som verneombud og arbeidsmiljøutvalg. I flertallet av virksomhetene er det vanlig
-med formelle drøftinger og uformell dialog mellom ledelse og tillitsvalgte, men i et mindretall av
-virksomheter forekommer slik kontakt sjelden
-eller aldri. Svar fra arbeidstakere i konsern viser
-at de er mindre kjent med hva som eventuelt foreligger av medvirkningsordninger for konsernet.
-Intervjuer med tillitsvalgte i ulike sektorer og
-virksomheter indikerer at tillitsvalgte innen konsern og kjedeorganisasjoner vurderer sin innflytelse som dårligere enn andre, jf. punkt 5.6.7.
-Et flertall i utvalget fremmer forslag om endring i arbeidsmiljøloven § 2-2 ved å presisere at
-bestemmelsen får anvendelse uavhengig av hvor
-arbeidet finner sted. Formålet med forslaget er å
-tydeliggjøre at bestemmelsen både omfatter den
-fysiske arbeidsplassen og situasjoner hvor arbeidet utføres andre steder, herunder digitalt.
-Et flertall i utvalget foreslår at arbeidsmiljøloven § 6-1 første ledd endres slik at det vil gjelde en
-plikt for alle virksomheter å ha verneombud. I dag
-kan det i virksomheter med under ti ansatte inngås skriftlig avtale om annen ordning, herunder at
-det ikke skal være verneombud ved virksomheten.
-Videre foreslår et samlet utvalg en endring i
-arbeidsmiljøloven § 6-2 første ledd, nytt siste
-punktum, ved at verneombudets oppgaver også
-skal omfatte innleide arbeidstakere og selvstendig
-oppdragstakere som har utført arbeid i nær tilknytning til virksomheten de siste seks månedene.
-Flertallet foreslår også endringer i arbeidsmiljølovens § 7-1 om arbeidsmiljøutvalg. I første ledd
-i bestemmelsen foreslås det følgende endringer: I
-virksomhet hvor det jevnlig sysselsettes minst 30
-
-369
-
-Kapittel 19
-
-arbeidstakere (i dag 50), skal det være arbeidsmiljøutvalg, der arbeidsgiveren, arbeidstakerne og
-bedriftshelsetjenesten er representert. Arbeidsmiljøutvalg skal opprettes også i virksomhet med
-mellom 10 og 30 arbeidstakere (i dag 20 og 50),
-når en av partene ved virksomheten krever det.
-Der arbeidsforholdene tilsier det, kan Arbeidstilsynet bestemme at det skal opprettes arbeidsmiljøutvalg i virksomhet med færre enn 30 arbeidstakere (i dag 50).
-Flertallet foreslår en ny bestemmelse i
-arbeidsmiljøloven § 8-4 om medvirkning i konsern, ved at det skal etableres rammer for samarbeid, informasjon og drøfting mellom konsernet
-og arbeidstakerne i konsern som jevnlig sysselsetter minst 50 arbeidstakere. Samarbeidsformen
-skal avtales mellom konsernet og et flertall av
-dets ansatte, eller mellom konsernet og én eller
-flere lokale fagforeninger som representerer et
-flertall av de ansatte i konsernet. Det kan etableres et samarbeidsorgan eller en annen tilsvarende
-samarbeidsform.
-Arbeidsmiljøloven inneholder flere bestemmelser om arbeidsgivers plikter til å drøfte med
-tillitsvalgte virksomhetens bruk av deltid (§ 14-1
-a), midlertidige ansettelser (§ 14-9 andre ledd
-siste punktum) og innleie (§ 14-12 tredje ledd).
-Flertallet foreslår at bestemmelsene om drøfting
-samles, og at det også innføres plikt til å drøfte
-virksomhetens bruk av selvstendige oppdragstakere og tjenestekjøp fra andre virksomheter som
-har betydning for bemanningen i virksomheten, i
-én ny bestemmelse i arbeidsmiljøloven § 14-14a.
-Konsekvensene av flertallets forslag vil være
-utvidelse av enkelte plikter for virksomhetene.
-Et krav om å innføre verneombud for alle virksomheter vil berøre de av virksomhetene med
-under ti ansatte som ikke har slik ordning i dag. I
-denne gruppen er det om lag 275 000 virksomheter med i overkant av 560 000 ansatte. Det er ikke
-kjent hvor mange av disse som har verneombudsordning i dag. Et krav om å ha arbeidsmiljøutvalg i
-virksomheten for alle over 30 ansatte, mot 50
-ansatte etter dagens regler, vil innebære at flere
-virksomheter må opprette slikt utvalg. Samlet sett
-er det i underkant av 10 000 virksomheter som har
-mellom 20 og 49 ansatte. Det foreligger ikke tall
-for hvor mange som er i sjiktet 30–50 ansatte.
-Mens slike krav kan medføre økt tidsbruk og dermed kostnader for mindre virksomheter, kan de
-også bidra til å redusere antall ulykker og fravær.
-Utvalgets flertall har ikke forsøkt å tallfeste slike
-effekter.
-Hovedavtalene mellom partene i arbeidslivet
-inneholder i dag bestemmelser om etablering av
-
-[Side 372]
-
-370
-
-NOU 2021: 9
-
-Kapittel 19
-
-Den norske modellen og fremtidens arbeidsliv
-
-samarbeidsordninger innen konsern. Et lovkrav
-om en slik ordning vil dermed gjelde for konsern
-som ikke er tilsluttet det organiserte arbeidslivet.
-Det foreligger ikke statistiske opplysninger om
-dette. Et generelt trekk er at større virksomheter i
-høy grad er organisert og omfattet av tariffavtaler.
-
-19.7 Omgåelse og etterlevelse
-I kapittel 15 drøfter utvalget spørsmålet om lovfesting av en gjennomskjæringsregel eller omgåelsesnorm i arbeidsmiljøloven. Det er vanskelig å
-måle i hvilken grad det foregår omgåelser av
-regelverket. Resultater fra enkelte kartlegginger
-og opplysninger fra Arbeidstilsynet tyder på at
-dette kan være utfordringer blant annet i forbindelse med reglene om midlertidig ansettelse og
-innleie.
-Et flertall i utvalget foreslår en ny bestemmelse i arbeidsmiljøloven § 1-10:
-Disposisjoner og avtaler som innebærer en
-omgåelse av loven, kan settes til side av domstolene som ugyldige. I slike tilfeller fastsettes
-arbeidstakers rettsstilling ved dom.
-Ved vurderingen av om det foreligger
-omgåelse skal det legges vekt på om disposisjonen eller avtalen helt eller delvis er motivert av,
-eller har som virkning at, arbeidstaker fratas
-rettigheter. Det kan også legges vekt på blant
-annet styrkeforholdet mellom partene og den
-økonomiske og velferdsmessige betydningen
-av disposisjonen eller avtalen.
-Flertallet viser til at en slik lovbestemmelse kan
-fange opp tilfeller som regelverket ikke er innrettet mot, og med det bidra til å forhindre forsøk på
-omgåelser som svekker de grunnleggende hensynene som arbeidsmiljøloven bygger på. For nærmere vurdering av konsekvensene av forslaget
-vises det til fremstillingen i kapittel 15.
-
-19.8 Samlet vurdering av konsekvenser
-av forslagene i innstillingen
-Flertallet legger til grunn at forslagene skal bidra
-til å styrke den norske modellen i arbeidslivet.
-Kunnskapsgrunnlaget har gitt utvalget en bred
-basis for avveininger mellom ulike hensyn og vurderinger av aktuelle endringsforslag. Flertallets
-forslag sikter mot å gjøre lovreguleringene for det
-norske arbeidslivet mer robuste i møte med fremtidige utfordringer. Noen endringer internasjonalt
-
-og tegn til tilpasninger i Norge understreker
-behovet for dette. Det har videre vært viktig for
-flertallet å bidra til at lovreguleringene for
-arbeidslivet moderniseres og tydeliggjøres for alle
-aktører. En gjennomgående modernisering av lovreguleringene kan i seg selv være administrativt
-besparende både for virksomhetene og for rettsapparatet.
-Samlet tar forslagene i denne utvalgsinnstillingen sikte på å påvirke en rekke store og små
-beslutninger i arbeidslivet både på kort og lang
-sikt. Flere av de enkeltstående forslagene til regelendringer vil trolig ha begrensede økonomiske
-og administrative virkninger. Enkelte av forslagene vil imidlertid trekke i retning av noe mindre
-fleksibilitet for hvordan bedrifter kan møte variasjon i aktivitet og hvordan de kan organisere
-bemanning.
-Den foreslåtte tydeliggjøringen av arbeidstakerbegrepet kan bidra til at omfanget av personer
-i den såkalte «gråsonen» i arbeidslivet blir lavere
-enn det er i dag. Endringene som foreslås kan isolert sett trekke i retning av en større andel fast
-ansatte. Kartleggingene som er blitt gjort på den
-generelle adgangen til midlertidig ansettelse viser
-at den er blitt lite benyttet, det kan imidlertid ikke
-utelukkes at en strammere adgang til midlertidige
-jobber kan trekke i retning av at det kan bli vanskeligere å få jobb for noen utsatte grupper. På
-den annen side er det rimelig å anta at både virksomhetene og den enkelte investerer mer i kompetanse når arbeidstaker er fast ansatt.
-Forslagene til tydeligere arbeidsgiverbegrep
-og delt arbeidsgiveransvar trekker i retning av at
-reguleringene kan bli noe strammere for de virksomhetene som eventuelt ville tilpasset seg annerledes. Fra arbeidsgivers ståsted vil forslag om fortrinnsrett i konsern også kunne innebære noe
-økte kostnader og noe redusert fleksibilitet. Tilsvarende gjelder for adgangen til midlertidige
-ansettelser og innleie. For entrepriser foreslås
-ingen endringer, men det legges opp til at grensen
-mellom innleie og entreprise tydeliggjøres gjennom forslag til definisjon. Forslaget kan innebære
-at visse tjenestekjøp som i dag klassifiseres som
-entreprise, vil måtte bli å anse som innleie med de
-krav som følger av innleiereglene.
-På den annen side vil, etter flertallets vurdering, summen av forslag trekke i retning av et
-bedre organisert arbeidsliv, både for arbeidsgivere og arbeidstakere. For de fleste arbeidsgivere
-vil det være en gevinst i at mindre seriøse virksomheter, som tilpasser seg på kanten av det lovlige i dag, får mindre fleksibilitet og tydeligere
-grenser. Dette vil blant annet bidra til mer like
-
-[Side 373]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-konkurransevilkår og til mer ordnede arbeidsvilkår for arbeidstakere. For arbeidssøkere og
-arbeidstakere vil tydeligere definisjoner innebære
-mindre risiko for å havne i gråsoner av arbeidsmarkedet, noe som over tid vil være en gevinst
-både for den enkelte og for arbeidsmarkedets
-funksjonsmåte.
-
-19.9 Mindretallets vurderinger
-Et mindretall i utvalget, medlemmene Almestrand,
-Brandshaug Dale, Juliussen og Spjelkavik, vil peke
-på at de praktiske og økonomiske konsekvensene
-av forslagene i liten grad er utredet.
-Det brede kunnskapsgrunnlaget gir etter
-mindretallets syn ikke grunnlag for å foreslå
-vesentlige lovendringer slik flertallet har gjort.
-Det vises til utredningsinstruksen der det forutsettes at tiltak skal baseres på de problemer som
-kunnskapsgrunnlaget avdekker. Etter mindretallets syn innebærer dette at det må være en for-
-
-371
-
-Kapittel 19
-
-holdsmessighet mellom lovforslag og empiriske
-funn.
-Av utredningsinstruksen følger det at «utredningen skal omfatte virkninger for enkeltpersoner,
-privat og offentlig næringsvirksomhet, statlig, fylkeskommunal og kommunal forvaltning og andre
-berørte». Det er med andre ord ikke tilstrekkelig
-å omtale mulige samfunnsøkonomiske virkninger,
-men det må også foretas en utredning av konsekvensene på virksomhetsnivå. Her er vurderingene mangelfulle.
-Flertallets mange forslag inneholder blant
-annet en rekke bestemmelser som vil føre til at et
-stort antall mindre virksomheter må opprette helt
-nye organer for medvirkning. Andre lovforslag
-medfører at omstillingsprosesser må organiseres
-på nye måter, og involvere flere rettssubjekter,
-gjennom en utvidelse av arbeidsgiveransvaret.
-Mindretallet vil understreke at et eventuelt
-videre arbeid med flertallets forslag vil kreve
-grundige konsekvensvurderinger.
-
-[Side 374]
-
-372
-
-Referanser og litteratur
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-Referanser og litteratur
-Offentlige utredninger
-NOU 1992: 20 Arbeidsmiljøutvalget. Oslo: Kommunal- og arbeidsdepartementet.
-NOU 1996: 6 Konsernlovutvalget. Oslo: Kommunal- og arbeidsdepartementet.
-NOU 1998: 15 Arbeidsformidling og arbeidsleie.
-Oslo: Arbeids- og administrasjonsdepartementet.
-NOU 1999: 34 Arbeidslivsutvalget. Oslo: Arbeidsog administrasjonsdepartementet.
-NOU 2001: 14 Vårens vakreste eventyr …? Innstilling fra utvalget for tarifforhandlingssystemet.
-Oslo: Kommunal- og regionaldepartementet.
-NOU 2004: 5 Arbeidslivslovutvalget – Et arbeidsliv
-for trygghet, inkludering og vekst. Oslo: Arbeids- og administrasjonsdepartementet.
-NOU 2009: 10 Fordelingsutvalget. Oslo: Finansdepartementet.
-NOU 2010: 1 Medvirknings- og medbestemmelse i
-arbeidslivet. Oslo: Arbeidsdepartementet.
-NOU 2011: 7 Velferd og migrasjon – den norske modellens framtid. Oslo: Barne- og familiedepartementet.
-NOU 2012: 2 Utenfor og innenfor. Norges avtaler
-med EU. Europautredningen. Oslo: Utenriksdepartementet.
-NOU 2013: 13 Lønnsdannelsen og utfordringer for
-norsk økonomi. Oslo: Finansdepartementet.
-NOU 2016: 5 Omgåelsesregel i skatteretten. Oslo:
-Finansdepartementet.
-NOU 2016: 15 Lønnsdannelsen i lys av nye økonomiske utviklingstrekk. Oslo: Finansdepartementet.
-NOU 2017: 4 Delingsøkonomien – muligheter og utfordringer. Utredning fra Delingsøkonomiutvalget. Oslo: Finansdepartementet.
-NOU 2018: 2 Fremtidige kompetansebehov I – Kunnskapsgrunnlaget. Kompetansebehovsutvalget.
-Oslo: Kunnskapsdepartementet.
-NOU 2018: 17 Klimarisiko og norsk økonomi. Oslo:
-Finansdepartementet.
-NOU 2019: 2 Fremtidige kompetansebehov II – Utfordringer for kompetansepolitikken. Kompetan-
-
-sebehovsutvalget. Oslo: Kunnskapsdepartementet.
-NOU 2019: 7 Arbeid og inntektssikring. Tiltak for
-økt sysselsetting. Utredning fra Sysselsettingsutvalgets ekspertgruppe. Oslo: Arbeids- og sosialdepartementet.
-NOU 2019: 22 Fra statussymbol til allemannseie –
-norsk luftfart i forandring. Oslo: Samferdselsdepartementet.
-NOU 2020: 2 Fremtidige kompetansebehov III –
-Læring og kompetanse i alle ledd. Kompetansebehovsutvalget. Oslo: Kunnskapsdepartementet.
-NOU 2020: 3 Ny lov om universiteter og høyskoler.
-Oslo: Kunnskapsdepartementet.
-NOU 2020: 8 Grunnlaget for inntektsoppgjørene
-2020. Rapport fra det tekniske beregningsutvalget for inntektsoppgjørene. Oslo: Arbeidsog sosialdepartementet.
-NOU 2020: 13 Private aktører i velferdsstaten. Velferdstjenesteutvalgets delutredning I og II om
-offentlig finansierte velferdstjenester. Oslo:
-Nærings- og fiskeridepartementet.
-NOU 2020: 15 Det handler om Norge. Utredning
-om konsekvenser av demografiutfordringer i
-distriktene. Oslo: Kommunal- og moderniseringsdepartementet.
-NOU 2021: 2 Kompetanse, aktivitet og inntektssikring – Tiltak for økt sysselsetting. Utredning fra
-Sysselsettingsutvalget. Oslo: Arbeids- og sosialdepartementet.
-NOU 2021: 4 Norge mot 2025. Om grunnlaget for
-verdiskaping, produksjon, sysselsetting og velferd etter pandemien. Oslo: Finansdepartementet.
-NOU 2021: 5 Grunnlaget for inntektsoppgjørene
-2021. Rapport fra Det tekniske beregningsutvalget for inntektsoppgjørene. Oslo: Arbeidsog sosialdepartementet.
-Lovproposisjoner:
-Ot.prp. nr. 31 (1935) Om å utferdige en lov om tilsyn med arbeid.
-Ot.prp. nr. 104 (1947) Om lov om ferie.
-
-[Side 375]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-Ot.prp. nr. 8 (1956) Om lov om arbeidervern.
-Ot.prp. nr. 53 (1970–71) Om lov om endringer i lov
-av 27. juni 1947 om tiltak til å fremme sysselsetting.
-Ot.prp. nr. 19 (1974–75) Om lov om aksjeselskaper.
-Ot.prp. nr. 3 (1975–76) Om lov om arbeidervern og
-arbeidsmiljø m.v.
-Ot.prp. nr. 41 (1975–76) Om arbeidstid, oppsigelsesvern, arbeidstilsyn m.v. i lov om arbeidervern og
-arbeidsmiljø.
-Ot.prp. nr. 11 (1987–88) Om lov om lønnsplikt under permittering m.v.
-Ot.prp. nr. 71 (1991–92) Om lov om endringer i lover på arbeidsmiljø og sikkerhetsområdet m.v.
-som følge av en EØS-avtale.
-Ot.prp. nr. 50 (1993–94) Om lov om endringer i lov
-4 februar 1977 nr 4 om arbeidervern og arbeidsmiljø m.v.
-Ot.prp. nr. 29 (1995–96) Om ny lov om folketrygd
-(folketrygdloven).
-Ot.prp. nr 70 (1998–99) Om lov om endringer i lov
-av 4. februar 1977 nr. 4 om arbeidervern og arbeidsmiljø m.v., i lov av 4. mars 1983 nr. 3 om
-statens tjenestemenn m.m. og i lov av 27. juni
-1947 nr. 9 om tiltak for å fremme sysselsetting.
-Ot.prp. nr. 104 (2002–2003) Om lov om endringer i
-lov 4. februar 1977 nr. 4 om arbeidervern og arbeidsmiljø mv. (likebehandling i arbeidslivet).
-Ot.prp. nr. 49 (2004–2005) Om lov om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven).
-Ot.prp. nr. 24 (2005–2006). Om lov om endringer i
-lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv.
-Prop. 104 L (2009–2010) Endringer i arbeidsmiljøloven (midlertidig ansettelse mv.).
-Prop. 134 L (2010–2011) Lov om arbeidstvister (arbeidstvistloven) og lov om lønnsnemnd i arbeidstvister (lønnsnemndloven).
-Prop. 74 L (2011–2012) Endringer i arbeidsmiljøloven og tjenestemannsloven mv. (likebehandling
-ved utleie av arbeidstakere og tiltak i den forbindelse mv.).
-Prop. 83 L (2012–2013) Endringer i arbeidsmiljøloven mv. (søksmålsrett for fagforeninger mv.,
-overtredelsesgebyr og ufrivillig deltid).
-Prop. 39 L (2014–2015) Endringer i arbeidsmiljøloven og sosialtjenesteloven.
-Prop. 94 L (2016–2017) Lov om statens ansatte mv.
-(statsansatteloven).
-Prop. 73 L (2017–2018) Endringer i arbeidsmiljøloven (fast og midlertidig ansettelse og innleie fra
-bemanningsforetak).
-
-373
-
-Referanser og litteratur
-
-Prop. 98 L (2018–2019) Endringer i skatteloven og
-merverdiavgiftsloven (lovfesting av en generell
-omgåelsesregel).
-Prop. 61 LS (2019–2020) Endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og
-Arbeidstilsynets krav om opplysninger mv.) og
-samtykke til godkjenning av EØS-komiteens
-beslutning nr. 39/2020 om innlemmelse i EØSavtalen av forordning (EU) 2016/1628.
-Prop. 111 L (2020–2021) Endringer i universitetsog høyskoleloven, utdanningsstøtteloven, fagskoleloven og yrkeskvalifikasjonsloven mv.
-Prop. 170 L (2020–2021) Endringer i folketrygdloven (adgang til å ta opplæring og utdanning
-med dagpenger).
-Innstillinger:
-Innst. O. nr. 100 (2004–2005) jf Ot.prp. nr. 49
-(2004–2005) Om lov om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven).
-Innst. 208 L (2014–2015) jf. Prop. 39 L (2014–
-2015). Endringer i arbeidsmiljøloven og sosialtjenesteloven.
-Innst. 355 L (2017–2018) jf. Prop. 73 L (2017–
-2018). Endringer i arbeidsmiljøloven (fast og
-midlertidig ansettelse og innleie fra bemanningsforetak).
-Innst. 294 L (2019–2020) jf. Prop. 61 LS (2019–
-2020). Endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og Arbeidstilsynets krav om opplysninger mv.) og samtykke til godkjenning av EØS-komiteens beslutning nr. 39/2020 om innlemmelse i EØSavtalen av forordning (EU) 2016/1628.
-Innst. 522 L (2020–2021), jf. Prop. 170 L (2020–
-2021). Endringer i folketrygdloven (adgang til å
-ta opplæring og utdanning med dagpenger).
-Stortingsmeldinger:
-St.meld. nr. 18 (2007–2008) Arbeidsinnvandring.
-Meld. St. 27 (2016–2017) Industrimeldingen.
-Meld. St. 29 (2016–2017) Perspektivmeldingen
-2017.
-Meld. St. 14 (2019–2020) Lære hele livet.
-Meld. St. 16 (2020–2021) Utdanning for omstilling
-– økt arbeidslivsrelevans i høyere utdanning.
-Meld. St. 13 (2020–2021) Klimaplan for 2021–
-2030.
-Meld. St. 14 (2020–2021) Perspektivmeldingen
-2021.
+## Innledning
+
+Arbeidsmiljø handler om hvordan en organiserer, planlegger og tilrettelegger arbeidet, og er av stor betydning både for arbeidstakeres trivsel og utvikling, og virksomhetenes muligheter til å oppnå ønskede resultater. Norsk arbeidsliv skårer høyt på internasjonale undersøkelser om arbeidsmiljø. Et gjennomgående trekk er at arbeidstakerne opplever høye krav kombinert med relativt høy grad av frihet og selvstendighet når det gjelder hvordan egne arbeidsoppgaver skal utføres. Dette gjelder uavhengig av størrelsen på virksomhetene. Dette bidrar til at mange arbeidstakere opplever høy grad av tilhørighet til jobben. De kartlegginger som er gjort av arbeidsmiljø på nasjonalt og internasjonalt nivå tyder imidlertid på at det er forskjeller mellom arbeidstakere som følge av hvilken tilknytningsform en har.
+
+Det er en utbredt kultur for samarbeid i norsk arbeidsliv. I kapittel 3 omtaler utvalget den norske modellen og det organiserte arbeidslivet. Ordningene for arbeidstakeres medvirkning og medbestemmelse, og ordningene for informasjon og drøfting med arbeidstakerne og deres tillitsvalgte på virksomhetsnivå, er en sentral del av den norske modellen. Samarbeidet er basert på et samspill mellom høy organisasjonsgrad, formelle regler for medvirkning og representasjon, samt et tillitsbasert samarbeid mellom ledelse, tillitsvalgte og ansatte. Et særtrekk ved modellen er at de sentrale parter selv legger opp til, og overlater til de lokale partene å finne løsninger. Partssamarbeidet på virksomhetsnivå har gitt grunnlag for en kultur for samarbeid om utvikling, der innovasjon og omstilling skjer i nær dialog mellom ledelse, tillitsvalgte og ansatte. I tillegg er det mange virksomheter som velger å involvere fagforeningene og de ansatte i langt flere saker enn det som er lovpålagt, jf. punkt 3.4.5.
+
+Arbeidstakernes formelle rettigheter til medvirkning og medbestemmelse er dels forankret i lovreguleringer og dels i avtaleverket mellom partene. Begrepene medvirkning og medbestemmelse brukes til dels om hverandre, og henspiller gjerne til ulike former for deltakelse i avgjørelser med betydning for arbeidsforholdet. Det kan være ulike forståelser av hva som ligger i de enkelte begrepene. Utvalget benytter begge begreper uten å gå nærmere inn på hva som ligger begrepene, jf. beskrivelsen av gjeldende rett i punkt 8.8.
+
+Det er forskjeller mellom sektorer, næringer og virksomheter når det gjelder hvordan ordninger for medvirkning og medbestemmelse praktiseres. Kartlegginger tyder på at de som har alternative tilknytningsformer i noe mindre grad er omfattet av slike ordninger, eller har mindre kjennskap til disse, jf. punkt 5.6.7.
+
+Det organiserte arbeidslivet, forankret i tariffavtaler, er et fundament for samarbeidet mellom arbeidsgivere og arbeidstakere. Det er en relativt stabil andel arbeidstakere som er medlem i en arbeidstakerorganisasjon, det er blitt flere arbeidsgivere som er tilsluttet en arbeidsgiverorganisasjon, men det er også en betydelig del av arbeidslivet som ikke omfattes av tariffavtaler eller organisasjonsmedlemskap. Det er færre fagorganiserte blant dem med alternative tilknytningsformer. I offentlig sektor er alle arbeidstakere omfattet av tariffavtaler, mens tariffavtaledekningen i privat sektor er blitt redusert og er nå nede på 46 prosent, jf. punkt 3.4.4. Sannsynligheten for å ha tariffavtale øker med virksomhetens størrelse. I privat sektor er det mange små foretak. Nærmere halvparten av de sysselsatte i foretakene er likevel ansatt i foretak med mer enn 50 ansatte, jf. punkt 4.2.1.
+
+I utvalgets mandat er det vist til at virksomhetenes organisering og valg av tilknytningsformer kan få direkte betydning for grunnleggende rettigheter i arbeidslivet, herunder medvirkning og HMS. Målsettingen som ligger til grunn for utvalgets arbeid er å videreføre et arbeidsliv med trygghet, fleksibilitet og gode arbeidsvilkår, samtidig som det legges til rette for konkurransedyktige rammevilkår for virksomhetene. Som en samlet ramme for dette har utvalget pekt på betydningen av å videreføre den norske modellen, med vektlegging av partssamarbeid og et organisert arbeidsliv, forankret i tariffavtaler.
+
+Det er flere ulike tilnærmingsmåter til vurdering av utfordringer i arbeidslivet når det gjelder arbeidsmiljø, medvirkning og samarbeid. Det handler om vernebestemmelser og arbeidstakeres rettigheter, og samtidig bidrar det til å bygge tillit mellom partene og danne grunnlag for virksomhetenes utvikling og et effektivt og produktivt arbeidsliv.
+
+Siden 2001 har partene i arbeidslivet og myndighetene samarbeidet om innsats for å fremme et inkluderende arbeidsliv gjennom IA-avtalen. Hovedprinsippet har hele tiden vært at det er arbeidsplassen som er den sentrale arenaen for å tilrettelegge og forebygge frafall og følge opp utsatte arbeidstakere og fremme inkludering, med støtte fra myndighetene. Arbeidet er fulgt opp gjennom trepartssamarbeidet på samfunnsnivå og topartssamarbeidet på arbeidsplassene. Utgangspunktet om at partssamarbeid og medvirkning bidrar til både bedre arbeidsmiljø og økt effektivitet, har stått sentralt.
+
+Innsats for å fremme medvirkning og samarbeid på arbeidsplassene står også sentralt i dialogen mellom partene, knyttet til det løpende samspillet som er forankret i hovedavtaler og tariffavtaler.
+
+Organisasjonene i arbeidslivet har et hovedansvar for å rekruttere medlemmer og videreutvikle et organisert arbeidsliv. Gjennom trepartssamarbeidet er det dessuten rettet oppmerksomhet mot tiltak som partene og myndighetene kan samarbeide om for å fremme organisering og tariffavtaler. Eksempler på dette er informasjon og opplæring og insentiver som blant annet skattefradrag for kontingent til arbeidstaker- og arbeidsgiverorganisasjoner.
+
+Dette utvalget er bedt om å særskilt vurdere rammeverk og reguleringer om tilknytningsformer og virksomhetsorganisering i arbeidslivet. Det er derfor naturlig å konsentrere oppmerksomheten om eventuelle lovreguleringer. Utvalget understreker imidlertid at det er helheten mellom lov- og avtaleverk og det løpende samarbeidet på toparts- og trepartsnivå som utgjør byggesteinene i den norske modellen. Lovreguleringer er ikke det eneste virkemiddelet, men de er av særskilt betydning fordi loven har virkning for alle som deltar i arbeidslivet og ikke bare de som er organisert.
+
+De kartlegginger som er gjort viser at det er forskjeller etter tilknytningsform når det gjelder arbeidsmiljøforhold og arbeidstakeres muligheter for medvirkning. Sammenlignet med fast ansatte er det flere av dem med alternative tilknytningsformer som ikke omfattes av partenes egne reguleringer gjennom avtaleverket. Utvalget har på denne bakgrunn vurdert behovet for utvidelse eller presisering av visse ordninger og arbeidsgiverplikter knyttet til HMS og medvirkning. Når det gjelder enkelte spørsmål er det ulike vurderinger i utvalget av behovet for regelverksendringer, jf. omtalen av forslagene i punkt 14.3.
+
+## Vurdering av utfordringsbildet/tilstanden
+
+### Arbeidsmiljø
+
+Arbeidsmiljø handler først og fremst om selve arbeidet og hva som påvirker i arbeidssituasjonen. Arbeidsmiljø påvirker arbeidstakernes helse, jobbengasjement og virksomhetenes resultater og produktivitet. Hva som har størst betydning er forskjellig fra arbeidsplass til arbeidsplass, og utvikling av et godt arbeidsmiljø krever ulike tilnærminger. Forhold som påvirker det organisatoriske og psykososiale arbeidsmiljøet er relevante for alle arbeidsplasser, mens det vil variere når det gjelder hvilke fysiske, ergonomiske, kjemiske og biologiske eksponeringer en utsettes for i sitt arbeidsmiljø.[^164] I alle typer arbeid utsettes en for forskjellige typer psykososiale og organisatoriske faktorer som kan påvirke arbeidet og den som utfører det i positiv eller negativ retning, for eksempel tidspress, krav om å lære noe nytt, ledelse, måten vi gir tilbakemeldinger på, uklarhet og konflikter mellom ulike mål. Arbeidsmiljøet påvirkes av sosiale og organisasjonskulturelle faktorer som samhandling med ledere, medarbeidere og klienter/kunder. De organisatoriske forholdene på arbeidsplassen setter rammer for arbeidsmåter og tidsfrister og vil være styrende for den enkeltes kontroll over arbeidssituasjonen og opplevelse av rollekonflikter mellom ulike mål. Eksempler på dette er arbeidstid, skiftordninger, størrelse på enheter og grupper og de formelle veiene for kommunikasjon i organisasjonen (Statens arbeidsmiljøinstitutt, 2021b).
+
+Jevnt over er arbeidsmiljøforholdene gode i norsk arbeidsliv og arbeidstakere opplever en høy grad av tilfredshet med jobben. Høye jobbkrav, kombinert med muligheter for kontroll over egen arbeidssituasjon, er et karakteristisk trekk ved norsk arbeidsliv, jf. punkt 5.6.2. Norsk arbeidsliv preges også av mange små virksomheter. Ifølge Virke har gjennomsnittsbedriften i handels- og tjenestenæringene 10-11 ansatte.
+
+I Sysselsettingsutvalgets innstilling (NOU 2021: 2, kapittel 8) er det tatt inn en omfattende omtale av arbeidsmiljø og forebygging i arbeidslivet. Her vises det blant annet til at norske arbeidstakere skårer høyest av alle i den europeiske arbeidsmiljøundersøkelsen (Statens arbeidsmiljøinstitutt, 2017). Fleksibel og forutsigbar arbeidstid, noe kortere gjennomsnittlige arbeidsuker, lavere forekomst av lange arbeidsuker og bedre balanse mellom arbeid og privatliv er kjennetegn ved norsk arbeidsliv sammenlignet med gjennomsnittet for EU-landene. Arbeid er i hovedsak en kilde til god helse, men kan også ha en negativ innvirkning på helse dersom arbeidsmiljøet ikke er godt. Funn fra arbeidsmiljøforskningen viser at faktorer som virker helsefremmende i arbeid er lederstøtte, rettferdig ledelse, positive utfordringer i jobben, kontroll over beslutninger om eget arbeid og at arbeidstakere ikke opplever mange motstridende krav ved gjennomføringen av arbeidsoppgavene.
+
+Selv om Norge holder en høy internasjonal standard når det gjelder arbeidsmiljøet, er det fortsatt yrker og næringer hvor arbeidsmiljøutfordringer er utbredt. Hvert år skjer det arbeidsrelaterte dødsfall, sykdom og skader, samt sykefravær og uførhet. STAMIs forskning basert på overvåkingsdata viser at potensialet for å forebygge gjennom innsats for et bedre arbeidsmiljø, er betydelig (Statens arbeidsmiljøinstitutt, 2018).
+
+Samarbeid mellom partene i arbeidslivet om arbeidsmiljøspørsmål har lange tradisjoner i Norge. Et sentralt grunnlag for samarbeidet, blant annet gjennom IA-avtalen, er en felles forståelse av at arbeidsmiljø handler om arbeidet, og er knyttet til hvordan en organiserer, planlegger og tilrettelegger arbeidet. Partene og myndighetene som står bak IA-avtalen peker på at arbeidsmiljøet påvirker arbeidstakernes helse, jobbengasjement og virksomhetenes resultater og produktivitet. I og med at situasjon og utfordringer er forskjellig fra arbeidsplass til arbeidsplass, kreves det ulike tilnærminger. Som en sentral del av IA-avtalen for perioden 2019-2022 gjennomføres det en felles arbeidsmiljøsatsing for å bidra til bedre innhold og retning i arbeidsmiljøarbeidet på den enkelte arbeidsplass. I IA-avtalen legges det opp til å knytte innsatsen tettere til det organiserte partssamarbeidet på arbeidsplassene, blant annet gjennom kompetansetiltak i regi av partene.
+
+En studie utført av SINTEF (Buvik mfl., 2018) identifiserer en rekke suksessfaktorer i forebyggende arbeidsmiljøarbeid som driftsnære og kompetente verneombud og tillitsvalgte, kontinuitet i rollene, hyppige formelle og uformelle møter mellom ledelsen, tillitsvalgte og verneombud, samt synlige tillitsvalgte og verneombud som har tilstrekkelig tid til å utøve sine verv. Buvik mfl. konkluderer med at et velfungerende partssamarbeid på arbeidsplassen er en motor for det forebyggende arbeidet fordi det kan sørge for at tiltak implementeres og at ansatte ansvarliggjøres.
+
+Selv om antallet som er utsatt for de tradisjonelle fysiske og kjemiske arbeidsmiljøeksponeringer og ulykkesrisiko er noe redusert, er de fortsatt et betydelig arbeidsmiljøproblem. I Sysselsettingsutvalgets fremstilling pekes det på at veksten i tjenesteytende næringer fører til at utfordringer knyttet til det psykososiale arbeidsmiljøet spiller en stadig større rolle. Kunde-, klient-, pasient- og elevrelasjoner preger arbeidshverdagen i mange yrker hvor de ansatte opplever emosjonelle krav, rollekonflikter og mindre grad av selvbestemmelse (Statens arbeidsmiljøinstitutt, 2018).
+
+Psykososiale og organisatoriske arbeidsforhold har som nevnt stor betydning for arbeidstakeres opplevelse av arbeidsmiljø og virksomhetenes effektivitet og produktivitet. I den europeiske arbeidsmiljøundersøkelsen[^165] kommer det frem at Norge er blant landene som har høyest forekomst av organisatoriske endringer i arbeidslivet. Generelt vurderes det psykososiale og organisatoriske arbeidsmiljøet som godt. Sammenlignet med EU-gjennomsnittet opplever norske arbeidstakere imidlertid høyere intensitet i arbeidet i form av høyt tempo, flere forstyrrende avbrytelser og høyere krav. Samtidig, og på den positive siden, rapporterer mange om høy grad av kontroll over egen arbeidssituasjon (Statens arbeidsmiljøinstitutt, 2021b).
+
+Flere internasjonale studier viser at nye krav og utfordringer som oppstår ved bruk av ny teknologi kan påvirke arbeidstakeres autonomi og skape «technostress», jf. punkt 4.1. I disse studiene kommer det frem at de samme teknologiske endringene kan både ha negative og positive konsekvenser for arbeidstakerne, avhengig av blant annet hvordan de gjennomføres og i hvilken grad arbeidstakere opplever at deres autonomi svekkes eller styrkes (Christensen mfl., 2020). Kartlegginger fra norsk arbeidsliv viser at involvering i prosessen, deltakelse i opplæring og generelt gode muligheter for medvirkning, medbestemmelse og samarbeid mellom ledelse og tillitsvalgte i virksomheten fremmer gode omstillingsprosesser, jf. punkt 4.1 og 5.6.7.
+
+Koronapandemien har bidratt til at digitaliseringen av arbeidslivet har skutt fart, og at arbeidets organisering har endret seg betydelig i mange virksomheter. Dette aktualiserer flere arbeidsmiljøutfordringer, blant annet ergonomiske forhold og arbeidstakeres jobbtilhørighet og medvirkning. Økende bruk av hjemmekontor og andre fjernarbeidsløsninger vil føre til økt behov for oppmerksomhet og bevissthet om det organisatoriske og psykososiale arbeidsmiljøet, jf. punkt 4.1.6. Slike fjernarbeidsløsninger kan medføre at grensene mellom arbeid og fritid lettere viskes ut. Økende avstand mellom den ansatte og leder kan medføre økte risikofaktorer når det gjelder arbeidsmiljø og bidra til å redusere den enkeltes jobbtilhørighet. Under koronapandemien viser undersøkelser blant annet at ansatte savner faglig og sosialt fellesskap og at noen også har fått økte fysiske og psykiske plager, jf. punkt 4.1.6. På den andre siden kan det bidra til blant annet bedre muligheter for tilrettelegging av arbeid og gjøre det enklere for mange å kombinere jobb og familieliv.
+
+De kartlegginger som er gjort av arbeidsmiljø viser enkelte forskjeller mellom fast ansatte og dem som har alternative tilknytningsformer. Blant midlertidig ansatte er det en noe lavere andel som oppgir at de har høy tilhørighet til jobben, de svarer også at de opplever lavere kvantitative krav på jobb, men også noe mindre selvbestemmelse enn fast ansatte. Det foreligger færre kartlegginger som belyser situasjonen for arbeidstakere som leies ut fra bemanningsforetak, eller som leies ut mellom virksomheter eller arbeider på entrepriseoppdrag for andre. På bakgrunn av svar i YS Arbeidslivsbarometer finner Ingelsrud mfl. (2020) at utleide arbeidstakere har lavere tilfredshet med jobben og at de sjeldnere møter positive utfordringer i jobben. Personer som arbeider som selvstendige skiller seg ut ved at de skårer høyest av alle når det gjelder motivasjon og jobbtilhørighet.
+
+Implikasjoner for arbeidsmiljø og helse av ulike tilknytningsformer omtales i punkt 5.6.2. Arbeidstilsynets oppsummering av tilsynsdata viser at midlertidig ansatte og innleide arbeidstakere har høyere risiko for arbeidsskader og ulykker. Arbeidstakernes svar i levekårsundersøkelsen om arbeidsmiljø (LKU, 2019) viser at midlertidig ansatte og utleide fra bemanningsforetak i større grad jobber i yrker og næringer med høyere fysisk risiko. Sammenlignet med fast ansatte i samme yrke og næring er det imidlertid ikke store forskjeller når det gjelder det fysiske arbeidsmiljøet (Ingelsrud mfl., 2020, side 47 og 76).
+
+### Medvirkning, medbestemmelse og samarbeid
+
+Grunnlaget for samarbeidet i arbeidslivet er relasjonene mellom arbeidsgiver og arbeidstaker i virksomhetene, og mellom organisasjonene som representerer partene. I tillegg representerer trepartssamarbeidet med myndighetene en vesentlig tilleggsdimensjon. Samlet sett utgjør dette sentrale elementer i den norske modellen. I norsk arbeidsliv er det mange eksempler på at godt fungerende ordninger for medvirkning fra arbeidstakerne og nært samspill mellom ledelse og de tillitsvalgte bidrar til å fremme utvikling og vekst i virksomhetene. Dette kan karakteriseres som den norske modellen i praksis. Gjennom medvirkning styrkes samspillet mellom arbeidstakere og ledelse og virksomhetene oppnår økte muligheter til å gjennomføre omstillinger. Dette er belyst blant annet gjennom flere studier utført av SINTEF, jf. punkt 3.4.5.
+
+Arbeidstakeres rett til medvirkning og medbestemmelse er samtidig en del av de grunnleggende demokratiske rettighetene i samfunnet. Prinsippet om ansattes rett til medvirkning på arbeidsplassen er nedfelt i Grunnloven § 110 andre ledd. De ulike krav til medvirkning og samarbeid er konkretisert iblant annet arbeidsmiljøloven og selskapslovgivningen, og er dessuten sterkt forankret i tariffavtaler. Et eksempel er Hovedavtalen mellom LO og NHO,[^166] hvor det i § 9-1 er fremhevet at de ansatte og deres tillitsvalgte skal ha reell medinnflytelse og at ledelse, ansatte og tillitsvalgte plikter å ta initiativ til og aktivt medvirke til samarbeid. Et annet eksempel er Hovedavtalen i staten[^167], som blant annet i formålsparagrafen slår fast at avtalens bestemmelser skal være grunnlag for arbeidstakeres rett til medbestemmelse og gi dem reell innflytelse på hvordan deres arbeidsplass skal organiseres og hvordan arbeidsmetodene skal utvikles.
+
+Trygstad mfl. (2021) har gjennomført flere spørreundersøkelser til arbeidstakere om medvirknings- og medbestemmelsesordninger. Svarene viser at arbeidstakere skårer stabilt høyt på spørsmål om individuell medvirkning, jf. nærmere omtale i punkt 5.6.7. Når det gjelder bruken av lovbestemte ordninger knyttet til verneombud, arbeidsmiljøutvalg og ansattes styrerepresentasjon er det et noe mer sammensatt bilde, jf. boks 14.1.
+
+Bruken av lovbestemte ordninger
+
+- Verneombud finnes i 84 prosent av virksomhetene med 10 eller flere ansatte.
+
+- Arbeidsmiljøutvalg (AMU) finnes i 68 prosent av virksomhetene med 50 eller flere ansatte.
+
+- 55 prosent av ansatte i aksjeselskaper med over 30 ansatte er dekket av ordningen med ansattrepresentant i styret.
+
+- 72 prosent av ansatte i aksjeselskaper med over 200 ansatte er dekket av ordningen.
+
+Trygstad mfl. (2021).
+
+\[Boks slutt\]
+
+Et sentralt funn hos Trygstad mfl. (2021) er at jo større virksomhetene er, jo mer ser det ut til at de ulike ordningene benyttes. Det er imidlertid betydelige forskjeller mellom sektorer og næringer, bruken er lavest i deler av tjenesteytende sektor. Dessuten har selskapsstrukturene og hvordan virksomheter og konsern legger opp sine beslutningsstrukturer betydning for formell og reell medvirkning. Dersom en virksomhet er dekket av tariffavtale, øker sannsynligheten for at det er etablert verneombud, AMU og styrerepresentasjon. Det gjelder også i virksomheter som ligger under terskelkrav om antall ansatte for å ha slike ordninger. Størrelse (antall ansatte), tariffavtale og konserntilknytning er det som har størst betydning når det gjelder ansatterepresentasjon i styrer for aksjeselskaper. I offentlige eide virksomheter er de ansatte representert i styrer der reglene tilsier at de skal være det.
+
+Ifølge Trygstad mfl. (2021) er verneombudet den av de lovbestemte representasjonsordningene som har høyest utbredelse. Lavest dekning har verneombudsordningen innen overnatting og servering, hvor i underkant av to tredjedeler av arbeidstakerne oppgir at de har slik ordning. Mens offentlig forvaltning, undervisning, finans, bygg og anlegg og industri alle ligger over 90 prosent når det gjelder utbredelse av verneombudsordningen.
+
+I virksomheter med færre enn ti ansatte er det 29 prosent av arbeidstakerne som svarer at de har verneombud. Her er det stor forskjell avhengig av om virksomhetene har tariffavtale. I virksomheter under ti ansatte med tariffavtale er det 61 prosent av arbeidstakerne som svarer at de har verneombud. I virksomheter under ti ansatte uten tariffavtale er det 16 prosent som svarer at de har verneombud.
+
+Også AMU er utbredt i de virksomhetene som skal ha dette, men i noe mindre grad enn verneombud. Det er vanligere å ha AMU i industri og bygg enn i tjenestenæringene. Blant virksomheter under lovens grense på 50 ansatte for å ha AMU er det 41 prosent av virksomheter med tariffavtale som har ordningen og 5 prosent blant virksomheter uten tariffavtale, ifølge svar fra arbeidstakere.
+
+Trygstad mfl. refererer funn fra forskning som viser at det er mer krevende å etablere verneombud og AMU i virksomheter hvor arbeidstakere utfører arbeid hos en ekstern oppdragsgiver eller der hvor det er stor «turn-over» blant de ansatte, hvor mange arbeidstakere har utenlandsk opprinnelse eller hvor det er høyt innslag av alternative tilknytningsformer.
+
+Dialogen mellom tillitsvalgte og virksomhetens ledelse står sentralt for å ivareta medvirkning og samarbeid på arbeidsplassen. Ifølge Trygstad mfl. svarer nær seks av ti tillitsvalgte at de både har formelle møter og uformelle samtaler med ledelsen, mens 15 prosent av de tillitsvalgte svarer at slik kontakt med ledelsen sjelden eller aldri forekommer. Kontakten mellom tillitsvalgte og ledelse er mest omfattende i kommunesektoren. Tillitsvalgte og ledere som både har formelle møter og uformelle samtaler vurderer den gjensidige tilliten som størst.
+
+Tillitsvalgte ønsker mer dialog med ledelsen om kompetanseutvikling, det psykososiale arbeidsmiljøet og seniorpolitikk. De tillitsvalgte og ledelsen er enige om at innspill som gjelder arbeidsmiljø og lønns- og arbeidsvilkår er det som blir tatt mest hensyn til, mens tillitsvalgtes innspill når det gjelder bruk av innleie og valg av andre tilknytningsformer for arbeidskraft i mindre grad vektlegges (Trygstad mfl., 2021).
+
+Flere undersøkelser viser at en betydelig andel arbeidstakere i privat sektor svarer at de har tillitsvalgte i virksomheten – selv om de ikke er dekket av tariffavtaler Det er også undersøkelser som viser at arbeidstakere ikke vet om de er omfattet av tariffavtaler eller ikke. Arbeidstakeres svar i LKU 2019 viser at det er færre blant de midlertidige og utleide arbeidstakere, sammenlignet med fast ansatte, som har eller kjenner til at det er ordninger som verneombud og AMU på arbeidsplassen. Arbeidstakere med alternative tilknytningsformer opplever også å ha mindre innflytelse, jf. punkt 5.6.7.
+
+Innleie og bruk av entreprise, hvor bemanning inngår, innebærer at en arbeidstaker utfører arbeid for eller på vegne av en annen enn den som er arbeidsgiver, og vil i en god del tilfeller også være lokalisert hos kundevirksomheten, jf. kapittel 13. Arbeidstakere i en slik situasjon vil ha medvirkning overfor sin arbeidsgiver, men vil ikke være knyttet til medvirknings- og samarbeidsordninger på det stedet hvor de faktisk utfører arbeidet. Den forskningen som er gjort på dette området tyder på at virksomhetens fast ansatte som arbeider sammen med innleide eller arbeidstakere fra eksterne tjenesteleverandører rapporterer om lavere tillit, mindre deling av kunnskap internt i virksomheten, lavere opplevelse av tilknytning og lojalitet til arbeidsgiver, jf. punkt 5.6.7.
+
+Det kan også være selvstendige oppdragstakere som arbeider i en virksomhet, for eksempel som konsulenter. Situasjonen for denne gruppen vil være ganske parallell med innleide arbeidstakere og ansatte hos eksterne tjenesteleverandører, men de selvstendige vil ikke ha en egen arbeidsgiver, og vil slik sett stå utenfor kollektive medvirknings- og samarbeidsordninger.
+
+Ingelsrud mfl. (2020) har gjennomført kvalitative undersøkelser i enkelte næringer. Innen verftsindustrien finner de tegn til at omfanget av innleie og entreprise svekker fagforeningenes posisjon i virksomhetene, og dermed grunnlaget for det partssamarbeidet som anses som et grunnleggende trekk ved den norske modellen. Et av utviklingstrekkene de peker på er opplevelse av økende avstand mellom ledelse og ansatte.
+
+Hvid og Falkum (2019) har sammenlignet undersøkelser blant arbeidstakere i 2016-2017 med en lignende undersøkelse utført i 2009. De finner en tendens til redusert opplevelse av individuell medvirkning, særlig i virksomheter med ledelsesmodeller basert på standardisering, kontroll, lojalitet og lydighet. Et annet funn er at arbeidstakernes opplevelse av medvirkning er lavere i statlig sektor enn i kommunal og privat sektor, og lavere hos arbeidstakere i konserner enn blant dem som arbeider i enkeltstående selskaper.
+
+Også i Medbestemmelsesbarometeret (Drange mfl., 2020) tyder svarene fra arbeidstakerne på at styrings- og ledelsesformene i virksomhetene har betydning for deres opplevelse av muligheter for medvirkning, og at det er forskjell mellom norskeide private foretak og utenlandske.
+
+Konsernorganisering og franchise er nevnt i utvalgets mandat som eksempler på at flere virksomheter er involvert i styring, kontroll og ledelse av arbeidet. Konserndannelser er kjennetegnet ved at to eller flere rettslig sett selvstendige selskaper er knyttet sammen som mor- og datterselskap(er). Det sentrale er om et selskap har «bestemmende innflytelse» over et annet selskap. I *konsern* kan det etableres felles representasjon, såkalt konsernordning. Avtaleverket mellom partene innebærer at det kan velges konserntillitsvalgte, jf. punkt 8.8.4. Trygstad mfl. har kartlagt utbredelsen av slike ordninger, jf. boks 14.2. Her kan det imidlertid være større usikkerhet enn ellers når det gjelder arbeidstakernes kjennskap til ordningene.
+
+Konsernutvalg og konserntillitsvalgte
+
+- 13 prosent av de ansatte i konsern i privat sektor svarer at de har konsernutvalg.
+
+- 45 prosent av ansatte i konsern med minst 200 ansatte svarer at de har konserntillitsvalgte.
+
+- Det må tas forbehold om at arbeidstakere ikke er kjent med ordningene, at ordningene finnes i andre varianter eller at det er tale om ansatte i norske datterselskap av utenlandske konsern, hvor ordningene vil være lite relevante.
+
+- Kvalitative intervjuer med tillitsvalgte i ulike sektorer og virksomheter indikerer at tillitsvalgte innen konsern og kjedeorganisasjoner vurderer sin innflytelse som dårligere enn andre. Ofte handler dette om at beslutninger tas på andre nivåer, der de ikke deltar.
+
+Trygstad mfl. (2021).
+
+\[Boks slutt\]
+
+Franchisedrift innebærer at enkelte rammer for forretningsdriften fastsettes i en egen avtale mellom en franchisegiver og en franchisetaker. Franchisegivere har ofte ansvar for lokaler, innkjøpsavtaler, felles regnskaps- og personalsystemer, opplæring, varedistribusjon, kampanjer og markedsføring, mens franchisetakere har ansvar for ansettelser, bemanningsnivå og den daglige driften. Det er den enkelte franchisetaker som har arbeidsgiveransvar.
+
+Ødegård mfl. (2021) har kartlagt bruken av konsern og franchise innen privat tjenesteyting. Målt etter sysselsetting og omsetning er det konsernorganisering som er den dominerende driftsformen innen privat tjenesteyting, jf. nærmere omtale i punkt 4.3.2 og 4.3.3. Hovedpunkter fra rapporten, som berører medvirkning, gjengis i boks 14.3.
+
+Hovedpunkter om konsern og franchise
+
+- Antallet virksomheter med sysselsatte som inngår i konsern har økt fra om lag 32 000 i 2009 til 45 000 i 2019.
+
+- Antallet ansatte i konsern har økt fra om lag 1,1 millioner i 2009 til om lag 1,4 millioner i 2019. Det utgjør om lag halvparten av alle sysselsatte.
+
+- I tjenesteytende sektor samlet er om lag 70 prosent av de sysselsatte innen konsern, 21 prosent arbeider innen frittstående virksomheter og 9 prosent i virksomheter med franchiseorganisering.
+
+- Det er relativt få virksomheter som er organisert som franchise sammenliknet med øvrige driftsformer. I tjenesteytende sektor er det om lag 3600 franchisevirksomheter, hvor drøyt 2800 av dem er i detaljhandelen.
+
+- Det er mange unge arbeidstakere innen detaljhandelen. Blant butikkmedarbeiderne innen franchise og konsern var halvparten under 27 år. I de frittstående virksomhetene var halvparten under 32 år.
+
+- Blant butikkmedarbeidere var tariffavtaledekningen om lag 32 prosent i virksomheter knyttet til konsern, 20 prosent i franchisevirksomheter og 16 prosent i de frittstående virksomhetene (tall fra 2016).
+
+- For butikkmedarbeidere er timelønnen høyere i virksomheter med tariffavtale. Lønnsnivået er høyest i de frittstående virksomhetene og lavest i franchisevirksomheter.
+
+Ødegård mfl., 2021.
+
+\[Boks slutt\]
+
+Bruken av franchisekontrakter er i all hovedsak knyttet til detaljhandelen. Ifølge Ødegård mfl. utøver franchisegiverne betydelig innflytelse gjennom kontraktene, som blant annet inneholder en «franchisepakke» med retningslinjer for opplæring, personal- og HMS-systemer mv. Noen franchisegivere stiller også krav om at de ansatte minst skal ha lønn i samsvar med minstereguleringene i tariffavtalen. Franchisetakere som er intervjuet i forbindelse med kartleggingen gir uttrykk for at de oppfatter sin arbeidsgiverrolle som reell. Ødegård mfl. finner at arbeidstakerne i franchisevirksomheter ofte ikke er klar over at arbeidsgiveren er franchisetaker. De peker på at sammenlignet med arbeidstakere innen konsern har ikke arbeidstakere i franchisevirksomheter samme muligheter til representasjon og medbestemmelse overfor franchisegiver.
+
+### Oppsummering
+
+Utfordringsbildet og tilstanden kan oppsummeres i følgende punkter:
+
+- Kartlegginger tyder på at verneombud finnes i en høy andel av virksomhetene som skal ha verneombud (over ti ansatte). Arbeidsmiljøutvalg finnes i vel to tredeler av alle virksomheter som skal ha dette (over 50 ansatte). Ansattrepresentanter i styret dekker 72 prosent av ansatte i virksomheter over 200 ansatte (obligatorisk lovkrav).
+
+- Nær seks av ti tillitsvalgte har både formelle møter og uformelle samtaler med ledelsen, men 15 prosent av tillitsvalgte har sjelden eller aldri noen form for samtale med ledelsen.
+
+- Kartlegginger tyder på at midlertidige og kortvarige tilknytninger reduserer arbeidstakernes medvirkning og tilhørighet til jobben. Fast ansatte skårer høyere når det gjelder sentrale arbeidsmiljøforhold og opplevelse av innflytelse på arbeidsplassen sammenlignet med midlertidig ansatte og innleide arbeidstakere. Midlertidig ansatte har også vesentlig lavere organisasjonsgrad.
+
+- Selvstendige skårer høyest av alle grupper i arbeidslivet når det gjelder motivasjon og jobbtilhørighet. De står friere til å legge opp arbeidet selv.
+
+- Kartlegginger tyder på relativt liten utbredelse og kjennskap til medvirkningsordninger i konsern og at arbeidstakere opplever svakere muligheter for medvirkning i konsern og utenlandskeide foretak.

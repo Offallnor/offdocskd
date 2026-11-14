@@ -1,831 +1,540 @@
-# NOU 2017: 2, del 18 av 20 (side 207–216)
+# NOU 2017: 2, del 18 av 19
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/a12ffa1f-nou-2017-2.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-2/id2536701/
 - Original-PDF: https://www.regjeringen.no/contentassets/c072f7f37da747539d2a0b0fef22957f/no/pdfs/nou201720170002000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 36 tabeller, 78 figurer, 558 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 207]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-deringer og «magefølelse». I slike tilfeller kan
-ulike typer fordommer spille inn.
-Informasjonsproblemene berører ikke bare arbeidstakere som ikke får jobb, men også arbeidsgiverne selv, som risikerer å ikke ansette arbeidssøkere med gode kvalifikasjoner, noe som i sin tur
-kan begrense veksten i bedriften. Det er eksempler på bedrifter, særlig store bedrifter, som klarer
-å utvikle strategier for å rekruttere innvandrere
-og tilpasse deres kompetanse til bedriftens behov.
-For andre – muligens de fleste – arbeidsgivere
-kan utfordringene være for store til at de klarer å
-håndtere dem alene.
-Utvalget mener at noen av problemet knyttet
-til integrering av flyktninger og andre innvandrere
-på arbeidsmarkedet dreier seg om informasjonsproblemer som det er vanskelig å håndtere alene
-for den enkelte arbeidsgiveren. Informasjonsproblemer som skaper friksjon på arbeidsmarkedet,
-kan være en del av forklaringen på at innvandrere
-har lavere sysselsettingsrater enn resten av befolkningen. Bedre løsninger for godkjenning av
-utenlandske kvalifikasjoner og styrking av mulighetene for flyktninger og andre innvandrere til å
-ta utdanning kan bidra til å løse noen av problemene knyttet til arbeidsgivernes vurdering av formelle kvalifikasjoner (se kap. 10.3.4). Det finnes
-imidlertid ikke like klare eller enkle løsninger for
-vanskeligheter knyttet til å vurdere de «mykere»
-kvalifikasjonene, som uten tvil er viktige i rekrutteringsprosesser.
-Utvalget mener at bevisste, reflekterte holdninger til rekrutteringsstrategier og -verktøy kan
-minske feilvurderingene og feilansettelsene og bidra til at arbeidsgivere i mindre grad overser potensialet i flyktningers arbeidstilbud. Dette krever
-imidlertid kunnskap. Her mener utvalget at både
-myndighetene og partene, særlig arbeidsgiver- og
-bransjeorganisasjoner, kan gjøre en innsats, ved å
-veilede og bistå arbeidsgiverne. Stat og kommune
-som arbeidsgivere bør også være forbilder i arbeidet med å sikre god rekrutteringspraksis til offentlige stillinger. Utdanning fra Norge er også
-viktig for å signalisere kompetanse og produktivitet.
-Definisjon av behov og løsninger for enkelte bransjer
-Utvalget mener at myndighetene kan bidra til å
-gjøre det lettere for arbeidsgivere å ta i bruk flyktningers arbeidskraftressurser ved å etablere mø53
-
-Rogstad, J. & Sterri, E. (2016). Rettsmessig forskjellsbehandling? Rettferdighet og amatørskap i ansettelsesprosesser, Faforapport 2016:23.
-
-207
-
-Kapittel 10
-
-teplasser hvor partene, bransjeorganisasjoner og
-offentlige instanser som NAV, utdanningsmyndigheter og utdanningsinstitusjoner kan komme
-sammen for å drøfte kompetansebehov i enkelte
-bransjer. Det kan være en fordel å konsentrere
-seg om bransjer, yrker eller regioner hvor det er
-tegn til mangel på kvalifisert arbeidskraft og hvor
-man forventer at det kan høstes størst gevinst i
-form av mest/best mulige jobber for flyktninger,
-f.eks. helsefagarbeidere, barne- og ungdomsarbeidere i barnehager, eller håndverksfag (se også
-kap. 5.6.2). Hvis arbeidsgivere gjennom partene i
-arbeidslivet og bransjeorganisasjoner klarer å formidle hvilken kompetanse eller ferdigheter som
-de opplever mangel på, blir det lettere å opprette
-eller tilpasse opplærings- og utdanningstilbud, arbeidsmarkedstiltak eller kombinasjonsløsninger
-til de konkrete behovene i de enkelte bransjene
-(se kap. 10.3.7).
-Det er vesentlig at arbeidsgivere involveres,
-fordi verken saksbehandlere i NAV eller utdanningsinstitusjoner har like god kunnskap om delarbeidsmarkeder som de som selv jobber i bransjene. Samarbeid med partene i arbeidslivet og
-mer spesifikke bransjeorganisasjoner kan være
-viktig for å få fram gode løsninger. Boks 10.2 gir
-eksempler på ordninger fra Danmark og Sverige
-som arbeidsgiverne har vært med på å utvikle. Utvalget mener i tillegg at når staten eller kommunene selv er arbeidsgivere som mangler kvalifisert arbeidskraft, bør de gå foran med gode eksempler også på dette området.
-
-10.3.7 Tiltak som kombinerer opplæring og
-arbeid
-Som det framgår av kapittel 10.2.2, bør behov og
-muligheter for videre utdanning for den enkelte
-kartlegges, avklares og påbegynnes så tidlig som
-mulig. Så langt som mulig bør nødvendig opplæring/utdanning påbegynnes og gjennomføres i introduksjonsprogrammet, og det er nå åpnet for
-mulighet til å ta hele videregående opplæring
-innenfor programmet. Det er også åpnet for at
-flyktninger med svak utdanningsbakgrunn fra
-hjemlandet skal kunne få utvidet introduksjonsperioden til inntil fire år.54
-Mange flyktninger kan imidlertid ha behov for
-opplæring og/eller tiltak med praksis i arbeidslivet etter introduksjonsperioden. Utvalget mener
-at erfaring i norsk arbeidsliv kan være et viktig og
-nyttig supplement til opplæring/utdanning for å
-54
-
-Meld. St. 30 (2015–2016) Fra mottak til arbeidsliv – en
-effektiv integreringspolitikk, kap. 5.5.3.
-
-[Side 208]
-
-208
-
-Kapittel 10
-
-NOU 2017: 2
-Integrasjon og tillit
-
-Boks 10.2 Involvering av arbeidsgivere i Danmark og Sverige
-det er behov for i Sverige. Utgangspunktet er at
-Integrationsgrunduddannelse (IGU) i Danmark:
-det kan ta lang tid å få godkjent og anerkjent
-I Danmark har regjeringen og partene i arbeidsutenlandsk yrkesutdanning for det nasjonale arlivet inngått en avtale om arbeidsmarkedsintebeidsmarkedet, men at kravene og prosessene
-grering for flyktninger som innfører en integrafor å få dette til kan variere mellom ulike yrker
-sjonsgrunnutdanning (IGU) for flyktninger og
-og bransjer. Bakteppet for samtalene har også
-familiegjenforente mellom 18 og 40 år. Ordninvært identifiserte «brist-yrker», dvs. yrker hvor
-gen kombinerer lærlinglønn med opplæring
-det er problemer med å dekke etterspørselen i
-som støttes av en offentlig stønad. Lønnssatsene
-det svenske arbeidsmarkedet.
-er de til enhver tid gjeldende satser for «erhvervsMålet med snabbspår er at 1) innvandrere/
-grunduddannelse» (lærlingsatser) i de respekflyktninger skal komme raskere i jobb; 2) deres
-tive overenskomstområdene, eller elevsatser i
-medbrakte kompetanse skal brukes i riktige jobvirksomheter uten kollektiv overenskomst. Øvber; og 3) bransjer med behov for arbeidskraft
-rige ansettelsesvilkår følger av de kollektive avskal få tilgang til etterspurt kompetanse.
-talene eller reglene som gjelder. Deltakeren
-Snabbspår gjennomføres som et organisert
-mottar den nye IGU-skoleytelsen fra kommunen
-samarbeid mellom arbeidsformidlingen og orgafor undervisning i arbeidstiden. Den nye ordninnisasjonene på bransjenivå, og bestanddeler kan
-gen er tidsbegrenset, med varighet opp til to år,
-være:
-inkludert et 20 ukers undervisningsopplegg på
-– Tidlig svenskopplæring, med tilbud allerede i
-full tid (32–37 timer i uken) fordelt over toårspeasylmottak
-rioden, og skal fungere som et supplement til ar– Tidlig kartlegging og vurdering av erfaring,
-beidsmarkedstiltak som lønnstilskudd, arbeidskompetanse og motivasjon
-praksis og kvalifiseringsprogram. Arbeidsavta– Godkjenning av utdanning og yrkeskompelen skal inngås direkte mellom bedriften og den
-tanse etter bransjevise krav
-enkelte arbeidstakeren. Private bedrifter som
-– Yrkes- og utdanningsveiledning
-ansetter flyktninger og familiegjenforente i ordi– Støtte til arbeidsgivere for at de skal finne renære stillinger eller under IGU-ordningen, får
-levante deltakere
-en bonus på kr 20 000 etter seks måneder og yt– Svenskopplæring som er relevant for yrkesterligere kr 20 000 etter to år, når IGU-løpet er
-området
-fullført. For å hindre at ordningen går ut over
-– Kompletterende utdanning ved behov
-annen arbeidskraft, og for å vurdere om ordnin– Praksis eller arbeid kombinert med
-gen gir de ønskede sysselsettingseffektene, skal
-svenskopplæring eller kompletterende kurs
-det foretas en årlig evaluering.
-– Språkstøtte, veiledere og mentorer på arSnabbspår i Sverige: For å få nyankomne innbeidsplassen
-vandrere raskere i arbeid har arbeidsmarkedsmyndighetene i Sverige ført samtaler med orgaKilde: http://www.regeringen.se/regeringens-politik/
-nisasjonene i arbeidslivet for å etablere raskere
-nyanlandas-etablering/snabbspar---snabbare-etablering-avprosesser for bosatte innvandrere/flyktninger
-nyanlanda/ og https://www.retsinformation.dk/Forms/
-med en utdannings- eller yrkesbakgrunn som
-R0710.aspx?id=183388
-
-komme i jobb. Utvalget anbefaler at løsninger som
-kombinerer utdanning og arbeid, i større grad bør
-vurderes og tas i bruk, men erkjenner at dette er
-komplisert, se også 10.3.5.
-Mange flyktninger kan i kortere eller lengre
-perioder være i arbeid – også i form av deltidsarbeid- og midlertidige stillinger – avbrutt av perioder som arbeidssøkere. Mange steder i landet er
-det satt i gang samarbeidsprosjekter mellom NAV
-og fylkeskommunene om videregående opplæ-
-
-ring for denne gruppen (se boks 10.3). En gjennomgang av slike samarbeidsprosjekter finner at
-de sjelden overlever forsøksstadiet.55 Slike kombinasjonsmodeller krever samarbeid mellom flere
-sektorer og etater, og kan være utfordrende å få til
-bl.a. på grunn av ulik styringsstruktur, organisering og regelverk.56 Noen slike innsatser har blitt
-55
-
-Proba (2015). Evalueringer av forsøksordninger med videregående opplæring for arbeidssøkere og på arbeidsplass. Rapport 2015-06.
-
-[Side 209]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-209
-
-Kapittel 10
-
-Boks 10.3 Eksempler på samarbeidsprosjekter/kombinasjonsløsninger
-helsefagarbeidere, og senere har det også vært
-I Sogn og Fjordane finansierer NAV, én komoppstart for et kull med barne- og ungdomsarmune (Gloppen eller Flora) og fylkeskommunen
-beidere og et kull med kokk- og servitørutdanet samarbeidsprosjekt som er kalt Helsefagning. Erfaringene er at de aller fleste gjennomføarbeiderklassen, «Gloppen-modellen». Fylkesrer og at fagbrev gir arbeid etter fullført utdankommunen lager et utvidet opplæringstilbud,
-ning.
-NAV velger ut egnede kandidater, og kommunene tilbyr lærlingplasser. Målgruppen er innKilde: Omtalen baserer seg på innspill fra Arbeids- og velvandrere over 25 år, primært flyktninger med
-ferdsdirektoratet.
-kun grunnskoleutdanning. Finansieringen av
-livsoppholdet til deltakerne har vært delt melLevanger voksenopplæring har utviklet en molom lønn for deltakernes deltidsarbeid, stipend
-dell for praksisrettede fagkurs integrert i
-fra Lånekassen og støtte fra NAV. Helsefagnorskopplæring. Tilbudet er utviklet gjennom et
-arbeiderklassen er ikke evaluert, men kan vise
-samarbeid mellom Levanger kommune, NAV,
-til gode resultater. Forsøksklassen startet høsSINTEF og utvalgte arbeidsgivere. Fagkursene
-ten 2013, og våren 2015 hadde 11 av de 12 elevstartet opp i 2014 og retter seg mot henholdsvis
-ene bestått de to første årene, alle med en snitthelse- og renholdsfag. Målgruppen er motiverte
-karakter på over 4. Kun én kandidat hadde slutdeltakere i introduksjonsprogrammet som har
-tet underveis.
-liten eller ingen skolegang fra hjemlandet, først
-Kilde: Proba (2015). Samarbeid mellom fylkeskommunen og
-og fremst kvinner, hvorav mange er analfabeter.
-NAV om videregående opplæring for voksne arbeidssøker RapDeltakerne får introduksjonsprogram over tre
-port 2015:04, og samtale med rektor på Firda videregående
-år som består av norskopplæring og arbeidsskole; Distriktssenteret (2016). Nytenkende inkludering gir
-praksis innenfor helse/renhold, med en fagplan
-god rekruttering, https://distriktssenteret.no
-og veileder på en arbeidsplass. Frikjøp av veiledere på praksisplassen finansieres av NAV. Etter
-NAV Oslo innledet et samarbeid med Oslo vok1 ½ år er flere av prosjektdeltakerne nå i ordisenopplæring i 2010, der motiverte voksne innnær jobb. SINTEF er rådgiver og sikrer dokuvandrere fikk godkjent deltakelse i videregåmentasjon av resultatene.
-ende opplæring som AMO i 10 + 6 måneder. De
-hadde deretter en kort periode uten livsoppKilde: Håpnes, T. (2016). Innvandrerkvinner klar for jobb på
-holdsytelser før de gikk over i en lærlingperiode
-rekordtid, http://www.sintef.no; Innlegg fra Levanger komog var lærlinger i 2 år. I løpet av 4 år hadde de
-mune på FARVE-konferansen
-fått fagbrev. Dette begynte først med et kull med
-
-evaluert, men ikke på en slik måte at det er lett å
-fastslå hva som fungerer bedre enn annen type
-innsats. Utvalget anbefaler at det legges opp til
-systematisk utprøving av alternative modeller for
-å kombinere opplæring og arbeid, og at disse bør
-effektevalueres (se også kap. 10.5).
-Det lar seg i hovedsak ikke gjøre å ta utdanning samtidig som man mottar sosialhjelp eller andre velferdsytelser. Dette må sees i sammenheng
-med at det allerede finnes egne finansieringsordninger for utdanning (Lånekassen) og at de stat56
-
-Se bl.a. om samarbeid mellom NAV og fylkeskommunene:
-Proba (2015). Samarbeid mellom fylkeskommunen og NAV
-om videregående opplæring for voksne arbeidssøkere. Rapport 2015-04.
-
-lige og kommunale inntektssikringsordningene
-som administreres av NAV, har et annet formål.
-Det kan imidlertid virke lite attraktivt å satse på
-utdanning hvis studiefinansiering via Lånekassen
-er mindre økonomisk gunstig enn ytelser fra NAV
-(se kap. 4.3.4). Dette gjelder ikke bare for innvandrere, og eventuell særbehandling for flyktninger
-og andre innvandrere ville være uheldig. Utvalget
-tar ikke stilling til hvordan deltakere i opplæringstiltak, som kombinerer utdanning og praksis, skal
-sikres livsopphold, og viser til at det, som nevnt i
-kapittel 10.3.4, skal settes ned en ekspertgruppe
-som skal utrede dette for voksne som tar grunnskole eller videregående opplæring.57
-
-[Side 210]
-
-210
-
-Kapittel 10
-
-NOU 2017: 2
-Integrasjon og tillit
-
-Merknad fra utvalgets medlem Asle Toje:
-Utvalgets medlem Asle Toje påpeker at utvalget
-burde ha betont det åpenbare problemet med
-«kvalifisering som universalløsning». Tvert imot
-er det fare for at utvalget skaper forhåpninger til
-denne løsningen som ved nærmere ettersyn ikke
-vil leve opp til. For at dette skal fungere må innvandreren kvalifiseres til å bli like effektive som
-norske arbeidere. Dette er usannsynlig, på grensen til utenkelig, siden innvandrerne i betydelig
-grad er lavkvalifisert, lavskolert arbeidskraft som
-ankommer i voksen alder. Dessuten er norske
-trygder så sjenerøse at de virker som et disinsentiv for en selvforbedringsprosess av slike episke
-proporsjoner. Utvalget kunne ha påpekt at den
-eneste måten «kvalifiseringslinjen» ville fungere
-på, er dersom Norge tok til å håndplukke etterspurt arbeidskraft (slik blant annet Canada
-gjør) i stedet for asylinnvandringens selv-selektering. Dette ble vurdert å ligge utenfor mandatet.
-Vi må derfor anta at den høye innvandringen vil
-være omtrent like kvalifiserte som de som alt har
-kommet. Det er ikke tvil om at «kvalifiseringslinjen» er hva politikere i alle leire ønsker. Det er
-kanskje derfor mandatet konkluderer på vegne av
-utvalget: «For at Norge skal kunne opprettholde
-velferdsordningene på et nivå og med en standard
-vi har vært vant til, må innvandrere til Norge raskt
-komme i arbeid og opprettholde høy sysselsetting
-over tid.» Hva utvalget burde ha skrevet mer om,
-er hvorvidt dette er realistisk? Det er det trolig
-ikke. Troen på at Norge vil produsere de samme
-verdiene med en betydelig lavere kvalifisert arbeidsstyrke er ønsketenkning. Det er ingen ting i
-rapporten som tilsier at utdanning vil hjelpe så det
-monner overfor godt voksne innvandrere som
-ofte mangler grunnskole og grunnleggende
-språklige ferdigheter. Altså håper utvalget egentlig på at lavt kvalifiserte innvandrere vil komme i
-arbeid til høye norske lønninger som deres verdiskaping ikke tilsier. Dette strider mot de økonomiske tyngdelovene. Svakhetene ved «kvalifiseringslinjen» er en nevneverdig innsikt siden det
-politiske etablissementets foretrukne løsning
-(over) blir devaluert som løsning med stor L. I utvalgsmedlemmets øyne er dette den kanskje viktigste innsikten fra utvalgets arbeid: Problemet er
-at storstilt lavkvalifisert innvandring til en av verdens mest høyskolerte og produktive økonomier
-57
-
-Som oppfølging av Meld. St. 16 (2015–2016) Fra utenforskap til ny sjanse, ble det besluttet å sette ned en ekspertgruppe som skulle se på livsopphold for voksne som tar
-grunnskole eller videregående opplæring.
-
-vil ikke være bærekraftig fordi vi ikke vil makte å
-skolere en tilstrekkelig andel voksne lavskolerte
-mennesker til et nivå der deres arbeidskraft er effektiv nok til å rettferdiggjøre et norsk lønnsnivå.
-Siden innvandringen vil være høy, vil det ikke
-være bærekraftig å trygde disse inn i middelklassen. Den åpenbare konklusjonen er at de langsiktige konsekvenser av høy innvandring, vil være
-den «etnisk fragmenterte underklasse», som Maktutredningen av 2003 så konturene av.58
-
-10.4 Arbeid og insentiver
-Utvalget er bedt om å
-[…] analysere og vurdere om gjeldende generelle inntektssikringsordninger[…] og annet
-offentlig tjenestetilbud er hensiktsmessig
-utformet og dimensjonert i en situasjon der
-flyktninger og deres familie utgjør en stor
-andel av innvandringen.
-Lavere sysselsettingsrater blant flyktninger medfører at denne gruppen er overrepresentert som
-mottakere av en rekke velferdsytelser og -tjenester (se kap. 5 og 6). Mindre grad av selvforsørgelse blant innvandrere, og en tendens til økende
-trygdebruk over lengre botid, innebærer en tilleggsutfordring for velferdsstatens bærekraft på
-lengre sikt (se kap. 8).
-Som diskutert tidligere i denne utredningen, er
-det to hovedforklaringer på dette mønsteret. Den
-ene er at terskelen inn i arbeidsmarkedet er høy i
-Norge. Den andre er at velferdsytelsene i Norge er
-relativt høye, slik at det oppstår uheldige insentiver. For en del mennesker kan det være lite å tjene
-på å være i arbeid framfor å motta offentlige
-ytelser. Dette har også sammenheng med utformingen av skattesystemet, og gjelder særlig personer som har valget mellom å motta ytelser eller arbeide med lav lønn. Vurderingene i kapittel 10.3,
-og i noen grad 10.2, knytter seg til hvordan flere
-kan hjelpes over terskelen inn i arbeidsmarkedet.
-Dette kapitlet ser på hvordan mulige uheldige insentiveffekter av stønadssystemet kan motvirkes.
-
-10.4.1 Velferdsytelser
-Det er flere måter å dempe uheldige insentivvirkninger på innenfor ytelsessystemet: gjennom å re58
-
-Østerud, Ø., Engelstad, F. & Selle, P. (2003). Makten og
-demokratiet: En sluttbok fra Makt- og demokratiutredningen.
-Oslo: Gyldendal Norsk Forlag.
-
-[Side 211]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-dusere ytelsene, gjennom strengere inngangsvilkår og gjennom strengere aktivitetskrav for mottakere. I tillegg til å dempe uheldige insentiver vil
-reduserte ytelser og strengere inngangsvilkår ha
-en direkte effekt på velferdsstatens utgifter.
-Den sentrale tilnærmingen til sosialpolitikken
-i NOU 2011: 7 ble omtalt som aktiviseringsalternativet. Hovedprinsippet var å endre alle velferdsstatens ordninger på en slik måte at aktivitet skulle
-lønne seg. Familier som forsørges av personer
-som potensielt vil være ansatt i lavt betalte stillinger, vil ha lite å tjene på at disse personene er yrkesaktive framfor ytelsesmottakere. Siden innvandrere er overrepresentert i lavlønnsyrker, vil dette
-gjelde i noe større grad for innvandrere enn for
-andre. På denne bakgrunnen ble det i NOU
-2011: 7 foreslått å innføre aktivitetskrav i overgangsstønad til enslig mor eller far når det yngste
-barnet fylte ett år (ikke tre år som tidligere), å begrense antall perioder som den enkelte kan motta
-overgangsstønad, å utvide tiltak med gratis kjernetid i barnehager, å fase ut kontantstøtten, å avvikle ektefelletilleggene i uførepensjonen og å redusere barnetilleggene. Flere av disse forslagene ble
-tatt opp i etterkant av utredningen. Blant annet er
-aktivitetskrav ved overgangsstønad skjerpet, gratis kjernetid i barnehage er innført i hele landet
-og det er satt et tak på forsørgertilleggene i uførepensjonen. Kontantstøtten er avviklet for toåringer, men økt for ettåringer.
-Ifølge en analyse fra NAV ser satsøkningen for
-kontantstøtten for ettåringer ut til å ha direkte effekt på sysselsettingen til mødre med ettåringer, i
-den forstand at sysselsettingen ble redusert med
-5–6 prosentenheter. Utslaget var større for mødre
-med innvandrerbakgrunn, noe som i stor grad ser
-ut til å være en konsekvens av at kvinner med innvandrerbakgrunn oftere jobber i lavlønnsyrker.59
-Selv om kontantstøtten er redusert fra to til ett år,
-tyder disse tallene altså på at den fortsatt bidrar til
-å holde kvinner utenfor arbeidsstyrken, og at
-dette gjelder innvandrerkvinner i langt større
-grad enn kvinner i majoritetsbefolkningen.
-Høsten 2014 ble ordningen med gratis kjernetid i barnehager inntektsprøvd i bydelen Gamle
-Oslo, i Drammen og i bydelen Årstad i Bergen.
-Det ble samtidig stilt krav om aktivitet for foreldre. En rapport finner at foreldre opplever aktivitetsplikten som en mulighet til å lære norsk og
-dermed kunne følge opp barna i barnehage og
-skole slik de gjerne vil.60
-
-Reduserte ytelser
-Strategien med ytelsesskutt kan stimulere til at
-flere personer tilbyr sin arbeidskraft, fordi kuttene
-gjør det mer lønnsomt å jobbe. Strategien har
-også sine begrensninger. For de som får ytelsene
-sine redusert og som reelt ikke er i stand til å forsørge seg selv gjennom betalt arbeid, vil kuttene
-først og fremst redusere inntekten. Dette illustreres blant annet i evalueringen av innføringen
-av «starthjælp» i Danmark. Sysselsettingen økte
-blant innvandrere som fikk starthjælp i stedet for
-den høyere kontanthjelpen, men levekårsutfordringene ble også betydelig større for mottakerne
-av starthjælp som ikke lyktes i å skaffe en jobb.61
-Det å ha vedvarende lavinntekt kan i seg selv
-bidra til å forsterke marginalisering. Lavinntekt eller fattigdom gjør det vanskelig å delta på de sentrale arenaene i samfunnet. Barn som vokser opp
-med lav inntekt deltar mindre i organiserte fritidsaktiviteter62 og har større risiko enn andre for å
-bli stående utenfor arbeidslivet som voksne.63 Å
-leve med vedvarende lav inntekt er dessuten ressurskrevende, slik at familier kan komme til å
-bruke mye tid og krefter bare på å håndtere den
-dårlige økonomien og kompensere for materielt
-dårlige levekår. Rene kutt i velferdsytelser kan bidra til å få flere i jobb, men for dem som forblir
-mottakere, kan lavinntektssituasjonen komme til å
-undergrave integreringen på sikt. Dette er et reelt
-dilemma i utformingen av ytelsessystemet.
-I NOU 2011: 7 ble det foreslått å erstatte kontantytelser med tjenester som en delvis løsning på
-dette dilemmaet. Gjennom å gi tjenester kan man
-hindre eller dempe noen av følgene av fattigdom,
-samtidig som man ikke undergraver insentiver til
-arbeid, fordi arbeidsinntekt vil gi større økonomisk frihet. Eksempler på politiske tiltak under en
-slik strategi var å erstatte kontantstøtten med mer
-utstrakt bruk av gratis kjernetid i barnehager eller å erstatte barnetillegget i uførepensjonen med
-gratis tilgang til aktiviteter for barn. Utvalget me60
-
-61
-
-62
-
-63
-59
-
-Hedding, B. (2016). Lavere sysselsetting blant mødre etter
-økt kontantstøttesats. Arbeid og velferd (3): 61–73.
-
-211
-
-Kapittel 10
-
-Bråten, B. & Bogen, H. (2015). Målretting av gratis kjernetid. Erfaringer fra bydel Gamle Oslo, Drammen og Bergen.
-Fafo-rapport 2015:39.
-Hansen, H., Højsgaard Andersen, L., Schultz-Nielsen, M. &
-Tranæs, T. (2012). Starthjælpens betydning for flyktninges
-levevilkår og beskæftigelse. Rockwool Fondens Forskningsenhed.
-Kristofersen, L. B. (2010). Fritid og sosial deltakelse. I:
-Sandbæk, M. & Pedersen, A. W. (eds.). Barn og unges levekår i lavinntektsfamilier. En panelstudie 2000–2009. Oslo:
-NOVA, rapport nr. 2010/10.
-Wiborg, Ø. & Hansen, M. (2009). Change over Time in the
-Intergenerational Transmission of Social Disadvantage.
-European Sociological Review 25(3), s. 379–394.
-
-[Side 212]
-
-212
-
-Kapittel 10
-
-NOU 2017: 2
-Integrasjon og tillit
-
-ner at denne tilnærmingen kan utvikles videre,
-særlig med tanke på barnefamilier, hvor man nettopp ønsker å legge til rette for barns deltakelse,
-uten å undergrave arbeidsinsentivene for foreldrene. Gratis transport og fritids- og ferieaktiviteter for barn er mulige tjenester som kan tilbys
-hvis kontantytelsene til familiene reduseres.
-Strengere inngangsvilkår
-Regjeringen lanserte sommeren 2016 et høringsnotat som begrenser flyktningers og andre
-innvandreres rettigheter i ytelsessystemet på flere
-måter, slik at flyktninger i større grad likebehandles med norske statsborgere og andre med lovlig
-
-opphold i Norge (se boks 10.4). For det første
-foreslås det – noe som gjelder flere av folketrygdens ytelser – å avvikle den positive særbehandlingen av flyktninger og å erstatte retten til garanterte minsteytelser ved alder og uførhet med ordningen med supplerende stønad. For det andre
-foreslår regjeringen å innføre et botidskrav på fem
-år i kontantstøtten og å øke botidskravet fra tre til
-fem år i alderspensjonen, uføretrygden, arbeidsavklaringspengene og stønaden til enslig mor eller
-far. Utvalget merker seg innholdet i høringsnotatet, og anerkjenner at det høye forbruket av enkelte av disse ytelsene, sammen med risikoen for
-stønadseksport, tilsier at slike innstramminger
-kan være nødvendig. Høringsnotatets beregnin-
-
-Boks 10.4 Høringsnotat om endringer i folketrygden
-uføretrygd og arbeidsavklaringspenger fra tre til
-For å ha rett til en del folketrygdytelser, inklufem år. For rett til stønad til enslig mor eller far
-dert alderspensjon, uføretrygd, arbeidsavklaforeslås det også å heve kravet fra tre til fem år.
-ringspenger og stønad til enslig mor eller far,
-For kontantstøtte, hvor det i dag ikke stilles krav
-stilles det normalt krav til kvalifiseringsperioder
-til botid, foreslås det innført et krav om fem års
-i form av forutgående medlemskap i folketrygbotid. Det er stor usikkerhet knyttet til spørsmåden eller trygdetid. Alderspensjon og uførelet om hvordan utbetalingene av økonomisk sotrygd har videre bestemmelser om at trygdetid
-sialhjelp vil påvirkes av å øke botidskravet for
-er en faktor i beregningen av ytelsen, slik at
-trygdeytelser.
-ytelsen reduseres forholdsmessig dersom man
-I tillegg ble det foreslått å avvikle de fleste av
-har mindre enn 40 års trygdetid.
-ordningene som automatisk gir personer med
-For personer som har fått opphold i Norge
-flyktningstatus fulle minsteytelser fra folketrygmed status som flyktning, gjøres det unntak fra
-den som om de har bodd i Norge hele livet. For
-kravet til kvalifiseringsperiode og bestemmelsene
-alderspensjon og uføretrygd ble det foreslått at
-om avkorting i ytelsene på grunn av manglende
-disse ordningene skal erstattes av ordningen
-trygdetid. Det forutsettes at de andre vilkårene
-med supplerende stønad.1 En slik løsning forutfor de enkelte ytelsene er oppfylt, herunder kravene til alder, sykdom, redusert inntektsevne mv.
-setter at det innenfor ordningen med suppleBakgrunnen for særreglene for flyktninger er at
-rende stønad innføres en ny ytelse for uføre
-personer som har måttet flykte fra opprinnelsesflyktninger under 67 år. Supplerende stønad er
-landet, sjelden eller aldri vil ha tilgang til eventuen behovsprøvd ordning utenfor folketrygden
-elle opptjente pensjonsrettigheter derfra.
-som gis uten forsørgingstillegg, og som er mer
-Om man skal beholde retten til en ytelse
-tilpasset den aktuelle målgruppen. Det påpekes
-som er innvilget eller beregnet etter særrettigi notatet at betydelige økonomiske konsekvenhetene for flyktninger, er det et absolutt krav at
-ser for kommunale sosialhjelpsbudsjetter unnman fortsatt er medlem i folketrygden. Dersom
-gås ved at eldre og uføre flyktninger får tilnærmedlemskapet opphører, f.eks. ved flytting til utmet lik inntektssikring innenfor ordningen med
-landet, faller retten til ytelsen og den fordelaksupplerende stønad som de ellers ville ha fått
-tige beregningen bort. Den ytelsen som i så fall
-innenfor folketrygden.
-vil kunne tas med til utlandet, er begrenset til
-1
-Supplerende stønad har som formål å garantere en minstedet beløpet flyktningen har rett til basert på
-inntekt for personer som har fylt 67 år, og som har kort elegen opptjening.
-ler ingen botid, noe som gjør at de ikke har tilstrekkelige
-alderspensjonsrettigheter i folketrygden. Se vedlegg 1.
-Arbeids- og sosialdepartementet sendte 4.
-juli 2016 ut et høringsnotat hvor departementet
-Kilde: Høring om forslag til endringer i trygderegelverket i
-foreslår å øke botidskravet for rett til pensjoner,
-lys av asylsøkersituasjonen, 4. juli 2016.
-
-[Side 213]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-ger av innsparinger som følge av denne omleggingen er imidlertid svært usikre, og de antatte innsparingene kommer hovedsakelig som følge av at
-supplerende stønad er en behovsprøvd ordning
-uten forsørgertillegg. Det er også stor usikkerhet
-knyttet til hvordan utbetalingene av økonomisk
-sosialhjelp vil bli påvirket av de foreslåtte
-endringene, men det vil trolig føre til økte utgifter
-for kommunene. Utvalget understreker derfor at
-det er viktig å evaluere virkningene av de foreslåtte endringene i trygdeordningene, slik det legges opp til i høringsnotatet. Utvalget understreker
-videre at en strategi med begrensede rettigheter
-for flyktninger og andre innvandrere bør suppleres med en fortsatt strategi for å investere i innvandreres kompetanse.
-Forslaget om å innføre et botidskrav på fem år
-i kontantstøtten antas å gi en innsparing i løpet av
-det første året etter innføring på rundt 60 mill. kr,
-eller om lag 4 pst. av den årlige utgiften til denne
-ytelsen.64 Hvilken effekt innføringen av botidskrav vil ha på innvandrerkvinners yrkesdeltakelse, er usikkert, all den tid tilgjengelig statistikk
-ikke sier noe om forholdet mellom kontantstøttemottak og botid. På denne bakgrunnen viser utvalget til argumentasjonen i NOU 2011: 7 og anbefaler at kontantstøtteordningen fases ut.
-Aktivitetskrav
-Aktivitetskrav finnes allerede i en rekke velferdsytelser, i større eller mindre grad. Unntaket er uføretrygd, som oppfattes som en varig ytelse når
-den først er innvilget. Som vist i kapittel 6.5 kan
-aktivitetskrav og sanksjoner ha en positiv effekt
-på overgangen til arbeid. Det er imidlertid signaler som tyder på at arbeids- og velferdsforvaltningen håndhever aktivitetskravene ulikt og i mindre
-grad enn regelverket åpner for. Utvalget understreker at alle som mottar velferdsytelser, bør
-delta i aktiviteter som virker kvalifiserende, eller
-som bidrar til å holde fast i kontakten med arbeidslivet, og at aktivitetskrav bør praktiseres
-strengt. Aktivitet har en selvstendig effekt i tillegg
-til den rent kvalifiserende. Begrunnelsen er at alternativet vil være passivitet, noe som er uheldig
-for den enkelte og som vil kunne undergrave legitimiteten til velferdsytelsene. Utvalget mener de
-mulighetene som ligger i lovverket til å bruke betingelser og sanksjoner, bør tas i bruk i større
-grad enn i dag. Samtidig er det viktig at aktivite64
-
-Samlet tildeling til NAV for posten kontantstøtte var 1,62
-mrd. kr i 2015, ifølge NAVs årsrapport, tilgjengelig på
-NAVs nettsider.
-
-213
-
-Kapittel 10
-
-tene som tilbys, har et tilstrekkelig kvalitetsnivå
-og tilfører noe meningsfylt til deltakeren.
-For mottakere av økonomisk sosialhjelp under
-30 år er det fra 2017 innført en aktivitetsplikt med
-det formål å styrke den enkeltes muligheter for å
-komme i arbeid og bli selvforsørget.65 En studie
-av innføringen av aktivitetsplikt i fire kommuner
-viser at en streng praktisering av aktivitetskrav
-kan gi en kraftig reduksjon i antallet mottakere av
-økonomisk sosialhjelp, uten at studien dokumenterer at dette fører til høyere overgang til arbeid.66
-Utvalget mener at det ikke skal være mulig å
-motta sosialhjelp over tid uten å møte aktivitetskrav, hvis ikke det er tungtveiende grunner som
-taler mot dette.
-Langtidsmottakere av sosialhjelp vil ofte ha
-vært igjennom en rekke kvalifiseringstiltak og innsatser, uten at disse har satt dem i stand til å
-etablere en fast tilknytning til arbeidsmarkedet. I
-noen tilfeller har tiltakene hatt liten annen effekt
-enn å påføre brukeren nok en opplevelse av
-nederlag, og i sum kan aktiviseringsinnsatsen
-oppleves som ydmykende.67 Utvalget understreker at aktivitetskravene for dem som står lengst
-fra arbeidsmarkedet bør innrettes slik at de i tillegg til å være arbeidsrettet også bygger opp minimumsferdigheter som sikrer sosial inkludering
-og aktiv deltakelse i samfunnet, noe som også inngår i formålet med sosialtjenesteloven. For personer i slike situasjoner kan man f.eks. ha som et minimumsmål at alle skal ha grunnleggende leseferdigheter, slik at de kan forstå enkle beskjeder.
-Dette vil forbedre mestringen av kontakten med
-offentlige myndigheter, inkludert skolen, slik at
-de blir i stand til å følge opp barnas utdanning.
-Det vil også bidra til å styrke ferdigheter som er
-viktige for å kunne komme i arbeid. Eksempler
-kan være krav om deltakelse på norskkurs, arbeid
-for frivillighetssentralen eller tilsvarende formidling av uformell hjelp, eller tiltak organisert av
-kommunene og frivillige organisasjoner i fellesskap, der «uvirksomme hender» kobles til «eksisterende behov».68 Dette er et område hvor det er
-rom for kreativitet, så lenge prosjektene som opprettes, ivaretar verdigheten til deltakerne.
-65
-66
-67
-
-68
-
-Prop. 1 S (2016–2017), Prop. 13 L (2016–2017).
-Dahl, E. & Lima, I. (2016). Krav om å stå opp om morra’n:
-Virker det?, Arbeid og velferd 3-2016.
-Friberg, J. H. & Elgvin, O. (2014). Når aktivering blir ydmykelse. En studie av møtet mellom somaliske innvandrere og
-NAV. Fafo- rapport 2014:43.
-Noen slike prosjekter er beskrevet hos Guldbrandsen, T.
-(2015). Frivillighet som treningsarena for arbeidslivet. Institutt for samfunnsforskning, rapport nr. 2015/11.
-
-[Side 214]
-
-214
-
-Kapittel 10
-
-NOU 2017: 2
-Integrasjon og tillit
-
-10.4.2 Skatt
-Skattesystemet påvirker både insentivene til å arbeide for den enkelte og arbeidsgiveres insentiver
-til å ansette personer. Det er da også naturlig å
-vurdere om endringer i skattesystemet kan bidra
-til å øke sysselsetningen blant innvandrere.
-Det er mulig å bedre insentivene til å arbeide
-framfor å gå på trygd innenfor skattesystemet ved
-å la lønn bli skattlagt lavere enn trygd. Det kan
-f.eks. oppnås ved å innføre et særskilt fradrag i
-inntekten som betinges av at man har arbeidsinntekt. Et slikt arbeidsbetinget fradrag vil bidra til å
-redusere kompensasjonsgraden etter skatt for de
-ulike trygdeordningene, fordi nettoinntekten som
-lønnsmottaker øker. Et slikt fradrag vil isolert sett
-kunne ha en høy kostnad. Det er imidlertid mulig
-å begrense kostnaden dersom en finansierer hele
-eller deler av fradraget gjennom å redusere mer
-generelle inntektsfradrag. Utvalget viser i denne
-forbindelsen til at regjeringen har signalisert at
-den vurderer en slik ordning parallelt med gjennomføringen av den pågående skattereformen.69
-Det kan være ønskelig å bedre insentivene til
-arbeid for dem som allerede er i jobb, men som
-har lav lønn. Lavere skattesatser på arbeid kan da
-gi økt arbeidstilbud. Det skyldes at det man får
-igjen for å arbeide litt mer, øker. Dette omtales
-ofte som substitusjonsvirkningen av lavere skattesats på arbeid. Samtidig trekker inntektsvirkningen mot lavere arbeidstilbud: Når lønnstakeren
-får økt disponibel inntekt som følge av lavere
-skatt, vil den økte inntekten delvis bli brukt til å
-øke konsumet av fritid, det vil si at arbeidstilbudet
-går ned. Empirisk forskning på norske data tyder
-på at substitusjonsvirkningen normalt er sterkere
-enn inntektsvirkningen for dem som allerede arbeider, det vil si at arbeidstilbudet øker når skattesatser reduseres. Virkningen er sterkest for lavinntektsgrupper og for gifte kvinner, men svakere for aleneboende og gifte menn.70
-Mulighetene til å målrette skattelettelser for
-enkeltgrupper er likevel svært begrenset, noe
-som er påpekt av flere utvalg.71 Skatter og avgifter
-er generelle virkemidler i den forstand at en even69
-
-Meld. St. 4 (2015–2016) Bedre skatt (Skattemeldingen),
-punkt 6.6. Beregninger av sysselsettingsvirkninger og kostnader ved ulike modeller for jobbskattefradrag finnes hos
-Bhuller, M., Vestad, O. & Aaberge, R. (2016). Virkninger av
-jobbskattefradrag på innvandreres arbeidstilbud. Rapporter
-28/2016, Statistisk sentralbyrå.
-70
-Thoresen, T.O. & Vattø, T.E. (2015). Validation of the discrete choice labor supply model by methods of the new tax
-responsiveness literature, Labour Economics 37, s. 38–53.
-71
-NOU 2003: 9 Skatteutvalget og NOU 2014: 13 Kapitalbeskatning i en internasjonal økonomi.
-
-tuell særskilt skattelettelse i liten grad kan målrettes mot en bestemt mottakergruppe. Reglene må
-utformes slik at alle som tilfredsstiller visse kriterier, får den aktuelle skatte- eller avgiftslettelsen.
-Skatter og avgifter er dermed lite egnede virkemidler i situasjoner der formålet er å støtte aktiviteter eller virksomheter som skal tilfredsstille et
-sett av kriterier og/eller hvor det skal være rom
-for skjønn. Jo mer målrettet en ønsker at støtten
-skal være, desto mindre egnet vil skatte- og avgiftssystemet normalt være sammenliknet med direkte støtte over statsbudsjettet.
-Skattesystemets begrensede muligheter til å
-målrette skatteletter mot lavinntektsgrupper kan
-illustreres med følgende: Å redusere skattesatser
-på lave inntektsnivåer ved å redusere satsene i
-trinn 1 og 2 i trinnskatten (som i 2017 gjelder for
-personinntekter mellom 164 100 og 580 650 kr) vil
-bedre arbeidsinsentivene for lønnstakerne i
-denne gruppen. Men kostnaden blir høy fordi
-satsreduksjonen også gir lavere skatt for trygdemottakere og pensjonister og for alle med høyere
-personinntekter enn inntektsintervallet som dekkes av trinn 1 og 2. Arbeidsinsentivene til lønnstakerne i den sistnevnte gruppen (de med høyere
-inntekter) svekkes dessuten fordi gjennomsnittsskatten reduseres uten at marginalskatten reduseres. Økninger i generelle bunnfradrag er heller
-ikke målrettet, fordi også dette vil gi lettelser for
-personer med høye inntekter og for andre grupper enn lønnstakere. I tillegg vil økte bunnfradrag
-i hovedsak bare gi lavere gjennomsnittsskatt uten
-å redusere marginalskatten.72
-På arbeidsgiversiden er det først og fremst arbeidsgiveravgiften i skattesystemet som påvirker
-etterspørselen etter arbeidskraft. Men det kan
-også tenkes mer særskilte skatteordninger som
-bidrar til å øke etterspørselen i enkeltnæringer
-som i stor grad ansetter arbeidskraft med lav lønn.
-Slike ordninger blir imidlertid ofte lite målrettede,
-med stor risiko for at kostnadene blir høye sammenliknet med sysselsettingsvirkningen. Høye
-kostnader gir mindre rom for generelle satsreduksjoner, herunder på arbeid. I tillegg vil ordninger
-som skattemessig favoriserer enkeltnæringer, gi
-et samfunnsmessig velferdstap ved at ressurser
-ikke lenger investeres der hvor de kaster mest av
-seg for samfunnet.
-Det er mulig å legge til rette for en generell bedring av insentivene til arbeid gjennom en gene72
-
-Beregninger publisert av Finansdepartementet basert på
-Statistisk sentralbyrås arbeidstilbudsmodell LOTTE-Arbeid
-viser f.eks. at økte bunnfradrag ikke har virkning av betydning på arbeidstilbudet.
-
-[Side 215]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-rell reduksjon i skattesatsene på arbeid. I den forbindelse vises det til at marginalskatten på arbeid
-over tid har blitt redusert betydelig med skiftende
-regjeringer. Skattereformen 2006, som ble iverksatt av regjeringen Stoltenberg II, innebar en betydelig reduksjon i skattesatsene på arbeid, særlig
-for personer med middels og høye inntekter. Den
-pågående skattereformen reduserer også marginalskatten moderat for et stort antall personlige
-skattytere både på lavere og på høyere inntektsnivåer.
-
-10.5 Systematisk utprøving og
-evaluering
-Det finnes allerede mye kunnskap om effekten av
-arbeidsmarkedspolitikken og en del om særskilte
-innsatser/tiltak for innvandrere, men det er fortsatt mye vi ikke vet. I mange tilfeller vil kunnskap
-om effekter heller ikke så lett la seg avdekke ved
-hjelp av eksisterende data og organisering av tiltak/ordninger.
-Tegn til for lite arbeidsretting i introduksjonsprogrammet og problemene knyttet til oppfølging
-av personer med liten eller ingen utdanning etter
-endt program, peker i retning av å styrke arbeidsrettingen. Samtidig er det mye som tyder på at det
-er rom for å forbedre utdannings- og opplæringsmulighetene for flyktninger og muligens også andre innvandrergrupper i Norge. Det er også tegn
-til at kombinasjonsløp (utdanning/opplæring
-kombinert med arbeidsrettede tiltak) eller «tiltakskjeder» (ulike tiltak i en bestemt rekkefølge)
-kan fungere, for noen grupper og/eller under
-visse omstendigheter.
-Mye av innsatsen som rettes mot flyktninger i
-integreringsarbeidet, både i introduksjonsprogrammet og gjennom f.eks. arbeidsmarkedstiltak
-i NAV, er basert på en individuell vurdering av behov og hensiktsmessighet. Flyktningenes egne
-preferanser og motivasjon spiller også inn. Sett fra
-et forskningsperspektiv skaper en slik situasjon
-vanskeligheter i tolkningen av resultatene for
-ulike typer innsats og for ulike grupper, fordi det
-kan være betydelige seleksjonsskjevheter knyttet
-til hva slags tilbud eller tiltak den enkelte flyktning har fått eller deltatt i. I tillegg er mye av integreringsarbeidet i Norge desentralisert, dvs. ved
-at det foregår i den enkelte kommunen eller med
-hjelp fra det lokale NAV-kontoret, og kan være påvirket av lokale forhold. Det er følgelig behov for
-mer kunnskap om hvordan integreringsarbeidet
-foregår i kommunen, ved NAV-kontoret og innenfor voksenopplæringen.
-
-215
-
-Kapittel 10
-
-Det er sjelden helt klart nøyaktig hva slags tiltak, endringer, kombinasjoner eller «kjeder» som
-fungerer best, og hva det burde satses mer på.
-Det er også mulig at én type tiltak/løp fungerer
-best for noen, mens en annen fungerer best for andre. I en slik situasjon, når vi ikke vet nøyaktig hva
-som fungerer best og eventuelt for hvem, blir det
-hensiktsmessig å prøve ut ulike modeller og å evaluere disse enten opp mot den nåværende situasjonen/organiseringen eller opp mot hverandre.
-Eksperimenter innebærer alltid en viss grad av
-forskjellsbehandling, fordi noen deltakere får én
-type behandling mens andre får en annen (eller ingen) behandling.
-Dagens system for integreringstiltak, med omfattende prosesser rundt bosetting og et introduksjonsprogram som går over flere år, er ressurskrevende. Det er ikke opplagt at kvaliteten i arbeidet
-knyttet til disse oppgavene vil kunne opprettholdes hvis et større antall skal gå gjennom systemet
-over flere år. Det kan derfor være nødvendig med
-sterkere prioriteringer, og for å gjøre det på en
-god måte, er det behov for kunnskap.
-Randomiserte, kontrollerte eksperimenter blir
-ofte ansett som «gullstandarden» for evidensbasert kunnskap, og utvalget oppfordrer til mer utprøving basert på slike evalueringer. Det er imidlertid også svakheter ved eksperimenter. Eksperimenter har stor «intern validitet». Det betyr at
-analyser av eksperimenter gir godt grunnlag for å
-si at «behandlingen» slik den ble gjennomført i eksperimentet, faktisk hadde en effekt (eller ikke). I
-mange tilfeller viser det seg imidlertid at effekten
-ikke er like stor (eller i det hele tatt til stede) når
-behandlingen innføres for større populasjoner.
-Det kan være flere grunner til det, men én av dem
-er at man ikke klarer å opprettholde like god kvalitet ved innføring i den virkelige verden, muligens
-med «behandlere» som ikke er like godt forberedt
-eller kvalifiserte som i den eksperimentelle sammenhengen. Når det gjelder arbeidsintegrering av
-innvandrere er den virkelige verdenen ute i kommunene, NAV-kontorene og utdanningsinstitusjonene. Det er der grunnlaget for integrering av innvandrere skjer.
-Gradvis innføring av en endring eller en ny
-ordning i ulike regioner eller for ulike grupper
-over tid er et eksempel på en annen måte å tilrettelegge for evaluering på. Det innebærer at ulike
-«systemer» eksisterer parallelt og lar seg analysere ved hjelp av «kvasi-eksperimentelle» metoder. Ideelt sett burde det være tilfeldig hva slags
-region eller gruppe som får innført endringen i de
-ulike periodene. Utvalget registrerer at tilnærmingene, tiltakene og framgangsmåten innenfor inte-
-
-[Side 216]
-
-216
-
-Kapittel 10
-
-NOU 2017: 2
-Integrasjon og tillit
-
-greringsarbeidet sjelden evalueres med metoder
-som kan gi gode svar om virkninger og kausale effekter, og anerkjenner at det er krevende å tilrettelegge for og gjennomføre slik forskning, gitt rammebetingelsene og organiseringen av integreringsarbeid i Norge i dag. Vi vet for lite om effekten av språkopplæring og om språkopplæring
-eventuelt kunne forbedres gjennom annen satsing
-eller organisering. Det er for lite kunnskap om
-hva slags tilnærminger og tiltak som brukes
-innenfor introduksjonsprogrammet i de enkelte
-kommunene og om enkelte kommuner klarer å
-oppnå bedre resultater over lengre tid (se kap.
-10.3.3). Utvalget mener at det generelt trengs mer
-kunnskap om hva som virker innenfor introduksjonsprogrammet. Mens det finnes noen effektstudier av arbeidsmarkedstiltak for innvandrere,
-mener utvalget at vi fortsatt vet for lite om hvordan NAV jobber med integrering av flyktninger
-innenfor introduksjonsprogrammet, og videre
-kunnskap trenges også om hvordan arbeidsmarkedspolitikken kan brukes for å oppnå best mulig
-effekt når det gjelder å sikre varig fotfeste for innvandrere på arbeidsmarkedet. Uten kunnskap fra
-effektstudier av høy vitenskapelig kvalitet mener
-utvalget at det ikke vil være mulig å bedre effektiviteten i integreringsarbeid framover og veilede
-kommuner om høy kvalitet innenfor integreringsarbeid.
-Utvalget mener at eksperimenter eller tilrettelegging for kvasieksperimentelle analyser bør tilstrebes i større grad når endringene og innovasjonene innenfor integreringsarbeidet i Norge diskuteres eller planlegges. I den grad det er realistisk,
-gitt politiske og administrative rammer, bør det i
-større grad planlegges for evaluering av en endring samtidig som man planlegger innføringen av
-endringen.
-
-10.6 Oppsummering
-Det norske velferdssamfunnet står overfor en periode med økende forsørgerbyrde og mindre
-handlingsrom i den økonomiske politikken. Utvalget vurderer høy innvandring som en tilleggsutfordring i dette helhetsbildet (se kap. 8).
-For at arbeidslivet og velferdsstaten skal settes
-i stand til å møte høy migrasjon, må integreringsevnen styrkes, slik at flyktninger i større grad blir
-en del av det ordinære arbeids- og samfunnslivet.
-Det har derfor vært viktig å identifisere de trekk
-og mekanismer ved det norske velferds- og arbeidslivssystemet som utfordres av høy innvand-
-
-ring, og å vurdere hva som kan gjøres for at det
-skal bli mer robust og i større grad tjene som en
-ressurs i håndteringen av disse utfordringene.
-Analysene i denne utredningen bygger videre
-på NOU 2011: 7, der aktivisering, kvalifisering og
-tilrettelegging representerte de viktigste anbefalingene. Disse overordnede redskapene må fortløpende utvikles og justeres i tråd med viktige
-endringer i samfunnsøkonomien og i intensiteten
-i tilstrømningen. De bør også justeres og utvikles i
-tråd med de systematiske evalueringene av alle
-større satsinger som dette utvalget anbefaler.
-På basis av situasjonen i 2016, har utvalget i
-dette kapitlet trukket fram noen sentrale virkemidler som bør justeres innenfor det gjeldende integrasjonsregimet, for å bedre kunne sikre at velferdsordningene kan opprettholdes på et høyt
-nivå i en situasjon med stor tilstrømning av asylsøkere og flyktninger. Utvalget har lagt vekt på å forbedre virkemidlenes treffsikkerhet og mottaksog integreringsapparatets funksjonsdyktighet.
-Utvalget understreker betydningen av å se de
-ulike stadiene i sammenheng og å fremme kombinerte løsninger for økt sysselsetting og integrasjon. Mer spesifikt vil utvalget understreke:
-– Tiltak som bidrar til aktivisering og fremmer
-integrering på sikt, bør starte allerede i asylmottakene for å utnytte ventetiden og motvirke
-passivisering. Noen slike tiltak – norskopplæring, informasjon om norske samfunnsforhold
-og kompetansekartlegging – bør også omfatte
-asylsøkere som venter på utfallet av asylsøknaden, ikke bare flyktninger som venter på bosetting. Det er spesielt viktig at barn og unge i
-mottak kommer raskt inn i det ordinære tilbudet i barnehage og skole.
-– Bosettingen av flyktninger bør fortsatt bygge
-på at staten inngår avtaler med kommunene
-om bosetting – så langt dette er tilstrekkelig for
-å få bosatt alle det er behov for. Hvis kommunene ikke tilbyr nok plasser, og det blir svært
-mange som venter lenge i mottak, må staten
-kunne ta i bruk en beredskapsordning som sikrer at flyktninger kan flytte ut av mottak og bli
-bosatt innen rimelig tid. Utformingen av en slik
-ordning, og hvilke konsekvenser den kan ha
-for ansvarsdelingen mellom stat og kommune,
-må utredes nærmere.
-– Mulighetene for en viss justering av kriteriene
-for bosetting i retning av større vekting av lokalt og regionalt arbeidsmarked, ev. også utdanningstilbud, bør vurderes. En dreining mot
-i sterkere grad å bosette flyktninger med relevant kompetanse i kommuner/regioner der
+[^37]: En empirisk analyse av hvordan endringer i asylpolitikk og tilbud til asylsøkere i enkelte land kan påvirke tilstrømningen til andre land er inne på slike virkninger. Denne er presentert i et notat av Brekke, J., Røed, M. og Schøne, P. (2016). *Reduction or deflection. The Effect on Policy on Interconnected Asylum Flows.* Publisert på Social Science Research Network 22.3.2016. En annen analyse hevder imidlertid at mottaks- og integreringstilbud har lite å si for antall asylsøkere. Se: Hatton, T. (2016). 60 Million Refugees. Refugees, Asylum Seekers, and Policy in OECD Countries. *American Economic Review: Papers and Proceedings 2016*, 106(5): 441-445.
+
+[^38]: Se OECD (2016d) *Making Integration Work. Refugees and others in need of protection* og Meld. St. 30 (2015–2016) *Fra mottak til arbeidsliv – en effektiv integreringspolitikk*.
+
+[^39]: Meld. St. 30 (2015–2016). *Fra mottak til arbeidsliv – en effektiv integreringspolitikk* og Innst. 399 S (2015–2016).
+
+[^40]: Nasjonalt utvalg for bosetting av flyktninger og etablering og nedlegging av mottak samt omsorgssentre (NU). Utvalget har like mange representanter for staten og for kommunesektoren og ledes av staten v/ IMDi. 413 av 428 kommuner hadde avtale med IMDi om å bosette flyktninger i 2016. Utvalget har et eget mandat. Dette arbeidet er regulert gjennom en egen avtale mellom staten og KS.
+
+[^41]: Kommunene kan tilby introduksjonsprogram også for flyktninger som ikke er bosatt etter avtale, men er ikke pliktige til å gjøre det. Flyktninger har rett til opplæring i norsk og samfunnskunnskap fra innvilget oppholdstillatelse, uavhengig om de er bosatt etter avtale mellom stat og kommune, men de må selv søke kommunen om opplæring hvis det ikke foreligger avtale.
+
+[^42]: I 2015 var det om lag 100 kommuner som praktiserte avtalt selvbosetting, de fleste større kommuner på Østlandet. Per 30.11.2016 hadde nærmere 750 personer blitt bosatt på denne måten i inneværende år, dvs. vel 5 pst. av alle bosatte.
+
+[^43]: Henningsen, E, Dyb E., Kasahara, Y., Søholt, S., Tronstad, K.R. (2016). *Avtalt selvbosetting blant flyktninger*. NIBR-rapport 2016:5.
+
+[^44]: Midlene er ikke øremerket, og kommunen står fritt til å bruke et ev. overskudd på andre områder. Det kan derfor lønne seg å finne løsninger som bidrar til at flyktninger raskt kommer i ordinært arbeid, eller som er billige for kommunen.
+
+[^45]: Se forslag i høringsbrev av 31.1.2011 fra daværende Barne-, likestillings- og inkluderingsdepartementet med forslag til bosettingsordning for flyktninger med mål om raskere bosetting. Forslaget innebar at prinsippet om frivillighet kunne fravikes i visse situasjoner. https://www.regjeringen.no/no/dokumenter/forslag-til-bosettingsordning-for-flyktn/id635673/
+
+[^46]: Se forslag i høringsbrev av 31.1.2011. Ibid.
+
+[^47]: Statistikken er basert på grunnlaget for UDIs beslutninger om oppholdstillatelse, som for EØS-borgere ble erstattet av en registreringsordning hos politiet fra 1. oktober 2009. For innvandrere fra Bulgaria og Romania skjedde dette fra 15. juni 2012.
+
+[^48]: De høye asylsøkertallene i 2002 og 2009, da det kom over 17 000 hvert av årene, fikk bare begrenset virkning for antallet som de påfølgende årene fikk opphold med flukt som innvandringsgrunn.
+
+[^49]: 1999 er et unntak fra dette. Da fikk mange fra Kosovo kollektiv beskyttelse, uten først å ha vært asylsøkere. Disse ble registrert som innvandret fra tidspunktet de kom til Norge.
+
+[^50]: Kornstad, T., Skjerpen, T. & Stambøl, L. (2016). *Utvandring blant innvandrere i Norge. Del 2: Analyser basert på mikrodata*. Rapporter 27/2016, Statistisk sentralbyrå.
+
+[^51]: Kolsrud, D, von Simson, K., Røed, M. & Schøne, P. (2016) *Bidrag og belønning – om innvandrere i det norske arbeidsmarkedet*. Institutt for samfunnsforskning, Rapport 2016:04.
+
+[^52]: Bratsberg, B., Raaum, B. & Røed, K. (2016). Flyktninger på det norske arbeidsmarkedet. *Søkelys på arbeidslivet* 33 (3), 185-207.
+
+[^53]: Personer med innvandrerbakgrunn er her definert som innvandrere (personer som er født i utlandet av to utenlandsfødte foreldre og fire utenlandsfødte besteforeldre) og norskfødte med to utenlandsfødte foreldre (dvs. to foreldre som er innvandrere). Se kap. 2.4 for mer om begreper og betegnelser benyttet i utredningen.
+
+[^54]: Cappelen, Å., Skjerpen, T. & Tønnesen, M. (2016). Befolkningsframskrivinger 2016-2100: Inn- og utvandring. *Økonomiske analyser*, 3/2016, Statistisk sentralbyrå.
+
+[^55]: Samlet fruktbarhetstall (SFT) er summen av fruktbarhetsratene for hvert av alderstrinnene fra 15 til 49 år, og svarer til hvor mange barn en kvinne vil få i gjennomsnitt, gitt disse fruktbarhetsratene, og at hun gjennomlever hele den fruktbare perioden.
+
+[^56]: De statistiske analysene tyder ikke på at brohodeeffekten har hatt betydning for landgruppene 1 og 2. Det samme gjelder nivået på arbeidsledigheten i landgruppe 3 og størrelsen på befolkningen i landgruppe 1.
+
+[^57]: Det gjenspeiler at det er svært usikkert hvor mange personer som kommer til Norge i årene framover. En illustrasjon på dette er den uventede økningen i antall asylsøkere høsten 2015 og den påfølgende lave antallet søkere i 2016 som har ligget betydelig under prognosene.
+
+[^58]: Dzamarija, M. (2014). *Oversikt over personer med ulik grad av innvandringsbakgrunn*. Rapporter 16/2014, Statistisk sentralbyrå.
+
+[^59]: En oversikt finnes i Salvanes, K. G. (2012). Hva lærte vi på skolen i dag? *Samfunnsøkonomen* nr. 9 2012.
+
+[^60]: Huang, J., Maassen van den Brink, H. & Wim, G. (2009). A meta-analysis of the effect of education on social capital. *Economics of Education Review*, Elsevier, 28(4), 454–464.
+
+[^61]: Ljunge, M. (2014). Trust issues: Evidence on the intergenerational trust transmission among children of immigrants. *Journal of Economic Behavior & Organization*, 106, oktober 2014, 175–196.
+
+[^62]: Heckman, J.J. (2008). Schools, skills and synapses. *Economic Inquiry* 46 (3), 289–324.
+
+[^63]: Berg, S. L., Bjørnstad, R., Gran, B., Kostøl, F., Sønsterudbråten, S. & Kindt, K. (2016). *Kostnader ved mangelfull utdanning av asylsøkere og flyktninger*. Rapport nr. 32-2016, Samfunnsøkonomisk analyse AS og Fafo.
+
+[^64]: Berg, S.L., Bjørnstad, R., Gran, B. & Kostøl, F. (2016). *Kostnader ved mangelfull utdanning av barn med innvandrerbakgrunn*. Rapport nr. 36-2016 Samfunnsøkonomisk analyse AS.
+
+[^65]: Hardoy, I. & Schøne, P. (2011). Returns to Pre-Immigration Education for Non-Western Immigrants: Why so low? *Education Economics* 19 (1), 1–25.
+
+[^66]: Bratsberg, B., Raaum, O. & Røed, K. (2016). Flyktninger på det norske arbeidsmarkedet, *Søkelys på arbeidslivet 33 (3)*, 185–207.
+
+[^67]: Arendt, J.N., Pohl Nielsen, C. & Jakobsen, V. (2016). The Importance Of Origin And Destination Country Skills For Labour Market Attachment Of Immigrants From Pakistan, Iran And Turkey, *Nordic Journal of Migration Research* 6 (2), 72–80.
+
+[^68]: Bratsberg, B., Raaum, O. & Røed, K. (2014). Immigrants, Labour Market Performance and Social Insurance. *The Economic Journal*, 124 (580), F644–683.
+
+[^69]: Arslan, C., Dumont, J.-C., Kone, Z., Moullan, Y., Ozden, C., Parsons, C. & Xenogiani, T. (2014). *A New Profile of Migrants in the Aftermath of the Recent Economic Crisis*. OECD Social, Employment and Migration Working Papers, No. 160, OECD Publishing.
+
+[^70]: Ehrlich, I. & Kim, J. (2015). Immigration, Human Capital Formation, and Endogenous Economic Growth. *Journal of Human Capital*, 9 (4), 518 – 563.
+
+[^71]: Steinkellner, A. (2015). *Befolkningens utdanningsnivå og arbeidsmarkedsstatus*. Rapporter 11/2015, Statistisk sentralbyrå.
+
+[^72]: Lauglo, J. (2010). *Unge fra innvandrerfamilier og sosial kapital for utdanning*. Kunnskapsoversikt, Norges forskningsråd.
+
+[^73]: Havnes, T. & Mogstad, M. (2011). No Child Left Behind: Subsidized Child Care and Children’s Long-Run Outcomes. *American Economic Journal: Economic Policy*, 3 (2), 97–129. Drange, N. & Telle, K. (2015). Promoting integration of immigrants: Effects of free child care on child enrollment and parental employment. *Labour Economics* 34, 26–38.
+
+[^74]: Berg, B. & Tronstad, K.R. (2015). *Levekår for barn i asylsøkerfasen*. NTNU Samfunnsforskning, Trondheim.
+
+[^75]: Kilde: Kunnskapsdepartementet
+
+[^76]: Barnehagestatistikken har andre definisjoner av innvanderbakgrunn enn den øvrige statistikken. Den er beregnet ut fra barnehagenes innrapportering av antall barn med annet morsmål enn norsk, samisk, dansk, svensk og engelsk. Dette tallet divideres på antall innvandrere og etterkommere i samme alder med landbakgrunn fra land i tilsvarende språkgrupper. Minoritetsspråklige barn utgjorde 13 prosent av alle barn i barnehagen i 2013.
+
+[^77]: Moafi, H. & Bjørkli, E.S. (2011). *Barnefamiliers tilsynsordninger, høsten 2010*. Rapporter 34/ 2011, Statistisk sentralbyrå.
+
+[^78]: Bråten, B., Drange, N., Haakestad, H. & Telle, K. (2014). *Gratis kjernetid i barnehager*. Sluttrapport. Fafo-rapport 2014:44.
+
+[^79]: Retten til grunnskoleopplæring gjelder når det er sannsynlig at barnet skal være i Norge i mer enn 3 måneder. Plikten inntrer når oppholdet har vart i 3 måneder.
+
+[^80]: Berg, B. & Tronstad, K. R. (2015). *Levekår for barn i asylsøkerfasen*. NTNU Samfunnsforskning, Trondheim; Bachmann, K. Bergem, B. G. & Hervik, A. (2015). *Grunnskoleopplæring til barn og unge som bor i asylmottak og omsorgssentre*. Rapport nr. 1516, Møreforskning.
+
+[^81]: Berg, B. & Tronstad, K.R. (2015). *Levekår for barn i asylsøkerfasen*. NTNU Samfunnsforskning, Trondheim.
+
+[^82]: Se figur II.3.4 og II.3.8 i OECD (2013). *PISA 2012 Results: Excellence Through Equity. Giving Every Student The Chance To Succeed.* (Volume II) OECD Publishing; og figur I.7.4 i OECD (2016f). *PISA 2015 Results (Volume I): Excellence and Equity In Education*. OECD publishing.
+
+[^83]: OECD (2015). *Immigrant Students at School: Easing the Journey towards Integration*. OECD Publishing.
+
+[^84]: Lauglo, J. (2010). *Unge fra innvandrerfamilier og sosial kapital for utdanning*. Kunnskapsoversikt, Norges forskningsråd; Bakken, A. (2010). *Prestasjonsforskjeller i Kunnskapsløftets første år – kjønn, minoritetsstatus og foreldres utdanning*. NOVA Rapport 9/2010.
+
+[^85]: Kilde: Kompetanse Norge/Vox.
+
+[^86]: Kapittel 3.8.1 i Meld. St. 16 (2015–2016) *Fra utenforskap til ny sjanse. Samordnet innsats for voksnes læring.*
+
+[^87]: Norwegian Ministries (2016). *Immigration and Immigrants 2014–2015*. IMO Report for Norway.
+
+[^88]: Kilde: Kompetanse Norge/Vox.
+
+[^89]: Se figur 3.4 i Meld. St. 16 (2015–2016) *Fra utenforskap til ny sjanse* og figur 2.10 i Proba (2011). *Utfall på arbeidsmarkedet for voksne som fullfører videregående utdanning*. Rapport 2011/04 Proba samfunnsanalyse.
+
+[^90]: https://www.regjeringen.no/no/aktuelt/betre-bruk-av-kompetansen-til-innvandrarane/id2514400/
+
+[^91]: Myndighetene skal sette ned en ekspertgruppe som skal utrede livsopphold for voksne som tar grunnskole eller videregående opplæring.
+
+[^92]: Forskrift om arbeidsmarkedstiltak (tiltaksforskriften) § 7-3 og § 7-4: Forskrift om arbeidsmarkedstiltak (tiltaksforskriften) § 7-3: Opplæring kan gis til personer med behov for kvalifisering. Tiltaksdeltakere på arbeidsmarkedskurs og yrkesrettet opplæring skal være over 19 år. Tiltaksdeltakere på ordinær utdanning skal være over 22 år. \[…\] Opplæring i form av yrkesrettet opplæring kan gis til personer med svake formelle kvalifikasjoner eller svake grunnleggende ferdigheter som medfører betydelige vanskeligheter med å komme inn på arbeidsmarkedet. Tilbud om yrkesrettet opplæring i form av videregående opplæring kan bare gis til personer som står uten rett etter opplæringsloven eller introduksjonsloven. \[…\] Opplæring i form av ordinær utdanning kan gis til personer over 22 år som ha fått sin arbeidsevne nedsatt slik at vedkommende hindres i å skaffe seg eller beholde inntektsgivende arbeid. Tilbudet skal tilpasses og avgrenses mot den opplæringen som kommuner og fylkeskommuner har ansvaret for iht. opplæringsloven og introduksjonsloven.
+
+[^93]: Norwegian Ministries (2016). *Immigration and Immigrants 2014–2015*. IMO Report for Norway.
+
+[^94]: Se også oppsummering i Sletten, M.A. & Hyggen, C. (2013). *Ungdom, frafall og marginalisering*. Temanotat, Norges forskningsråd.
+
+[^95]: Bratsberg, B., Raaum, O., & Røed, K. (2012). Educating children of immigrants: closing the gap in Norwegian schools. *Nordic Economic Policy Review, 3*(1), 211-251.
+
+[^96]: Støren, L.A. (2010). *Unge innvandrere i utdanning og overgang til arbeid*. Rapport 45/2010, NIFU.
+
+[^97]: Dette gjelder særlig flyktninger. Når det gjelder arbeidsinnvandrere, kommer de til Norge for å arbeide, og dette er hovedårsaken til at de ikke tar utdanning.
+
+[^98]: Støren, L.A. (2010). *Unge innvandrere i utdanning og overgang til arbeid*. Rapport 45/2010, NIFU.
+
+[^99]: Bare 10 pst. av innvandrere fra Somalia og 20 pst. fra Irak i alderen 20–24 er i høyere utdanning, ifølge Østby, L. (2015). «Flyktninger i Norge». Artikkel, Statistisk sentralbyrå. At over 40 pst. av somaliere som har tatt videregående i Norge, går inn i høyere utdanning, tyder på at veldig mange somaliere i Norge ikke tar en videregående utdanning i Norge. Det samme gjelder for irakere.
+
+[^100]: Caspersen, J., Hovdhaugen, E. & Karlsen, H. (2012). *Ulikhet i høyere utdanning. En litteraturgjennomgang for perioden 2002–2012*. Rapport 32/2012 NIFU.
+
+[^101]: I tillegg har noen studier spesielle opptakskrav. Det finnes også andre veier til opptak som ikke omtales her (se Samordna opptak).
+
+[^102]: http://www.nokut.no/no/Fakta/Databaser-og-oversikter/GSU-listen/
+
+[^103]: http://khrono.no/2016/11/komplemeterende-utdanning.
+
+[^104]: Tilbudet ble fra 1. januar 2015 redusert fra 250 timer.
+
+[^105]: 1 800 av disse ble seinere samme år innvilget opphold og deltok i den ordinære opplæringen i norsk og samfunnskunnskap.
+
+[^106]: Meld. St. 30 (2015–2016) *Fra mottak til arbeidsliv. En effektiv integreringspolitikk*.
+
+[^107]: Evalueringen, som gjennomføres av Fafo, vil foreligge i løpet av 2017. Se: http://www.fafo.no/index.php/nb/forskningstema/prosjekter/prosjekter-alle/item/evaluering-av-introduksjonsordning-og-norskopplaering.
+
+[^108]: Se SSBs nettsider for flere detaljer: http://www.ssb.no/utdanning/statistikker/nopplinnv/aar.
+
+[^109]: Informasjon om de ulike nivåene finnes på nettsiden til Kompetanse Norge, tidligere Vox: http://www.vox.no/contentassets/dbb0af88e28d48fb815a39cbb51082eb/vedlegg_provebevis_bm.pdf.
+
+[^110]: Siden prøve- og karaktersystemet for pliktig avsluttende norskprøve ble endret i 2014, er det ikke mulig å sammenlikne prøveresultatene før og etter det året.
+
+[^111]: Regjeringen har nylig varslet at den vil komme med et lovforslag om tydeligere nasjonale krav til norskspråklig kompetanse hos ansatte i barnehagen som arbeider med barn.
+
+[^112]: Rapportering fra Kompetanse Norge/Vox
+
+[^113]: Se bl.a. NOU 2010: 7 *Mangfold og mestring – Flerspråklige barn, unge og voksne i opplæringssystemet*.
+
+[^114]: Sterri, E.B. (2016). *Kapasitet i integreringsapparatet*. Fafo-notat 2016: 06.
+
+[^115]: Vox (2015). *Voksenlæreres kompetanse og kompetansebehov*.
+
+[^116]: Se www.ssb.no/introinnv.
+
+[^117]: Blom, S. & Enes, A. (2015). *Introduksjonsordningen – en resultatstudie*, Rapporter 36/2015, Statistisk sentralbyrå.
+
+[^118]: Statistikken er tilgjengelig på SSBs hjemmeside: http://www.ssb.no/utdanning/statistikker/introinnv/ aar-tidligere-deltakere/2016-12-19.
+
+[^119]: Blant kvinner er andelen med annen eller ukjent status (41 prosent) langt større enn blant menn (21 prosent). Blant kvinner i denne kategorien er det i hovedsak mottakere av sosialhjelp og dem med såkalt ukjent status som dominerer med henholdsvis 11 og 15 prosent. Én av sju kvinner er det ingen opplysninger om. Mange av dem med ukjent status er sannsynligvis hjemme med barn. I denne samlekategorien vil også de som deltar i grunnskoleopplæring være, dersom de ikke i tillegg har en deltidsjobb, mottar kontantstøtte eller på annen måte inngår i noen av de overnevnte kategoriene.
+
+[^120]: Enes, A. & Wiggen, K. (2016). *Tidligere deltakere i introduksjonsordningen 2009–2013*, Rapporter 24/2016, Statistisk sentralbyrå.
+
+[^121]: Djuve A.B. & Kavli H.C. (2015). *Ti års erfaringer*. Fafo-rapport 2015:26.
+
+[^122]: IMDi (2016). Årsrapport 2015, Integrerings- og mangfoldsdirektoratet; Djuve, A.B. & Kavli, H.C. (2015). *Ti års erfaringer En kunnskapsstatus om introduksjonsprogram og norskopplæring for innvandrere*, Fafo-rapport 2015:26.
+
+[^123]: Djuve A.B., Haakestad, H. & Sterri E.B. (2014). *Rett til utdanning? Grunnskoleopplæring og videregående opplæring som tiltak i introduksjonsordningen for nyankomne innvandrere*. Fafo-rapport 2014:34, Fafo. For statistikk over deltakelse i ulike tilbud i 2015, se www.ssb.no/utdanning/statistikker/introinnv.
+
+[^124]: Djuve, A.B., Hagelund, A. & Kavli, H.C. (2012). Innvandrede kvinner i kvalifisering. Arbeidslinja når helsa skranter, utdanningen er lav og barna mange. I Stjernø, S. & Øverbye, E. (red.) *Arbeidslinja. Arbeidsmotivasjon og velferdsstaten*. Universitetsforlaget.
+
+[^125]: Blom, S. & Enes, A. (2015). *Introduksjonsordningen – en resultatstudie*, Rapporter 36/2015, Statistisk sentralbyrå.
+
+[^126]: Becker, G. (1974). *Human Capital: A Theoretical and Empirical Analysis, with Special Reference to Education*, Second Edition. NBER Volume ISBN: 0-226-04109-3 Denne enkle teorien er senere modifisert, blant annet vil kostnader knyttet til gjennomtrekk av ansatte gi arbeidsgivere insentiver til å finansiere også mer generell opplæring. Acemoglu, D., & Pischke, J. S. (1999). Beyond Becker: training in imperfect labour markets. *The Economic Journal*, 109(453), 112-142, viser videre at opplæring kan være lønnsomt for arbeidsgivere i en økonomi med sammenpresset lønnsstruktur, med relativt sett høyere inntjening av høyproduktive ansatte.
+
+[^127]: I internasjonal sammenheng deltar sysselsatte innvandrere i Norge relativt mye i utdanning og ikke-formell opplæring.
+
+[^128]: Tani, M. (2015). *Local Signals and the Returns to Foreign Education*. IZA Discussion Paper No. 9597 December 2015; Herbert Brücker, H., Glitz, A., Lerche, A. & Romiti, A. (2015). *Occupational Recognition and Immigrant Labor Market Outcomes.* Working Paper, October 2015.
+
+[^129]: Niknami, S. & Schröder, L. (2012). *Utvärdering av kompletterande utbildning för akademiker med utländsk examen Juristutbildning, lärarutbildning och förvaltningskunskap*. Slutrapport, Institutet för social forskning (SOFI) og Stockholms universitet.
+
+[^130]: Dæhlen, M., Danielsen, K., Strandbu, Å. & Seippel, Ø. (2013). *Voksne i grunnskole og videregående opplæring*. Rapport 7/13, NOVA.
+
+[^131]: Statistikk som omtales i kapittel 5.2.1, er basert på SSBs registerbaserte sysselsettingsstatistikk. *Sysselsatte* defineres her som personer som utførte inntektsgivende arbeid av minst én times varighet i referanseuken, og personer som har et slikt arbeid, men som var midlertidig fraværende pga. sykdom, ferie, lønnet permisjon el. Personer som er inne til førstegangs verneplikt, regnes som sysselsatte. Personer på sysselsettingstiltak med lønn fra arbeidsgiver klassifiseres også som sysselsatte.
+
+[^132]: Bratsberg, B., Raaum, O. & Røed, K. (2014). Immigrants, labour market performance and social insurance. *The Economic Journal*, 124(580), F644-F683.
+
+[^133]: Her er ledighet definert som mottak av dagpenger.
+
+[^134]: Blom, S. (2014). *Sysselsetting og økonomiske overføringer blant sju ankomstkohorter av innvandrere observert i perioden 1993–2010*. Rapporter 38/2014, Statistisk sentralbyrå.
+
+[^135]: Blom, S. (2014). Ibid.
+
+[^136]: Blom, S. (2014). Ibid.
+
+[^137]: Bratsberg, B., Raaum, O. & Røed, K. (2010). When minority labor migrants meet the welfare state. *Journal of Labor Economics*, 28(3), 633-676.
+
+[^138]: Bratsberg, B., Raaum, O. & Røed, K. (2010). Ibid.
+
+[^139]: I tillegg til arbeidsinnvandrere fra land utenfor Europa som kom på 1970-tallet, omfattet analysen innvandrere som kom fra europeiske land på samme tid, pakistanske og tyrkiske innvandrere som kom i 1986–1990, innvandrere fra EØS-land i Sentral- og Øst-Europa som kom i årene 2004­2007, flyktninger som kom i årene 1986­1990 og 1996­2000 og flyktninger fra konfliktene på Balkan som kom i perioden 1991–1995.
+
+[^140]: Bratsberg, B., Raaum, O. & Røed, K. (2014). Immigrants, labour market performance and social insurance. *The Economic Journal*, 124(580), F644-F683.
+
+[^141]: Australia: Tani, M. (2015). *Local Signals and the Returns to Foreign Education*. IZA Discussion Paper No. 9597 December 2015; Tyskland: Herbert Brücker, H., Glitz, A., Lerche, A. & Romiti, A. (2015). *Occupational Recognition and Immigrant Labor Market Outcomes*. Working Paper, October 2015.
+
+[^142]: Hardoy, I. & og Schøne, P. (2011). Returns to Pre-Immigration Education for Non-Western Immigrants: Why so low? *Education Economics* 19 (1), 1-25.
+
+[^143]: Bratsberg B., Raaum O. & Røed K. (2016). Flyktninger på det norske arbeidsmarkedet. *Søkelys på arbeidslivet* 33 (3), 185-207.
+
+[^144]: Arendt J. N., Pohl Nielsen, C. & Jakobsen, V. (2016). The Importance Of Origin And Destination Country Skills For Labour Market Attachment Of Immigrants From Pakistan, Iran And Turkey, *Nordic Journal of Migration Research* 6 (2), 72-80.
+
+[^145]: Card, D., Kluve, J. & Weber, A. (2010). Active labour market policy evaluations: a meta-analysis. *The Economic Journal, 120*(548), F452-F477; Kluve, J. (2010). The effectiveness of European active labor market programs. *Labour economics, 17*(6), 904-918; Card, D., Kluve, J. & Weber, A. (2015). *What Works? A Meta Analysis of Recent Active Labor Market Program Evaluations*. IZA DP No. 9236.
+
+[^146]: Graversen, B. K. & Jensen, P. (2010). A reappraisal of the virtues of private sector employment programmes. *The Scandinavian Journal of Economics*, 112(3): 546-569; Staghøj, J., Svarer, M., & Rosholm, M. (2010). Choosing the Best Training Programme: Is there a Case for Statistical Treatment Rules?. *Oxford Bulletin of Economics and Statistics, 72*(2), 172-201.
+
+[^147]: Card, D., Kluve, J., & Weber, A. (2010). Active labour market policy evaluations: a meta-analysis. *The Economic Journal, 120*(548), F452-F477; Card, D., Kluve, J. & Weber, A. (2015). What Works? A Meta Analysis of Recent Active Labor Market Program Evaluations. IZA DP No. 9236.
+
+[^148]: Kvinge, T. & Djuve, A. (2006). *Bruk av arbeidsmarkedstiltak for ikke-vestlige innvandrere*. Fafo-rapport 517.
+
+[^149]: Røed, K. & Raaum, O. (2006). Do labour market programmes speed up the return to work?. *Oxford Bulletin of Economics and Statistics, 68*(5), 541-568.
+
+[^150]: Hardoy, I. & Zhang, T. (2011). Innvandrere i arbeid: Hjelper arbeidsmarkedstiltak?. *Søkelys på arbeidslivet*, 27(4), 343-364.
+
+[^151]: Zhang, T. (2016). Virker arbeidspraksis i ordinær virksomhet etter sitt formål?. *Søkelys på arbeidslivet*, 32(1-2), 45-65.
+
+[^152]: Arendt, J.N. & Pozzoli, D. (2013). *Effekter af beskæftigelses- og uddannelsesrettede indsatser for ikke-vestlige ledige indvandrere: En oversigt over danske og internationale kvantitative studier*. KORA Det nationale Institut for Kommuners og Regioners Analyse og Forskning, København; Ekspertgruppen om udredning af den aktive beskæftigelsesindsats (2015). *Delrapportering: Integrationsindsatsen for nyankomne flygtninge og familiesammenførte udlændinge*.
+
+[^153]: Ekspertgruppen om udredning af den aktive beskæftigelsesindsats (2015). *Nye veje mod job – for borgere i udkanten af arbejdsmarkedet*.
+
+[^154]: Clausen, J., Heinesen, E., Hummelgaard, H., Husted, L. & Rosholm, M. (2009). The effect of integration policies on the time until regular employment of newly arrived immigrants: Evidence from Denmark. *Labour Economics*, 16 (4), 409-417.
+
+[^155]: Åslund, O. & Johansson, P. (2006). *Virtues of SIN: Effects of an immigrnat workplace introduction program*. IFAU Working Paper 2006:7.
+
+[^156]: Peterson, S. (2014). *Utrikes födda på arbetsmarknaden – en forskningsöversikt*. Stockholms universitets Linnécentrum för integrationsstudier (SULCIS).
+
+[^157]: Se kap. 5.1 i OECD (2015). *Indicators of Immigrant Integration 2015: Settling In*. OECD Publishing.
+
+[^158]: Jobbene er klassifisert som lavt, middels og høyt kvalifiserte basert på International Standard Classification of Occupations (ISCO) fra Internasjonal Labour Organization (ILO). Denne inndelingen er nærmere forklart i OECD (2015). Ibid., kap. 6.3.
+
+[^159]: Se kap. 6.4 i OECD (2015). *Indicators of Immigrant Integration 2015: Settling In.* OECD Publishing.
+
+[^160]: Se kap. 6.1 i OECD (2015). Ibid.
+
+[^161]: Se kap. 6.5 i OECD (2015). Ibid.
+
+[^162]: von Simpson, K. (2009). Kan vikarbyråarbeid være et springbrett til arbeidsmarkedet for ikke-vestlige innvandrere? *Søkelys på arbeidslivet* 26(3), 341-351.
+
+[^163]: Engebretsen, L.S., Salvanes, K. & Vassengen, J. (2012). Midlertidige stillinger – et springbrett til permanente stillinger? *Økonomiske analyser* 5/2012, 33-37.
+
+[^164]: Eichhorst, W. (2014). *Fixed-term contracts. Are fixed-term contracts a stepping stone to a permanent job or dead end?.* IZA World of Labor 2014: 45.
+
+[^165]: Nergaard, K., Barth, E. & Dale-Olsen, H. (2015). Lavere organisasjonsgrad, et spørsmål om nykommere? *Søkelys på arbeidslivet*, 32 (1-2), 91-110.
+
+[^166]: Nergaard, K., E. Barth & Dale-Olsen, H. (2015). Ibid.
+
+[^167]: Chiswick, B. R. (1978). The effect of Americanization on the earnings of foreign-born men. *The journal of political economy*, 897-921 Borjas, G. J. (1985). Assimilation, changes in cohort quality, and the earnings of immigrants. *Journal of labor Economics*, 463-489.
+
+[^168]: Hayfron, J. E. (1998). The performance of immigrants in the Norwegian labor market. *Journal of Population Economics, 11*(2), 293-303; Longva, P. & Raaum, O. (2003). Earnings assimilation of immigrants in Norway–A reappraisal. *Journal of Population Economics, 16*(1), 177-193; Barth, E., Bratsberg, B. & Raaum, O. (2004). Identifying earnings assimilation of immigrants under changing macroeconomic conditions. *The Scandinavian Journal of Economics, 106*(1), 1-22.
+
+[^169]: Hayfron, J. E. (1998). Ibid.; Longva, P. & Raaum, O. (2003). Ibid.; Barth, E., Bratsberg, B. & Raaum, O. (2004). Ibid.
+
+[^170]: Bratsberg, B., Raaum, O. & Røed, K. (2014). Immigrants, labour market performance and social insurance. *The Economic Journal, 124(*580), F644-F683.
+
+[^171]: Barth, E., Bratsberg, B. & Raaum, O. (2004). Ibid.
+
+[^172]: Kolsrud, D., Røed, M., Schøne, P. & von Simpson, K. (2016). Bidrag og belønning – om innvandrere i det norske arbeidsmarkedet, Rapport 2016:04, Institutt for samfunnsforskning.
+
+[^173]: Barth, E., Bratsberg, B. & Raaum, O. (2012). Immigrant wage profiles within and between establishments. *Labour Economics, 19*(4), 541-556.
+
+[^174]: Ekeland, A., Pajarinen, M. & Rouvinen, R. (2015). *Computerization and the Future of Jobs in Norway*. Utredning til Ludvigsen-utvalget.
+
+[^175]: Goos, M., Manning, A. & Salomons, A. (2014). Explaining job polarization: Routine-biased technological change and offshoring. *The American Economic Review, 104*(8), 2509-2526; David, H., & Dorn, D. (2013). 1. Title: The Growth of Low-Skill Service Jobs and the Polarization of the US Labor Market. *The American Economic Review, 103*(5).
+
+[^176]: David, H. (2015). Why are there still so many jobs? The history and future of workplace automation. *The Journal of Economic Perspectives, 29*(3), 3-30.
+
+[^177]: Dapi, B., Gjefsen, H.M., Sparrman, V. & Stølen, N.M. (2016). *Education-specific labour force and demand in Norway in times of transition*. Rapporter 31/2016, Statistisk sentralbyrå.
+
+[^178]: Tilbudsframskrivingen er gjort basert på Mosart-modellen og gitt de siste fem års trender i utdanning. Etterspørselen er basert på den makroøkonomiske modellen MODAG.
+
+[^179]: Olsen, B. (2016). *Unge med innvandrerbakgrunn i arbeid og utdanning 2014. Eksklusive EØS/EU-innvandrere*. Rapporter 9/2016, Statistisk sentralbyrå.
+
+[^180]: Olsen, B. (2016). Ibid.
+
+[^181]: Olsen, B. (2016). Ibid.
+
+[^182]: Olsen, B. (2016). Ibid.
+
+[^183]: Dalgard, A.B. (2016). *Enslige mindreårige flykninger i arbeid og utdanning , 2014. 90 pst. fra Afghanistan i arbeid eller utdanning etter fire år*. Statistisk sentralbyrå, publisert 14. mars 2016.
+
+[^184]: Dette drøftes i NOU 2011: 7 *Velferd og migrasjon*, se særlig boks 3.3.
+
+[^185]: Nordiske innvandrere inngår ikke i statistikken for innvandringsgrunn (se kap. 2.4).
+
+[^186]: Personer født i Norge med to norskfødte foreldre, 18–45 år i år 2000.
+
+[^187]: Blom, S. (2014). *Sysselsetting og økonomiske overføringer blant sju ankomstkohorter av innvandrere observert i perioden 1993–2010.* Rapporter 38/2014, Statistisk sentralbyrå.
+
+[^188]: Se kap. 2.4 for definisjon av landgrupper.
+
+[^189]: Dokken, T. (2015). Innvandrere og økonomisk sosialhjelp. *Arbeid og velferd* 3/2015, 45-60.
+
+[^190]: Enes, A. W. & Wiggen, K. S. (2016). *Tidligere deltakere i introduksjonsordningen 2009–2013*. Rapporter 24/2016, Statistisk sentralbyrå.
+
+[^191]: Før 2010 mottok disse personene enten attføringspenger, rehabiliteringspenger eller tidsubegrenset uførestønad. Fra 2010 ble disse ytelsene slått sammen til arbeidsavklaringspenger.
+
+[^192]: Bratsberg, B., Raaum, O. & Røed, K. (2010). When minority labor migrants meet the welfare state. *Journal of Labor Economics, 28*(3), 633-676.
+
+[^193]: Bratsberg, B., Raaum, O. & Røed, K. (2014). Immigrants, labour market performance and social insurance. *The Economic Journal, 124*(580), F644-F683.
+
+[^194]: Bratsberg, B., Raaum, O. & Røed, K. (2016). Flyktninger på det norske arbeidsmarkedet. *Søkelys på arbeidslivet* 33:3.
+
+[^195]: NOU 2011: 7 *Velferd og migrasjon*, figur 9.6.
+
+[^196]: Hamre, K. (2016). Økte forskjeller i kontantstøttebruk. Tilgjengelig på https://www.ssb.no/inntekt-og-forbruk/artikler-og-publikasjoner/okte-forskjeller-i-kontantstottebruk.
+
+[^197]: Hedding, B. (2016). Lavere sysselsetting blant mødre etter økt kontantstøttesats. *Arbeid og velferd* 3, 61-73.
+
+[^198]: Grødem, A. S. (2011). *Innvandrerbarn og bolig. Hva betyr boligen og bomiljøet for inkludering?* Oslo: Fafo, rapport nr. 32, se også Henriksen, K. (2010). *Levekår og kjønnsforskjeller blant innvandrere fra ti land*. Statistisk sentralbyrå, rapport nr. 6/2010.
+
+[^199]: Bratsberg, E., Røed, K. & Raaum, O. (2011). *Yrkesdeltaking på land sikt blant ulike innvandrergrupper i Norge*. Oslo: Frischsenteret, rapport nr. 1.
+
+[^200]: NOU 2011: 7 *Velferd og migrasjon*.
+
+[^201]: Tønseth, H. (2014). Flere enslige mødre avhengige av sosialhjelp. *Samfunnsspeilet* 1, 23-29.
+
+[^202]: Lien, O. C. (2015). Stønadsutbetalinger fra NAV til innvandrere. *Arbeid og Velferd* 3, 33–44.
+
+[^203]: Etterlattepensjon, alderspensjon, supplerende stønad.
+
+[^204]: Højsgaard Andersen, L., Schultz-Nielsen, M. & Tranæs, T. (2009). *Beskæftigelse og levevilkår for flygtninge med starthjælp som socialt sikkerhedsnet*. Rockwool Fondens Forskningsenhed, Arbejdspapir 25.
+
+[^205]: Arbeids- og velferdsdirektoratet, se også Hagelund, A., Øverbye, E., Hatland, A. & Terum, L.I. (2016). Sanksjoner – arbeidslinjas nattside? *Tidsskrift for velferdsforskning* 19 (1), 24–43.
+
+[^206]: Røed, K. & Westlie, L. (2012). Unemployment insurance in welfare states: the impacts of soft duration constraints. *Journal of the European Economic Association*, 10 (3), 518-554.
+
+[^207]: van den Berg, G., Uhlendorff, A. & Wolff, J. (2014). Sanctions for young welfare recipients. *Nordic Economic Review* 1, 177–208; van den Berg, G. & Vikström, J. (2014). Monitoring Job Offer Decisions, Punishments, Exit to Work, and Job Quality. *Scandinavian Journal of Economics* 116 (2), 284–334; OECD (2007). *Employment Outlook 2007. (Activating the unemployed)*.
+
+[^208]: Proba (2015). *Aktivitetsplikt for sosialhjelpsmottakere*, Proba Samfunnsanalyse, rapport nr. 2015–12.
+
+[^209]: Kilde: Prop.1 S (2016-2017), Prop. 13 L (2016–2017).
+
+[^210]: Dahl, E. & Lima, I. (2016). Krav om å stå opp om morra’n: Virker det? *Arbeid og Velferd* 3, 115–130
+
+[^211]: Hernæs, Ø., Markussen, S. & Røed, K. (2016). *Kompensasjonsgrader i inntektssikringssystemet for personer med svak tilknytning til arbeidsmarkedet*. Frischsenteret, rapport nr. 1/2016.
+
+[^212]: Hernæs, Ø., Markussen, S. & Røed, K. (2016). *Kompensasjonsgrader i inntektssikringssystemet for personer med svak tilknytning til arbeidsmarkedet*. Frischsenteret, rapport nr. 1/2016.
+
+[^213]: Frischsenteret (2016). *Response to generosity.* Notat.
+
+[^214]: NOU 2011: 7 *Velferd og migrasjon*.
+
+[^215]: NAV (2016). Utbetalinger til personer i utlandet. Statistikk for året 2015. https://www.nav.no/no/NAV+og+samfunn/Statistikk/Flere+statistikkomrader/Utbetalinger+til+personer+i+utlandet. For mer detaljerte analyser av mottakerne, se Dalgard, A.B. (2017). Flest med alderspensjon og barnetrygd i utlandet. http://www.ssb.no/sosiale-forhold-og-kriminalitet/artikler-og-publikasjoner/flest-med-alderspensjon-og-barnetrygd-i-utlandet.
+
+[^216]: Dalgard, A.B. (2017). Ibid.
+
+[^217]: NOU 2011: 7 *Velferd og migrasjon*, NOU 2011: 14 *Bedre integrering.*
+
+[^218]: EU Roadmap (COM/2009/0433 final). Report by the Commission on the Measurement of Economic Performance and Social Progress Tilgjengelig på http://www.insee.fr/fr/publications-et-services/ dossiers_web/stiglitz/doc-commission/ RAPPORT_anglais.pdf; OECD Better Life Index, http://www.oecdbetterlifeindex.org.
+
+[^219]: Helsedirektoratet (2016). *Gode liv i Norge. Utredning om måling av befolkningens livskvalitet.* Utgitt 6/2016.
+
+[^220]: En viktig referanse i denne diskusjonen er Piketty, T. (2014). *Capital in the Twenty-First Century*. Cambridge: Harvard University Press.
+
+[^221]: Aaberge, R. (2016). Inntektsulikhet i Norge i lys av Piketty-debatten. *Samfunnsspeilet* 1/ 2016.
+
+[^222]: Presist uttrykt: Gjennomsnittlig inntekt etter skatt per forbruksenhet i en treårsperiode under 60 pst. av mediangjennomsnittet i samme treårsperiode. Lavinntektsgrensen for en enslig person var 207 400 kroner etter skatt. En redegjørelse om definisjoner og beregningsmåter finnes i kapittel 2 i Omholt, E.L. (2016), *Økonomi og levekår for ulike lavinntektsgrupper 2016*. Rapporter 2016/30, Statistisk sentralbyrå.
+
+[^223]: Epland. J. & Revold, M.K. (2016). Vedvarende lavinntekt. I E.O. Omholt (red.). *Økonomi og levekår for ulike lavinntektsgrupper 2016*. Rapporter 2016/30, Statistisk sentralbyrå.
+
+[^224]: Ettersom man ikke følger de samme kohortene over tid, vil disse tallene kunne være påvirket av sammensetnings- og kohorteffekter.
+
+[^225]: Wiborg, Ø. & Hansen, M.N. (2009). Change over Time in the Intergenerational Transmission of Social Disadvantage. *European Sociological Review* 25(3), 379–394. Lorentzen, T. & Nielsen, R. (2009) Går fattigdom i arv? I T. Fløtten (red.) *Barnefattigdom*. Oslo: Gyldendal.
+
+[^226]: Tall fra SSBs Statistikkbanken, figuren er ikke vist.
+
+[^227]: Epland, J. (2016). *Inntektsmobilitet blant barnefamilier med lav inntekt: 2007–2014*. Rapporter 2016/35, Statistisk sentralbyrå.
+
+[^228]: Epland, J. & Kirkeberg, M.I. (2014). Barn i lavinntektshusholdninger. Flere innvandrerbarnefamilier med lavinntekt. Tilgjengelig på https://www.ssb.no/inntekt-og-forbruk/ artikler-og-publikasjoner/flere-innvandrerbarnefamilier-med-lavinntekt.
+
+[^229]: Djuve, A.B., Gulløy, E., Kavli, H. & Berglund, F. (2009). *Datafangst når minoritetsbefolkningen er målgruppe*. Fafo- rapport 24/2009.
+
+[^230]: Thorsen, L.R. (2014). Innvandreres økonomi. Mange innvandrere er økonomisk sårbare. Tilgjengelig på http://www.ssb.no/inntekt-og-forbruk/artikler-og- publikasjoner/mange-innvandrere-er-okonomisk-sarbare.
+
+[^231]: Grødem, A.S. & Hansen, I.L.S. (2015). Integrating in Homeownerland. The Norwegian housing regime and why it matters for immigrants’ social inclusion. *Nordic Journal of Migration Research*, 5(3), 117–125.
+
+[^232]: Eurostat (2016). Distribution of population by tenure status, type of household and income group – EU-SILC survey. Sist oppdatert 16.8.2016. http://ec.europa.eu/eurostat.
+
+[^233]: Open Societies Foundation (2013). *Somalis in Oslo.* Tilgjengelig på https://www.opensocietyfoundations.org/ sites/default/files/somalis-oslo-20131210_0.pdf.
+
+[^234]: Grødem, A. (2011). *Innvandrerbarn og bolig. Hva betyr boligen og bomiljøet for integrering?* Fafo-rapport 32/2011.
+
+[^235]: Østby, L. (2016). Innvandrernes demografi. Stadig mest innvandring fra Polen. Tilgjengelig på http://www.ssb.no/ sosiale-forhold-og-kriminalitet/artikler-og-publikasjoner/ stadig-mest-innvandring-fra-polen.
+
+[^236]: https://www.ssb.no/befolkning/statistikker/innvbef/aar/ 2016-03-03#content.
+
+[^237]: Blom, S. (2012). Etnisk segregasjon i Oslo over to tiår. *Tidsskrift for velferdsforskning* 15 (4), 275–291.
+
+[^238]: Segregasjon kan måles gjennom den såkalte dissimilaritetsindeksen, eller D-indeksen. Kort fortalt måler D-indeksen grad av likhet i fordelingen av to befolkninger over et antall geografiske områder, f.eks. bydeler eller grunnkretser. En slik indeks vil kunne gi uttrykk for hvor skjevt eller avvikende en gruppe personer bor i forhold til andre grupper. Verdien 0 betyr at de to befolkningsgruppene er helt likt fordelt, mens 100 betyr at de bor helt atskilt i hver sine områder. I amerikanske studier blir D-verdier under 30 regnet som lave. Verdier mellom 30 og 60 blir regnet som moderate, mens verdier over 60 blir regnet som høye. Andre amerikanske studier regner D-verdier over 70 som høye, dvs. med stor grad av segregerte bomønstre, se bl.a. Blom, S. (2012). Ibid.
+
+[^239]: Skifter Andersen, H., Andersson, R., Wessel, T., & Vilkama, K. (2015). The impact of housing policies and housing markets on ethnic spatial segregation: comparing the capital cities of four Nordic welfare states. *International Journal of Housing Policy* 16 (1), 1–30.
+
+[^240]: Wessel, T., Andersson, R., Kauppinen, T. & Skifter Andersen, H. (2013). Spatial integration of immigrants in Nordic cities: the relevance of spatial assimilation theory in a welfare state context. *Urban Affairs Review* DOI: 10.1177/1078087416638448.
+
+[^241]: Se også NOU 2011: 14 *Bedre integrering.*
+
+[^242]: Berntsen, K. (2013). Fortsatt store forskjeller i levealder i Oslo, *Samfunnsspeilet* 4/2013, Statistisk sentralbyrå, og www.ssb.no/kostra.
+
+[^243]: NOU 2011: 14. Ibid.
+
+[^244]: Grøgaard, J.B. (2012). *Hva kjennetegner barneskoler som oppnår høy skår på nasjonale prøver?* Rapport 38/2012 NIFU, Åslund, O., Edin, P.A. & Fredriksson, P. (2011). Peers, neighborhoods, and immigrant student achievement: Evidence from a placement policy. *American Economic Journal: Applied Economics*, 3 (2), 67–95.
+
+[^245]: Se bl.a. Birkelund, G.E., Hermansen, A.S. & Evensen, Ø. (2010). *Skolesegregering – et problem? Elevsammensetning, frafall og karakterer i Oslo-skolen*. Tilgjengelig på https://www.sv.uio.no/iss/forskning/prosjekter/ segregering-i-osloskolen/publikasjoner/ skolesegregering.pdf (De finner dog en negativ effekt av veldig høy minoritetsandel (40 pst.) i videregående på studiespesialisering.); Hermansen, A.S. & Birkelund, G.E. (2015). The Impact of Immigrant Classmates on Educational Outcomes. *Social Forces*, 94 (2), 615–646, og Hardoy, I. & Schøne, P. (2013). Does the Clustering of Immigrant Peers Affect the School Performance of Natives*? Journal of Human Capital* 7 (1), 1–25.
+
+[^246]: SSBs monitorer for sekundærflytting: https://www.ssb.no/befolkning/artikler-og-publikasjoner/ monitor-for-sekundaerflytting--41634.
+
+[^247]: Stambøl, L. (2016). *Sysselsetting og flytting blant innvandrere belyst med regional arbeidsmarkedsmobilitet*. Rapporter 06/2016, Statistisk sentralbyrå.
+
+[^248]: Åslund, O. (2005). Now and forever? Initial and subsequent location choices of immigrants. *Regional Science and Urban Economics*, 35 (2), 141–165. Damm, A.P. (2009). Determinants of recent immigrants’ location choices: quasi-experimental evidence. *Journal of Population Economics*, 22 (1), 145–174.
+
+[^249]: Blom, S. & Enes, A. (2015). *Introduksjonsordningen – en resultatstudie*. Rapporter 36/2015, Statistisk sentralbyrå.
+
+[^250]: OECD (2015). *Indicators of Immigrant Integration 2015. Settling In*.
+
+[^251]: Elstad, J.I. (2016). Register study of migrants’ hospitalization in Norway: world region origin, reason for migration, and length of stay. *BMC Health Services Research,* doi: 10.1186/s12913-016-1561-9.
+
+[^252]: Syse, A., Strand, B.H., Naess, O., Steingrímsdóttir, Ó.A. & Kumar, B.N. (2016). Differences in all-cause mortality: A comparison between immigrants and the host population in Norway 1990–2012. *Demographic Research*, DOI: 10.4054/DemRes.2016.34.22.
+
+[^253]: Elstad, J.I., Finnvold, J.E. & Texmon, I. (2015). *Bruk av sykehus og spesialisthelsetjenester blant innbyggere med norsk og utenlandsk bakgrunn.* Nova-rapport 10/2015.
+
+[^254]: Diaz E, Calderón-Larrañaga A, Prado-Torres A, Poblador-Plou, B. & Gimeno-Feliu L.A. (2015). How do immigrants use primary health care services? A register-based study in Norway. *European Journal of Public Health*, 25 (1),72–8.
+
+[^255]: Helsetilstanden i Norge (Folkehelserapporten). Nettpublikasjon, tilgjengelig på https://www.fhi.no/nettpub/hin/. Informasjonen i resten av dette kapitlet er basert på denne.
+
+[^256]: Jenum A.K., Diep L.M., Holmboe-Ottesen G., Holme I.M.K., Kumar B.N. & Birkeland K.I. (2012). Diabetes susceptibility in ethnic minority groups from Turkey, Vietnam, Sri Lanka and Pakistan compared with Norwegians – the association with adiposity is strongest for ethnic minority women. *BMC Public Health,* doi: 10.1186/1471-2458-12-150.
+
+[^257]: Fazel, M., Wheeler, J. & Danesh, J. (2005). Prevalence of serious mental disorder in 7000 refugees resettled in western countries: a systematic review. *Lancet* 365 (9467), 1309–14; Slewa-Younan, S., Uribe Guajardo, M.G., Heriseanu, A. et al. (2015), A Systematic Review of Post-traumatic Stress Disorder and Depression Amongst Iraqi Refugees Located in Western Countries. *Journal of Immigrant and Minority Health* 17: 1231; Jakobsen, M., Meyer DeMott, M.A., & Heir, T. (2014). Prevalence of psychiatric disorders among unaccompanied asylumseeking adolescents in Norway. *Clinical Practice and Epidemiology in Mental Health*, 10 (1), 53–58.
+
+[^258]: Noam, G., Oppedal, B., Idsoe, T. & Panjwani, N. (2014). Mental Health Problems and School Outcomes Among Immigrant and Non-immigrant Early Adolescents in Norway. *School Mental Health* 6: 279–293.
+
+[^259]: Blom, S. (2008). *Innvandreres helse 2005/2006*. Rapporter 35/2008, Statistisk sentralbyrå.
+
+[^260]: Tronstad, K.R. (2008). Opplevd diskriminering. I Blom, S. & Henriksen, K. (red), *Levekår blant innvandrere i Norge 2005/2006*. Rapporter 5/2008, Statistisk sentralbyrå.
+
+[^261]: Rogstad, J. & Midtbøen, A. (2012). *Diskrimineringens omfang og årsaker. Etniske minoriteters tilgang til norsk arbeidsliv*, Rapporter 2012:001, Institutt for samfunnsforskning.
+
+[^262]: Rogstad, J. & Midtbøen, A. (2012). Ibid. s. 81
+
+[^263]: Rogstad, J. & Midtbøen, A. (2012). Ibid. s. 89.
+
+[^264]: Birkelund, G.E., Rogstad, J., Heggebø, K., Mogstad, T. & Bjelland, H.F. (2014). Diskriminering i arbeidslivet: resultater fra randomiserte felteksperiment i Oslo, Stavanger, Bergen og Trondheim. *Sosiologisk Tidsskrift* 22 (4), 352–382.
+
+[^265]: Birkelund, G. (2016). Mindre diskriminering i jobber som krever høyere utdanning. Kronikk i *Aftenposten* 17. mars 2016. Tilgjengelig på http://www.aftenposten.no/viten/ Mindre-diskriminering-i-jobber-som-krever-hoyere- utdanning-8398829.html.
+
+[^266]: Birkelund, G.E., Lillehagen, M., Ekre, V.P. & Ugreninov, E. (2014). Fra utdanning til sysselsetting – En forløpsanalyse av indiske og pakistanske etterkommere i Norge. *Tidsskrift for samfunnsforskning*, 55(4), 385–414.
+
+[^267]: Maximova-Mentzoni, T., Egeland, C., Askvik, T., Drange, I., Støren, L.A., Røsdal, T. & Vabø, A. (2016). *«Å være utlending er ingen fordel». Karriereløp og barrierer for innvandrere i norsk akademia*. Arbeidsforskningsinstituttet, Rapport 2016:03.
+
+[^268]: Dale-Olsen, H., Røed, M. & Schøne, P. (2014). Makt til å diskriminere? *Søkelys på arbeidslivet* 4, 311–328.
+
+[^269]: IMDi (2015). *Integreringsbarometeret 2013/2014. Innvandring og integrering – holdninger og erfaringer blant personer med innvandrerbakgrunn*. Oslo: Integrerings- og mangfoldsdirektoratet.
+
+[^270]: Tronstad, K.R. (2008). Opplevd diskriminering. I Blom, S. & Henriksen, K. (red*.), Levekår blant innvandrere i Norge 2005/2006*. Rapporter 5/2008, Statistisk sentralbyrå.
+
+[^271]: Søholt, S. & Astrup, K. (2009). *Etniske minoriteter og forskjellsbehandling i leiemarkedet.* Norsk institutt for by- og regionforskning, rapport 2009:2, Open Societies Foundation (2013), *Somalis in Oslo*.
+
+[^272]: Andersson, L., Jakobsson, N. & Kotsadam, A. (2012). A field experiment of discrimination in the Norwegian housing market: gender, class, and ethnicity. *Land Economics*, 88(2), 233–240.
+
+[^273]: Søholt, S., Tronstad, K. & Vestby, G. (2015). *Sysselsetting av innvandrere – regionale muligheter og barrièrer for inkludering*, NIBR-rapport 2015:20.
+
+[^274]: Koopmans, R. (2016). Does assimilation work? Sociocultural determinants of labour market participation of European Muslims. *Journal of Ethnic and Migration Studies*, 42(2), 197–216.
+
+[^275]: Enjolras, B. & Wollebæk, D. (2010). *Frivillige organisasjoner, sosial utjevning og inkludering*. Rapport 2010:2, Senter for forsking på sivilsamfunn og frivillig sektor.
+
+[^276]: Ødegård, G. (2010). *Foreningsliv i et flerkulturelt lokalsamfunn. En studie om integrasjon og sosial kapital*. Rapport 6/2010, Institutt for samfunnsforskning.
+
+[^277]: Eimhjellen, I. & Bock Seegaard, S. (2010). *Etniske minoriteter og frivillige organisasjoner*. Rapport 2010:8 Senter for forsking på sivilsamfunn og frivillig sektor.
+
+[^278]: Ødegård, G. (2010). Ibid.
+
+[^279]: Kavli, H. (2007). *En felles fritid? Livet etter skoletid blant barn og unge i Oslo*. Fafo-rapport 2007:22; Kristofersen, L. (2010). Fritid og sosial deltakelse. I Sandbæk, M. & Pedersen, A.W. (red.), *Barn og unges levekår i lavinntektsfamilier. En panelstudie 2000–2009.* NOVA-rapport 2010:10.
+
+[^280]: Ødegård, G., Bakken, A. & Strandbu, Å. (2016). *Idrettsdeltakelse og trening blant ungdom i Oslo. Barrierer, frafall og endringer over tid*. Rapport 2016:7, Senter for forskning på sivilsamfunn og frivillig sektor.
+
+[^281]: Ødegård, G., Bakken, A. & Strandbu, Å. (2016). Ibid. s. 98.
+
+[^282]: Kleven, Ø. (2015). *Valgdeltakelse blant personer med innvandrerbakgrunn*. Rapporter 2015/33, Statistisk sentralbyrå.
+
+[^283]: Statistisk sentralbyrå (2016). Kommunestyre- og fylkestingsvalget, 2015. Tilgjengelig på https://www.ssb.no/ valg/statistikker/kommvalg/hvert-4-aar-detaljerte/ 2015-12-07.
+
+[^284]: Bergh, J., Christensen, D.A. & Matland, R.E. (2016). *Getting Out the Vote. Experiments in voter mobilization among immigrants and natives in Norway*. Rapport 2016:12, Institutt for samfunnsforskning. Eksperimentet inkluderte variasjon i ordlyden i brevene til innvandrervelgerne, men utslagene av dette var små. Forskerne konkluderer derfor med at det var mottak av brev i seg selv, sammen med den praktiske informasjonen, som ga utslag.
+
+[^285]: Bjørklund T. & J. Bergh (2013). *Minoritetsbefolkningens møte med det politiske Norge. Partivalg, valgdeltakelse, representasjon*. Oslo: Cappelen Damm Akademisk.
+
+[^286]: https://www.ssb.no/valg/statistikker/kommvalgform/ hvert-4-aar-representanter/2016-01.
+
+[^287]: Tronstad, K. & Rogstad, J. (2012). *Stemmer de? Politisk deltakelse blant innvandrere og norskfødte med innvandrerforeldre*. Rapport 2012:26, Fafo.
+
+[^288]: Det er utredet om det skal bli mulig å frata statsborgerskapet for personer involvert i terror mv. NOU 2015: 4 *Tap av norsk statsborgerskap*.
+
+[^289]: Pettersen, S.V. (2016). Fallende andel tar norsk statsborgerskap. Tilgjengelig på http://www.ssb.no/befolkning/ artikler-og-publikasjoner/fallende-andel-tar-norsk- statsborgerskap.
+
+[^290]: Statistisk sentralbyrå (2016). Overgang til norsk statsborgerskap, 2015. Tilgjengelig på https://www.ssb.no/ befolkning/statistikker/statsborger/aar/2016-05-11. https://www.ssb.no/befolkning/statistikker/statsborger
+
+[^291]: Blom, S. (2008). Bånd til opprinnelseslandet. I Blom, S. og Henriksen, K. (red.), *Levekår blant innvandrere i Norge 2005/2006*. Rapporter 5/2008, Statistisk sentralbyrå.
+
+[^292]: Friberg, J. H. (2016). *Assimilering på norsk? Sosial mobilitet og kulturell tilpasning blant ungdom i det flerkulturelle Oslo og Akershus*. Fafo-rapport 2016:43.
+
+[^293]: Dzamarija, M. & Sandnes, T. (2016). *Familieinnvandring og ekteskapsmønster 1990–2015*. Rapporter 39/2016, Statistisk sentralbyrå.
+
+[^294]: Opplysningene er hentet fra Sandnes, T. og Østby, L. (2015). *Familieinnvandring og ekteskapsmønster 1990–2013*. Rapporter 23/2015, Statistisk sentralbyrå, tabell 3.1.
+
+[^295]: Dzamarija, M. & Sandnes, T. (2016). Ibid., s. 29ff.
+
+[^296]: Elgvin, O. & Grødem, A.S. (2011). *Hvem bestemmer? Ektefellevalg blant unge med innvandringsbakgrunn*. Fafo-rapport 2011:25.
+
+[^297]: Hustad, A.E. (2000). Innvandrere som gjerningspersoner. I: Gundersen, F., Haslund, U., Hustad, A.E, & Stene, R. J. (red.), *Innvandrere som offer og gjerningsmenn*, Rapporter 18/2000 (s. 33–38). Statistisk sentralbyrå.
+
+[^298]: Skardhamar, T. (2006). *Kriminalitet gjennom ungdomstiden blant nordmenn og ikke-vestlige innvandrere. En analyse av fødselskullet 1977*. Notater 2006/33, Statistisk sentralbyrå.
+
+[^299]: Skardhamar, T., Thorsen, L.R. & Henriksen, K. (2011). *Kriminalitet og straff blant innvandrere og øvrig befolkning*. Rapporter 21/2011, Statistisk sentralbyrå.
+
+[^300]: Sætre, M. & Grytdal, V. (2011). *Voldtekt i den globale byen – Endringer i anmeldte voldtekter og seksualkultur i Oslo*. Oslo: Oslo politidistrikt, tilgjengelig på https://www.politi.no/vedlegg/lokale_vedlegg/oslo/ Vedlegg_1309.pdf.
+
+[^301]: Øia, T. (2005*). Innvandrerungdom – integrasjon og marginalisering*. Rapport nr. 5/2005, NOVA.
+
+[^302]: Gundersen, F., Haslund, U., Hustad, A.E. og Stene, R.J. (2000). *Innvandrere og nordmenn som offer og gjerningsmenn*. Rapporter 2000/18, Statistisk sentralbyrå.

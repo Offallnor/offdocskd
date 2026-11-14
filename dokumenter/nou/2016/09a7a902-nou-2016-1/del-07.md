@@ -1,2408 +1,541 @@
-# NOU 2016: 1, del 7 av 22 (side 74–89)
+# NOU 2016: 1, del 7 av 21
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/09a7a902-nou-2016-1.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-1/id2467468/
 - Original-PDF: https://www.regjeringen.no/contentassets/32354d9ee7974df0976d76790cab566e/no/pdfs/nou201620160001000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 47 tabeller, 63 figurer, 825 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 74]
+Når det gjelder *heltidsansatte*, var gjennomsnittlig faktisk arbeidstid i 2014 38,8 timer, henholdsvis 39,9 timer for heltidsansatte menn og 36,9 timer for heltidsansatte kvinner. Forskjellen mellom heltidsansatte kvinner og heltidsansatte menn har holdt seg gjennom de siste 20 årene.
 
-74
+For *deltidsansatte* var gjennomsnittlig faktisk arbeidstid i 2014 20,2 timer, henholdsvis 20,6 timer blant kvinner og 19,3 timer blant menn. Faktisk arbeidstid for deltidsansatte kvinner har ligget over arbeidstiden for deltidsansatte menn gjennom den siste 20-årsperioden.
 
-NOU 2016: 1
+*Arbeidstid, sysselsetting og innbyggertall*
 
-Kapittel 4
+For å forstå den relative betydningen av endringene i arbeidstid for utviklingen av det totale arbeidstilbudet i Norge målt i timeverk, er det hensiktsmessig å dekomponere veksten i timeverk. Holmøy og Thoresen (2013) dekomponerer den historiske utviklingen i antall utførte timeverk i bidrag fra endring i arbeidstid, endring i sysselsetting og endring i antall innbyggere i yrkesaktiv alder.[^89] Som det framgår av tabell 5.4, har vekst i befolkningen i arbeidsdyktig alder bidratt positivt til samlet antall timeverk i hele perioden. Arbeidstiden har trukket samlet timeverk ned hver periode, spesielt fra 1960 til 1980. Denne studien ser ikke på en videre dekomponering av arbeidstiden i bidrag fra overtid, midlertidig fravær, deltid og ferie. Endringen i arbeidstid slik det framkommer her er dermed et produkt av endringer i disse størrelsene. Bidraget fra sysselsettingsandelen har variert. Økt sysselsettingsandel bidro særlig mye til økte timeverk i perioden 1970 til 1980 og fra 1990 til 2000. Fra 2000 til 2010 har både sysselsetting og arbeidstid hatt en negativ, men beskjeden, innvirkning på totalt antall timeverk, mens særlig sterk vekst i befolkningen i arbeidsdyktig alder har trukket samlet antall timeverk opp.
 
-Arbeidstidsutvalget
+1.  Bidrag til vekst i samlet timeverksinnsats. Gjennomsnittlige årlige vekstrater. Prosent
 
-Tabell 4.3 Oversikt over antall sysselsatte, ledige og personer utenfor arbeidsstyrken i aldersgruppen
-15–74 år og 20–66 år. 2014
-15–74 år
+|  |  |  |  |  |
+|----|----|----|----|----|
+|  | Timeverk i alt |  | Bidrag fra |  |
+|  |  |  |  |  |
+|  |  | Arbeidstid per sysselsatt | Sysselsetting per innbygger<sup>l</sup> | Befolkning 16–74 år |
+|  |  |  |  |  |
+| 1960–1970 | -0,3 | -1,0 | -0,2 | 0,9 |
+| 1970–1980 | 0,2 | -1,5 | 1,0 | 0,8 |
+| 1980–1990 | 0,0 | -0,5 | -0,1 | 0,7 |
+| 1990–2000 | 0,9 | -0,3 | 0,9 | 0,3 |
+| 2000–2010 | 0,9 | -0,2 | -0,1 | 1,2 |
+|  |  |  |  |  |
 
-20–66 år
+Statistisk sentralbyrå, rapport 2013/9
 
-Antall
-(1 000)
+1.  **Arbeidstid og næringsstruktur**
 
-Andel av
-befolkningen
-(prosent)
+I 1970 var det klare forskjeller i gjennomsnittlig arbeidstid[^90] på tvers av hovednæringene. Disse forskjellene økte gjennom 1980- og 1990-tallet, men har deretter igjen krympet, jf. figur 5.3. De sysselsatte i særlig primærnæringene har gjennomgående hatt lang gjennomsnittlig arbeidstid. Arbeidstiden i denne næringen har avtatt noe svakere enn arbeidstiden i andre næringer (-20 prosent i perioden 1970 til 2014, mot -22 prosent for alle næringer samlet). Gjennomsnittlig arbeidstid er markert lavere i helse- og omsorgsektoren enn i andre næringer. Dette forklares blant annet av kortere formell arbeidstid og høy deltidsandel. Arbeidstiden her har samlet over perioden blitt redusert relativt mer enn i andre næringer (-25 prosent), selv om gjennomsnittlig arbeidstid har tatt seg noe opp igjen de siste ti årene i denne næringen.
 
-Antall
-(1 000)
+**\[:figur:figX-X.jpg\]**
 
-Andel av
-befolkningen
-(prosent)
+1.  Utførte timeverk per år per sysselsatt etter næring. 1970–2014
 
-Befolkning
+Statistisk sentralbyrå, Nasjonalregnskapet.
 
-3 850
+I løpet av de siste tiårene har andelen som er sysselsatt i primær- og sekundærnæringene avtatt, jf. figur 5.4 i boks 5.2. Samtidig har andelen av de sysselsatte som jobber i helse- og omsorgssektoren, økt sterkt. Holmøy og Thoresen (2013) finner imidlertid at effekten av at arbeidstiden har falt innenfor de enkeltvise næringene har bidratt langt mer til endringen i gjennomsnittlig arbeidstid i perioden 1970 til 2011 enn endringen i sammensetningen mellom næringer.[^91]
 
-100
+1.  **Nærings-, yrkes- og foretaksstruktur i Norge**
 
-3 171
+Næringsstrukturen i Norge har endret seg betydelig siden 1970. Antall sysselsatte i primær- og sekundærnæringene har gått ned samtidig som det har vært en betydelig økning i sysselsatte i tertiærnæringene. Dette gjelder særlig helse- og omsorgstjenester, jf. figur 5.4.
 
-100
+**\[:figur:figX-X.jpg\]**
 
-Arbeidsstyrken
+1.  Endring i antall sysselsatte (1 000) etter næring. 1970–2014
 
-2 734
+Statistisk sentralbyrå, Nasjonalregnskapet
 
-71
+Helse- og sosialtjenester er den enkeltnæringen hvor sysselsettingen har økt mest, mens sysselsettingen har gått ned både i industrien og i primærnæringene. Fordelingen av sysselsatte etter næring i 2014 er vist i figur 5.5.
 
-2 564
+**\[:figur:figX-X.jpg\]**
 
-81
+1.  Antall sysselsatte (1000) etter næring. 2014
 
-Sysselsatte
+Nasjonalregnskapet, SSB
 
-2 637
+I privat sektor er det flest menn, mens offentlig forvaltning har et flertall kvinnelige ansatte. I helse- og sosialtjenester og undervisning er det overvekt av kvinnelige sysselsatte, mens bygg og anlegg, industri og transport og lagring er mannsdominert.
 
-68
+Endringer i næringsstrukturen og utdanningsnivået i befolkningen gjenspeiles også i yrkesfordelingen. Fra 2000 til 2015 har andelen sysselsatte med leder-, akademiker- og høyskoleyrker økt fra rundt 40 til 50 prosent av de sysselsatte.
 
-2 480
+De fleste foretakene i Norge er forholdsvis små. Åtte av ti foretak har mellom 1 og 9 ansatte.<sup>1</sup> Ser vi imidlertid på hvor stor andel av lønnstakerne som jobber i henholdsvis små og store foretak, blir bildet snudd på hodet. Mens 45 prosent av ansatte jobber i foretak som har flere enn 100 ansatte, jobber kun 20 prosent av de ansatte i foretak med færre enn 10 ansatte.
 
-78
+En rekke endringer i innsamling av data fra virksomheter siden 1970 gjør det vanskelig å sammenligne fordelingen av lønnstakere etter foretaksstørrelse over tid, men det er lite som tyder på større endringer i foretaksstørrelse ut ifra en gruppering slik som i figur 5.6.
 
-96
+**\[:figur:figX-X.jpg\]**
 
-2,5
+1.  Fordeling av ansatte etter foretaksstørrelse<sup> </sup>(eksklusive foretak i primærnæringer og offentlig forvaltning). Prosent
 
-84
+Foretaksregisteret, Statistisk sentralbyrå
 
-3
+<sup>1</sup> Foretaksregisteret, SSB.
 
-1 116
+**\[Boks slutt\]**
 
-29
+Tabell 5.5 viser faktisk arbeidstid etter næring ifølge Arbeidskraftsundersøkelsen i 2014. Her ser vi at gjennomsnittlig faktisk arbeidstid er over 40 timer for primærnæringene samt bergverksdrift og utvinning. Gjennomsnittlig faktisk arbeidstid for menn ligger rundt eller over 37 timer for de fleste næringene. Gjennomsnittlig faktisk arbeidstid for både menn og kvinner er imidlertid godt under 37 timer i næringer som undervisning, overnattings- og serveringsvirksomhet, helse- og sosialtjenester, personlig tjenesteyting og detaljhandel, noe som skyldes utbredt bruk av deltid.
 
-607
+1.  Gjennomsnittlig faktisk arbeidstid per uke etter næring og kjønn. 2014
 
-19
+|                                                   |             |      |         |
+|---------------------------------------------------|-------------|------|---------|
+|                                                   | Begge kjønn | Menn | Kvinner |
+|                                                   |             |      |         |
+| Alle næringer                                     | 34,4        | 37,4 | 30,9    |
+| Jordbruk, skogbruk og fiske                       | 44,7        | 47,1 | 35,8    |
+| Bergverksdrift og utvinning                       | 42,2        | 43,3 | 37,9    |
+| Transport og lagring                              | 38,4        | 39,8 | 32,6    |
+| Bygge- og anleggsvirksomhet                       | 37,3        | 37,9 | 31,2    |
+| Handel med og reparasjon av motorvogner           | 36,9        | 38,1 | 29,8    |
+| Industri                                          | 36,7        | 37,7 | 33,1    |
+| Informasjon og kommunikasjon                      | 36,5        | 37,7 | 33,1    |
+| Finansiering og forsikring                        | 36,5        | 37,9 | 35,1    |
+| Teknisk tjenesteyting, eiendomsdrift              | 36,3        | 38,3 | 33,2    |
+| Agentur- og engroshandel, unntatt med motorvogner | 36,0        | 37,0 | 33,4    |
+| Off. adm., forsvar, sosialforsikring              | 36,0        | 37,6 | 34,3    |
+| Elektrisitet, vann og renovasjon                  | 35,5        | 36,4 | 32,4    |
+| Forretningsmessig tjenesteyting                   | 34,2        | 35,9 | 32,1    |
+| Undervisning                                      | 33,2        | 35,4 | 31,9    |
+| Overnattings- og serveringsvirksomhet             | 31,1        | 34,7 | 28,6    |
+| Helse- og sosialtjenester                         | 30,9        | 33,8 | 30,2    |
+| Personlig tjenesteyting                           | 30,4        | 33,9 | 27,9    |
+| Detaljhandel, unntatt med motorvogner             | 27,3        | 31,1 | 25,1    |
+|                                                   |             |      |         |
 
-Under utdanning
+SSB, Arbeidskraftsundersøkelsen
 
-316
+1.  **Heltid og deltid: Omfang og arbeidstid**
 
-8
+    1.  **Utvikling i heltid versus deltid over tid**
 
-124
+Økningen i andelen sysselsatte kvinner på 1970-tallet skjedde samtidig som deltidsandelen vokste og ga kortere gjennomsnittlig arbeidstid per sysselsatt, jf. omtale i punkt 4.2.2. Kvinnene har i stor grad blitt sysselsatt i velferdstjenester i offentlig sektor, hvor deltidsarbeid var og er mer utbredt. I store deler av helse- og omsorgssektoren valgte man å ta ut arbeidstidsreduksjonen i 1987 i form av redusert arbeid i helgene, og skapte slik sett et økt behov for deltidsansatte.[^92] Utvidelse av åpningstidene i blant annet varehandelen bidro også til etterspørsel etter deltidsansatte. Etter 1980 har økningen i sysselsatte personer stort sett kommet i form av heltidsstillinger.
 
-4
+Figur 5.7 viser utviklingen i fordeling av sysselsatte etter kort og lang deltid og heltid fra 1972 til 2014. Siden begynnelsen av 1980-tallet har andelen med heltid økt blant kvinner, og andelen med deltid har gått ned. Andelen menn med deltid har økt, og heltidsandelen er tilsvarende redusert. Samlet sett har andelen med deltid og heltid vært noenlunde konstant fra slutten av 1980-tallet fram til i dag.
 
-Hjemmearbeidene
+**\[:figur:figX-X.jpg\]**
 
-40
+1.  Utviklingen i andelen sysselsatte menn og kvinner fordelt etter kort og lang deltid og heltid. 1972–2014<sup>1</sup>
 
-1
+<sup>1</sup> Tallene før og etter 1988 er ikke helt sammenliknbare. For perioden 1972–1987 er tallene basert på faktisk arbeidstid, mens tallene deretter gjelder avtalt (eventuelt vanlig) arbeidstid. Ved å bruke avtalt arbeidstid framfor faktisk, øker heltidsandelen med om lag 2 prosentpoeng (på bekostning av lang deltid) for såvel kvinner som menn i alt.
 
-40
+<sup>2</sup> Kort deltid er definert lik 1–19 timer per uke.
 
-1
+<sup>3</sup> For 1972–1987 var lang deltid definert lik 20–34 timer per uke, fra 1989 var lang deltid lik 20–36 timer med unntak av personer med arbeidstid 30–36 timer som oppgir at dette utgjør heltid.
 
-Uføre og førtidspensjonister
+<sup>4</sup> For 1972–1987 35 timer og over, senere 37 timer og over medregnet personer med arbeidstid 30–36 timer som oppgir at dette utgjør heltid.
 
-360
+Norges offisielle statistikk (C325) Arbeidsmarkedsstatistikk 1995 Hefte 1 Hovedtall
 
-9
-
-355
-
-11
-
-Alderspensjonister
-
-307
-
-8
-
-0
-
-0
-
-Annet
-
-94
-
-2
-
-89
-
-3
-
-Ledige
-Personer utenfor arbeidsstyrken
-Herav:
-
-Kilde: Statistisk sentralbyrå, Arbeidskraftsundersøkelsen, Grunntabeller 2014.
-
-oppløst, er den tilsvarende andelen for bestående
-ekteskap i 2014 knapt 39 prosent.9 Andelen enslige forsørgere har dermed økt noe, og andelen
-som inngår nye ekteskap og samboerskap har økt.
-Basert på spørreundersøkelser utført av Statistisk
-sentralbyrå på oppdrag fra Barne-, likestillings- og
-inkluderingsdepartementet vet vi i tillegg at andelen som praktiserer delt omsorg har økt betydelig
-over de siste årene. I 2002 oppga 8 prosent av
-skilte/ikke-samboende foreldrene at de hadde
-delt omsorg for barna, mens det i 2012 var 26 prosent som sa det samme.10
-
-4.3
-
-Sysselsatte og undersysselsatte i
-den norske arbeidsstyrken
-
-4.3.1
-Hovedtall
-Arbeidsstyrken består av sysselsatte og arbeidsledige. Den største delen av arbeidsstyrken er sysselsatt og utgjorde i 2014 68 prosent av befolkningen i aldersgruppen 15–74 år, jf. tabell 4.3.
-Arbeidsstyrken og sysselsettingen varierer over
-tid. På kort sikt betyr situasjonen i arbeidsmarke9
-
-Andelen forteller hvor stor andel av bestående ekteskap i
-henholdsvis 1970 og 2014 som med uendret skilsmissemønster framover vil bli oppløst. Kilde: Statistisk sentralbyrå befolkningsstatistikk.
-10 Kitterød, R.H., J. Lyngstad, H. Lidén og K.A Wiik (2015):
-Praktiseres delt bosted for barn av andre foreldregrupper
-enn før? SSB-rapport 2015/3.
-
-det mye. Blant annet er det en tendens til at unge
-trekker seg ut av arbeidsmarkedet til fordel for
-utdanning når det er vanskelig å få jobb, mens de i
-større grad melder seg på arbeidsmarkedet i gode
-tider.11
-Gjennomsnittlig arbeidsledighet var på 2,5
-prosent av befolkningen i 2014, men ledigheten
-har økt gjennom 2015.12 8 prosent av befolkningen var under utdanning i 2014, 9 prosent var
-uføre eller førtidspensjonister (hvorav majoriteten
-var uføre) og 8 prosent var alderspensjonister.
-Kun 1 prosent var hjemmearbeidende. Samlet var
-29 prosent av befolkningen i aldersgruppen 15–74
-år utenfor arbeidsstyrken, jf. tabell 4.3. Blant
-befolkningen i aldersgruppen 18–66 år mottok
-om lag 18 prosent helserelaterte ytelser (sykepenger, uførepensjon, arbeidsavklaringspenger) i
-2014.13
-Ser vi på aldersgruppen 20–66 år, vil de fleste
-skoleelever og alderspensjonister ikke være med i
-grunnlaget. Som andel av befolkningen er både
-arbeidsstyrken og andel sysselsatte større enn for
-aldersgruppen 15–74 år, men det er også ledig11
-12
-
-13
-
-NOU 2015: 6 Grunnlaget for inntektsoppgjørene 2015.
-Målt i prosent av arbeidsstyrken var ledighetsraten ifølge
-Arbeidskraftsundersøkelsen på 3,5 i 2014. I 3. kvartal 2015
-var den på 4,6 prosent (sesongjustert).
-Korrigert for at man kan motta mer enn én ytelse samtidig.
-Kilde: Arbeids- og velferdsdirektoratet, gjengitt i Prop. 1 S,
-Arbeids- og sosialdepartementet.
-
-[Side 75]
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-9,0
-8,0
-7,0
-6,0
-5,0
-4,0
-3,0
-2,0
-
-0,0
-
-1995
-1996
-1997
-1998
-1999
-2000
-2001
-2002
-2003
-2004
-2005
-2006
-2007
-2008
-2009
-2010
-2011
-2012
-2013
-2014
-
-1,0
-
-Kvinner
-
-Begge kjønn
-
-Menn
-
-Figur 4.9 Andel lønnstakere med bijobber
-(personer i flere ansettelsesforhold) 1995–20141.
-Prosent
-1
-
-Brudd i tidsserien i 2005
-Kilde: Eurostat
-
-heten og andelen uføre/førtidspensjonister, jf.
-tabell 4.3.
-
-4.3.2
-Sysselsatte med bijobb
-Noen lønnstakere har flere jobber. De kan enten
-ha flere arbeidsforhold, eller de har sin egen selvstendige virksomhet ved siden av.
-6,4 prosent av alle lønnstakere hadde en (eller
-flere) bijobb(er) i 2014, se figur 4.9. Det er flere
-kvinnelige enn mannlige lønnstakere som har
-bijobber. Etter 2000 har andelen lønnstakere med
-bijobb ligget på litt over 6 prosent.
-Ser vi på sysselsatte, som inkluderer både
-lønnstakere og selvstendig næringsdrivende,
-viser statistikken fra Arbeidskraftsundersøkelsen
-at det er litt under 9 prosent av alle sysselsatte
-som har bijobber (2014).14
-45 prosent av de sysselsatte med bijobber har
-høyere utdanning (høyskole- eller universitetsutdanning). 30 prosent med bijobb jobber innenfor
-akademiske yrker, og 24 prosent jobber innenfor
-salg- og serviceyrker.
-
-4.3.3
-Undersysselsetting og ufrivillig deltid
-Noen sysselsatte ønsker å jobbe mer enn de gjør i
-dag. Dette gjelder først og fremst en del deltidsansatte.
-En undersysselsatt er ifølge SSBs definisjon deltidssysselsatte personer som har forsøkt å få lengre
-arbeidstid og som kan starte med økt arbeidstid
-innen en måned. Ifølge Arbeidskraftsundersøkelsen
-var det i 2014 totalt 62 000 undersysselsatte, hvorav
-47 000 kvinner og 15 000 menn, se tabell 4.4.
-De undersysselsatte utgjør 2,4 prosent av alle
-sysselsatte og 9,4 prosent av alle deltidssysselsatte. Det er noe større andel kvinner enn menn
-som er undersysselsatt.
-Hvis man ser bort fra kriteriet om at man må
-ha søkt mer arbeid og samtidig være tilgjengelig
-for mer arbeid, er andelen deltidssysselsatte som
-ønsker å jobbe mer, høyere. Dette betegnes ofte
-som «ufrivillig deltid». Ifølge Arbeidskraftsundersøkelsen faller om lag 19 prosent av alle deltidssysselsatte i 2014 inn under denne definisjonen.15
-Andelen er noe høyere for kvinner (21 prosent).
-Ser vi kun på dem som anser seg selv som
-hovedsakelig yrkesaktive, ønsker om lag en fjerdedel av de deltidsansatte lengre arbeidstid.16 I en
-rapport om deltidsbruken i Posten, Vestre Vike
-helseforetak og Vinmonopolet vises det til at henholdsvis en tredel, knapt halvparten og opp til fire
-femdeler av de deltidsansatte ønsket større stillingsprosent.17 Om lag 3 av 4 ansatte i varehandelen sier derimot at de er fornøyd med arbeidstiden
-sin, og andelen som ønsker større stillingsprosent
-er høyest blant dem med kortest ansiennitet.18
-Det er indikasjoner på at undersysselsetting er
-et relativt kortvarig fenomen ved at få forblir
-undersysselsatte over lang tid.19 Problemer med
-undersysselsetting ser ut til å være konsentrert
-innenfor yrker hvor arbeidskraftbehovet varierer
-mye i løpet av døgnet og hvor det er behov for
-døgnkontinuerlig drift.20 Mange undersysselsatte
-beveger seg over i stillinger med høyere stillingsprosent i løpet av de første 12 månedene i jobb.21
-15
-16
-17
-
-18
-19
-20
-21
-
-14
+Figur 5.8 viser utviklingen i ulike arbeidstidsintervaller fordelt på heltids- og deltidsansatte de siste ti årene. I 2014 var rundt 75 prosent av alle lønnstakere i heltidsstilling, hvorav de fleste hadde en avtalt/vanlig arbeidstid på mellom 37 og 39 timer.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Fordeling av lønnstakere etter kjønn og avtalt (eventuelt vanlig) arbeidstid over tid fordelt på heltid og deltid (inkludert bijobber). 2005–2014
+
+Grunntabeller, Arbeidskraftsundersøkelsen 004–2014, Seksjon for arbeidsmarkedsstatistikk, Statistisk sentralbyrå
+
+I 2014 hadde 8 prosent en avtalt/vanlig arbeidstid på mellom 40 og 44 timer, og 5 prosent hadde 45 timer eller mer, jf. figur 5.8 og 5.17. I en enkelt uke har i dag 13 prosent en ordinær arbeidstid på 40 timer eller mer. Dette betyr ikke nødvendigvis at så mange jobber så lenge gjennom hele året. De som jobber mellom 32 og 36 timer, kan være både heltidsansatte og deltidsansatte. De som jobber under 32 timer er alle definert som deltidsansatte. Om lag 25 prosent av alle lønnstakere jobber formelt deltid. Blant menn som jobber deltid, er det mest vanlig å jobbe mellom 1 og 19 timer i uken. 17 prosent av kvinnelige lønnstakere har en avtalt arbeidstid på mellom 1–19 timer, 11 prosent jobber mellom 20 og 29 timer og 10 prosent har en arbeidstid på mellom 30 og 36 timer.
+
+Antall avtalte timer i heltidsstillinger varierer både etter arbeidstidsordning (skift/turnus eller ikke) og ut fra hvorvidt arbeidsgiver følger tariffavtalens grense for alminnelig arbeidstid på 37,5 timer per uke eller lovens grense på 40 timer. For å kartlegge hvor mange ansatte som kan være bundet av lovens grense på 40 timer, har *utvalget* fått opplysninger fra Fafo om hvor mange som jobber over 37,5 timer og til og med 40 timer.[^93] I 2014 utgjorde disse om lag 5 prosent av alle lønnstakere. Til sammenligning var det om lag 70 prosent som var dekket av tariffavtale. Dette tyder på at 37,5 time per uke vil gjøre seg gjeldende langt utover tariffbundne bedrifter.
+
+1.  **5.4.2 Deltid – et kjønns-, yrkes- eller næringsfenomen?**
+
+Som nevnt er deltid betydelig vanligere blant kvinnelige enn mannlige arbeidstakere. Dette kan i noen grad henge sammen med at menn og kvinner har ulike yrker og/eller arbeider i forskjellige bransjer.
+
+Vi ser betydelige forskjeller i deltid på tvers av næringer. De næringene som har størst andel sysselsatte i deltid, er overnatting og servering (44 prosent), helse- og sosialtjenester (43 prosent), personlig tjenesteyting (41 prosent) og varehandel (36 prosent), jf. figur 5.9. I de samme næringene er, ikke overraskende, den gjennomsnittlige arbeidstiden forholdsvis kort blant både menn og kvinner.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Andel heltid, lang deltid og kort deltid per næring (kvinner og menn)<sup>1</sup> 2014
+
+<sup>1</sup> Innenfor helse- og sosialtjenester er det kortere arbeidstid enn 37 timer for de som jobber helkontinuerlig turnus. Disse er inkludert i andelen heltid selv om de jobber under 37 timer.
+
+Arbeidskraftsundersøkelsen, SSB
+
+Med unntak av jordbruk, skogbruk og fiske er næringene med høyt innslag av deltid kvinnedominerte næringer, det vil si at de har flere kvinnelige enn mannlige sysselsatte. I næringer med mye deltid har man også ofte arbeidstid utenfor normal dagtid, slik som for eksempel i varehandel, overnatting og servering og helse og sosialtjenester. Dette kommer vi tilbake til i punkt 5.6.
+
+Kvinner arbeider mer deltid i alle næringer, jf. figur 5.10. Likevel er det noen næringer hvor andelen deltid blant menn også er forholdsvis høy. Dette indikerer at deltid i noen grad også kan være næringsspesifikk.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Andel sysselsatte kvinner og menn som jobber deltid etter næring. 2014
+
+Statistisk sentralbyrå, Arbeidskraftsundersøkelsen
+
+I den andre enden av skalaen finner vi næringer som har over 90 prosent heltid. Dette gjelder bergverksdrift og utvinning (inkludert olje), elektrisitets- og vannforsyning, bygg og anlegg, finansiering og forsikring, industri og offentlig administrasjon og forsvar. Flere av disse er mannsdominerte næringer, mens blant annet offentlig administrasjon og forsvar og finansiering og forsikring har svært lik kjønnsfordeling.
+
+Forekomsten av deltidsarbeid synker med utdanningsnivået. Kort deltid er særlig utbredt blant kvinner med kort utdanning. Over halvparten av kvinnelige sysselsatte med kort utdanning jobber deltid. Tilsvarende andel med deltid for kvinner med henholdsvis videregående skole eller høyere utdanning er litt over 40 prosent og om lag 25 prosent. Noen høyskole- og universitetsutdannede grupper har likevel høy deltidsandel. Deltidsandelen blant kvinnelige sykepleiere er nesten 50 prosent. Blant menn er det også særlig blant de som har kort utdanning at deltid er mest utbredt. Andelen deltidsarbeidende menn med kort utdanning er likevel lavere enn tilsvarende andel blant kvinner med lang utdanning.
+
+De yngste og eldste jobber mest deltid. Dette gjelder både kvinner og menn. Forekomsten av deltid blant menn er lav, under ti prosent, i de midlere aldersgruppene jf. figur 5.11. I de tilsvarende aldersgruppene jobber rundt 30 prosent av kvinnene deltid.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Andel sysselsatte som jobber deltid etter femårige aldersgrupper
+
+SSB, Arbeidskraftsundersøkelsen, Grunntabeller
+
+Ser vi på det enkelte *yrke*, er andelen deltid blant kvinner størst for pleiemedarbeidere, butikkmedarbeidere, kjøkkenassistenter og helsefagarbeidere, jf. tabell 5.6. Blant menn er det hjemmehjelpere, andre pleiemedarbeidere, bud og hotellresepsjonister som i størst grad jobber deltid. I en del yrker er andelen deltid høy både blant menn og kvinner, mens det er større kjønnsforskjeller i andre yrker.
+
+1.  Størst andel deltid per yrke for sysselsatte kvinner og menn.<sup>1</sup> 2014
+
+|  |  |  |  |
+|----|----|----|----|
+| Kvinner | Andel deltid kvinner | Menn | Andel deltid menn |
+|  |  |  |  |
+| Andre pleiemedarbeidere | 77 | Hjemmehjelper | 75 |
+| Butikkmedarbeidere | 74 | Andre pleiemedarbeidere | 71 |
+| Kjøkkenassistenter | 68 | Bud mv. | 70 |
+| Helsefagarbeidere | 65 | Hotellresepsjonister | 68 |
+| Vaktmestre | 59 | Gatekjøkken- og kafémedarbeidere mv. | 65 |
+| Servitører | 57 | Andre musikklærere | 65 |
+| Renholdere i bedrifter | 57 | Trenere og idrettsdommere | 60 |
+| Melke- og husdyrprodusenter | 53 | Servitører | 59 |
+| Vektere | 51 | Skoleassistenter | 56 |
+| Barnehage- og skolefritidsassistenter mv. | 51 | Kjøkkenassistenter | 53 |
+| Sykepleiere | 49 | Idrettsutøvere | 53 |
+| Bil-, drosje- og varebilførere | 48 | Postbud og postsorterere | 52 |
+| Resepsjonister (eksklusive hotell) | 44 | Butikkmedarbeidere | 51 |
+| Vernepleiere | 43 | Bartendere | 50 |
+| Spesialsykepleiere | 38 | Andre hjelpearbeidere i industri | 50 |
+|  |  |  |  |
+
+<sup>1</sup> Yrker med færre enn 1000 sysselsatte menn/kvinner er utelatt. Tallene omfatter ikke biarbeidsforhold.
+
+Arbeidskraftsundersøkelsen, SSB
+
+Arbeidskraftsundersøkelsen spør også om årsaker til at man jobber deltid. Dette er nærmere omtalt i kapittel 7.
+
+1.  **Overtid og lang arbeidstid**
+
+    1.  **Omfang av overtid**
+
+Arbeidskraftsundersøkelsen til SSB spør også om overtid. SSB publiserer per i dag imidlertid ikke disse tallene. Fafo har derfor på oppdrag fra *utvalget* beregnet ulike tall for omfanget av overtid basert på grunndata fra Arbeidskraftsundersøkelsen. Nedenfor følger en oppsummering av materialet fra Fafo.
+
+I Arbeidskraftsundersøkelsen er et av spørsmålene om man har jobbet mer enn avtalt arbeidstid i undersøkelsesuka. De som svarer ja på dette blir så videre spurt om det dreide seg om overtid, ekstra timer på grunn av fleksitid eller annen form for ekstraarbeid. Det er kun de som svarer at de jobber overtid, som er med i materialet fra Fafo. Undersøkelsen spør videre om man får betalt for overtiden, avspaserer eller eventuelt ikke får kompensasjon. Det er viktig å påpeke at usikkerheten øker jo mindre gruppene som undersøkes er.
+
+Tallene i Fafos materiale gjelder 2013 og gjennomsnitt for 2009–2013.
+
+I 2013 var det samlet 9 prosent av lønnstakerne som jobbet overtid den uka de ble spurt om i Arbeidskraftsundersøkelsen, jf. tabell 5.7. Dette utgjorde litt under 214 000 lønnstakere.
+
+1.  Andel lønnstakere med overtid og hvor mye overtid de jobber. 2013
+
+|  |  |  |
+|----|----|----|
+|  | Prosent | Antall lønnstakere |
+|  |  |  |
+| Antall lønnstakere i alt |  | 2 377 000 |
+| Lønnstakere som jobber overtid | 9 % | 213 930 |
+| Fordeling av antall overtidstimer per uke for de som jobber overtid<sup>1</sup> |  |  |
+| 1–5 timer overtid | 50 % | 106 200 |
+| 6–10 timer overtid | 30 % | 63 400 |
+| 11–15 timer overtid | 10 % | 21 600 |
+| 16 timer overtid eller mer | 10 % | 22 400 |
+| Gjennomsnittlig antall timer overtid for lønnstakere (i alt) som jobber overtid | 7,9 timer | 213 930 |
+|  |  |  |
+
+<sup>1</sup> På grunn av avrunding vil ikke delsummene stemme helt med totalsummen av de som jobber overtid.
+
+Arbeidskraftsundersøkelsen, Fafo, egne bestillinger
+
+Om lag 50 prosent av alle de som jobber overtid, har 1–5 overtidstimer i uka som er undersøkt. 30 prosent har 6–10 overtidstimer. Dette betyr at 80 prosent av alle som jobber overtid, jobber under lovens grense for pålagt overtid (uten avtale) på 10 timer.
+
+For lønnstakere som hadde oppgitt å jobbe overtid, var gjennomsnittlig antall overtidstimer 7,9 timer per uke i 2013. Det samme gjelder ifølge Fafo for heltidsansatte og deltidsansatte med lang deltid. Deltidsansatte med kort deltid jobber noe mer enn dette når de jobber overtid.
+
+*Overtid etter yrke og næring*
+
+I de fleste yrker jobber rundt 10–12 prosent av de sysselsatte overtid i løpet av en uke. Et unntak her er salgs-, service- og omsorgsyrker og yrker uten krav til utdanning, hvor det jobbes noe mindre overtid (6 prosent), jf. figur 5.12.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Andel lønnstakere som jobber overtid etter yrke (1. siffernivå). Gjennomsnitt for perioden 2009–2010
+
+Arbeidskraftsundersøkelsen, Fafo, egne bestillinger
+
+Ser vi på hvor mange av lønnstakerne som jobber overtid fordelt etter næring (figur 5.13), er det bygg og anlegg og industri/olje/bergverk hvor flest jobber overtid (14 prosent). Deretter kommer faglig vitenskapelig og teknisk tjenesteyting (13 prosent), finansierings- og forsikringsvirksomhet, informasjon og kommunikasjon og engroshandel (12 prosent). Minst overtid er det i sosialtjenester og undervisning.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Andel lønnstakere som jobber overtid etter yrke. 2013
+
+Arbeidskraftsundersøkelsen, Fafo, egne bestillinger
+
+*Mest vanlig å få betalt for overtid*
+
+De fleste (75 prosent) får betalt for overtidsarbeid. 13 prosent avspaserer og 13 prosent får ingen kompensasjon (gjennomsnitt for 2009–2013), jf. figur 5.14.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Andel lønnstakere som får henholdsvis betalt overtid, avspaserer eller får ingen kompensasjon fordelt etter næring (gjennomsnitt for årene 2009–2013)
+
+Arbeidskraftsundersøkelsen, Fafo, egne bestillinger
+
+Overnattings- og serveringsvirksomhet og transport og lagring er de næringene som i størst grad kompenserer overtid med betaling. De næringene som i minst grad kompenserer overtid med betaling, er engroshandel, informasjon og kommunikasjon, finansierings- og forsikringsvirksomhet, forretningsmessig tjenesteyting og undervisning, hvor om lag 25 prosent ikke får kompensert for overtid.
+
+Halvparten av lederne får ingen kompensasjon for overtid, se figur 5.15. I akademiske yrker er det litt over 50 prosent som får betalt for overtid. Blant operatører og håndverkere er det mest vanlig å få betalt overtid (90 prosent). Blant disse er det ingen som oppgir at de ikke får kompensasjon.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Andel av lønnstakere som får henholdsvis betalt overtid, avspaserer eller ingen kompensasjon etter yrke (gjennomsnitt for årene 2009–2013)
+
+Arbeidskraftsundersøkelsen, Fafo, egne bestillinger
+
+1.  **5.5.2 Lang arbeidstid**
+
+Ifølge Arbeidskraftsundersøkelsen var det i alt 13 prosent av lønnstakerne som hadde en avtalt/vanlig arbeidstid på 40 timer eller mer i 2014, hvorav 8 prosent jobbet 40–44 timer og 5 prosent jobbet 45 timer eller mer, jf. figur 5.16. Arbeidstiden er her summen av avtalt arbeidstid i hovedarbeidsforhold og eventuelle biarbeidsforhold. Det vil si det er summen av all avtalt tid som den enkelte jobber.[^94]
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Fordeling av lønnstakere etter heltid og deltid og ulike arbeidstidsintervaller, 2014. Alle arbeidsforhold. Avtalt/vanlig arbeidstid
+
+Arbeidskraftsundersøkelsen, SSB
+
+Statens arbeidsmiljøinstitutt (STAMI) utgir hvert år en rapport om arbeidsliv og helse hvor også arbeidstid er omtalt.[^95] Ifølge denne rapporten (som baserer seg på Arbeidskraftsundersøkelsen) har det vært en liten nedgang i andelen sysselsatte som jobber lange arbeidsuker (det vil si 45 timer eller mer) de siste 10–15 årene. Lange arbeidsuker er nesten tre ganger så utbredt blant menn som blant kvinner. Lange arbeidsuker er noe mindre utbredt blant de yngste og eldste sysselsatte og er klart mest utbredt blant sysselsatte som har mer enn 4 års utdanning på høyskole eller universitet. Dette gjelder spesielt kvinner.
+
+Lange arbeidsuker er ifølge rapporten mest vanlig blant ulike grupper av toppledere. Litt under 40 prosent av topplederne har lange arbeidsuker. Også blant skipsbefal og flygere er lange arbeidsuker vanlig – litt under 40 prosent av disse jobber lange uker. I primæryrkene og i ulike sjåføryrker er andelen 27 prosent, mens det er 20–25 prosent av ledere utenom toppledere som jobber lange arbeidsuker. 20 prosent av anleggsarbeidere og 20 prosent av leger har lange arbeidsuker, og blant sivilingeniører og politi er andelen 17 prosent. Å jobbe lange arbeidsuker er minst vanlig blant servitører, pleie- og omsorgsarbeidere, renholdere, kontormedarbeidere, fysioterapeuter, barnehage- og skoleassistenter og førskolelærere. Her er det fra 1–5 prosent av de sysselsatte som har lange arbeidsuker.
+
+*Vedvarende lang arbeidstid*
+
+Statistikk over arbeidstid presenterer typisk et øyeblikksbilde, for eksempel basert på svar fra én uke, som i SSBs Arbeidskraftsundersøkelse. Ettersom mange arbeidstakere må forventes å ha stor variasjon i arbeidstid fra uke til uke, vil det variere hvem som til enhver tid jobber mye. Sagt på en annen måte, gjennomsnittlig arbeidstid over året for personer med lang arbeidstid i én undersøkt uke vil antakelig være betydelig kortere. SSB har på oppdrag fra *utvalget* beregnet forekomsten av vedvarende lang arbeidstid over flere uker basert på Arbeidskraftsundersøkelsen.[^96] Analysen tar utgangspunkt i personer som hadde avtalt/vanlig arbeidstid på minst 30 timer i uka i 1. kvartal 2014 av Arbeidskraftsundersøkelsen. Denne avgrensningen er gjort av praktiske hensyn og dessuten ut fra at denne gruppen antas å ha størst tilbøyelighet for å oppleve hyppige eller vedvarende perioder med lang arbeidstid gjennom året. Figur 5.17 viser fordelingen av individenes gjennomsnittlige faktiske arbeidstid[^97] over alle de fire referanseukene i Arbeidskraftsundersøkelsen for personer i aldersgruppen 18–66 år som var med i utvalget hele året 2014 og som hadde minst 30 timers avtalt arbeidstid i 1. kvartal. Gruppen som analyseres tilsvarer en andel av befolkningen i aldersgruppen på om lag 58 prosent[^98] eller om lag 76 prosent av de sysselsatte i 1. kvartal 2014.
+
+Arbeidstid over 45 timer i uka vil her omtales som «lang arbeidstid». Figur 5.17 bekrefter at vedvarende lang gjennomsnittlig arbeidstid ikke er særlig utbredt. Likevel er det en ikke ubetydelig andel sysselsatte som jobber mer enn 40 timer per uke. En av fem arbeidstakere med avtalt arbeidstid på minst 30 timer per uke hadde gjennomsnittlig arbeidstid over referanseukene på mer enn 40 timer i uka. Mens 7,8 prosent av arbeidstakerne hadde gjennomsnittlig arbeidstid over 45 timer i uka, hadde bare 3,9 prosent gjennomsnittlig arbeidstid på over 50 timer per uke. En andel på 7,8 prosent av arbeidstakerne i utvalget vårt tilsvarer under 5 prosent av befolkningen eller litt under 6 prosent av de sysselsatte i aldersgruppen 18–66 år.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Fordeling av gjennomsnittlig arbeidstid over referanseukene i Arbeidskraftsundersøkelsen blant sysselsatte med heltid/lang deltid.<sup>1</sup> 2014
+
+<sup>1</sup> Blant personer i alderen 18–66 med minst 30 timer avtalt/vanlig arbeidstid i 1. kvartal 2014.
+
+Arbeidskraftsundersøkelsen, SSB.
+
+Lang gjennomsnittlig arbeidstid er mer utbredt blant menn enn blant kvinner. Blant menn med avtalt arbeidstid på 30 timer per uke er det om lag 10,5 og 5,6 prosent som hadde gjennomsnittlig arbeidstid over henholdsvis 45 og 50 timer. Omkring 25 prosent av mennene jobbet mer enn 40 timer gjennom året i gjennomsnitt. Blant kvinner var tilsvarende andeler bare henholdsvis 4,1 (45t+), 1,8 prosent (50t+).
+
+Et noe annet perspektiv på varighet av lang arbeidstid får vi ved å se på to kvartaler i sammenheng. Ettersom Arbeidskraftsundersøkelsen følger personer over tid, kan vi se om personer med lang arbeidstid i ett kvartal også har lang arbeidstid i det påfølgende kvartalet av undersøkelsen. Tabell 5.8 presenterer en slik analyse for 1. og 2. kvartal i 2014 for alle og for menn og kvinner separat. Aldersgruppen i tabellen er begrenset til 25–54 år, det vil si aldersgruppen hvor det antas at lang arbeidstid er mest utbredt. Utvalget som analyseres tilsvarer om lag 66 prosent av befolkningen eller 80 prosent av de sysselsatte i aldersgruppen.
+
+1.  Personer med inntektsgivende arbeid<sup>1</sup> etter kjønn og arbeidstid i 1. og 2. kvartal. 2014. Prosent
+
+|             |      |      |             |       |      |       |
+|-------------|------|------|-------------|-------|------|-------|
+| Begge kjønn |      |      | 2\. kvartal |       |      |       |
+|             |      |      |             |       |      |       |
+| 1\. kvartal | 0    | 1–29 | 30–39       | 40–45 | 45+  | I alt |
+|             |      |      |             |       |      |       |
+| 0           | 5,8  | 1,7  | 4,4         | 1,1   | 1,1  | 14,1  |
+| 1–29        | 3,0  | 2,3  | 6,8         | 1,2   | 0,7  | 14,0  |
+| 30–39       | 7,1  | 5,7  | 27,7        | 3,6   | 2,6  | 46,7  |
+| 40–45       | 1,7  | 1,4  | 5,5         | 2,8   | 1,6  | 13,0  |
+| 45+         | 1,9  | 0,7  | 3,9         | 1,9   | 3,7  | 12,2  |
+| I alt       | 19,4 | 11,8 | 48,3        | 10,6  | 9,8  | 100,0 |
+|             |      |      |             |       |      |       |
+| Menn        |      |      | 2\. kvartal |       |      |       |
+| 1\. kvartal | 0    | 1–29 | 30–39       | 40–45 | 45+  | I alt |
+|             |      |      |             |       |      |       |
+| 0           | 3,5  | 0,9  | 3,2         | 1,0   | 1,4  | 10,0  |
+| 1–29        | 1,2  | 0,8  | 3,6         | 0,8   | 1,3  | 7,8   |
+| 30–39       | 8,3  | 6,1  | 25,8        | 4,2   | 3,7  | 48,1  |
+| 40–45       | 2,7  | 1,9  | 6,5         | 3,6   | 2,1  | 16,8  |
+| 45+         | 2,8  | 1,5  | 4,5         | 3,1   | 5,4  | 17,3  |
+| I alt       | 18,5 | 11,3 | 43,7        | 12,7  | 13,9 | 100,0 |
+|             |      |      |             |       |      |       |
+| Kvinner     |      |      | 2\. kvartal |       |      |       |
+| 1\. kvartal | 0    | 1–29 | 30–39       | 40–45 | 45+  | I alt |
+|             |      |      |             |       |      |       |
+| 0           | 6,6  | 1,8  | 4,1         | 0,7   | 0,5  | 13,8  |
+| 1–29        | 1,9  | 2,2  | 6,2         | 1,0   | 0,1  | 11,4  |
+| 30–39       | 9,8  | 8,3  | 32,6        | 3,5   | 2,5  | 56,7  |
+| 40–45       | 1,4  | 1,7  | 4,9         | 2,7   | 0,5  | 11,2  |
+| 45+         | 1,2  | 0,9  | 2,1         | 1,2   | 1,4  | 6,9   |
+| I alt       | 20,9 | 15,0 | 49,9        | 9,1   | 5,0  | 100,0 |
+|             |      |      |             |       |      |       |
+
+<sup>1</sup> Blant personer i alderen 25–54 med minst 30 timer avtalt/vanlig arbeidstid i 1. kvartal 2014 i Arbeidskraftsundersøkelsen.
+
+Arbeidskraftsundersøkelsen, SSB. Egne bestillinger.
+
+Tabellen viser at om lag 12 prosent av arbeidstakerne i aldersgruppen 25–54 år hadde arbeidstid over 45 timer i referanseuka i 1. kvartal 2014, men bare 3,7 prosent av arbeidstakerne hadde arbeidstid over 45 timer i referanseuka i både 1. og 2. kvartal 2014. Med andre ord, om lag 70 prosent av dem som i første periode hadde lang arbeidstid, hadde *ikke* lang arbeidstid i neste periode. Likevel var det om lag 46 prosent med lang arbeidstid (over 45 timer) i første kvartal som hadde arbeidstid over 40 timer i neste kvartal. Om lag 10 prosent hadde arbeidstid over 40 timer i begge kvartaler.
+
+Det er mange flere menn (5,4 prosent) som har lang arbeidstid i to påfølgende kvartaler sammenlignet med kvinner (1,4 prosent). Om lag 14,2 prosent av mennene, men bare 5,8 prosent av kvinnene hadde arbeidstid over 39 timer i to påfølgende kvartaler.
+
+Sett under ett indikerer disse resultatene at vedvarende lang arbeidstid ikke er særlig utbredt for de fleste grupper. Likevel viser tallene at en betydelig gruppe menn har permanent lange arbeidsdager.
+
+1.  **Arbeid utenom ordinær dagtid**
+
+Siden 1970-tallet har åpningstidene i blant annet varehandelen endret seg vesentlig. Økt arbeidskraftbehov har i noen grad blitt fylt av ungdom i deltidsstillinger, hvorav mange er skoleelever eller studenter. Endrede fritidsvaner, som at folk spiser oftere ute på restaurant, reiser mer og benytter kulturtilbud oftere, kan også ha bidratt til at flere må jobbe på kvelds- og nattestid. Som vist i figur 5.4 har det også vært sterk vekst i sysselsettingen i helse- og omsorgssektoren, hvor det er et klart behov for arbeidskraft om natten, i helger og på kveldstid. På den annen side har endringer i andre næringer trukket motsatt vei. Reduksjonen i andelen sysselsatte i industri med skiftordning og veksten i akademiske yrker og offentlig administrasjon, med arbeid i hovedsak på dagtid, er noen eksempler.
+
+Det finnes få undersøkelser tilbake i tid om dette temaet. I en undersøkelse av skiftarbeid fra 1978 framkommer det at 15 prosent hadde enten skiftarbeid eller fast kveldsarbeid i 1973, mens 85 prosent hadde dagarbeid.[^99] Imidlertid var lørdagsarbeid vanlig til et stykke ut på 1970-tallet. De som arbeidet dagtid og hadde fri hver lørdag, utgjorde 65 prosent av de spurte i denne undersøkelsen. I forbindelse med Arbeidstidsutvalget 1987 ble det gjennomført en større spørreundersøkelse om arbeidstid.[^100] I denne undersøkelsen er andelen med arbeid på ordinær dagtid oppgitt til 78 prosent, et tall som inkluderer personer som også jobber på lørdager. Andelen med arbeid på ordinær dagtid uten lørdagsarbeid er ikke oppgitt i dokumentasjonen fra undersøkelsen. Det er dermed vanskelig å sammenlikne resultatene fra arbeidstidsundersøkelsen 1985 med undersøkelsen av skiftarbeid fra 1978.
+
+Tidsbruksundersøkelsene fra SSB viser at den gjennomsnittlige tiden brukt på «inntektsgivende arbeid, arbeidsreiser mv.» blant alle, uavhengig av om de har utført aktiviteten eller ikke, har gått en del ned på lørdager fra 1970-tallet fram til i dag, jf. tabell 5.9. Tilsvarende tidsbruk på søndager har også gått ned, men noe svakere. Ifølge tidsbruksundersøkelsene har det vært små endringer i andelen som utfører inntektsgivende arbeid på kveld- og nattestid. Disse undersøkelsene bekrefter dermed at det ikke har vært en økning i omfanget av arbeid utenom ordinær dagtid over tid. Inntrykket er snarere motsatt når det gjelder arbeid i helgene.
+
+1.  Tid brukt på inntektsgivende arbeid, arbeidsreiser mv. etter ukedag (timer:minutter). 1971–2010
+
+|         |                |        |        |        |
+|---------|----------------|--------|--------|--------|
+|         | Mandag–torsdag | Fredag | Lørdag | Søndag |
+|         |                |        |        |        |
+| 1971–72 | 4:34           | 4:21   | 1:58   | 0:50   |
+| 1980–81 | 4:30           | 4:07   | 1:24   | 0:37   |
+| 1990–91 | 4:40           | 4:25   | 1:20   | 0:53   |
+| 2000    | 4:10           | 4:03   | 1:12   | 0:46   |
+| 2010    | 4:11           | 3:29   | 0:58   | 0:44   |
+|         |                |        |        |        |
+
+SSB, Tidsbruksundersøkelsene
+
+Ifølge Levekårsundersøkelsene fra SSB har det vært en oppgang i andelen som jobber skift eller turnus fra om lag 10 prosent i 1980 til 15 prosent i 1999.[^101]
+
+1.  Tid brukt på inntektsgivende arbeid, arbeidsreiser mv. etter ukedag (timer:minutter). 1971–2010
+
+|         |                |        |        |        |
+|---------|----------------|--------|--------|--------|
+|         | Mandag–torsdag | Fredag | Lørdag | Søndag |
+|         |                |        |        |        |
+| 1971–72 | 4:34           | 4:21   | 1:58   | 0:50   |
+| 1980–81 | 4:30           | 4:07   | 1:24   | 0:37   |
+| 1990–91 | 4:40           | 4:25   | 1:20   | 0:53   |
+| 2000    | 4:10           | 4:03   | 1:12   | 0:46   |
+| 2010    | 4:11           | 3:29   | 0:58   | 0:44   |
+|         |                |        |        |        |
+
+SSB, Tidsbruksundersøkelsene
+
+Fra tidlig på 2000-tallet finnes det mer detaljerte opplysninger om arbeidstidens plassering i SSBs arbeidskraftundersøkelse.[^102] 32 prosent jobbet utenfor ordinær dagtid i 2014 ifølge denne undersøkelsen. 15,5 prosent av dem som jobbet utenom ordinær dagtid, jobbet regelmessig på lørdager. Dagens andel med arbeid hovedsakelig på dagtid og utenom helgene på 68 prosent skiller seg altså svært lite fra den tilsvarende andelen fra undersøkelsen av skiftarbeid fra 1978 på 65 prosent. Det framgår videre av Arbeidskraftsundersøkelsen at endringene har vært små på 2000-tallet, se figur 5.18.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Ansatte etter arbeidstidsordning. Prosent. 2001–2014
+
+Arbeidskraftsundersøkelsen, SSB
+
+De som systematisk jobber utenom ordinær dagtid, jobber ofte i en skift- eller turnusordning, men ikke alle. Andelen som jobber skift/turnus (utenom ordinær dagtid) har økt til 24 prosent i perioden, mens andelen som jobber utenom ordinær dagtid (ikke skift/turnus) har blitt redusert til 8 prosent i 2014.
+
+Det er større andel kvinner enn menn som jevnlig jobber utenom ordinær dagtid, og dette skyldes særlig at en større andel kvinner arbeider skift/turnus (28 prosent mot 20 prosent i 2014), jf. figur 5.19.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Andel kvinner og menn og i alt som jobber henholdsvis ordinær dagtid, utenom ordinær dagtid, utenom ordinær dagtid og skift/turnus og utenom ordinær dagtid og ikke skift/turnus. 2014
+
+Arbeidskraftsundersøkelsen, SSB
+
+Ser vi på utviklingen over tid uavhengig av skift-/turnusordninger eller ikke, har andelen som jobber kveld (i alt) blitt redusert fra 2001 til i dag, mens den er omtrent stabil for dem som jobber søndag, jf. figur 5.20 A. Andelen som jobber natt har gått noe ned siden 2001 og var i 2014 på 14 prosent. Kvinner jobber mindre natt enn menn, mer søndag og til dels også mer kveld enn menn. Det er verdt å merke seg at tallene i figur 5.20 ikke avspeiler faktisk plassering av arbeidstid i referanseuka, men viser til arbeid kveld, natt eller søndag «regelmessig eller av og til».
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Andel sysselsatte kvinner og menn som jobber kveld, natt eller søndag. 2001–2014
+
+Statistisk sentralbyrå, Arbeidskraftsundersøkelsen.
+
+Ser vi bare på de som *regelmessig* har jobbet kveld, søndag eller natt er andelene lavere, jf. figur 5.20 B. For eksempel jobber kun 5 prosent regelmessig natt, og 15 prosent jobber regelmessig kveld.
+
+En spørsmålsstilling som innimellom reises er i hvilken grad det er mer vanlig blant midlertidig ansatte enn blant fast ansatte å jobbe utenom ordinær dagtid. Vi finner at for kvinner er andelen som jobber utenom ordinær dagtid den samme for fast og midlertidig ansatte (36 prosent). For menn er arbeid utenom ordinær dagtid mer vanlig for midlertidig ansatte enn for faste, med 29 mot 25 prosent, jf. figur 5.21.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Andel ansatte som jobber ordinær dagtid og utenom ordinær dagtid fordelt etter fast og midlertidig stilling og kvinner og menn 2014
+
+Arbeidskraftsundersøkelsen, SSB
+
+1.  **5.6.1 Arbeid utenom dagtid: Store nærings- og yrkesvise forskjeller**
+
+Størst andel som jobber utenom ordinær dagtid har vi i overnattings- og serveringsvirksomhet, transport og lagring, helse- og sosialtjenester, varehandel og personlig tjenesteyting, jf. figur 5.22. I helse- og sosialtjenester skjer omtrent alt arbeidet som utføres utenom ordinær dagtid i skift/turnus. I personlig tjenesteyting og varehandel er det også mange som arbeider utenom ordinær dagtid. Her skjer dette både gjennom skift/turnus og uten skift/turnus.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Andel ansatte med ordinær dagtid og andel utenom ordinær dagtid med henholdsvis skift/turnus og ikke skift/turnus etter næring 2014
+
+Arbeidskraftsundersøkelsen, SSB
+
+Ser vi bare på de som jobber skift/turnus utenom ordinær dagtid, er det i 2014 flest i helse- og sosialtjenester (234 000 personer). Deretter har vi industri og utvinning med 80 000, varehandel med 79 000, transport og lagring med 63 000 og overnatting og servering med 36 000 personer.
+
+Overnattings- og serveringsvirksomhet er den næringen hvor man jobber mest regelmessig natt, kveld, lørdag eller søndag, jf. figur 5.23. Nesten 60 prosent jobber her regelmessig på lørdager, og rundt 40 prosent jobber enten regelmessig på søndager eller på kvelden. I næringene transport og lagring er det nesten 30 prosent som regelmessig jobber søndag, og i varehandel er det litt over 30 prosent som jobber på lørdager. I helse- og sosialtjenester fremgår det at 8 prosent jobber regelmessig natt, 17 prosent jobber kveld regelmessig, 15 prosent jobber lørdag regelmessig og 14 prosent jobber søndag regelmessig.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Andel ansatte som jobber regelmessig natt, kveld, lørdag og søndag etter næring 2014
+
+Arbeidskraftsundersøkelsen, SSB
+
+Selv om andelen med regelmessig arbeid utenom ordinær dagtid er høyest i overnattings- og serveringsvirksomhet og transport, er det klart færre sysselsatte her enn i helse- og sosialtjenester. Det er derfor flest som jobber regelmessig utenom ordinær dagtid i helse- og sosialsektoren.
+
+De betydelige næringsvise forskjellene i arbeid utenom ordinær dagtid samsvarer med markerte yrkesvise forskjeller. Ikke overraskende er det yrker innen helse- og omsorgssektoren som jobber mest utenom ordinær dagtid, i dette tilfellet turnus.
+
+Andelen som jobber skift eller turnus er høyest blant skipsbefal og flygere (95 prosent), jf. figur 5.24. Litt over 80 prosent av pleie- og omsorgsarbeidere jobber turnus, og litt over 70 prosent av sykepleierne jobber turnus. Deretter har vi polititjenestemenn/vaktpersonale, servitører og butikkmedarbeidere.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Andel som jobber skift eller turnus i ulike yrker. 2013
+
+STAMI (2015)
+
+1.  **5.6.2 Et deltidsfenomen?**
+
+Både heltids- og deltidsansatte jobber utenom ordinær arbeidstid. Samlet sett er det en langt større andel av deltidsansatte enn heltidsansatte som jobber utenom ordinær dagtid. I 2014 jobbet 49 prosent av alle deltidsansatte utenom ordinær dagtid, mot 27 prosent av de heltidsansatte, jf. figur 5.25. Forskjellen er i stor grad knyttet til at en betydelig større andel av de deltidsansatte jobber i helgene.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Andel av heltid og deltidsansatte som jobber utenom ordinær dagtid og fordelt etter ulike kombinasjoner av helg, kveld og natt. 2014
+
+Arbeidskraftsundersøkelsen, SSB
+
+1.  **Arbeidstid blant innvandrere**
+
+Arbeidstiden blant innvandrere fra EU, Nord-Amerika og andre rike land er litt lengre enn i befolkningen i alt, og lengre enn blant norskfødte. Samtidig har innvandrere fra blant annet Afrika og Asia, hvorav nesten alle kommer med flukt eller familiegjenforening som innvandringsgrunn, kortere arbeidstid, jf. tabell 5.11.[^103]<sup>,</sup> [^104]
+
+1.  Faktisk arbeidstid etter kjønn, alder og innvandringsbakgrunn. Årsgjennomsnitt 2014. Timer per uke
+
+|  |  |  |  |  |  |
+|----|----|----|----|----|----|
+|  |  | Innvandrere |  |  |  |
+|  |  |  |  |  |  |
+|  |  | Innvandrere i alt | EU/EØS, USA, Canada, Australia og New Zealand | Asia, Afrika, Latin-Amerika, Oseania unntatt Australia og New Zealand, og Europa utenom EU/EØS | I alt eksklusive innvandrere |
+|  |  |  |  |  |  |
+| Begge kjønn | 15–74 år | 33,8 | 35,2 | 32,1 | 34,5 |
+|  | 15–24 år | 26,4 | 30,6 | 22,9 | 26,2 |
+|  | 25–54 år | 34,5 | 35,6 | 33,2 | 36,5 |
+|  | 55–74 år | 33,8 | 35,2 | 31,7 | 33,8 |
+| Menn | 15–74 år | 36,7 | 37,7 | 35,1 | 37,5 |
+|  | 15–24 år | 29,4 | 34,4 | 25,4 | 30,0 |
+|  | 25–54 år | 37,2 | 37,9 | 36,1 | 39,4 |
+|  | 55–74 år | 36,9 | 37,4 | 36,0 | 36,5 |
+| Kvinner | 15–74 år | 29,9 | 31,0 | 28,8 | 31,0 |
+|  | 15–24 år | 23,5 | 27,1 | 20,0 | 22,1 |
+|  | 25–54 år | 30,6 | 31,4 | 29,9 | 33,1 |
+|  | 55–74 år | 29,9 | 31,8 | 27,7 | 30,5 |
+|  |  |  |  |  |  |
+
+Bø, T. P. (2013): Innvandrere på arbeidsmarkedet. Data fra Arbeidskraftundersøkelsen, SSB-rapport 49/2013.
+
+Isolert sett kan en økende andel arbeidsinnvandrere bidra til å trekke gjennomsnittlig arbeidstid opp, men som det framgår av tabellen, var forskjellen i arbeidstid mellom innvandrere fra de aktuelle landene og befolkningen i alt relativt liten.
+
+Et økende innslag av arbeidsinnvandrere kan likevel ha betydning for arbeidstiden på andre måter. Korttidsinnvandrere og personer som oppholder seg deler av året i hjemlandet, kan ha ønsker om å jobbe mye i perioder for deretter å ha lengre fri hjemme. Denne typen ordninger med konsentrert arbeidstid har over tid blitt mer utbredt, og mange arbeidstakere søker seg til arbeidsgivere som kan tilby slike ordninger. Ordninger som tidligere ble brukt offshore, ønskes i økende grad brukt i landbaserte virksomheter.[^105]
+
+Det finnes også eksempler på at arbeidsgivere har tilbudt utenlandske arbeidstakere dårligere betingelser, herunder både lav lønn og lange arbeidsdager. Ifølge to undersøkelser av arbeids- og levekår blant polske arbeidstakere i hovedstadsområdet, de såkalte Polonia-undersøkelsene, var lang arbeidstid utbredt blant polske bygg- og anleggsarbeidere i 2006.[^106] I denne bransjen arbeidet over halvparten av de spurte mer enn 50 timer i uka før spørreundersøkelsen, og 15 prosent hadde arbeidet mer enn 60 timer. I undersøkelsen fra 2010 hadde andelen med arbeidsuker over 50 timer sunket til 9 prosent. I renholdsbransjen hadde de polske arbeidstakerne derimot nokså korte arbeidsuker, og mange ga uttrykk for at de gjerne ville jobbe mer. Andelen som jobbet mindre enn 35 timer i uka sank fra 61 prosent i 2006 til 51 prosent i 2010. For begge yrkesgruppene fant studiene at de som hadde legale jobber stort sett hadde ordinære arbeidsuker.
+
+1.  **Arbeidstid i Norge sammenlignet med andre land**
+
+Som vist i figur 4.3 ligger utførte timeverk per innbygger ifølge Nasjonalregnskapet i Norge om lag på linje med andre land. Ettersom arbeidsinnsatsen i Norge er fordelt på et relativt sett høyere antall sysselsatte, er likevel arbeidstiden per sysselsatt lav i internasjonal sammenheng. Dette bildet bekreftes av Eurostat, jf. figur 5.26, og av undersøkelser om tariffavtalt arbeidstid.[^107] Norge har en gjennomsnittlig avtalt arbeidstid for lønnstakere på 33,6 timer per uke (2014). Det er kun Danmark og Nederland som har lavere gjennomsnittlig avtalt arbeidstid enn Norge blant landene i utvalget. Både forskjeller i arbeidstid blant heltidsansatte, arbeidstid blant deltidsansatte og andelen deltidsansatte bidrar til forskjellene mellom land.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Gjennomsnittlig vanlig arbeidstid<sup>1</sup> samlet og for heltids- og deltidsansatte (lønnstakere) i utvalgte europeiske land. 2014
+
+<sup>1</sup> For Norge er gjennomsnittlig vanlig arbeidstid i denne sammenheng avtalt arbeidstid inkludert mertid hvis respondenten oppgir dette. For de lønnstakerne som ikke har avtalt arbeidstid gjelder vanlig arbeidstid inkludert betalt og ubetalt overtid. For de andre landene gjelder arbeidstid som man vanligvis jobber. Dette kan da også inkludere betalt og ubetalt overtid. Dette betyr at tallene fra Norge kan være litt lavere sammenlignet med de andre landene.
 
 Eurostat basert på data fra Arbeidskraftsundersøkelsen.
 
-75
+Ser vi bare på gjennomsnittlig arbeidstid for heltidsansatte, ligger også Norge lavt sammenlignet med andre land med 38,5 timer. I Europa er det kun Danmark som har lavere gjennomsnittlig arbeidstid for heltidsansatte. Frankrike har 35 timers uke for en stor del av arbeidstakerne, men mange arbeidstakere jobber likevel mer enn dette, slik at vanlig arbeidstid for heltidsansatte er høyere enn i Norge.
 
-Kapittel 4
+For deltidsansatte er gjennomsnittlig arbeidstid i Norge 19 timer per uke. Dette er på samme nivå som mange andre europeiske land. Generelt varierer antall arbeidede timer for deltidsansatte mellom 18–24 timer i de ulike europeiske landene.
 
-Eurostat basert på data fra Arbeidskraftundersøkelsen.
-Nergaard, Kristine (2010): Avtalt arbeidstid og arbeidsønsker blant deltidsansatte, Fafo-notat 2010:17.
-Bråthen, Kjetil og Moland, Leif (2014): Ønsket og uønsket
-deltid i Posten, Vestre Viken Helseforetak og Vinmonopolet, Fafo-rapport 2014: 29.
-Nergaard, Kristine (2013): Deltid i varehandelen: Hva sier
-de ansatte?, Fafo-notat 2013:15.
-Fevang, E. (2004): Undersysselsatte i Norge: Hvem, hvorfor og hvor lenge? Rapport 7/2004, Frischsenteret.
-Fevang E. (2004).
-Svalund, Jørgen (2011): Undersysselsetting og ufrivillig
-deltid, Fafo-rapport 2011:34.
+1.  **Arbeidstid hjemme og ute**
 
-[Side 76]
+Registrering av arbeidstid konsentrerer seg i det vesentlige om inntektsgivende arbeid. Men det gjøres også ulønnet arbeid – gjerne i hjemmet. Når vi skal se på bidraget fra arbeidsstyrken, er det vesentlig å ikke bare ta hensyn til inntektsgivende arbeid, men også til husholdsarbeid. Med et døgn på 24 timer eksisterer det åpenbart en begrensning på hvor mange timer en husholdning kan bidra med i døgnet.
 
-76
+Mengden husholdsarbeid som gjøres ulønnet, påvirkes av hvor mye det koster å kjøpe tilsvarende tjenester i markedet, noe som igjen påvirkes både av skattenivået og av lønnsforskjeller mellom dem som kjøper tjenestene og dem som utfører dem. [^108] Et land som Norge, der lønnsforskjellene er relativt små samtidig som skattenivået er relativt høyt og progressivt, forventes etter økonomisk teori å ha et lavere nivå på innkjøp av tjenester til husholdningene. Offentlige skattefinansierte subsidier av barnetilsyn trekker likevel i motsatt retning. I tillegg bidrar et generelt høyt inntektsnivå til at folk ønsker mer fritid, og at de kan tolerere å bruke en høyere andel av inntekten på kjøp av husholdstjenester.
 
-NOU 2016: 1
-
-Kapittel 4
-
-Arbeidstidsutvalget
-
-Tabell 4.4 Antall og andel sysselsatte, heltids- og deltidssysselsatte og undersysselsatte per 2014
-(15–74 år)
-I alt 2014
-
-Menn 2014
-
-Kvinner 2014
-
-Sysselsatte (1 000)
-
-2 637
-
-1 392
-
-1 245
-
-Heltid (1 000)
-
-1 967
-
-1 199
-
-768
-
-Deltid i alt (1 000)
-
-661
-
-189
-
-473
-
-herav kort deltid, 1–19 timer (1 000)
-
-323
-
-106
-
-217
-
-herav lang deltid, 20–36 timer (1 000)
-
-338
-
-83
-
-255
-
-Antall undersysselsatte (1 000)
-
-62
-
-15
-
-47
-
-Andel sysselsatte som jobber deltid %
-
-25,1
-
-13,6
-
-38,0
-
-Andel undersysselsatte av alle sysselsatte %
-
-2,4
-
-1,1
-
-3,8
-
-Andel undersysselsatte av deltidssysselsatte %
-
-9,4
-
-7,9
-
-9,9
-
-Kilde: Statistisk sentralbyrå, arbeidskraftsundersøkelsen.
-
-A: Menn
-
-B: Kvinner
-
-60
-
-60
-
-50
-
-50
-
-40
-
-40
-
-30
-
-30
-
-20
-
-20
-
-10
-
-10
-
-Undersysselsatte
-
-Undersysselsatte
-Arbeidsledige
-
-Arbeidsledige
-0
-
-0
-2006
-
-2008
-
-2010
-
-2012
-
-2014
-
-2006
-
-2008
-
-2010
-
-2012
-
-2014
-
-Figur 4.10 Antall undersysselsatte og helt ledige menn og kvinner 1996–2014
-Kilde: Arbeidskraftsundersøkelsen
-
-Antallet undersysselsatte og antallet arbeidsledige22 ser ut til å samvariere over tid. Dette gjelder særlig blant kvinner, jf. figur 4.10. Blant menn
-er det flere arbeidsledige enn undersysselsatte, og
-blant kvinner er det flere undersysselsatte enn
-arbeidsledige.
-Ønsket arbeidstid blant undersysselsatte og ledige
-Ifølge Arbeidskraftsundersøkelsen ønsker de
-fleste av de undersysselsatte å jobbe lang deltid
-22
-
-Helt arbeidsledige er personer uten inntektsgivende arbeid
-som forsøkte å skaffe seg slikt arbeid i løpet av de siste 4
-ukene, og som kunne ha påtatt seg arbeid i løpet av om lag
-2 uker. Ufrivillig helt permitterte blir regnet som arbeidsledige etter en sammenhengende varighet på tre måneder.
-
-eller fulltid. I 2014 ønsket 36 000 undersysselsatte
-å jobbe heltid (37 timer eller mer) og 27 000
-ønsket en høyere stillingsprosent. Litt over 70 prosent av de undersysselsatte mennene ønsker fulltidsarbeid, mens det for kvinnene var litt over 50
-prosent.
-I 2014 var det ifølge Arbeidskraftsundersøkelsen 96 000 ledige, jf. tabell 4.3. 64 000 av ledige (67
-prosent) ønsket å jobbe fulltid (37 timer eller
-mer), mens 32 000 (33 prosent) ønsket å jobbe
-deltid. Blant ledige menn ønsket 76 prosent fulltidsarbeid, mens det blant ledige kvinner var 57
-prosent som ønsket dette.
-
-[Side 77]
-
-77
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-Kapittel 4
-
-kere som er helt eller delvis unntatt arbeidstidsbestemmelsene utgjøre anslagsvis 16 prosent
-(383 000 personer).
-
-8,5
-
-8,0
-
-4.4.1
-
-7,5
-
-7,0
-
-6,5
-
-6,0
-
-5,0
-
-1996
-1997
-1998
-1999
-2000
-2001
-2002
-2003
-2004
-2005
-2006
-2007
-2008
-2009
-2010
-2011
-2012
-2013
-2014
-
-5,5
-
-Figur 4.11 Utviklingen i andel selvstendig
-næringsdrivende (i prosent av sysselsatte)
-15–74 år. 1996–2014
-Kilde: Satistisk sentralbyrå, Arbeidskraftsundersøkelsen
-
-4.4
-
-Utenfor og innenfor
-arbeidsmiljøloven
-
-Utvalget har forsøkt å vurdere hvor mange personer i ulike kategorier som er unntatt hele eller
-deler av loven, jf. tabell 4.5. Selvstendig næringsdrivende og enkelte arbeidstakere er unntatt hele
-loven. Andre arbeidstakere er unntatt fra hele
-eller deler av arbeidstidskapitlet i loven, og noen
-er omfattet av egne regler i egne forskrifter. Se
-nærmere om dette i kapittel 3.
-Tallene i tabell 4.5 er basert på ulike statistikkilder fra SSB og forskningsrapporter. Kildene
-til de enkelte tallene er beskrevet i tabellen. Det
-tas forbehold om at tallene kan være usikre, fordi
-det ikke nødvendigvis er samsvar mellom juridiske
-og statistiske avgrensninger. Noen grupper kan
-være utelatt, og noen kan være anslått for høyt.
-Ifølge anslagene er litt over 20 prosent av de
-sysselsatte (573 000 personer) helt eller delvis
-unntatt fra arbeidstidskapitlet. Det er ikke tatt
-hensyn til frilansere i dette tallet. 2 av de 20 prosentene er omfattet av egen forskrift, og 7 prosent
-er selvstendig næringsdrivende (inkludert familiearbeidere). Den største gruppen av ansatte som er
-unntatt arbeidstidskapitlet er arbeidstakere i
-ledende stillinger (nesten 7 prosent) og arbeidstakere i særlig uavhengige stillinger (nesten 5 prosent). Ser vi bare på lønnstakere, vil andel lønnsta-
-
-Selvstendig næringsdrivende
-
-Selvstendig næringsdrivende er sysselsatte som
-ikke er ansatt og som har egen virksomhet. Andelen selvstendig næringsdrivende (inklusive primærnæringer) har de siste 20 årene variert mellom 7 og 8 prosent, jf. figur 4.11. I 2014 utgjorde
-andelen 7 prosent. Samlet sett var det 185 000
-selvstendig næringsdrivende i 2014.
-Utenom primærnæringene er andelen selvstendige om lag 6 prosent. Denne andelen har
-vært stabil over tid. I internasjonalt perspektiv er
-andelen selvstendige i Norge lav.
-70 prosent av de selvstendig næringsdrivende
-utenom primærnæringene har ikke ansatte ifølge
-Arbeidskraftsundersøkelsen. Det er størst andel
-selvstendig næringsdrivende innen kultur (18 prosent), faglig vitenskapelig og teknisk tjenesteyting
-(12 prosent) og bygg og anlegg (9 prosent) (gjennomsnitt for perioden 2009–2014).
-
-4.4.2
-
-Omfang av fritak grunnet ledende
-eller særlig uavhengig stilling
-
-Det finnes ingen samlet oversikt over hvor mange
-arbeidstakere som har ledende eller særlig uavhengig stilling. I dette avsnittet ser vi på noen
-undersøkelser som kan gi indikasjoner på omfanget av slike stillinger. Arbeidstakere i ledende
-eller særlig uavhengige stillinger omfattes ikke av
-arbeidstidsbestemmelsene, med unntak av § 10-2
-første, andre og fjerde ledd.
-På oppdrag fra Arbeids- og sosialdepartementet har det blitt gjennomført to studier for å kartlegge hvor utbredt slike stillinger er (Sentio 2006
-og Rambøll 2013). I tillegg har Arbeidsforskningsinstituttet (AFI) gjennomført en tredje studie med vekt på særlig uavhengige på oppdrag fra
-Negotia og Parat i 2014.
-I 2013 oppga 22 prosent av norske sysselsatte
-at de var unntatt arbeidstidsbestemmelsene. 30
-prosent av disse oppga at de var i en ledende stilling, og 21 prosent at de var i en uavhengig stilling.23 Samlet omfattet kategorien «ledende og
-særlig uavhengig stilling» ifølge denne undersøkelsen om lag 11 prosent av de sysselsatte, mot
-23
-
-Rambøll Management Consulting (2014): Vurdering av
-arbeidstid for arbeidstakere i særlig uavhengig stillinger og
-ledende stillinger. Rapport etter oppdrag fra Arbeids- og
-sosialdepartementet.
-
-[Side 78]
-
-78
-
-NOU 2016: 1
-
-Kapittel 4
-
-Arbeidstidsutvalget
-
-om lag 13 prosent i undersøkelsen fra 2006.24
-Begge undersøkelsene indikerer at ikke alle som
-selv oppgir at de har ledende eller særlig uavhengig stilling, faktisk har det. Dette diskuteres nærmere i kapittel 12.
-De som er unntatt fra arbeidstidsbestemmelsene av andre årsaker enn at de er ledere eller særlig uavhengige, oppgir at de er unntatt i kraft av
-tariffavtale eller særskilt forskrift. En relativt stor
-andel er dessuten selvstendig næringsdrivende.
-Det er flest menn som oppgir å være unntatt
-fra arbeidstidsbestemmelsene. Unntak er forholdsvis jevnt fordelt etter alder, og forekomsten
-24
-
-Sentio (2006): Omfang og bruk av bestemmelsene om unntak fra reglene om arbeidstid i arbeidsmiljøloven (2005).
-Utredning for Arbeids- og inkluderingsdepartementet.
-
-av unntak er økende med utdannings- og inntektsnivå. Forekomsten av personer med ledende og
-særlig uavhengig stilling er størst i bransjene
-varehandel, hotell og restaurant (ledende) og
-innenfor bank og finans (særlig uavhengig).25
-Studiene tyder på at både arbeidsgivere og
-arbeidstakere har begrenset kunnskap om kriteriene som skal være tilstede for å definere en stilling som ledende eller særlig uavhengig. Rambøll
-konkluderer med at kunnskapen om muligheten
-til å unnta arbeidstakere fra arbeidstidsbestemmelsene har økt, men at dybdekunnskapen om
-hvilke kriterier som skal være til stede er lav.
-
-25
-
-Rambøll (2014).
-
-Tabell 4.5 Oversikt over arbeidstakere1 som er helt eller delvis unntatt arbeidsmiljølovens bestemmelser
-om arbeidstid eller som har egne regler
-Antall
-2014
-
-Andel av
-sysselsatte
-(prosent)
-
-Sysselsatte i alt
-
-2 637 000
-
-100
-
-Selvstendig næringsdrivende inkl. familiearbeidere
-Lønnstakere i alt
-Lønnstakere unntatt hele
-AML, herav:
-– Sjøfart
-
-190 000
-
-7,2
-
-2 447 000
-29 559
-
-92,8
-1,1
-
-23 000
-
-0,9
-
-6 559
-
-0,2
-
-– Fangst og fiske
-
-Lønnstakere i ledende eller 295871
-særlig uavhengige stillinger,
-herav:
-– ledende
-174 042
-
-– Særlig uavhengige
-
-Kilde/merknad:
-
-Kilde: AKU, Næringskode 50 (inkluderer også
-vanntransport på innenlandske vann samt forsyning offshore servicetjenester), 2014.
-Kilde: AKU, Fiskere (yrkeskode 6222), 2014. Tallet kan være noe høyt siden en del av disse også
-kan være selvstendig næringsdrivende. Havbruksarbeidere (yrkeskode 6221) er ikke inkludert.
-
-11,2
-
-6,6
-
-121 829
-
-4,6
-
-Lønnstakere med arbeidstid 57 825
-fastsatt i forskrift, herav:
-
-2,2
-
-Kilde: Rambøll (22 prosent av alle lønnstakere
-oppgir at de er unntatt fra AML arbeidstid, og 30
-prosent av disse igjen oppgir at de er i ledende
-stillinger).
-Kilde: Rambøll (22 prosent av alle lønnstakere
-oppgir at de er unntatt fra AML arbeidstid, og 21
-prosent av disse igjen oppgir at de er i uavhengige stillinger).
-
-[Side 79]
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-79
-
-Kapittel 4
-
-Tabell 4.5 Oversikt over arbeidstakere1 som er helt eller delvis unntatt arbeidsmiljølovens bestemmelser
-om arbeidstid eller som har egne regler
-Antall
-2014
-
-Andel av
-sysselsatte
-(prosent)
-
-7 000
-
-0,3
-
-30 600
-
-1,2
-
-– Politi
-
-9 728
-
-0,4
-
-– Brann
-
-4 082
-
-0,2
-
-– Ansatte i utenriks639
-departementet
-– Ansatte som omfattes av 3 555
-medleverturnus i barnevernet
-
-0,02
-
-– Sivil luftfart
-
-– Petroleums-sektoren
-(kun offshore)
-
-– Ansatte i forsvaret
-
-0,1
-
-– Ansatte som omfattes av 2 221
-medleverturnus i rusinstitusjoner
-
-0,1
-
-Sum lønnstakere anslått å
-2 063 745
-være omfattet av AMLs
-bestemmelser om arbeidstid
-
-78,3
-
-1
-
-Kilde/merknad:
-
-Kilde: AKU, SSB Lufttransport (næringskode
-51), 2014. Omfatter ansatte i lufttransport både
-av passasjerer og gods. Tjenester tilknyttet lufttransport, for eksempel drift av flyplasser er ikke
-inkludert.
-Kilde: Nasjonalregnskapet, SSB, 2012. Det er her
-kun tatt utgangspunkt i næringen «utvinning av
-råolje og naturgass». Sysselsatte innenfor «tjenester tilknyttet utvinning av råolje og naturgass»
-er ikke inkludert.
-Kilde: AKU, SSB, 2014. Totalt var det i 2014 om
-lag 15 000 ansatte i politidirektoratet og politiet
-samlet.
-Kilde: AKU, SSB Yrkeskode 5411, Brannkonstabel (2014). (Tallet er muligens litt høyere da det
-kan være flere enn brannkonstablene som er
-omfattet av forskriften.)
-Kilde: SSB, registertall. Totalt var det om lag 18
-500 som jobbet i forsvaret i 2014. Forskriften gjelder kun feltmessig øvingsvirksomhet.
-Kilde: SSB registertall. 2014. Forskriften gjelder
-kun ansatte i utenriksstasjoner.
-Tallet er beregnet utfra antall avtalte årsverk for
-ansatte i private eller ideelle barnevernsinstitusjoner. Videre er det lagt til om lag 20 prosent
-pga. av deltidsarbeid. Det legges til grunn at om
-lag 50 prosent jobber i en eller annen form for
-medleverordning. I statlige barnevernsinstitusjoner brukes det mest ulike typer langturnusordninger, og de er derfor ikke med i beregningen.
-Kilde: SSB, Avtalte årsverk i barnevernsinstitusjoner, Fafo «Arbeidstid i barnevernsinstitusjoner» rapport nr. 2015:01
-Det er her tatt utgangspunkt i antall sysselsatte
-(om lag 4 600) i rusbehandlingsinstitusjoner
-(2013) Kilde: SSB Spesialisthelsetjenesten. Om
-lag 80 prosent av disse er tilknyttet
-døgnavdelinger. Kilde: Rapport fra Helsedirektoratet, desember 2012. Det er skjønnsmessig lagt
-til grunn at om lag 50 prosent av dem som jobber
-i døgnavdelingene, jobber i en medleverordning.
-
-Oppdragstakere/frilansere kommer ofte i en mellomstilling mellom selvstendig næringsdrivende og ansatte. Arbeidskraftsundersøkelsen har ingen egen gruppe for disse, og de vil derfor enten bli kategorisert som lønnstakere eller som selvstendig
-næringsdrivende.
-
-[Side 80]
-
-80
-
-NOU 2016: 1
-
-Kapittel 4
-
-Arbeidstidsutvalget
-
-Tabell 4.6 Utvikling i antall sysselsatte (1 000), antall ledere1 (1 000) og andel ledere i prosent av alle
-sysselsatte. 2000–2014. 15–74 år
-2000
-
-Antall sysselsatte (1 000)
-
-2001
-
-2002
-
-2003
-
-2004
-
-2005
-
-2006
-
-2007
-
-2008
-
-2009
-
-2010
-
-2011
-
-2012
-
-2013
-
-2014
-
-2 269 2 278 2 286 2 269 2 276 2 289 2 354 2 443 2 524 2 508 2 508 2 543 2 591 2 610 2 637
-
-Antall ledere
-(1 000)
-
-152
-
-162
-
-174
-
-170
-
-163
-
-151
-
-145
-
-141
-
-150
-
-151
-
-147
-
-165
-
-171
-
-174
-
-195
-
-Andel ledere %
-
-7,0
-
-7,0
-
-8,0
-
-7,0
-
-7,0
-
-7,0
-
-6,0
-
-6,0
-
-6,0
-
-6,0
-
-6,0
-
-6,5
-
-6,6
-
-6,7
-
-7,4
-
-1
-
-Inkludert ledere som er selvstendig næringsdrivende
-Kilde: Statistisk sentralbyrå, Arbeidskraftsundersøkelsen
-
-Over 60 prosent av personallederne med ansatte i
-ledende eller særlig uavhengige stillinger oppga i
-2014 at unntakene for disse var nedfelt i arbeidskontrakten.26 For særlig uavhengige stillinger
-oppga en andel på 38 prosent at unntaket er et
-resultat av en felles forståelse mellom bedrifter og
-ansatte og 18 prosent at unntaket er nedfelt i en
-tariffavtale. Tilsvarende andeler for ledende stillinger var 34 prosent og 15 prosent.
-Utviklingstrekk med betydning for utviklingen i antall
-ledende og særlig uavhengige stillinger
-Andre datakilder enn de ovennevnte spørreundersøkelsene kan også gi innsikt i utviklingstrekk
-som kan tenkes å gi en indikasjon på utviklingen i
-omfanget av arbeidstakere med ledende eller særlig uavhengige stillinger over tid. Den første datakilden er statistikk fra Arbeidskraftsundersøkelsen om antall eller andel personer med lederstilling. Den andre tilnærmingen ser nærmere på
-utviklingen i antall/andel ansatte i ulike næringsgrupper og diskuterer i hvilken grad ledende eller
-særlig uavhengige kan tenkes å befinne seg
-innenfor disse ut fra aktiviteten som foregår i
-næringene.
-Tabell 4.6 og 4.7 viser utviklingen over tid i
-antall og andel ledere samlet og fordelt etter
-næring.
-De som definerer seg som ledere i denne statistikken er imidlertid ikke nødvendigvis unntatt
-fra arbeidstidsreglene, da en lederstilling i seg
-selv ikke er tilstrekkelig for å kunne unntas.
-Tabell 4.6 og 4.7 vil derfor kun angi en øvre
-26
-
-Bergene, A.C., V. Hoff-Bernstrøm og A.M. Steen (2014):
-Norsk arbeidsliv 2014. Økt intensitet – med måling eller tillit, YS Arbeidslivsbarometer, Arbeidsforskningsinstituttet.
-
-grense for hvor mange som antas å være unntatt
-med begrunnelse i ledende stilling.
-Andelen ledere har variert mellom 6 og 8 prosent de siste 14 årene. For andel ledere etter
-næring finnes det kun sammenlignbare tall fra
-2011. I denne perioden har andelen ledere i
-enkelte næringer økt (for eksempel i varehandel),
-jf. tabell 4.7, mens andelen i andre næringer har
-gått ned (for eksempel i finansiering og forsikring).
-Ifølge Arbeidskraftsundersøkelsen oppga
-195 000 personer (7 prosent av alle sysselsatte) i
-2014 at de var ledere. Andelen ledere er høyest
-innenfor finansiering og forsikring (14 prosent),
-varehandel (13 prosent), overnatting og serveringsvirksomhet (12 prosent) og industri (11 prosent), jf. tabell 4.7.
-Fordelingen av sysselsettingen mellom næringer har endret seg mye de siste 50 årene, og dette
-kan også tenkes å ha påvirket i hvilken grad
-arbeidstakere har stillinger som kan anses som
-særlig uavhengige. Det har vært en klar økning i
-lønnstakere som jobber med faglig, vitenskapelig
-og teknisk tjenesteyting, IKT mv., det vil si næringer hvor en del av de ansatte kan tenkes å ha en
-stor grad av fleksibilitet i utføring av arbeidsoppgaver og hvor innslaget av særlig uavhengige stillinger kan være vesentlig, se figur 4.12. Figuren
-viser at det har vært en klar økning i slike næringer de siste 45 årene, fra om lag 110 000 sysselsatte i 1970 til 340 000 i 2014.
-De ulike kildene til kunnskap om omfanget av
-unntak fra lovens arbeidstidsbestemmelser utfra
-ledende eller særlig uavhengig stilling viser et
-relativt likt bilde.
-
-[Side 81]
-
-81
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-Kapittel 4
-
-Tabell 4.7 Antall sysselsatte i alt, ledere og andel ledere1 etter næring. 2011–2014
-
-Andel ledere i næringen (%)
-
-Ledere
-(1 000)
-
-Alle
-sysselsatte
-(1 000)
-
-2011
-
-2012
-
-2013
-
-2014
-
-2014
-
-2014
-
-00–99 Alle næringer
-
-6,5
-
-6,6
-
-6,7
-
-7,4
-
-195
-
-2637
-
-45–47 Varehandel, reparasjon av motorvogner
-
-8,6
-
-10,3
-
-10,7
-
-12,9
-
-45
-
-348
-
-10–33 Industri
-
-8,0
-
-8,8
-
-8,3
-
-10,5
-
-24
-
-228
-
-86–88 Helse- og sosialtjenester
-
-3,5
-
-3,3
-
-3,4
-
-4,2
-
-22
-
-520
-
-68–82 Teknisk og forretningsmessig tjenesteyting,
-eiendomsdrift
-
-6,0
-
-5,3
-
-5,4
-
-5,2
-
-15
-
-290
-
-84 Off. adm., forsvar, sosialforsikring
-
-10,5
-
-10,4
-
-9,6
-
-8,7
-
-15
-
-173
-
-41–43 Bygge- og anleggsvirksomhet
-
-6,8
-
-6,7
-
-5,6
-
-5,5
-
-11
-
-201
-
-58–63 Informasjon og kommunikasjon
-
-8,4
-
-7,8
-
-9,5
-
-9,7
-
-10
-
-103
-
-85 Undervisning
-
-4,3
-
-4,7
-
-4,5
-
-4,4
-
-10
-
-226
-
-55–56 Overnattings- og serveringsvirksomhet
-
-9,0
-
-7,4
-
-8,7
-
-12,0
-
-9
-
-75
-
-90–99 Personlig tjenesteyting
-
-7,8
-
-7,0
-
-7,8
-
-8,4
-
-9
-
-107
-
-64–66 Finansiering og forsikring
-
-13,7
-
-15,4
-
-14,8
-
-14,0
-
-8
-
-57
-
-05–09 Bergverksdrift og utvinning
-
-7,5
-
-6,8
-
-6,9
-
-9,1
-
-7
-
-77
-
-49–53 Transport og lagring
-
-4,9
-
-4,9
-
-5,0
-
-4,3
-
-6
-
-138
-
-35–39 Elektrisitet, vann og renovasjon
-
-9,4
-
-10,0
-
-7,4
-
-7,1
-
-2
-
-28
-
-03 Fiske, fangst og akvakultur
-
-7,1
-
-6,7
-
-7,1
-
-7,1
-
-1
-
-14
-
-01–02 Jordbruk og skogbruk
-
-2,2
-
-0,0
-
-0,0
-
-0,0
-
-0
-
-44
-
-1
-
-Ledere vil i denne statistikken også inkludere selvstendig næringsdrivende
-Kilde: Statistisk sentralbyrå, Arbeidskraftsundersøkelsen
-
-[Side 82]
-
-82
-
-NOU 2016: 1
-
-Kapittel 4
-
-Arbeidstidsutvalget
-
-3500
-
-350
-Kulturell virksomhet, underholdning og fritidsaktiviteter
-Annonse- og reklamevirksomhet, annen faglig og teknisk tjenesteyting
-Forskning og utviklingsarbeid
-Juridisk og regnskapsmessig tjenesteyting, arkitektvirksomhet mv.
-
-300
-
-3000
-
-Omsetning og drift av fast eiendom
-Finansierings- og forsikringsvirksomhet
-Tjenester tilknyttet informasjonsteknologi og informasjonstjenester
-Telekommunikasjon
-
-250
-
-2500
-
-Forlagsvirksomhet, audiovisuell produksjon og kringkasting
-Alle næringer (høyre akse)
-
-200
-
-2000
-
-150
-
-1500
-
-100
-
-1000
-
-50
-
-500
-
-0
-
-0
-1970
-
-1975
-
-1980
-
-1985
-
-1990
-
-1995
-
-2000
-
-2005
-
-Figur 4.12 Antall sysselsatte i næringer med antatt høy fleksibilitet. 1970–2013
-Kilde: SSB, Nasjonalregnskap
-
-2010
-
-[Side 83]
-
-83
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-Kapittel 5
-
-Kapittel 5
-
-Arbeidstid i Norge – utvikling og særtrekk
-5.1
-
-Innledning
-
-De siste tiårene har både arbeidslivet og arbeidstiden endret seg. Relativt færre jobber i primærnæringene og industrien, og flere jobber i helse- og
-omsorgssektoren, som i gjennomsnitt har kortere
-arbeidstid. Sysselsettingen blant kvinner har økt.
-En del av den økte sysselsettingen har kommet i
-form av deltidsstillinger. I tillegg til arbeidstidsnedsettelser i lov eller tariffavtaler har dette
-bidratt til at utførte timeverk per sysselsatt har
-gått ned. Økt sysselsettingsandel har likevel
-bidratt til at utførte timeverk per innbygger har
-holdt seg omtrent konstant siden 1970.
-Økt grad av likestilling og høyere utdanningsnivå har bidratt til flere heltidsarbeidende
-kvinner. Likevel er det mange virksomheter i
-blant annet varehandelen og i helse- og omsorgssektoren som benytter deltidsstillinger for å løse
-utfordringer knyttet til bemanningen. Det er derfor stadig etterspørsel etter deltidsarbeidende.
-Mange arbeider utenom ordinær dagtid: på
-kveldstid, om nettene og i helgene. Omfanget av
-slikt arbeid har samlet sett endret seg relativt lite
-over tid. Arbeid på lørdager har blitt mindre vanlig.
-Overgangen til mer kunnskapsintensiv produksjon og økende utdanningsnivå har medført
-nye måter å organisere arbeidet på, herunder bruken av fleksibel arbeidstid. Den teknologiske
-utviklingen bringer med seg både muligheter og
-utfordringer. Den har gitt muligheter til individtilpassede løsninger slik som hjemmearbeid, men
-også mer flytende grenser mellom arbeidstid og
-fritid.
-I punkt 5.2 ser vi nærmere på utviklingen i
-gjennomsnittlig arbeidstid de siste 40 årene. I
-avsnittene som følger deretter går vi nærmere inn
-på ulike sider av arbeidstiden, slik som arbeidstid
-etter næring (5.3), heltid og deltid (5.4), overtid
-og lang arbeidstid (5.5), arbeid utenom ordinær
-dagtid (5.6), arbeidstid blant innvandrere (5.7),
-arbeidstid sammenlignet med andre land (5.8) og
-tidsbruk (5.9). Til slutt ser vi nærmere på hvordan
-
-den teknologiske utviklingen påvirker arbeidstiden (5.10) og enkelte utviklingstrekk i deler av
-arbeidslivet hvor arbeidstiden ikke måles (5.11).
-Boks 5.1 gir en oversikt over de ulike arbeidstidsbegrepene som er brukt i kapitlet.
-
-5.2
-
-Lovbestemt, avtalt og faktisk
-arbeidstid
-
-Den gjennomsnittlige, avtalte arbeidstiden per
-sysselsatt er kortere enn den lovbestemte alminnelige arbeidstiden. Det skyldes både deltidsarbeid og at de fleste tariffavtaler har bestemmelser
-om kortere alminnelig arbeidstid enn lovens grenser. Den avtalte, årlige arbeidstiden i tariffavtaledekket område har blitt gradvis redusert etter
-1970 gjennom reduksjon i antall arbeidstimer per
-uke og lengre ferie. Tabell 5.1 gir en oversikt over
-endringer i lovbestemt og/eller avtalt arbeidstid
-inkludert ferie, utenom skift- og turnusyrkene, i
-perioden 1965 til i dag. Tabell 5.2 viser hva timetallet blir per år dersom grensene for overtid
-utnyttes fullt ut.
-For arbeid i skift eller turnus er arbeidstiden
-kortere både etter loven og ifølge tariffavtalene.
-Noen arbeidstakere har dessuten en avtalt eller
-vanlig arbeidstid som er lengre enn den lovbestemte grensen på 40 timer. Forskjeller i
-arbeidstid og omfanget av ulik heltid og deltid
-omtales i punkt 5.4. og 5.5.
-Arbeidstiden har blitt redusert gjennom de
-siste tiårene. Tall fra Nasjonalregnskapet viser at
-antallet utførte timeverk1 per sysselsatt per år har
-gått betydelig ned siden 1970, fra 1 835 timer i
-1970 til 1 427 timer i 2014, jf. figur 5.1. Antall timeverk per innbygger har imidlertid holdt seg relativt
-1
-
-For definisjon av utførte timeverk, se boks 5.1. Utviklingen
-i utførte timeverk ifølge Nasjonalregnskapet delt på antall
-sysselsatte gir en indikasjon på utviklingen i gjennomsnittlig faktisk arbeidstid. Utførte timeverk delt på antall innbyggere gir et samlet bilde av arbeidsinnsatsen i befolkningen, der også sysselsettingsandelene og alderssammensetningen av befolkningen spiller inn.
-
-[Side 84]
-
-84
-
-Kapittel 5
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-Boks 5.1 Arbeidstidsbegreper i ulike statistikker
-– Overtid er arbeidstid utover avtalt arbeidstid
-Nedenfor omtales en del begreper som brukes i
-for heltidsansatte. Statistikken omfatter både
-dette kapitlet. Disse vil ikke nødvendigvis alltid
-betalt og ubetalt overtidsarbeid, så vel som
-følge definisjonene som gjelder i loven.
-overtid som helt eller delvis kan avspaseres.
-– Avtalt arbeidstid er det antall arbeidstimer
-– Skift- eller turnusarbeid er arbeidstidsordninper uke som den ansatte ifølge arbeidskonger hvor arbeidstiden legges til ulike tider av
-trakten skal være på arbeid. Overtid er ikke
-døgnet i nærmere angitte perioder. De som
-inkludert i avtalt arbeidstid med mindre den
-regelmessig har minst to ordninger utenom
-er fast avtalt.
-ordinær dagtid (kveld og natt eller lørdag og
-– Vanlig arbeidstid – Ikke alle respondentene i
-søndag i kombinasjon med kveld/natt) blir i
-Arbeidskraftsundersøkelsen har kontrakter
-statistikken definert som ansatte med skiftom avtalt arbeidstid, enten fordi de er selveller turnusarbeid.
-stendige eller mangler kontrakt for antall
-– Utførte timeverk – I Nasjonalregnskapet er
-timer de skal jobbe i uka. I disse tilfellene
-utførte timeverk antall timeverk utført av alle
-brukes den oppgitte vanlige arbeidstiden fra
-sysselsatte personer (lønnstakere og selvrespondenten.
-stendige inklusive personer på korttidsopp– Faktisk arbeidstid omfatter alle timeverk
-hold) i løpet av et år i innenlandsk produkutført i inntektsgivende arbeid, inklusive
-sjonsaktivitet. Timeverkene gjelder arbeid
-overtidsarbeid eller ekstraarbeid. Fravær på
-utført innenfor effektiv normalarbeidstid,
-grunn av ferie, sykdom, permisjon, arbeidsmed tillegg for utført overtid og fradrag for
-konflikt mv. som varer deler av undersøkelfravær på grunn av sykdom, permisjon, ferie
-sesuka, kommer til fratrekk i faktisk arbeidsog eventuelle arbeidskonflikter. Antall
-tid. Personer som er fraværende hele underutførte timeverk påvirkes av kalendermessøkelsesuka er ikke medregnet.
-sige forhold (bevegelige helligdager og
-– Heltid beregnes ut fra avtalt/vanlig arbeidsskuddår). Antall arbeidsdager vil kunne varitid. Arbeidstid på 37 timer og over defineres
-ere med inntil 3 dager fra ett år til det neste.
-som heltid, i tillegg også arbeidstid mellom
-Utførte timeverk kan mest sammenlignes
-32 og 36 timer der hvor dette utgjør heltid i
-med begrepet «faktisk arbeidstid» fra
-vedkommende yrke.
-Arbeidskraftsundersøkelsen men hvor også
-– Deltid er i Arbeidskraftsundersøkelsen defipersoner på korttidsopphold er inkludert.
-nert lik avtalt arbeidstid på 1–32 timer, samt
-arbeidstid på 32–36 timer i yrker der dette
-Kilde: Arbeidskraftsundersøkelsen og Nasjonalregnskapet,
-ikke er heltid. For sysselsatte med flere
-SSB.
-arbeidsforhold (jobber) summeres arbeidstiden for hoved- og biarbeidsforhold.
-stabilt (779 timer i 1970 mot 767 timer i 2014).
-Dette henger sammen med økt sysselsettingsandel i perioden, i hovedsak på grunn av kvinners
-økte deltakelse i arbeidsmarkedet.
-En studie fra 2000 forsøker å anslå hvor mye
-av nedgangen i arbeidstid som kan forklares av
-ulike arbeidstidsnedsettelser, endret ferielengde
-samt bidrag fra deltidsarbeid mv. i perioden 1972
-til 1989 ved hjelp av tall både fra Nasjonalregnskapet og AKU.2 Ifølge denne studien kunne nedgang
-i arbeidstiden for heltidsansatte forklare anslagsvis 72 prosent av nedgangen i gjennomsnittlig
-arbeidstid i perioden på i alt 18,5 prosent. En
-økende andel sysselsatte i deltidsstillinger forklarte om lag 27 prosent av nedgangen. Av nedgangen i arbeidstid for heltidsansatte på i alt
-
-13,5 prosent ble større lov- eller avtalefestede
-endringer i arbeidstiden anslått å forklare mellom
-4 og 8 prosentpoeng. Resten av nedgangen for
-heltidsansatte skyldtes andre forhold, blant annet
-overgang fra næringer med lang arbeidstid til
-næringer med kortere arbeidstid. Ifølge studien
-bidro endringer i ferie i liten grad til nedgangen i
-arbeidstid i perioden, og det samme gjelder
-endringer i overtid og fravær når man ser bort fra
-midlertidige konjunkturelle svingninger.
-De siste ti årene har reduksjonen i gjennomsnittlig arbeidstid stoppet opp. Dette må blant
-annet sees i sammenheng med at det ikke har
-skjedd endringer i lovbestemt eller avtalt arbeidstid for store grupper i denne perioden.
-
-[Side 85]
-
-85
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-Kapittel 5
-
-Tabell 5.1 Endringer i avtalt arbeidstid i full stilling i tariffavtaledekket område, utenom skiftog turnusyrker
-Arbeidstimer
-per uke
-
-Arbeidsuker
-per år
-
-Arbeidstimer
-per år1
-
-1965 (4. ferieuke innført, ferieloven)
-
-45,0
-
-48,0
-
-2 100
-
-1968 (kortere arbeidsuke ifølge arbeidervernloven)
-
-42,5
-
-48,0
-
-1 972
-
-1976 (kortere arbeidsuke ifølge arbeidervernloven)
-
-40,0
-
-48,0
-
-1 856
-
-1982 (én ekstra feriedag innføres, ferieloven)
-
-40,0
-
-47,8
-
-1 848
-
-1987 (kortere arbeidsuke, tariffavtale)
-
-37,5
-
-47,8
-
-1 732,5
-
-2000–2001 (fire ekstra feriedager, tariffavtale)
-
-37,5
-
-47,0
-
-1 702,5
-
-1
-
-Fratrukket et timetall som tilsvarer 8 bevegelige helligdager per år. Dette innebærer en antakelse om at 2 av årets 10 bevegelige
-helligdager sammenfaller med andre fridager.
-Kilde: Finansdepartementet
-
-Tabell 5.2 Samlet arbeidstid etter arbeidsmiljøloven og ferieloven. 1970–2014
-Maksimal arbeidstid,
-Maksimalt antall
-alminnelig (uke) timer pålagt overtid
-
-Maksimalt antall timer
-overtid ved avtale
-
-Totalt samlet antall
-timer per år1
-
-1970–1976
-
-42,5
-
-200
-
-300 (lokal avtale)
-
-2 172
-
-1976–1982
-
-40
-
-200
-
-300 (lokal avtale)
-
-2 056
-
-1982–2002
-
-40
-
-200
-
-300 (lokal avtale)
-
-2 048
-
-2003–2005
-
-40 -
-
-400 (individuell avtale)
-
-2 248
-
-2006–2014
-
-40
-
-300 (lokal avtale)
-
-2 048
-
-1
-
-200
-
-Forutsatt at kvotene for overtid utnyttes fullt ut i hele perioden, enten det er pålagt eller avtalt overtid. Det legges til grunn 20
-dagers ferie fram til 1982, deretter 21, og 8 bevegelige helligdager per år.
-
-2500
-
-2000
-
-1500
-
-1000
-
-500
-
-0
-1970
-
-1975
-
-1980
-Timer per sysselsatt
-
-1985
-
-1990
-
-1995
-
-Timer per innbygger
-
-2000
-
-2005
-
-2010
-
-Avtalt arbeidstid i full stilling
-
-Figur 5.1 Avtalt arbeidstid i tariffavtaledekket område (ikke skift og turnus) og timeverk per sysselsatt/
-innbygger ifølge nasjonalregnskapet. 1970–2014
-Kilder: Statistisk sentralbyrå, Nasjonalregnskapet (arbeidstimer per sysselsatt og per innbygger). Egne beregninger (avtalt arbeidstid).
-
-[Side 86]
-
-86
-
-NOU 2016: 1
-
-Kapittel 5
-
-Arbeidstidsutvalget
-
-Tabell 5.3 Antall sysselsatte etter yrkesstatus og gjennomsnittlig faktisk og avtalt arbeidstid per uke
-2014
-Sysselsatte i alt
-(1 000 personer)
-
-Faktisk arbeidstid1
-(timer per uke)
-
-Avtalt/vanlig arbeidstid2
-(timer per uke)
-
-I alt
-
-Menn
-
-Kvinner
-
-I alt
-
-Menn
-
-Kvinner
-
-I alt
-
-Menn
-
-Kvinner
-
-I alt
-
-2 637
-
-1 392
-
-1 245
-
-34,4
-
-37,4
-
-30,9
-
-34,4
-
-37,0
-
-31,5
-
-Lønnstakere
-
-2 447
-
-1 256
-
-1 191
-
-34,0
-
-36,9
-
-30,8
-
-34,0
-
-36,3
-
-31,4
-
-Selvstendige
-
-185
-
-133
-
-52
-
-40,0
-
-42,5
-
-33,5
-
-1
-
-Faktisk arbeidstid omfatter alle timeverk utført i inntektsgivende arbeid, inklusive overtid eller ekstraarbeid utover avtalt
-arbeidstid (mertid) men eksklusive fravær på grunn av ferie, sykdom, permisjon, arbeidskonflikt mv.
-2 Avtalt arbeidstid er det antall arbeidstimer per uke som den ansatte ifølge arbeidskontrakten skal være på arbeid. Eventuelt fravær fra arbeidet på grunn av sykdom/ferie er ikke trukket fra. Overtid er ikke med hvis ikke den er fast avtalt. For ansatte som
-ikke har noen arbeidstidsavtale, samt for selvstendige og familiearbeidere, gjelder deres vanlige (gjennomsnittlige) arbeidstid
-per uke. Inkludert arbeidstid i eventuelle bi-jobber.
-Kilde: Arbeidskraftsundersøkelsen, SSB
-
-Gjennomsnittlig avtalt og faktisk arbeidstid per uke
-Den gjennomsnittlige avtalte/vanlige arbeidstiden
-for lønnstakere var ifølge Arbeidskraftundersøkelsen 34,4 timer per uke i 2014, se tabell 5.3. Her er
-også alle som jobber deltid inkludert. Også den
-faktiske arbeidstiden for lønnstakere var ifølge
-Arbeidskraftsundersøkelsen 34,4 timer per uke. I
-dette tallet er overtid inkludert, mens ferie og
-annet fravær er trukket fra. Sysselsatte kvinner
-jobber i gjennomsnitt 6–7 timer mindre per uke
-enn sysselsatte menn, noe som i det vesentlige
-skyldes et høyere innslag av deltid blant kvinner
-enn blant menn.
-Tabell 5.3 viser at kvinnelige lønnstakere i
-gjennomsnitt har en litt høyere avtalt/vanlig
-arbeidstid enn faktisk arbeidstid (31,4 mot 30,8
-timer per uke), mens det er motsatt for menn.
-Selvstendig næringsdrivende har en høyere gjennomsnittlig faktisk arbeidstid enn lønnstakere og
-er ikke omfattet av lovens bestemmelser om
-arbeidstid. Kvinnelige selvstendig næringsdrivende har en kortere arbeidsuke enn mannlige
-selvstendig næringsdrivende. 93 prosent av alle
-sysselsatte i 2014 er lønnstakere og 7 prosent
-(185 000) er selvstendig næringsdrivende.
-Utviklingen i gjennomsnittlig faktisk arbeidstid for
-heltids- og deltidsansatte
-SSB offentliggjør kun faktisk arbeidstid samlet for
-alle ansatte. I tabell 5.3 framgår det at den gjennomsnittlige faktiske arbeidstiden for lønnstakere
-ifølge SSB er 34,4 timer. Eurostat publiserer i til2
-
-Econ (2000): Gjennomsnittlig arbeidstid, Econ-rapport nr.
-20/2000.
-
-legg faktisk arbeidstid fordelt på heltids- og deltidsansatte. Tallene er basert på norske AKU-data,
-men har til forskjell fra publiseringen fra SSB ikke
-med biarbeidsforhold. Tar man med biarbeidsforhold, vil gjennomsnittlig faktisk arbeidstid bli noe
-høyere. Ifølge Eurostat var gjennomsnittlig faktisk
-arbeidstid for alle ansatte (sum heltids- og deltidsansatte) på 34,0 timer i 2014.
-Figur 5.2 viser utviklingen i faktisk arbeidstid
-for alle lønnstakere samlet og for henholdsvis heltids- og deltidsansatte (lønnstakere) ifølge Eurostat. De siste 20 årene har den gjennomsnittlige
-faktiske arbeidstiden gått ned for menn, mens den
-har vært noenlunde stabil for kvinner.
-Når det gjelder heltidsansatte, var gjennomsnittlig faktisk arbeidstid i 2014 38,8 timer, henholdsvis 39,9 timer for heltidsansatte menn og
-36,9 timer for heltidsansatte kvinner. Forskjellen
-mellom heltidsansatte kvinner og heltidsansatte
-menn har holdt seg gjennom de siste 20 årene.
-For deltidsansatte var gjennomsnittlig faktisk
-arbeidstid i 2014 20,2 timer, henholdsvis 20,6
-timer blant kvinner og 19,3 timer blant menn. Faktisk arbeidstid for deltidsansatte kvinner har ligget over arbeidstiden for deltidsansatte menn
-gjennom den siste 20-årsperioden.
-Arbeidstid, sysselsetting og innbyggertall
-For å forstå den relative betydningen av
-endringene i arbeidstid for utviklingen av det
-totale arbeidstilbudet i Norge målt i timeverk, er
-det hensiktsmessig å dekomponere veksten i
-timeverk. Holmøy og Thoresen (2013) dekomponerer den historiske utviklingen i antall utførte
-timeverk i bidrag fra endring i arbeidstid, endring
-i sysselsetting og endring i antall innbyggere i
-
-[Side 87]
-
-87
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-Kapittel 5
-
-45
-
-40
-
-40
-
-40
-
-35
-
-35
-
-35
-
-30
-
-30
-
-30
-
-25
-
-25
-
-25
-
-20
-
-20
-
-20
-
-15
-
-15
-
-15
-
-10
-
-10
-
-10
-
-5
-
-5
-
-5
-
-0
-
-0
-
-0
-
-1995
-1997
-1999
-2001
-2003
-2005
-2007
-2009
-2011
-2013
-
-45
-
-1995
-1997
-1999
-2001
-2003
-2005
-2007
-2009
-2011
-2013
-
-45
-
-Heltid+deltid
-
-Heltid
-
-1995
-1997
-1999
-2001
-2003
-2005
-2007
-2009
-2011
-2013
-
-C: Kvinner
-
-B: Menn
-
-A: I alt
-
-Deltid
-
-Figur 5.2 Gjennomsnittlig faktisk1 arbeidstid (antall timer per uke) for heltids og deltidsansatte i hovedarbeidsforholdet. I alt og etter kjønn. 1995–2014
-1
-
-Gjelder faktisk antall arbeidede timer i hovedarbeidsforholdet for de som har inntektsgivende arbeid (er i jobb) i referanseuka.
-Personer som er i permisjon/er sykmeldte eller har annet fravær er ikke med i beregningsgrunnlaget. Faktisk arbeidstid inkluderer all ekstratid (mertid/overtid), både betalt og ubetalt.
-Kilde: Eurostat, basert på data fra Arbeidskraftsundersøkelsen.
-
-yrkesaktiv alder.3 Som det framgår av tabell 5.4,
-har vekst i befolkningen i arbeidsdyktig alder
-bidratt positivt til samlet antall timeverk i hele
-perioden. Arbeidstiden har trukket samlet timeverk ned hver periode, spesielt fra 1960 til 1980.
-Denne studien ser ikke på en videre dekomponering av arbeidstiden i bidrag fra overtid, midlertidig fravær, deltid og ferie. Endringen i arbeidstid
-slik det framkommer her er dermed et produkt av
-endringer i disse størrelsene. Bidraget fra sysselsettingsandelen har variert. Økt sysselsettingsandel bidro særlig mye til økte timeverk i perioden
-3
-
-Erling Holmøy og Thor Olav Thoresen (2013): Grunnlag
-for vurdering av arbeidstilbudspotensialet i Norge på lang
-sikt, SSB-rapport 9/2013.
-
-1970 til 1980 og fra 1990 til 2000. Fra 2000 til 2010
-har både sysselsetting og arbeidstid hatt en negativ, men beskjeden, innvirkning på totalt antall
-timeverk, mens særlig sterk vekst i befolkningen i
-arbeidsdyktig alder har trukket samlet antall timeverk opp.
-
-5.3
-
-Arbeidstid og næringsstruktur
-
-I 1970 var det klare forskjeller i gjennomsnittlig
-arbeidstid4 på tvers av hovednæringene. Disse forskjellene økte gjennom 1980- og 1990-tallet, men
-4
-
-Her er gjennomsnittlig arbeidstid definert som utførte
-timeverk per sysselsatt ifølge Nasjonalregnskapet.
-
-Tabell 5.4 Bidrag til vekst i samlet timeverksinnsats. Gjennomsnittlige årlige vekstrater. Prosent
-Timeverk i alt
-
-Bidrag fra
-Arbeidstid per sysselsatt
-
-Sysselsetting per innbyggerl Befolkning 16–74 år
-
-1960–1970
-
--0,3
-
--1,0
-
--0,2
-
-0,9
-
-1970–1980
-
-0,2
-
--1,5
-
-1,0
-
-0,8
-
-1980–1990
-
-0,0
-
--0,5
-
--0,1
-
-0,7
-
-1990–2000
-
-0,9
-
--0,3
-
-0,9
-
-0,3
-
-2000–2010
-
-0,9
-
--0,2
-
--0,1
-
-1,2
-
-Kilde: Statistisk sentralbyrå, rapport 2013/9
-
-[Side 88]
-
-Kapittel 5
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-har deretter igjen krympet, jf. figur 5.3. De sysselsatte i særlig primærnæringene har gjennomgående hatt lang gjennomsnittlig arbeidstid.
-Arbeidstiden i denne næringen har avtatt noe svakere enn arbeidstiden i andre næringer (-20 prosent i perioden 1970 til 2014, mot -22 prosent for
-alle næringer samlet). Gjennomsnittlig arbeidstid
-er markert lavere i helse- og omsorgsektoren enn
-i andre næringer. Dette forklares blant annet av
-kortere formell arbeidstid og høy deltidsandel.
-Arbeidstiden her har samlet over perioden blitt
-redusert relativt mer enn i andre næringer (-25
-prosent), selv om gjennomsnittlig arbeidstid har
-tatt seg noe opp igjen de siste ti årene i denne
-næringen.
-I løpet av de siste tiårene har andelen som er
-sysselsatt i primær- og sekundærnæringene
-avtatt, jf. figur 5.4 i boks 5.2. Samtidig har andelen
-av de sysselsatte som jobber i helse- og omsorgssektoren, økt sterkt. Holmøy og Thoresen (2013)
-finner imidlertid at effekten av at arbeidstiden har
-falt innenfor de enkeltvise næringene har bidratt
-langt mer til endringen i gjennomsnittlig arbeids-
-
-2500
-
-2000
-
-1500
-
-1000
-
-500
-
-0
-
-Primærnæring
-Sekundærnæring
-Helse- og omsorgstjenester
-Tertiærnæring ellers
-1970
-1972
-1974
-1976
-1978
-1980
-1982
-1984
-1986
-1988
-1990
-1992
-1994
-1996
-1998
-2000
-2002
-2004
-2006
-2008
-2010
-2012
-2014
-
-88
-
-Figur 5.3 Utførte timeverk per år per sysselsatt
-etter næring. 1970–2014
-Kilde: Statistisk sentralbyrå, Nasjonalregnskapet.
-
-Tabell 5.5 Gjennomsnittlig faktisk arbeidstid per uke etter næring og kjønn. 2014
-Begge kjønn
-
-Menn
-
-Kvinner
-
-Alle næringer
-
-34,4
-
-37,4
-
-30,9
-
-Jordbruk, skogbruk og fiske
-
-44,7
-
-47,1
-
-35,8
-
-Bergverksdrift og utvinning
-
-42,2
-
-43,3
-
-37,9
-
-Transport og lagring
-
-38,4
-
-39,8
-
-32,6
-
-Bygge- og anleggsvirksomhet
-
-37,3
-
-37,9
-
-31,2
-
-Handel med og reparasjon av motorvogner
-
-36,9
-
-38,1
-
-29,8
-
-Industri
-
-36,7
-
-37,7
-
-33,1
-
-Informasjon og kommunikasjon
-
-36,5
-
-37,7
-
-33,1
-
-Finansiering og forsikring
-
-36,5
-
-37,9
-
-35,1
-
-Teknisk tjenesteyting, eiendomsdrift
-
-36,3
-
-38,3
-
-33,2
-
-Agentur- og engroshandel, unntatt med motorvogner
-
-36,0
-
-37,0
-
-33,4
-
-Off. adm., forsvar, sosialforsikring
-
-36,0
-
-37,6
-
-34,3
-
-Elektrisitet, vann og renovasjon
-
-35,5
-
-36,4
-
-32,4
-
-Forretningsmessig tjenesteyting
-
-34,2
-
-35,9
-
-32,1
-
-Undervisning
-
-33,2
-
-35,4
-
-31,9
-
-Overnattings- og serveringsvirksomhet
-
-31,1
-
-34,7
-
-28,6
-
-Helse- og sosialtjenester
-
-30,9
-
-33,8
-
-30,2
-
-Personlig tjenesteyting
-
-30,4
-
-33,9
-
-27,9
-
-Detaljhandel, unntatt med motorvogner
-
-27,3
-
-31,1
-
-25,1
-
-Kilde: SSB, Arbeidskraftsundersøkelsen
-
-[Side 89]
-
-89
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-Kapittel 5
-
-Boks 5.2 Nærings-, yrkes- og foretaksstruktur i Norge
-Næringsstrukturen i Norge har endret seg betydet har vært en betydelig økning i sysselsatte i
-delig siden 1970. Antall sysselsatte i primær- og
-tertiærnæringene. Dette gjelder særlig helse- og
-sekundærnæringene har gått ned samtidig som
-omsorgstjenester, jf. figur 5.4.
-Primærnæring
-Industri og bergverk
-Utvinnning av råolje og naturgass, inkl. tjenester
-Øvrig sekundærnæring
-Varehandel og reparasjon av motorvogner
-Undervisning
-Helse- og omsorgstjenester
-Øvrig tertiærnæring
--200
-
--100
-
-0
-
-100
-
-200
-
-300
-
-400
-
-500
-
-600
-
-Figur 5.4 Endring i antall sysselsatte (1 000) etter næring. 1970–2014
-Kilde: Statistisk sentralbyrå, Nasjonalregnskapet
-
-Helse- og sosialtjenester er den enkeltnæringen
-hvor sysselsettingen har økt mest, mens sysselsettingen har gått ned både i industrien og i pri-
-
-mærnæringene. Fordelingen av sysselsatte etter
-næring i 2014 er vist i figur 5.5.
-
-Kultur, underholdning mv.
-Helse- og omsorgstjenester
-Undervisning
-Offentlig admistrasjon og forsvar
-Forretningsmessig tjenesteyting
-Faglig, vitensk. og tekn. tj.yting
-Omsetning og drift av fast eiendom
-Finansierings- og forsikringsvirksomhet
-Informasjon og kommunikasjon
-Overnattings- og serveringsvirksomhet
-Post og distribusjonsvirksomhet
-Transport utenom utenriks sjøfart
-Utenriks sjøfart
-Rørtransport
-Varehandel og rep. av motorvogner
-Bygge- og anleggsvirksomhet
-Vannforsyning, avløp og renovasjon
-Elektrisitets-, gass- og varmtvannsforsyn.
-Industri
-Utvinn. av olje og gass, inkl. tjenester
-Bergverksdrift
-Fiske, fangst og akvakultur
-Jordbruk og skogbruk
-0
-
-100
-
-Figur 5.5 Antall sysselsatte (1000) etter næring. 2014
-Kilde: Nasjonalregnskapet, SSB
-
-200
-
-300
-
-400
-
-500
-
-600
+Tidsbruksundersøkelsene fra Statistisk sentralbyrå gir nyttig innsikt i hvordan tiden brukt på arbeid både hjemme og ute, og med det den samlede arbeidsinnsatsen, har utviklet og fordelt seg over tid. Det er relativt store forskjeller både mellom kjønn, over tid og mellom land i tid brukt på inntektsgivende arbeid og husholdsarbeid. Et hovedbudskap er likevel at den samlede tiden brukt på arbeid både hjemme og ute har endret seg relativt lite i den perioden som er undersøkt (1970–2010), til tross for store endringer etter kjønn og i fordelingen mellom inntektsgivende arbeid og husholdsarbeid.

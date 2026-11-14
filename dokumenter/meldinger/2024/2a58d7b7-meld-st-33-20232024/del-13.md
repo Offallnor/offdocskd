@@ -1,857 +1,140 @@
-# Meld. St. 33 (2023–2024), del 13 av 15 (side 143–152)
+# Meld. St. 33 (2023–2024), del 13 av 15
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/meldinger/2024/2a58d7b7-meld-st-33-20232024.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/meld.-st.-33-20232024/id3052167/
 - Original-PDF: https://www.regjeringen.no/contentassets/6c89bf4309654a0aaa24a5c6b123b7f1/no/pdfs/stm202320240033000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 tabeller, 44 figurer, 136 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 143]
-
-2023–2024
-
-Meld. St. 33
-
-En forsterket arbeidslinje
-
-141
-
-petansen det er behov for, er det utviklet et samarbeid mellom Arbeids- og velferdsetaten, fylkeskommunene, høyere utdanningsinstitusjoner og
-næringslivet. Det varierer hvordan fylkeskommunene fyller sin kompetansepolitiske rolle og hvordan samarbeidet er innrettet.
-I situasjoner med store omstillinger er det
-også viktig at etaten kan håndtere store mengder
-søknader om dagpenger. Under koronapandemien var det nødvendig både å gjøre midlertidige
-forenklinger og å innføre en forskuddsordning
-som innebar betydelig ekstraarbeid for etaten.
-Søknadsbehandlingen bør ikke ta ressurser fra
-tjenester som kan bidra til formidling og inkludering. Saksbehandlingstiden må heller ikke være
-så lang at arbeidsledige blir stående uten inntekt
-over tid. Dagpengeordningen må derfor innrettes
-slik at søknadsbehandlingen så langt som mulig
-kan automatiseres.
-
-terte virksomheter ved kriser i fred eller krig. Etaten har i den forbindelse hjemmel til å formidle
-registrerte arbeidsledige og frivillige som melder
-seg, og til å etablere samarbeid med bemanningsforetak og rekrutteringsbyråer. Videre er etaten
-pålagt å ha beredskapsplaner for å opprettholde
-egen virksomhet, og disse skal inkludere driftssikkerhet for rekrutteringsbistand.
-Med utgangspunkt i dette ansvaret har
-Arbeids- og velferdsetaten en sentral rolle i å
-holde oversikt over arbeidskraftbehov ved krise i
-fred eller krig. Etaten vil i tillegg kunne ha en rolle
-i å bistå i vurderingene av hvordan arbeidskraftressursene i samfunnet kan utnyttes på en
-best mulig måte. De fylkeskommunale og lokale
-enhetene i Arbeids- og velferdsetaten har på sin
-side et ansvar for å følge opp regionale og lokale
-behov. Dette gjøres i dag i samråd med statsforvaltere, kommunene og lokalt næringsliv.
-
-6.7
-
-6.7.3
-
-Arbeidskraftberedskap
-
-6.7.1 Behov for arbeidskraft under kriser
-Ulike kriser kan utløse endret behov for arbeidskraft, for eksempel til å understøtte forsvaret, for å
-opprettholde sentrale sivile funksjoner eller for å
-dekke helt nye oppgaver. Felles for alle oppgaver
-og tjenester i en krise, er at arbeidskraften er tilgjengelig og prioritert dit hvor behovet er størst. I
-slike situasjoner vil Arbeids- og velferdsetaten ha
-ansvar for å yte rekrutteringsbistand. Under håndteringen av koronapandemien ble eksempelvis
-ressursbehov i enkeltbedrifter og næringer meldt
-inn gjennom fylkesmennenes beredskapsråd, og
-fulgt opp lokalt og regionalt av Arbeids- og velferdsetaten. Etaten iverksatte også tiltak for at personer med etterspurt kompetanse skulle registrere seg.
-Den sikkerhetspolitiske situasjonen i Europa
-er endret som følge av krigen i Ukraina. Det kan
-også ha betydning for utviklingen av beredskapstiltak som skal sikre sivil arbeidskraft i en
-eventuell sikkerhetspolitisk krise eller krig som
-berører det norske samfunnet. Dagens regelverk
-gir grunnlag for å kunne utskrive arbeidskraft til
-militære og sivile formål. Samtidig arbeides det
-med å utfylle dette regelverket med mer definerte
-rammer, se avsnitt 6.7.3.
-6.7.2 Arbeids- og velferdsetatens ansvar
-Arbeids- og velferdsforvaltningsloven gir Arbeidsog velferdsetaten ansvar for å bistå med å håndtere endringer i arbeidskraftbehovet for priori-
-
-Forslag til endringer
-i sivilbeskyttelsesloven
-Justis- og beredskapsdepartementet arbeider med
-endringer i sivilbeskyttelsesloven om sivil arbeidskraftberedskap. Endringsforslaget går ut på at det
-tas inn et nytt kapittel i sivilbeskyttelsesloven som
-gir hjemmel til å regulere sivile arbeids- og tjenesteforhold og til å pålegge sivil arbeidsplikt når
-rikets selvstendighet eller sikkerhet er i fare. Det
-foreslås også fullmaktsbestemmelser til å gi forskrifter i fredstid om forberedende tiltak, øvelser
-og forhåndsutpeking til arbeidsplikt. For å følge
-opp dette er det behov for tverrsektoriell involvering. I lys av Arbeids- og velferdsetatens ansvar
-for rekrutteringsbistand og arbeidskraftberedskap vil etaten kunne få en sentral rolle i et slikt
-oppfølgingsarbeid.
-
-6.8
-
-Oppsummering av tiltak
-
-Arbeids- og velferdsetaten skal holde løpende
-oversikt over arbeidsmarkedet og behovet for og
-tilgangen på arbeidskraft på kort og lang sikt. For
-at informasjonen som gis til arbeidssøkere og
-arbeidsgivere om alle ledige stillinger skal bli mer
-komplett, må det legges bedre til rette for at etaten skal få tilgang til relevant informasjon om
-arbeidsmarkedet. Bedre oversikt skal gjøre det
-lettere for arbeidssøkere og arbeidsgivere å finne
-hverandre. Det kan bidra til økt geografisk og
-yrkesmessig mobilitet, og kortere ledighetsperioder. Tett kontakt med arbeidsgivere er en forutsetning for oppdatert informasjon om arbeidsmar-
-
-[Side 144]
-
-142
-
-Meld. St. 33
-
-En forsterket arbeidslinje
-
-kedet. Arbeids- og velferdsetatens samarbeid med
-virksomhetene i arbeidslivet må derfor videreutvikles og styrkes.
-Endringer i næringsstruktur og fordeling av
-arbeidskraft mellom sektorer og virksomheter
-kan gjøre at Arbeids- og velferdsetatens markedsarbeid, formidlings- og rekrutteringstjenester og
-inkluderingsarbeid får økt betydning. Etaten har
-en særlig viktig rolle i å bidra til at flere av de som
-står utenfor skal få økt sine muligheter til å delta i
-arbeidsmarkedet. For å lykkes med dette, må
-Arbeids- og velferdsetatens formidlings- og rekrutteringstjenester videreutvikles slik at de møter
-arbeidssøkeres og arbeidsgiveres behov på en
-bedre måte. Arbeidskraften til de som står utenfor
-arbeidsmarkedet må gjøres mer synlig for
-arbeidsgiverne, blant annet gjennom digitale og
-fysiske møteplasser der arbeidsgivere og arbeidssøkere kan snakke sammen og finne hverandre.
-Formidlings- og rekrutteringsbistanden må ses i
-sammenheng med etatens inkluderingsbistand,
-slik at de som trenger flere og sammensatte tjenester, møter helhetlige løsninger som er tilpasset
-deres forutsetninger og behov.
-Bruk av moderne teknologi er avgjørende for
-å kunne tilby effektive tjenester som ivaretar
-arbeidssøkeres og arbeidsgiveres behov i takt
-med endringene i arbeidsmarkedet. Det må vurderes hvordan det kan legges bedre til rette for
-bruk av digitale verktøy og bruk av ny teknologi i
-tjenesteutviklingen, i samsvar med krav til personvern. Regelverket må gi et presist og tydelig rettsgrunnlag for behandling av personopplysninger,
-og legge til rette for bruk og utvikling av digitale
-verktøy og tjenester.
-Etaten må også sikres bedre informasjon om
-arbeidssøkerne, og det må utvikles bedre verktøy
-for kartlegging av brukernes ferdigheter og kompetanse, se også omtale av områdegjennomgan-
-
-2023–2024
-
-gen av arbeidsmarkedstiltakene i kapittel 7. Bedre
-informasjon hos Arbeids- og velferdsetaten vil gi
-bedre grunnlag for å koble arbeidssøkere med
-arbeidsgivere. Det er behov for å gjennomgå
-regelverket for å vurdere endringer som kan
-legge bedre til rette for innhenting og deling av
-nødvendig informasjon. Det er også behov for å
-vurdere om regelverket gir tilstrekkelig rom for å
-innhente og gjenbruke personopplysninger til statistikk og styringsinformasjon.
-Regjeringen vil styrke Arbeids- og velferdsetatens rolle som arbeidsformidler, særlig overfor
-personer som trenger ekstra hjelp for å komme
-inn i arbeidslivet.
-For å gjøre det enklere for arbeidssøkere og arbeidsgivere å finne hverandre, og for at flere personer fra
-utsatte grupper skal komme i arbeid, vil regjeringen:
-–
-
-–
-
-–
-
-–
-
-Vurdere endringer i regelverket som regulerer
-Arbeids- og velferdsetatens rolle som tilbyder
-av formidlings- og rekrutteringsbistand, slik at
-arbeidssøkere og arbeidsgivere kan få tjenester som bedre møter deres behov.
-Legge til rette for at Arbeids- og velferdsetaten
-skal få bedre tilgang til relevant informasjon
-om arbeidsmarkedet, slik at informasjonen om
-ledige stillinger blir mer komplett. Blant annet
-skal det vurderes om det er behov for regelendringer for å gi etaten adgang til å innhente
-nødvendig informasjon fra relevante aktører.
-Videreutvikle Arbeids- og velferdsetatens formidlings- og rekrutteringstjenester og verktøy,
-blant annet ved å legge til rette for bruk av ny
-teknologi.
-Legge til rette for å styrke og videreutvikle
-Arbeids- og velferdsetatens tjenester til
-arbeidsgivere og samarbeid med partene,
-bransjer og virksomhetene i arbeidslivet.
-
-[Side 145]
-
-2023–2024
-
-Meld. St. 33
-
-En forsterket arbeidslinje
-
-143
-
-7 Bedre gjennomføring av arbeidsmarkedspolitikken
-Arbeids- og velferdsforvaltningen utøver arbeidsmarkedspolitikken ved å forvalte ytelser, tilby tjenester og forebygge og hjelpe de som har behov
-for bistand for å kunne delta i arbeidslivet. Dette
-kapittelet ser på hvordan gjennomføringen av den
-aktive arbeidsmarkedspolitikken kan styrkes, slik
-at brukerne kan bli møtt med bedre tjenester, god
-oppfølging og riktige tiltak.
-Kapittelet tar for seg hvordan arbeids- og velferdsforvaltningen må utvikles videre for at brukerne skal møte en forvaltning som har kompetanse, verktøy og muligheter til å arbeide kunnskapsbasert. Flere pågående prosjekter vil over
-tid kunne gi viktige bidrag til en mer kunnskapsbasert tjenesteutvikling i arbeids- og velferdsforvaltningen gjennom økt kompetanse og bedre
-verktøy.
-Tillitsreformen er ett av regjeringens grep for
-å utvikle og fornye offentlig sektor. Målet regjeringen har for fornying av offentlig sektor er mer velferd og mindre administrasjon, mer lokal frihet og
-mindre detaljstyring. Et av de sentrale premissene
-for tillitsreformen i arbeids- og velferdsforvaltningen er at NAV-kontorene og de ansatte i førstelinjen skal ha større handlingsrom til å bruke sin faglighet og kompetanse i arbeidet. Innsats og tiltak
-som ledd i tillitsreformen er knyttet til praktiseringen av mål- og resultatstyringen, å sikre lokalt
-handlingsrom i NAV-kontorene og å starte forsøk
-som understøtter god tjenesteutvikling.
-For å kunne utøve skjønn og tilpasse tjenestene til individuelle behov og lokale forhold, må
-medarbeiderne i NAV-kontorene ha et godt kunnskapsgrunnlag og gode støttesystemer. Det pågår
-et arbeid med å utvikle bedre løpende informasjon
-om resultatene av Arbeids- og velferdsetatens innsats for å få flere i arbeid. Kapittelet drøfter betydningen dette utviklingsarbeidet vil ha for tjenesteutvikling og styring i Arbeids- og velferdsetaten.
-Kapittelet ser særlig på hvordan arbeidsmarkedstiltakene kan utvikles med mål om at flere
-kan komme i arbeid. Det er nylig gjennomført en
-områdegjennomgang av arbeidsmarkedstiltak.
-Formålet med områdegjennomgangen er å oppnå
-raskere og mer stabil tilknytning til arbeidslivet
-for flere gjennom mer effektiv og kunnskapsba-
-
-sert bruk av arbeidsmarkedstiltak. I gjennomgangen pekes det på ulike forhold som kan bidra til å
-styrke den kunnskapsbaserte bruken av arbeidsmarkedstiltak, og som det vil være viktig å arbeide
-videre med.
-Kapittelet drøfter også det pågående digitaliseringsarbeidet i Arbeids- og velferdsetaten i lys av
-behovet for effektivisering og tjenesteutvikling.
-Teknologiutviklingen gir etaten store muligheter
-til å forbedre og effektivisere tjenester til brukerne. Videre utvikling av digitale løsninger vil
-kunne ha stor betydning både for å utvikle kunnskap om hvilke tiltak som virker, hvordan etaten i
-større grad kan tilby individuelt tilpassede tjenester, hvordan forvaltningen av arbeidsmarkedstiltak kan bli bedre og hvordan brukerne kan følges
-opp med sikte på en stabil tilknytning til arbeidslivet.
-
-7.1
-
-Tillitsreformen i arbeids- og
-velferdsforvaltningen
-
-Tillitsreformen er ett av regjeringens grep for å
-utvikle og fornye offentlig sektor. Målet med
-reformen er mer velferd og bedre tjenester til innbyggerne i hele landet, til rett tid og med god kvalitet. Større handlingsrom og mer faglig frihet for
-førstelinjen på lokalt nivå, kan gi mer velferd og
-bedre tjenester til innbyggerne. For å få dette til
-må de ansatte få mer rom og mer tid til å utføre
-arbeidsoppgavene, og samarbeidet mellom partene i arbeidslivet må styrkes.
-Arbeids- og velferdsdirektoratet fikk i 2022 i
-oppdrag å starte arbeidet med tillitsreformen. Et
-av de sentrale premissene for reformen i arbeidsog velferdsforvaltningen, er at NAV-kontorene og
-de ansatte i førstelinjen skal ha større handlingsrom til å benytte sin faglighet og kompetanse i
-arbeidet. Innsats og tiltak som har særlig relevans
-for gjennomføringen av arbeidsmarkedspolitikken
-er knyttet til praktiseringen av mål- og resultatstyringen i Arbeids- og velferdsetaten, å sikre
-lokalt handlingsrom i førstelinjen slik at medarbeiderne i NAV-kontorene kan bruke egen faglighet
-og kompetanse i arbeidet og å starte forsøk som
-
-[Side 146]
-
-144
-
-Meld. St. 33
-
-En forsterket arbeidslinje
-
-understøtter dette. Arbeidet er godt i gang og vil
-prege utviklingen av arbeids- og velferdsforvaltningen i årene som kommer.
-
-7.1.1 En balansert mål- og resultatstyring
-En viktig del av tillitsreformen er mer gjennomgående bruk av tillitsbasert styring og ledelse i staten slik at myndighet blir delegert og den enkelte
-medarbeider får økt handlingsrom. Bakgrunnen
-er at effektiviteten forventes å øke når det nivået
-som kjenner utfordringene best, får større frihet
-til å bestemme hvordan de skal jobbe for å nå
-målene. Slik skal medarbeiderne i førstelinjen
-kunne skape bedre resultater gjennom å utnytte
-kompetansen bedre, ta større ansvar og levere
-bedre tjenester og løsninger. I arbeids- og velferdsforvaltningen er derfor ett av målene for tillitsreformen at mål- og resultatstyringen skal
-sikre en god balanse mellom lokal autonomi og
-behov for styring, krav til kvalitet, likebehandling
-og god forvaltningspraksis.
-En viktig del av arbeidet med tillitsreformen
-har vært et bredt innsiktsarbeid i hele organisasjonen for å analysere hvor barrierene for å kunne
-jobbe mer tillitsbasert er. Funn fra dette innsiktsarbeidet viser at flere faktorer påvirker handlingsrommet til de ansatte i NAV-kontorene.
-Regelstyring, kompetanse og tid er de faktorene
-som i størst grad trekkes fram. God kompetanse
-gir økt opplevelse av handlingsrom, mens knapphet på tid snevrer det inn. Medarbeiderne trekker
-i stor grad fram at et rigid regelverk som ikke har
-endret seg i takt med samfunnet for øvrig, hindrer
-mulighetene for å finne gode løsninger.
-Innsiktsarbeidet viser at det er omtrent like
-mange av de ansatte som svarer at mål- og resultatstyringen påvirker handlingsrommet positivt
-som negativt.1 Ansatte oppfatter også styringen
-ulikt, avhengig av rollen den enkelte har, hvilke
-områder en jobber med og hvordan nærmeste
-leder kommuniserer føringer. Samtidig viser innsiktsarbeidet at Arbeids- og velferdsdirektoratet
-styrer enkelte tjenestelinjer gjennom mange detaljerte mål og føringer, som også reflekteres i styringen fra nasjonalt nivå.
-I arbeidet med tillitsreformen vil Arbeids- og
-velferdsetaten iverksette tiltak som skal synliggjøre prinsipper for god styring og som gir ledere
-og medarbeidere et felles utgangspunkt for dialog
-om styring og oppfølging. Det arbeides også med
-å forbedre den interne styringen i Arbeids- og vel1
-
-Arbeids- og velferdsdirektoratet (2023). Tillitsreformen –
-Anbefalinger til forbedringer. Oslo.
-
-2023–2024
-
-ferdsetaten gjennom færre og tydeligere mål og
-føringer. Det skal gi et bedre grunnlag for styring
-sentralt og prioritering lokalt, og skape en bedre
-balanse mellom lokal autonomi og overordnet styring. Arbeids- og inkluderingsdepartementet vil
-på sin side videreutvikle sin mål- og resultatstyring slik at Arbeids- og velferdsdirektoratet gis
-fleksibilitet til å styre og lede etaten med økt vekt
-på kunnskapsrettet bruk av NAV-kontorets ressurser.
-
-7.1.2
-
-Lokalt handlingsrom for bruk av egen
-faglighet og kompetanse
-Arbeids- og velferdsforvaltningen skal så langt det
-er mulig, tilpasse tjenestene til den enkeltes
-behov med sikte på inkludering og bidra til å få
-flere i arbeid. Det er særlig viktig i kontakten med
-og bistanden til utsatte grupper. Relasjonen mellom NAV-veilederen og brukere med ulike behov
-for bistand, og mellom NAV-veileder og arbeidsgivere som kan tilby arbeid, er derfor sentral.
-Det er betydelig variasjon i hvilke behov den
-enkelte bruker har for bistand. Mange av de som
-kun trenger arbeid, for eksempel de fleste av dagpengemottakerne, vil være selvhjulpne. En del av
-arbeids- og velferdsforvaltningens brukere har
-imidlertid mer langvarige og omfattende behov
-for bistand. På NAV-kontoret jobber veilederne
-med å finne fram til helhetlige og individuelt tilrettelagte løsninger. NAV-veilederne må derfor samarbeide med andre kommunale aktører, næringslivet, helsevesenet, utdanningsmyndighetene, frivillige organisasjoner mv. Det er derfor nødvendig å
-sikre et lokalt handlingsrom i møte med de
-enkelte brukerne og lokale og regionale forhold.
-Det er over tid lagt vekt på at NAV-kontoret
-skal ha myndighet og handlefrihet til å tilpasse tjenestene til individuelle behov. Det innebærer mindre styring og mer fokus på resultater. Det ble
-blant annet omtalt i Meld. St. 33 (2015–2016) NAV
-i en ny tid – for arbeid og aktivitet. I etterkant av
-dette har Arbeids- og velferdsdirektoratet gitt
-større handlingsfrihet til fylkene og NAV-kontorene til selv å tilpasse virkemidlene lokalt.
-Å gi slipp på noe av kontrollen til fordel for økt
-autonomi, forstått som å la ansatte ta avgjørelser
-på egen hånd og uten å være fullt ut styrt av overordnede retningslinjer, er gjerne tett forbundet
-med at ansatte har et godt kunnskapsgrunnlag.
-Det er ulik praksis for i hvilken grad direktoratet
-gir faglige føringer til fylkene og NAV- kontorene.
-På enkelte områder er det en del styring, mens
-det på andre er et betydelig lokalt handlingsrom.
-Gjennom interne spørreundersøkelser i arbeids-
-
-[Side 147]
-
-2023–2024
-
-Meld. St. 33
-
-En forsterket arbeidslinje
-
-og velferdsforvaltningen kommer det også fram at
-erfaring og kompetanse står svært høyt på listen
-over faktorer som påvirker den enkeltes handlingsrom. Systematisk kompetanseutvikling innebærer at det arbeides kontinuerlig med læring
-langs flere akser samtidig. Manglende systematikk i kompetanseutviklingen går ut over brukerne. Det er derfor avgjørende at arbeids- og velferdsforvaltningen utvikler og etablerer gode rammebetingelser for læring, og en systematisk tilnærming til kompetanseutvikling som er kunnskapsbasert.
-Et eksempel på lokal tjenesteutvikling hvor
-NAV-kontoret også utvikler seg som en lærende
-organisasjon, er prosjektet «Fra rutinebasert til
-reflektert praksis. Utvikling av inkluderingskompetanse i NAV og på arbeidsplass».2 I prosjektet
-har lokale NAV-kontor i fem fylker deltatt. En sentral del av prosjektet var at kontorene skulle
-utvikle arenaer for erfaringsutveksling og kompetanseutvikling. Gjennom et målrettet og kunnskapsbasert samarbeid i enkeltsaker med en mentor på arbeidsplassen, har NAV-veilederne utviklet
-både egen og arbeidsgivers inkluderingskompetanse. Prosjektet kan vise til gode resultater både
-når det gjelder bedre kartlegging og oppfølging av
-brukere og bedrifter, utvikling av veilederrollen
-og overgang til jobb for brukerne.
-
-7.1.3
-
-Lokal tjenesteutvikling og forsøk med
-større lokalt handlingsrom
-Tjenesteutvikling skjer både gjennom sentralt initierte forsøk og utviklingstiltak, og ved ulike forsøk og utprøvinger i det enkelte NAV-kontor. Sysselsettingsutvalgets ekspertgruppe pekte i sin
-utredning NOU 2019: 7 Arbeid og inntektssikring
-på at det bør legges til rette for mer systematiske
-utprøvinger lokalt, med mål om å få testet nye
-ideer og tiltak som gir grunnlag for kunnskapsbasert politikkutvikling.
-De siste årene har stadig flere NAV-kontor
-utviklet nye arbeidsmåter og tiltak for å støtte brukerne sine på bedre måter. Å spre gode løsninger
-til andre kontor med liknende utfordringer, vil gi
-bedre tjenester til flere brukere. Samtidig er det
-en utfordring for det enkelte kontor å etablere og
-prøve ut nye løsninger på en slik måte at arbeidsmåter og resultater dokumenteres tilstrekkelig til
-2
-
-Arbeidsforskningsinstituttet (2024). Fra rutinebasert til
-reflektert praksis. Utvikling av inkluderingskompetanse i
-NAV og på arbeidsplass. Rapport 2024:7. Oslo.
-
-145
-
-at de gir sikker nok kunnskap, og kan spres til
-andre kontor.
-Kartlegginger utført som ledd i arbeidet med
-tillitsreformen i arbeids- og velferdsforvaltningen
-viser også at det er et stort omfang av lokal tjenesteutvikling, men at det er behov for mer systematikk for å kunne lære av hverandre og heve
-kvaliteten på den tjenesteutviklingen som foregår.
-Områdegjennomgangen av arbeidsmarkedstiltak,
-se nærmere omtale i avsnitt 7.3, peker også på at
-den lokale erfaringsbaserte kunnskapen er en ressurs som i for liten grad blir synliggjort, satt i system og utnyttet, og at det er et potensial for bedre
-utnyttelse av det store tilfanget av erfaringsbasert
-kunnskap som finnes i arbeids- og velferdsforvaltningen.
-Kunnskap om effekter av nye og forbedrede
-tjenester må kunne dokumenteres, og det er
-behov for spredning og skalering av tjenester med
-god effekt. Arbeids- og velferdsdirektoratet har
-derfor som ledd i tillitsreformen, igangsatt et
-utviklingsarbeid som skal vurdere hvordan man
-kan bidra til systematisert og kunnskapsbasert
-tjenesteutvikling. Utviklingsarbeidet skal etablere
-kriterier for å identifisere og velge ut lovende
-lokale utviklingsprosjekter, samt utforske hvilken
-bistand disse utviklingstiltakene trenger for å
-sikre systematikk, læring og oppskalering av gode
-lokale initiativ.
-Et eksempel på hvordan det arbeides med å tilrettelegge for lokal kunnskapsbasert tjenesteutvikling og som samtidig gir et godt grunnlag for
-nasjonale anbefalinger, er tilskuddet for utvikling
-av de sosiale tjenestene i NAV-kontoret. Arbeidsog velferdsdirektoratet har inngått en avtale med
-NTNU Samfunnsforskning for å identifisere
-lovende arbeidsmetoder på dette feltet. Blant prosjektene som mottok tilskudd gjennom ordningen
-i 2021, er det plukket ut to modeller for utprøving
-ved nye NAV-kontor. Modellene heter «Språkmentor» og «Back to school, stay at school». Under
-utprøvingen gjennomføres det en prosessevaluering av NTNU Samfunnsforskning. Prosessevalueringen skal blant annet se på om modellene lar
-seg overføre til andre NAV-kontor, og hvilke resultater som oppnås. Å prøve ut arbeidsmetoder som
-har vist seg å ha potensial for å forbedre sosialtjenestefeltet, er ett steg på veien til å identifisere
-effektive tjenester. Det styrker også arbeids- og
-velferdsforvaltningens evne til å bygge og dele
-kunnskap fra lokalt utviklingsarbeid.
-
-[Side 148]
-
-146
-
-Meld. St. 33
-
-En forsterket arbeidslinje
-
-2023–2024
-
-Boks 7.1 Eksempler på hvordan det jobbes med tillitsreformen i arbeids- og
-velferdsforvaltningen
-I tillegg til mange aktiviteter som skal bidra til foravhengig av tilgang til informasjon fra både statmålet med tillitsreformen, har Arbeids- og velferdslige og kommunale fagsystemer. Arbeids- og veldirektoratet arbeidet med å velge ut mulige forsøk
-ferdsdirektoratet har sammen med KS inngått et
-som understøtter tillitsreformen. Fire prosjekter er
-samarbeid med Oslo kommune om et innså langt under utredning eller iverksetting.
-siktsarbeid som skal utarbeide alternative løsningsforslag for å kunne utvikle helhetlige digitale løsninger i NAV-kontor.
-Handlingsrom i NAV Kontaktsenter
-Kontaktsentrene i Øst-Viken, Vestland, samt Vestfold og Telemark vil ha et forsøk der de jobber for
-å videreutvikle kompetanse knyttet til tillitsbasert
-ledelse, selvledelse, handlingsrom og autonomi.
-Handlingsrom i NAV Arbeid og ytelser
-NAV Arbeid og ytelser vil ha et forsøk hvor de
-ser på hvordan man i saksbehandlingen av
-utvalgte ytelser kan gi større rom for medarbeidernes faglighet gjennom økt åpenhet, brukerorientering og tillitsbasert ledelse.
-
-Et enklere NAV
-NAV Falkenborg, NAV Lerkendal, Trondheim
-kommune, NAV Trøndelag og Statsforvalteren i
-Trøndelag har initiert prosjektet «Et enklere
-NAV». Prosjektet ønsker å prøve ut én ytelse til
-unge under 30 år med tett og individuelt tilpasset oppfølging og aktivitet. Formålet med forsøket er redusere medikalisering av unge. En søknad om å gjennomføre forsøket ble i juni 2024
-sendt til Arbeids- og inkluderingsdepartementet
-for behandling.
-
-Helhetlige digitale tjenester i NAV-kontor
-For at brukere skal få helhetlig oppfølging på
-tvers av stat og kommune er NAV-veiledere
-
-Bedre informasjon om resultatene
-av Arbeids- og velferdsetatens
-innsats
-
-ledige og personer med nedsatt arbeidsevne i
-arbeid.3
-
-For å sikre en kunnskapsbasert utvikling av
-arbeids- og velferdsforvaltningen, er det viktig å
-utvikle god informasjon om resultatene av
-Arbeids- og velferdsetatens innsats for å få flere i
-arbeid. God informasjon om egne resultater er
-også en forutsetning for at Arbeids- og velferdsetaten skal kunne tilpasse seg endringene i samfunnet, og prestere godt på målene som gjelder for
-virksomheten.
-Arbeids- og velferdsdirektoratet har over tid
-arbeidet med å utarbeide indikatorer og statistikk
-som kan gi et mer fullstendig bilde av Arbeids- og
-velferdsetatens resultater og innsats. Formålet
-med nye indikatorer er å gi en bedre indikasjon på
-hva Arbeids- og velferdsetatens innsats betyr for
-brukernes arbeidstilknytning. Arbeidet er basert
-på en anbefaling fra Oslo Economics og Frischsenteret om hvordan Arbeids- og velferdsetaten
-bedre kan måle om man lykkes med å få arbeids-
-
-7.2.1 Ny indikator kan gi bedre målinger
-Statistikken som i dag viser andeler med overgang til arbeid, gir et beskrivende mål på andelen
-av etatens brukere som er i arbeid seks måneder
-etter avsluttet status eller tiltak. Den tar ikke
-høyde for viktige forutsetninger som påvirker
-Arbeids- og velferdsetatens mulighet til å få flere i
-arbeid, som sammensetningen av brukere og forhold i arbeidsmarkedet som kan variere over tid
-og sted. For arbeidsmarkedstiltakene er det tilsvarende utfordringer med statistikken for overgang
-til arbeid. Det er også en begrensning ved dagens
-informasjon at den ikke tar høyde for hvor lang tid
-det tar for brukere å komme seg i jobb eller hvor
-mye de jobber. Informasjonen kommer også en
-
-7.2
-
-3
-
-Oslo Economics og Frischsenteret (2022). Hvordan kan vi
-måle om NAV lykkes med å få flere i arbeid? Rapport
-2022:10. Oslo: Oslo Economics.
-
-[Side 149]
-
-2023–2024
-
-Meld. St. 33
-
-En forsterket arbeidslinje
-
-viss tid etter at innsatsen er gjennomført, noe som
-bidrar til å gjøre den mindre relevant.
-Den nye indikatoren skal ta hensyn til brukersammensetningen og lokale arbeidsmarkedsforhold og kan dermed vise et resultatbilde som i
-større grad kan tilskrives etatens bidrag til
-arbeidsinkludering, se nærmere omtale i boks 7.2.
-Det vil imidlertid ikke være mulig å anslå Arbeidsog velferdsetatens bidrag presist og det vil fortsatt
-være usikkerhet om det reelle bidraget. Det er for
-eksempel kjennetegn ved brukerne og arbeidsmarkedet som det ikke er mulig å kontrollere for.
-Den nye indikatoren vil ikke representere en fasit,
-og må tolkes sammen med annen informasjon,
-som mer vitenskapsbaserte evalueringer.
-
-7.2.2
-
-Ny indikator kan supplere
-kunnskapsgrunnlaget for
-tjenesteutvikling
-Et viktig formål med den nye indikatoren er at den
-skal være et utgangspunkt for faglige diskusjoner
-i arbeids- og velferdsforvaltningen om egne resul-
-
-147
-
-tater, og slik bidra til å fremme diskusjoner rundt
-tjenestekvalitet, effektiv ressursutnyttelse og kvalitetsutvikling.
-Ulike enheter i arbeids- og velferdsforvaltningen kan bruke indikatoren til å følge med på egne
-resultater over tid, også om de ønsker å prøve ut
-noe nytt. Indikatoren vil også kunne brukes til å
-sammenlikne resultatet for et gitt NAV-kontor
-med resultatene på nasjonalt nivå. Sammen med
-andre kilder til kunnskap om kvalitet i eget arbeid,
-kan indikatoren på denne måten brukes i lokal tjenesteutvikling, for å reflektere over egen praksis,
-hva kontoret lykkes med og hvor kontoret har forbedringsmuligheter. Eksempelvis vil et NAV-kontor få bedre resultater med den nye indikatoren
-om det lykkes med å bistå personer til jobb til
-tross for at de står relativt langt fra arbeidslivet,
-eller til tross for utfordringer på det lokale
-arbeidsmarkedet. Ved å kontrollere for slike forhold, kan etaten få et bedre utgangspunkt for å
-identifisere hva som lykkes, og hvem man eventuelt kan lære av for å forbedre egne resultater.
-
-Boks 7.2 Ny indikator for overgang til arbeid
-Arbeids- og velferdsdirektoratet har over tid
-– Indikatoren tar utgangspunkt i hele beholdarbeidet med å utvikle indikatorer og statistikk
-ningen av Arbeids- og velferdsetatens brusom kan gi et mer fullstendig bilde av Arbeidskere, og betinger ikke som dagens indikator
-og velferdsetatens resultater og innsats. Den
-at brukerne skal ha avsluttet et gitt tiltak eller
-nye indikatoren for overgang til arbeid (arbeidsstatus. Dermed vil brukernes arbeidstilknytindikatoren) skal ta hensyn til brukersammenning mens de står tilmeldt etaten og hvor
-setningen og lokale arbeidsmarkedsforhold, og
-lang tid det tar før de eventuelt kommer i
-viser dermed et resultatbilde som i større grad
-jobb, ha betydning for resultatene.
-enn dagens indikator kan tilskrives forvaltnin– Indikatoren formidler ikke bare andel som er
-gens bidrag til arbeidsinkludering. I indikatoren
-i arbeid på et gitt tidspunkt, men tar også
-inngår både det faktiske arbeidsomfanget og det
-høyde for omfanget av arbeidsinnsatsen over
-forventede arbeidsomfanget, justert for kjennetid.
-tegn ved brukere og forhold i arbeidsmarkedet
-– Indikatoren gir mer oppdatert informasjon
-som etaten ikke kan påvirke. Forskjellen melenn dagens indikator og kan vise resultater
-lom faktisk og forventet arbeidsomfang kan gi et
-for ulike deler av arbeids- og velferdsforvaltbilde av Arbeids- og velferdsetatens bidrag, det
-ningen, for prioriterte grupper og for ulike
-såkalte NAV-bidraget, til brukernes arbeidsarbeidsmarkedstiltak.
-mengde.
-Den nye indikatoren representerer en vesentlig
-De viktigste fordelene med den nye indikatoren
-mer komplisert måte å måle Arbeids- og veler:
-ferdsetatens resultater på enn dagens indikato– Indikatoren tar hensyn til viktige forutsetninrer. Indikatoren skal derfor prøves ut i Arbeidsger som er utenfor NAV-kontorenes kontroll,
-og velferdsetaten gjennom 2024, hvor det
-både kjennetegn ved brukerne og arbeidsblant annet skal innhentes innspill og vurderinmarkedet.
-ger fra etaten. Målet er endelig implementering
-i 2025.
-
-[Side 150]
-
-148
-
-Meld. St. 33
-
-En forsterket arbeidslinje
-
-Gjennom å se resultater fra indikatoren i sammenheng med andre kunnskapskilder som statistikk, analyser og forskning, i tillegg til praksiserfaringer og brukerkunnskap, kan indikatoren bidra
-til forbedringer. En forutsetning er at det etableres arenaer for fruktbar diskusjon rundt dataene,
-gjerne koblet til eksisterende plan- og utviklingsprosesser.
-
-7.2.3 Ny indikator kan bidra til bedre styring
-Måling og vurdering av resultater er viktig styringsinformasjon både for virksomheten selv og
-for overordnet myndighet. Målet med utviklingen
-av nye resultatindikatorer for overgang til arbeid,
-er derfor også over tid å legge til rette for en
-bedre styringsdialog mellom departementet,
-direktoratet, etaten og etatens tiltaksleverandører.
-Informasjonen kan tjene som grunnlag for analyse, planlegging og styring, herunder vurderinger av om nasjonale mål nås.
-I fravær av gode resultatindikatorer er styringsdialogen med Arbeids- og velferdsetaten i
-stor grad preget av aktivitetsmålinger. Aktivitetene som måles følges opp på bakgrunn av den
-antatte positive effekten disse har på brukernes
-overgang til arbeid. Ettersom den nye indikatoren
-i større grad enn ren statistikk, er et mål på resultater, vil den også kunne bidra til at det over tid
-kan bli mindre behov for å fokusere på aktiviteter.
-Et bedre grunnlag for økt oppmerksomhet mot
-resultater i arbeids- og velferdsforvaltningen, kan
-være med å bygge opp under målene med tillitsreformen slik at medarbeiderne i førstelinjen skal få
-større rom for å bruke sin faglighet til å finne
-gode løsninger sammen med brukerne. Lokal
-handlefrihet og systematiske sammenlikninger
-kan belyse i hvilken grad forskjeller i oppgaveløsning medfører økt måloppnåelse.
-Videre er formålet med indikatoren at den kan
-brukes til å måle overgang til arbeid på en sammenliknbar måte innen ulike arbeidsmarkedstiltak. Disse resultatene må tolkes i lys av at innhold,
-bruken av tiltaket og sammensetningen av deltakere i tiltakene kan variere over tid og mellom fylker og NAV-kontor, og de må suppleres med evalueringer og forskning.
-Målet er at den nye indikatoren for Arbeids- og
-velferdsetaten på sikt kan legge bedre til rette for
-mindre styring ved å telle aktivitet og mer fokus
-på resultater. I løpet av utprøvingsåret 2024 vil
-direktoratet høste kunnskap om hvordan indikatoren fungerer i praksis, hvilke eventuelle svakheter
-den har og hvordan den kan forbedres. Regjeringen vil legge til rette for god, overordnet styring
-
-2023–2024
-
-av Arbeids- og velferdsetaten. Det innebærer
-blant annet større vekt på mål, resultater og effekter, og mindre vekt på ressursinnsats, tiltak og
-aktiviteter.
-
-7.3
-
-Mer kunnskapsbasert bruk av
-arbeidsmarkedstiltak
-
-Økt handlingsrom og mindre detaljert styring av
-arbeidsmarkedstiltak forutsetter kompetanse og
-kunnskap om hva som virker og hvordan virkemidlene best kan tas i bruk overfor brukere med
-ulike behov. Arbeids- og velferdsetaten må derfor
-ha god kunnskap om hvilke arbeidsmarkedstiltak
-som gir best effekt for hvilke grupper. Etaten må
-også vite hva som skal til for å sikre god kvalitet i
-gjennomføringen og bruk av tiltak, herunder
-hvordan man sikrer en god avklaring av den
-enkeltes behov, forutsetninger, muligheter og
-ønsker.
-Regjeringen igangsatte i 2022 en områdegjennomgang av arbeidsmarkedstiltak. Områdegjennomganger legger til rette for dyptpløyende analyser av eksisterende ressursbruk på enkeltområder. Det gir grunnlag for å vurdere om dagens ressurser brukes godt nok og mulighet til å foreslå
-tiltak som kan gi bedre måloppnåelse. Områdegjennomgangen av arbeidsmarkedstiltak ble gjennomført av Oslo Economics, Proba samfunnsanalyse og Frischsenteret, med bistand fra CMS
-Kluge.4
-Det overordnede formålet med områdegjennomgangen var å oppnå raskere og mer stabil tilknytning til arbeidslivet for flere gjennom mer
-effektiv og kunnskapsbasert bruk av arbeidsmarkedstiltak. Gjennomgangen ble derfor avgrenset
-til arbeidsmarkedstiltak som er tidsavgrensede.
-Områdegjennomgangen gir systematisert kunnskap om hvilke tiltak som har god effekt for ulike
-brukergrupper, og den identifiserer ulike barrierer for å ta denne kunnskapen i bruk i NAV-kontorene. Den kommer også med forslag til hvordan
-arbeids- og velferdsforvaltningen bedre kan ta i
-bruk og utvikle denne kunnskapen i møte med
-brukerne.
-
-4
-
-Oslo Economics, Proba samfunnsanalyse og Frischsenteret (2023). Områdegjennomgang av arbeidsmarkedstiltak:
-Kartlegging av kunnskap og praksis. Rapport 2023:33. Oslo:
-Oslo Economics.
-Oslo Economics, Frischsenteret, Proba samfunnsanalyse
-og CMS Kluge (2023). Områdegjennomgang av arbeidsmarkedstiltak: Anbefalinger for effektiv og kunnskapsbasert bruk.
-Rapport 2023:88. Oslo: Oslo Economics.
-
-[Side 151]
-
-2023–2024
-
-Meld. St. 33
-
-En forsterket arbeidslinje
-
-Områdegjennomgangen gir dermed et nyttig
-grunnlag for det videre arbeidet med å utvikle
-kunnskap, styring og bruk av arbeidsmarkedstiltakene.
-
-7.3.1
-
-Arbeidsmarkedstiltak gir positiv effekt
-på sysselsetting
-Arbeidsmarkedstiltak har i stor grad vært gjenstand for forskning og evaluering. Områdegjennomgangen undersøker blant annet hva kunnskapen sier om hvordan arbeidsmarkedstiltakene
-virker og for hvem.5 Som ledd i dette oppsummeres det hva norsk og internasjonal forskning sier
-om effekter av arbeidsmarkedstiltak.6 En rekke
-ulike studier tar for seg ulike tiltak for ulike målgrupper i ulike tidsperioder, og benytter seg av
-ulike metoder for å komme nærmere hva som
-ville skjedd med deltakeren i fravær av tiltaksdeltakelsen. Det gjør det imidlertid vanskelig å sammenfatte resultater på tvers av studier. Noen systematiske trekk er likevel mulig å identifisere når
-det gjelder virkninger av arbeidsmarkedstiltak på
-sysselsetting og arbeidstilbud. Selv om effekten
-av arbeidsmarkedstiltak ser ut til å variere mellom
-ulike tiltakstyper og brukergrupper, viser de
-fleste studiene i gjennomgangen at deltakelse på
-arbeidsmarkedstiltak gir positiv effekt på sysselsetting, se nærmere omtale i kapittel 8.
-Selv om forskningen gir støtte til at arbeidsmarkedstiltak virker i stort, konkluderer områdegjennomgangen også med at det fortsatt er behov
-for mer kunnskap om hvordan arbeidsmarkedstiltak virker og for hvem.
-I områdegjennomgangen er det også undersøkt hva den samfunnsøkonomiske verdien av
-ulike arbeidsmarkedstiltak er, og det er gjennomført en forenklet samfunnsøkonomisk analyse av
-utvalgte tiltak. Resultatene indikerer at det kan
-være samfunnsøkonomisk lønnsomt å vri tiltaksbruken noe i retning av de mest lønnsomme tiltakene på marginen, for eksempel ved å bruke
-lønnstilskudd og utdanning litt oftere. I kapittel 8
-5
-
-6
-
-Arbeidsmarkedstiltak kan ha en rekke ulike effekter på
-individnivå og på arbeidsmarkedet. Det finnes lite
-forskning som ser på effektene av arbeidsmarkedstiltak på
-makronivå, altså hvordan tiltak påvirker arbeidsledighet og
-sysselsetting samlet. Det skyldes i stor grad at det er en
-stor metodisk utfordring å isolere slike virkninger. Forskningen er i all hovedsak konsentrert om effekter på individnivå, såkalte behandlingseffekter.
-Gjennomgangen baserer seg i stor grad på von Simson, K.
-(2023). Hva virker for hvem? Kunnskapsoversikt over effekter
-av aktiveringstiltak på sysselsetting og arbeidstilbud. Norske
-erfaringer. Rapport 2023:1. Oslo: Arbeids- og velferdsdirektoratet. Von Simson har vurdert over 40 norske evalueringer av arbeidsmarkedstiltak fra 2000 til 2023.
-
-149
-
-redegjøres det nærmere for resultatene av analysen. Dette arbeidet gir viktig innsikt, men det er
-begrensninger i hvor presise nytte-kostnadsanalyser kan bli når det er forskningsmessig usikkerhet knyttet til hvilke effekter de ulike arbeidsmarkedstiltakene har etter ulike kjennetegn ved deltakerne.
-Sysselsettingsutvalgets ekspertgruppe (NOU
-2019: 7 Arbeid og inntektssikring) pekte også på at
-et generelt trekk ved erfaringer og evalueringer
-av tiltak er at ressurskrevende innsats synes å ha
-god effekt. Med knappe tiltaksressurser tilgjengelig kan det dermed være et spørsmål om man skal
-satse mer på effektive og ressurskrevende tiltak
-til få, eller mindre effektive og billigere tiltak til
-flere. I Sysselsettingsutvalgets utredning ble det
-eksempelvis pekt på at arbeids- og velferdsforvaltningen i større grad bør tilby tiltak som har vist
-god effekt, selv om disse har høyere kostnader.
-I områdegjennomgangen er det også undersøkt hvordan bruken av arbeidsmarkedstiltakene
-kan bli mer effektiv gitt den kunnskapen vi har
-om effekter og nytte av tiltak. En kunnskapsbasert bruk av tiltakene innebærer både at det må
-produseres og spres relevant kunnskap om tiltakenes bruk og effekt, og at tildelingen av tiltak til
-den enkelte bruker er i tråd med denne kunnskapen. Det handler ikke bare om tiltakenes generelle effekter, men også om hvor godt tiltaket er
-tilpasset brukerens personlige egenskaper og
-behov, og om tiltaket kommer til riktig tid, i kombinasjon med hensiktsmessig oppfølging og eventuelt andre tiltak. Kunnskapen må også tas i bruk i
-utviklingen og styringen av tiltaksporteføljen slik
-at tiltakene som er tilgjengelige for veiledere i
-NAV-kontoret er basert på god kunnskap.
-Gjennom områdegjennomgangen er det utarbeidet flere anbefalinger til hvordan arbeids- og
-velferdsforvaltningen kan arbeide videre for å
-sikre god kunnskapsbasert bruk av arbeidsmarkedstiltak.
-
-7.3.2
-
-Produksjon, spredning og bruk av
-kunnskap om arbeidsmarkedstiltak
-Det er veilederne i NAV-kontorene som tar beslutninger om arbeidsmarkedstiltak til den enkelte
-bruker. Som ledd i arbeidet med områdegjennomgangen er det gjennom strukturerte intervjuer
-med et stort antall veiledere, undersøkt hvilken
-kunnskap og hvilke vurderinger veilederne gjør
-som grunnlag for beslutningene om tildeling av
-tiltak. På denne måten undersøkes også hvilke
-barrierer veilederne møter for å drive en kunnskapsbasert tildeling av tiltak.
-
-[Side 152]
-
-150
-
-Meld. St. 33
-
-En forsterket arbeidslinje
-
-Tildelingen av arbeidsmarkedstiltak må være basert på
-helhetlig og god kunnskap
-Gjennomgangen tyder på at veilederne i hovedsak
-har god kjennskap til tiltakene. For å kunne velge
-tiltak i det enkelte tilfellet må veilederne kartlegge grundig de individuelle ressursene og utfordringene til brukeren. Det kan være flere tiltak
-som veilederne oppfatter som aktuelle. Brukers
-ønsker og motivasjon vil ofte være avgjørende.
-NAV-veilederne må kunne basere sine vurderinger på en kunnskapsbasert praksis bygget på
-både erfaringsbasert og forskningsbasert kunnskap, koblet med innsikt i brukers situasjon og
-behov. Flere veiledere opplever at forskningen
-som produseres om effekter av tiltak, ikke nødvendigvis er relevant for tildelingen av tiltak til
-den enkelte bruker fordi den ikke belyser forhold
-som den enkeltes helse, personlige preferanser
-eller motivasjon, eller ikke konkluderer tydelig.
-Veileders egen kjennskap til de ulike tiltakene og
-tiltakenes opplevde kvalitet, såkalt erfaringsbasert kunnskap, oppleves derfor ofte som mer relevant i tildelingen av tiltak til den enkelte bruker
-enn den forskningsbaserte kunnskapen. Det er i
-den forbindelse pekt på at det er betydelige variasjoner i kunnskapsformidlingen internt i Arbeidsog velferdsetaten og til NAV-veilederne.
-Bruken av arbeidsmarkedstiltak må bli mer
-kunnskapsbasert. For å oppnå dette anbefaler
-områdegjennomgangen mer systematisk registrering av opplysninger om brukers behov og forutsetninger, formålet med tiltaket for den enkelte
-bruker, innhold og måloppnåelse. Et bedre datagrunnlag vil gjøre mer relevant forskning mulig,
-eksempelvis ved at evalueringer i større grad kan
-sammenlikne tiltak brukt for brukere med liknende behov og forutsetninger.
-Kunnskapsbasert tjenesteutøvelse og tjenesteutvikling forutsetter forskning og fagutvikling.
-Det er helt sentralt at NAV-kontorene har god
-informasjon og kompetanse om hvilke virkemidler som er mest egnet for å styrke tiltaksdeltakernes muligheter til å få eller beholde arbeid. For at
-arbeidsmarkedspolitikken skal bli treffsikker, er
-det behov for god og relevant forskning. Det er
-blant annet viktig med mer forskning på effekter
-av arbeidsmarkedstiltak og på hvilke rammevilkår
-som har betydning for tiltakenes effekt. Det
-omfatter også behov for mer kvalitativ forskning
-om kvalitet, innhold i tiltak og målgrupper. Flere
-evalueringer bør også kunne fange opp ulike
-måter å organisere og gjennomføre arbeidsmarkedstiltak på, samt vurdere elementer innenfor
-enkelttiltak som vurderes som avgjørende for tilta-
-
-2023–2024
-
-kenes effekt. Det er også pekt på i områdegjennomgangen at det er behov for å forske mer på
-arbeids- og velferdsforvaltningens oppfølging i
-forkant av tiltakstildelingen. Før en bruker blir tildelt et gitt arbeidsmarkedstiltak gjennomføres det
-omfattende kartlegging og vurdering av brukerens behov og forutsetninger. Slike vurderinger
-og beslutninger kan også påvirke arbeidssøkeres
-muligheter for tilknytning til arbeidsmarkedet.
-Det er mange ulike sider ved gjennomføringen
-av arbeidsmarkedstiltak som er aktuelle å evaluere, og det er fortsatt behov for mer kunnskap.
-Regjeringen vil derfor fortsette arbeidet med å
-sikre kontinuerlig utvikling av kunnskapsgrunnlaget om arbeidsmarkedstiltak gjennom å utvikle et
-bedre datagrunnlag og systematisk satsing på
-evalueringer på et høyt faglig nivå. Systematiske
-kunnskapsoppsummeringer vil også bidra til å
-klargjøre hva vi vet og avdekke kunnskapshull.
-Det viser vei for videre utprøving og forskning.
-Arbeids- og inkluderingsdepartementets strategi for forskning og utredning redegjør for overordnede og strategiske kunnskapsbehov og hvordan sektoransvaret for forskning ivaretas. Det
-framgår her at arbeidsmarkedstiltak må evalueres
-jevnlig, og vurderes opp mot måloppnåelse og
-effekt. Et viktig element i kunnskapsbehovet er
-arbeidsmarkedspolitikkens og arbeids- og velferdstjenestenes innretning og effekter på arbeidsinkludering.
-Arbeids- og inkluderingsdepartementet tildeler også midler til Norges Forskningsråd som
-hovedsakelig skal bidra til langsiktig og målrettet
-kompetanse- og kunnskapsoppbygging for sektoren. Det har de siste årene vært prioritert å få mer
-og bedre forskning på de praksisnære arbeids- og
-velferdstjenestene. Arbeids- og velferdsforvaltningen er en viktig samarbeidspartner i slike
-forskningsprosjekter.
-Arbeids- og inkluderingsdepartementet jobber
-også sammen med Arbeids- og velferdsdirektoratet om å utvikle kunnskapen om arbeidsmarkedstiltak. God kunnskapsutvikling i Arbeids- og velferdsetaten tilsier at samfunnsøkonomiske nyttekostnadsvurderinger også vektlegges når tiltak
-velges for brukerne. Det er blant annet nylig gjennomført en overordnet evaluering av effekter av
-arbeidsmarkedstiltak på deltakernes arbeidstilknytning i regi av Oslo Economics og Frischsenteret.7 Se kapittel 8 for en nærmere omtale av denne
-studien. I tillegg har det gjennom årene vært gjen7
-
-Oslo Economics og Frischsenteret (2024). Effekter av
-arbeidsmarkedstiltak. Rapport 2024:26. Oslo: Oslo Economics.
+## Mer kunnskapsbasert bruk av arbeidsmarkedstiltak
+
+Økt handlingsrom og mindre detaljert styring av arbeidsmarkedstiltak forutsetter kompetanse og kunnskap om hva som virker og hvordan virkemidlene best kan tas i bruk overfor brukere med ulike behov. Arbeids- og velferdsetaten må derfor ha god kunnskap om hvilke arbeidsmarkedstiltak som gir best effekt for hvilke grupper. Etaten må også vite hva som skal til for å sikre god kvalitet i gjennomføringen og bruk av tiltak, herunder hvordan man sikrer en god avklaring av den enkeltes behov, forutsetninger, muligheter og ønsker.
+
+Regjeringen igangsatte i 2022 en områdegjennomgang av arbeidsmarkedstiltak. Områdegjennomganger legger til rette for dyptpløyende analyser av eksisterende ressursbruk på enkeltområder. Det gir grunnlag for å vurdere om dagens ressurser brukes godt nok og mulighet til å foreslå tiltak som kan gi bedre måloppnåelse. Områdegjennomgangen av arbeidsmarkedstiltak ble gjennomført av Oslo Economics, Proba samfunnsanalyse og Frischsenteret, med bistand fra CMS Kluge.[^167]
+
+Det overordnede formålet med områdegjennomgangen var å oppnå raskere og mer stabil tilknytning til arbeidslivet for flere gjennom mer effektiv og kunnskapsbasert bruk av arbeidsmarkedstiltak. Gjennomgangen ble derfor avgrenset til arbeidsmarkedstiltak som er tidsavgrensede. Områdegjennomgangen gir systematisert kunnskap om hvilke tiltak som har god effekt for ulike brukergrupper, og den identifiserer ulike barrierer for å ta denne kunnskapen i bruk i NAV-kontorene. Den kommer også med forslag til hvordan arbeids- og velferdsforvaltningen bedre kan ta i bruk og utvikle denne kunnskapen i møte med brukerne.
+
+Områdegjennomgangen gir dermed et nyttig grunnlag for det videre arbeidet med å utvikle kunnskap, styring og bruk av arbeidsmarkedstiltakene.
+
+### Arbeidsmarkedstiltak gir positiv effekt på sysselsetting
+
+Arbeidsmarkedstiltak har i stor grad vært gjenstand for forskning og evaluering. Områdegjennomgangen undersøker blant annet hva kunnskapen sier om hvordan arbeidsmarkedstiltakene virker og for hvem.[^168] Som ledd i dette oppsummeres det hva norsk og internasjonal forskning sier om effekter av arbeidsmarkedstiltak.[^169] En rekke ulike studier tar for seg ulike tiltak for ulike målgrupper i ulike tidsperioder, og benytter seg av ulike metoder for å komme nærmere hva som ville skjedd med deltakeren i fravær av tiltaksdeltakelsen. Det gjør det imidlertid vanskelig å sammenfatte resultater på tvers av studier. Noen systematiske trekk er likevel mulig å identifisere når det gjelder virkninger av arbeidsmarkedstiltak på sysselsetting og arbeidstilbud. Selv om effekten av arbeidsmarkedstiltak ser ut til å variere mellom ulike tiltakstyper og brukergrupper, viser de fleste studiene i gjennomgangen at deltakelse på arbeidsmarkedstiltak gir positiv effekt på sysselsetting, se nærmere omtale i kapittel 8.
+
+Selv om forskningen gir støtte til at arbeidsmarkedstiltak virker i stort, konkluderer områdegjennomgangen også med at det fortsatt er behov for mer kunnskap om hvordan arbeidsmarkedstiltak virker og for hvem.
+
+I områdegjennomgangen er det også undersøkt hva den samfunnsøkonomiske verdien av ulike arbeidsmarkedstiltak er, og det er gjennomført en forenklet samfunnsøkonomisk analyse av utvalgte tiltak. Resultatene indikerer at det kan være samfunnsøkonomisk lønnsomt å vri tiltaksbruken noe i retning av de mest lønnsomme tiltakene på marginen, for eksempel ved å bruke lønnstilskudd og utdanning litt oftere. I kapittel 8 redegjøres det nærmere for resultatene av analysen. Dette arbeidet gir viktig innsikt, men det er begrensninger i hvor presise nytte-kostnadsanalyser kan bli når det er forskningsmessig usikkerhet knyttet til hvilke effekter de ulike arbeidsmarkedstiltakene har etter ulike kjennetegn ved deltakerne.
+
+Sysselsettingsutvalgets ekspertgruppe (NOU 2019: 7 *Arbeid og inntektssikring*) pekte også på at et generelt trekk ved erfaringer og evalueringer av tiltak er at ressurskrevende innsats synes å ha god effekt. Med knappe tiltaksressurser tilgjengelig kan det dermed være et spørsmål om man skal satse mer på effektive og ressurskrevende tiltak til få, eller mindre effektive og billigere tiltak til flere. I Sysselsettingsutvalgets utredning ble det eksempelvis pekt på at arbeids- og velferdsforvaltningen i større grad bør tilby tiltak som har vist god effekt, selv om disse har høyere kostnader.
+
+I områdegjennomgangen er det også undersøkt hvordan bruken av arbeidsmarkedstiltakene kan bli mer effektiv gitt den kunnskapen vi har om effekter og nytte av tiltak. En kunnskapsbasert bruk av tiltakene innebærer både at det må produseres og spres relevant kunnskap om tiltakenes bruk og effekt, og at tildelingen av tiltak til den enkelte bruker er i tråd med denne kunnskapen. Det handler ikke bare om tiltakenes generelle effekter, men også om hvor godt tiltaket er tilpasset brukerens personlige egenskaper og behov, og om tiltaket kommer til riktig tid, i kombinasjon med hensiktsmessig oppfølging og eventuelt andre tiltak. Kunnskapen må også tas i bruk i utviklingen og styringen av tiltaksporteføljen slik at tiltakene som er tilgjengelige for veiledere i NAV-kontoret er basert på god kunnskap.
+
+Gjennom områdegjennomgangen er det utarbeidet flere anbefalinger til hvordan arbeids- og velferdsforvaltningen kan arbeide videre for å sikre god kunnskapsbasert bruk av arbeidsmarkedstiltak.
+
+### Produksjon, spredning og bruk av kunnskap om arbeidsmarkedstiltak
+
+Det er veilederne i NAV-kontorene som tar beslutninger om arbeidsmarkedstiltak til den enkelte bruker. Som ledd i arbeidet med områdegjennomgangen er det gjennom strukturerte intervjuer med et stort antall veiledere, undersøkt hvilken kunnskap og hvilke vurderinger veilederne gjør som grunnlag for beslutningene om tildeling av tiltak. På denne måten undersøkes også hvilke barrierer veilederne møter for å drive en kunnskapsbasert tildeling av tiltak.
+
+Tildelingen av arbeidsmarkedstiltak må være basert på helhetlig og god kunnskap
+
+Gjennomgangen tyder på at veilederne i hovedsak har god kjennskap til tiltakene. For å kunne velge tiltak i det enkelte tilfellet må veilederne kartlegge grundig de individuelle ressursene og utfordringene til brukeren. Det kan være flere tiltak som veilederne oppfatter som aktuelle. Brukers ønsker og motivasjon vil ofte være avgjørende. NAV-veilederne må kunne basere sine vurderinger på en kunnskapsbasert praksis bygget på både erfaringsbasert og forskningsbasert kunnskap, koblet med innsikt i brukers situasjon og behov. Flere veiledere opplever at forskningen som produseres om effekter av tiltak, ikke nødvendigvis er relevant for tildelingen av tiltak til den enkelte bruker fordi den ikke belyser forhold som den enkeltes helse, personlige preferanser eller motivasjon, eller ikke konkluderer tydelig. Veileders egen kjennskap til de ulike tiltakene og tiltakenes opplevde kvalitet, såkalt erfaringsbasert kunnskap, oppleves derfor ofte som mer relevant i tildelingen av tiltak til den enkelte bruker enn den forskningsbaserte kunnskapen. Det er i den forbindelse pekt på at det er betydelige variasjoner i kunnskapsformidlingen internt i Arbeids- og velferdsetaten og til NAV-veilederne.
+
+Bruken av arbeidsmarkedstiltak må bli mer kunnskapsbasert. For å oppnå dette anbefaler områdegjennomgangen mer systematisk registrering av opplysninger om brukers behov og forutsetninger, formålet med tiltaket for den enkelte bruker, innhold og måloppnåelse. Et bedre datagrunnlag vil gjøre mer relevant forskning mulig, eksempelvis ved at evalueringer i større grad kan sammenlikne tiltak brukt for brukere med liknende behov og forutsetninger.
+
+Kunnskapsbasert tjenesteutøvelse og tjenesteutvikling forutsetter forskning og fagutvikling. Det er helt sentralt at NAV-kontorene har god informasjon og kompetanse om hvilke virkemidler som er mest egnet for å styrke tiltaksdeltakernes muligheter til å få eller beholde arbeid. For at arbeidsmarkedspolitikken skal bli treffsikker, er det behov for god og relevant forskning. Det er blant annet viktig med mer forskning på effekter av arbeidsmarkedstiltak og på hvilke rammevilkår som har betydning for tiltakenes effekt. Det omfatter også behov for mer kvalitativ forskning om kvalitet, innhold i tiltak og målgrupper. Flere evalueringer bør også kunne fange opp ulike måter å organisere og gjennomføre arbeidsmarkedstiltak på, samt vurdere elementer innenfor enkelttiltak som vurderes som avgjørende for tiltakenes effekt. Det er også pekt på i områdegjennomgangen at det er behov for å forske mer på arbeids- og velferdsforvaltningens oppfølging i forkant av tiltakstildelingen. Før en bruker blir tildelt et gitt arbeidsmarkedstiltak gjennomføres det omfattende kartlegging og vurdering av brukerens behov og forutsetninger. Slike vurderinger og beslutninger kan også påvirke arbeidssøkeres muligheter for tilknytning til arbeidsmarkedet.
+
+Det er mange ulike sider ved gjennomføringen av arbeidsmarkedstiltak som er aktuelle å evaluere, og det er fortsatt behov for mer kunnskap. Regjeringen vil derfor fortsette arbeidet med å sikre kontinuerlig utvikling av kunnskapsgrunnlaget om arbeidsmarkedstiltak gjennom å utvikle et bedre datagrunnlag og systematisk satsing på evalueringer på et høyt faglig nivå. Systematiske kunnskapsoppsummeringer vil også bidra til å klargjøre hva vi vet og avdekke kunnskapshull. Det viser vei for videre utprøving og forskning.
+
+Arbeids- og inkluderingsdepartementets strategi for forskning og utredning redegjør for overordnede og strategiske kunnskapsbehov og hvordan sektoransvaret for forskning ivaretas. Det framgår her at arbeidsmarkedstiltak må evalueres jevnlig, og vurderes opp mot måloppnåelse og effekt. Et viktig element i kunnskapsbehovet er arbeidsmarkedspolitikkens og arbeids- og velferdstjenestenes innretning og effekter på arbeidsinkludering.
+
+Arbeids- og inkluderingsdepartementet tildeler også midler til Norges Forskningsråd som hovedsakelig skal bidra til langsiktig og målrettet kompetanse- og kunnskapsoppbygging for sektoren. Det har de siste årene vært prioritert å få mer og bedre forskning på de praksisnære arbeids- og velferdstjenestene. Arbeids- og velferdsforvaltningen er en viktig samarbeidspartner i slike forskningsprosjekter.
+
+Arbeids- og inkluderingsdepartementet jobber også sammen med Arbeids- og velferdsdirektoratet om å utvikle kunnskapen om arbeidsmarkedstiltak. God kunnskapsutvikling i Arbeids- og velferdsetaten tilsier at samfunnsøkonomiske nytte-kostnadsvurderinger også vektlegges når tiltak velges for brukerne. Det er blant annet nylig gjennomført en overordnet evaluering av effekter av arbeidsmarkedstiltak på deltakernes arbeidstilknytning i regi av Oslo Economics og Frischsenteret.[^170] Se kapittel 8 for en nærmere omtale av denne studien. I tillegg har det gjennom årene vært gjennomført en rekke kvalitative evalueringer som kartlegger bruken av tiltakene. De gir nyttig innsikt som grunnlag for å forbedre innretningen av ulike tiltak.
+
+Arbeids- og velferdsdirektoratet har ulike virkemidler for å produsere kunnskap for etatens behov som oppdragsforskning, finansieringsbidrag til forskning, interne analyser, kunnskapsoppsummeringer, Forskningsrådets virkemidler og strategisk samarbeid med universiteter og høyskoler. Gjennom disse virkemidlene produseres en rekke analyser og vitenskapelige publikasjoner som belyser praksis og erfaringer. Kunnskap om arbeidsrettede tiltak og virkemidler er ett av fire satsingsområder. Kunnskapen som produseres tas i bruk i utviklingen av arbeidsmarkedstiltakene.
+
+Kunnskapen som produseres gjennom forskningsrapporter og andre systematiske metoder, må i større grad oppsummeres og gjøres tilgjengelig på en slik måte at den kan tas i bruk av veilederne i NAV-kontoret. Arbeids- og velferdsdirektoratet har et ansvar for å arbeide for at egen virksomhet er kunnskapsbasert.[^171] Det ligger til fagdirektoratsrollen at direktoratet gjennom kompetansehevende og andre tilretteleggende tiltak, skal bidra til at kunnskap gjøres tilgjengelig og tas i bruk på alle nivåer i arbeids- og velferdsforvaltningen. Det er vesentlig framover at det fortsatt arbeides systematisk med kunnskapsdeling på viktige fagområder. Det gjelder særlig for kunnskap som er sentral for å kunne yte god hjelp til brukere med behov for arbeidsrettet bistand, som kunnskap om arbeidsmarkedstiltak. Samtidig er det viktig at den erfaringsbaserte kunnskapen ikke forblir lokal, men at kunnskap og erfaringer tilføres og deles, slik det blant annet arbeides med gjennom tillitsreformen. Et sentralt tiltak for et godt fundert lokalt handlingsrom er derfor å etablere systemer som i større grad gjør det mulig å utvikle, spre og bruke kunnskap om hvilke tiltak som virker for ulike brukergrupper og hvordan tiltakene brukes best. Arbeids- og velferdsdirektoratet vil arbeide videre med å etablere slike systemer.
+
+Økte muligheter for randomisering av tiltaksbeslutningen
+
+Områdegjennomgangen er særlig opptatt av at det er utfordrende å sammenlikne arbeidsmarkedsutfallene blant deltakere på ulike tiltak, fordi det er systematiske forskjeller mellom hvilke brukere som deltar på hvilke tiltak. Områdegjennomgangen anbefaler derfor at det innføres økte muligheter for randomisering av tiltakstildelingen som betyr å innføre et tilfeldig element i tildelingen av tiltak. I regi av Arbeids- og velferdsetaten gjennomføres det fra tid til annen randomiserte kontrollerte forsøk allerede i dag.[^172] Forsøkene er typisk organisert som frittstående forskningsprosjekter utenfor den ordinære driften, og forsøkenes utstrekning er derfor også begrenset. Arbeids- og velferdsetaten bør fortsette å utforske muligheten for bruk av slike randomiserte forsøk.
+
+Det anbefales i områdegjennomgangen at Arbeids- og velferdsetaten utvikler en infrastruktur som tilrettelegger for bruk av kontrollerte forsøk av tiltakstildelingen som en del av ordinær praksis. Her kan det benyttes elementer av tilfeldigheter eller randomisering i tilfeller hvor veileder er usikker på hvilket tiltak som er mest hensiktsmessig for bruker. Det kan i prinsippet gjøres på ulike måter, eksempelvis i forbindelse med vurdering av innsatsbehov, tildeling av tiltak, tidspunkt for gjennomføringen av tiltak i oppfølgingsløpet, eller valg mellom enkeltelementer i tiltak. Slike forsøk vil ifølge utrederne kunne bidra med verdifulle eksperimentelle data som kan brukes til å etablere mer presis kunnskap om effekter av arbeidsmarkedstiltakene.
+
+Muligheten for å randomisere vil måtte begrenses til tilfeller hvor veileder vurderer flere tiltak som likeverdige for bruker. Dersom ett tiltak anses som klart bedre egnet enn et annet tiltak, vil det ikke være rom for randomisering, siden det vil være til ulempe for brukerne. For at en slik utprøving skal gi grunnlag for å etablere generell kunnskap om effekter av tiltakene, må et tilstrekkelig antall observasjoner inkluderes. Antall brukere som inngår i utprøvingen vil være avgjørende for om prinsippet med tilfeldig fordeling virker, og om forskjell i effekt kan måles presist. Det er imidlertid usikkert hvor ofte veiledere vurderer to eller flere tiltak som likeverdige for bruker. Eksperimenter utført i den virkelige verden kan være dyrt og det kan være vanskelig å sikre tilstrekkelig antall deltakere. Det er i tillegg en rekke praktiske hensyn knyttet til slike randomiserte forsøk. Randomisering kan også påvirke resultatet dersom aktørene vet at de følges og evalueres. For å iverksette en slik randomisering i den daglige driften, må Arbeids- og velferdsetaten også utvikle en funksjonalitet i saksbehandlingssystemet som legger til rette for trekningen i forsøkene. En slik utvikling vil uansett ligge noe fram i tid.
+
+Randomisering handler også om å vektlegge hensynet til evaluering i utforming av politikk, ved å sørge for at regelverksendringer og reformer gjennomføres på en slik måte at det i ettertid blir mulig å evaluere effektene av dem.
+
+Potensial for å forbedre profileringsverktøy
+
+Det pekes også i områdegjennomgangen av arbeidsmarkedstiltak på at veilederne har begrenset beslutningsstøtte i dagens fagsystemer for prosessen med tildeling av arbeidsmarkedstiltak. For å lykkes med å gi brukerne målrettede og effektive tiltak, må NAV-kontoret være treffsikre i sine behovsvurderinger og tildelingen av tiltak. Både i Sysselsettingsutvalget (NOU 2019: 7 *Arbeid og inntektssikring* og NOU 2021: 2 *Kompetanse, aktivitet og inntektssikring*) og i områdegjennomgangen pekes det på at profileringsverktøy kan være en støtte for NAV-veilederne i dette arbeidet og bidra til mer kunnskapsbasert ressurs- og tiltaksbruk.[^173] Profileringsverktøy sammenholder administrative data og eventuelt egenrapporterte data om arbeidssøkeren, med erfaringer om hvordan personer med liknende sammensetning av egenskaper lykkes med å komme i jobb. Dette kan for eksempel benyttes til å kanalisere ressurser mot brukere med størst behov, og for å unngå å bruke ressurser på dem som vil klare seg selv.
+
+Arbeids- og velferdsforvaltningen har i dag et enkelt profileringsverktøy som foreslår innsatsbehov basert på opplysninger fra bruker i registreringen som arbeidssøker. Verktøyet gir et forslag og veilederne tar en selvstendig beslutning om innsatsbehov. Ifølge Arbeids- og velferdsdirektoratet er det potensial for å forbedre også slike enkle profileringsverktøy, eksempelvis ved å utnytte andre relevante data, som arbeidssøkers egen vurdering av hvor lang tid det vil ta å finne arbeid, og ved å ta i bruk en mer sofistikert algoritme. I tillegg må veilederne som bruker verktøyet være kjent med hvilke data som er brukt, kvaliteten til disse dataene og hvilke andre relevante risikofaktorer de må vurdere. Denne typen data og verktøy er tatt i bruk i flere andre land, se boks 7.3.
+
+Bruk av algoritmebaserte profileringsverktøy i andre land
+
+Flere europeiske land har utviklet og tatt i bruk statistiske profileringsverktøy som utnytter ulike maskinlæringsalgoritmer. I denne boksen presenteres statistiske profileringsverktøy i henholdsvis Sverige, Danmark og Belgia.
+
+Profileringsverktøyene som benyttes i disse landene gir i hovedsak profilering av brukers oppfølgingsbehov tidlig i forløpet, tilsvarende Arbeids- og velferdsetatens vurdering av innsatsbehov, basert på prediksjoner for varighet av arbeidsledighet. Personer som har sannsynlighet for lang varighet, blir profilert mot tettere oppfølging tidlig i forløpet, mens personer med sannsynlighet for å finne arbeid selv etter kort tid, blir profilert til mindre oppfølging.
+
+*Sverige:* I Sverige har Arbetsförmedlingen brukt profileringsverktøy siden 2011. Det såkalte Bedömningsstödet ble brukt til å identifisere hvilke brukere som sto i fare for å bli langtidsledige, slik at arbeidsformidlingen kunne tilby hjelp tidlig og forhindre langtidsledighet. Verktøyet var et støtteverktøy som ble brukt i kombinasjon med saksbehandlernes egen skjønnsutøvelse. I 2021 ble Bedömningsstödet erstattet av en ny modell. Den gir en skår som kan tolkes som en sannsynlighet for langtidsledighet. Algoritmen er basert på data om blant annet sysselsettingshistorikk, ønsket yrke og om arbeidssøkeren har nedsatt arbeidsevne. Veileder tar den endelige beslutningen, men må gi en begrunnelse hvis beslutningen avviker fra resultatet av algoritmen.
+
+*Danmark:* Profileringsverktøyet i Danmark, Profilafklaringsværktøjet, predikerer langtidsledighet. Verktøyet ble brukt som et støtteverktøy for saksbehandlere når de skulle beslutte hvilken støtte og hjelp brukerne trengte for å komme i jobb eller tilbake i jobb. I verktøyet ble data fra et nettbasert spørreskjema i kombinasjon med administrative data analysert. De administrative dataene ga blant annet informasjon om brukernes alder, opprinnelse og ledighetshistorikk. Det var frivillig for bruker om man ville la seg avklare med profileringsverktøyet. En praksisundersøkelse i regi av Styrelsen for Arbejdsmarked og Rekruttering (STAR) i 2021 indikerte at saksbehandlerne bare i mindre grad nyttiggjorde seg den statistiske profilavklaringen, mens spørreskjemaet ble anvendt i større grad. Den statistiske delen av verktøyet ble lukket i mars 2022, mens forberedelsesskjemaet ble beholdt og finnes på Jobnet.dk.
+
+*Belgia:* Profileringsverktøyet til den flamske arbeidsmarkedsmyndigheten identifiserer arbeidssøkere som står i fare for å bli langtidsledige. Modellen baserer seg på informasjon om trekk ved jobbsøkernes sosioøkonomiske situasjon og tidligere arbeidserfaring. Datakildene er administrative systemer samt såkalte klikk-data, det vil si informasjon fra brukerens aktivitet på arbeidsformidlingens nettsider, som klikk på stillingsutlysninger. Det skal gi informasjon om brukerens motivasjon og egeninnsats. Brukere med høy risiko for langtidsledighet kontaktes først av arbeidsformidlingen. Profileringsverktøyet blir brukt som beslutningsstøtte av saksbehandlere.
+
+Kilde: Oslo Economics, Proba og Frischsenteret (2023). *Områdegjennomgang av arbeidsmarkedstiltak: Anbefalinger for effektiv og kunnskapsbasert bruk*. Rapport 2023:88. Oslo: Oslo Economics.
+
+\[Boks slutt\]
+
+Arbeids- og velferdsetaten må bli bedre til å identifisere hvem som har behov for bistand og avgjøre hvem som vil ha størst utbytte av tiltakene etaten kan tilby. Det er grunn til å tro at bruk av algoritmebaserte profileringsverktøy vil kunne bidra til en mer kunnskapsbasert arbeidsrettet oppfølging i Arbeids- og velferdsetaten. Det pekes i områdegjennomgangen på at profileringsverktøy også kan utvikles til å gi råd om hvilke tiltak som har god effekt for ulike typer brukere. Et slikt verktøy vil kunne gi en anbefaling til veileder om bruk av tiltak for en bestemt bruker, basert på hva man vet om hvilke tiltak som har hatt en positiv effekt for liknende brukere. Det vil imidlertid være langt mer krevende å utvikle slike verktøy enn å utvikle profileringsalgoritmer som anbefaler om en bruker bør motta tiltak eller ikke, eller når vedkommende bør få tilbud om tiltak. Det krever blant annet et kunnskapsgrunnlag som bygger på systematisk innsamling og analyse av arbeidssøkers behov, formål med og måloppnåelse av tiltak. Slike mer avanserte verktøy ligger derfor noe fram i tid. Behovet for regelutvikling vil være avhengig av om profileringen består av en automatisert behandling i samspill med en veileder, eller om profileringen er basert utelukkende på automatisert behandling, se også omtalen i avsnitt 7.4.
+
+### Kunnskapsbasert styring og finansiering av arbeidsmarkedstiltakene
+
+I områdegjennomgangen pekes det også på at ulike elementer innenfor styring, dimensjonering og finansiering av arbeidsmarkedstiltakene fortsatt kan oppleves som en barriere for god tiltaksbruk.
+
+Områdegjennomgangen peker på at tradisjonelt øker tiltaksbudsjettet i lavkonjunktur, mens det reduseres i perioder med høy aktivitet i økonomien. Ifølge utrederne finnes det flere ulemper enn fordeler med dette mønsteret. Flere norske studier finner at arbeidsmarkedstiltak ser ut til å ha noe bedre effekt i høykonjunktur enn i lavkonjunktur.[^174] Sysselsettingsutvalgets ekspertgruppe (NOU 2019: 7 *Arbeid og inntektssikring*) peker imidlertid på at noen internasjonale studier ikke finner en slik sammenheng. Perioder med høy etterspørsel etter arbeidskraft bør likevel i større grad ses på som en mulighet til å bruke arbeidsmarkedstiltak for å få personer som ellers står langt fra arbeidsmarkedet inn i jobb. Ifølge områdegjennomgangen er det også slik at store svingninger i tiltaksbudsjettet i seg selv kan være krevende å forholde seg til både for Arbeids- og velferdsetaten og for leverandører av tiltak, blant annet fordi store svingninger medfører uforutsigbarhet for leverandører og kan påvirke kvaliteten i tiltaksbruken.
+
+I områdegjennomgangen anbefales det derfor at man tar sikte på å utjevne budsjettrammen noe over konjunkturløpet sammenliknet med i dag. Dette er nærmere drøftet i kapittel 3.
+
+Enklere prioriterings- og styringssignaler
+
+For å sikre at bruken av arbeidsmarkedstiltak skal være så riktig og god som mulig, må budsjettrammer og styringssignaler legge til rette for at NAV-veilederne kan velge de tiltakene som er best egnet i det enkelte tilfellet.
+
+I Meld. St. 33 (2015–2016) *NAV i en ny tid – for arbeid og aktivitet* ble det varslet at styringen av arbeidsmarkedstiltakene i større grad skulle legge vekt på kvalitet og resultater for brukerne. Fra 2017 gikk departementet bort fra å styre etatens tiltaksgjennomføring ved krav om gjennomføring av et visst antall plasser. Det ga NAV-kontorene større frihet til å velge blant relevante tiltak innenfor bevilgningen til arbeidsmarkedstiltak. Målet er at arbeids- og velferdsforvaltningen skal oppnå bedre resultater med de ressursene som blir stilt til rådighet.
+
+Det ble også vektlagt i meldingen at det bør utøves tilbakeholdenhet med å gi omfattende nasjonale føringer på sammensetningen av tiltaksporteføljen. Skal bistanden tilpasses den enkelte brukers behov, må dette skje lokalt. Over tid, også innenfor budsjettåret, kan både sammensetningen av brukere, mulighetene på arbeidsmarkedet og tjenestetilbudet lokalt endres. Valg av virkemidler bør derfor fortsatt være Arbeids- og velferdsetatens ansvar. Lokal frihet må følges opp med videreutvikling av kunnskapsgrunnlaget og kompetanseheving i etaten om arbeidsrettet oppfølging og bruk av arbeidsmarkedstiltak. Over tid kan det gi utslag i bedre innretning og tildeling av tiltak og tjenester overfor arbeidssøkere med behov for bistand.
+
+Arbeidsmarkedstiltakene utgjør en viktig del av innsatsen for å få flere i arbeid, og for å hindre utstøting fra arbeidslivet. Samtidig er tilgangen på tiltaksplasser begrenset, og Arbeids- og velferdsetaten må prioritere hvilke brukere som skal tilbys tiltak. Dette har over tid kommet til uttrykk på ulike måter, fra generelle prioriteringer av målgrupper til garantier om tiltak. De senere årene har det vært tradisjon for å sikre et høyt nivå på tiltak overfor grupper som stiller svakere i arbeidsmarkedet. Utsatte unge, personer som har vært ledige lenge og innvandrere fra land utenfor EØS-området har vært prioritert på denne måten, se blant annet omtale i Prop. 1 S (2023–2024) fra Arbeids- og inkluderingsdepartementet. En slik prioritering medfører at noen grupper vil måtte vente lenger på tiltak, mens andre grupper går foran i køen.
+
+I områdegjennomgangen er det undersøkt om denne typen styring av aktivitetene i arbeids- og velferdsforvaltningen fører til en uhensiktsmessig bruk av arbeidsmarkedstiltak. Det pekes i områdegjennomgangen på at ved knapphet på tiltak kan det tenkes at en ung person prioriteres for tiltak foran en eldre person som også er vurdert å ha behov for tiltak, til tross for at den unge med større sannsynlighet enn den eldre klarer å komme seg i jobb uten denne bistanden. Det vil også kunne oppstå mer systematiske motsetninger dersom prioriteringene ikke samsvarer med faglige vurderinger om hvem som har størst behov for og best nytte av tiltak. Inntrykk fra en rekke intervjuer i gjennomgangen er imidlertid at de prioriterte gruppene for tiltak i stor grad er i tråd med hvem NAV-veilederne mener har behov for tiltak. Sånn sett er det mindre grunn til å tro at føringene bidrar til systematisk uhensiktsmessig bruk av arbeidsmarkedstiltak.
+
+En sentral vurdering i gjennomgangen er likevel at disse føringene har liten betydning i praksis. Arbeidsmarkedstiltak skal i henhold til regelverket tildeles av NAV-kontoret etter en individuell vurdering av behovet for bistand for å styrke mulighetene til å skaffe eller beholde arbeid. Deltakelse i tiltaket bør være nødvendig og hensiktsmessig for at deltakeren skal nå dette målet. Tildeling av tiltak skal derfor som hovedregel følge utfallet av en behovs- eller arbeidsevnevurdering. Gitt en forutsetning om at det er det lokale NAV-kontoret som har mest informasjon om brukernes behov og dermed best kan vurdere hvem som skal prioriteres for arbeidsmarkedstiltak, pekes det i gjennomgangen på at det er viktig å være bevisst på at prioritering av grupper ikke nødvendigvis gir den beste ressursbruken.
+
+Slik dagens styring er innrettet, er det også overlapp mellom ulike prioriteringssignaler. Dette fordi det først gis prioriteringssignaler for arbeidsrettet oppfølging, dvs. bruk av NAV-kontorets veilederressurser, og deretter for bruk av arbeidsmarkedstiltak. Eksempler på slike prioriteringer er bruk av forsterket oppfølging av utsatte unge gjennom ungdomsgarantien og forsterket oppfølging av langtidsledige. Regjeringen vil framover utforme mer overordnede prioriteringer overfor sentrale målgrupper i arbeidsmarkedspolitikken for den samlede arbeidsrettede innsatsen fra NAV-kontoret. Slik kan man fortsatt styre fordelingen av begrensede ressurser, både oppfølgingsressurser og tiltaksressurser, mot grupper som er utsatte i arbeidsmarkedet. Det bidrar også til målet i tillitsreformen om at NAV-kontorene skal ha handlefrihet til å tilpasse tjenestene til individuelle behov.
+
+Lokale budsjettbegrensninger
+
+Evalueringer viser at lønnstilskudd kan være et effektivt virkemiddel for å få flere i jobb. Bruken av midlertidig lønnstilskudd har økt raskt i perioder, men kartleggingen tyder likevel på at lokale budsjettbegrensninger er en hindring for bruk av dette tiltaket, og noe som kan komme i konflikt med veiledernes faglige vurdering. Bakgrunnen er at fylkene fordeler en del av tiltaksbudsjettet til NAV-kontorene. Kontorenes tiltaksbudsjett skal i hovedsak gå til tiltak som lønnstilskudd, individuelle AMO-kurs og bruk av mentor. Dersom denne potten begynner å ta slutt på høsten, får veilederne beskjed om å stanse eller redusere bruken av tiltaket.
+
+Områdegjennomgangen viser til at et mulig svar kan være en ny oppgavefordeling i budsjett- og tiltaksarbeidet i fylkene. Forslaget går ut på at hele ressursrammen gjennom en skyggeprismekanisme fordeles til kontorene, både til individuelle tiltak og tiltak som framskaffes på fylkesnivå. Det å overføre budsjettansvaret til kontorene gjennom en skyggeprismekanisme, kan imidlertid være en krevende modell i praksis. I ett fylke som har testet ut modellen, er det heller ikke registrert tydelige endringer i tiltaksbruken. Det er derfor usikkert om NAV-kontoret i vesentlig grad legger pris og koststed til grunn ved valg av tiltak. Tidligere erfaringer tilsier at det er mulig å øke bruken av lønnstilskudd uten å innføre budsjettansvar til kontorene gjennom en skyggeprismekanisme. Blant annet har antall deltakere på midlertidig lønnstilskudd økt kraftig etter sommeren 2023. Utrederne drøfter også innføring av en refusjonsordning for midlertidig lønnstilskudd fra fylkeskontoret til NAV-kontoret, slik at NAV-kontoret finansierer kun skattefinansieringskostnaden (20 prosent) når de benytter lønnstilskudd som tiltak. De resterende 80 prosent av kostnaden refunderes av fylket. Da vil NAV-kontoret stå overfor reelle kostnadskomponenter ut i fra et samfunnsøkonomisk perspektiv.[^175] Det er en kompleks modell og det er usikkert om en slik modell vil føre til mer riktig tiltaksbruk med økt kvalitet og bedre resultater.
+
+Arbeids- og inkluderingsdepartementet vil be Arbeids- og velferdsdirektoratet vurdere ulike andre tilnærminger som kan bidra til at effektive arbeidsmarkedstiltak, som lønnstilskudd, brukes oftere i NAV-kontorene. Det dreier seg blant annet om å sikre bedre opplæring av NAV-kontorene om hvilke tiltak som bidrar til mest stabil arbeidslivstilknytning for ulike NAV-brukere og tettere kontakt med ordinært arbeidsliv.
+
+Framskaffelser av arbeidsmarkedstiltak
+
+Arbeidsmarkedstiltakene organiseres og framskaffes ulikt, se også omtale i avsnitt 3.4 om dette. Ulike måter å framskaffe arbeidsmarkedstiltak på omfatter blant annet valg av hvilke tiltak som skal anskaffes i henhold til anskaffelsesregelverket, produseres i Arbeids- og velferdsetatens egenregi eller kjøpes gjennom direkte tilskudd til forhåndsgodkjente tiltaksarrangører.
+
+Arbeidsmarkedstiltakene arbeidsrettet rehabilitering, avklaring, oppfølging og opplæring (AMO og i noen tilfeller videregående opplæring) kjøpes i dag etter regelverket for offentlige anskaffelser. Oppfølgingstiltak kan gjennomføres av private eller ideelle leverandører etter forutgående konkurranse, eller de kan arrangeres i Arbeids- og velferdsetatens egenregi i form av arbeid med støtte og individuell jobbstøtte (IPS). For tiltakene varig tilrettelagt arbeid (VTA) og arbeidsforberedende trening (AFT) gis det direkte tilskudd til forhåndsgodkjente tiltaksarrangører som har inngått avtale med Arbeids- og velferdsetaten om å arrangere disse tiltakene. Tiltak kan også gjennomføres ved at det gis direkte tilskudd til arbeidsgivere gjennom kompensasjon for nedsatt produktivitet hos tiltaksdeltakere i form av lønnstilskudd, eller ved tilretteleggingskostnader der det kan gis inkluderingstilskudd mv. Opplæringstiltak utenom AMO gjennomføres som hovedregel i det ordinære utdanningssystemet. Se nærmere om disse tiltakene i kapittel 4 og 5.
+
+Det er Arbeids- og velferdsetaten som tar beslutninger om hvilke tiltak som er nødvendige og hensiktsmessige for at den enkelte skal komme i jobb. Tiltaksporteføljen kan noen steder variere, og ikke alltid er det foretrukne arbeidsmarkedstiltaket tilgjengelig. I områdegjennomgangen pekes det på at Arbeids- og velferdsetaten har begrenset fleksibilitet til å gjøre hensiktsmessige endringer i sammensetningen av tiltaksporteføljen på kort sikt. Gjennomgangen finner at hvordan framskaffelsen av arbeidsmarkedstiltak skjer, kan ha betydning for hvilke tiltak som er tilgjengelig når, til hvilken pris, og med hvilken kvalitet. I områdegjennomgangen pekes det på behov for bedre faglige begrunnelser knyttet til sammensetning av tiltak og om de skal leveres av tiltaksleverandører etter konkurranse, i intern regi hos Arbeids- og velferdsetaten eller av forhåndsgodkjente bedrifter.
+
+Arbeids- og velferdsetaten kjøper tiltak fra *private og ideelle tiltaksleverandører* gjennom anbudsutsetting og bruk av rammeavtaler. Anbudsformen stiller krav til Arbeids- og velferdsetaten både når det gjelder innkjøpskompetanse og oppfølging av leverandørene, for å sikre god kvalitet i tilbudet til brukerne. Ved anskaffelser må leverandørene sikres en viss forutsigbarhet for å kunne gi gode tilbud. Det stiller blant annet krav til kontraktenes varighet. Flere har pekt på utfordringer knyttet til varigheten i avtalene, samt at tiltaksarrangør ikke kompenseres for plasser som ikke fylles opp, og at de dermed må bære risikoen alene. Områdegjennomgangen viser til at vilkår i kontrakts- og konkurransedokumenter vil kunne påvirke tilgjengelighet, pris og kvaliteten på tiltak. For eksempel kan en detaljert spesifikasjon av tiltak være hensiktsmessig med sikte på oppfølging og kontroll med gjennomføringen, men kan samtidig gjøre det vanskeligere med skreddersøm og tilpasning til den enkelte brukers behov.
+
+En utfordring som reises med jevne mellomrom, er også at Arbeids- og velferdsetaten i større grad bør inngå samarbeid med flere ulike typer leverandører av arbeidsmarkedstiltak. Flere typer leverandører, både kommersielle og ideelle, herunder sosiale entreprenører, kan være viktig for å sikre mangfold og et variert tilbud av arbeidsmarkedstiltak, se også *Strategi for økt innovasjon og bedre tjenester på arbeids- og velferdsfeltet* fra 2021. Stortinget har også nylig fattet et vedtak som ber regjeringen fremme en strategi for å styrke ideell sektors rolle og tilbud på arbeids- og velferdsfeltet, se Dokument 8:261 S (2022–2023) og Innst. 61 S (2023–2024).
+
+*Tiltak i Arbeids- og velferdsetatens egenregi* finansierer jobbspesialister ansatt i Arbeids- og velferdsetaten som tilbyr oppfølging gjennom tiltakene arbeid med støtte og IPS. Ifølge områdegjennomgangen gir egenregi etaten større muligheter til løpende styring og kontroll over innhold og kvalitet i tiltakene. Egenregi legger også grunnlag for synergier ved at informasjon fra tiltaksgjennomføringen som er relevant for videre oppfølging og innsats allerede er lett tilgjengelig i Arbeids- og velferdsetaten og kan benyttes i den videre innsatsen. Det er videre et spørsmål hvilken betydning egenregi har for leverandørmarkedet knyttet til det anbudsutsatte oppfølgingstiltaket, se også kapittel 5.
+
+De *forhåndsgodkjente tiltaksleverandørene* skal ha attføring eller varig tilrettelagt arbeid som primær aktivitet, og de skal som hovedregel være organisert som aksjeselskap og ha kommunal eller fylkeskommunal aksjemajoritet. Det skal ikke utbetales utbytte, og eventuelt overskudd skal forbli i virksomheten og komme attføringsarbeidet til gode. For disse tiltakene er tilskuddene standardiserte per tiltaksplass. Tiltaksarrangørene kan heller ikke eie eller kontrollere annen forretningsvirksomhet. Konsern med forhåndsgodkjente tiltak kan i tillegg delta i anbudskonkurranser for konkurranseutsatte tiltak på linje med andre aktører. Den konkurranseutsatte delen skal være organisert adskilt fra tiltakene som krever forhåndsgodkjenning (AFT og VTA). Selv om Arbeids- og velferdsetaten følger opp leverandørene og vurderer kvaliteten i tiltakene, brukes for eksempel muligheten til å si opp avtaler eller plasser i forhåndsgodkjente virksomheter i liten grad. Endringer i antall tiltaksplasser må varsles tiltaksleverandørene seks måneder på forhånd, noe som gir mindre fleksibilitet og kan gjøre det vanskeligere for etaten å frigjøre midler til andre tiltak, i tilfeller hvor det vurderes mer hensiktsmessig. I områdegjennomgangen blir det også pekt på at systemet med forhåndsgodkjente bedrifter verken utnytter fordelene ved markedsmekanismer eller fordeler ved å produsere i Arbeids- og velferdsetatens egenregi.
+
+Regjeringen vil styrke det faglige grunnlaget for hvordan arbeidsmarkedstiltakene bør framskaffes. Regjeringen vil derfor sikre grundige vurderinger av fordeler og ulemper ved ulike framskaffelsesmodeller og under hvilke forutsetninger de ulike framskaffelsesmetodene for arbeidsmarkedstiltak bør benyttes. Det skal bidra til god kvalitet og tilgjengelighet lokalt. Mulighetene anskaffelsesregelverket gir til å fremme innovasjon og legge til rette for flere ulike typer leverandører når det er behov for mer mangfold i leverandørmarkedet, er også viktig å kartlegge. Departementet vil vurdere behov for eventuelle endringer i etterkant av dette. Dette må også ses i lys av at regjeringen har satt ned et utvalg som har i oppdrag å utrede den kommersielle driften av velferdstjenester, det såkalte Avkommersialiseringsutvalget. Arbeidsmarkedstiltak inngår i dette arbeidet. Utvalget leverte sin sluttrapport, NOU 2024: 17 *Kommersielle og ideelle aktørers rolle i fellesskapets velferdstjenester*, til Digitaliserings- og forvaltningsdepartementet i august 2024.

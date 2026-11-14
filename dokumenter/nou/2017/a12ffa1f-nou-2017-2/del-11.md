@@ -1,929 +1,171 @@
-# NOU 2017: 2, del 11 av 20 (side 133–145)
+# NOU 2017: 2, del 11 av 19
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/a12ffa1f-nou-2017-2.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-2/id2536701/
 - Original-PDF: https://www.regjeringen.no/contentassets/c072f7f37da747539d2a0b0fef22957f/no/pdfs/nou201720170002000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 36 tabeller, 78 figurer, 558 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 133]
+For alle innvandrergruppene er det betydelige «startutgifter» knyttet til økte offentlige overføringer og til at de nye innbyggerne får tilgang til offentlige tjenester. Forholdsvis høy sysselsetting blant innvandrerne fra landgruppe 1 og 2 fører imidlertid til at de raskt bidrar til å øke offentlige nettoinntekter. Bidraget avtar over tid. I de første tiårene skyldes det gjenutvandring. Bidraget blir negativt når de gjenværende i disse gruppene gradvis pensjoneres, samtidig som utgiftene til alderspensjon, helsetjenester og eldreomsorg ikke dekkes av skatteinntektene fra de ekstra etterkommerne. Til sammenlikning gir innvandring fra landgruppe 3 lavere sysselsetting og skatteinntekter, høyere offentlige overføringer og høyere startkostnader fordi gruppen inneholder flere barn.
 
-NOU 2017: 2
-Integrasjon og tillit
+På lang sikt er det etterkommerne som dominerer virkningene, og disse antas som sagt å ha samme atferd som majoritetsbefolkningen. De relativt små forskjellene mellom innvandrergruppene etter 2080 i figur 8.6 skyldes derfor i hovedsak ulik aldersfordeling blant de ekstra etterkommerne.
 
-menn, eller at de fiktive kvinnelige og mannlige
-søkerne søkte på ulike jobber. Siden studien var
-opptatt av omfanget av etnisk diskriminering, lot
-forskerne kvinnelige søkere søke stereotypiske
-kvinnejobber, mens mennene søkte mannsjobber.
-Den negative forskjellsbehandlingen av personer
-med utenlandskklingende navn var noe større i
-Oslo, den var vesentlig større i privat enn i offentlig sektor (34 pst. vs. 10 pst) og mindre i stillinger
-med klare kvalifikasjonskrav. Alle søkerne fylte de
-formelle kvalifikasjonskravene til stillingene de
-søkte på, men søkere med utenlandskklingende
-navn kom bedre ut i stillinger som stilte formaliserte krav til utdanning (som sykepleier) enn i
-stillinger der kompetansekravene var mer diffuse
-(som dataingeniør). Uklare utdanningskrav gir
-rom for mer skjønnsutøvelse, som gjerne ikke faller ut til fordel for dem med innvandrerbakgrunn.
-Aller sterkest var diskrimineringstendensene i yrker innen lager og transport. Mens et utenlandsk
-navn reduserte sannsynligheten for intervjuinnkalling med 7,5 pst. for stillinger i utdanningssektoren, ble den redusert med 50 pst. for yrker
-innen lager/transport.47
-I 2011–2013 ble et liknende studiedesign gjennomført i et større geografisk område. I tillegg til
-Oslo sendte man fiktive søknader til jobber i
-Stavanger, Bergen og Trondheim.48 I hvert eksperiment sendte man to jobbsøknader til samme jobbutlysning og sjekket respons eller mangel på respons fra arbeidsgiveren. De to søknadene var likelydende bortsett fra at den ene hadde et typisk
-muslimsk/pakistansk navn og den andre et typisk
-norsk navn. Undersøkelsen ble gjennomført i en
-periode med stor etterspørsel etter arbeidskraft,
-og et hovedinntrykk var at de fiktive søkerne fikk
-en relativt høy grad av respons. Arbeidsgiverne i
-Oslo responderte på 51 pst. av søknadene med typisk norsk navn og 39 pst. av søknadene med typisk muslimsk/pakistansk navn. I de andre byene
-var responsen henholdsvis 49 og 42 pst. Også
-denne undersøkelsen viste altså at omfanget av
-diskriminering er noe større i Oslo enn andre steder i landet. Inntrykket av diskrimineringsomfang
-i ulike jobber og bransjer var likevel noe annerledes. Denne studien fant lite diskriminering i yrker
-innen media og IKT, økonomi og regnskap og administrasjon/forvaltning, og mer i yrker innenfor
-transport og lager, utdanningssektoren og helse-
+Norskfødte genererer i gjennomsnitt langt høyere skatteinntekter enn innvandrere i de årene flertallet av både 2016-kullet og deres barn er i arbeid. På den andre siden blir også pensjonsutbetalingene høyere. Det samme gjelder barnerelaterte utgifter, siden de fleste i innvandrergruppene ankommer som voksne. Syklene i kurvene skyldes at flere generasjoner lever side om side med varierende andeler av yrkesaktive. Det gjør årlige gjennomsnitt av beregningene svært følsomme for valg av periodelengde. Når beregningene føres fram til 2150, genererer en norskfødt høyere netto utgifter enn en ekstra innvandrer fra landgruppe 3, dels som følge av en større andel barnerelaterte utgifter i gjennomsnittstallet, dels fordi det genereres flere individer som alle påfører det offentlige en nettoutgift gjennom livsløpet. En ekstra innvandrer fra landgruppe 3 genererer større offentlige nettoutgifter enn en innvandrer fra de øvrige landgruppene, gitt forutsetningene om blant annet videreføring av observert atferd.
 
-og sosialsektoren. Hovedtendensen i begge disse
-feltstudiene er likevel klar, man finner mindre diskriminering i yrker med klare kompetansekrav og
-mer i yrker der kompetansekravene er små og
-kampen om jobbene stor (transport, lager).49
-Analyser av registerdata bekrefter langt på vei
-funnene fra felteksperimentene. Også registerdatastudiene tyder på at det finnes «etniske barrierer» som gjør at overgangen fra utdanning til arbeidsliv tar noe lengre tid for etterkommere med
-– for eksempel – pakistansk- og indiskfødte foreldre enn for unge uten innvandrerbakgrunn,
-men omfanget av diskriminering er mindre i jobber som krever utdanning.50 Dette skal likevel
-ikke forstås slik at diskriminering ikke kan finnes
-i yrker med krav til høyere utdanning. En studie
-tyder på at innvandrere møter karrierebarrierer i
-norske utdannings- og forskningsinstitusjoner,
-der innvandrere er overrepresentert i midlertidige forskerstillinger og underrepresentert i faste
-faglige stillinger.51 Denne undersøkelsen omfattet
-både personer som selv har innvandret, og etterkommere av innvandrere, noe som gir et annet utvalg og åpner for at andre mekanismer enn diskriminering (som språkproblemer) kan være virksomme.
-En analyse av lønnsforskjeller mellom innvandrere og den øvrige befolkningen har tatt utgangspunkt i en hypotese om at de som har færre
-og dårligere alternativer, i mindre grad vil slutte i
-jobben når lønningene reduseres. Hvis dette gjelder for innvandrere, kan arbeidsgivere tilby dem
-lavere lønn uten at de reduserer sitt arbeidstilbud.
-Analysene viser at lønnsgapet mellom menn med
-og uten innvandrerbakgrunn er betydelig, og at
-innvandrere i mindre grad slutter i jobben hvis
-lønningene reduseres. Funnene tilsier at arbeidsgivere i Norge har større markedsmakt overfor
-innvandrere enn personer fra den øvrige befolkningen, og at de derfor har mulighet til å diskriminere den første gruppen med hensyn til lønn.52
-49
+**\[:figur:figX-X.jpg\]**
 
-50
+1.  Virkninger på offentlige netto utgifter per ny innbygger i 2016. 1000 2013-kroner.
 
-51
-47
-48
+Holmøy, E. mfl. (2017a)
 
-Rogstad, J. & Midtbøen, A. (2012). Ibid. s. 89.
-Birkelund, G.E., Rogstad, J., Heggebø, K., Mogstad, T. &
-Bjelland, H.F. (2014). Diskriminering i arbeidslivet: resultater fra randomiserte felteksperiment i Oslo, Stavanger, Bergen og Trondheim. Sosiologisk Tidsskrift 22 (4), 352–382.
+Se fyldig omtale av slektsberegninger i Holmøy, E., C. P. Romay, I. Sagelvmo og B. Strøm (2017a). *Bidrag fra innvandrere og norskfødte til offentlige inntekter og utgifter på lang sikt.* Kommer i serien Rapporter fra Statistisk sentralbyrå.
 
-133
+**\[Boks slutt\]**
 
-Kapittel 7
+1.  **Oppsummering**
 
-52
+Analysen i dette kapitlet har forsøkt å belyse hvordan fordeler og ulemper ved innvandring kan tenkes å fordele seg på den eksisterende befolkningen og på de nye innvandrerne. Det legges vekt på effekter av innvandring for levestandarden, uttrykt ved realinntekt etter skatt.
 
-Birkelund, G. (2016). Mindre diskriminering i jobber som
-krever høyere utdanning. Kronikk i Aftenposten 17. mars
-2016. Tilgjengelig på http://www.aftenposten.no/viten/
-Mindre-diskriminering-i-jobber-som-krever-hoyereutdanning-8398829.html.
-Birkelund, G.E., Lillehagen, M., Ekre, V.P. & Ugreninov, E.
-(2014). Fra utdanning til sysselsetting – En forløpsanalyse
-av indiske og pakistanske etterkommere i Norge. Tidsskrift
-for samfunnsforskning, 55(4), 385–414.
-Maximova-Mentzoni, T., Egeland, C., Askvik, T., Drange, I.,
-Støren, L.A., Røsdal, T. & Vabø, A. (2016). «Å være utlending er ingen fordel». Karriereløp og barrierer for innvandrere i norsk akademia. Arbeidsforskningsinstituttet, Rapport 2016:03.
-Dale-Olsen, H., Røed, M. & Schøne, P. (2014). Makt til å
-diskriminere? Søkelys på arbeidslivet 4, 311–328.
+De som trolig har klarest fordel av innvandringen, er innvandrerne selv. Flytting til Norge vil for mange bedre levestandarden mye og raskt. Det gjelder for både arbeidsinnvandrere og flyktninger, selv om flyktninger per definisjon kommer for å få beskyttelse.
 
-[Side 134]
+For den eksisterende befolkningen er virkningene av innvandring mer sammensatte. Innvandringen påvirker realinntekten først og fremst gjennom tre kanaler: priser på det man kjøper for inntekten, timelønn før skatt og sannsynligheten for å få arbeid, og skattebyrden.
 
-134
+- Innvandring gir økt konkurranse i deler av arbeidsmarkedet og i mange tjenestemarkeder, og dermed lavere prisvekst til fordel for alle forbrukere.
 
-Kapittel 7
+- Den samlede fordelen av lavere priser blir mer uklar og mer ujevnt fordelt når man tar hensyn til at lavere priser skyldes lavere lønnskostnader. Jo lettere arbeidstakere i den eksisterende befolkningen på kort sikt kan erstattes av innvandrere, desto mer utsatt er de isolert sett for negativt press på lønn og arbeidsmiljø. På lengre sikt er det gevinster å hente hvis arbeidstakerne som slutter i én type jobb, øker sin kompetanse og får høyere lønn i den jobben de går til.
 
-NOU 2017: 2
-Integrasjon og tillit
+- Den eksisterende befolkningen kan isolert sett oppleve økt skattebyrde eller redusert offentlig velferdstilbud dersom innvandrerne i større grad enn norskfødte forsørges av det offentlige. I tillegg vil innvandring innebære at statens petroleumsformue må deles på flere. Erfaringsmessig har flyktninger og andre innvandrere fra lavinntektsland bidratt klart mer til offentlige utgifter enn til offentlige inntekter. Det motsatte kan være tilfellet når det gjelder arbeidsinnvandrere med relevant kompetanse. Innvandring som svekker offentlige finanser, vil forsterke hovedutfordringen som følger av en vesentlig økning i andelen eldre i tiårene framover. Dette understreker og tydeliggjør viktigheten av å lykkes med å øke sysselsettingen hos grupper som så langt har hatt en forholdsvis svak tilknytning til arbeidsmarkedet.
 
-7.5.2 Diskriminering på boligmarkedet
-Relativt mange innvandrere opplever at de har
-blitt diskriminert på boligmarkedet. I IMDis integreringsbarometer 2013/2014 var dette den tredje
-hyppigste arenaen der respondentene oppga diskriminering, etter arbeidsplassen og i jobbsøking.53 Også i levekårsundersøkelsen blant innvandrere 2005/2006 var opplevelsene av diskriminering på boligmarkedet betydelig. De høyeste
-andelene som sier at dette har skjedd, kom fra
-Somalia og Irak.54 At somaliere er særlig utsatte
-for diskriminering på boligmarkedet, er relativt
-godt dokumentert også i nyere studier.55
-Et felteksperiment der forskerne sendte likelydende søknader på ledige leieboliger i Norge, ser
-ut til å bekrefte inntrykket av at det foregår en
-viss negativ forskjellsbehandling av boligsøkere
-med innvandrerbakgrunn.56 Forskerne kombinerte navn (utenlandskklingende eller norskklingende), kjønn og sosial status (økonom eller butikkmedarbeider), slik at de til sammen hadde
-åtte fiktive søkere. Av de fiktive søkerne fikk
-Hanne, økonom, positivt svar fra 69 pst. av boligeierne. Fatima, økonom, fikk tilbud fra 57 pst.
-Hanne og Fatima som butikkmedarbeidere fikk
-positivt svar fra hhv. 63 og 48 pst. Aller dårligst ut
-kom Mohammed, butikkmedarbeider, som fikk
-positivt svar fra 44 pst. av boligeierne. Som økonom fikk Mohammed svar fra 49 pst. Håvard fikk
-positivt svar fra 56 og 61 pst. som hhv. butikkmedarbeider og økonom. Det å være mann, ha lav sosial status og et utenlandskklingende navn gir
-hver for seg ulemper på boligmarkedet, ifølge
-denne studien, og kombinasjonen gir tredobbel
-negativ effekt. Sjansen for å få positivt svar reduseres med 7 prosentenheter hvis søkeren er
-mann, 7 prosentenheter hvis han/hun er butikkmedarbeider (sammenliknet med økonom) og 13
-prosentenheter hvis søkeren har et arabiskklingende navn. Dette tyder på at innvandrerbak53
+1.  **Samhold og tillit**
 
-IMDi (2015). Integreringsbarometeret 2013/2014. Innvandring og integrering – holdninger og erfaringer blant personer
-med innvandrerbakgrunn. Oslo: Integrerings- og mangfoldsdirektoratet.
-54
-Tronstad, K.R. (2008). Opplevd diskriminering. I Blom, S.
-& Henriksen, K. (red.), Levekår blant innvandrere i Norge
-2005/2006. Rapporter 5/2008, Statistisk sentralbyrå.
-55
-Søholt, S. & Astrup, K. (2009). Etniske minoriteter og forskjellsbehandling i leiemarkedet. Norsk institutt for by- og
-regionforskning, rapport 2009:2, Open Societies Foundation (2013), Somalis in Oslo.
-56
-Andersson, L., Jakobsson, N. & Kotsadam, A. (2012). A
-field experiment of discrimination in the Norwegian housing market: gender, class, and ethnicity. Land Economics,
-88(2), 233–240.
-
-grunn er en faktor som slår sterkt ut på det norske
-leiemarkedet.
-
-7.6
-
-Deltakelse i politikk og
-sivilsamfunn
-
-Frivillighet er en viktig del av norske lokalsamfunn. Sammen med skole og arbeidsplasser er frivillige aktiviteter de viktigste møteplassene i lokalsamfunn over hele landet. Folks hverdagsliv og
-deltakelse i ulike formelle og uformelle nettverk
-kartlegges i liten grad og er vanskelig å måle. Det
-er vanskelig å gi et entydig svar på hvilken effekt
-uformell og formell deltakelse har. Men deltakelse i samfunnslivet gir bl.a. tilgang til nettverk
-og kan være en viktig arena for språklæring.
-Videre er sosiale nettverk viktig for å komme
-inn på arbeidsmarkedet. I en rapport fra NIBR
-konkluderes det med at nettverk har stor betydning, og at innvandrere med norske venner har
-mye større sjanse for å være i jobb.57 Forskerne
-bak rapporten argumenterer for at sosial kontakt
-på ulike uformelle arenaer bidrar til tillit og kan
-senke tersklene inn i arbeidsmarkedet fordi innvandreren får tilgang til lokale, uformelle referanser. Med utgangspunkt i europeiske data har sosiologen Ruud Koopmans argumentert for at sosiokulturelle faktorer – språkkunnskaper, sosiale relasjoner til personer uten innvandrerbakgrunn, og
-holdninger til kjønnslikestilling – forklarer det
-meste av variasjonen i yrkesdeltakelse mellom
-ulike grupper.58 Det er ikke nødvendigvis slik at
-yrkesdeltakelse skaper sosial og kulturell integrering, men årsakspilen ser også ut til å gå motsatt
-vei, der sosial og kulturell integrering skaper yrkesdeltakelse.
-
-7.6.1
-
-Frivillighet og organiserte fritidsaktiviteter
-Innvandrere er dårligere representert enn den øvrige befolkningen i tradisjonelle frivillige organisasjoner. Blant innvandrerne deltar menn mer enn
-kvinner, og deltakelsen er høyere blant dem med
-lang botid, dem som er i jobb, og dem som snakker godt norsk.59 Innvandrere og deres etterkommere er også klart mindre aktive i norske poli57
-
-58
-
-Søholt, S., Tronstad, K. & Vestby, G. (2015). Sysselsetting av
-innvandrere – regionale muligheter og barrièrer for inkludering, NIBR-rapport 2015:20.
-Koopmans, R. (2016). Does assimilation work? Sociocultural determinants of labour market participation of European Muslims. Journal of Ethnic and Migration Studies,
-42(2), 197–216.
-
-[Side 135]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-135
-
-Kapittel 7
-
-tiske partier, men her er andelen som deltar aktivt, lav også for personer uten innvandrerbakgrunn. Økonomiske og språklige barrierer framheves ofte som forklaringer på den lave
-deltakelsen, i tillegg til kulturelle og organisatoriske barrierer. I en studie fra Veitvet, som er en
-av Oslos mest sammensatte drabantbyer, diskuteres slike barrierer eksplisitt.60 En barriere, som
-ofte påpekes av representanter for majoriteten, er
-at innvandrere ikke skjønner hvordan norske organisasjoner fungerer. De forstår ikke prinsippet
-med dugnad, de vet ikke at det er forventet at de
-skal møte opp og se barnas fotballkamper, etc. Generelt mente mange på Veitvet i denne studien at
-bomiljøet deres hadde endret seg radikalt i løpet
-av 20 år, men det lokale foreningslivet hadde i liten grad endret seg for å imøtekomme denne nye
-situasjonen.
-Til tross for lavere deltakelse i tradisjonelle organisasjoner utfører innvandrere nesten like mye
-frivillig arbeid som den øvrige befolkningen, men
-gjennom andre arenaer, som f.eks. etniske og religiøse foreninger og innvandrer- og flyktningforeninger.61 Innvandrerorganisasjonene er ofte basert på felles landbakgrunn eller felles religion, og
-det er omstridt hvilken rolle de kan ha i å fremme
-integrering. Slike organisasjoner med utspring i
-opprinnelsesland kan fylle ulike behov i den forstand at de er sosiale arenaer, arenaer for tokulturalitet, arenaer for kulturell læring og politiske
-arenaer.62 Gjennomgående mener informantene i
-undersøkelsen på Veitvet, som framstår som godt
-integrerte, at det ikke er noen motsetning mellom
-det å engasjere seg i egne organisasjoner og det å
-delta i det norske samfunnet. Organisasjonene
-med utspring i opprinnelseslandet bidrar med noe
-i tillegg – kulturell trygghet, kontakt med hjemlandet – men er ikke konkurrerende, etter deres
-syn.
-To ulike undersøkelser, en fra Fafo og en fra
-NOVA, har vist at barn og ungdom med innvandrerbakgrunn deltar mindre i organiserte fritidsaktiviteter enn barn og unge i den øvrige befolkningen.63 Særlig deltar jentene med innvandrerbakgrunn lite. 76 pst. av jentene med bakgrunn
-
-fra Pakistan og 45 pst. av guttene med samme
-bakgrunn deltok sjelden eller aldri i organiserte
-fritidsaktiviteter. Et tilsvarende mønster, men med
-mindre markerte kjønnsforskjeller, ble funnet for
-barn med bakgrunn fra Somalia. Blant barn uten
-innvandrerbakgrunn var det om lag 20 pst., både
-blant gutter og jenter, som sjelden eller aldri deltok. NOVA-undersøkelsen sammenliknet barn og
-unge i et utvalg familier med lave inntekter, og
-fant at også innenfor dette lavinntektsutvalget var
-det betydelige forskjeller etter kjønn og innvandrerbakgrunn. Forskjellene var mest slående for
-trening i klubb eller forening (fotball, ridning eller
-liknende): 66 pst. av jentene med innvandrerbakgrunn i lavinntektsfamilier deltok aldri i slike aktiviteter, sammenliknet med 40 pst. av jentene i lavinntektsfamilier uten innvandrerbakgrunn. Blant
-guttene i lavinntektsfamilier var derimot de med
-innvandrerbakgrunn mer aktive enn guttene uten
-innvandrerbakgrunn – andelene som aldri deltok
-var hhv. 30 og 38 pst.
-En nyere undersøkelse fra NOVA bekrefter
-langt på vei disse funnene.64 Studien ser særlig på
-deltakelse i idrett og finner at 80 pst. av jenter
-med innvandrerforeldre sjelden eller aldri trener i
-et idrettslag. Tilsvarende tall for gutter med innvandrerforeldre er 54 pst., mot 60 og 48 pst. blant
-hhv. jenter og gutter i den øvrige befolkningen.
-Jenter med innvandrerforeldre deltar mye i fritidsklubber og religiøse foreninger, men dette forklarer ikke den manglende idrettsdeltakelsen, fordi
-de jentene som er aktive på disse arenaene, også
-deltar mer i idrett. Familiens sosioøkonomiske
-status forklarer mye av forskjellene i idrettsdeltakelse mellom majoritet og minoritet, men for jentene er ikke dette hele forklaringen. Jentene med
-minoritetsforeldre bruker mye tid på skolearbeid,
-men det er bare svake sammenhenger mellom det
-å bruke mye tid på lekser og det å ikke være aktiv
-i idrett.65 De sammenhengene som finnes, handler i stor grad om at de som bruker lite tid på lekser, også deltar lite i idrett. Alt i alt greier ikke forskerne å forklare den lavere deltakelsen i organisert idrett blant jentene med innvandrerforeldre,
-men antyder at disse jentene generelt er mindre
-
-59
-
-63
-
-Enjolras, B. & Wollebæk, D. (2010). Frivillige organisasjoner, sosial utjevning og inkludering. Rapport 2010:2, Senter
-for forsking på sivilsamfunn og frivillig sektor.
-60
-Ødegård, G. (2010). Foreningsliv i et flerkulturelt lokalsamfunn. En studie om integrasjon og sosial kapital. Rapport 6/
-2010, Institutt for samfunnsforskning.
-61
-Eimhjellen, I. & Bock Seegaard, S. (2010). Etniske minoriteter og frivillige organisasjoner. Rapport 2010:8 Senter for forsking på sivilsamfunn og frivillig sektor.
-62
-Ødegård, G. (2010). Ibid.
-
-64
-
-65
-
-Kavli, H. (2007). En felles fritid? Livet etter skoletid blant
-barn og unge i Oslo. Fafo-rapport 2007:22; Kristofersen, L.
-(2010). Fritid og sosial deltakelse. I Sandbæk, M. & Pedersen, A.W. (red.), Barn og unges levekår i lavinntektsfamilier.
-En panelstudie 2000–2009. NOVA-rapport 2010:10.
-Ødegård, G., Bakken, A. & Strandbu, Å. (2016). Idrettsdeltakelse og trening blant ungdom i Oslo. Barrierer, frafall og
-endringer over tid. Rapport 2016:7, Senter for forskning på
-sivilsamfunn og frivillig sektor.
-Ødegård, G., Bakken, A. & Strandbu, Å. (2016). Ibid. s. 98.
-
-[Side 136]
-
-136
-
-Kapittel 7
-
-NOU 2017: 2
-Integrasjon og tillit
-
-opptatt av den organiserte idretten, og at det kan
-være noe ved idrettslag som treningsarena som
-ikke tiltrekker jenter med innvandrerforeldre.
-Disse undersøkelsene minner om at i et samfunn der innvandrerfamilier er sterkt overrepresenterte blant lavinntektsfamilier (se kap. 7.2.1),
-kan det være vanskelig å skille effekten av landbakgrunn fra effekten av lavinntekt når man ser
-på deltakelse i aktiviteter som koster penger. De
-til dels store kjønnsforskjellene mellom barn med
-innvandrerbakgrunn i lavinntektsfamilier kan
-imidlertid tyde på at kulturelle føringer og prioriteringer har en selvstendig betydning.
-
-7.6.2 Politisk deltakelse
-Ved lokalvalg har utenlandske statsborgere som
-har vært registrert i folkeregisteret som bosatt i
-Norge i tre år, stemmerett og er valgbare, mens
-det ved stortingsvalg bare gjelder norske statsborgere. I takt med økende innvandring har tallet på
-stemmeberettigede med innvandrerbakgrunn
-økt. Ved lokalvalget i 2015 hadde 14 pst. av alle
-velgerne innvandrerbakgrunn: 8 pst. var utenlandske statsborgere og 6 pst. var norske statsborgere. Til sammenlikning var det ved lokalvalget i
-2003 bare 6 pst. med innvandrerbakgrunn, fordelt
-på 3 pst. utenlandske statsborgere og 3 pst. norske statsborgere.66
-Blant innvandrere som er norske statsborgere,
-var det om lag 40 pst. som benyttet stemmeretten
-ved lokalvalget i 2015.67 Til sammenlikning var
-valgdeltakelsen blant alle stemmeberettigede
-62 pst. (se figur 7.7). Valgdeltakelsen i 2015 blant
-innvandrere med pakistansk bakgrunn, den største gruppen av innvandrere med norsk statsborgerskap, var 52 pst. Valgdeltakelsen blant utenlandske statsborgere var på 29 pst., et tall som har
-vært stabilt over tid. En stor andel av utenlandske
-statsborgere med stemmerett er arbeidsinnvandrere fra Polen, og blant disse stemte kun 7 pst.
-Valgdeltakelsen blant svenske statsborgere var
-38 pst. For somaliere, som også er en stor gruppe
-blant utenlandske statsborgere, var valgdeltakelsen 48 pst. Blant norske statsborgere som er etterkommere av innvandrere, var valgdeltakelsen om
-lag 40 pst.
-66
-
-Kleven, Ø. (2015). Valgdeltakelse blant personer med innvandrerbakgrunn. Rapporter 2015/33, Statistisk sentralbyrå.
-67 Statistisk sentralbyrå (2016). Kommunestyre- og fylkestingsvalget, 2015. Tilgjengelig på https://www.ssb.no/
-valg/statistikker/kommvalg/hvert-4-aar-detaljerte/
-2015-12-07.
-
-Valgdeltakelsen er generelt høyere ved stortingsvalg enn ved lokalvalg. I 2013 var valgdeltakelsen for den stemmeberettigede befolkningen
-på om lag 78 pst. Blant norske statsborgere med
-innvandrerbakgrunn var valgdeltakelsen på
-53 pst.
-Ved valget i 2013 gjorde forskere et eksperiment der grupper av velgere fikk brev eller SMS
-knyttet til valget.68 Brev ble bare sendt til velgere
-med innvandrerbakgrunn i et utvalg kommuner
-og inneholdt blant annet praktisk informasjon om
-valget. SMS ble sendt til et utvalg velgere, både
-med og uten innvandrerbakgrunn. Eksperimentet
-viste at velgerne som mottok brev eller SMS, of80
-70
-60
-50
-40
-30
-20
-10
-0
-1987 1991 1995 1999 2003 2007 2011 2015
-Alle stemmeberettigede
-Norske borgere med bakgrunn fra
-Afrika, Asia mfl.
-Utenlandske borgere med bakgrunn
-fra Afrika, Asia mfl.
-Utenlandske borgere med bakgrunn
-fra EU, USA mfl.
-Norske borgere med bakgrunn fra
-EU, USA mfl.
-
-Figur 7.7 Valgdeltakelse ved lokalvalg. Alle stemmeberettigede og stemmeberettigede med ulik
-innvandrerbakgrunn. 1987–2015. Prosent
-Kilde: Statistisk sentralbyrå
-68
-
-Bergh, J., Christensen, D.A. & Matland, R.E. (2016). Getting Out the Vote. Experiments in voter mobilization among
-immigrants and natives in Norway. Rapport 2016:12, Institutt for samfunnsforskning. Eksperimentet inkluderte variasjon i ordlyden i brevene til innvandrervelgerne, men
-utslagene av dette var små. Forskerne konkluderer derfor
-med at det var mottak av brev i seg selv, sammen med den
-praktiske informasjonen, som ga utslag.
-
-[Side 137]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-tere stemte enn velgere som ikke hadde fått noen
-av delene, og at effekten var særlig stor for nye
-velgere med innvandrerbakgrunn. SMS gjorde
-også stort utslag for unge velgere i den øvrige befolkningen.
-Innvandrere som gruppe har ikke bare lavere
-valgdeltakelse enn den øvrige befolkningen, de er
-også dårlig representert i kommunestyrene landet over.69 Ved lokalvalget høsten 2015 ble det innvalgt 320 personer med innvandrerbakgrunn i
-kommunestyrene. Dette utgjorde 3 pst. av alle representantene, mens innvandrere som nevnt utgjorde 14 pst. av de stemmeberettigede. Andelen
-med innvandrerbakgrunn er størst i kommuner
-med stor andel innvandrere, som Drammen, Lørenskog og Oslo, mens 250 kommunestyrer er
-helt uten innvalgte representanter med innvandrerbakgrunn.70
-Deltakelse i demokratiske prosesser kan bidra
-til tillit, samhold og oppslutning om de demokratiske prinsippene. Lav valgdeltakelse kan tolkes
-som lavt engasjement og svak tilknytning. En analyse fra 2012 viser at innvandrere som har mer nabokontakt, sterke sosiale relasjoner og sosial deltakelse for øvrig, i større grad også benytter stemmeretten sin i Norge.71 Videre har det en viss betydning om de opplever tilhørighet og at de regner
-med å bli boende i Norge. Organisasjonsdeltakelse kan også ha betydning, men deltakelse i innvandrer- og religiøse organisasjoner slår ikke positivt ut på valgdeltakelsen.
-
-7.6.3 Statsborgerskap
-Utlendinger som har hatt lovlig opphold i Norge i
-sju år eller mer, og som fortsatt fyller kravene til
-permanent oppholdstillatelse, kan få innvilget
-norsk statsborgerskap. For å bli norsk statsborger
-kan man i utgangspunktet ikke være straffedømt
-eller under etterforskning, og man må som hovedregel være løst fra sitt opprinnelige statsborgerskap. Etter endring i statsborgerloven er det fra 1.
-januar 2017 også krav om dokumenterte muntlige
-norskkunnskaper og en bestått prøve i samfunnskunnskap for å få innvilget statsborgerskap. Prøven i samfunnskunnskap må bestås på norsk. Kra-
-
-69
-
-Bjørklund T. & J. Bergh (2013). Minoritetsbefolkningens
-møte med det politiske Norge. Partivalg, valgdeltakelse,
-representasjon. Oslo: Cappelen Damm Akademisk.
-70
-https://www.ssb.no/valg/statistikker/kommvalgform/
-hvert-4-aar-representanter/2016-01.
-71
-Tronstad, K. & Rogstad, J. (2012). Stemmer de? Politisk deltakelse blant innvandrere og norskfødte med innvandrerforeldre. Rapport 2012:26, Fafo.
-
-137
-
-Kapittel 7
-
-vene gjelder personer mellom 18 og 67 år (se boks
-4.3).
-Norsk statsborgerskap gir adgang til en rekke
-goder i det norske samfunnet. For det første har
-man en ubetinget rett til arbeid og opphold, og
-dermed også en sikker rett til retur om man har
-bodd utenlands en periode. Statsborgere får rett
-til norsk pass, som sikrer at de kan få norske
-myndigheters beskyttelse i utlandet. Videre er
-det, som nevnt ovenfor, bare norske statsborgere
-som har stemmerett og er valgbare ved stortingsvalg. Dessuten er noen offentlige stillinger og
-verv innenfor blant annet retts-, politi- og fengselsvesenet og utenrikstjenesten forbeholdt norske
-statsborgere. Samtidig innebærer norsk statsborgerskap også visse plikter, som å avtjene verneplikt i Norge.72
-Blant innvandrere i Norge er det flest med
-bakgrunn fra land i Asia, Afrika mfl. som bytter til
-norsk statsborgerskap. Arbeidsinnvandrerne som
-har kommet til Norge etter EU-utvidelsene i 2004
-og 2007, bytter i langt mindre grad statsborgerskap, sammenliknet med flyktninger. Per 1. januar
-2016 hadde 31 pst. av alle innvandrere i Norge
-norsk statsborgerskap, 55 pst. blant dem med botid på sju år eller mer.73 I 2015 var det i alt 12 400
-personer som fikk norsk statsborgerskap. Av dem
-som ble innvilget norsk statsborgerskap i 2015,
-var det flest fra Eritrea, Afghanistan og Irak.74
-
-7.6.4 Innvandreres følelse av tilhørighet
-Det å skifte statsborgerskap kan tolkes som uttrykk for en sterk opplevelse av tilhørighet til
-Norge. Et «mykere» mål på tilhørighet er hva innvandrere og deres etterkommere selv sier i meningsmålinger, og kvalitative studier av identitetsdannelse i ulike sosiale situasjoner. Det finnes en
-omfattende forskningslitteratur om identitetsdannelse, både kvalitativ og kvantitativ, ofte med vekt
-på ungdom og unge voksne. Det er ikke mulig å
-gå inn i hele denne litteraturen her, men to norske
-holdningsundersøkelser kan gi et hovedbilde av i
-hvilken grad innvandrere og unge med innvandrerbakgrunn opplever samhørighet med Norge.
-72
-
-73
-
-74
-
-Det er utredet om det skal bli mulig å frata statsborgerskapet for personer involvert i terror mv. NOU 2015: 4 Tap av
-norsk statsborgerskap.
-Pettersen, S.V. (2016). Fallende andel tar norsk statsborgerskap. Tilgjengelig på http://www.ssb.no/befolkning/
-artikler-og-publikasjoner/fallende-andel-tar-norskstatsborgerskap.
-Statistisk sentralbyrå (2016). Overgang til norsk statsborgerskap, 2015. Tilgjengelig på https://www.ssb.no/
-befolkning/statistikker/statsborger/aar/2016-05-11.
-https://www.ssb.no/befolkning/statistikker/statsborger
-
-[Side 138]
-
-138
-
-NOU 2017: 2
-
-Kapittel 7
-
-Integrasjon og tillit
-
-Levekårsundersøkelsen blant innvandrere
-2005/2006 ba respondentene markere på en skala
-fra 1 til 7 hvor sterk samhørighet de følte med
-Norge, der 1 betydde «ingen samhørighet» og 7
-betydde «stor samhørighet».75 Gjennomsnittet for
-alle som svarte, var 5,0. Den laveste andelen ble
-funnet blant innvandrere fra Tyrkia og Irak
-(begge 4,3), den høyeste blant innvandrere fra Vietnam (5,9). Denne studien tyder dermed på at
-det er flere som føler samhørighet med Norge enn
-som ikke gjør det i alle grupper, selv om det kan
-være uklart hva som ligger i å «føle samhørighet»
-med et land.
-En annen studie rettet seg mot ungdom i videregående skole i Oslo og Akershus.76 Ungdommene fikk to spørsmål: «Ser du på deg selv som
-norsk?» og «Tror du andre ser på deg som
-norsk?». Svaralternativene var 0 («ikke i det hele
-tatt»), 1 («delvis/litt») og 2 («helt»). Undersøkelsen viste, ikke overraskende, at det var betydelige
-forskjeller mellom unge som selv hadde innvandret, og unge som var født i Norge, på spørsmålet
-om de opplevde seg som norske. Etterkommere
-av innvandrere følte seg i langt større grad som
-norske enn de unge innvandrerne. For eksempel
-var gjennomsnittlig skår på dette spørsmålet 0,9
-for unge innvandrere fra Midtøsten og Vest-Asia,
-og 1,2 for etterkommere med foreldre fra samme
-region. For unge med bakgrunn fra Afrika var tilsvarende tall 0,65 og 1,2. Blant unge fra Vest-Europa/Amerika/Oseania var det flere som trodde
-at andre så på dem som norske, enn som så på seg
-selv som norske, mens det var motsatt for unge
-fra Asia og Afrika.
-Begge studiene, og en omfattende internasjonal forskningslitteratur, tyder på at identitetsdannelse og det å føle tilhørighet til en nasjonalstat, er
-komplekse fenomener. Mange med innvandrerbakgrunn omfavner en identitet som norsk, men
-få griper denne fullt ut, og mange opplever at deres identitet som norske utfordres av at andre
-ikke ser på dem på denne måten.
-
-Familieinnvandring – familieetablering og familiegjenforening – utgjør en betydelig del av innvandringen til Norge (se kap. 3.4). Arbeidsinnvandrere
-
-og flyktninger vil ofte ønske å hente familien etter
-at de har innvandret, og i tillegg er det ikke uvanlig at personer i majoritetsbefolkningen finner en
-ektefelle som har statsborgerskap i et annet land.
-I diskusjonen om integrering er likevel atferden til
-etterkommere særlig interessant. I hvilken grad
-finner de ektefelle med en annen landbakgrunn
-enn deres egen, og i hvilken grad henter de ektefelle fra foreldrenes hjemland?
-SSB publiserer årlig tall for familieinnvandring
-og ekteskapsmønstre. Den siste tilgjengelige rapporten er fra 2016 og omhandler perioden 1990–
-2015.77 Rapporten viser, for det første, at andelen
-som gifter seg i ung alder, synker blant etterkommere. I 2000 var 39 pst. av 21–23-åringer med foreldre fra Tyrkia gift, det samme var 25 pst. av etterkommere i samme aldersgruppe med foreldre
-fra Pakistan. 15 år senere hadde disse andelene
-falt til hhv. 13 og 7 pst. Dette er en klar nedgang,
-selv om andelen fortsatt er høyere enn blant 21–
-23-åringer i den øvrige befolkningen (3 pst).
-Etterkommere er en relativt ung gruppe, og
-antallet som har nådd en slik alder at de tenker på
-ekteskap, er ennå ganske lavt. De tre største gruppene er etterkommere med foreldre fra Pakistan,
-Vietnam og Tyrkia.78 I 2008 var det 3 151 etterkommere over 18 år med pakistanske foreldre i
-Norge, av disse inngikk 1 280 ekteskap i perioden
-2008–2013. 4 pst. av mennene og 3 pst. av kvinnene giftet seg med en person fra majoritetsbefolkningen. 45 pst. av mennene og 48 pst. av kvinnene giftet seg med en person med samme landbakgrunn bosatt i Norge, og i tillegg kom hhv. 24
-og 26 pst. som giftet seg med en ektefelle som
-ikke var registrert bosatt i Norge. Dette ble antatt
-å i stor grad være personer med pakistansk landbakgrunn, men ikke nødvendigvis bosatt i Pakistan. Tallene for etterkommere med tyrkiske foreldre var i samme størrelsesorden: 5 pst. av mennene og 2 pst. av kvinnene giftet seg med en person uten innvandrerbakgrunn, hhv. 39 og 35 pst.
-giftet seg med en norskbosatt person med bakgrunn fra Tyrkia, 21 og 29 pst. med en ektefelle
-som ikke var bosatt i Norge. Etterkommere med
-vietnamesisk bakgrunn hadde et litt annerledes
-ekteskapsmønster: 17 pst. av mennene og 29 pst.
-av kvinnene giftet seg med en ektefelle uten innvandrerbakgrunn, 71 og 52 pst. med en med
-samme landbakgrunn. Blant disse var det svært
-
-75
-
-77
-
-7.7
-
-Ekteskapsmønstre
-
-Blom, S. (2008). Bånd til opprinnelseslandet. I Blom, S. og
-Henriksen, K. (red.), Levekår blant innvandrere i Norge
-2005/2006. Rapporter 5/2008, Statistisk sentralbyrå.
-76
-Friberg, J. H. (2016). Assimilering på norsk? Sosial mobilitet
-og kulturell tilpasning blant ungdom i det flerkulturelle Oslo
-og Akershus. Fafo-rapport 2016:43.
-
-78
-
-Dzamarija, M. & Sandnes, T. (2016). Familieinnvandring og
-ekteskapsmønster 1990–2015. Rapporter 39/2016, Statistisk
-sentralbyrå.
-Opplysningene er hentet fra Sandnes, T. og Østby, L.
-(2015). Familieinnvandring og ekteskapsmønster 1990–
-2013. Rapporter 23/2015, Statistisk sentralbyrå, tabell 3.1.
-
-[Side 139]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-lave andeler som hadde ektefelle som ikke var bosatt i Norge, eller der registeropplysninger manglet om ektefellen, noe som kan forklare den
-svært høye andelen som er registrert gift med en
-norskbosatt person med samme landbakgrunn.
-I rapporten fra 201679 understrekes det at antallet familieetableringer til norskfødte med to pakistansfødte eller tyrkiskfødte foreldre har falt, til
-tross for at antallet unge voksne med denne bakgrunnen har økt betydelig. Familieetableringer
-som andel av antall ugifte 18–23-åringer med pakistansk bakgrunn falt fra drøyt 6 pst. i 1998 til
-nær 0 i 2015. Et enda større fall, fra over 12 pst. til
-under 1 pst., kunne observeres for norskfødte
-med tyrkisk bakgrunn i samme alder. Dette kan
-delvis forklares med at det blir flere med liknende
-bakgrunn å velge blant i Norge, slik at norskfødte
-med pakistansk eller tyrkisk bakgrunn i større
-grad finner hverandre. I tillegg er det som nevnt
-langt færre enn tidligere som gifter seg før fylte
-23.
-I den grad giftemål ut av egen nasjonale
-gruppe kan forstås som en indikasjon på integrering, er det grunn til bekymring for innvandrere
-fra Pakistan og Tyrkia, og – i mindre grad – for
-innvandrere fra Vietnam. Imidlertid kan det oppfattes som positivt at færre gifter seg når de er
-svært unge, iallfall hvis man antar at graden av
-selvbestemmelse øker med alder. En av få studier
-som er gjort av graden av selvbestemmelse ved
-valg av ektefelle i Norge, viser at unge innvandrere fra Pakistan opplever høy grad av foreldreinvolvering. Norskfødte med pakistanskfødte foreldre opplever også dette i større grad enn unge
-med foreldre fra andre land, men likevel langt
-mindre enn pakistanskfødte innvandrere. 80
-
-7.8
-
-Kriminalitet
-
-Debatten om innvandring og kriminalitet blusser
-opp i offentligheten med ujevne mellomrom. Det å
-bli utsatt for kriminalitet truer den enkeltes trygghetsfølelse, eiendom, personlige integritet og, i de
-verste tilfellene, liv og helse. Muligheten for at
-Norge «importerer kriminalitet» gjennom innvandring, vekker sterk bekymring. Det later også
-til å være i ferd med å feste seg en forestilling i
-mange miljøer om at innvandrere er sterkt overre-
-
-79
-80
-
-Dzamarija, M. & Sandnes, T. (2016). Ibid., s. 29ff.
-Elgvin, O. & Grødem, A.S. (2011). Hvem bestemmer? Ektefellevalg blant unge med innvandringsbakgrunn. Fafo-rapport
-2011:25.
-
-139
-
-Kapittel 7
-
-presentert i en del typer kriminalitet, og da særlig
-voldtekt og annen seksuelt krenkende atferd.
-Forestillingen om innvandreres overrepresentasjon i kriminalitetsbildet i Norge har en viss
-støtte i forskningen, som dette kapitlet vil vise.
-Forskerne på feltet er likevel opptatt av å presisere at forskningen bare belyser en del av det totale bildet. På samme måte som for helse (se kap.
-7.4) finnes det administrative registre, men hva
-som registreres her, vil være et resultat av flere
-faktorer. Registrene vil vise faktisk kriminalitet –
-som er det man ønsker å måle – men hva som blir
-registrert, påvirkes også av tilbøyelighet til å anmelde, oppklaringsprosent for ulike kriminalitetsformer mv. Forskningen legger som regel kriminalstatistikken til grunn, og denne er basert på
-rapporteringer fra politi og domstolsadministrasjon. I denne statistikken inngår siktede, straffede
-og fengslede personer. Kriminalstatistikken kan
-koples til andre registre, slik at det er mulig å
-gjøre analyser etter innvandrerbakgrunn. En usikkerhetsfaktor, også i kriminalstatistikken, er imidlertid at det ofte ikke skilles mellom utenlandske
-statsborgere som er i Norge for å begå kriminalitet
-(f.eks. omreisende vinningskriminelle, narkotikakurerer), og utenlandske personer som begår kriminalitet mens de er i landet av legitime grunner
-(f.eks. asylsøkere, arbeidsinnvandrere).
-En studie av siktede, straffede og fengslede i
-1998 viste at det dette året var 25 gjerningspersoner per 1 000 innbyggere blant innvandrere og etterkommere, mot 16,3 per 1 000 i befolkningen for
-øvrig.81 En analyse fra 2006 ser på fødselskohorten 1977 og andelene der som ble siktet én eller
-flere ganger for forbrytelser eller forseelser mens
-de var i alderen 15–24 år. 30 pst. av «ikke-vestlige»
-innvandrere ble siktet minst én gang i perioden,
-mot 21 pst. av personer uten innvandrerbakgrunn.82 Det var også noen flere flergangslovbrytere blant innvandrerne. Forskjellen mellom gruppene reduseres imidlertid betydelig ved kontroll
-for bosted og sosiale kjennetegn, og forfatteren
-argumenterer for at de sosiale kjennetegnene betyr mer enn innvandrerbakgrunn.
-En rapport fra SSB ser på personer som er siktet for forbrytelser begått i perioden 2001–2004.83
-Andelen som hadde blitt siktet for lovbrudd begått i denne perioden, var 2,8 blant innvandrere
-81
-
-82
-
-Hustad, A.E. (2000). Innvandrere som gjerningspersoner. I:
-Gundersen, F., Haslund, U., Hustad, A.E, & Stene, R. J.
-(red.), Innvandrere som offer og gjerningsmenn, Rapporter
-18/2000 (s. 33–38). Statistisk sentralbyrå.
-Skardhamar, T. (2006). Kriminalitet gjennom ungdomstiden
-blant nordmenn og ikke-vestlige innvandrere. En analyse av
-fødselskullet 1977. Notater 2006/33, Statistisk sentralbyrå.
-
-[Side 140]
-
-140
-
-Kapittel 7
-
-NOU 2017: 2
-Integrasjon og tillit
-
-(etterkommere er ikke med), mot 1,7 pst. i den øvrige befolkningen. Overrepresentasjonen er størst
-blant innvandrere fra Asia, Afrika og Latin-Amerika, og også blant innvandrere fra Sentral- og ØstEuropa. Andelen siktede er særlig høy blant innvandrere fra Kosovo, Marokko, Somalia, Irak, Iran
-og Chile. Overrepresentasjonen reduseres, men
-er fremdeles tydelig, etter korrigering for alder og
-kjønn.
-Oslopolitiet presenterte en rapport i 2011 med
-tittelen «Voldtekt i den globale byen» som fikk
-mye oppmerksomhet.84 Rapporten presenterer
-særlig grundige analyser for året 2010, da det i alt
-var 186 saker der én eller flere personer var siktet.
-Av de siktede hadde 38 pst. landbakgrunn fra
-Norge, 15 pst. fra Europa eller Amerika, 20 pst. fra
-Afrika, 12 pst. fra Asia og 15 pst. fra Midtøsten.
-Disse tallene inkluderer gjerningsmenn som ikke
-var bosatt i Norge.
-Det finnes få spørreundersøkelser som tar opp
-kriminell atferd. Det er store usikkerhetsmomenter knyttet til selvrapportering av kriminell atferd,
-og både underrapportering (man ønsker å framstå som «bedre» enn man er) og overrapportering
-(man ønsker å framstå som «tøffere» enn man er)
-er mulig. Spørreundersøkelsene Ung i Norge/
-Ung i Oslo er de eneste større undersøkelsene i
-Norge som spør ungdom om kriminalitet og antisosial atferd de har vært involvert i. En rapportering fra denne undersøkelsen skiller mellom
-«rølp» og «kriminalitet», der «rølp» omfatter uønsket atferd som ikke nødvendigvis regnes som
-kriminalitet.85 Analysen finner at «rølp» er noenlunde jevnt fordelt blant unge med og uten innvandrerbakgrunn. Gutter med innvandrerbakgrunn
-oppgir at de begår noe mer kriminalitet enn gutter
-i majoritetsbefolkningen, men forskjellene er ikke
-statistisk signifikante. Jenter, både med og uten
-innvandrerbakgrunn, skårer generelt lavt på kriminalitetsindeksen, og viser også mindre «rølpete» atferd enn gutter. Jenter med innvandrerbakgrunn rapporterer likevel om noe mer kriminell atferd enn jenter uten slik bakgrunn, og ser
-man på gutter og jenter under ett, finnes det en
-svak og statistisk signifikant tendens til at unge
-83
-
-Skardhamar, T., Thorsen, L.R. & Henriksen, K. (2011). Kriminalitet og straff blant innvandrere og øvrig befolkning.
-Rapporter 21/2011, Statistisk sentralbyrå.
-84
-Sætre, M. & Grytdal, V. (2011). Voldtekt i den globale byen –
-Endringer i anmeldte voldtekter og seksualkultur i Oslo.
-Oslo: Oslo politidistrikt, tilgjengelig på
-https://www.politi.no/vedlegg/lokale_vedlegg/oslo/
-Vedlegg_1309.pdf.
-85
-Øia, T. (2005). Innvandrerungdom – integrasjon og marginalisering. Rapport nr. 5/2005, NOVA.
-
-med innvandrerbakgrunn oppgir at de har begått
-mer kriminalitet enn unge uten innvandrerbakgrunn.
-Samlet viser en rekke studier at innvandrere
-er overrepresentert blant dem som siktes og/eller
-straffes for kriminalitet begått i Norge. Dette finnes både i studier basert på registre og egenrapportert kriminalitet. Det varierer i hvilken grad
-studiene kontrollerer for demografiske og sosiale
-bakgrunnsfaktorer, men flere av studiene som søker å gjøre dette, finner at forskjellene svekkes,
-men består. Forskjellene kan være betydelige,
-men tallene er likevel svært små – tross alt er det
-et lite antall som siktes for kriminalitet. Oslopolitiets rapport om voldtekt kan stå som en illustrasjon på dette. Overrepresentasjonen av menn fra
-Midtøsten og resten av Asia og Afrika er slående i
-denne rapporten, men prosentene er beregnet
-med utgangspunkt i 186 saker.
-Kunnskapen om innvandreres utsatthet for
-kriminalitet er svært begrenset i Norge. En studie
-fra 2000 koblet kriminalitetsstatistikken til andre
-registre, og fant på den måten at innvandrere var
-overrepresenterte i kriminalitetsstatistikken både
-som gjerningspersoner og som ofre.86 Særlig var
-innvandrere utsatte for å oppleve voldsforbrytelser. Kjønns- og aldersstrukturen blant innvandrere forklarte en del av overhyppigheten, men
-ikke alt. Denne studien fant også at innvandrere
-typisk var utsatte for kriminalitet begått av andre
-innvandrere, mens personer uten innvandrerbakgrunn ble ofre for kriminalitet begått av andre
-uten innvandrerbakgrunn. Tilsvarende studier er
-ikke gjort med nyere data. Levekårsundersøkelsen blant innvandrere 2005/2006 stilte spørsmål
-om opplevd tyveri, skadeverk, vold og trusler, og
-fant at innvandrere opplever slik kriminalitet i omtrent samme grad som befolkningen for øvrig,
-men at det er store forskjeller mellom ulike innvandrergrupper.87
-
-7.9
-
-Oppsummering
-
-Det er mange sider ved det å ha gode levekår, som
-rimelig materiell trygghet og et visst økonomisk
-handlingsrom, et godt og trygt sted å bo, god
-helse, en følelse av tilhørighet og mulighet til deltakelse. Disse ulike aspektene ved levekårsbegre86
-
-87
-
-Gundersen, F., Haslund, U., Hustad, A.E. og Stene, R.J.
-(2000). Innvandrere og nordmenn som offer og gjerningsmenn. Rapporter 2000/18, Statistisk sentralbyrå.
-Henriksen, K. (2008). Vold og trusler. I Blom, S. og Henriksen, K. (red.), Levekår blant innvandrere i Norge 2005/
-2006. Rapporter 5/2008, Statistisk sentralbyrå.
-
-[Side 141]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-pet lar seg i varierende grad påvirke politisk. Det
-er mulig å gjennomføre tiltak for å skape et mer
-sosialt boligmarked, men noen kommer fortsatt til
-å bo i de minst attraktive boligene. Man kan gjøre
-en innsats mot diskriminering, noe som også gjøres, men ikke lovregulere i hvilken grad innbyggerne skal føle tilhørighet og ønske å delta. Samtidig gir eksperimentet med brev og SMS til velgere med innvandrerbakgrunn et eksempel på at
-relativt små tiltak kan ha betydning for å øke engasjement og deltakelse.
-Mange innvandrere, også de med bakgrunn
-fra Asia, Afrika mfl., klarer seg rimelig godt i
-Norge:
-– Mange kjøper sin egen bolig.
-– Etter noen års botid oppnår de fleste inntekter
-over lavinntektsgrensen.
-– Bostedssegregeringen er mindre enn i mange
-andre land, også i Skandinavia, og selv om det
-er høye andeler innvandrere i enkelte bydeler i
-de større byene, har ikke disse områdene
-«gettopreg». Det er heller ikke sterke tendenser til at innvandrere fra bestemte land bosetter
-seg sammen med personer med samme landbakgrunn – «innvandrerbydelene» er svært
-sammensatte.
-– De fleste innvandrere oppgir at de føler en rimelig høy grad av tilhørighet til Norge.
-Samtidig er det trekk ved utviklingen som er kartlagt her, som gir grunn til bekymring:
-– Barnefattigdommen i Norge øker, og økningen
-de siste ti årene er nesten utelukkende drevet
-av at det blir flere barn med innvandrerbakgrunn som bor i familier med vedvarende lavinntekt.
-– Diskriminering, både på arbeidsmarkedet og
-boligmarkedet, er godt dokumentert. Mange
-med innvandrerbakgrunn har dårlige boforhold.
-– Personer med innvandrerbakgrunn deltar mindre enn andre i organiserte aktiviteter og sivilsamfunnsorganisasjoner sammen med den øvrige befolkningen, og de stemmer sjeldnere
-ved valg.
-– Ekteskap mellom personer med bakgrunn fra
-store innvandringsland (Tyrkia, Pakistan) og
-personer i majoritetsbefolkningen forekommer
-svært sjelden, selv om mange unge voksne
-med bakgrunn fra disse landene er født i
-Norge.
-– Flere studier tyder på at personer med innvandrerbakgrunn begår kriminalitet oftere enn
-personer i majoritetsbefolkningen.
-
-141
-
-Kapittel 7
-
-Det foreligger svært lite kunnskap om samspillet
-mellom det å ha vedvarende lavinntekt og det å
-vokse opp i en innvandrerfamilie, men det er
-grunn til bekymring når to sannsynlige indikatorer på marginalisering i så stor grad overlapper
-hverandre. Det er all grunn til å frykte at barn
-med innvandrerbakgrunn som vokser opp i lavinntektsfamilier oftere enn andre har et vanskelig utgangspunkt i livet, og at dette kan ha konsekvenser for opplevelsen av samhold og tillit i samfunnet på sikt. Det at mange familier med innvandrerbakgrunn og vedvarende lavinntekt også bor i
-dårlige leieboliger og har svake muligheter til å
-oppnå en permanent bolig av god kvalitet, kan forsterke dette. Overrepresentasjonen av innvandrere blant dem som siktes for kriminalitet, kan
-også forstås som en indikator på marginalisering,
-og som en uønsket tilpasning til det norske samfunnet blant enkelte.
-Undersøkelsene som er gjennomgått her, viser
-entydig at diskriminering skjer i Norge, både på
-boligmarkedet og på arbeidsmarkedet. Det å ha et
-utenlandskklingende navn reduserer sjansen for
-positiv respons både når man søker jobb, og når
-man søker bolig. Dette er et problem, og gjør det
-vanskeligere for innvandrere å delta på lik linje
-med den øvrige befolkningen. Dokumentasjonen
-av diskriminering understreker at integrering er,
-og må være, en toveisprosess.
-Den lave valgdeltakelsen blant personer med
-innvandrerbakgrunn, inkludert dem som har blitt
-norske statsborgere, kan forstås som et demokratisk problem. Innvandreres begrensede deltakelse i frivillige organisasjoner kan være en
-bremse på integreringsprosessene, særlig i lys av
-studier som viser at sosial og kulturell deltakelse
-fører til økt yrkesdeltakelse. Denne problematikken er særlig påtrengende når det gjelder etterkommere, som også deltar vesentlig mindre enn
-barn i den øvrige befolkningen. Dette gjelder særlig jenter. Studiene kan ikke svare på hva som
-først og fremst hemmer jentenes deltakelse, men
-det er rimelig å anta at det er et samspill av flere
-faktorer – ressurser, verdier og strukturelle forutsetninger. Forskjellene i levekår mellom innvandrere og øvrig befolkning i Norge framstår ikke
-som alarmerende, men vedvarende lavinntekt,
-diskriminering og tilbaketrekning fra fellesarenaer er utfordringer for den langsiktige integreringen.
-
-[Side 142]
-
-142
-
-Kapittel 7
-
-NOU 2017: 2
-Integrasjon og tillit
-
-[Side 143]
-
-Del III
-Perspektiver og vurderinger
-
-[Side 144]
-
-[Side 145]
-
-145
-
-NOU 2017: 2
-Integrasjon og tillit
-
-Kapittel 8
-
-Kapittel 8
-
-Samfunnsøkonomiske konsekvenser av høy innvandring
-8.1
-
-Innledning
+    1.  **Innledning**
 
 Utvalget er bedt om å
-[…] belyse de samfunnsøkonomiske konsekvensene av høy innvandring og av at en
-økende andel av befolkningen har innvandrerbakgrunn. Utvalget skal beskrive hvilke forutsetninger om omfang og sammensetning av
-framtidig inn- og utvandring til Norge og utviklingen i norsk økonomi mv. som legges til
-grunn for analysen.
-Utvalget skal vurdere hvordan norsk økonomi bør og vil bli tilpasset fortsatt høy innvandring, særlig av flyktninger. Viktige spørsmål er den betydning innvandringen vil kunne
-ha for arbeidsmarked, arbeidslivsforhold,
-lønnsdannelse, utvikling i sysselsettingsrate,
-arbeidsstyrkens kompetanse, forsørgelsesbyrde og offentlige finanser.
-Norge opplevde en kraftig vekst i arbeidsinnvandringen etter utvidelsen av EU, men lavere etterspørsel etter arbeidskraft har den siste tiden dempet tilstrømningen. Den internasjonale flyktningstrømmen vokste kraftig i 2014 og 2015. Innvandringen til Norge på grunn av flukt har variert
-– mellom 2 000 og i underkant av 11 000 per år –
-de siste 25 årene (se kap. 3.4).
-Innvandring kan påvirke den samlede økonomien på forskjellige måter. Hvis nye innvandrere
-har samme sysselsetting og produktivitet som
-gjennomsnittsinnbyggeren, påvirkes i utgangspunktet ikke innbyggernes gjennomsnittsinntekt
-av innvandring. Det er med et slikt utgangspunkt
-ingen sammenheng mellom befolkningsvekst og
-gjennomsnittlig levestandard.1 Hvis nye innvandrere har forholdsvis lav sysselsetting og produktivitet, vil det bremse veksten i mottakerlandets
-gjennomsnittsinntekt. Samtidig vil flyttingen til
-Norge ha gitt de nye innvandrerne et inntektsløft.
-Den øvrige befolkningen vil i utgangspunktet
-kunne ha den samme inntekten som de ville hatt
-uten innvandring, eller høyere. Slik sett kan
 
-begge grupper oppleve en inntektsøkning, selv
-om den gjennomsnittlige inntekten for mottakerlandet i sin helhet har blitt lavere.
-I stedet for å se på hvordan sammensetningen
-av befolkningen vil kunne påvirke økonomiske hovedstørrelser som produktivitet, sysselsetting og
-inntektsvekst, legger dette kapitlet vekt på hvorvidt innvandring vil ha økonomiske konsekvenser
-for innbyggerne som allerede bor i Norge. De
-som allerede bor i Norge omtales i dette resonnementet som den eksisterende befolkningen. Med
-økonomiske konsekvenser menes i dette kapitlet
-konsekvenser for den materielle levestandarden,
-uttrykt ved realinntekt etter skatt. Spørsmålet om
-hvorvidt innvandring fører til inntektsoverføringer mellom de nye innvandrerne og den eksisterende befolkningen diskuteres først prinsipielt i
-kapittel 8.2. Kapittel 8.3 beskriver kortsiktige makroøkonomiske virkninger av innvandring, og
-hvorfor utvalget ikke forfølger disse. Kapittel 8.4
-analyserer nærmere hvordan innvandring kan påvirke realinntekten etter skatt for den eksisterende befolkningen. Kapittel 8.5 diskuterer virkninger av innvandring på ulikhet, mens kapittel
-8.6 gir en mer konkret og tallfestet analyse av
-hvordan innvandring påvirker offentlige inntekter
-og utgifter.
+\[…\] vurdere i hvilken grad fortsatt høy innvandring kan komme til å påvirke samhold og tillit i Norge. Viktige spørsmål er i hvilken utstrekning og hvordan innvandringen kan føre til større økonomisk, sosial, kulturell og verdimessig ulikhet, hvilken betydning dette vil kunne ha for samfunnsutviklingen på sikt og for forholdet mellom ulike befolkningsgrupper. Utvalget skal også drøfte hva som kan bidra til å redusere faren for polarisering og konflikt og styrke fellesskaps- og trygghetsfølelsen i befolkningen.
 
-8.2
+De nordiske velferdsstatene oppsto og utviklet seg i samfunn der ulikheter mellom innbyggerne var mindre enn i mange andre europeiske land. De religiøse og sosiale forskjellene var begrensede, og de etniske minoritetene (samer, inuitter) bodde i stor grad i geografisk avgrensede områder langt fra maktsentrene. I velferdsforskningen argumenteres det for at denne likheten skapte en følelse av samhold og tillit som gjorde omfattende omfordeling mulig.[^336] På den andre siden er det mye som tyder på at omfordelende og velfungerende velferdsordninger også skaper eller bidrar til å opprettholde tillit.[^337] I så fall oppstår positive spiraler der velferdsordningene både baserer seg på tillit og bidrar til å vedlikeholde tilliten. I lys av dette argumentet oppstår uro og bekymring i en situasjon der tilstrømmingen av borgere fra andre samfunn er stor: Hva skjer med tillitsbaserte ordninger når samfunnet blir mindre homogent? Vil samfunnsborgerne i et heterogent samfunn beholde samme tillit til hverandre, og til de omfordelende institusjonene? Hvilke kulturelle og økonomiske forskjeller er akseptable i en religiøst og etnisk heterogen velferdsstat, og hvilke skaper problemer for oppslutning, samhold og tillit? I dette kapitlet drøfter utvalget hva som er særegent med den norske samfunnsmodellen, gjennomgår integrerings- og assimileringsbegrepet i lys av denne, og presenterer noen refleksjoner rundt hvordan problematiske forskjeller kan håndteres. Videre diskuteres problemstillinger knyttet til religion og religiøst motivert ekstremisme. I siste del av kapitlet presenteres en kunnskapsstatus om hva forskningen sier om oppslutning om velferdsordninger i lys av innvandring.
 
-Kilder til inntektsoverføringer
+Utvalget er bedt om å se på velferdsstatlige utfordringer som er knyttet til høy *innvandring*. Det finnes en rekke andre faktorer som kan underminere grunnlaget for samhold og tillit i et land, uavhengig av innvandring. Blant de viktigste er trolig økonomisk stagnasjon, med tilhørende arbeidsledighet, manglende lønnsvekst og økende økonomisk ulikhet. Innvandring kan samspille med faktorer som dette og bidra til å forsterke de utfordringene som oppstår.
 
-Verdien av ressurser som er uavhengige av befolkningens størrelse, kan være en kilde til inn1
+En hovedhypotese i kapitlet er at de mest alvorlige problemene oppstår når forskjellige ulikhetsdimensjoner overlapper – når de gruppene som er mest kulturelt forskjellige fra majoriteten, også er de med minst ressurser og de som står lengst fra arbeidsmarkedet. Hvis det ikke lykkes å integrere flere nykommere i produktivt arbeid, kan det på lengre sikt påvirke velferdsstatens legitimitetsgrunnlag. For innvandrere kan det være vanskelig å utvikle tillit til et nytt samfunn hvis de opplever diskriminering, hvis de oppfatter at institusjonene i landet de har kommet til, behandler dem vilkårlig og dårlig, og hvis de ikke gis et rimelig rom for å leve som de ønsker. For majoriteten kan tilliten undergraves hvis de opplever at innvandrere i for liten grad bidrar til fellesskapet, og at det oppstår sterke tendenser til segregasjon i enklaver preget av holdninger og praksiser majoriteten oppfatter som uakseptable.
 
-Et slikt «nøytralt syn» på sammenhengen mellom folkemengde og økonomisk vekst har ikke vært enerådende i
-faglitteraturen. Et mer pessimistisk syn på virkninger av
-befolkningsvekst føres gjerne tilbake til Malthus, T. R.
-(1798). An Essay on the Principle of Population, J. Johnson,
-London. Det hadde flere tilhengere i 1960-årenes diskusjon
-av den globale befolkningseksplosjonen. En tidlig representant for «befolkningsoptimistene» er Kuznets, S. (1960).
-Population Change and Aggregate Output sidene 324-351 i
-National Bureau of Economic Research’s «Demographic
-and Economic Change in Developed Countries», Columbia
-University Press, som argumenterer for at befolkningsvekst gir høyere økonomisk vekst.
+1.  **Likhet som ressurs og problem**
+
+Ethvert innvandringsland vil ha sitt særpreg. Både den opprinnelige befolkningen og de ulike nykommerne i samfunnet vil ha sin historiske og kulturelle arv, og denne preger kontakten som oppstår på tvers av kulturelle grupper. I tillegg vil de institusjonelle forholdene i mottakerlandet gi føringer for hvordan myndighetene forholder seg til mangfoldet. Kulturen[^338] som dominerer, representerer handlingsbetingelser for hva det er mulig å gjøre innenfor en nasjonal sammenheng. Med andre ord finnes det et nasjonalt politisk, sosialt og kulturelt jordsmonn som er historisk skapt, og som danner et felles grunnlag for hva befolkningen oppfatter som legitimt. Den nasjonale kulturen former også hvordan innbyggerne er i stand til å vise solidaritet med hverandre og med nykommere.
+
+«Likhet» er et sentralt stikkord i Norge. «Likhet» er både en *beskrivelse* av samfunnsforholdene, og et *ideal* man kan spille på i politiske sammenhenger. Norge har vært mer etnisk homogent enn mange andre land i Europa og har historisk også hatt en svak adel og lite framtredende standsforskjeller sammenliknet med andre land. Siden andre verdenskrig har velferdsstatsutvikling på mange måter vært ledd i et overordnet likhetsskapende prosjekt, der demokrati, medborgerskap og modernisering har vært viktige ingredienser. Mellomkrigstidens hovedavtale mellom Landsorganisasjonen og Arbeidsgiverforeningen og arbeiderbevegelsens politiske mål om medbestemmelse og økonomisk utjevning var sentrale forutsetninger for denne utviklingen. I moderne tid har lik rett til utdanning og omfattende innsats for å redusere inntektsforskjeller vært sentrale virkemidler, i tillegg til aktiv politikk for å redusere forskjeller basert på kjønn (kjønnslikestilling). Idealene og *ideologien* om det likhetsorienterte samfunnet har etter hvert også spilt en viktig rolle i norsk politikkutvikling. Likhet er en norm og en referanse som setter rammer for hvilke argumenter som kan benyttes i offentlig debatt. Likhet, likestilling og likeverd har således blitt vedvarende premisser for oppslutning og legitimitet i norsk politikk etter at etterkrigstidens velferdsinstitusjoner kom på plass.
+
+Man skal like fullt være forsiktig med å overdrive likhet og harmoni. Det norske samfunnet har alltid også vært preget av motsetninger og konflikt. Norge har aldri vært et helt homogent samfunn – landet har opplevd innvandring siden Norge ble en statsdannelse på 900-tallet.[^339] Dette har bidratt til at også Norge har hatt et visst etnisk-kulturelt mangfold opp gjennom tidene, og det har også betydd diskriminering og undertrykking av minoriteter. Både samer, romfolk, tatere og kvener har vært utsatt for til dels hardhendt politikk for å gjøre dem til deler av det nasjonale fellesskapet på majoritetens premisser. Likhet som sosialt faktum og som verdi kan være utfordrende for personer med bakgrunn fra andre kulturer – noe som også er en høyst aktuell problemstilling for innvandrere og deres etterkommere i det moderne Norge. Samtidig kan majoritetsbefolkningen føle uro over at likhetsidealene forvitrer når samfunnet blir mer kulturelt heterogent.
+
+Før 1970-tallet var innvandringen til Norge liten, og de fleste innvandrerne kom fra våre naboland. Da innvandrere begynte å komme fra fjernere områder enn tidligere – og fra mer ukjente kulturer – oppsto nye problemstillinger for den norske velferdspolitikken. Modellen la viktige premisser for hvordan det var mulig og ønskelig å håndtere innvandring institusjonelt.[^340] Innvandrere måtte inkluderes som likeverdige borgere i de institusjonelle strukturene, når det gjaldt arbeidsliv, utdanning og velferd. Moderne rettsstater er forpliktet gjennom internasjonale avtaler til å likebehandle lovlig etablerte innvandrere og statsborgere med hensyn til de fleste sivile og sosiale rettigheter. Norge valgte også etter hvert å gi innvandrere uten statsborgerskap politiske rettigheter i form av stemmerett og valgbarhet ved lokalvalg. I tillegg ble det utviklet en politikk for å fremme *integrasjon* – en reell innlemming av nye medlemmer i samfunnet ut over det rent rettighetsmessige. Integrasjonspolitikken dreier seg om tiltak rettet mot lovlig etablerte innvandrere for å støtte opp under innlemmingsprosessen i samfunnet og for å styrke deres forutsetninger for å kunne realisere sine rettigheter til deltakelse på like fot. I tillegg har det offentlige drevet holdningsskapende arbeid overfor majoriteten[^341] for å skape grobunn i befolkningen for at integrasjonsprosjektet skal lykkes – for å etablere oppslutning om integrasjonspolitikken og vilje til en viss gjensidig tilpasning som kan fremme reell inkludering og deltakelse.
+
+Sosiale rettigheter, økonomisk omfordeling og demokratisk representasjon er grunnpilarer i det norske systemet. Disse pilarene er viktige forutsetninger for realiseringen av likestilling og likeverd mellom samfunnets medlemmer og for oppbygging og videreutvikling av tillit i Norge i det 21. århundret. Rettighetene har bidratt til utjevning og deltakelse, som igjen har bidratt til kulturell identitet, samhold og lojalitet til de sentrale offentlige institusjonene. Dette har skapt grunnlag for det man i dag kaller sivil og sosial *kohesjon* eller «sammenbindingskrefter». Kohesjon er en vid samlebetegnelse for begreper som samhold, samhørighet og samfunnsmessig solidaritet, som gjerne knyttes til brede felles verdier og målsettinger i et samfunn – selv om samfunnet består av mennesker med ulik bakgrunn. Kohesjon og tillit er beslektede begreper, men mens tillit også kan eksistere mellom mennesker mer direkte, er kohesjon et begrep som mest brukes på samfunnsnivået.
+
+Det har vært og er tverrpolitisk oppslutning om velferdsstatens grunnstruktur. Noe av forklaringen på denne stabiliteten er trolig at den norske arbeidslivs- og velferdsmodellen er forankret i institusjonelle ordninger, har legitimitet og bred representasjon og er støttet av organisasjonene i arbeidslivet og sivilsamfunnet. Barth og Moene (2015) har beskrevet det de kaller «likhetsmultiplikatoren» i vestlige velferdsstater. Utgangspunktet er at det eksisterer en toveis interaksjon mellom arbeidslivet og velferdsstaten, der tyngdepunktet ligger på arbeidslivssiden. Etterspørselen etter velferdsordninger er størst i land der lønnsfordelingen er jevnest. Dette tilsynelatende paradokset skyldes at i land med små lønnsulikheter vil alminnelige lønnstakere tjene relativt godt, men fortsatt frykte å miste inntekten ved sykdom eller arbeidsløshet. Samtidig har de råd til å sette av noe midler til å forsikre seg mot disse risikoene, noe lønnstakere med svært lav lønn ikke vil ha. Disse velgerne vil støtte opp om partier som lover forsikring i bytte mot skattebetaling. Et godt utbygd velferdssystem vil i neste omgang gi lønnstakere en trygghet for inntekten som styrker forhandlingsposisjonen deres vis-à-vis arbeidsgiverne. Ved dette opprettholdes og videreføres den økonomiske likheten som i utgangspunktet bidro til oppslutning om modellen. Motsatt kan det bli satt i gang en «ulikhetsmultiplikator» hvis lønnsforskjellene i arbeidslivet øker. Lavlønnskonkurranse presser lønningene nedover og vil på sikt også øve press på ytelsesnivået i velferdsordningene, for at det stadig skal lønne seg å arbeide. Og oppslutningen om velferdsstatens omfordelingsfunksjon vil også kunne svekkes. En sammenpresset lønnsstruktur som den norske, kan danne høye terskler for sysselsetting blant personer med lave kvalifikasjoner og dermed bremse mulighetene for sosial utjevning. Hvis det dreier seg om store grupper, vil det gi utslag i økende ulikhet.
+
+Legitimiteten til den norske samfunnsmodellen kan settes på prøve gjennom høy innvandring. En studie fra Fafo skisserer to mekanismer som kan forstyrre eller svekke den beskrevne grunndynamikken i den norske arbeids- og velferdsmodellen.[^342] For det første kan det tenkes at modellen *fungerer dårligere* i en situasjon med høy migrasjon. Hvis de arbeidsmarkedspolitiske eller velferdspolitiske målene ikke lenger er mulige å nå, kan modellens legitimitet komme under press. For det andre kan *majoritetens oppslutning* om solidariske løsninger (sjenerøse velferdsordninger og små lønnsforskjeller) svekkes når befolkningen blir mer økonomisk og kulturelt sammensatt. Det er ikke gitt at viljen til å omfordele er like sterk når de som nyter godt av de solidariske ordningene, oppfattes som vesentlig annerledes enn majoriteten.
+
+Dette illustrerer hvordan institusjonene og samspillet mellom dem har bidratt til utvikling og reproduksjon av den tilliten velferdsstaten er avhengig av – og hvordan et annerledes samspill kan utfordre tilliten. Den omfattende velferdsstaten baserer seg på to ulike former for tillit. Den ene kan kalles *vertikal* tillit eller tillit til samfunnsinstitusjoner. Borgerne stoler på at offentlig forvaltning stort sett fungerer, at myndighetene er upartiske, etterprøvbare og effektive. Uten tilliten til at staten og det offentlige mer generelt forvalter samfunnets ressurser på en fornuftig måte, vil den enkelte neppe være like villig til å betale skatt eller la offentlige instanser stå for store deler av omfordelingen i samfunnet. Den andre sentrale formen for tillit kan kalles *horisontal* tillit eller tillit borgerne imellom. Slik tillit skaper bedre handlingsbetingelser for individene i dagliglivet og har også konsekvenser på samfunnsnivået: Den enkelte betaler sin skatt og følger samfunnets regler fordi han eller hun stoler på at andre gjør det samme. Ifølge nyere forskningslitteratur om tillit, baserer høytillitssamfunn seg på fire pilarer: historiske faktorer, tilstedeværelsen av en rettsstat og et legitimt politisk system, et sterkt sivilsamfunn og en følelse av «delt skjebne» i befolkningen.[^343] Den siste pilaren, som er mest relevant i dette kapitlet, viser til noe dypere enn bare likhet eller ulikhet. Det dreier seg mer om opplevelsen av sammenfallende grunnleggende interesser – om «å være i samme båt».[^344] Statsviteren Dag Wollebæk har studert tillit i mange år, og vurderer nå denne siste pilaren som akutt utfordret av høy innvandring. Etter mye usikkerhet innen forskning om sammenhengen mellom tillit og etnisk mangfold, tegner han i nyere artikler et tydeligere mønster: Mangfold synes å ha liten betydning for generalisert tillit, men tydelig effekt på tillit i lokalsamfunnet.[^345] Helt nylig tyder en undersøkelse fra Sverige på at også den generaliserte tilliten blir noe svekket, men mindre enn den lokale. Wollebæk antar at det finnes en større treghet i effektene på den generaliserte tilliten; den er mer abstrakt, formet i tidlige år, og sterkt verdiforankret.[^346]
+
+Hvorvidt etnisk mangfold svekker tilliten i samfunnet, og hva det i tilfellet er som gjør utslaget, har etter hvert blitt en omfattende diskusjon i internasjonal forskningslitteratur. Flere forskere argumenterer for at det ikke er etnisk mangfold i seg selv som er problemet, men en kombinasjon av sosial ulikhet, økende kulturell heterogenitet og etnisk segmentering.[^347] Flere studier tyder på at bostedssegregering,[^348] og opphopning av sosiale problemer i områder med mange innvandrere er uheldig for den samfunnsmessige tilliten, selv om effekten kan være ulik for ulike personer i slike boområder.[^349] Følgelig vil et *samspill* mellom kulturell og økonomisk ulikhet kunne påvirke den samfunnsmessige tilliten. Hvis de som systematisk tilhører lavinntektsgruppene, også er de som oppleves som kulturelt og verdimessig mest forskjellige, kan systemet utfordres.
+
+Et viktig spørsmål når man snakker om forskjellighet og betydningen for tillitsskaping, er om det handler om *normer* eller *atferd.* Er det nykommeres levemåte, religiøsitet og kulturuttrykk, eller er det graden av deltakelse (i arbeidsliv og sivilsamfunn) som eventuelt skaper misnøye? Dette spørsmålet er ikke belyst empirisk i norsk forskning, men det er grunn til å tro at en kombinasjon av lav utdannelse, lav yrkesdeltakelse, dårlige levekår samt religion og tradisjon i sum kan skape sosiale realiteter i noen minoritetsmiljøer som påvirker holdninger i majoriteten (f.eks. overrepresentasjon i enkelte typer kriminalitet og bruk av vold i barneoppdragelse). Den danske forskeren Per Mouritsen antyder, med utgangspunkt i en omfattende litteraturgjennomgang, at problemet i Skandinavia ikke er forskjellighet som sådan, men fravær av spesifikke normer av stor betydning for de nordiske velferdsmodellene:[^350] at ulikhet og bostedssegregering kan utfordre den solidariske samfunnskontrakten i en sjenerøs velferdsstat, først og fremst ved å underminere de *gjensidighetsnormene* samfunnsmodellens legitimitet er tuftet på – at man skal yte etter evne og nyte etter behov. I en situasjon med mange nykommere kan det danne seg forestillinger i majoriteten – berettiget eller ikke – om at de nyankomne ikke lever etter disse gjensidighetsprinsippene. I den grad nykommerne faktisk også lever på måter som kan sies å være i strid med prinsippene om gjensidighet, må man søke å avdekke om det er manglende vilje eller manglende evne og muligheter som gir dette utfallet.
+
+1.  **Integrasjon av innvandrere**[^351]
+
+Kulturelt mangfold – særlig som følge av innvandring – har siden 1970-tallet gitt begrepet *integrasjon* nye og kontroversielle betydninger. Innvandring har brakt med seg nye typer spenninger, nye former for sosial og kulturell differensiering og nye mønstre av ulikhet. Dette utfordrer etablerte forståelser av samfunnet, av kriterier for medlemskap, av solidaritet, av rettighetstildeling, av nasjonal kultur og av institusjoners relevans under nye forhold.
+
+Den klassiske sosiologiske definisjonen av integrasjon som prosess – der samfunnsdeltakere blir gjort og gjør seg selv til deler av den sosiale helheten – er intuitivt meningsfylt når nykommere skal innlemmes i samfunnet. Men fordi innholdet i disse prosessene er verdiladet, blir også bruken av begrepet integrasjon kontroversiell og ofte uklar. Da den nye integrasjonstenkningen ble introdusert på begynnelsen av 1970-tallet, ble den ansett som noe kvalitativt forskjellig fra det som ble kalt *assimilasjon*, og som var hentet fra den amerikanske innvandringslitteraturen. I den dominerende integrasjonsforståelsen ble assimilasjon definert som en strategi mange stater fulgte overfor minoriteter tidligere i historien, der det ble brukt tvang og andre pressmidler for å få «avvikere» til å tilpasse seg majoritetens levemåte. Denne formen for strategi, som blant annet ble fulgt av norske myndigheter overfor den samiske urbefolkningen, fungerte som en negativ referanse da en ny politikk skulle utformes overfor innvandrere og minoriteter. Sammen med en rekke andre europeiske stater tok Norge i bruk begrepet integrasjon, som var tilpasset en ny tid, dvs. det rommet en ny forståelse av relasjoner mellom majoritet og minoriteter. Integrasjon som strategi var inspirert av etterkrigstidens menneskerettighetsregime der «røtter» og identitet ble viktige referanser. Nykommere skulle ikke presses til å «bli som majoriteten», og det skulle legges til rette for at den medbrakte kulturen skulle kunne bevares i det nye hjemlandet. Denne typen innlemming skulle ideelt skje ved at det ble utviklet gjensidige avhengighets- og tillitsbånd mellom gruppene, og at det mer formelt ble utviklet regler for gjensidige plikter og rettigheter. Fulle politiske rettigheter skulle oppnås gjennom botid og tildeling av statsborgerskap. Integrasjonstenkningen blir ofte koplet på en multikulturalistisk politikk og ideologi, som har eksistert i mange varianter (og definisjoner) i ulike mottakerland. Motsatsen til integrasjon blir gjerne ansett å være *marginalisering* eller *manglende tilhørighet* når det gjelder individer, og *fragmentering* og *segregering/parallellsamfunn* når det gjelder hele samfunn. Marginalisering kan føre til svak deltakelse, mistrivsel og lite innflytelse for den enkelte, og kan, hvis omfanget blir stort, føre til sosiale og kulturelle spenninger i samfunnet som helhet.
+
+Både den tradisjonelle assimilasjonstenkningen og den nyere integrasjonstilnærmingen har velfungerende samfunn som målsetting. Veien dit blir imidlertid brolagt med ulike verdier og forskjellige redskaper. Innenfor den klassiske assimilasjonstradisjonen snakker man om en prosess, der individene vokser inn i et gitt kulturelt fellesskap og gradvis tilegner seg dette fellesskapets normer og verdier. Innvandreres opprinnelige kultur blir ikke tillagt vekt eller blir oppfattet som en privat sak, og samfunnet gir ingen rettigheter basert på minoritetskultur. Samfunnets «moraldannende aktører», som familien, eventuelt religionsfellesskapet, skolen og lokalsamfunnet, skulle stå for sosial kontroll og støtte.[^352]
+
+Integrasjonstenkningen hadde et mer *verdipluralistisk* syn på samfunnet. Nye individer eller grupper skulle innlemmes ved å få en sideordnet plassering med allerede etablerte grupper og til majoriteten. Ved å få like livsbetingelser eller muligheter skulle personer – også med sterkt ulike verdisyn – veves inn i samfunnet mer på egne premisser. Innvandrere ble betraktet som medlemmer av etniske grupper, ikke bare som individer, og individene kunne også bli tildelt rettigheter knyttet til gruppen de tilhørte eller ble henvist til. Canada har vært et ledende land når det gjelder gruppetilnærmingen, mens man i Norge har lagt større vekt på rettigheter knyttet til individet.
+
+Disse to (stiliserte) tilnærmingene har ulikt syn på både hva slags samfunn innvandrere skal innlemmes i, og hva innholdet i selve innlemmingen går ut på. Det har også historisk vært et faglig skille mellom dem som mener at «disse prosessene bare skjer» (laissez faire-politikk), og dem som mener de kan og bør styres. Innenfor assimilasjonsskolen har man ment at individer ensidig skal tilpasses majoritetskulturen over tid, enten ved å presses aktivt eller ved at «det bare skjer av seg selv». En statlig integrasjonspolitikk, derimot, fordrer at det tilrettelegges for mennesker med flere ulike kulturer i utformingen og organiseringen av samfunnets offentlige institusjoner.
+
+Det er imidlertid store og viktige uklarheter, motsetninger og dilemmaer knyttet til integrasjonstenkningen, og rundt århundreskiftet tok flere forskere til orde for å revurdere assimilasjonsbegrepet.[^353] Diskusjonene om premissene for assimilasjon og pluralisme har blitt mer nyanserte: Det er mulig å snakke om faktisk og/eller ønsket assimilering på noen samfunnsområder (f.eks. i arbeidsliv og utdanning) parallelt med faktisk og/eller ønsket opprettholdelse av kulturelle særtrekk i andre. Det diskuteres også hvorvidt majoriteten kan *kreve* assimilering langs noen kriterier, f.eks. tilslutning til det liberaldemokratiske fundamentet i samfunnet. På den andre siden kan nye samfunnsmedlemmer også *kreve* at samfunnet lar dem assimilere seg – på noen eller alle områder. Det vil si at majoriteten er åpen for at nye innbyggere reelt blir en likeverdig del av samfunnet. Tidshorisonten er også viktig: Snakker man om *de facto* langsiktig (og frivillig) assimilasjon gjennom historiske prosesser, eller om en mer kortsiktig politisk strategi fra myndighetens side? Og når det gjelder politisk strategi, på hvilke samfunnsområder har assimilasjon som målsetting legitimitet?
+
+Det har i grove trekk vært enighet om at majoriteten har og bør ha rett til å beskytte det økonomiske og sosiale systemets livsbetingelser, eller med den politiske filosofen Michael Walzers ord: Et politisk fellesskap har rett til å bevare integriteten til sin livsform.[^354] Men hva som definerer «sin livsform», har vært noe av stridens kjerne. Er nasjonal identitet og nasjonal/etnisk homogenitet f.eks. et basisvilkår for å gjenskape et samfunns livsform? Eller holder det med tilslutning til et felles politisk system og – i moderne demokratier – til rettsstatsprinsipper?
+
+Hvor mye avvik skal aksepteres, og på hvilke områder? Hva tilhører privatsfæren og hva er et offentlig anliggende? Er det nok at nye grupper følger norsk lov, dvs. avstår fra direkte lovbrudd, men for øvrig følger sine egne normsett for god oppførsel? I de vanskelige grenseflatene mellom det lovlige og det legitime, er det få retningslinjer å hente i integrasjonstenkningen. Også i praksisfeltet flytter grensene seg kontinuerlig. Selv om man skulle være enig med Walzer i at majoriteten har *rett* til å reprodusere sine livsformer, endrer samfunnet seg som følge av økt kulturelt mangfold. Nye samfunnsmedlemmer har rettigheter, de deltar i valg, og er de mange nok, kan de få gjennomslag for sine motstridende verdier og saker. Selve *legitimitetsgrunnlaget* kan forandre seg underveis.
+
+En illustrasjon på denne flertydige virkeligheten kan hentes fra gjennomgangen av levekår i kapittel 7.6. Her blir det påpekt at innvandrere deltar aktivt i sivilsamfunnets organisasjoner, men at mange konsentrerer deltakelsen om «sine egne» organisasjoner, altså etnisk baserte sammenslutninger med bånd til opprinnelseslandet. Hvordan skal vi tolke dette fenomenet? Er det uttrykk for at innvandrerne omfavner den norske frivillighets- og dugnadskulturen og aktivt tilfører den sitt eget preg? Eller er det uttrykk for segregering at de i så stor grad danner egne lag og foreninger i stedet for å gå inn i dem som allerede finnes i lokalsamfunnet?
+
+Som så ofte ellers, kommer dette an på hva som faktisk skjer i innvandrernes organisasjoner, og på samspillet med lokalsamfunnet. Som beskrevet i kapittel 7.6, oppfatter mange som er aktive i nasjonalt baserte grupper, at dette gir dem en trygghet og noe verdifullt i tillegg til det de får gjennom deltakelse i det norske samfunnet. Nasjonalt baserte organisasjoner kan fungere som springbrett inn i mer blandede lag og foreninger. Å lære dans, eller å spille et instrument, vil være verdifullt uavhengig av hvilket lands tradisjon dansen eller musikken springer ut av. Etnisk/nasjonale kunstuttrykk utvider horisonten i Kultur-Norge og kan samtidig være en trygg og kreativ plattform for deltakelse hos utøverne. På den andre siden er det ikke gitt at nasjonale/etniske/religiøse foreninger har denne funksjonen. De kan også bidra til å forsterke segregering og til å videreføre en uro over at samhold forvitrer.
+
+Nå i det 21. århundret har virkeligheten innhentet integrasjonsbegrepet på nye måter. Erkjennelsen av at innvandrere (med innbyrdes stor variasjon) er marginalisert på flere viktige samfunnsområder, har brakt spørsmålet om rettighetssamfunnets grenser fram i dagen. For hva gjør velferdsstaten når kulturelt eller religiøst baserte livsformer synes å stå i motsetning til mål om levekårsmessig utjevning og sosial mobilitet? Når noen innvandrere later til å foretrekke selvsegregering? Når «vedvarende lavinntekt» og barnefattigdom også henger sammen med kjønnsrollemønstre? Denne typen dilemmaer har særlig tilspisset seg når religion, kvinners posisjon og kjønnslikestilling i minoritetsmiljøene er oppe til diskusjon.[^355]
+
+Den amerikanske filosofen Nancy Fraser[^356] har formulert dette som spenningen mellom *politics of redistribution* og *politics of recognition* – avveininger mellom omfordeling og anerkjennelse.[^357] Tradisjonelt har den ambisiøse sosialpolitikken søkt å omfordele gjennom å tilby inntektssikring, utdanning og sosiale tjenester til alle, uavhengig av sosial opprinnelse og gruppetilhørighet. Anerkjennelsespolitikken, derimot, vektlegger at urettferdighet også har en kulturell eller symbolsk dimensjon, at enkelte gruppers identitet og verdier usynliggjøres eller undertrykkes hvis en ikke gir en særskilt *anerkjennelse*, men bare likebehandler. Integrasjonspolitikken i Norge har, med varierende vektlegging av de to, skullet gjøre begge deler. Politikken har skullet sikre minoriteter lik tilgang til sosiale rettigheter og muligheter til sosial mobilitet og i tillegg skape rom for å bevare livsform eller kulturelle og religiøse identiteter. Men grensene for kulturell toleranse har kommet sterkere på dagsordenen de senere årene. Nødvendigheten av samfunnsmessig *deltakelse* for vellykket integrasjon – både kulturelt/sosialt og ikke minst i arbeidslivet har fått sterkere oppmerksomhet og legitimitet. Forskere snakker om en «sivil vending» («civic turn») i integrasjonsdebatten. Dette innebærer at krav til aktivt samfunnsborgerskap – gjennom bruk av både pisk og gulrot – har blitt mer utbredt, og den nordiske tradisjonen for aktiv bruk av – og vilkår for å få tilgang til – offentlige goder har nådd nye høyder. «Å stille krav om integrasjon» har blitt et tema i europeisk sammenheng, og noen forskere hevder den siste sivile vendingen igjen har autoritære anstrøk.[^358] Den sivile vendingen og kravet om kulturell tilpasning har like fullt hatt økende tilslutning i mange europeiske land de senere årene – Norge inkludert.
+
+Til tross for alle de definitoriske problemene, vil utvalget i fortsettelsen bruke «integrasjon» og «integrering» som hovedbegreper, fordi de er både overgripende og konkrete, og fordi de er godt innarbeidet i norsk offentlighet. Disse begrepene vil bli brukt til å analysere og beskrive de pågående prosessene der innvandrere skal tilpasses og tilpasser seg de ulike samfunnssfærene. «Assimilasjon» og «assimilering» som i noen nyere fortolkninger kan være et fruktbart analytisk redskap, vil bli referert til noen steder der utvalget forholder seg til hva som faktisk finner sted. De normative elementene i begge begreper vil være en del av diskusjonene i kapitlet.
+
+1.  **Politikk for sosialt og kulturelt samhold?**
+
+Spørsmål knyttet til sosial kohesjon – sammenbindingskreftene eller «limet» i samfunnet – var ikke blant de første temaene som ble diskutert i norsk offentlighet etter at den nye innvandringen tok til. Lenge dominerte mer funksjonelle målsettinger om integrasjon i arbeidsliv, utdanning og helse det offentlige ordskiftet. Det tok noen år før de verdimessige forutsetningene for velferdssamfunnet ble tema for diskusjon: Hvilke bånd er det som knytter samfunnet sammen? Hvordan kan relativt homogene velferdsstater, med svært høye ambisjoner om materiell trygghet, deltakelse og sosial utjevning, håndtere utfordringene knyttet til kulturelt mangfold? I hvilken grad er det *rimelig* å stille krav til kulturell tilpasning når (lovlige) nykommere er inntektssikret fra dag én? Hvordan reproduserer slike stater samfunnsmessig lojalitet, medvirkning og solidaritet under nye forhold? Med andre ord: Hvordan kan man anerkjenne kulturell forskjellighet uten samtidig å svekke de båndene som holder samfunnet sammen – et fellesskap rundt noen grunnleggende verdier?
+
+I NOU 2011: 7 dreide de viktigste analysene seg om utfordringene som kan oppstå for den norske velferdsmodellen som følge av økende *økonomisk* ulikhet. Dette utvalget er bedt om å utvide disse analysene til også å gjelde spenninger som kan oppstå når «høy innvandring» over tid endrer befolkningssammensetningen, slik at også kulturell og verdimessig ulikhet kan bli et anliggende – og kilde til konflikt. Utvalget er bedt om å drøfte hvilke politiske og institusjonelle virkemidler som finnes for å bidra til å dempe polarisering og konflikt samt styrke følelsen av fellesskap og trygghet i befolkningen.
+
+Hvis den norske velferdsstaten i seg selv kan sees som en viktig del av sammenbindingskraften i samfunnet, reises nye problemstillinger når nye, større grupper av mennesker, som ikke har hatt grunnsosialiseringen i landet, innvandrer og bosetter seg. I den grad de oppfattes som representanter for kulturell forskjellighet, har særskilte behov, trekker seg tilbake i selvsegregerte enklaver og/eller blir utsatt for samfunnsmessig marginalisering, bidrar de også til å sette både velferdsstatens virkemåte og fellesskapets legitimitetsgrunnlag på prøve.
+
+Kulturelt og verdimessig mangfold som følge av innvandring, har sammensatte virkninger for det norske samfunnet. Det kan være både berikende og konfliktfylt. Økende mangfold er et normativt ladet temaområde der det knapt er mulig å finne en analyse eller en politisk strategi som skaper bred konsensus.
+
+«Tillit» er sårbart og tillit er heller ikke en fast størrelse. Tillitsnivået i samfunnet er vanskelig å måle presist, og det kan fluktuere med hendelser (slik vi f.eks. så det på Island og i Danmark under finanskrisen fra 2008), uten at robuste samfunnsmodeller bryter sammen på kort sikt av den grunn. Det kan argumenteres for at kompleksiteten i moderne samfunn – den «uforståelige» avanserte teknologien som samfunnet baserer seg på, kommunikasjonsrevolusjonen, globaliseringen og ikke minst endringstempoet – stiller høyere krav til generalisert tillit enn tidligere samfunnsforhold. Samtidig kan forutsetningene for å opprettholde denne abstrakte tilliten være svekket gjennom den samme kompleksiteten.[^359]
+
+I utgangspunktet mangler stater politiske redskaper i dette landskapet. Forholdet mellom lovgivning og spørsmål om kohesjon, tilhørighet og oppslutning er uklart: «*Identity cannot be legislated*», hevder statsviteren Christian Joppke spissformulert.[^360] Norske myndigheter manglet lenge både refleksjon og politikk som kunne knyttes til kultur- og verdispørsmål etter at den flerkulturelle innvandringen økte i omfang. Det er lite å finne i offentlige dokumenter om disse temaene før sent i utviklingen mot århundreskiftet.[^361] I stortingsmelding nr. 39 fra 1988 ble betydningen av *deltakelse* riktignok understreket, og det ble også knesatt noen grenser for nykommeres valgfrihet. Det ble krevet tilslutning til de sentrale samfunnsverdiene demokrati, likestilling mellom kjønnene og barns rettigheter.[^362] Hvordan dette skulle følges opp i praksis, var imidlertid lite utviklet. Trolig har man håpet og trodd at de velkjente virkemidlene man hadde til rådighet i den norske modellen, også skulle virke i denne nye sammenhengen, nemlig integrasjon av nykommere gjennom både et økonomisk, sosialt og demokratisk medborgerskap. At arbeid, sosiale rettigheter og stemmerett, i tillegg til sosialisering gjennom skolen, skulle dempe kultur- og verdispenninger over tid, og at den samfunnsmessige tilliten ble gjenskapt under nye forhold som konsekvens av denne tilnærmingen.
+
+Hvis vi ser på undersøkelser av etterkommeres tilpasning til norske forhold og norske liberaldemokratiske grunnverdier over noe tid,[^363] er det grunn til optimisme. Det ser ut til at sosialiseringsmekanismene virker, og at store grupper blant etterkommerne av innvandrere sikter mot eller er på vei mot full integrasjon eller assimilasjon i noen forskeres vokabular. Prosessen der etnisk tilhørighet blir gradvis mer irrelevant for livsmulighetene,[^364] ser med andre ord ut til å være på rett spor for store grupper. Barn av innvandrere har betydelig sosial mobilitet ved hjelp av utdanning. Ikke alle sosioøkonomiske forskjeller utjevnes, men etterkommeres sosiale oppdrift er vesentlig høyere enn for majoritetsungdom med tilsvarende bakgrunn.[^365] Studien finner også klare indikasjoner på verdiassimilering blant etterkommere: Det er tydelige tegn til sekularisering (privatisering av religion) og et mer tilpasset syn på likestilling og homofili. Når det gjelder *tillits*dimensjonen, derimot, er tilpasningen svakere. Innvandreres barn tar i liten grad til seg det høye norske tillitsnivået og beholder i stor grad den sterke tilknytningen til egen familie. Dette beskrives som et «integrasjonsparadoks», der de sterke familieforpliktelsene *både* hemmer og fremmer sosial mobilitet. Sterk sosial kontroll og «æreskultur» hindrer full integrasjon, samtidig som den samme familielojaliteten er en spore til høye ambisjoner og mye innsats når det gjelder utdanning og suksess i yrkeslivet. I denne spenningen ligger også muligheten for en generasjonskonflikt: Assimilering langs ulike dimensjoner skjer i ulik takt. Samfunnsmessige normer og verdier endres raskere enn de nære relasjoner og identitet knyttet til familien.[^366]
+
+Fullverdig assimilasjon av innvandrere og etterkommere innebærer imidlertid også en anerkjennelse fra majoritetens side av at de er en legitim del av det nasjonale fellesskapet. Holdningsundersøkelser i majoriteten tyder på at innstillingen er relativt positiv, selv om mange uttrykker bekymring for hva høy innvandring betyr for samfunnet (se nedenfor). Holdningen til kulturelt mangfold framstår imidlertid som relativt restriktiv. I en undersøkelse fra 2016 ba SSB respondentene ta stilling til påstanden «innvandrere i Norge bør bestrebe seg på å bli så like nordmenn som mulig». 51 pst. sa seg helt eller delvis enige i dette, mens 35 pst. var helt eller delvis uenige. Innvandreres *forskjellighet* som en legitim del av det nasjonale fellesskapet får med andre ord oppslutning fra vel en tredel av dem som er spurt.[^367] Samtidig viser flere undersøkelser (sitert i kap. 7.5) at innvandrere opplever diskriminering på det norske arbeids- og boligmarkedet.
+
+I en studie av holdninger blant ungdom i første klasse på videregående skole i Oslo og Akershus ble norskfødte elever uten innvandrerbakgrunn spurt om sitt inntrykk av muslimer.[^368] De fleste uttrykte et positivt eller nøytralt inntrykk, og det var relativt tydelige forskjeller mellom dem som hadde nære venner med utenlandsk bakgrunn, og dem som ikke hadde det. 26 pst. av dem som ikke hadde nære venner med utenlandsk bakgrunn, og 17 pst. av dem som hadde nære venner med utenlandsk bakgrunn, svarte at de hadde et «veldig» eller «litt» dårlig inntrykk. Forskjellen kan tolkes som støtte til hypotesen om at mer kontakt gir mer positive holdninger. På den andre siden uttrykker om lag halvparten av den norske befolkningen skepsis til muslimer og 60 pst. er negative til å få muslimsk svigersønn eller svigerdatter. Dette er vesentlig flere enn de som viser skepsis overfor andre religioner.[^369]
+
+Til tross for at utviklingen blant etterkommere i Norge peker i positiv retning, er imidlertid verdikonflikter knyttet til de tre sentrale verdiene demokrati, likestilling og barns rettigheter stadig blant de mest framtredende i samfunnsdebatten.
+
+Det norske samfunnet har de siste tiårene gjennomgått store befolkningsendringer gjennom innvandring. Andelen innvandrere (utenlandsfødte) utgjør i 2016 om lag 15 pst., noe som plasserer Norge over gjennomsnittet i OECD-sammenheng. Innvandrings*raten,* dvs. innvandring per 1 000 innbygger, har det siste tiåret vært blant de høyeste i OECD (se kap. 3.2.2). Endringstakten når det gjelder kulturell kompleksitet, har derfor vært svært høy. Dette har trolig betydning for majoritetsbefolkningens holdninger til forandringene innvandring bringer med seg. Takt og omfang påvirker mottakersamfunnets kapasitet og evne til å innlemme nykommere – både sosialt og økonomisk. Det som måtte finnes av verdikonflikter, vil bli forsterket hvis et høyt antall mennesker som oppfattes som vesentlig annerledes, kommer i løpet av kort tid.
+
+Dette er et ulendt terreng. Hvor mange er «et høyt antall», og hva mener man med «kort tid»? Hva er det ved innvandring fra fjerntliggende land som utfordrer den norske modellen? Hvilke typer kulturell og verdimessig ulikhet er problematiske, og hvilke kan samfunnet enklere leve med? Er det med andre ord noen typer annerledeshet eller annerledes atferd som faktisk er mer problematisk enn andre når det gjelder muligheter til integrasjon, og i så fall hvorfor?
+
+Terrenget er vanskelig også fordi selve debatten kan komme til å påvirke stemningen, og dermed handlingsbetingelsene til myndigheter, samfunnsborgere og nykommere. Stemningsleiet i offentlig samtale kan få betydning for tilliten mellom majoritets- og minoritetsgrupper. Men *hva slags* betydning er ikke entydig, og utfallet kan variere med konteksten. Underkommunisering av problemer kan slå tilbake, men det kan også ensidig negativ oppmerksomhet. Om assimileringspresset øker overfor innvandrere, kan det provosere fram utmelding (selvsegregering) og ytterligere polarisering, men det kan også få negative politiske og samfunnsmessige konsekvenser hvis majoriteten opplever at den strekker seg for langt i å tilpasse seg nye minoritetsgrupper. I de senere årene har det vært en betydelig debatt i flere europeiske land om behovet for økt kulturelt samhold, ofte konsentrert om spørsmål der gitte innvandrergruppers kulturelle preferanser kolliderer med kulturen i samfunnet de har innvandret til. Forsøk på prinsipiell tenkning omkring disse spenningene henter ofte inspirasjon i Bassam Tibis begrep «Leitkultur» (anførerkultur).[^370] En sentral tanke bak dette konseptet er at den nasjonale kulturen skal ha forkjørsrett. Denne debatten har også avleggere i Norge. «Leitkultur»-begrepet, i den grad det oppfattes som en legitimering av assimileringspress, er omstridt.
+
+Mye av utviklingen i offentligheten og i lokalsamfunn er uansett utenfor myndighetenes styringsfelt, og der det kunne være mulig med styring, finnes det ikke entydige oppskrifter på hva som virker best. I tillegg til spørsmål om hva som er lovlig og legitimt, blir det i hver sak også et spørsmål om hva som er *klokt*.
+
+1.  **Økende religiøst mangfold**
+
+Mange av de mest betente diskusjonene mellom majoriteten og de ulike minoritetene knytter seg til religion og religiøs praksis. Religion er tilbake, både i den akademiske diskusjonen og i den offentlige debatten, og hypotesen om at religionens betydning ville forvitre i moderne samfunn, har vesentlig mindre oppslutning i 2016 enn den hadde for 20–30 år siden.[^371] Politisk islam ble ettertrykkelig satt på den internasjonale politiske dagsordenen etter angrepet på USA 11. september 2001, men interessen for religion knytter seg også til kristne evangeliske menigheters politiske kraft i USA, religionens fornyede rolle i flere «postkommunistiske» land og framveksten av nyreligiøsitet i relativt sekulære land som Norge.
+
+Norge er blitt langt mer religiøst mangfoldig i løpet av ganske få år. Så sent som i 1980 var nesten 88 pst. av befolkningen medlemmer av Den norske kirke (se tabell 9.1). Ytterligere 3 pst. var medlemmer av andre kristne trossamfunn, hvorav pinsemenighetene utgjorde den største gruppen. Bare 0,1 pst. av befolkningen tilhørte ikke-kristne trossamfunn, og om lag 5 pst. hadde ukjent tilhørighet. I 2015 hadde andelen medlemmer i Den norske kirke falt til 73 pst., mens 7 pst. tilhørte andre kristne kirkesamfunn. Innvandringen fra Øst- og Sentral-Europa førte til at den ortodokse kirken og særlig den romersk-katolske kirken fikk et betydelig oppsving i Norge. Andelen som tilhørte ikke-kristne religiøse samfunn, økte til 2,8 pst., og den største økningen kom blant muslimene. I 2016 var 148 189 personer registrerte medlemmer av muslimske trossamfunn i Norge. I tillegg hadde andelen uten tilhørighet økt til 15 pst., og andelen registrerte medlemmer i ikke-religiøse livssynssamfunn var i underkant av 2 pst.
+
+1.  Medlemskap i registrerte tros- og livssynssamfunn, 1988 og 2015/2016
+
+|  |  |  |  |  |  |
+|----|----|----|----|----|----|
+|  | 1980/1988 |  | 2015/2016 |  |  |
+|  |  |  |  |  |  |
+|  | Antall | Andel av befolkningen |  | Antall | Andel av befolkningen |
+|  |  |  |  |  |  |
+| Den norske kirke | 3 595 341 | 87,8 |  | 3 799 366 | 72,9 |
+| Registrerte kristne trossamfunn | 123 696 | 3,0 |  | 349 083 | 6,7 |
+| Herav |  |  |  |  |  |
+| Pinsemenigheter | 46 193 | 1,1 |  | 39 431 | 0,8 |
+| Den ortodokse kirke | 748 | 0,0 |  | 20 202 | 0,4 |
+| Den romersk-katolske kirke | 23 010 | 0,5 |  | 144 856 | 2,8 |
+| Registrerte trossamfunn utenfor kristendommen | 31 398 | 0,8 |  | 183 201 | 3,5 |
+| Herav: |  |  |  |  |  |
+| Buddhisme | 2 009 | 0,0 |  | 18 817 | 0,4 |
+| Jødedom | 1 044 | 0,0 |  | 770 | 0,0 |
+| Islam | 14 727 | 0,3 |  | 148 189 | 2,8 |
+| Registrerte livssynssamfunn |  |  |  | 89 758 | 1,7 |
+| Uten tilhørighet | 129 247 | 3,2 |  | 792 577<sup>1</sup> | 15,2 |
+| Ukjent | 211 356 | 5,2 |  |  |  |
+| (Totalt) | (4 091 038) | 100 |  | (5 213 985) | 100 |
+|  |  |  |  |  |  |
+
+<sup>1 </sup>Estimert tall: Folkemengden per 1.1.2016 fratrukket medlemmer i den norske kirke og andre registrerte tros- og livssynssamfunn.
+
+Datagrunnlag 1980/1988 for Den norske kirke, registrerte kristne trossamfunn, registrerte livssynssamfunn: folke- og boligtellingen 1980. Datagrunnlag 1980/1988 for registrerte trossamfunn utenfor kristendommen: register over trossamfunn med statsstøtte. Tabellen bygger på Furseth 2015, tabell 1.1, 1.4 og 1.5. Datagrunnlag 2015/2016: Statistisk sentralbyrå: «Den norske kyrkje, 2015» og «Trus- og livssynssamfunn utanfor den norske kyrkja, 1. januar 2016».
+
+Er religiøs pluralisme i seg selv en utfordring for den inkluderende velferdsstaten og den samfunnssolidariteten denne modellen er basert på? Enkelte velferdsstatsforskere har hevdet at den høye graden av homogenitet i de nordiske landene har vært en forutsetning for utviklingen av denne formen for velferdspolitikk.[^372] Andre har lagt vekt på lutheranismens forståelse av forholdet mellom individer, og mellom individet og staten, som en forutsetning for den nordiske velferdsmodellen.[^373] Det er likevel ikke gitt at de faktorene som var sentrale i velferdsstatens oppbyggingsperiode, er like sentrale i perioder der politikken dreier seg om å vedlikeholde etablerte institusjoner.[^374] Det er mulig å argumentere for at homogenitet og lutheranisme var viktige forutsetninger for den nordiske velferdsmodellen, og samtidig mene at modellen kan videreføres i en periode med større mangfold.
+
+1.  **Sekularisering?**

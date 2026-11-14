@@ -1,984 +1,214 @@
-# NOU 2017: 2, del 15 av 20 (side 177–186)
+# NOU 2017: 2, del 15 av 19
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/a12ffa1f-nou-2017-2.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-2/id2536701/
 - Original-PDF: https://www.regjeringen.no/contentassets/c072f7f37da747539d2a0b0fef22957f/no/pdfs/nou201720170002000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 36 tabeller, 78 figurer, 558 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 177]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-Radikalisering er med andre ord en prosess
-som kan føre til at en person blir en voldelig ekstremist. Typisk for denne prosessen vil være at
-personer i faresonen utvikler et ensidig verdensbilde der det ikke er rom for alternative perspektiver. De opplever at drastiske handlinger (som
-støtte eller oppfordring til vold) er nødvendig, og
-utvikler en forståelse der hensikten helliger midlene. Ikke alle som har vært igjennom deler av
-denne prosessen, ender med å bruke vold for å
-fremme sine mål. Radikaliseringsprosessen har
-ideologiske (politiske/religiøse) elementer, men
-også psykologiske.
-Utvalget har ikke anledning til å gå dypere inn
-i denne problematikken, men vil likevel påpeke at
-det å utvikle og opprettholde gode og inkluderende fellesarenaer (skoler, arbeidsplasser, nabolag) kan være et virkemiddel for å hindre radikalisering. Det fordrer imidlertid at fellesarenaene
-faktisk er inkluderende. Her har politiske og religiøse ledere også et ansvar for ikke å bygge opp
-«oss mot dem»-holdninger.
-Utvalget fikk en orientering fra Politiets sikkerhetstjeneste (PST) om radikalisering og ekstremisme i et utvalgsmøte i august 2016. Lederen
-for PST formidlet blant annet følgende:
-Jo større innvandringen er over et gitt tidsrom,
-desto tydeligere vil vi se effekten [flere ekstremister blant innvandrere og vekst i høyreekstreme miljøer]. Dette gjelder hvis vi holder
-alle andre faktorer «konstante», det vil si ikke
-«korrigerer» for ulike former for integreringstiltak og forebygging. Ved å sørge for språkopplæring, jobbmuligheter, nødvendig psykisk
-helsevern etc. vil man redusere sannsynligheten for at både første- og andregenerasjons innvandrere blir ekstremister. Å redusere sannsynligheten er likevel ikke det samme som å
-eliminere den.
-[…]
-Også uten terroraksjoner kan følelsen av fellesskap og trygghet bli redusert. Det kan skje
-hvis det gjennom innvandring utvikles segregering og konfliktlinjer mellom folkegrupper.
-Manglende integrering, vedvarende sosioøkonomisk underutvikling, fattigdom og religiøse
-og kulturelle parallellsamfunn kan gi grobunn
-for mistro og fiendebilder. Borgerne må føle
-fellesskapet som naturlig og ønskelig. Da må
-mange av de sentrale verdiene faktisk være fel55
-
-https://www.regjeringen.no/no/sub/radikalisering/omforebyggende-arbeid/hva-er-radikalisering-og-voldeligekstre/id663761/
-
-177
-
-Kapittel 9
-
-les. Språk, historie og kultur er viktige fellesnevnere, men også ønsket om å leve i et demokratisk og liberalt samfunn. Hvis motstanden
-mot et fellesskap blir stor, vil grunnlaget smuldre bort og kunne resultere i flere og mindre
-sub-fellesskaper. Slike utviklingstrekk har man
-sett i flere europeiske land, og denne type prosesser er svært vanskelige å snu. Å hindre utvikling av segregerte og «parallelle» samfunn
-er ikke en oppgave for en sikkerhetstjeneste,
-men nettopp under slike forhold kan radikalisering og ekstremisme få grobunn.
-Utvalget forstår lederen for PST slik at det å skape
-og bevare et nasjonalt fellesskap, basert på et felles ønske om å leve i et demokratisk og liberalt
-samfunn, er sentralt også i arbeidet for å forebygge radikalisering.56 Å motvirke utviklingen av
-parallellsamfunn er essensielt for å bevare dette
-fellesskapet og for å hindre at det skapes «lommer» der politiet ikke har tilgang og ekstreme
-grupper kan få innflytelse. Med andre ord er bevaring av fellesskapet, insisteringen på liberale verdier og motarbeidelse av parallellsamfunn ikke
-bare viktige mål i seg selv, men også sentrale virkemidler for å motarbeide terror og ekstremisme
-på norsk territorium. Dette fordrer at tendenser til
-selvsegregering blant innvandrere motarbeides,
-og også at majoritetssamfunnet reelt åpner seg for
-nykommere og minoriteter. Lederen for PST sa
-videre:
-Høyreekstreme grupper bruker muslimsk innvandring og særlig kriminelle innvandrere som
-bevis på at det norske samfunnet er under
-angrep, og at norske myndigheter svikter
-befolkningen. […] Dette er en kamp som bare
-kan vinnes ved bruk av vold. Både innvandrere
-og myndighetene er legitime mål.
-Økende aktivitet i høyreekstreme miljøer framheves også som en sentral bekymring i PSTs trusselvurdering for 2016, og trusselen fra disse miljøene ble vurdert som større enn tidligere.57 Dette
-skyldtes blant annet den økte flyktningtilstrømmingen i 2015, som ble antatt å mobilisere flere til
-høyreradikale miljøer. PST vurderte i 2016 likevel
-terrortrusselen fra disse miljøene som begrenset,
-fordi miljøet var svakt organisert og preget av in56
-
-57
-
-Dette er også et hovedpoeng i Hegghammer, T. (2016).
-Flyktningkrisens radikaliseringsutfordringer. Kronikk i
-Aftenposten 21. september 2016.
-Politiets sikkerhetstjeneste (2016). Trusselvurdering 2016.
-Tilgjengelig på http://www.pst.no/media/81096/PST_Brosjyre_Trussel_NORSK.pdf.
-
-[Side 178]
-
-178
-
-NOU 2017: 2
-
-Kapittel 9
-
-Integrasjon og tillit
-
-dre konflikt. Terskelen for å gjennomføre angrep
-som medførte tap av liv, ble antatt å være høy.
-Høyreekstreme ble imidlertid mistenkt for å ha
-gjennomført aksjoner som ildspåsettelser på asylmottak og andre former for sabotasje, og enkeltpersoner med høyreekstreme synspunkter ble antatt å kunne gjennomføre rene terroraksjoner.
-
-9.8
-
-Holdninger til innvandring og
-velferdsordninger
-
-Velferds- og migrasjonsutvalget diskuterte hvordan befolkningens oppslutning om den omfordelende velferdsstaten ble påvirket av innvandring.
-Hovedkonklusjonen var da at det ikke later til å
-være noen sterk effekt av innvandring på befolkningens ønske om en omfattende velferdsstat.58
-En rekke europeiske holdningsundersøkelser viser at oppslutningen om velferdsstaten er stabil,
-uavhengig av hvor mange utenlandsfødte eller
-personer med innvandrerbakgrunn som bor i landet. Ulike studier antyder ulike forklaringer på
-dette. For det første er velferdsstatlige institusjoner robuste når de først er bygget opp. Befolkningen i et land tilpasser seg de institusjonene som
-finnes, og institusjoner tilpasses til hverandre. Har
-man først slått inn på et gitt spor, er det vanskelig
-å skifte kurs59 – det skal mye til for at støtten til
-disse institusjonene forvitrer. For det andre kan
-innvandring skape en følelse av utrygghet og føre
-til at flere frykter å miste levebrødet som følge av
-økt konkurranse om jobbene. Dette kan lede til
-sterkere oppslutning om velferdsordningene snarere enn svakere.60
-Siden 2011 har det imidlertid blitt tydelig i den
-velferdspolitiske debatten at det å slutte opp om
-velferdsordninger generelt, og det å ønske nykommere (flyktninger og andre) velkommen inn i
-disse ordningene, er to ulike ting. Den norske politikken på feltet har også dreid i retning av å begrense tilgangen til velferdsytelser for nykommere (se boks 10.4).
-I dette kapitlet gjennomgås en rekke holdningsundersøkelser om innvandring og velferds-
-
-rettigheter. Undersøkelsene er gjennomført på
-ulike måter, med ulike prosedyrer for valg av respondenter, spørsmålsstilling etc. Undersøkelsene har dermed ulike sterke og svake sider. En
-generell usikkerhet ved holdningsundersøkelser
-er at det er vanskelig å fastslå hvor representative
-utvalgene er. Svarprosenten kan være lav selv om
-utvalgene er store. Dette gjelder særlig blant innvandrere, der det generelt er en risiko for at de
-som svarer, er systematisk forskjellige fra de som
-ikke svarer. Videre vil svar på en del spørsmål
-være følsomme for ulikheter i spørsmålsformuleringene, slik at man kan komme i tvil om hva som
-egentlig måles. Gjennomgangen nedenfor går i liten grad inn på det metodiske opplegget til de
-ulike undersøkelsene, men søker i den grad det er
-mulig, å få fram et helhetsbilde på tvers av ulike
-undersøkelser med ulike empiriske opplegg.
-
-9.8.1
-
-Holdninger til å begrense rettigheter
-for nykommere
-Nyere studier av befolkningens holdninger til innvandring og velferd tyder på at det er relativt få
-som vil ekskludere alle nykommere permanent,
-men svært mange som vil gjøre tilgangen til ordningene betinget. Ser man på resultatene fra den
-store holdningsundersøkelsen European Social
-Survey (ESS) for 24 europeiske land under ett,
-sier f.eks. 16 pst. at de vil gi innvandrere ubetinget
-adgang til velferdsordninger med en gang eller etter et års opphold, uavhengig av om de har vært i
-jobb i denne perioden. 41 pst. vil gjøre tilgangen
-avhengig av at innvandrerne har vært i jobb og betalt skatt i minst ett år, 35 pst. etter at de har blitt
-statsborgere i landet. Bare 7 pst. sier at innvandrere aldri bør få tilgang.61 Ønsket om å begrense
-eller betinge innvandreres stønadsadgang omtales i en ny norsk artikkel som velferdsnasjonalisme.62 Dette begrepet brukes videre i dette kapitlet, selv om det anerkjennes at ønsket om å begrense nykommeres adgang til velferdsytelser
-kan begrunnes i andre hensyn enn de som vanligvis assosieres med «nasjonalisme». Tendenser til
-61
-
-58
-
-NOU 2011:7 Velferd og migrasjon. Den norske modellens
-framtid.
-59
-Dette omtales i litteraturen som «sti-avhengighet», jf. Pierson, P. (2000). Increasing Returns, Path Dependence, and
-the Study of Politics. American Political Science Review 94
-(2), 251–267.
-60
-Finseraas, H. (2008). Immigration and Preferences for
-Redistribution: An Empirical Analysis of European Social
-Survey Data. Comparative European Politics, doi: 10.1057/
-cep.2008.3.
-
-62
-
-Reeskens, T. & van Oorschot, W. (2012). Disentangeling
-the ‘New Liberal Dilemma’: On the relation between general welfare redistribution preferences and welfare chauvinism. International Journal of Comparative Sociology 53
-(2):120–139.
-Bay, A.H., Finseraas, H. & Pedersen, A. W. (2016). Welfare
-nationalism and Popular Support for Raising the Child Allowance: Evidence from a Norwegian Survey Experiment.
-Research Note. Scandinavian Political Studies. doi:
-10.1111/1467-9477.12067. Et alternativt begrep, som ofte
-brukes i engelskspråklig litteratur, er «welfare chauvinism».
-
-[Side 179]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-179
-
-Kapittel 9
-
-velferdsnasjonalisme er dokumentert i en rekke
-studier, både nasjonale og internasjonale. Et
-norsk eksempel er valgundersøkelsen 2013, der
-respondentene ble bedt om å ta stilling til påstanden «flyktninger og innvandrere bør ha samme
-rett til sosialhjelp som nordmenn, selv om de ikke
-er norske statsborgere». 24 pst. sa seg «helt uenig» i dette, mens 28 pst. var «nokså uenig».63
-52 pst. mente altså at flyktninger og innvandrere
-ikke bør ha samme rett til sosialhjelp som nordmenn. Den tilsvarende andelen i 2005 var 39 pst.,
-så oppslutningen om dette prinsippet har klart
-økt.
-Over tid har forskningens oppmerksomhet
-dreid seg fra å kartlegge fenomenet til å undersøke
-hva slags fenomen velferdsnasjonalisme er. I hvilke
-situasjoner øker oppslutningen om velferdsnasjonalisme, hvem er det særlig som har slike holdninger, og er det særlige egenskaper ved innvandrerne som utløser det?
-Velferdsnasjonalisme kan måles direkte eller
-indirekte. Det målet som brukes i ESS, der man
-spør direkte om og ev. når nykommere i landet
-bør gis tilgang, er av den direkte typen. Indirekte
-mål tar utgangspunkt i forholdet mellom oppslutningen om velferdsordninger som er generelle og
-går til alle, og oppslutning om ordninger som krever opptjening (og dermed ekskluderer nykommere i utgangspunktet).64 Hvis oppslutningen om
-opptjeningsbaserte/statusbevarende ordninger er
-uendret i en situasjon med høy innvandring mens
-oppslutningen om universelle/omfordelende ordninger synker, kan det tolkes som tegn på at man
-ikke ønsker å omfordele til innvandrere.
-To nyere studier bruker begge indirekte mål, i
-den forstand at de måler om innvandring til et
-land påvirker oppslutningen om omfordelende
-velferdsordninger. Den ene av disse finner at andelen utenlandsfødte i et område har negativ effekt på oppslutningen om påstanden «myndighetene bør sikre en jobb for alle som ønsker en».65
-Derimot påvirker ikke andelen utenlandsfødte
-svarene på spørsmål om velferdsytelser som alderspensjon, støtte til arbeidsløse, helsestell etc.
-Forfatterne bak studien antar at velferdsnasjona-
-
-listiske holdninger oppstår når et gode oppfattes
-som begrenset, slik at økt tilgang for innvandrere
-betyr at innenlandsfødte får mindre, og når det
-oppfattes som en trussel, det vil si at innvandrere
-gjennom å få tilgang til dette godet settes bedre i
-stand til å konkurrere med majoriteten. Den andre studien bruker andre data og andre mål på
-oppslutning.66 Hovedfunnet i denne studien er at
-andelen utenlandsfødte i et område har liten betydning for oppslutningen om universelle og omfordelende ordninger, men at økningen i innvandring svekker oppslutningen. Denne sammenhengen gjelder likevel bare i land som hadde stor økonomisk ulikhet i utgangspunktet. Konklusjonen er
-dermed at velferdsnasjonalismen aktiveres når
-det kommer mange innvandrere til land med stor
-ulikhet, der personer i bunnen av hierarkiet allerede er marginalisert. Studien har ikke data som
-viser hvem som i slike situasjoner framstår som
-mest velferdsnasjonalistiske – de rike (som kan
-frykte at de må betale mer) eller de fattige (som
-kan frykte økt konkurranse om knappe goder).
-Spørsmålet om hvem som lar seg påvirke av
-høy innvandrerandel og/eller stor tilstrømming til
-et område, er imidlertid tema i flere andre studier.
-En norsk studie fra 2016 undersøker f.eks. hvordan skepsis til innvandrere varierer med nivået på
-arbeidsløsheten i et land.67 Forskerne finner at
-høy innvandring til land med høy arbeidsledighet
-skaper bekymring, særlig hvis det er mange innvandrere i landet fra før, og at bekymringen er
-særlig sterk blant dem med lave formelle kvalifikasjoner. En annen studie finner et samspill mellom holdninger og egeninteresse.68 De som mener at velferdsgoder bør fordeles etter behov-prinsippet (i stedet for universalisme eller fortjeneste), er oftere enn andre villige til å ekskludere
-innvandrere, og særlig hvis de selv har lav inntekt
-og innvandrerbefolkningen i landet er stor. En annen studie viser også at oppslutningen om omfordelende velferdsordninger er lavere i områder
-med mange innvandrere, men at denne effekten
-er vesentlig sterkere når innvandrerne har høyere
-arbeidsledighet og er mer avhengige av sosiale
-overføringer enn personer i majoritetsbefolknin-
-
-63
-
-66
-
-Kleven, Ø., Aardal, B., Bergh, J, Hesstvedt, S. & Hindenes,
-Å. (2015). Valgundersøkelsen 2013. Dokumentasjons- og
-tabellrapport. Notater 2015/29, Statistisk sentralbyrå.
-64
-Miller, D. (2006). Multiculturalism and the Welfare State:
-Theoretical Reflections. I Banting, K. & Kymlicka, W.
-(red.), Multiculturalism and the Welfare State. Recognition
-and Redistribution in Contemporary Democracies. Oxford:
-Oxford University Press.
-65
-Brady, D. & Finnigan, R. (2014). Does Immigration undermine Public Support for Social Policy? American Sociological Review 79(1), 17–42.
-
-67
-
-68
-
-Steele, L. (2016). Ethnic Diversity and Support for Redistributive Social Policies. Social Forces 94 (4),1439–1481.
-Finseraas, H., Pedersen, A.W. & Bay, A.H. (2016). When
-the Going Gets Tough: The Differential Impact of National
-Unemployment on the Perceived Threats of Immigration.
-Political Studies 64 (1), 60–73.
-Reeskens, T. & van Oorschot, W. (2012). Disentangeling
-the ‘New Liberal Dilemma’: On the relation between general welfare redistribution preferences and welfare chauvinism. International Journal of Comparative Sociology 53 (2),
-120–139.
-
-[Side 180]
-
-180
-
-Kapittel 9
-
-NOU 2017: 2
-Integrasjon og tillit
-
-gen.69 Det ser ut til at de som i utgangspunktet er
-mest sårbare, er de som er mest skeptiske til å gi
-innvandrere tilgang til begrensede fellesgoder, og
-særlig når de erfarer at innvandrere i stor grad etterspør disse godene.
-I den norske debatten har eksport av stønad –
-altså det at innvandrerne tar med seg stønaden ut
-av Norge og bruker pengene i opprinnelseslandet
-– vært et vel så stort tema som innvandreres tilgang i seg selv. Dermed kan man spørre om hva
-som utløser velferdsnasjonalistiske responser:
-innvandreres tilgang eller muligheten til eksport?
-En ny norsk studie søkte å skille disse to dimensjonene gjennom et surveyeksperiment om holdninger til økning av barnetrygden.70 Respondentene ble spurt om de syntes barnetrygden burde
-økes. De som sa ja, ble så minnet på at [gruppe X]
-også mottok barnetrygd, og spurt om de fortsatt
-var for en økning i lys av dette. Tilsvarende fikk de
-som sa nei, spørsmål om de ville endre syn hvis
-[gruppe X] ikke fikk tilgang. Respondentgruppen
-var på forhånd delt i to: for halvparten var gruppe
-X «nyankomne innvandrere», for den andre halvparten var gruppe X «arbeidsinnvandrere fra EUland». De sistnevnte fikk også informasjon om at
-arbeidsinnvandrere fra EU-land har rett til barnetrygd for barn som ikke bor i Norge. Et betydelig
-flertall av dem som ble minnet om at nyankomne
-innvandrere får barnetrygd, opprettholdt sitt opprinnelige standpunkt (85 pst. av dem som var for å
-øke, 83 pst. av dem som var mot). Bare 56 pst. av
-dem som opprinnelig var for å øke barnetrygden,
-opprettholdt imidlertid dette standpunktet da de
-ble minnet om at ytelsen også utbetales for barn
-som ikke bor i Norge. 27 pst. av disse sa de var
-mot å øke barnetrygden i lys av denne opplysningen, mens 17 pst. var usikre. Tilsvarende opprettholdt bare 63 pst. standpunktet om å ikke øke barnetrygden da de fikk anledning til å utelukke barn
-bosatt utenfor Norge. Når man spør om den veletablerte og beskjedne ytelsen barnetrygd, finner
-man altså at det er eksporten, og ikke ønsket om å
-ekskludere nykommere som sådan, som skaper
-motstand. Noe tilsvarende ble funnet i en svensk
-studie.71
-
-69
-
-Burgoon, B. (2014). Immigration, Integration and Support
-for Redistribution in Europe. World Politics 66 (3), 365–405.
-70
-Bay, A.H., Finseraas, H. & Pedersen, A. W. (2016). Welfare
-nationalism and Popular Support for Raising the Child Allowance: Evidence from a Norwegian Survey Experiment.
-Research Note. Scandinavian Political Studies. doi:
-10.1111/1467-9477.12067.
-71
-Hjort, F. (2016). Who benefits? Welfare Chauvinism and
-National Stereotypes. European Union Politics, 17 (1), 3–24.
-
-Alt i alt er det klart fra forskningen på området
-at velferdsnasjonalisme er et reelt fenomen: Når
-befolkningen i Europa spørres direkte om når de
-synes innvandrere bør få tilgang til velferdssystemet, svarer et flertall at dette bør skje enten etter at innvandreren har gitt sitt bidrag, eller etter
-at han eller hun har demonstrert ønsket om å tilhøre det nasjonale fellesskapet gjennom å skifte
-statsborgerskap. Det er grunn til å understreke at
-dette ikke behøver å handle om skepsis til fremmede, men snarere gjenspeiler det etablerte prinsippet om at rettigheter skal opparbeides før man
-tar dem ut.72 Tilsvarende, i situasjoner der det er
-mange innvandrere og/eller en sterk tilstrømming av innvandrere, svekkes oppslutningen om
-omfordelende ordninger, men ikke nødvendigvis
-om opptjente velferdsordninger. Oppslutningen
-om ordninger med mekanismer for å utestenge
-personer uten opptjening bevares, mens oppslutningen om ordninger for alle svekkes. Den begrensede kunnskapen som finnes om dette, antyder at det særlig er de med lave kvalifikasjoner,
-som føler konkurransen fra innvandrerne sterkest, som trekker støtten tilbake. Studiene som
-foreligger, tyder på at det skjer et samspill mellom
-hvor mange innvandrere som bor i et område fra
-før, og hvor mange som kommer til. Kombinasjonen av mange bosatte og stor tilstrømming skaper
-særlig bekymring. Videre spiller institusjonelle
-ordninger og graden av økonomisk ulikhet en
-rolle: Bekymringen for innvandringen, og ønsket
-om å holde dem utenfor velferdsordningene, later
-til å være størst i land med stor økonomisk ulikhet, og blir mindre i samfunn der innvandrere er
-integrert i arbeidslivet.73 Konkret kan dette bety
-at kombinasjonen av mange innvandrere og stor
-tilstrømming blir vesentlig vanskelig å håndtere
-hvis de økonomiske ulikhetene også øker, og særlig hvis innvandrere er overrepresentert blant
-dem med vedvarende lavinntekt.
-
-9.8.2 Innvandreres holdninger til velferd
-Det finnes svært få studier som går nærmere inn
-på innvandreres holdninger til velferd og omfordeling. Analyser av valgundersøkelsen 2013 viste
-at innvandrere i langt større grad enn befolkningen som helhet stemte på partier på venstresiden.
-72
-
-73
-
-Van Oorschot, W. (2008). Popular deservingness perceptions and conditionality of solidarity in Europe. I van Oorschot, W., Opielka, M. & Pfau-Effinger, B. (red.) (2008).
-Culture and Welfare State. Values and Social Policy in
-Comparative Perspective. Cheltenham: Edward Elgar. Se
-også Reeskens, T. & van Oorschot, W. (2012). Ibid.
-Burgoon, B. (2014). Ibid.
-
-[Side 181]
-
-181
-
-NOU 2017: 2
-Integrasjon og tillit
-
-Kapittel 9
-
-Tabell 9.2 Holdninger til ulike politiske stridsspørsmål, alle og personer med innvandrerbakgrunn etter
-landbakgrunn. Innvandrere og norskfødte med innvandrerbakgrunn. Andel «helt enige»
-Innvandrere og norskfødte med innvandrer
-foreldre fra
-Alle
-velgere EU/EØS
-
-Europa
-utenom
-EØS
-
-Afrika
-
-LatinAsia Amerika
-
-For å oppmuntre innsatsviljen til den enkelte
-bør vi godta større lønnsforskjeller enn i dag
-
-38
-
-35
-
-39
-
-47
-
-47
-
-45
-
-Mange offentlige aktiviteter kunne blitt utført
-både bedre og billigere hvis de ble overlatt til
-private
-
-56
-
-40
-
-29
-
-33
-
-37
-
-39
-
-Flyktninger og innvandrere bør ha samme rett
-til sosialhjelp som nordmenn, selv om de ikke
-er norske statsborgere
-
-40
-
-45
-
-48
-
-78
-
-63
-
-49
-
-1700
-
-182
-
-107
-
-96
-
-233
-
-68
-
-Antall respondenter
-
-Kilder: Bergh, J., Bjørklund, T. og Aalandslid, V. (2014). Ibid., Kleven, Ø., Aardal, B., Bergh, J, Hesstvedt, S. & Hindenes, Å. (2015).
-Valgundersøkelsen 2013. Dokumentasjons- og tabellrapport. Notater 2015/29, Statistisk sentralbyrå.
-
-Blant innvandrerne som hadde stemmerett ved
-stortingsvalget, stemte 55 pst. på Arbeiderpartiet,
-6 pst. på Sosialistisk Venstreparti og 3 pst. på
-Rødt. I befolkningen som helhet stemte 36 pst. til
-sammen på disse tre partiene. Bare 3 pst. av innvandrerne stemte på Fremskrittspartiet, mot
-16 pst. i befolkningen.74 Undersøkelsen tyder likevel på en viss «høyrebølge» blant innvandrere, siden oppslutningen om partiet Høyre økte fra
-13 pst. ved kommunevalget i 2011 til 26 pst. i stortingsvalget 2013. Disse tallene er ikke helt sammenliknbare, siden bare norske statsborgere har
-stemmerett ved stortingsvalg, mens alle bosatte
-med mer enn tre års botid kan stemme ved lokalvalg.
-Disse tallene innebærer likevel ikke at innvandrere i overveiende grad uttrykker «venstresympatier» på sentrale verdidimensjoner. Dette illustreres av tallene i tabell 9.2 som viser holdninger
-til ulike politiske stridsspørsmål for alle velgere under ett, og for velgere med innvandrerbakgrunn
-(inkludert norskfødte med innvandrerforeldre) etter landbakgrunn.
-Tabellen viser først og fremst at det er stor variasjon blant innvandrere, og at de innbyrdes forskjellene gjerne er større enn forskjellene mellom
-befolkningen som helhet og ulike innvandrergrupper. Innvandrere fra Asia og Afrika skiller seg
-74
-
-Bergh, J., Bjørklund, T., & Aalandslid, V. (2014). Høyrebølge blant innvandrere, men flertallet velger Arbeiderpartiet. Samfunnsspeilet, 3/2014, 26–30.
-
-klart ut med sin tilslutning til prinsippet om at innvandrere bør ha samme rett til sosialhjelp som
-nordmenn, men er også mer tilbøyelige enn andre
-til å åpne opp for større lønnsforskjeller. Forskerne tolker disse mønstrene slik at innvandrere
-ikke nødvendigvis er utpreget venstreorienterte i
-politiske holdninger, men at de stemmer til venstre ut fra en kollektiv tanke om at partiene på
-venstresiden er minoritetenes forsvarere.75
-Valgundersøkelsen gjelder bare bosatte i
-Norge. To studier har sett på innvandrernes svar
-på fordelingsspørsmål i European Social Survey.
-ESS er ikke designet som en studie av minoritetsholdninger, men det er tilstrekkelig mange med
-innvandrerbakgrunn som har svart til at det er
-mulig å gjøre noen analyser. Man må likevel ta
-høyde for at ESS kun har fanget opp de best integrerte innvandrerne, blant annet fordi undersøkelsen er gjennomført på det hovedspråket som
-snakkes i hvert land.76 Den første av disse studiene tar utgangspunkt i en hypotese om at innvandrere tar med seg holdninger i verdispørsmål fra
-landet de reiser fra, og derfor vil likne mer på befolkningen i opprinnelseslandet enn på befolkningen i bosettingslandet på dette området.77 For å
-teste hypotesen ser de på europeiske innvandrere
-75
-76
-
-Bergh, J., Bjørklund, T. & Aalandslid, V. (2014). Ibid.
-Som påpekt av Reeskens, T. & Van Oorschot, W. (2015).
-Immigrants’ attitudes towards welfare redistribution. An
-exploration of role of government preferences among
-immigrants and natives across 18 European welfare states.
-European Sociological Review, DOI: 10.1093/esr/jcv003.
-
-[Side 182]
-
-182
-
-Kapittel 9
-
-NOU 2017: 2
-Integrasjon og tillit
-
-målene likner på majoritetsbefolkningen i landet
-de har bosatt seg. Dette gjelder særlig etterkommerne. Innvandrere som har kommet til land der
-majoriteten har restriktive holdninger til myndighetenes involvering på ulike områder, framstår
-som klart mer restriktive enn innvandrere til land
-der majoritetens ønsker en mer aktiv rolle for
-myndighetene. På dette området mener derfor
-forskerne at det er tendenser til en holdningsmessig assimilering.
-De to studiene av ESS-data på innvandreres
-oppslutning ender i helt ulike konklusjoner: Studien fra 2011 mener å påvise at holdninger er stabile, og at innvandrere likner mer på befolkningen
-i landet de har reist fra, enn i landet de kommer
-til. Studien fra 2015 finner det motsatte og mener
-det skjer en assimilering. Forskjellene kan sannsynligvis forklares med forskjeller i utfallsmål (et
-enkelt spørsmål om omfordeling versus et spørsmålsbatteri om myndighetenes rolle) og forskjeller i målgruppe (europeiske innvandrere versus
-alle). Innvandreres holdninger er et nytt
-forskningsfelt der det er begrenset tilgang på
-gode data, og dermed er det fortsatt ikke grunnlag for å si noe generelt om hvilke prosesser som
-former holdningene i ulike innvandrergrupper.
-Hovedinntrykket fra disse studiene er likevel at
-forskjellene innen innvandrergruppen er store, og
-at innvandrere som gruppe ikke skiller seg vesentlig fra majoritetsbefolkningen i sentrale velferdspolitiske spørsmål.
-
-i Europa, og sammenlikner dem med befolkningen både i opprinnelseslandet og i landet de har
-bosatt seg i. Som utfallsmål bruker de ett enkelt
-spørsmål som er stilt i tre ESS-runder på rad:
-«myndighetene bør treffe tiltak som reduserer
-forskjeller i inntekt», der svarene varierer fra 1
-(«helt enig») til 5 («helt uenig»). Fordi studien
-omfatter innvandrere som har flyttet fra ett land
-der ESS gjennomføres til et annet, har man presise opplysninger om fordelingen på dette spørsmålet både i opprinnelseslandet og i bosettingslandet. Analysen bekrefter hypotesen: personer
-som emigrerer fra ett europeisk land til et annet,
-likner mer på befolkningen i opprinnelseslandet
-enn i bosettingslandet på dette målet. Dette gjelder også innvandrere som har bodd i det nye landet svært lenge (mer enn 20 år), og det gjelder for
-deres barn. Forskerne bak studien konkluderer
-med at det er en sterk kulturell komponent i holdninger til omfordeling, slik at denne ikke bare bestemmes av egeninteresse.
-Funnene i denne artikkelen imøtegås i en artikkel fra 2015 som presenterer tall om innvandreres syn på hva staten bør gjøre.78 Her studeres
-svar på fem spørsmål: bør myndighetene ta ansvar
-for (a) jobber til alle som ønsker en, (b) helsestell
-for syke, (c) en rimelig levestandard for de eldre,
-(d) en rimelig levestandard for de arbeidsledige,
-(e) barnetilsyn for yrkesaktive foreldre, (f) betalt
-permisjon for yrkesaktive med omsorgsforpliktelser. Til sammen utgjør disse spørsmålene dimensjonen «myndighetenes rolle». I analysene finner
-de at innvandrere og etterkommere av innvandrere er noe mer positive enn majoritetsbefolkningen i de fleste landene til en aktiv rolle for myndighetene på de ulike områdene, men forskjellene er
-ganske marginale. Etter kontroll for blant annet
-egen sosioøkonomisk status og oppfatninger om
-hvor store de sosiale problemene landet står overfor er, forsvinner forskjellene for etterkommerne,
-mens de reduseres for innvandrerne. Deles innvandrerne etter opprinnelsesregion, finner man
-ingen tegn på at innvandrere fra fattige regioner
-tillegger myndighetene en mer aktiv rolle i sosialpolitikken enn andre. Det funnet som er mest slående i denne undersøkelsen, er i hvilken grad innvandrere og etterkommerne deres i disse spørs-
-
-Befolkningens holdninger til innvandrere og innvandring måles mer regelmessig enn innvandreres holdninger til ulike spørsmål. I Norge gjør
-SSB årlige undersøkelser av dette temaet.79 Innvandring er også en av de roterende modulene i
-European Social Survey,80 i tillegg gjøres mer avgrensede studier av temaet. Studiene tyder på at
-holdningene er relativt stabile over tid, men at de
-påvirkes av hvor stor tilstrømmingen til landet er
-på det tidspunktet undersøkelsen gjøres, og også
-av hvordan problematikken «rammes inn» i den
-nasjonale politiske diskusjonen i ulike land.81
-
-77
-
-79
-
-Luttmer, E.F. & Singhal, M. (2011). Culture, context, and
-the taste for redistribution. American Economic Journal:
-Economic Policy, 3(1), 157–179.
-78
-Reeskens, T. & Van Oorschot, W. (2015). Immigrants’ attitudes towards welfare redistribution. An exploration of role
-of government preferences among immigrants and natives
-across 18 European welfare states. European Sociological
-Review, DOI: 10.1093/esr/jcv003.
-
-9.8.3
-
-80
-
-Holdninger til innvandrere og
-innvandring
-
-Blom, S. (2016). Holdninger til innvandrere og innvandring
-2016. Rapporter 41/2016, Statistisk sentralbyrå.
-Moduler om holdninger til innvandrere ble brukt i ESS’
-datainnsamlinger i 2008 og 2014. 2008-dataene ble blant
-annet presentert i OECD Migration Outlook 2010. 2014dataene ble gjort tilgjengelige for analyser 26. mai 2016, og
-det foreligger i skrivende stund ingen publikasjoner fra
-denne.
-
-[Side 183]
-
-183
-
-NOU 2017: 2
-Integrasjon og tillit
-
-Kapittel 9
-
-Innvandrere flest gjør en nyttig innsats
-i norsk arbeidsliv
-
-100
-90
-
-Innvandrere flest misbruker de sosiale
-velferdsordningene
-
-80
-
-Innvandrere flest beriker det kulturelle
-livet i Norge
-
-70
-60
-
-Innvandrere flest er en kilde til
-utrygghet i samfunnet
-
-50
-40
-
-Alle innvandrere i Norge bør ha
-samme mulighet til arbeid som
-nordmenn
-
-30
-
-Innvandrere i Norge bør bestrebe seg
-å bli så like nordmenn som mulig
-
-20
-10
-0
-2002 2004 2006 2008 2010 2011 2012 2013 2014 2015 2016
-
-Arbeidsinnvandring fra land utenom
-Norden bidrar for det meste positivt til
-norsk økonomi
-
-Figur 9.1 Holdninger til innvandrere. Andel helt/delvis enige i sju utsagn. Prosent
-Kilde: Blom, S. (2016). Ibid.
-
-Figur 9.1 illustrerer at holdningene i Norge til
-utvalgte spørsmål om innvandrere er relativt stabile over tid. I den grad det har skjedd endring
-over tid, gikk denne i en mer «innvandrervennlig»
-retning, iallfall fram til 2015. Andelen som sa seg
-helt etter delvis enig i at innvandrere flest misbruker de sosiale velferdsordningene, falt fra 41 pst. i
-2002 til 25 pst. i 2015, mens andelen som var helt
-eller delvis enige i at innvandrere flest er en kilde
-til utrygghet i samfunnet, falt fra 45 til 26 pst. i
-samme periode. I 2016 gikk andelen helt eller delvis enige i disse to utsagnene riktignok opp til hhv.
-30 og 32 pst., men dette er fortsatt lavere enn andelene tidlig i perioden. Oppslutningen om at innvandrere bør ha samme mulighet til arbeid som
-nordmenn, er svært høy, mellom 85 og 90 pst. har
-sagt seg helt eller delvis enige i dette i hele perioden. Andelen som mener at innvandrere gjør en
-nyttig innsats i norsk arbeidsliv, og at innvandrere
-flest beriker det kulturelle livet, var på omkring eller mer enn 70 pst. mellom 2008 og 2015, men falt
-til hhv. 66 og 67 pst. i 2016. Spørsmål om arbeidsinnvandreres bidrag ble tatt inn i 2010, så her er
-tidsserien kortere. Andelen som sa seg helt eller
-delvis enige i dette falt fra 70 pst. 2014 til 63 pst. i
-2016. Alt i alt tyder utviklingen som vises i figur
-9.1 på at holdningene til innvandrere i Norge er
-81
-
-Goerres, A., Karlsen, R. & Kumlin, S. (2016). Reform Pressures and Perceived Welfare State Sustainability: A Comparative Experiment. Paper presentert på ESPAnet-konferansen, 1–3. september 2016, Rotterdam.
-
-relativt stabile, og at endringene i perioden 2002–
-2015 gikk i retning av noe mer positive holdninger. Undersøkelsen fra 2016 viser imidlertid at
-flere uttrykker negative holdninger. Utslagene er
-små, og for de fleste spørsmålene var holdningene
-stadig mer positive i 2016 enn de var i 2002. Funnene i 2016-undersøkelsen må ses i lys av økende
-arbeidsledighet og svakere offentlig økonomi i
-Norge, og sannsynligvis også med den store flyktningtilstrømmingen i 2015. Senere undersøkelser
-vil vise om 2016 var et unntaksår, eller starten på
-en mer varig ending i retning av mer negative
-holdninger til innvandrere.
-Alle påstandene som er vist i figur 9.1, måler
-holdninger til innvandrere. Holdninger til innvandring kan følge et noe annet mønster. I samme
-undersøkelse som den som utgjør grunnlaget for
-figur 9.1, bes respondentene ta stilling til om det
-bør bli lettere eller vanskeligere for flyktninger å
-få adgang til opphold i Norge, eller om dette bør
-være omtrent som i dag. I 2014 skjedde en påfallende endring i svarfordelingen på dette spørsmålet: andelen som mente at det burde bli lettere,
-som hadde ligget på 6–7 pst. siden 2002, økte plutselig til 18 pst. Andelen som mente det burde bli
-vanskeligere, falt fra 42 pst. i 2013 til 28 pst. i 2014.
-Forskerne bak studien knyttet dette til den økte
-oppmerksomheten rundt flyktninger fra krigen i
-Syria. Andelen som mente det burde bli lettere å
-få opphold som flyktning holdt seg høy: 15 pst. ga
-dette svaret i 2015, 12 pst. i 2016. Andelen som
-mente det burde bli vanskeligere, var 33 pst. i
-
-[Side 184]
-
-184
-
-NOU 2017: 2
-
-Kapittel 9
-
-Integrasjon og tillit
-
-2016. Det ser altså ikke ut til at «flyktningkrisen»
-høsten 2015 hadde ført til vesentlig sterkere oppslutning om innstramming da denne undersøkelsen ble gjennomført sommeren 2016.
-Det er likevel andre undersøkelser som tyder
-på at innvandring som fenomen skaper en viss uro
-i den norske befolkningen. TNS Gallup har gjennom flere år gjennomført en undersøkelse de kaller «klimabarometeret». Her bes respondentene
-ta stilling til en liste på 14 temaer og velge de sakene som bekymrer dem mest. I 2016 framhevet
-hele 64 pst. av respondentene innvandring som en
-av de tre største utfordringene landet sto overfor.
-Innvandring var også den utfordringen som ble
-framhevet av flest i 2015, men da var andelen som
-pekte på innvandring svært mye lavere – 38 pst.82
-Undersøkelsen er en av få som er gjennomført
-kort tid etter «flyktningkrisen» i 2015, noe som
-med svært stor sannsynlighet kan forklare den
-markante veksten i andelen som ser innvandring
-som en stor utfordring.
-Merknad fra utvalgets medlem Cindy Horst:
-Utvalgets medlem Cindy Horst vil understreke at
-svært stor oppmerksomhet om disse temaene i
-debatten kan føre til mer restriktive holdninger i
-befolkningen og viser til at en studie som ble gjennomført parallelt i Norge, Sverige og Tyskland i
-2014 og 2015, søkte å studere hva befolkningen i
-de ulike landene oppfattet som de største utfordringene for velferdsstaten.83 Bekymringen knyttet til innvandring og velferdsstatens finansiering
-var sterkest i Norge, noe forskerne knytter til at
-slike spørsmål har vært høyt på dagsorden de senere årene.
-
-9.9
-
-Oppsummering
-
-Migrasjonsmønstre vi har hatt siden 1970-tallet,
-har vært ledsaget av økende sosial og økonomisk
-ulikhet, der innvandrerbefolkningen er overrepresentert i lavinntektsgruppen (se også kap. 7.2).
-En situasjon der kulturell forskjellighet i stor grad
-overlapper med økonomisk sårbarhet, vil gjøre
-det vanskeligere å opprettholde en opplevelse, på
-tvers av grupper i befolkningen, av «å være i
-samme båt».84 Inkludering av nykommere i utdan-
-
-ning og arbeidsliv, sammen med tiltak for kvalifisering og mot diskriminering, har vært sentralt
-for å motvirke en slik utvikling i Norge. Utvalget
-mener at utjevning av levekår gjennom arbeid og
-utdanning stadig bør være en hovedtilnærming
-for å fremme likeverdig deltakelse mellom majoritet og minoriteter. Samtidig kan det argumenteres
-for at utviklingen har vist at dette ikke er tilstrekkelig i seg selv. Det anses i økende grad som legitimt å fastsette noen kriterier for hva som er akseptabel atferd på samfunnets felles arenaer. Slike
-kriterier kan knytte seg til bruk av religiøse symboler, der ansiktstildekkende plagg står i en særstilling, og krav om fritak fra undervisning eller arbeidsoppgaver. I diskusjonen om kulturell og religiøs tilrettelegging står viktige prinsipper mot
-hverandre: Det er grenser for hvor mye staten
-skal legge seg opp i enkeltpersoners tilpasninger,
-men det er også grenser for hvor mye den enkelte
-kan kreve at omgivelsene skal tilpasse seg hans
-eller hennes spesielle behov. Utvalget mener at
-det er legitimt, også innenfor rammene av et liberalt fellesskap, å etablere noen kriterier for atferd
-på felles arenaer. Liberal ideologi legger stor vekt
-på enkeltpersoners autonomi, men i et samfunn
-der mennesker med ulike kulturelle og religiøse
-verdier og praksiser skal leve sammen, må dette
-hensynet balanseres mot en respekt for at det er
-grenser for hva enkeltpersoner kan kreve av omgivelsene. Det norske politiske fellesskapets rett
-til å bevare integriteten i sin livsform, for å bruke
-Michael Walzers uttrykk, tilsier at en tydeligere
-kommunisering av fellesskapets normer kan ha
-en plass også i et liberalt og pluralistisk samfunn.85
-Diskusjoner om konflikttemaer som dette pågår i dag i tilknytning til de konkrete situasjonene
-der beslutninger må tas, typisk på den enkelte
-skolen eller det enkelte NAV-kontoret.86 Utvalget
-vil hevde at det er legitimt og viktig å utvikle noen
-nasjonale retningslinjer for akseptabel atferd på
-viktige fellesarenaer innen utdanningssektoren og
-offentlig tjenesteyting. Lokale saksbehandlere og
-enhetsledere kan ikke forventes å ha kompetanse
-til å diskutere religiøse forbud og påbud med brukerne. Mange vil oppleve det som en lettelse å
-kunne vise til nasjonale retningslinjer som fastslår
-84
-
-82
-
-TNS Gallup (2016). Klimabarometeret TNS Gallups Klimabarometer 2016. Tilgjengelig på http://www.tns-gallup.no/
-83
-Goerres, A., Karlsen, R. & Kumlin, S. (2016). Reform Pressures and Perceived Welfare State Sustainability: A Comparative Experiment. Paper presentert på ESPAnet-konferansen, 1–3. september 2016, Rotterdam.
-
-85
-86
-
-Dette er også en hovedkonklusjon hos Mouritsen, P.
-(2016). Effekten af etnisk heterogenitet og ulighed på generaliseret tillid og velfærdsstatens legitimitet. Notatet er tilgjengelig på www.regjeringen.no/inko-utvalget.
-Walzer, M. (1983). Spheres of Justice: A Defence of Pluralism
-and Equality. New York: Basic Books.
-Se drøfting i NOU 2016: 13, kap. 8.16, om samvittighetsnektelser og trygdeytelser under arbeidsledighet.
-
-[Side 185]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-185
-
-Kapittel 9
-
-hva slags praksis som skal gjelde. Med nasjonale
-retningslinjer kan også den motstanden som eventuelt skapes, rettes mot etater som har bedre forutsetninger for å håndtere dette enn det enkeltaktører på lokalt nivå vanligvis har.
-Dette innebærer videre at innsats for å bekjempe diskriminering på etnisk eller religiøst
-grunnlag må prioriteres, slik at likeverdig deltakelse faktisk er mulig (se kap. 7.5). Det innebærer
-også en kontinuerlig innsats for å styrke den kulturelle kompetansen i etatene som møter individer og familier med minoritetsbakgrunn, slik at
-offentlige tjenester faktisk blir likeverdige. Slike
-tiltak vil være helt sentrale for at innvandrere skal
-kunne utvikle tillit og en opplevelse av tilhørighet.
-En mer tydelig normsending i form av økt bruk av
-retningslinjer må oppfattes som et moderat tiltak.
-Sosialisering og produktiv inkludering i systemer
-som det norske – der man har grunnsikring av
-livsmidler uansett – vil alltid i siste instans være
-avhengig av å få folk «med på laget». Hvis myndighetenes tilnærming oppleves som «assimileringspress», utløses ofte motstand – og kanskje tilbaketrekning og selvsegregering. Troverdige sanksjonsmidler er viktig i en del sammenhenger, men
-positive, aktiviserende tiltak vil ofte fungere
-bedre. Tillit er ofte et resultat av samhandling, felles arenaer og felles problemløsning. Fra minoritetens side vil det trolig handle om at det finnes
-muligheter og åpninger, og at diskriminering ikke
-hindrer likeverdig deltakelse. Fra majoritetens
-side vil det være viktig å se at flertallet av nykommere beveger seg i en retning mot å bli deltakende og velintegrerte, slik studiene av innvandrernes etterkommere langt på vei viser. Samfunnet må utvikle det Amartya Sen kaller mulighetsstrukturer.87 Men individene må også ha evne og
-vilje til å bruke dem. Og mulighetsstrukturene må
-kunne differensieres for å tilrettelegge for personer med svært forskjellige forutsetninger. Det er
-snakk om sosiale investeringer gjennom en kombinasjon av generelle virkemidler og særtiltak.
-Dette er krevende prosesser, men denne tenkningen har vært grunnleggende for den norske modellen.
-Åpen debatt om diskriminering av minoriteter
-på den ene siden og samhandlingsproblemer, verdikonflikter og intern undertrykking i minoriteter
-på den andre siden, er nødvendig for utviklingen
-av samfunnsmessig tillit. Viktige verdikonflikter
-fortjener oppmerksomhet og saklig debatt. Trolig
-
-betyr debatten i seg selv mye for gjensidig tilvenning og nytenkning, selv om mange på kort sikt
-kan være pessimistiske på grunn av polarisering
-og høy temperatur. Konflikter kan ikke avskaffes,
-og de utgjør heller ikke nødvendigvis en trussel
-mot det tillitsbaserte samfunnet. Historisk har
-konflikter vært en brekkstang for kompromiss,
-samhandling og tilrettelegging. Når det gjelder å
-sikre at etterkommere av innvandrere ikke stiller
-med et dårligere utgangspunkt enn majoritetens
-barn, vil utdanning være avgjørende. Skolen vil
-fortsette å ha som viktig funksjon å sikre kunnskap som jevner ut mulighetene for samfunnsdeltakelse og læring samt sørge for verdi- og normmessig forankring som skal styrke følelsen av
-gjensidig tillit og tilhørighet.88 For ungdom med
-innvandrerbakgrunn kan det å lykkes i utdanningen være særlig viktig, fordi de kan stå svakere
-enn majoritetsungdom når det gjelder nettverk og
-andre ressurser («kulturell og sosial kapital»).
-Studier presentert i kapittel 7.5 viser også at
-norskfødte med innvandrerbakgrunn med høyere utdanning fra Norge i mindre grad enn etterkommere med mindre utdanning opplever negativ
-forskjellsbehandling på arbeidsmarkedet.
-Tillit og medborgerlig engasjement er betingelser for videreføring av et levedyktig demokrati. En viktig del av det å skape mulighetsstrukturer vil være å tilrettelegge for at nykommere
-kan få tilgang til ressurser som bistår dem til å
-delta i sivilsamfunnet.89 Den liberale rettsstaten
-skal være en garantist for innbyggernes likebehandling og frihet. Men de strukturene som skal
-sikre rettsstaten, må også reproduseres gjennom
-tilslutning, deltakelse og ansvarliggjøring hos
-hver enkelt innbygger om igjen og om igjen. Derfor er inkludering av nykommere i dette verdigrunnlaget så avgjørende.
-Innvandring i stor skala til veletablerte og omfattende velferdsstater er ennå et relativt nytt fenomen. Også i forskningen vet man fortsatt lite om
-mange aspekter ved dagens situasjon, og det er få
-holdepunkter for å si noe om hvordan situasjonen
-vil utvikle seg på sikt. Gjennomgangen av
-forskning viser like fullt en viss uro i befolkningen: Flere ønsker å reservere velferdsstatens goder bare for dem som har lang botid og/eller
-statsborgerskap, og relativt mange er bekymret
-for velferdsstatens bærekraft i en situasjon med
-
-87
-
-89
-
-Sen, A. (1993). Capability and Well-Being. I Nussbaum, M.
-& Sen, A. (red.): The Quality of Life (s. 30-53). New York:
-Oxford University Press.
-
-88
-
-Seland, I. (2011). Tilhørighet, rettighet, likhet. Nasjonal identitet og integrasjon i velferdsstaten gjennom grunnskolen
-1970–2008. Doktoravhandling (PhD), Universitetet i Oslo.
-Hagelund, A., & Loga, J. (2009). Frivillighet, innvandring,
-integrasjon. En kunnskapsoversikt. Senter for forskning på
-sivilsamfunn og frivillig sektor, rapport 2009:1.
-
-[Side 186]
-
-186
-
-Kapittel 9
-
-NOU 2017: 2
-Integrasjon og tillit
-
-høy innvandring. Halvparten av befolkningen er
-skeptiske til muslimer, samtidig som innvandring
-av nettopp denne gruppen har økt med flyktningtilstrømningen. Den sosiale ulikheten øker også
-vesentlig ved at de som kommer, har lave kvalifikasjoner og dermed problemer med å komme i ordinært arbeid, en problemstilling som vil bli mer
-sentral i en periode med begrenset økonomisk
-vekst. Jo mer økonomisk, kulturell og religiøs
-ulikhet overlapper, og jo sterkere annerledeshet
-på disse områdene forbindes med marginalisering
-på arbeidsmarkedet, jo mer utfordrende vil det
-være å opprettholde den samfunnsmessige tilliten.
-På den andre siden slutter befolkningen i stor
-grad opp om velferdsordningene, og et klart flertall har positive holdninger til innvandrere. Med
-dette som utgangspunkt kan man tenke seg framtidsscenarioer der den inkluderende, tillitsbaserte
-velferdsstaten kan videreføres i et mer mangfoldig
-samfunn, men også scenarioer der mistilliten mellom grupper øker, skattebetalingsviljen svekkes
-og nykommere ekskluderes fra sentrale goder i
-samfunnet (se kap. 11).
-Utvalget legger til grunn at det er mulig å opprettholde opplevelsen av tillit og samhold i det
-norske samfunnet, også under forhold med høy
-innvandring, men anerkjenner at dette kan være
-krevende. For å lykkes er to forhold avgjørende:
-Omfanget av innvandringen må være i samsvar
-med absorberingskapasiteten i arbeidsliv og velferdssystem, og nykommere må inkluderes på de
-sentrale arenaene i samfunnet. Det er også viktig
-at innvandrere og etterkommere tilegner seg de
-kulturelle forutsetningene for den norske samfunnskontrakten. Heri ligger det store og løpende
-utfordringer for norske politikere, og her finnes
-det knapt omforente eller klart treffsikre redskaper. Norske politikere har på tvers av blokkene
-støttet både en videreføring av grunntrekkene i
-den norske velferdsmodellen og en humanitært
-orientert flyktningpolitikk basert på gjeldende internasjonale konvensjoner. Det vil også i fortsettelsen måtte være en kontinuerlig balansegang
-mellom disse hensynene.
-Gitt premisset om å opprettholde bærekraften
-i det norske velferdssystemet bør en god politikk
-for å skape tillit og dempe potensialet for konflikt
-og polarisering etter utvalgets mening inneholde:
-1. Levekårspolitikk på områder som helse, bolig
-og økonomisk utjevning – først og fremst gjennom kvalifisering og aktivisering for arbeid.
-2. Grunnleggende utdanning – tilgang til språkopplæring og samfunnskunnskap, og kvalifi-
-
-3.
-4.
-5.
-
-6.
-7.
-
-sering som tar hensyn til individuelt utgangspunkt.
-Tilretteleggelse for representasjon – aktiv inkludering i viktige deler av samfunnsmaskineriet (organisasjonslivet, politikk og mediene).
-Aktiv motarbeiding av diskriminering – en individbasert politikk med vekt på enkeltmenneskets plikter og rettigheter.
-Tiltak for å skape samhandlingsarenaer, knyttet til reelle oppgaver og problemer, for å skape
-sjanser til å bidra/delta, muligheter til å ta ansvar, f.eks. gjennom sivilsamfunnet, innsats
-overfor andre innvandrere etc.
-Tydeligere kommunisering av forventninger
-fra myndighetens side.
-Videreutvikling og konkretisering av de grunnleggende kravene til norsk medborgerskap; etterlevelse av demokrati, likestilling og barns
-rettigheter samt forventet deltakelse i arbeidsliv og sivilsamfunn. Tettere oppfølging av trossamfunn som mottar offentlig pengestøtte.
-
-Utvalget anbefaler følgelig å satse tungt på sosialisering, kvalifisering og inkludering gjennom det
-norske arbeids- og velferdssystemets viktigste institusjoner. I tillegg ønsker utvalget at myndighetene utvikler klarere nasjonale retningslinjer når
-det gjelder krav til tilpasning på fellesarenaer som
-skole og arbeidsliv.
-Merknad fra utvalgets medlem Cindy Horst:
-Utvalgets medlem Cindy Horst vil på prinsipielt
-grunnlag advare mot mer offensive tiltak for å lovregulere minoritetens religiøse og kulturelle praksis. Eventuelle retningslinjer må videre baseres på
-forskning om hva utfordringene er og hvilket omfang de har. Dette for å unngå store offentlige debatter om praksiser som er marginale i det norske
-samfunnet, noe som kan virke stigmatiserende og
-ikke bidrar til felles problemdefinering og -løsning.
-Merknad fra utvalgets medlemmer Asle Toje og
-Erling Holmøy:
-Utvalgets medlemmer Asle Toje og Erling
-Holmøy vil i større grad enn teksten i kapittel 9.9
-understreke individenes rett og plikt til å integrere seg i det eksisterende kulturfellesskapet i
-landet de har utvandret til. Det eksisterer en bred
-kritikk av multikulturalisme som samfunnsmodell,90 som viser at normaliseringen av «å stå med
-ett bein i to kulturer» er aktivt integrasjonshemmende. Utvalgsmedlemmene mener at en større
+Sett fra arbeidsgiverens ståsted, har nesten enhver arbeidstaker med utenlandsk utdanning og/eller utenlandsk arbeidserfaring usikker produktivitet, i hvert fall så lenge han eller hun mangler arbeidserfaring eller utdanning fra Norge. Det finnes forskning som viser at innvandrernes tidligere erfaring fra andre land ikke gir særlig avkastning i Norge.[^479] Usikker produktivitet knyttet til manglende eller svake norskkunnskaper vil i hovedsak være et midlertidig fenomen, men det er likevel en reell problemstilling ved ansettelse i mange jobber. Samtidig gjør både lønnsnivået og stillingsvernet det risikabelt for arbeidsgivere å ansette folk hvis usikkerheten rundt produktiviteten er stor. Det gjelder også hvis en mulig arbeidstaker har lært noe norsk, men arbeidsgiver er usikker på om vedkommende klarer å bedre norskferdighetene. Usikkerhet knyttet til produktivitet kan også føre til at arbeidsgivere stiller for høye krav til språkkunnskaper eller andre formelle kvalifikasjoner, for å være på den sikre siden.
+
+Noen av vurderingene som skjer under en rekrutteringsprosess, handler imidlertid ikke bare om formelle kvalifikasjoner, men også om sosiale ferdigheter og personlig egnethet samt hvorvidt arbeidstakeren framstår som pålitelig og samvittighetsfull og har forståelse for de kulturelle kodene i arbeidslivet. Dette gjelder for jobber på alle kvalifikasjonsnivåer, men for ufaglærte stillinger med små krav til formelle kvalifikasjoner utover grunnleggende ferdigheter vil disse faktorene ofte være utslagsgivende. Når det gjelder flyktninger og andre personer med ingen eller liten arbeidserfaring i Norge, kan arbeidsgivere synes det er spesielt vanskelig å vurdere hvorvidt den enkelte arbeidssøkeren har disse egenskapene eller ferdighetene.
+
+Usikkerhet om kvalifikasjoner kan gi utslag i noe som framstår som forskjellsbehandling og som påvirker arbeidsgivernes vurderinger av innvandrere som søker jobb. Forskning som omtales i kapittel 7.5 viser at diskriminering forekommer på det norske arbeidsmarkedet. Annen forskning viser i tillegg at mange arbeidsgivere og ledere overvurderer sin innsikt ved vurdering av arbeidssøkere.[^480] De faller ofte tilbake på subjektive vurderinger og «magefølelse». I slike tilfeller kan ulike typer fordommer spille inn.
+
+Informasjonsproblemene berører ikke bare arbeidstakere som ikke får jobb, men også arbeidsgiverne selv, som risikerer å ikke ansette arbeidssøkere med gode kvalifikasjoner, noe som i sin tur kan begrense veksten i bedriften. Det er eksempler på bedrifter, særlig store bedrifter, som klarer å utvikle strategier for å rekruttere innvandrere og tilpasse deres kompetanse til bedriftens behov. For andre – muligens de fleste – arbeidsgivere kan utfordringene være for store til at de klarer å håndtere dem alene.
+
+Utvalget mener at noen av problemet knyttet til integrering av flyktninger og andre innvandrere på arbeidsmarkedet dreier seg om informasjonsproblemer som det er vanskelig å håndtere alene for den enkelte arbeidsgiveren. Informasjonsproblemer som skaper friksjon på arbeidsmarkedet, kan være en del av forklaringen på at innvandrere har lavere sysselsettingsrater enn resten av befolkningen. Bedre løsninger for godkjenning av utenlandske kvalifikasjoner og styrking av mulighetene for flyktninger og andre innvandrere til å ta utdanning kan bidra til å løse noen av problemene knyttet til arbeidsgivernes vurdering av *formelle* kvalifikasjoner (se kap. 10.3.4). Det finnes imidlertid ikke like klare eller enkle løsninger for vanskeligheter knyttet til å vurdere de «mykere» kvalifikasjonene, som uten tvil er viktige i rekrutteringsprosesser.
+
+Utvalget mener at bevisste, reflekterte holdninger til rekrutteringsstrategier og -verktøy kan minske feilvurderingene og feilansettelsene og bidra til at arbeidsgivere i mindre grad overser potensialet i flyktningers arbeidstilbud. Dette krever imidlertid kunnskap. Her mener utvalget at både myndighetene og partene, særlig arbeidsgiver- og bransjeorganisasjoner, kan gjøre en innsats, ved å veilede og bistå arbeidsgiverne. Stat og kommune som arbeidsgivere bør også være forbilder i arbeidet med å sikre god rekrutteringspraksis til offentlige stillinger. Utdanning fra Norge er også viktig for å signalisere kompetanse og produktivitet.
+
+*Definisjon av behov og løsninger for enkelte bransjer*
+
+Utvalget mener at myndighetene kan bidra til å gjøre det lettere for arbeidsgivere å ta i bruk flyktningers arbeidskraftressurser ved å etablere møteplasser hvor partene, bransjeorganisasjoner og offentlige instanser som NAV, utdanningsmyndigheter og utdanningsinstitusjoner kan komme sammen for å drøfte kompetansebehov i enkelte bransjer. Det kan være en fordel å konsentrere seg om bransjer, yrker eller regioner hvor det er tegn til mangel på kvalifisert arbeidskraft og hvor man forventer at det kan høstes størst gevinst i form av mest/best mulige jobber for flyktninger, f.eks. helsefagarbeidere, barne- og ungdomsarbeidere i barnehager, eller håndverksfag (se også kap. 5.6.2). Hvis arbeidsgivere gjennom partene i arbeidslivet og bransjeorganisasjoner klarer å formidle hvilken kompetanse eller ferdigheter som de opplever mangel på, blir det lettere å opprette eller tilpasse opplærings- og utdanningstilbud, arbeidsmarkedstiltak eller kombinasjonsløsninger til de konkrete behovene i de enkelte bransjene (se kap. 10.3.7).
+
+Det er vesentlig at arbeidsgivere involveres, fordi verken saksbehandlere i NAV eller utdanningsinstitusjoner har like god kunnskap om delarbeidsmarkeder som de som selv jobber i bransjene. Samarbeid med partene i arbeidslivet og mer spesifikke bransjeorganisasjoner kan være viktig for å få fram gode løsninger. Boks 10.2 gir eksempler på ordninger fra Danmark og Sverige som arbeidsgiverne har vært med på å utvikle. Utvalget mener i tillegg at når staten eller kommunene selv er arbeidsgivere som mangler kvalifisert arbeidskraft, bør de gå foran med gode eksempler også på dette området.
+
+1.  **Involvering av arbeidsgivere i Danmark og Sverige**
+
+*Integrationsgrunduddannelse (IGU) i Danmark:* I Danmark har regjeringen og partene i arbeidslivet inngått en avtale om arbeidsmarkedsintegrering for flyktninger som innfører en integrasjonsgrunnutdanning (IGU) for flyktninger og familiegjenforente mellom 18 og 40 år. Ordningen kombinerer lærlinglønn med opplæring som støttes av en offentlig stønad. Lønnssatsene er de til enhver tid gjeldende satser for «erhvervsgrunduddannelse» (lærlingsatser) i de respektive overenskomstområdene, eller elevsatser i virksomheter uten kollektiv overenskomst. Øvrige ansettelsesvilkår følger av de kollektive avtalene eller reglene som gjelder. Deltakeren mottar den nye IGU-skoleytelsen fra kommunen for undervisning i arbeidstiden. Den nye ordningen er tidsbegrenset, med varighet opp til to år, inkludert et 20 ukers undervisningsopplegg på full tid (32–37 timer i uken) fordelt over toårsperioden, og skal fungere som et supplement til arbeidsmarkedstiltak som lønnstilskudd, arbeidspraksis og kvalifiseringsprogram. Arbeidsavtalen skal inngås direkte mellom bedriften og den enkelte arbeidstakeren. Private bedrifter som ansetter flyktninger og familiegjenforente i ordinære stillinger eller under IGU-ordningen, får en bonus på kr 20 000 etter seks måneder og ytterligere kr 20 000 etter to år, når IGU-løpet er fullført. For å hindre at ordningen går ut over annen arbeidskraft, og for å vurdere om ordningen gir de ønskede sysselsettingseffektene, skal det foretas en årlig evaluering.
+
+*Snabbspår i Sverige:* For å få nyankomne innvandrere raskere i arbeid har arbeidsmarkedsmyndighetene i Sverige ført samtaler med organisasjonene i arbeidslivet for å etablere raskere prosesser for bosatte innvandrere/flyktninger med en utdannings- eller yrkesbakgrunn som det er behov for i Sverige. Utgangspunktet er at det kan ta lang tid å få godkjent og anerkjent utenlandsk yrkesutdanning for det nasjonale arbeidsmarkedet, men at kravene og prosessene for å få dette til kan variere mellom ulike yrker og bransjer. Bakteppet for samtalene har også vært identifiserte «brist-yrker», dvs. yrker hvor det er problemer med å dekke etterspørselen i det svenske arbeidsmarkedet.
+
+Målet med snabbspår er at 1) innvandrere/flyktninger skal komme raskere i jobb; 2) deres medbrakte kompetanse skal brukes i riktige jobber; og 3) bransjer med behov for arbeidskraft skal få tilgang til etterspurt kompetanse.
+
+Snabbspår gjennomføres som et organisert samarbeid mellom arbeidsformidlingen og organisasjonene på bransjenivå, og bestanddeler kan være:
+
+- Tidlig svenskopplæring, med tilbud allerede i asylmottak
+
+- Tidlig kartlegging og vurdering av erfaring, kompetanse og motivasjon
+
+- Godkjenning av utdanning og yrkeskompetanse etter bransjevise krav
+
+- Yrkes- og utdanningsveiledning
+
+- Støtte til arbeidsgivere for at de skal finne relevante deltakere
+
+- Svenskopplæring som er relevant for yrkesområdet
+
+- Kompletterende utdanning ved behov
+
+- Praksis eller arbeid kombinert med svenskopplæring eller kompletterende kurs
+
+- Språkstøtte, veiledere og mentorer på arbeidsplassen
+
+http://www.regeringen.se/regeringens-politik/ nyanlandas-etablering/snabbspar---snabbare-etablering-av-nyanlanda/ og https://www.retsinformation.dk/Forms/ R0710.aspx?id=183388
+
+**\[Boks slutt\]**
+
+1.  **Tiltak som kombinerer opplæring og arbeid**
+
+Som det framgår av kapittel 10.2.2, bør behov og muligheter for videre utdanning for den enkelte kartlegges, avklares og påbegynnes så tidlig som mulig. Så langt som mulig bør nødvendig opplæring/utdanning påbegynnes og gjennomføres i introduksjonsprogrammet, og det er nå åpnet for mulighet til å ta hele videregående opplæring innenfor programmet. Det er også åpnet for at flyktninger med svak utdanningsbakgrunn fra hjemlandet skal kunne få utvidet introduksjonsperioden til inntil fire år.[^481]
+
+Mange flyktninger kan imidlertid ha behov for opplæring og/eller tiltak med praksis i arbeidslivet etter introduksjonsperioden. Utvalget mener at erfaring i norsk arbeidsliv kan være et viktig og nyttig supplement til opplæring/utdanning for å komme i jobb. Utvalget anbefaler at løsninger som kombinerer utdanning og arbeid, i større grad bør vurderes og tas i bruk, men erkjenner at dette er komplisert, se også 10.3.5.
+
+Mange flyktninger kan i kortere eller lengre perioder være i arbeid – også i form av deltidsarbeid- og midlertidige stillinger – avbrutt av perioder som arbeidssøkere. Mange steder i landet er det satt i gang samarbeidsprosjekter mellom NAV og fylkeskommunene om videregående opplæring for denne gruppen (se boks 10.3). En gjennomgang av slike samarbeidsprosjekter finner at de sjelden overlever forsøksstadiet.[^482] Slike kombinasjonsmodeller krever samarbeid mellom flere sektorer og etater, og kan være utfordrende å få til bl.a. på grunn av ulik styringsstruktur, organisering og regelverk.[^483] Noen slike innsatser har blitt evaluert, men ikke på en slik måte at det er lett å fastslå hva som fungerer bedre enn annen type innsats. Utvalget anbefaler at det legges opp til systematisk utprøving av alternative modeller for å kombinere opplæring og arbeid, og at disse bør effektevalueres (se også kap. 10.5).
+
+1.  **Eksempler på samarbeidsprosjekter/kombinasjonsløsninger**
+
+I Sogn og Fjordane finansierer NAV, én kommune (Gloppen eller Flora) og fylkeskommunen et samarbeidsprosjekt som er kalt Helsefagarbeiderklassen, «Gloppen-modellen». Fylkeskommunen lager et utvidet opplæringstilbud, NAV velger ut egnede kandidater, og kommunene tilbyr lærlingplasser. Målgruppen er innvandrere over 25 år, primært flyktninger med kun grunnskoleutdanning. Finansieringen av livsoppholdet til deltakerne har vært delt mellom lønn for deltakernes deltidsarbeid, stipend fra Lånekassen og støtte fra NAV. Helsefagarbeiderklassen er ikke evaluert, men kan vise til gode resultater. Forsøksklassen startet høsten 2013, og våren 2015 hadde 11 av de 12 elevene bestått de to første årene, alle med en snittkarakter på over 4. Kun én kandidat hadde sluttet underveis.
+
+Kilde: Proba (2015). *Samarbeid mellom fylkeskommunen og NAV om videregående opplæring for voksne arbeidssøker* Rapport 2015:04, og samtale med rektor på Firda videregående skole; Distriktssenteret (2016). *Nytenkende inkludering gir god rekruttering*, https://distriktssenteret.no
+
+NAV Oslo innledet et samarbeid med Oslo voksenopplæring i 2010, der motiverte voksne innvandrere fikk godkjent deltakelse i videregående opplæring som AMO i 10 + 6 måneder. De hadde deretter en kort periode uten livsoppholdsytelser før de gikk over i en lærlingperiode og var lærlinger i 2 år. I løpet av 4 år hadde de fått fagbrev. Dette begynte først med et kull med helsefagarbeidere, og senere har det også vært oppstart for et kull med barne- og ungdomsarbeidere og et kull med kokk- og servitørutdanning. Erfaringene er at de aller fleste gjennomfører og at fagbrev gir arbeid etter fullført utdanning.
+
+Kilde: Omtalen baserer seg på innspill fra Arbeids- og velferdsdirektoratet.
+
+Levanger voksenopplæring har utviklet en modell for praksisrettede fagkurs integrert i norskopplæring. Tilbudet er utviklet gjennom et samarbeid mellom Levanger kommune, NAV, SINTEF og utvalgte arbeidsgivere. Fagkursene startet opp i 2014 og retter seg mot henholdsvis helse- og renholdsfag. Målgruppen er motiverte deltakere i introduksjonsprogrammet som har liten eller ingen skolegang fra hjemlandet, først og fremst kvinner, hvorav mange er analfabeter. Deltakerne får introduksjonsprogram over tre år som består av norskopplæring og arbeidspraksis innenfor helse/renhold, med en fagplan og veileder på en arbeidsplass. Frikjøp av veiledere på praksisplassen finansieres av NAV. Etter 1 ½ år er flere av prosjektdeltakerne nå i ordinær jobb. SINTEF er rådgiver og sikrer dokumentasjon av resultatene.
+
+Kilde: Håpnes, T. (2016). *Innvandrerkvinner klar for jobb på rekordtid*, http://www.sintef.no; Innlegg fra Levanger kommune på FARVE-konferansen
+
+**\[Boks slutt\]**
+
+Det lar seg i hovedsak ikke gjøre å ta utdanning samtidig som man mottar sosialhjelp eller andre velferdsytelser. Dette må sees i sammenheng med at det allerede finnes egne finansieringsordninger for utdanning (Lånekassen) og at de statlige og kommunale inntektssikringsordningene som administreres av NAV, har et annet formål. Det kan imidlertid virke lite attraktivt å satse på utdanning hvis studiefinansiering via Lånekassen er mindre økonomisk gunstig enn ytelser fra NAV (se kap. 4.3.4). Dette gjelder ikke bare for innvandrere, og eventuell særbehandling for flyktninger og andre innvandrere ville være uheldig. Utvalget tar ikke stilling til hvordan deltakere i opplæringstiltak, som kombinerer utdanning og praksis, skal sikres livsopphold, og viser til at det, som nevnt i kapittel 10.3.4, skal settes ned en ekspertgruppe som skal utrede dette for voksne som tar grunnskole eller videregående opplæring.[^484]
+
+*Merknad fra utvalgets medlem Asle Toje:*
+
+Utvalgets medlem Asle Toje påpeker at utvalget burde ha betont det åpenbare problemet med «kvalifisering som universalløsning». Tvert imot er det fare for at utvalget skaper forhåpninger til denne løsningen som ved nærmere ettersyn ikke vil leve opp til. For at dette skal fungere må innvandreren kvalifiseres til å bli like effektive som norske arbeidere. Dette er usannsynlig, på grensen til utenkelig, siden innvandrerne i betydelig grad er lavkvalifisert, lavskolert arbeidskraft som ankommer i voksen alder. Dessuten er norske trygder så sjenerøse at de virker som et disinsentiv for en selvforbedringsprosess av slike episke proporsjoner. Utvalget kunne ha påpekt at den eneste måten «kvalifiseringslinjen» ville fungere på, er dersom Norge tok til å håndplukke etterspurt arbeidskraft (slik blant annet Canada gjør) i stedet for asylinnvandringens selv-selektering. Dette ble vurdert å ligge utenfor mandatet. Vi må derfor anta at den høye innvandringen vil være omtrent like kvalifiserte som de som alt har kommet. Det er ikke tvil om at «kvalifiseringslinjen» er hva politikere i alle leire ønsker. Det er kanskje derfor mandatet konkluderer på vegne av utvalget: «For at Norge skal kunne opprettholde velferdsordningene på et nivå og med en standard vi har vært vant til, må innvandrere til Norge raskt komme i arbeid og opprettholde høy sysselsetting over tid.» Hva utvalget burde ha skrevet mer om, er hvorvidt dette er realistisk? Det er det trolig ikke. Troen på at Norge vil produsere de samme verdiene med en betydelig lavere kvalifisert arbeidsstyrke er ønsketenkning. Det er ingen ting i rapporten som tilsier at utdanning vil hjelpe så det monner overfor godt voksne innvandrere som ofte mangler grunnskole og grunnleggende språklige ferdigheter. Altså håper utvalget egentlig på at lavt kvalifiserte innvandrere vil komme i arbeid til høye norske lønninger som deres verdiskaping ikke tilsier. Dette strider mot de økonomiske tyngdelovene. Svakhetene ved «kvalifiseringslinjen» er en nevneverdig innsikt siden det politiske etablissementets foretrukne løsning (over) blir devaluert som løsning med stor L. I utvalgsmedlemmets øyne er dette den kanskje viktigste innsikten fra utvalgets arbeid: Problemet er at storstilt lavkvalifisert innvandring til en av verdens mest høyskolerte og produktive økonomier vil ikke være bærekraftig fordi vi ikke vil makte å skolere en tilstrekkelig andel voksne lavskolerte mennesker til et nivå der deres arbeidskraft er effektiv nok til å rettferdiggjøre et norsk lønnsnivå. Siden innvandringen vil være høy, vil det ikke være bærekraftig å trygde disse inn i middelklassen. Den åpenbare konklusjonen er at de langsiktige konsekvenser av høy innvandring, vil være den «etnisk fragmenterte underklasse», som Maktutredningen av 2003 så konturene av.[^485]
+
+1.  **Arbeid og insentiver**
+
+Utvalget er bedt om å
+
+\[…\] analysere og vurdere om gjeldende generelle inntektssikringsordninger\[…\] og annet offentlig tjenestetilbud er hensiktsmessig utformet og dimensjonert i en situasjon der flyktninger og deres familie utgjør en stor andel av innvandringen.
+
+Lavere sysselsettingsrater blant flyktninger medfører at denne gruppen er overrepresentert som mottakere av en rekke velferdsytelser og -tjenester (se kap. 5 og 6). Mindre grad av selvforsørgelse blant innvandrere, og en tendens til økende trygdebruk over lengre botid, innebærer en tilleggsutfordring for velferdsstatens bærekraft på lengre sikt (se kap. 8).
+
+Som diskutert tidligere i denne utredningen, er det to hovedforklaringer på dette mønsteret. Den ene er at terskelen inn i arbeidsmarkedet er høy i Norge. Den andre er at velferdsytelsene i Norge er relativt høye, slik at det oppstår uheldige insentiver. For en del mennesker kan det være lite å tjene på å være i arbeid framfor å motta offentlige ytelser. Dette har også sammenheng med utformingen av skattesystemet, og gjelder særlig personer som har valget mellom å motta ytelser eller arbeide med lav lønn. Vurderingene i kapittel 10.3, og i noen grad 10.2, knytter seg til hvordan flere kan hjelpes over terskelen inn i arbeidsmarkedet. Dette kapitlet ser på hvordan mulige uheldige insentiveffekter av stønadssystemet kan motvirkes.
+
+1.  **Velferdsytelser**
+
+Det er flere måter å dempe uheldige insentivvirkninger på innenfor ytelsessystemet: gjennom å redusere ytelsene, gjennom strengere inngangsvilkår og gjennom strengere aktivitetskrav for mottakere. I tillegg til å dempe uheldige insentiver vil reduserte ytelser og strengere inngangsvilkår ha en direkte effekt på velferdsstatens utgifter.
+
+Den sentrale tilnærmingen til sosialpolitikken i NOU 2011: 7 ble omtalt som *aktiviseringsalternativet*. Hovedprinsippet var å endre alle velferdsstatens ordninger på en slik måte at aktivitet skulle lønne seg. Familier som forsørges av personer som potensielt vil være ansatt i lavt betalte stillinger, vil ha lite å tjene på at disse personene er yrkesaktive framfor ytelsesmottakere. Siden innvandrere er overrepresentert i lavlønnsyrker, vil dette gjelde i noe større grad for innvandrere enn for andre. På denne bakgrunnen ble det i NOU 2011: 7 foreslått å innføre aktivitetskrav i overgangsstønad til enslig mor eller far når det yngste barnet fylte ett år (ikke tre år som tidligere), å begrense antall perioder som den enkelte kan motta overgangsstønad, å utvide tiltak med gratis kjernetid i barnehager, å fase ut kontantstøtten, å avvikle ektefelletilleggene i uførepensjonen og å redusere barnetilleggene. Flere av disse forslagene ble tatt opp i etterkant av utredningen. Blant annet er aktivitetskrav ved overgangsstønad skjerpet, gratis kjernetid i barnehage er innført i hele landet og det er satt et tak på forsørgertilleggene i uførepensjonen. Kontantstøtten er avviklet for toåringer, men økt for ettåringer.
+
+Ifølge en analyse fra NAV ser satsøkningen for kontantstøtten for ettåringer ut til å ha direkte effekt på sysselsettingen til mødre med ettåringer, i den forstand at sysselsettingen ble redusert med 5–6 prosentenheter. Utslaget var større for mødre med innvandrerbakgrunn, noe som i stor grad ser ut til å være en konsekvens av at kvinner med innvandrerbakgrunn oftere jobber i lavlønnsyrker.[^486] Selv om kontantstøtten er redusert fra to til ett år, tyder disse tallene altså på at den fortsatt bidrar til å holde kvinner utenfor arbeidsstyrken, og at dette gjelder innvandrerkvinner i langt større grad enn kvinner i majoritetsbefolkningen.
+
+Høsten 2014 ble ordningen med gratis kjernetid i barnehager inntektsprøvd i bydelen Gamle Oslo, i Drammen og i bydelen Årstad i Bergen. Det ble samtidig stilt krav om aktivitet for foreldre. En rapport finner at foreldre opplever aktivitetsplikten som en mulighet til å lære norsk og dermed kunne følge opp barna i barnehage og skole slik de gjerne vil.[^487]
+
+*Reduserte ytelser*
+
+Strategien med ytelsesskutt kan stimulere til at flere personer tilbyr sin arbeidskraft, fordi kuttene gjør det mer lønnsomt å jobbe. Strategien har også sine begrensninger. For de som får ytelsene sine redusert og som reelt ikke er i stand til å forsørge seg selv gjennom betalt arbeid, vil kuttene først og fremst redusere inntekten. Dette illustreres blant annet i evalueringen av innføringen av «starthjælp» i Danmark. Sysselsettingen økte blant innvandrere som fikk starthjælp i stedet for den høyere kontanthjelpen, men levekårsutfordringene ble også betydelig større for mottakerne av starthjælp som ikke lyktes i å skaffe en jobb.[^488]
+
+Det å ha vedvarende lavinntekt kan i seg selv bidra til å forsterke marginalisering. Lavinntekt eller fattigdom gjør det vanskelig å delta på de sentrale arenaene i samfunnet. Barn som vokser opp med lav inntekt deltar mindre i organiserte fritidsaktiviteter[^489] og har større risiko enn andre for å bli stående utenfor arbeidslivet som voksne.[^490] Å leve med vedvarende lav inntekt er dessuten ressurskrevende, slik at familier kan komme til å bruke mye tid og krefter bare på å håndtere den dårlige økonomien og kompensere for materielt dårlige levekår. Rene kutt i velferdsytelser kan bidra til å få flere i jobb, men for dem som forblir mottakere, kan lavinntektssituasjonen komme til å undergrave integreringen på sikt. Dette er et reelt dilemma i utformingen av ytelsessystemet.
+
+I NOU 2011: 7 ble det foreslått å erstatte kontantytelser med tjenester som en delvis løsning på dette dilemmaet. Gjennom å gi tjenester kan man hindre eller dempe noen av følgene av fattigdom, samtidig som man ikke undergraver insentiver til arbeid, fordi arbeidsinntekt vil gi større økonomisk frihet. Eksempler på politiske tiltak under en slik strategi var å erstatte kontantstøtten med mer utstrakt bruk av gratis kjernetid i barnehager eller å erstatte barnetillegget i uførepensjonen med gratis tilgang til aktiviteter for barn. Utvalget mener at denne tilnærmingen kan utvikles videre, særlig med tanke på barnefamilier, hvor man nettopp ønsker å legge til rette for barns deltakelse, uten å undergrave arbeidsinsentivene for foreldrene. Gratis transport og fritids- og ferieaktiviteter for barn er mulige tjenester som kan tilbys hvis kontantytelsene til familiene reduseres.
+
+*Strengere inngangsvilkår*
+
+Regjeringen lanserte sommeren 2016 et høringsnotat som begrenser flyktningers og andre innvandreres rettigheter i ytelsessystemet på flere måter, slik at flyktninger i større grad likebehandles med norske statsborgere og andre med lovlig opphold i Norge (se boks 10.4). For det første foreslås det – noe som gjelder flere av folketrygdens ytelser – å avvikle den positive særbehandlingen av flyktninger og å erstatte retten til garanterte minsteytelser ved alder og uførhet med ordningen med supplerende stønad. For det andre foreslår regjeringen å innføre et botidskrav på fem år i kontantstøtten og å øke botidskravet fra tre til fem år i alderspensjonen, uføretrygden, arbeidsavklaringspengene og stønaden til enslig mor eller far. Utvalget merker seg innholdet i høringsnotatet, og anerkjenner at det høye forbruket av enkelte av disse ytelsene, sammen med risikoen for stønadseksport, tilsier at slike innstramminger kan være nødvendig. Høringsnotatets beregninger av innsparinger som følge av denne omleggingen er imidlertid svært usikre, og de antatte innsparingene kommer hovedsakelig som følge av at supplerende stønad er en behovsprøvd ordning uten forsørgertillegg. Det er også stor usikkerhet knyttet til hvordan utbetalingene av økonomisk sosialhjelp vil bli påvirket av de foreslåtte endringene, men det vil trolig føre til økte utgifter for kommunene. Utvalget understreker derfor at det er viktig å evaluere virkningene av de foreslåtte endringene i trygdeordningene, slik det legges opp til i høringsnotatet. Utvalget understreker videre at en strategi med begrensede rettigheter for flyktninger og andre innvandrere bør suppleres med en fortsatt strategi for å investere i innvandreres kompetanse.
+
+1.  **Høringsnotat om endringer i folketrygden**
+
+For å ha rett til en del folketrygdytelser, inkludert alderspensjon, uføretrygd, arbeidsavklaringspenger og stønad til enslig mor eller far, stilles det normalt krav til kvalifiseringsperioder i form av forutgående medlemskap i folketrygden eller trygdetid. Alderspensjon og uføretrygd har videre bestemmelser om at trygdetid er en faktor i beregningen av ytelsen, slik at ytelsen reduseres forholdsmessig dersom man har mindre enn 40 års trygdetid.
+
+For personer som har fått opphold i Norge med status som flyktning, gjøres det unntak fra kravet til kvalifiseringsperiode og bestemmelsene om avkorting i ytelsene på grunn av manglende trygdetid. Det forutsettes at de andre vilkårene for de enkelte ytelsene er oppfylt, herunder kravene til alder, sykdom, redusert inntektsevne mv. Bakgrunnen for særreglene for flyktninger er at personer som har måttet flykte fra opprinnelseslandet, sjelden eller aldri vil ha tilgang til eventuelle opptjente pensjonsrettigheter derfra.
+
+Om man skal beholde retten til en ytelse som er innvilget eller beregnet etter særrettighetene for flyktninger, er det et absolutt krav at man fortsatt er medlem i folketrygden. Dersom medlemskapet opphører, f.eks. ved flytting til utlandet, faller retten til ytelsen og den fordelaktige beregningen bort. Den ytelsen som i så fall vil kunne tas med til utlandet, er begrenset til det beløpet flyktningen har rett til basert på egen opptjening.
+
+Arbeids- og sosialdepartementet sendte 4. juli 2016 ut et høringsnotat hvor departementet foreslår å øke botidskravet for rett til pensjoner, uføretrygd og arbeidsavklaringspenger fra tre til fem år. For rett til stønad til enslig mor eller far foreslås det også å heve kravet fra tre til fem år. For kontantstøtte, hvor det i dag ikke stilles krav til botid, foreslås det innført et krav om fem års botid. Det er stor usikkerhet knyttet til spørsmålet om hvordan utbetalingene av økonomisk sosialhjelp vil påvirkes av å øke botidskravet for trygdeytelser.
+
+I tillegg ble det foreslått å avvikle de fleste av ordningene som automatisk gir personer med flyktningstatus fulle minsteytelser fra folketrygden som om de har bodd i Norge hele livet. For alderspensjon og uføretrygd ble det foreslått at disse ordningene skal erstattes av ordningen med supplerende stønad.<sup>1</sup> En slik løsning forutsetter at det innenfor ordningen med supplerende stønad innføres en ny ytelse for uføre flyktninger under 67 år. Supplerende stønad er en behovsprøvd ordning utenfor folketrygden som gis uten forsørgingstillegg, og som er mer tilpasset den aktuelle målgruppen. Det påpekes i notatet at betydelige økonomiske konsekvenser for kommunale sosialhjelpsbudsjetter unngås ved at eldre og uføre flyktninger får tilnærmet lik inntektssikring innenfor ordningen med supplerende stønad som de ellers ville ha fått innenfor folketrygden.
+
+<sup>1</sup> Supplerende stønad har som formål å garantere en minsteinntekt for personer som har fylt 67 år, og som har kort eller ingen botid, noe som gjør at de ikke har tilstrekkelige alderspensjonsrettigheter i folketrygden. Se vedlegg 1.
+
+Høring om forslag til endringer i trygderegelverket i lys av asylsøkersituasjonen, 4. juli 2016.
+
+**\[Boks slutt\]**
+
+Forslaget om å innføre et botidskrav på fem år i kontantstøtten antas å gi en innsparing i løpet av det første året etter innføring på rundt 60 mill. kr, eller om lag 4 pst. av den årlige utgiften til denne ytelsen.[^491] Hvilken effekt innføringen av botidskrav vil ha på innvandrerkvinners yrkesdeltakelse, er usikkert, all den tid tilgjengelig statistikk ikke sier noe om forholdet mellom kontantstøttemottak og botid. På denne bakgrunnen viser utvalget til argumentasjonen i NOU 2011: 7 og anbefaler at kontantstøtteordningen fases ut.
+
+*Aktivitetskrav*
+
+Aktivitetskrav finnes allerede i en rekke velferdsytelser, i større eller mindre grad. Unntaket er uføretrygd, som oppfattes som en varig ytelse når den først er innvilget. Som vist i kapittel 6.5 kan aktivitetskrav og sanksjoner ha en positiv effekt på overgangen til arbeid. Det er imidlertid signaler som tyder på at arbeids- og velferdsforvaltningen håndhever aktivitetskravene ulikt og i mindre grad enn regelverket åpner for. Utvalget understreker at alle som mottar velferdsytelser, bør delta i aktiviteter som virker kvalifiserende, eller som bidrar til å holde fast i kontakten med arbeidslivet, og at aktivitetskrav bør praktiseres strengt. Aktivitet har en selvstendig effekt i tillegg til den rent kvalifiserende. Begrunnelsen er at alternativet vil være passivitet, noe som er uheldig for den enkelte og som vil kunne undergrave legitimiteten til velferdsytelsene. Utvalget mener de mulighetene som ligger i lovverket til å bruke betingelser og sanksjoner, bør tas i bruk i større grad enn i dag. Samtidig er det viktig at aktivitetene som tilbys, har et tilstrekkelig kvalitetsnivå og tilfører noe meningsfylt til deltakeren.
+
+For mottakere av økonomisk sosialhjelp under 30 år er det fra 2017 innført en aktivitetsplikt med det formål å styrke den enkeltes muligheter for å komme i arbeid og bli selvforsørget.[^492] En studie av innføringen av aktivitetsplikt i fire kommuner viser at en streng praktisering av aktivitetskrav kan gi en kraftig reduksjon i antallet mottakere av økonomisk sosialhjelp, uten at studien dokumenterer at dette fører til høyere overgang til arbeid.[^493] Utvalget mener at det ikke skal være mulig å motta sosialhjelp over tid uten å møte aktivitetskrav, hvis ikke det er tungtveiende grunner som taler mot dette.
+
+Langtidsmottakere av sosialhjelp vil ofte ha vært igjennom en rekke kvalifiseringstiltak og -innsatser, uten at disse har satt dem i stand til å etablere en fast tilknytning til arbeidsmarkedet. I noen tilfeller har tiltakene hatt liten annen effekt enn å påføre brukeren nok en opplevelse av nederlag, og i sum kan aktiviseringsinnsatsen oppleves som ydmykende.[^494] Utvalget understreker at aktivitetskravene for dem som står lengst fra arbeidsmarkedet bør innrettes slik at de i tillegg til å være arbeidsrettet også bygger opp minimumsferdigheter som sikrer sosial inkludering og aktiv deltakelse i samfunnet, noe som også inngår i formålet med sosialtjenesteloven. For personer i slike situasjoner kan man f.eks. ha som et minimumsmål at alle skal ha grunnleggende leseferdigheter, slik at de kan forstå enkle beskjeder. Dette vil forbedre mestringen av kontakten med offentlige myndigheter, inkludert skolen, slik at de blir i stand til å følge opp barnas utdanning. Det vil også bidra til å styrke ferdigheter som er viktige for å kunne komme i arbeid. Eksempler kan være krav om deltakelse på norskkurs, arbeid for frivillighetssentralen eller tilsvarende formidling av uformell hjelp, eller tiltak organisert av kommunene og frivillige organisasjoner i fellesskap, der «uvirksomme hender» kobles til «eksisterende behov».[^495] Dette er et område hvor det er rom for kreativitet, så lenge prosjektene som opprettes, ivaretar verdigheten til deltakerne.
+
+1.  **Skatt**
+
+Skattesystemet påvirker både insentivene til å arbeide for den enkelte og arbeidsgiveres insentiver til å ansette personer. Det er da også naturlig å vurdere om endringer i skattesystemet kan bidra til å øke sysselsetningen blant innvandrere.
+
+Det er mulig å bedre insentivene til å arbeide framfor å gå på trygd innenfor skattesystemet ved å la lønn bli skattlagt lavere enn trygd. Det kan f.eks. oppnås ved å innføre et særskilt fradrag i inntekten som betinges av at man har arbeidsinntekt. Et slikt arbeidsbetinget fradrag vil bidra til å redusere kompensasjonsgraden etter skatt for de ulike trygdeordningene, fordi nettoinntekten som lønnsmottaker øker. Et slikt fradrag vil isolert sett kunne ha en høy kostnad. Det er imidlertid mulig å begrense kostnaden dersom en finansierer hele eller deler av fradraget gjennom å redusere mer generelle inntektsfradrag. Utvalget viser i denne forbindelsen til at regjeringen har signalisert at den vurderer en slik ordning parallelt med gjennomføringen av den pågående skattereformen.[^496]
+
+Det kan være ønskelig å bedre insentivene til arbeid for dem som allerede er i jobb, men som har lav lønn. Lavere skattesatser på arbeid kan da gi økt arbeidstilbud. Det skyldes at det man får igjen for å arbeide litt mer, øker. Dette omtales ofte som *substitusjonsvirkningen* av lavere skattesats på arbeid. Samtidig trekker inntektsvirkningen mot lavere arbeidstilbud: Når lønnstakeren får økt disponibel inntekt som følge av lavere skatt, vil den økte inntekten delvis bli brukt til å øke konsumet av fritid, det vil si at arbeidstilbudet går ned. Empirisk forskning på norske data tyder på at substitusjonsvirkningen normalt er sterkere enn inntektsvirkningen for dem som allerede arbeider, det vil si at arbeidstilbudet øker når skattesatser reduseres. Virkningen er sterkest for lavinntektsgrupper og for gifte kvinner, men svakere for aleneboende og gifte menn.[^497]
+
+Mulighetene til å målrette skattelettelser for enkeltgrupper er likevel svært begrenset, noe som er påpekt av flere utvalg.[^498] Skatter og avgifter er generelle virkemidler i den forstand at en eventuell særskilt skattelettelse i liten grad kan målrettes mot en bestemt mottakergruppe. Reglene må utformes slik at alle som tilfredsstiller visse kriterier, får den aktuelle skatte- eller avgiftslettelsen. Skatter og avgifter er dermed lite egnede virkemidler i situasjoner der formålet er å støtte aktiviteter eller virksomheter som skal tilfredsstille et sett av kriterier og/eller hvor det skal være rom for skjønn. Jo mer målrettet en ønsker at støtten skal være, desto mindre egnet vil skatte- og avgiftssystemet normalt være sammenliknet med direkte støtte over statsbudsjettet.
+
+Skattesystemets begrensede muligheter til å målrette skatteletter mot lavinntektsgrupper kan illustreres med følgende: Å redusere skattesatser på lave inntektsnivåer ved å redusere satsene i trinn 1 og 2 i trinnskatten (som i 2017 gjelder for personinntekter mellom 164 100 og 580 650 kr) vil bedre arbeidsinsentivene for lønnstakerne i denne gruppen. Men kostnaden blir høy fordi satsreduksjonen også gir lavere skatt for trygdemottakere og pensjonister og for alle med høyere personinntekter enn inntektsintervallet som dekkes av trinn 1 og 2. Arbeidsinsentivene til lønnstakerne i den sistnevnte gruppen (de med høyere inntekter) svekkes dessuten fordi gjennomsnittsskatten reduseres uten at marginalskatten reduseres. Økninger i generelle bunnfradrag er heller ikke målrettet, fordi også dette vil gi lettelser for personer med høye inntekter og for andre grupper enn lønnstakere. I tillegg vil økte bunnfradrag i hovedsak bare gi lavere gjennomsnittsskatt uten å redusere marginalskatten.[^499]
+
+På arbeidsgiversiden er det først og fremst arbeidsgiveravgiften i skattesystemet som påvirker etterspørselen etter arbeidskraft. Men det kan også tenkes mer særskilte skatteordninger som bidrar til å øke etterspørselen i enkeltnæringer som i stor grad ansetter arbeidskraft med lav lønn. Slike ordninger blir imidlertid ofte lite målrettede, med stor risiko for at kostnadene blir høye sammenliknet med sysselsettingsvirkningen. Høye kostnader gir mindre rom for generelle satsreduksjoner, herunder på arbeid. I tillegg vil ordninger som skattemessig favoriserer enkeltnæringer, gi et samfunnsmessig velferdstap ved at ressurser ikke lenger investeres der hvor de kaster mest av seg for samfunnet.
+
+Det er mulig å legge til rette for en generell bedring av insentivene til arbeid gjennom en generell reduksjon i skattesatsene på arbeid. I den forbindelse vises det til at marginalskatten på arbeid over tid har blitt redusert betydelig med skiftende regjeringer. Skattereformen 2006, som ble iverksatt av regjeringen Stoltenberg II, innebar en betydelig reduksjon i skattesatsene på arbeid, særlig for personer med middels og høye inntekter. Den pågående skattereformen reduserer også marginalskatten moderat for et stort antall personlige skattytere både på lavere og på høyere inntektsnivåer.
+
+1.  **Systematisk utprøving og evaluering**
+
+Det finnes allerede mye kunnskap om effekten av arbeidsmarkedspolitikken og en del om særskilte innsatser/tiltak for innvandrere, men det er fortsatt mye vi ikke vet. I mange tilfeller vil kunnskap om effekter heller ikke så lett la seg avdekke ved hjelp av eksisterende data og organisering av tiltak/ordninger.
+
+Tegn til for lite arbeidsretting i introduksjonsprogrammet og problemene knyttet til oppfølging av personer med liten eller ingen utdanning etter endt program, peker i retning av å styrke arbeidsrettingen. Samtidig er det mye som tyder på at det er rom for å forbedre utdannings- og opplæringsmulighetene for flyktninger og muligens også andre innvandrergrupper i Norge. Det er også tegn til at kombinasjonsløp (utdanning/opplæring kombinert med arbeidsrettede tiltak) eller «tiltakskjeder» (ulike tiltak i en bestemt rekkefølge) kan fungere, for noen grupper og/eller under visse omstendigheter.
+
+Mye av innsatsen som rettes mot flyktninger i integreringsarbeidet, både i introduksjonsprogrammet og gjennom f.eks. arbeidsmarkedstiltak i NAV, er basert på en individuell vurdering av behov og hensiktsmessighet. Flyktningenes egne preferanser og motivasjon spiller også inn. Sett fra et forskningsperspektiv skaper en slik situasjon vanskeligheter i tolkningen av resultatene for ulike typer innsats og for ulike grupper, fordi det kan være betydelige seleksjonsskjevheter knyttet til hva slags tilbud eller tiltak den enkelte flyktning har fått eller deltatt i. I tillegg er mye av integreringsarbeidet i Norge desentralisert, dvs. ved at det foregår i den enkelte kommunen eller med hjelp fra det lokale NAV-kontoret, og kan være påvirket av lokale forhold. Det er følgelig behov for mer kunnskap om hvordan integreringsarbeidet foregår i kommunen, ved NAV-kontoret og innenfor voksenopplæringen.
+
+Det er sjelden helt klart nøyaktig hva slags tiltak, endringer, kombinasjoner eller «kjeder» som fungerer best, og hva det burde satses mer på. Det er også mulig at én type tiltak/løp fungerer best for noen, mens en annen fungerer best for andre. I en slik situasjon, når vi ikke vet nøyaktig hva som fungerer best og eventuelt for hvem, blir det hensiktsmessig å prøve ut ulike modeller og å evaluere disse enten opp mot den nåværende situasjonen/organiseringen eller opp mot hverandre. Eksperimenter innebærer alltid en viss grad av forskjellsbehandling, fordi noen deltakere får én type behandling mens andre får en annen (eller ingen) behandling.
+
+Dagens system for integreringstiltak, med omfattende prosesser rundt bosetting og et introduksjonsprogram som går over flere år, er ressurskrevende. Det er ikke opplagt at kvaliteten i arbeidet knyttet til disse oppgavene vil kunne opprettholdes hvis et større antall skal gå gjennom systemet over flere år. Det kan derfor være nødvendig med sterkere prioriteringer, og for å gjøre det på en god måte, er det behov for kunnskap.
+
+Randomiserte, kontrollerte eksperimenter blir ofte ansett som «gullstandarden» for evidensbasert kunnskap, og utvalget oppfordrer til mer utprøving basert på slike evalueringer. Det er imidlertid også svakheter ved eksperimenter. Eksperimenter har stor «intern validitet». Det betyr at analyser av eksperimenter gir godt grunnlag for å si at «behandlingen» slik den ble gjennomført i eksperimentet, faktisk hadde en effekt (eller ikke). I mange tilfeller viser det seg imidlertid at effekten ikke er like stor (eller i det hele tatt til stede) når behandlingen innføres for større populasjoner. Det kan være flere grunner til det, men én av dem er at man ikke klarer å opprettholde like god kvalitet ved innføring i den virkelige verden, muligens med «behandlere» som ikke er like godt forberedt eller kvalifiserte som i den eksperimentelle sammenhengen. Når det gjelder arbeidsintegrering av innvandrere er den virkelige verdenen ute i kommunene, NAV-kontorene og utdanningsinstitusjonene. Det er der grunnlaget for integrering av innvandrere skjer.
+
+Gradvis innføring av en endring eller en ny ordning i ulike regioner eller for ulike grupper over tid er et eksempel på en annen måte å tilrettelegge for evaluering på. Det innebærer at ulike «systemer» eksisterer parallelt og lar seg analysere ved hjelp av «kvasi-eksperimentelle» metoder. Ideelt sett burde det være tilfeldig hva slags region eller gruppe som får innført endringen i de ulike periodene. Utvalget registrerer at tilnærmingene, tiltakene og framgangsmåten innenfor integreringsarbeidet sjelden evalueres med metoder som kan gi gode svar om virkninger og kausale effekter, og anerkjenner at det er krevende å tilrettelegge for og gjennomføre slik forskning, gitt rammebetingelsene og organiseringen av integreringsarbeid i Norge i dag. Vi vet for lite om effekten av språkopplæring og om språkopplæring eventuelt kunne forbedres gjennom annen satsing eller organisering. Det er for lite kunnskap om hva slags tilnærminger og tiltak som brukes innenfor introduksjonsprogrammet i de enkelte kommunene og om enkelte kommuner klarer å oppnå bedre resultater over lengre tid (se kap. 10.3.3). Utvalget mener at det generelt trengs mer kunnskap om hva som virker innenfor introduksjonsprogrammet. Mens det finnes noen effektstudier av arbeidsmarkedstiltak for innvandrere, mener utvalget at vi fortsatt vet for lite om hvordan NAV jobber med integrering av flyktninger innenfor introduksjonsprogrammet, og videre kunnskap trenges også om hvordan arbeidsmarkedspolitikken kan brukes for å oppnå best mulig effekt når det gjelder å sikre varig fotfeste for innvandrere på arbeidsmarkedet. Uten kunnskap fra effektstudier av høy vitenskapelig kvalitet mener utvalget at det ikke vil være mulig å bedre effektiviteten i integreringsarbeid framover og veilede kommuner om høy kvalitet innenfor integreringsarbeid.
+
+Utvalget mener at eksperimenter eller tilrettelegging for kvasieksperimentelle analyser bør tilstrebes i større grad når endringene og innovasjonene innenfor integreringsarbeidet i Norge diskuteres eller planlegges. I den grad det er realistisk, gitt politiske og administrative rammer, bør det i større grad planlegges for evaluering av en endring samtidig som man planlegger innføringen av endringen.
+
+1.  **Oppsummering**
+
+Det norske velferdssamfunnet står overfor en periode med økende forsørgerbyrde og mindre handlingsrom i den økonomiske politikken. Utvalget vurderer høy innvandring som en tilleggsutfordring i dette helhetsbildet (se kap. 8).
+
+For at arbeidslivet og velferdsstaten skal settes i stand til å møte høy migrasjon, må integreringsevnen styrkes, slik at flyktninger i større grad blir en del av det ordinære arbeids- og samfunnslivet. Det har derfor vært viktig å identifisere de trekk og mekanismer ved det norske velferds- og arbeidslivssystemet som utfordres av høy innvandring, og å vurdere hva som kan gjøres for at det skal bli mer robust og i større grad tjene som en ressurs i håndteringen av disse utfordringene.
+
+Analysene i denne utredningen bygger videre på NOU 2011: 7, der *aktivisering, kvalifisering og tilrettelegging* representerte de viktigste anbefalingene. Disse overordnede redskapene må fortløpende utvikles og justeres i tråd med viktige endringer i samfunnsøkonomien og i intensiteten i tilstrømningen. De bør også justeres og utvikles i tråd med de systematiske evalueringene av alle større satsinger som dette utvalget anbefaler.
+
+På basis av situasjonen i 2016, har utvalget i dette kapitlet trukket fram noen sentrale virkemidler som bør justeres innenfor det gjeldende integrasjonsregimet, for å bedre kunne sikre at velferdsordningene kan opprettholdes på et høyt nivå i en situasjon med stor tilstrømning av asylsøkere og flyktninger. Utvalget har lagt vekt på å forbedre virkemidlenes treffsikkerhet og mottaks- og integreringsapparatets funksjonsdyktighet.
+
+Utvalget understreker betydningen av å se de ulike stadiene i sammenheng og å fremme kombinerte løsninger for økt sysselsetting og integrasjon. Mer spesifikt vil utvalget understreke:
+
+- Tiltak som bidrar til aktivisering og fremmer integrering på sikt, bør starte allerede i asylmottakene for å utnytte ventetiden og motvirke passivisering. Noen slike tiltak – norskopplæring, informasjon om norske samfunnsforhold og kompetansekartlegging – bør også omfatte asylsøkere som venter på utfallet av asylsøknaden, ikke bare flyktninger som venter på bosetting. Det er spesielt viktig at barn og unge i mottak kommer raskt inn i det ordinære tilbudet i barnehage og skole.
+
+- Bosettingen av flyktninger bør fortsatt bygge på at staten inngår avtaler med kommunene om bosetting – så langt dette er tilstrekkelig for å få bosatt alle det er behov for. Hvis kommunene ikke tilbyr nok plasser, og det blir svært mange som venter lenge i mottak, må staten kunne ta i bruk en beredskapsordning som sikrer at flyktninger kan flytte ut av mottak og bli bosatt innen rimelig tid. Utformingen av en slik ordning, og hvilke konsekvenser den kan ha for ansvarsdelingen mellom stat og kommune, må utredes nærmere.
+
+- Mulighetene for en viss justering av kriteriene for bosetting i retning av større vekting av lokalt og regionalt arbeidsmarked, ev. også utdanningstilbud, bør vurderes. En dreining mot i sterkere grad å bosette flyktninger med relevant kompetanse i kommuner/regioner der kompetansen deres er etterspurt, kan skje på bakgrunn av planlagt kompetansekartlegging og karriereveiledning i mottakene.
+
+- Myndighetene bør ta initiativ til en helhetlig analyse av sammenhenger, flaskehalser og samordningsbehov med sikte på et mer rasjonelt og effektivt system for asylsaksbehandling, mottak, bosetting, introduksjonsordning og andre særskilte integreringstiltak. En slik utredning vil kunne bidra til å klarlegge hvordan stat, kommuner og sivilsamfunn i Norge best mulig kan håndtere store og til dels raske svingninger i antall asylsøkere og flyktninger.
+
+- Barrierer som barn og unge som innvandrer til Norge møter i utdanningssystemet bør bygges ned. Myndighetene bør utvikle kunnskapsbaserte tiltak for en mer effektiv overgang til norsk skole. Det bør også satses videre på å øke barnas deltakelse i utdanning før og etter den obligatoriske grunnskolen.
+
+- Det bør utvikles moduler innenfor introduksjonsprogrammet som kan settes sammen ut fra behovet til de største eller vanligste gruppene av programdeltakere. Kommunene bør fortsatt ha frihet til å tilpasse tilbudet til lokale forhold og behov.
+
+- Det bør satses på mer arbeidsretting i introduksjonsprogrammet. Praksis i arbeidslivet bør tilbys de fleste programdeltakerne. Videre bør det tilrettelegges for at deltakerne skal kunne ta mer ordinær utdanning innenfor programmet, om det er dette de har behov for.
+
+- Det norske arbeidsmarkedet verdsetter i liten grad utdanningen flyktninger har med seg til Norge. Det ser ut til være store samfunnsøkonomiske gevinster forbundet med å komplettere utenlandsk utdanning med noe utdanning fra Norge, sammenliknet med å måtte ta hele utdanningen på nytt, eller alternativt få en usikker tilknytning til arbeidsmarkedet som ufaglært. Den potensielle gevinsten vil være større dess mer effektivt kvalifiseringsløpet tilrettelegges og hindringene for å ta del i det ordinære utdanningssystemet bygges ned.
+
+- Myndighetene bør i langt større grad sørge for at det finnes kompletterende utdanningstilbud, og relevante godkjenningsmyndigheter må forplikte seg når det gjelder godkjenning av slike tilbud. Der det er mulig, bør myndighetene sørge for at det utvikles alternative dokumentasjons- og godkjenningsordninger, særskilte opptaksmuligheter og fleksible og differensierte tilbud med integrert norskopplæring.
+
+- Språk er viktig, og det bør sees nærmere på om språkopplæring i større grad kan integreres i annen kvalifisering og kompetansepåbygging og på arbeidsplassen. Det er behov for systematisk utprøving av ulike modeller for norskopplæring, slik at valg av opplæringsmodeller blir mer kunnskapsbasert.

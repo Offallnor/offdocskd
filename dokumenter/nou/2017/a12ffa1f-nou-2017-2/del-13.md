@@ -1,960 +1,204 @@
-# NOU 2017: 2, del 13 av 20 (side 156–166)
+# NOU 2017: 2, del 13 av 19
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/a12ffa1f-nou-2017-2.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-2/id2536701/
 - Original-PDF: https://www.regjeringen.no/contentassets/c072f7f37da747539d2a0b0fef22957f/no/pdfs/nou201720170002000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 36 tabeller, 78 figurer, 558 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 156]
-
-156
-
-Kapittel 8
-
-NOU 2017: 2
-Integrasjon og tillit
-
-yrkesdeltakelse og bruk av statsfinansierte tjenester, bidrar til offentlige inntekter og utgifter i løpet
-av sitt liv i Norge. Det legges til grunn at innvandrerne kommer i 2016, og resultatene presenteres
-som nåverdien av bidragene til offentlige nettoutgifter. Beregningene er gjort ved hjelp av samme
-modell som ble brukt i makroberegningene.
-Livsløpsberegningene rendyrker hvordan
-«innvandreratferd» påvirker offentlige finanser i
-forhold til norskfødtes atferd. Dette har særlig relevans når man studerer flyktninger og andre
-grupper som har problemer med å bli integrert i
-arbeidsmarkedet etter ankomsten. Integreringsfasen har svært stor innvirkning på hvor mye en
-innvandrer senere bidrar til skatteinntektene og
-bruker av skattefinansiert offentlig velferd. Beregningene gir grunnlag for å se på effekter av forskjellige forutsetninger om integrering av flyktninger (omtale til slutt i dette kapitlet). Livsløpsberegninger skiller seg fra såkalte slektsberegninger, som var grunnlaget for analysene i NOU
-2011: 7. Disse beregningene er omtalt i boks 8.2.
-Det gjøres sammenlikninger mellom et individ
-fra den norskfødte befolkningen og et individ fra
-landgruppe 3 som innvandrer til Norge som 25åring. Landgruppe 3 vil være sammensatt av flyktninger, arbeidsinnvandrere og innvandrere som
-har familiegjenforening som innvandringsgrunn.
-Det ses i første omgang bort fra spesifikke flyktningkostnader knyttet til asylmottak og introduksjonsordningen, men landgruppe 3-innvandrernes
-gjennomsnittlige mottak av introduksjonsstønad
-er inkludert. Det ses også bort fra gjenutvandring
-og at innvandreren «tiltrekker seg» sekundærinnvandring gjennom familieinnvandring.
-Det kan være lettere å tolke årlige beløp enn
-summer over et helt livsløp, noe som kan oppnås
-ved å dividere nåverdiene for hele livet på antall
-forventede leveår for nyfødte. Ifølge SSBs hovedalternativ er disse 93 år for kvinner og 91 år for
-menn. Siden innvandrerne forutsettes å komme
-når de er 25 år, kan det være hensiktsmessig å di-
+Figur 9.1 illustrerer at holdningene i Norge til utvalgte spørsmål om innvandrere er relativt stabile over tid. I den grad det har skjedd endring over tid, gikk denne i en mer «innvandrervennlig» retning, iallfall fram til 2015. Andelen som sa seg helt etter delvis enig i at innvandrere flest misbruker de sosiale velferdsordningene, falt fra 41 pst. i 2002 til 25 pst. i 2015, mens andelen som var helt eller delvis enige i at innvandrere flest er en kilde til utrygghet i samfunnet, falt fra 45 til 26 pst. i samme periode. I 2016 gikk andelen helt eller delvis enige i disse to utsagnene riktignok opp til hhv. 30 og 32 pst., men dette er fortsatt lavere enn andelene tidlig i perioden. Oppslutningen om at innvandrere bør ha samme mulighet til arbeid som nordmenn, er svært høy, mellom 85 og 90 pst. har sagt seg helt eller delvis enige i dette i hele perioden. Andelen som mener at innvandrere gjør en nyttig innsats i norsk arbeidsliv, og at innvandrere flest beriker det kulturelle livet, var på omkring eller mer enn 70 pst. mellom 2008 og 2015, men falt til hhv. 66 og 67 pst. i 2016. Spørsmål om arbeidsinnvandreres bidrag ble tatt inn i 2010, så her er tidsserien kortere. Andelen som sa seg helt eller delvis enige i dette falt fra 70 pst. 2014 til 63 pst. i 2016. Alt i alt tyder utviklingen som vises i figur 9.1 på at holdningene til innvandrere i Norge er relativt stabile, og at endringene i perioden 2002–2015 gikk i retning av noe mer positive holdninger. Undersøkelsen fra 2016 viser imidlertid at flere uttrykker negative holdninger. Utslagene er små, og for de fleste spørsmålene var holdningene stadig mer positive i 2016 enn de var i 2002. Funnene i 2016-undersøkelsen må ses i lys av økende arbeidsledighet og svakere offentlig økonomi i Norge, og sannsynligvis også med den store flyktningtilstrømmingen i 2015. Senere undersøkelser vil vise om 2016 var et unntaksår, eller starten på en mer varig ending i retning av mer negative holdninger til innvandrere.
 
-videre nåverdien på antall forventede gjenværende leveår etter 25 år, som er 66 og 64 år for
-henholdsvis kvinner og menn.
-Beregningene viser at nettobidraget til det offentlige som kan knyttes til en norskfødt mann fra
-han er 25 år og ut livet i gjennomsnitt utgjør om
-lag 54 000 kr per år (tabell 8.1). Tilsvarende tall
-for en mann fra landgruppe 3 er minus 94 000 kr.
-Forskjellen kan bl.a. ses i sammenheng med at
-man i hovedsak utelater investeringen i utdanning
-fra regnestykket for den norskfødte ved å starte
-på 25 år, mens avkastningen i form av høyere sysselsetting og lønn enn innvandreren tas med. For
-personen fra landgruppe 3 kan det på den annen
-side påløpe store kostnader knyttet til kompetanseheving og arbeidsmarkedstiltak i årene etter at
-han ankommer som 25-åring. Hvis beregningene
-for den norskfødte i stedet hadde startet ved 0 år,
-slik at de også fikk med seg barne- og ungdomsårene, ville det gjennomsnittlige nettobidraget til
-det offentlige vært minus 23 000 kr per år.
-Bidraget til offentlige finanser fra en norskfødt
-kvinne fra hun er 25 år og ut livet utgjør i gjennomsnitt om lag minus 99 000 kr per år, se tabell
-8.2. For en kvinne fra landgruppe 3 er det tilsvarende tallet minus 170 000 kr per år. Forskjellen
-mellom kvinner og menn må ses i lys av at kvinner
-føder barn og lever lenger (flere år med negative
-nettooverføringer), og at de fleste barnerelaterte
-stønader, herunder dekning av lønn i fødselsrelatert permisjon, utbetales til kvinner. I tillegg har
-kvinner i gjennomsnitt lavere lønn i arbeidslivet
-og lavere yrkesaktivitet enn menn, også når det
-korrigeres for barnefødsler. Regnet fra fødselen
-vil bidraget til offentlige finanser fra en norskfødt
-kvinne i gjennomsnitt utgjøre om lag minus
-136 000 kr per år.
-Landgruppeinndelingen til SSB gir ikke
-grunnlag for å studere konsekvenser for offentlige finanser av flere flyktninger spesielt. Flyktninger vil typisk tilhøre landgruppe 3, men de er ikke
-skilt ut. I beregningene er det konstruert ulike ty-
+**\[:figur:figX-X.jpg\]**
 
-Tabell 8.1 Bidrag til offentlige finanser over menns livsløp fra ankomst i 2016 som 25-åring (og fra fødsel
-for norskfødte). 1000 2013-kroner per mann per år.1
-Norskfødte
+1.  Holdninger til innvandrere. Andel helt/delvis enige i sju utsagn. Prosent
 
-Landgruppe 3
+Blom, S. (2016). Ibid.
 
-Inntekt
+Alle påstandene som er vist i figur 9.1, måler holdninger til *innvandrere*. Holdninger til *innvandring* kan følge et noe annet mønster. I samme undersøkelse som den som utgjør grunnlaget for figur 9.1, bes respondentene ta stilling til om det bør bli lettere eller vanskeligere for flyktninger å få adgang til opphold i Norge, eller om dette bør være omtrent som i dag. I 2014 skjedde en påfallende endring i svarfordelingen på dette spørsmålet: andelen som mente at det burde bli lettere, som hadde ligget på 6–7 pst. siden 2002, økte plutselig til 18 pst. Andelen som mente det burde bli vanskeligere, falt fra 42 pst. i 2013 til 28 pst. i 2014. Forskerne bak studien knyttet dette til den økte oppmerksomheten rundt flyktninger fra krigen i Syria. Andelen som mente det burde bli lettere å få opphold som flyktning holdt seg høy: 15 pst. ga dette svaret i 2015, 12 pst. i 2016. Andelen som mente det burde bli vanskeligere, var 33 pst. i 2016. Det ser altså ikke ut til at «flyktningkrisen» høsten 2015 hadde ført til vesentlig sterkere oppslutning om innstramming da denne undersøkelsen ble gjennomført sommeren 2016.
 
-Utgift
+Det er likevel andre undersøkelser som tyder på at innvandring som fenomen skaper en viss uro i den norske befolkningen. TNS Gallup har gjennom flere år gjennomført en undersøkelse de kaller «klimabarometeret». Her bes respondentene ta stilling til en liste på 14 temaer og velge de sakene som bekymrer dem mest. I 2016 framhevet hele 64 pst. av respondentene innvandring som en av de tre største utfordringene landet sto overfor. Innvandring var også den utfordringen som ble framhevet av flest i 2015, men da var andelen som pekte på innvandring svært mye lavere – 38 pst.[^417] Undersøkelsen er en av få som er gjennomført kort tid etter «flyktningkrisen» i 2015, noe som med svært stor sannsynlighet kan forklare den markante veksten i andelen som ser innvandring som en stor utfordring.
 
-Nettoutgift
+*Merknad fra utvalgets medlem Cindy Horst:*
 
-Per gjenstående leveår fra fødsel
+Utvalgets medlem Cindy Horst vil understreke at svært stor oppmerksomhet om disse temaene i debatten kan føre til mer restriktive holdninger i befolkningen og viser til at en studie som ble gjennomført parallelt i Norge, Sverige og Tyskland i 2014 og 2015, søkte å studere hva befolkningen i de ulike landene oppfattet som de største utfordringene for velferdsstaten.[^418] Bekymringen knyttet til innvandring og velferdsstatens finansiering var sterkest i Norge, noe forskerne knytter til at slike spørsmål har vært høyt på dagsorden de senere årene.
 
-208
+1.  **Oppsummering**
 
-231
+Migrasjonsmønstre vi har hatt siden 1970-tallet, har vært ledsaget av økende sosial og økonomisk ulikhet, der innvandrerbefolkningen er overrepresentert i lavinntektsgruppen (se også kap. 7.2). En situasjon der kulturell forskjellighet i stor grad overlapper med økonomisk sårbarhet, vil gjøre det vanskeligere å opprettholde en opplevelse, på tvers av grupper i befolkningen, av «å være i samme båt».[^419] Inkludering av nykommere i utdanning og arbeidsliv, sammen med tiltak for kvalifisering og mot diskriminering, har vært sentralt for å motvirke en slik utvikling i Norge. Utvalget mener at utjevning av levekår gjennom arbeid og utdanning stadig bør være en hovedtilnærming for å fremme likeverdig deltakelse mellom majoritet og minoriteter. Samtidig kan det argumenteres for at utviklingen har vist at dette ikke er tilstrekkelig i seg selv. Det anses i økende grad som legitimt å fastsette noen kriterier for hva som er akseptabel atferd på samfunnets felles arenaer. Slike kriterier kan knytte seg til bruk av religiøse symboler, der ansiktstildekkende plagg står i en særstilling, og krav om fritak fra undervisning eller arbeidsoppgaver. I diskusjonen om kulturell og religiøs tilrettelegging står viktige prinsipper mot hverandre: Det er grenser for hvor mye staten skal legge seg opp i enkeltpersoners tilpasninger, men det er også grenser for hvor mye den enkelte kan kreve at omgivelsene skal tilpasse seg hans eller hennes spesielle behov. Utvalget mener at det er legitimt, også innenfor rammene av et liberalt fellesskap, å etablere noen kriterier for atferd på felles arenaer. Liberal ideologi legger stor vekt på enkeltpersoners autonomi, men i et samfunn der mennesker med ulike kulturelle og religiøse verdier og praksiser skal leve sammen, må dette hensynet balanseres mot en respekt for at det er grenser for hva enkeltpersoner kan kreve av omgivelsene. Det norske politiske fellesskapets rett til å bevare integriteten i sin livsform, for å bruke Michael Walzers uttrykk, tilsier at en tydeligere kommunisering av fellesskapets normer kan ha en plass også i et liberalt og pluralistisk samfunn.[^420]
 
-23
+Diskusjoner om konflikttemaer som dette pågår i dag i tilknytning til de konkrete situasjonene der beslutninger må tas, typisk på den enkelte skolen eller det enkelte NAV-kontoret.[^421] Utvalget vil hevde at det er legitimt og viktig å utvikle noen nasjonale retningslinjer for akseptabel atferd på viktige fellesarenaer innen utdanningssektoren og offentlig tjenesteyting. Lokale saksbehandlere og enhetsledere kan ikke forventes å ha kompetanse til å diskutere religiøse forbud og påbud med brukerne. Mange vil oppleve det som en lettelse å kunne vise til nasjonale retningslinjer som fastslår hva slags praksis som skal gjelde. Med nasjonale retningslinjer kan også den motstanden som eventuelt skapes, rettes mot etater som har bedre forutsetninger for å håndtere dette enn det enkeltaktører på lokalt nivå vanligvis har.
 
-Per gjenstående leveår fra 25 år
+Dette innebærer videre at innsats for å bekjempe diskriminering på etnisk eller religiøst grunnlag må prioriteres, slik at likeverdig deltakelse faktisk er mulig (se kap. 7.5). Det innebærer også en kontinuerlig innsats for å styrke den kulturelle kompetansen i etatene som møter individer og familier med minoritetsbakgrunn, slik at offentlige tjenester faktisk blir likeverdige. Slike tiltak vil være helt sentrale for at innvandrere skal kunne utvikle tillit og en opplevelse av tilhørighet. En mer tydelig normsending i form av økt bruk av retningslinjer må oppfattes som et moderat tiltak. Sosialisering og produktiv inkludering i systemer som det norske – der man har grunnsikring av livsmidler uansett – vil alltid i siste instans være avhengig av å få folk «med på laget». Hvis myndighetenes tilnærming oppleves som «assimileringspress», utløses ofte motstand – og kanskje tilbaketrekning og selvsegregering. Troverdige sanksjonsmidler er viktig i en del sammenhenger, men positive, aktiviserende tiltak vil ofte fungere bedre. Tillit er ofte et resultat av samhandling, felles arenaer og felles problemløsning. Fra minoritetens side vil det trolig handle om at det finnes muligheter og åpninger, og at diskriminering ikke hindrer likeverdig deltakelse. Fra majoritetens side vil det være viktig å se at flertallet av nykommere beveger seg i en *retning* mot å bli deltakende og velintegrerte, slik studiene av innvandrernes etterkommere langt på vei viser. Samfunnet må utvikle det Amartya Sen kaller mulighetsstrukturer.[^422] Men individene må også ha evne og vilje til å bruke dem. Og mulighetsstrukturene må kunne differensieres for å tilrettelegge for personer med svært forskjellige forutsetninger. Det er snakk om sosiale investeringer gjennom en kombinasjon av generelle virkemidler og særtiltak. Dette er krevende prosesser, men denne tenkningen har vært grunnleggende for den norske modellen.
 
-298
+Åpen debatt om diskriminering av minoriteter på den ene siden og samhandlingsproblemer, verdikonflikter og intern undertrykking i minoriteter på den andre siden, er nødvendig for utviklingen av samfunnsmessig tillit. Viktige verdikonflikter fortjener oppmerksomhet og saklig debatt. Trolig betyr debatten i seg selv mye for gjensidig tilvenning og nytenkning, selv om mange på kort sikt kan være pessimistiske på grunn av polarisering og høy temperatur. Konflikter kan ikke avskaffes, og de utgjør heller ikke nødvendigvis en trussel mot det tillitsbaserte samfunnet. Historisk har konflikter vært en brekkstang for kompromiss, samhandling og tilrettelegging. Når det gjelder å sikre at etterkommere av innvandrere ikke stiller med et dårligere utgangspunkt enn majoritetens barn, vil utdanning være avgjørende. Skolen vil fortsette å ha som viktig funksjon å sikre kunnskap som jevner ut mulighetene for samfunnsdeltakelse og læring samt sørge for verdi- og normmessig forankring som skal styrke følelsen av gjensidig tillit og tilhørighet.[^423] For ungdom med innvandrerbakgrunn kan det å lykkes i utdanningen være særlig viktig, fordi de kan stå svakere enn majoritetsungdom når det gjelder nettverk og andre ressurser («kulturell og sosial kapital»). Studier presentert i kapittel 7.5 viser også at norskfødte med innvandrerbakgrunn med høyere utdanning fra Norge i mindre grad enn etterkommere med mindre utdanning opplever negativ forskjellsbehandling på arbeidsmarkedet.
 
-244
+Tillit og medborgerlig engasjement er betingelser for videreføring av et levedyktig demokrati. En viktig del av det å skape mulighetsstrukturer vil være å tilrettelegge for at nykommere kan få tilgang til ressurser som bistår dem til å delta i sivilsamfunnet.[^424] Den liberale rettsstaten skal være en garantist for innbyggernes likebehandling og frihet. Men de strukturene som skal sikre rettsstaten, må også reproduseres gjennom tilslutning, deltakelse og ansvarliggjøring hos hver enkelt innbygger om igjen og om igjen. Derfor er inkludering av nykommere i dette verdigrunnlaget så avgjørende.
 
--54
+Innvandring i stor skala til veletablerte og omfattende velferdsstater er ennå et relativt nytt fenomen. Også i forskningen vet man fortsatt lite om mange aspekter ved dagens situasjon, og det er få holdepunkter for å si noe om hvordan situasjonen vil utvikle seg på sikt. Gjennomgangen av forskning viser like fullt en viss uro i befolkningen: Flere ønsker å reservere velferdsstatens goder bare for dem som har lang botid og/eller statsborgerskap, og relativt mange er bekymret for velferdsstatens bærekraft i en situasjon med høy innvandring. Halvparten av befolkningen er skeptiske til muslimer, samtidig som innvandring av nettopp denne gruppen har økt med flyktningtilstrømningen. Den sosiale ulikheten øker også vesentlig ved at de som kommer, har lave kvalifikasjoner og dermed problemer med å komme i ordinært arbeid, en problemstilling som vil bli mer sentral i en periode med begrenset økonomisk vekst. Jo mer økonomisk, kulturell og religiøs ulikhet overlapper, og jo sterkere annerledeshet på disse områdene forbindes med marginalisering på arbeidsmarkedet, jo mer utfordrende vil det være å opprettholde den samfunnsmessige tilliten.
 
-1
+På den andre siden slutter befolkningen i stor grad opp om velferdsordningene, og et klart flertall har positive holdninger til innvandrere. Med dette som utgangspunkt kan man tenke seg framtidsscenarioer der den inkluderende, tillitsbaserte velferdsstaten kan videreføres i et mer mangfoldig samfunn, men også scenarioer der mistilliten mellom grupper øker, skattebetalingsviljen svekkes og nykommere ekskluderes fra sentrale goder i samfunnet (se kap. 11).
 
-Inntekt
+Utvalget legger til grunn at det er mulig å opprettholde opplevelsen av tillit og samhold i det norske samfunnet, også under forhold med høy innvandring, men anerkjenner at dette kan være krevende. For å lykkes er to forhold avgjørende: Omfanget av innvandringen må være i samsvar med absorberingskapasiteten i arbeidsliv og velferdssystem, og nykommere må inkluderes på de sentrale arenaene i samfunnet. Det er også viktig at innvandrere og etterkommere tilegner seg de kulturelle forutsetningene for den norske samfunnskontrakten. Heri ligger det store og løpende utfordringer for norske politikere, og her finnes det knapt omforente eller klart treffsikre redskaper. Norske politikere har på tvers av blokkene støttet *både* en videreføring av grunntrekkene i den norske velferdsmodellen og en humanitært orientert flyktningpolitikk basert på gjeldende internasjonale konvensjoner. Det vil også i fortsettelsen måtte være en kontinuerlig balansegang mellom disse hensynene.
 
-Utgift
+Gitt premisset om å opprettholde bærekraften i det norske velferdssystemet bør en god politikk for å skape tillit og dempe potensialet for konflikt og polarisering etter utvalgets mening inneholde:
 
-Nettoutgift
+1.  Levekårspolitikk på områder som helse, bolig og økonomisk utjevning – først og fremst gjennom kvalifisering og aktivisering for arbeid.
 
-149
+<!-- -->
 
-243
+1.  Grunnleggende utdanning – tilgang til språkopplæring og samfunnskunnskap, og kvalifisering som tar hensyn til individuelt utgangspunkt.
 
-94
+2.  Tilretteleggelse for representasjon – aktiv inkludering i viktige deler av samfunnsmaskineriet (organisasjonslivet, politikk og mediene).
 
-Beløpene i ulike år er neddiskontert til 2013-kroner med rente lik 3 prosentvekst. Summen av beløpene er dividert på gjenstående leveår.
-Kilde: Holmøy, E. mfl. (2017a)
+3.  Aktiv motarbeiding av diskriminering – en individbasert politikk med vekt på enkeltmenneskets plikter og rettigheter.
 
-[Side 157]
+4.  Tiltak for å skape samhandlingsarenaer, knyttet til reelle oppgaver og problemer, for å skape sjanser til å bidra/delta, muligheter til å ta ansvar, f.eks. gjennom sivilsamfunnet, innsats overfor andre innvandrere etc.
 
-157
+5.  Tydeligere kommunisering av forventninger fra myndighetens side.
 
-NOU 2017: 2
-Integrasjon og tillit
+6.  Videreutvikling og konkretisering av de grunnleggende kravene til norsk medborgerskap; etterlevelse av demokrati, likestilling og barns rettigheter samt forventet deltakelse i arbeidsliv og sivilsamfunn. Tettere oppfølging av trossamfunn som mottar offentlig pengestøtte.
 
-Kapittel 8
+Utvalget anbefaler følgelig å satse tungt på sosialisering, kvalifisering og inkludering gjennom det norske arbeids- og velferdssystemets viktigste institusjoner. I tillegg ønsker utvalget at myndighetene utvikler klarere nasjonale retningslinjer når det gjelder krav til tilpasning på fellesarenaer som skole og arbeidsliv.
 
-Tabell 8.2 Bidrag til offentlige finanser over kvinners livsløp fra ankomst i 2016 som 25-åring (og fra
-fødsel for norskfødte). 1000 2013-kroner per kvinne per år.1
-Norskfødte
+*Merknad fra utvalgets medlem Cindy Horst:*
 
-Landgruppe 3
+Utvalgets medlem Cindy Horst vil på prinsipielt grunnlag advare mot mer offensive tiltak for å lovregulere minoritetens religiøse og kulturelle praksis. Eventuelle retningslinjer må videre baseres på forskning om hva utfordringene er og hvilket omfang de har. Dette for å unngå store offentlige debatter om praksiser som er marginale i det norske samfunnet, noe som kan virke stigmatiserende og ikke bidrar til felles problemdefinering og -løsning.
 
-Inntekt
+*Merknad fra utvalgets medlemmer Asle Toje og Erling Holmøy:*
 
-Utgift
+Utvalgets medlemmer Asle Toje og Erling Holmøy vil i større grad enn teksten i kapittel 9.9 understreke individenes rett og plikt til å integrere seg i det eksisterende kulturfellesskapet i landet de har utvandret til. Det eksisterer en bred kritikk av multikulturalisme som samfunnsmodell,[^425] som viser at normaliseringen av «å stå med ett bein i to kulturer» er aktivt integrasjonshemmende. Utvalgsmedlemmene mener at en større grad av aksept blant innvandrere for norsk kultur og norske verdier vil fremme integrasjon ved å bidra til å redusere graden av problematiske spenninger i det norske samfunnet. Dermed vil det også bidra til å øke det norske samfunnets evne, herunder majoritetsbefolkningens vilje, til å absorbere flere innvandrere. Det er spesielt viktig at man i frykt for å bli stemplet fremmedfiendtlig ikke viser toleranse for intoleranse og verdier/normer som er det norske samfunnet fremmed. Kulturelt motivert valg av trygd fremfor arbeid blant kvinner i enkelte grupper er et åpenbart eksempel.[^426] Det er naturlig at en stat med sjenerøse, universelle skattefinansierte velferdsordninger kan ha tydeligere forventninger om at innvandrere tilpasser seg norsk kultur og norske verdier enn stater som tilbyr innvandrere færre slike goder.
 
-Nettoutgift
+*Merknad fra utvalgets medlem Asle Toje:*
 
-Per gjenstående leveår fra fødsel
+Utvalgets medlem Asle Toje betoner at kultur-variablene ikke er tilstrekkelig problematisert i kapittel 9. I dette svarer utvalget ikke på mandatet som nevner kultur hele tre ganger. Nasjonalstaten har tradisjonelt hatt som oppgave å bære fram, en spesifikk kultur, den nasjonale. Rapportens framskrivinger tar utgangspunkt i at etniske nordmenn ikke vil komme i mindretall, noe som er interessant siden dette er en nødvendig konsekvens dersom dagens innvandringspolitikk videreføres. Rapporten simpelthen stipulerer at innvandringen vil avta, uten å forklare hvorfor eller hvordan. Insentivene i systemer godtgjør ikke antagelsen. Høy og permanent innvandring vil bli en akutt utfordring for norsk kultur, noe som alt manifesterer seg i stadige debatter om norsk kultur og symboler som oppleves som problematisk for innvandrere. Utvalget tar en snarvei ved å legge til grunn at Norge har en tynn, verdibasert identitet, mens realiteten er at vi har en «tykk» (og langt på vei «innat-lært») kultur som det krever betydelig innsats å tilegne seg. Norge er ikke bare et land, det er også den norske nasjonens hjem. I århundrenes løp har denne nasjonen utviklet en kultur som er like distinkt som andre nasjoners og som ikke på noen meningsfull måte oppsummeres av universelle verdier. Sagt enkelt: Frihet er viktig for nordmenn men å like frihet gjør deg ikke norsk. I land som Danmark, Storbritannia og Frankrike ser vi en bevegelse mot tydeligere forventinger om tilslutning til en bredere kultur enn den tynne versjonen som flerkultur tar høyde for.[^427] Europeiske stater har tidligere løst denne typen utfordring gjennom aktiv nasjonsbygging. Patriotisme øker befolkningens mobiliseringspotensial og solidaritet. Det vil være ønskelig i en kontekst der storstilt innvandring av fremmedkulturell lavskolert arbeidskraft setter kollektive velferdsordninger under press. Mer aktive, normative, pålegg kan også skape integrasjon gjennom å gjøre samfunnets kultur eksplisitt og således lettere å navigere for nye borgere. Slike økte forventninger kan og bør gjøres til betingelser for statsborgerskap. Det er naturlig at en stat med sjenerøse, universelle skattefinansierte velferdsordninger kan ha tydeligere forventninger på dette felt enn stater som tilbyr innvandrere færre goder.
 
-113
+1.  **Vurderinger av relevante politikkområder**
 
-249
-
-136
-
-Per gjenstående leveår fra 25 år
-
-165
-
-264
-
-99
-
-Inntekt
-
-Utgift
-
-Nettoutgift
-
-80
-
-256
-
-170
-
-1
-
-Beløpene i ulike år er neddiskontert til 2013-kroner med rente lik 3 prosentvekst. Summen av beløpene er dividert på gjenstående leveår.
-Kilde: Holmøy, E. mfl. (2017a)
-
-pologier, det vil si tenkte økonomiske livsløp for
-flyktningen under ulike forutsetninger om integrering i arbeidsmarkedet.31 Her vises effektene
-av ulike typer mannlige flyktninger som er 25 år
-ved ankomst og som ikke utvandrer. Det ses bort
-fra effekter som knytter seg til innvandrerens
-barn, barnebarn osv. Forløpene er (tilnærmet)
-identiske de første tre årene i Norge: 365 dager tilbringes i asylmottak før opphold og bosetting. De
-følger så introduksjonsprogrammet i de to føl31
-
-Holmøy, E., Romay, C. P, Sagelvmo, I. & Strøm, B. (2017a).
-Bidrag fra innvandrere og norskfødte til offentlige inntekter
-og utgifter på lang sikt. Kommer i serien Rapporter fra Statistisk sentralbyrå.
-
-gende årene. Deretter beregnes bidragene til offentlige inntekter og utgifter av fire forløp:
-1. Maksimal økonomisk integrering: Den økonomiske atferden er den samme som for en innvandrer fra landgruppe 2. Dette betraktes som
-det maksimale man kan regne med for en forholdsvis bred gruppe av flyktninger fra lavinntektsland.
-2. Minimal økonomisk integrering: Flyktningene
-kommer ikke i jobb som gir nevneverdig inntekt. De forsørges i stedet av offentlige overføringer, som ganske raskt blir uføretrygd lik
-2,48 G fram til alderspensjon som blir lik garantipensjonen.
-
-800
-
-600
-
-400
-
-200
-
-0
-
--200
-
--400
-2016
-
-2026
-
-2036
-
-2046
-
-2056
-
-2066
-
-2076
-
-2086
-
-2096
-
-Snitt landgruppe 2
-
-Snitt landgruppe 3
-
-Maksimal integrering
-
-Minimal integrering
-
-Vellykket, men ufullkommen integrering
-
-Videreføring av hittil vanlig integrering
-
-2106
-
-Figur 8.5 Bidrag til offentlige netto utgifter per ny mannlig flyktning som ankommer som 25-åring i
-2016. 1 000 2013-kroner.
-Kilde: Holmøy, E. mfl. (2017a)
-
-[Side 158]
-
-158
-
-Kapittel 8
-
-NOU 2017: 2
-Integrasjon og tillit
-
-3. Vellykket, men ufullkommen økonomisk integrering: Yrkesinntekten per person øker til et
-uveid gjennomsnitt av gjennomsnittene for innvandrere fra landgruppe 2 og 3. Det samme
-gjelder forløpet for samlede offentlige overføringer.
-4. Videreføring av forløpet som har vært vanlig hittil: 32 Dette innebærer blant annet at sysselsettingsandelen øker fra 0 til 65 pst. i løpet av sju
-år, for deretter å avta, slik de typiske forløpene
-for mannlige flyktninger har gjort. Yrkesinntekten per sysselsatt antas lik gjennomsnittet
-av yrkesinntekten for dem i landgruppe 2 og 3
-som har yrkesinntekt som hovedinntekt. Andelen som mottar helserelaterte ytelser øker med
-2 prosentenheter hvert år etter bosetting.
-
-likningens skyld viser figuren også tilsvarende
-livsløpsberegninger for gjennomsnittet av mannlige innvandrere fra landgruppe 2 og 3 som er 25
-år ved ankomst. Nesten hele forskjellen i yrkesaktiv alder kommer fra bidraget til skatteinntekter.
-Etter alderspensjonering er forskjellene ganske
-små, og utgiftene til helse og omsorg er da de
-samme. Alderspensjonssystemet sørger fortsatt
-for betydelig utjevning, og aldersspesifikk dødelighet er lik for alle grupper. I 2031, når flyktningene er 40 år gamle, gir de maksimalt integrerte
-et nettobidrag på 240 000 2013-kroner til offentlige
-finanser, mens de ikke-integrerte bidrar med minus 258 000 2013-kroner, altså en forskjell i dette
-ene året på nesten en halv million kroner, målt i
-dagens kroneverdi.
-
-Figur 8.5 viser hvordan offentlige nettoutgifter utvikler seg i de fire alternativene. For sammen-
-
-Boks 8.2 Hvor mye betyr det for offentlige finanser at innvandrere har etterkommere?
-fødsler. Befolkningstilskuddet blir klart størst
-Slektsberegningene skiller seg fra livsløpsbeved flere norske fødsler, fordi lav utvandring i
-regningene på tre måter. For det første inkludedenne gruppen betyr langt flere kvinner i fruktrer de ikke bare bidragene til offentlige inntekbar alder 20–40 år senere.
-ter og utgifter fra innvandrerne selv, men også
-For alle innvandrergruppene er det betydebidragene fra de norskfødte etterkommerne.
-lige «startutgifter» knyttet til økte offentlige
-Det forutsettes at etterkommerne har samme
-overføringer og til at de nye innbyggerne får tiløkonomiske atferd som andre norskfødte. For
-gang til offentlige tjenester. Forholdsvis høy sysdet andre studerer de ikke en bestemt innvanselsetting blant innvandrerne fra landgruppe 1
-drertypologi, men en gruppe på 10 000 innvanog 2 fører imidlertid til at de raskt bidrar til å
-drere som ankommer i 2016. Gruppen er fordelt
-øke offentlige nettoinntekter. Bidraget avtar
-på kjønn og alder i tråd med observasjoner for
-over tid. I de første tiårene skyldes det gjenutde siste årene. Virkningene sammenliknes med
-vandring. Bidraget blir negativt når de gjenvæ10 000 flere norskfødte uten innvandrerbakrende i disse gruppene gradvis pensjoneres,
-grunn i 2016. Virkningene divideres på 10 000
-samtidig som utgiftene til alderspensjon, helsefor å få gjennomsnittsvirkninger per ekstra inntjenester og eldreomsorg ikke dekkes av skattebygger. For det tredje tas det hensyn til gjenutinntektene fra de ekstra etterkommerne. Til
-vandring.
-sammenlikning gir innvandring fra landgruppe
-De økonomiske virkningene av en gitt øk3 lavere sysselsetting og skatteinntekter, høyere
-ning i innbyggertallet i 2016 avhenger av hvor
-offentlige overføringer og høyere startkostnade ekstra innbyggerne kommer fra, både fordi
-der fordi gruppen inneholder flere barn.
-individene i de fire landgruppene har ulik alder
-På lang sikt er det etterkommerne som dofor gitt kjønn, og fordi det befolkningstilskuddet
-minerer virkningene, og disse antas som sagt å
-som over tid genereres av den ekstra innvandha samme atferd som majoritetsbefolkningen.
-ringen, utvikler seg ulikt. Befolkningstilskuddet
-De relativt små forskjellene mellom innvandrerreduseres forholdsvis raskt når innvandrerne
-gruppene etter 2080 i figur 8.6 skyldes derfor i
-kommer fra landgruppe 1 og 2, i første rekke på
-hovedsak ulik aldersfordeling blant de ekstra etgrunn av gjenutvandring. Tilskuddet holder seg
-terkommerne.
-høyere ved innvandring fra landgruppe 3 som
-følge av lavere gjenutvandring og flere ekstra
-
-[Side 159]
-
-159
-
-NOU 2017: 2
-Integrasjon og tillit
-
-Kapittel 8
-
-Boks 8.2 forts.
-Norskfødte genererer i gjennomsnitt langt høyere skatteinntekter enn innvandrere i de årene
-flertallet av både 2016-kullet og deres barn er i
-arbeid. På den andre siden blir også pensjonsutbetalingene høyere. Det samme gjelder barnerelaterte utgifter, siden de fleste i innvandrergruppene ankommer som voksne. Syklene i kurvene
-skyldes at flere generasjoner lever side om side
-med varierende andeler av yrkesaktive. Det gjør
-årlige gjennomsnitt av beregningene svært følsomme for valg av periodelengde. Når beregnin-
-
-gene føres fram til 2150, genererer en norskfødt
-høyere netto utgifter enn en ekstra innvandrer
-fra landgruppe 3, dels som følge av en større andel barnerelaterte utgifter i gjennomsnittstallet,
-dels fordi det genereres flere individer som alle
-påfører det offentlige en nettoutgift gjennom
-livsløpet. En ekstra innvandrer fra landgruppe 3
-genererer større offentlige nettoutgifter enn en
-innvandrer fra de øvrige landgruppene, gitt forutsetningene om blant annet videreføring av observert atferd.
-
-400
-300
-200
-100
-0
--100
--200
--300
-2016
-
-2026
-
-2036
-
-2046
-Norskfødte
-
-2056
-
-2066
-
-2076
-
-Landgruppe 1
-
-2086
-
-2096
-
-2106
-
-Landgruppe 2
-
-2116
-
-2126
-
-2136
-
-2146
-
-Landgruppe 3
-
-Figur 8.6 Virkninger på offentlige netto utgifter per ny innbygger i 2016. 1000 2013-kroner.
-Kilde: Holmøy, E. mfl. (2017a)
-Kilde: Se fyldig omtale av slektsberegninger i Holmøy, E., C. P. Romay, I. Sagelvmo og B. Strøm (2017a). Bidrag fra innvandrere
-og norskfødte til offentlige inntekter og utgifter på lang sikt. Kommer i serien Rapporter fra Statistisk sentralbyrå.
-
-8.7
-
-Oppsummering
-
-Analysen i dette kapitlet har forsøkt å belyse hvordan fordeler og ulemper ved innvandring kan tenkes å fordele seg på den eksisterende befolkningen og på de nye innvandrerne. Det legges vekt
-på effekter av innvandring for levestandarden, uttrykt ved realinntekt etter skatt.
-De som trolig har klarest fordel av innvandringen, er innvandrerne selv. Flytting til Norge vil
-32
-
-Se Bratsberg, B., Raaum, O., & Røed, K. (2014). Arbeidsinnvandring-Varig gevinst?. Søkelys på arbeidslivet, 31 (4),
-275-293.
-
-for mange bedre levestandarden mye og raskt.
-Det gjelder for både arbeidsinnvandrere og flyktninger, selv om flyktninger per definisjon kommer
-for å få beskyttelse.
-For den eksisterende befolkningen er virkningene av innvandring mer sammensatte. Innvandringen påvirker realinntekten først og fremst gjennom tre kanaler: priser på det man kjøper for inntekten, timelønn før skatt og sannsynligheten for å
-få arbeid, og skattebyrden.
-– Innvandring gir økt konkurranse i deler av arbeidsmarkedet og i mange tjenestemarkeder,
-og dermed lavere prisvekst til fordel for alle forbrukere.
-
-[Side 160]
-
-160
-
-NOU 2017: 2
-
-Kapittel 8
-
-–
-
-–
-
-Integrasjon og tillit
-
-Den samlede fordelen av lavere priser blir mer
-uklar og mer ujevnt fordelt når man tar hensyn
-til at lavere priser skyldes lavere lønnskostnader. Jo lettere arbeidstakere i den eksisterende
-befolkningen på kort sikt kan erstattes av innvandrere, desto mer utsatt er de isolert sett for
-negativt press på lønn og arbeidsmiljø. På lengre sikt er det gevinster å hente hvis arbeidstakerne som slutter i én type jobb, øker sin kompetanse og får høyere lønn i den jobben de går
-til.
-Den eksisterende befolkningen kan isolert sett
-oppleve økt skattebyrde eller redusert offentlig
-velferdstilbud dersom innvandrerne i større
-grad enn norskfødte forsørges av det offent-
-
-lige. I tillegg vil innvandring innebære at statens petroleumsformue må deles på flere. Erfaringsmessig har flyktninger og andre innvandrere fra lavinntektsland bidratt klart mer til
-offentlige utgifter enn til offentlige inntekter.
-Det motsatte kan være tilfellet når det gjelder
-arbeidsinnvandrere med relevant kompetanse.
-Innvandring som svekker offentlige finanser,
-vil forsterke hovedutfordringen som følger av
-en vesentlig økning i andelen eldre i tiårene
-framover. Dette understreker og tydeliggjør
-viktigheten av å lykkes med å øke sysselsettingen hos grupper som så langt har hatt en forholdsvis svak tilknytning til arbeidsmarkedet.
-
-[Side 161]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-161
-
-Kapittel 9
-
-Kapittel 9
-
-Samhold og tillit
-9.1
-
-Innledning
+    1.  **Innledning**
 
 Utvalget er bedt om å
-[…] vurdere i hvilken grad fortsatt høy innvandring kan komme til å påvirke samhold og
-tillit i Norge. Viktige spørsmål er i hvilken
-utstrekning og hvordan innvandringen kan
-føre til større økonomisk, sosial, kulturell og
-verdimessig ulikhet, hvilken betydning dette
-vil kunne ha for samfunnsutviklingen på sikt og
-for forholdet mellom ulike befolkningsgrupper. Utvalget skal også drøfte hva som kan
-bidra til å redusere faren for polarisering og
-konflikt og styrke fellesskaps- og trygghetsfølelsen i befolkningen.
-De nordiske velferdsstatene oppsto og utviklet
-seg i samfunn der ulikheter mellom innbyggerne
-var mindre enn i mange andre europeiske land.
-De religiøse og sosiale forskjellene var begrensede, og de etniske minoritetene (samer, inuitter)
-bodde i stor grad i geografisk avgrensede områder langt fra maktsentrene. I velferdsforskningen
-argumenteres det for at denne likheten skapte en
-følelse av samhold og tillit som gjorde omfattende
-omfordeling mulig.1 På den andre siden er det
-mye som tyder på at omfordelende og velfungerende velferdsordninger også skaper eller bidrar
-til å opprettholde tillit.2 I så fall oppstår positive
-spiraler der velferdsordningene både baserer seg
-på tillit og bidrar til å vedlikeholde tilliten. I lys av
-dette argumentet oppstår uro og bekymring i en
-situasjon der tilstrømmingen av borgere fra andre
-samfunn er stor: Hva skjer med tillitsbaserte ordninger når samfunnet blir mindre homogent? Vil
-samfunnsborgerne i et heterogent samfunn be1
 
-2
+\[...\] analysere sammenhengen mellom velferdsordninger og innvandring til Norge. Herunder skal utvalget analysere og vurdere om gjeldende generelle inntektssikringsordninger, arbeidsmarkeds- og kvalifiseringstiltak, utdanningstilbud og annet offentlig tjenestetilbud er hensiktsmessig utformet og dimensjonert i en situasjon der flyktninger og deres familie utgjør en stor andel av innvandringen. Utvalget skal også vurdere hvordan de særskilte ordningene som gjelder mottak av asylsøkere og bosetting, opplæring og kvalifisering av flyktninger, bidrar til at de raskt kommer i arbeid og deltar aktivt i samfunnslivet.
 
-Bergh, A. & Bjørnskov, C. (2011). Historical Trust Levels
-Predict the Current Size of the Welfare State. Kyklos.
-doi:10.1111/j.1467-6435.2010.00492.x.
-Kumlin, S. & Rothstein, B. (2005). Making and Breaking
-Social Capital: The Impact of Welfare-State Institutions.
-Comparative
-Political
-Studies,
-doi:10.1177/
-0010414004273203.
+Flyktninger har lenge vært svakt integrert i arbeidsmarkedet. Dette gjelder ikke bare i Norge.[^428] Den høye tilstrømningen av asylsøkere og flyktninger i 2015 aktualiserte dette problemet. Flyktninger kommer ikke til Norge *for å* søke arbeid, men det er like fullt et tankekors at arbeidsmarkedet framstår som lukket (se kap. 5), mens velferdsstaten er langt mer åpen (se kap. 6). Utvalgets hovedanliggende har således vært å identifisere noen årsaksforhold og utfordringer, samt peke på noen grep (endringer og/eller tilpasninger i regler og praksis) som kan bidra til å forbedre integreringsevne og -kapasitet innenfor dagens regime.
 
-holde samme tillit til hverandre, og til de omfordelende institusjonene? Hvilke kulturelle og økonomiske forskjeller er akseptable i en religiøst og etnisk heterogen velferdsstat, og hvilke skaper problemer for oppslutning, samhold og tillit? I dette
-kapitlet drøfter utvalget hva som er særegent med
-den norske samfunnsmodellen, gjennomgår integrerings- og assimileringsbegrepet i lys av denne,
-og presenterer noen refleksjoner rundt hvordan
-problematiske forskjeller kan håndteres. Videre
-diskuteres problemstillinger knyttet til religion og
-religiøst motivert ekstremisme. I siste del av kapitlet presenteres en kunnskapsstatus om hva
-forskningen sier om oppslutning om velferdsordninger i lys av innvandring.
-Utvalget er bedt om å se på velferdsstatlige utfordringer som er knyttet til høy innvandring. Det
-finnes en rekke andre faktorer som kan underminere grunnlaget for samhold og tillit i et land, uavhengig av innvandring. Blant de viktigste er trolig
-økonomisk stagnasjon, med tilhørende arbeidsledighet, manglende lønnsvekst og økende økonomisk ulikhet. Innvandring kan samspille med faktorer som dette og bidra til å forsterke de utfordringene som oppstår.
-En hovedhypotese i kapitlet er at de mest alvorlige problemene oppstår når forskjellige ulikhetsdimensjoner overlapper – når de gruppene
-som er mest kulturelt forskjellige fra majoriteten,
-også er de med minst ressurser og de som står
-lengst fra arbeidsmarkedet. Hvis det ikke lykkes å
-integrere flere nykommere i produktivt arbeid,
-kan det på lengre sikt påvirke velferdsstatens legitimitetsgrunnlag. For innvandrere kan det være
-vanskelig å utvikle tillit til et nytt samfunn hvis de
-opplever diskriminering, hvis de oppfatter at institusjonene i landet de har kommet til, behandler
-dem vilkårlig og dårlig, og hvis de ikke gis et rimelig rom for å leve som de ønsker. For majoriteten kan tilliten undergraves hvis de opplever at
-innvandrere i for liten grad bidrar til fellesskapet,
-og at det oppstår sterke tendenser til segregasjon
-i enklaver preget av holdninger og praksiser majoriteten oppfatter som uakseptable.
+Mandatpunktet er svært omfattende, og utvalget har vært nødt til å gjøre noen avgrensninger, og en del berørte politikkområder omtales ikke. Utvalget viser til at det i løpet av utvalgets arbeidsperiode har blitt fremmet og vedtatt flere relevante politikkendringer. Ingen av disse endringene har blitt evaluert. Flere av endringene vil iverksettes etter utvalgets arbeidsperiode, og det er derfor vanskelig for utvalget å vurdere disse på faglig grunnlag. Utvalget har i tråd med mandatet så langt som mulig tatt hensyn til relevante utredninger og meldinger i analyser og vurderinger. Utvalget oppfatter at dette er en arbeidsdeling, og har derfor i liten grad gått inn i problemstillinger der det er nedsatt andre utvalg eller rådgivende grupper med problemstillinger som overlapper dette utvalgets mandat. Utvalget henviser også til at det i regjeringens arbeid med perspektivmeldingen bl.a. vil bli sett på forutsetninger for videreføringen av de norske velferdsordningene i en større kontekst. Se for øvrig oversikten over relevante prosesser i kapittel 2.5.
 
-[Side 162]
+Gitt mandatet og den begrensede arbeidstiden har utvalget avgrenset seg til den særskilte politikken rettet mot flyktninger og innvandrere, det vil si mottakssystemet, bosettingspolitikken og integreringspolitikken. I tillegg vurderes relevante sider av den generelle utdannings-, arbeidslivs- og velferdspolitikken. En viktig avveining er hvordan man kan redusere barrierene til arbeid eller utdanning for flyktninger uten at det samtidig – med en viss sannsynlighet – gjør Norge mer attraktivt for asylsøkere. Videre gjelder det hvordan man kan gjøre investeringer til riktig tid i flyktningers liv i Norge, når de ikke følger et ordinært forløp gjennom utdanning og arbeidsliv. Dessuten er det spørsmål om hvordan det kan skapes insentiver for arbeidsgivere til å rekruttere arbeidstakere de antar er mindre produktive, og hvordan det kan tilrettelegges for kvalifiseringsløp i arbeidslivet uten at dette påvirker arbeidsmarkedets virkemåte mer generelt.
 
-162
+I dette kapitlet er det et underliggende tema at vedvarende høy innvandring, særlig av flyktninger, vil kunne få stor betydning for kapasiteten til ordninger og tjenester på mange samfunnsområder. Det gjelder ikke bare for mottak, bosetting og særskilte integreringstiltak, men også på områder som utdanning, arbeidsmarked, helse, barnevern mv. Belastningen på systemet kan bli så stor at det ikke er mulig å håndtere situasjonen uten betydelige forenklinger og innstramminger. Mest mulig effektiv ressursbruk vil være avgjørende for å kunne opprettholde et minimumsnivå når det gjelder omfang av og kvalitet på offentlige tjenester og velferdsordninger.
 
-NOU 2017: 2
+1.  **Flyktninger, mottak og bosetting**
 
-Kapittel 9
+    1.  **Flyktning- og innvandringspolitikken**
 
-9.2
+Utvalget er ikke bedt om å se på *flyktning- og innvandringspolitikken* som sådan, men i mandatet bes utvalget om å
 
-Integrasjon og tillit
+\[…\] analysere sammenhengen mellom velferdsordninger og innvandring til Norge.
 
-Likhet som ressurs og problem
+Det har stor betydning for offentlige finanser at innvandrere blir integrert i arbeidslivet og forblir yrkesaktive (se kap. 8). Problemer knyttet til manglende integrasjon vil bli forsterket med økende omfang på innvandringen.
 
-Ethvert innvandringsland vil ha sitt særpreg.
-Både den opprinnelige befolkningen og de ulike
-nykommerne i samfunnet vil ha sin historiske og
-kulturelle arv, og denne preger kontakten som
-oppstår på tvers av kulturelle grupper. I tillegg vil
-de institusjonelle forholdene i mottakerlandet gi
-føringer for hvordan myndighetene forholder seg
-til mangfoldet. Kulturen3 som dominerer, representerer handlingsbetingelser for hva det er mulig
-å gjøre innenfor en nasjonal sammenheng. Med
-andre ord finnes det et nasjonalt politisk, sosialt
-og kulturelt jordsmonn som er historisk skapt, og
-som danner et felles grunnlag for hva befolkningen oppfatter som legitimt. Den nasjonale kulturen former også hvordan innbyggerne er i stand
-til å vise solidaritet med hverandre og med nykommere.
-«Likhet» er et sentralt stikkord i Norge. «Likhet» er både en beskrivelse av samfunnsforholdene, og et ideal man kan spille på i politiske sammenhenger. Norge har vært mer etnisk homogent
-enn mange andre land i Europa og har historisk
-også hatt en svak adel og lite framtredende
-standsforskjeller sammenliknet med andre land.
-Siden andre verdenskrig har velferdsstatsutvikling på mange måter vært ledd i et overordnet likhetsskapende prosjekt, der demokrati, medborgerskap og modernisering har vært viktige ingredienser. Mellomkrigstidens hovedavtale mellom
-Landsorganisasjonen og Arbeidsgiverforeningen
-og arbeiderbevegelsens politiske mål om medbestemmelse og økonomisk utjevning var sentrale
-forutsetninger for denne utviklingen. I moderne
-tid har lik rett til utdanning og omfattende innsats
-for å redusere inntektsforskjeller vært sentrale
-virkemidler, i tillegg til aktiv politikk for å redusere forskjeller basert på kjønn (kjønnslikestilling). Idealene og ideologien om det likhetsorienterte samfunnet har etter hvert også spilt en viktig
-rolle i norsk politikkutvikling. Likhet er en norm
-og en referanse som setter rammer for hvilke ar3
+Utvalget vil understreke at den norske samfunnsmodellen har innvandringsregulering som et sentralt premiss. Den universalistisk orienterte velferdsmodellen ble i utgangspunktet etablert uten innvandring for øye. Velferdsordningene var tiltenkt statsborgere og andre med fast tilknytning til Norge. Etter at velferdsmodellen ble etablert, har det like fullt vært politisk støtte i den norske befolkningen for å åpne for innvandring av etterspurt utenlandsk arbeidskraft, flyktninger og familien til herboende.
 
-«Kultur» er et uklart og ladet begrep som brukes på forskjellige måter både i akademisk litteratur og i offentlig diskusjon. Blant annet pågår det omfattende diskusjoner om i
-hvilken grad kulturer endres over tid, i hvilken grad det er
-mulig å definere nasjonale kulturer, hva som er sentrale og
-mindre sentrale sider ved lokale/nasjonale kulturer, om
-symmetri og asymmetri (makt og avmakt) i kulturelle
-møter. Vi kan ikke gå inn i en omfattende drøfting av dette,
-men slår fast at vi legger mer vekt på normative prinsipper,
-verdier og institusjoner enn på folkeskikk, lokale praksiser,
-symboler og myter når vi bruker kulturbegrepet. For en
-mer omfattende diskusjon, se Orgad, L. (2015). The Cultural Defence of Nations. A Liberal Theory of Majority Rights.
-Oxford: Oxford University Press.
+Innvandringsregulering er imidlertid stadig viktig for å kunne opprettholde den norske arbeids- og velferdsmodellen. På den andre siden har det også vært nødvendig – institusjonelt og menneskelig – å inkludere nykommere, særlig i arbeidslivet, men også i velferdssamfunnet. Likebehandling i tilgang på rettigheter og lønn har vært ansett som en systemisk nødvendighet. Ambisjonene i den norske modellen om relativt små forskjeller i materiell velstand, høy økonomisk vekst og et sjenerøst skattefinansiert velferdstilbud krever høy sysselsetting. Evnen til å realisere disse ambisjonene utfordres hvis innvandrere har vesentlig dårligere levekår og lavere sysselsetting enn norskfødte. Den norske modellen, basert på samspillet mellom en sjenerøs og rettighetstildelende velferdsstat og et velordnet arbeidsliv, tåler ikke vesentlige innslag av varig marginaliserte grupper. Nye samfunnsmedlemmer må inkluderes i det sosiale og økonomiske reisverket for at det ikke skal undermineres på sikt. Det har derfor vært – og er – viktig at antallet som kommer, tilpasses absorberingskapasiteten i samfunnet.
 
-gumenter som kan benyttes i offentlig debatt. Likhet, likestilling og likeverd har således blitt vedvarende premisser for oppslutning og legitimitet i
-norsk politikk etter at etterkrigstidens velferdsinstitusjoner kom på plass.
-Man skal like fullt være forsiktig med å overdrive likhet og harmoni. Det norske samfunnet
-har alltid også vært preget av motsetninger og
-konflikt. Norge har aldri vært et helt homogent
-samfunn – landet har opplevd innvandring siden
-Norge ble en statsdannelse på 900-tallet.4 Dette
-har bidratt til at også Norge har hatt et visst etnisk-kulturelt mangfold opp gjennom tidene, og
-det har også betydd diskriminering og undertrykking av minoriteter. Både samer, romfolk, tatere
-og kvener har vært utsatt for til dels hardhendt
-politikk for å gjøre dem til deler av det nasjonale
-fellesskapet på majoritetens premisser. Likhet
-som sosialt faktum og som verdi kan være utfordrende for personer med bakgrunn fra andre kulturer – noe som også er en høyst aktuell problemstilling for innvandrere og deres etterkommere i
-det moderne Norge. Samtidig kan majoritetsbefolkningen føle uro over at likhetsidealene forvitrer når samfunnet blir mer kulturelt heterogent.
-Før 1970-tallet var innvandringen til Norge liten, og de fleste innvandrerne kom fra våre naboland. Da innvandrere begynte å komme fra fjernere områder enn tidligere – og fra mer ukjente
-kulturer – oppsto nye problemstillinger for den
-norske velferdspolitikken. Modellen la viktige
-premisser for hvordan det var mulig og ønskelig å
-håndtere innvandring institusjonelt.5 Innvandrere
-måtte inkluderes som likeverdige borgere i de institusjonelle strukturene, når det gjaldt arbeidsliv,
-utdanning og velferd. Moderne rettsstater er forpliktet gjennom internasjonale avtaler til å likebehandle lovlig etablerte innvandrere og statsborgere med hensyn til de fleste sivile og sosiale rettigheter. Norge valgte også etter hvert å gi innvandrere uten statsborgerskap politiske rettigheter i
-form av stemmerett og valgbarhet ved lokalvalg. I
-tillegg ble det utviklet en politikk for å fremme integrasjon – en reell innlemming av nye medlemmer i samfunnet ut over det rent rettighetsmessige. Integrasjonspolitikken dreier seg om tiltak
-rettet mot lovlig etablerte innvandrere for å støtte
-opp under innlemmingsprosessen i samfunnet og
-for å styrke deres forutsetninger for å kunne reali4
-5
+Dette norske innvandringsregimet – med en restriktiv front og en inkluderende innside – preget Norge i perioden fra 1975 til århundreskiftet.[^429] I dag må bildet nyanseres fordi forutsetningene for å opprettholde dette regimet er endret. Grunnprinsippene kan bli utfordret både av den markedsstyrte EU-innvandringen, som skjøt fart etter EU-utvidelsen østover i 2004 og 2007, og et høyt antall av asylsøkere og flyktninger – gitt Norges internasjonale forpliktelser. Norge er i dag i større grad prisgitt internasjonale forhold når det gjelder innvandringsregulering. Likebehandlingen er like viktig som før, hvis premisset er å opprettholde grunntrekkene i den norske velferds- og arbeidslivsmodellen, men mulighetene for å få det til har forandret seg betraktelig.
 
-Brochmann, G. & Kjeldstadli, K. (2014). Innvandringen til
-Norge: 900–2010. Oslo: Pax.
-Se NOU 2011: 7 Velferd og migrasjon; Brochmann, Grete
-(2016). Innvandring til Skandinavia. Velferdsstater i pluralismens tid. I Frønes, I. & Kjølsrød, L. (red.). (2005). Det
-norske samfunn. Oslo: Gyldendal akademisk.
+Spørsmålene knyttet til vanskelig regulerbar innvandring er av ulik karakter. Utvalget har i kapittel 8 påpekt uheldige virkninger for arbeids- og velferdsmodellen av lavlønnskonkurranse som følge av sterk tilstrømning av lavt kvalifisert arbeidskraft. Denne typen konkurranse kan presse lønnsnivået ned i de bransjene som er utsatt, og kan på lengre sikt også presse ned nivået på velferdsytelser, for at det stadig skal lønne seg å jobbe. Hvis en vesentlig andel av innvandrerne ikke er selvforsørgende – på kort eller noe lengre sikt – kan høy innvandring forsterke den kraftige veksten i skattefinansierte kontantytelser og tjenestetilbud som vil følge av sterk vekst i de eldres befolkningsandel i tiårene framover. Denne svekkelsen av offentlige finanser vil føre til redusert offentlig velferdstilbud og/eller voksende skattebyrde. Både negativt lønnspress og høyere skattesatser innebærer en inntektsoverføring fra sysselsatte norskfødte til innvandrere utenfor arbeidslivet (se kap. 8).
 
-[Side 163]
+Ved siden av disse potensielle system-, budsjett- og omfordelingsproblemene vil en vesentlig økning i antall asylsøkere og flyktninger presse kapasiteten i forvaltningen. Antallet som kommer, har mye å si for hvilket mottaksapparat det kan legges opp til, og for flyktningene selv. Høye ankomsttall vil bety lengre ventetid i alle ledd. Dette kan i neste instans også bety en forsinket integrasjonsprosess, noen ganger med varig marginalisering som følge.
 
-NOU 2017: 2
-Integrasjon og tillit
+Mangel på forutsigbarhet vanskeliggjør mottaks- og bosettingssystemet, og kan skape barrierer. Større forutsigbarhet kan gi en bedre plattform for mottak og integrering av flyktninger i arbeids- og samfunnsliv. Samtidig kan forsøk på å oppnå større forutsigbarhet komme i konflikt med det eksisterende flyktningregimet, der mennesker på flukt gis rett til individuelt å søke beskyttelse.
 
-sere sine rettigheter til deltakelse på like fot. I tillegg har det offentlige drevet holdningsskapende
-arbeid overfor majoriteten6 for å skape grobunn i
-befolkningen for at integrasjonsprosjektet skal
-lykkes – for å etablere oppslutning om integrasjonspolitikken og vilje til en viss gjensidig tilpasning som kan fremme reell inkludering og deltakelse.
-Sosiale rettigheter, økonomisk omfordeling og
-demokratisk representasjon er grunnpilarer i det
-norske systemet. Disse pilarene er viktige forutsetninger for realiseringen av likestilling og likeverd mellom samfunnets medlemmer og for oppbygging og videreutvikling av tillit i Norge i det
-21. århundret. Rettighetene har bidratt til utjevning og deltakelse, som igjen har bidratt til kulturell identitet, samhold og lojalitet til de sentrale offentlige institusjonene. Dette har skapt grunnlag
-for det man i dag kaller sivil og sosial kohesjon eller «sammenbindingskrefter». Kohesjon er en vid
-samlebetegnelse for begreper som samhold, samhørighet og samfunnsmessig solidaritet, som
-gjerne knyttes til brede felles verdier og målsettinger i et samfunn – selv om samfunnet består av
-mennesker med ulik bakgrunn. Kohesjon og tillit
-er beslektede begreper, men mens tillit også kan
-eksistere mellom mennesker mer direkte, er kohesjon et begrep som mest brukes på samfunnsnivået.
-Det har vært og er tverrpolitisk oppslutning
-om velferdsstatens grunnstruktur. Noe av forklaringen på denne stabiliteten er trolig at den norske arbeidslivs- og velferdsmodellen er forankret i
-institusjonelle ordninger, har legitimitet og bred
-representasjon og er støttet av organisasjonene i
-arbeidslivet og sivilsamfunnet. Barth og Moene
-(2015) har beskrevet det de kaller «likhetsmultiplikatoren» i vestlige velferdsstater. Utgangspunktet er at det eksisterer en toveis interaksjon mellom arbeidslivet og velferdsstaten, der tyngdepunktet ligger på arbeidslivssiden. Etterspørselen
-etter velferdsordninger er størst i land der lønnsfordelingen er jevnest. Dette tilsynelatende para6
+Utvalget mener at det stadig finnes en grunnforståelse om at regulering av innvandring er nødvendig for å kunne realisere ambisjonene om å skape gode levekår for alle med lovlig opphold. Det er etter utvalgets syn derfor nødvendig fortsatt å regulere innvandringen med tanke på omfang og sammensetning der dette er mulig. Dette hensynet må imidlertid balanseres mot humanitære og andre internasjonale forpliktelser. Det er et politisk valg å finne den riktige balansen mellom disse hensynene.
 
-«Majoriteten» er en annen vanskelig størrelse. Majoriteten
-er en sammensatt enhet med indre konflikter og manglende konsensus om mange spørsmål. Orgad L. (2015).
-Ibid:186 deler «majoritet» inn i tre dimensjoner: en etniskkulturell, en «sosiologisk» (dvs. den gruppen som har den
-sterkeste politiske, økonomiske og kulturelle makten i
-samfunnet) og en idébasert (den gruppen som i høy grad
-deler de verdiene og prinsippene som dominerer i et samfunn). I Norge vil majoriteten – slik vi bruker begrepet – ha
-elementer av alle disse dimensjonene. Majoriteten endrer
-seg også over tid, og i tråd med Statistisk sentralbyrås definisjon inkluderer den i dag også adopterte, norskfødte med
-en utenlandsfødt forelder og norskfødte med to norskfødte
-foreldre og fire utenlandsfødte besteforeldre (se kap. 3.6).
+Når det gjelder *innvandring fra EU-land*, begrenser de norske forpliktelsene gjennom EØS-avtalen i høy grad handlingsrommet innenfor både reguleringer av tilstrømning og tilgang på velferdsgoder. Dette ble grundig gjennomgått i NOU 2011: 7. Samtidig pågår det også på dette området en politisk prosess internasjonalt, ved at sentrale EU-land ønsker reformer både når det gjelder fri bevegelse og tilgang på velferdsrettigheter for arbeidsmigranter. Brexit og EUs avtale med Tyrkia vitner om at det er stor usikkerhet knyttet til utviklingen framover, både om arbeids- og flyktninginnvandring.
 
-163
+Norge gir i tråd med internasjonale forpliktelser opphold og *beskyttelse* til en del mennesker på flukt. Det skjer dels gjennom et årlig mottak av overføringsflyktninger, hovedsakelig i samarbeid med FNs høykommissær for flyktninger. Dels skjer det ved at asylsøkere som kommer til Norge og oppfyller utlendingslovens vilkår for beskyttelse, innvilges flyktningstatus eller eventuelt opphold på humanitært grunnlag. Dette er kategorier der velferdsstatlige kostnader underlegges andre hensyn enn overfor andre innvandrergrupper. Utvalget påpeker at det er viktig å opprettholde ambisjonene om en «konsekvent, rettferdig og rettssikker» asylpolitikk. Gitt mandatet, vil utvalget begrense seg til å påpeke betydningen av å holde også antall asylsøkere og flyktninger på et nivå det er mulig å håndtere. Det vil si at absorberingskapasiteten er et legitimt anliggende som må vurderes politisk.
 
-Kapittel 9
+1.  **Mottak og bosetting**
 
-dokset skyldes at i land med små lønnsulikheter
-vil alminnelige lønnstakere tjene relativt godt,
-men fortsatt frykte å miste inntekten ved sykdom
-eller arbeidsløshet. Samtidig har de råd til å sette
-av noe midler til å forsikre seg mot disse risikoene, noe lønnstakere med svært lav lønn ikke vil
-ha. Disse velgerne vil støtte opp om partier som
-lover forsikring i bytte mot skattebetaling. Et godt
-utbygd velferdssystem vil i neste omgang gi lønnstakere en trygghet for inntekten som styrker forhandlingsposisjonen deres vis-à-vis arbeidsgiverne. Ved dette opprettholdes og videreføres den
-økonomiske likheten som i utgangspunktet bidro
-til oppslutning om modellen. Motsatt kan det bli
-satt i gang en «ulikhetsmultiplikator» hvis lønnsforskjellene i arbeidslivet øker. Lavlønnskonkurranse presser lønningene nedover og vil på sikt
-også øve press på ytelsesnivået i velferdsordningene, for at det stadig skal lønne seg å arbeide. Og
-oppslutningen om velferdsstatens omfordelingsfunksjon vil også kunne svekkes. En sammenpresset lønnsstruktur som den norske, kan danne høye
-terskler for sysselsetting blant personer med lave
-kvalifikasjoner og dermed bremse mulighetene
-for sosial utjevning. Hvis det dreier seg om store
-grupper, vil det gi utslag i økende ulikhet.
-Legitimiteten til den norske samfunnsmodellen kan settes på prøve gjennom høy innvandring.
-En studie fra Fafo skisserer to mekanismer som
-kan forstyrre eller svekke den beskrevne grunndynamikken i den norske arbeids- og velferdsmodellen.7 For det første kan det tenkes at modellen
-fungerer dårligere i en situasjon med høy migrasjon. Hvis de arbeidsmarkedspolitiske eller velferdspolitiske målene ikke lenger er mulige å nå,
-kan modellens legitimitet komme under press.
-For det andre kan majoritetens oppslutning om solidariske løsninger (sjenerøse velferdsordninger
-og små lønnsforskjeller) svekkes når befolkningen blir mer økonomisk og kulturelt sammensatt.
-Det er ikke gitt at viljen til å omfordele er like
-sterk når de som nyter godt av de solidariske ordningene, oppfattes som vesentlig annerledes enn
-majoriteten.
-Dette illustrerer hvordan institusjonene og
-samspillet mellom dem har bidratt til utvikling og
-reproduksjon av den tilliten velferdsstaten er avhengig av – og hvordan et annerledes samspill
-kan utfordre tilliten. Den omfattende velferdsstaten baserer seg på to ulike former for tillit. Den
-ene kan kalles vertikal tillit eller tillit til sam7
+Utvalget er bedt om å
 
-Djuve, A.B. & Grødem, A.S. (2014). Innvandring og arbeidsmarkedsintegrering i Norden. Rapport for prosjeket NordMod 2030. Fafo-rapport 2014:27.
+\[…\] vurdere hvordan de særskilte ordningene som gjelder mottak av asylsøkere og bosetting, \[…\] bidrar til at de raskt kommer i arbeid og deltar aktivt i samfunnslivet.
 
-[Side 164]
+Asylmottak
 
-164
+Med utgangspunkt i mandatet har utvalget avgrenset seg til å se nærmere på tilbudet i mottak til asylsøkere som venter på svar på asylsøknaden, eller som har fått opphold og venter på bosetting. I hvilken grad legges det til rette for at de som skal bosettes, raskt kommer i arbeid eller utdanning med mål om å bli selvforsørget? Vi drøfter ikke asylsaksbehandlingen i de ulike instansene i utlendingsforvaltningen eller organiseringen av mottakssystemet og ressursbruken – anbudsinnhenting, ankomst-/transittmottak, mottak for enslige mindreårige, omsorgssentrene for dem under 15 år – og eventuelle flaskehalser i dette systemet som setter rammer for den første fasen i Norge.
 
-Kapittel 9
+Like fullt er utvalget klar over at behovet for tilbud i mottaksfasen har sammenheng med hvor lang tid asylsøkere må oppholde seg i mottak før de får svar på søknaden og i påvente av bosetting. Tiltak som reduserer vente- og oppholdstiden i mottak og minsker behovet for flytting mellom mottak, vil derfor være svært viktige (se beskrivelsen av ordninger og utfordringer i kap. 3.3.3). En studie fra Sveits understøtter formodningen om at lang tid i asylsøkerfasen har betydning på kort og lang sikt for arbeidsmarkedsintegreringen for den enkelte. Dess lengre tid i en uavklart situasjon, dess større tap og risiko for at personer ikke kommer inn i et ordinært arbeidsmarked og blir selvforsørget.[^430]
 
-NOU 2017: 2
-Integrasjon og tillit
+Det er økende oppmerksomhet internasjonalt om hvor mye det bør tilrettelegges for tidlig innsats i asylsøkerfasen, særlig der det er barn med i bildet. OECD anbefaler f.eks. tiltak som språk- og jobbrelatert trening, opplæring om samfunnet, registrering og vurdering og eventuelt godkjenning av medbrakt utdanning og kompetanse mens søknaden er til behandling, for asylsøkere som med stor sannsynlighet vil få opphold. Videre anbefaler OECD at slike asylsøkere bør få enklere adgang til å arbeide.[^431]
 
-funnsinstitusjoner. Borgerne stoler på at offentlig
-forvaltning stort sett fungerer, at myndighetene er
-upartiske, etterprøvbare og effektive. Uten tilliten
-til at staten og det offentlige mer generelt forvalter samfunnets ressurser på en fornuftig måte, vil
-den enkelte neppe være like villig til å betale skatt
-eller la offentlige instanser stå for store deler av
-omfordelingen i samfunnet. Den andre sentrale
-formen for tillit kan kalles horisontal tillit eller tillit
-borgerne imellom. Slik tillit skaper bedre handlingsbetingelser for individene i dagliglivet og har
-også konsekvenser på samfunnsnivået: Den enkelte betaler sin skatt og følger samfunnets regler
-fordi han eller hun stoler på at andre gjør det
-samme. Ifølge nyere forskningslitteratur om tillit,
-baserer høytillitssamfunn seg på fire pilarer: historiske faktorer, tilstedeværelsen av en rettsstat og
-et legitimt politisk system, et sterkt sivilsamfunn
-og en følelse av «delt skjebne» i befolkningen.8
-Den siste pilaren, som er mest relevant i dette kapitlet, viser til noe dypere enn bare likhet eller
-ulikhet. Det dreier seg mer om opplevelsen av
-sammenfallende grunnleggende interesser – om
-«å være i samme båt».9 Statsviteren Dag Wollebæk har studert tillit i mange år, og vurderer nå
-denne siste pilaren som akutt utfordret av høy innvandring. Etter mye usikkerhet innen forskning
-om sammenhengen mellom tillit og etnisk mangfold, tegner han i nyere artikler et tydeligere mønster: Mangfold synes å ha liten betydning for generalisert tillit, men tydelig effekt på tillit i lokalsamfunnet.10 Helt nylig tyder en undersøkelse fra
-Sverige på at også den generaliserte tilliten blir
-noe svekket, men mindre enn den lokale. Wollebæk antar at det finnes en større treghet i effektene på den generaliserte tilliten; den er mer abstrakt, formet i tidlige år, og sterkt verdiforankret.11
-Hvorvidt etnisk mangfold svekker tilliten i
-samfunnet, og hva det i tilfellet er som gjør utslaget, har etter hvert blitt en omfattende diskusjon i
-internasjonal forskningslitteratur. Flere forskere
+Ifølge integreringsmeldingen har det vært for svake insentiver og krav til egeninnsats fra beboere i asylmottak.[^432] Viktige nye tiltak i meldingen for å rette på dette, er bl.a. økt vekt på beboermedvirkning, utvikling av et nytt system for kompetansekartlegging for asylsøkere, innføring av 50 timer kultur- og samfunnskunnskap i tillegg til norskopplæringen i ordinære mottak og etablering av egne *integreringsmottak*. Målgruppen for integreringsmottakene er personer i asylmottak som nylig har fått innvilget oppholdstillatelse, og personer fra grupper som har høy sannsynlighet for å få innvilget asylsøknaden. Det har blitt stilt spørsmål ved om etablering av egne integreringsmottak er veien å gå, framfor å differensiere tilbudet innenfor gjeldende struktur.[^433] Slike mottak kan også skape urealistiske forventninger om opphold for enkelte. Utvalget viser til at ordningen skal prøves ut, og understreker at det bør gjennomføres en reell evaluering av tiltaket, så langt dette er mulig (se kap. 10.5).
 
-argumenterer for at det ikke er etnisk mangfold i
-seg selv som er problemet, men en kombinasjon
-av sosial ulikhet, økende kulturell heterogenitet
-og etnisk segmentering.12 Flere studier tyder på
-at bostedssegregering,13 og opphopning av sosiale problemer i områder med mange innvandrere
-er uheldig for den samfunnsmessige tilliten, selv
-om effekten kan være ulik for ulike personer i
-slike boområder.14 Følgelig vil et samspill mellom
-kulturell og økonomisk ulikhet kunne påvirke den
-samfunnsmessige tilliten. Hvis de som systematisk tilhører lavinntektsgruppene, også er de som
-oppleves som kulturelt og verdimessig mest forskjellige, kan systemet utfordres.
-Et viktig spørsmål når man snakker om forskjellighet og betydningen for tillitsskaping, er om
-det handler om normer eller atferd. Er det nykommeres levemåte, religiøsitet og kulturuttrykk, eller er det graden av deltakelse (i arbeidsliv og
-sivilsamfunn) som eventuelt skaper misnøye?
-Dette spørsmålet er ikke belyst empirisk i norsk
-forskning, men det er grunn til å tro at en kombinasjon av lav utdannelse, lav yrkesdeltakelse, dårlige levekår samt religion og tradisjon i sum kan
-skape sosiale realiteter i noen minoritetsmiljøer
-som påvirker holdninger i majoriteten (f.eks. overrepresentasjon i enkelte typer kriminalitet og
-bruk av vold i barneoppdragelse). Den danske forskeren Per Mouritsen antyder, med utgangspunkt
-i en omfattende litteraturgjennomgang, at problemet i Skandinavia ikke er forskjellighet som sådan, men fravær av spesifikke normer av stor betydning for de nordiske velferdsmodellene:15 at
-12
+Utvalget ser betydningen av at det er tilbud om norskopplæring i mottak, også for asylsøkere som venter på svar på søknaden. Opplæringen bidrar til å aktivisere beboerne. Basisferdigheter i norsk er dessuten viktig for at asylsøkere kan kommunisere i mottaket og i lokalmiljøet, hvor enkelte kan bli værende i lengre tid. For øvrig vil opplæringen og ervervede norskferdigheter opplagt kunne være nyttig for dem som får opphold og blir bosatt.
 
-13
+Det er i dag frivillig for vertskommunene for asylmottak å tilby norskopplæring for asylsøkere over 16 år (se kap. 4.4.1). Utvalget anbefaler at det vurderes om norskopplæring for asylsøkere bør inngå som en del av vertskommunens ansvar. Dette vil i så fall måtte få konsekvenser for størrelsen på det statlige tilskuddet til vertskommuner for asylmottak. På den andre siden er dette et eksempel på tiltak der ambisjonsnivået vil måtte tilpasses faktisk kapasitet, f.eks. av lærekrefter, og tilgjengelige ressurser ved et vedvarende høyt antall asylsøkere og flyktninger.
 
-8
+Utvalget har merket seg at det er varslet en oppmykning av vilkårene for å få *midlertidig arbeidstillatelse* for søkere med gode utsikter til å få innvilget opphold. En motforestilling mot ytterligere oppmykning av disse vilkårene er at asylsøkere som venter på intervju eller søknadsbehandling, ikke har vært igjennom en grundig identitetssjekk.
 
-Wollebæk, D. (2016). Tillit under press. Syn og Segn, 16 (3),
-44–51.
-9
-Rothstein, B. & Uslaner, E.M. (2005). All for all: Equality,
-corruption, and social trust. World politics, 58(1), 41–72.
-10
-Wallman Lundåsen, S. & Wollebæk, D. (2013). Diversity
-and community trust in Swedish local communities. Journal of Elections, Public Opinion & Parties, 23(3), 299–321;
-Wollebæk, D., Lundåsen, S.W. & Trägårdh, L. (2012).
-Three forms of interpersonal trust: Evidence from Swedish
-municipalities. Scandinavian Political Studies, 35(4), 319–
-346; Fladmoe, A. & Steen-Johnsen, K. (2016). Ethnic diversity and different dimensions of social capital in a Nordic
-context, paper presentert på den norske statsviterkonferansen i Kristiansand 6.–8. januar.
-11
-Se Wallman Lundåsen, S. & Wollebæk, D. (2013). Ibid.
+I 2015 var nesten én av tre asylsøkere under 18 år. Utvalget har merket seg at barnehagetilbudet for barn i asylmottak nylig er styrket, og ser at et slikt tilbud vil kunne bedre livskvalitet og språkutvikling for barn i mottak, uavhengig av utfallet av foreldrenes asylsøknad. På sikt vil det også kunne føre til bedre skoleprestasjoner for de barna som får opphold i Norge. Mangel på gode tilbud til barn i mottak kan dessuten bidra til at kvinner i mindre grad enn menn deltar i norskopplæringen som tilbys, og dermed redusere kvinners muligheter til å delta aktivt i arbeids- og samfunnslivet hvis de får opphold. Imidlertid er også dette et område der ambisjonsnivå og tiltak vil måtte tilpasses kapasitet og ressurser ved et vedvarende høyt antall asylsøkere og flyktninger.
 
-14
+Barn i asylmottak har rett og plikt til grunnskoleopplæring, uavhengig av status og utfall av asylsaksbehandlingen. God kvalitet på opplæringen som tilbys nyankomne innvandrerbarn i Norge, er etter utvalgets syn viktig. Denne gruppen sliter med relativt dårlige skoleprestasjoner, også sammenliknet med tilsvarende grupper i andre land.
 
-Se f.eks. Rothstein, B. (2017, under publisering). Solidarity,
-diversity and the Quality of Government. I Banting, K. &
-Kymlicka, W. (red.), The Strains of Commitment: The Political Sources of Solidarity in Diverse Societies. Oxford: Oxford
-University Press; Mouritsen, P. (2016). Effekten af etnisk
-heterogenitet og ulighed på generaliseret tillid og velfærdsstatens legitimitet. Notatet er tilgjengelig på www.regjeringen.no/inko-utvalget.
-Man snakker om bostedssegregering hvis personer som
-kulturelt og religiøst skiller seg fra majoriteten dominerer i
-avgrensede boligområder. Bostedssegregering kan oppstå
-både ved at innvandrere søker seg til bestemte områder,
-og/ eller ved at majoritetsbefolkningen forlater de samme
-områdene. Det som ofte kalles «hvit flukt», kan skyldes
-ulike forhold – økonomiske og kulturelle.
-Ivarsflaten, E. & Strømsnes, K. (2013). Inequality, diversity
-and social trust in Norwegian communities. Journal of Elections, Public Opinion & Parties, 23(3), 322–342; Laurence,
-J. & Bentley, L. (2016). Does ethnic diversity have a negative effect on attitudes towards the community? A longitudinal analysis of the causal claims within the ethnic diversity
-and social cohesion debate. European Sociological Review,
-32(1), 54–67; Sturgis, P. Brunton-Smith, I., Kuha, J. & Jackson, J. (2014). Ethnic diversity, segregation and the social
-cohesion of neighbourhoods in London, Ethnic and Racial
-Studies, 37 (8), 1286–1309.
+Barn i asylmottak mellom 16 og 18 år har rett til enten grunnskole eller videregående opplæring, avhengig av hvor mye utdanning de har fra før. På grunn av uklare ansvarsforhold mellom kommune og fylkeskommune kan det gå uforholdsmessig lang tid før 16–18-åringene kommer i gang med videregående opplæring. Utvalget anbefaler at myndighetene sørger for å sikre at 16–18-åringene i mottak raskt får tilgang til videregående opplæring, og at kommunene og fylkeskommunene samarbeider om dette.
 
-[Side 165]
+Flyktninger som har fått opphold, men som fremdeles bor i mottak i påvente av bosetting, har ikke rett til studielån og stipend – herunder flyktningstipend – og har derfor begrensede muligheter til å begynne i utdanning selv om de skulle være kvalifisert. Dette kan bidra til passivitet og forsinke integreringsprosessen. Utvalget har samtidig merket seg at det er iverksatt flere tiltak for å legge bedre til rette for at flyktninger kan søke om godkjenning av medbrakt kompetanse (se kap. 4.6). Disse tiltakene bør også kunne omfatte flyktninger som venter på bosetting, slik at de raskere kommer i gang med eventuell kvalifisering og deretter arbeid. Utvalget vil i den sammenheng understreke betydningen av at det igangsatte arbeidet med sikte på rask kompetansekartlegging allerede i mottak, også skal gjelde for asylsøkere.[^434] Dette kan gi grunnlag for bedre tilrettelegging så snart en flyktning har fått opphold og skal bosettes.
 
-NOU 2017: 2
-Integrasjon og tillit
+Dersom ventetiden i mottak etter innvilget opphold, men før bosetting blir svært lang, anbefaler utvalget at myndighetene vurderer nærmere om introduksjonsprogrammet – ikke bare, som nå, den ordinære norskopplæringen – kan starte i mottak. Dette kan skje enten i regi av vertskommunen for mottaket eller i regi av relevante statlige myndigheter. Dersom det skal skje i regi av vertskommunen for asylmottaket, vil det måtte få konsekvenser for det statlige tilskuddet til slike kommuner. Imidlertid vil ambisjonsnivå og tiltak også her måtte tilpasses kapasitet og ressurser ved et vedvarende høyt antall asylsøkere og flyktninger.
 
-ulikhet og bostedssegregering kan utfordre den
-solidariske samfunnskontrakten i en sjenerøs velferdsstat, først og fremst ved å underminere de
-gjensidighetsnormene samfunnsmodellens legitimitet er tuftet på – at man skal yte etter evne og nyte
-etter behov. I en situasjon med mange nykommere kan det danne seg forestillinger i majoriteten – berettiget eller ikke – om at de nyankomne
-ikke lever etter disse gjensidighetsprinsippene. I
-den grad nykommerne faktisk også lever på måter
-som kan sies å være i strid med prinsippene om
-gjensidighet, må man søke å avdekke om det er
-manglende vilje eller manglende evne og muligheter som gir dette utfallet.
+Bosetting av flyktninger
 
-9.3
+Bosettingsordningen, slik den er beskrevet i kapittel 3.3.4, berører fire hovedaktører: flyktningene, kommunene, staten og sivilsamfunnet. Gjeldende modell kan sies å legge vekt på kommunenes interesser, ettersom de har mulighet til å si nei til bosetting eller å ta imot færre flyktninger enn de blir anmodet om. Prinsippet om kommunalt selvstyre, og at staten ikke kan overføre oppgaver til kommunene uten kompensasjon, står sterkt. Denne ordningen har blitt satt under et visst press i perioder fordi mange personer med innvilget opphold har blitt sittende lenger enn ønskelig i mottak og vente på bosetting (se kap. 3.3.3). Da det kom svært mange asylsøkere høsten 2015 og en betydelig andel av disse hadde gode utsikter til å få opphold, ble presset mot ordningen og kapasiteten i kommunene forsterket.[^435] I tillegg oppsto det i 2016 kapasitetsproblemer og treghet i saksbehandlingen og det bosettingsforberedende arbeidet som statlige instanser har ansvaret for (se kap. 3.3.4).
 
-Integrasjon av innvandrere16
+Utvalget har merket seg at det har vært fullt mulig å følge gjeldende ordning i 2016, til tross for at det er langt høyere tall som har skullet bosettes enn for noen år siden. At det for noen likevel har blitt lang ventetid, med de uheldige konsekvensene det kan få for integreringsprosessen, ser dels ut til å skyldes venting på registrering av søkerne og på behandling av asylsøknadene, dels en viss treghet i arbeidet med å forberede bosetting for et større antall enn tidligere. Det tok tid før utlendingsmyndighetene på en tilfredsstillende måte klarte å håndtere det store antallet søknader som kom i løpet av få måneder. Ventetiden *etter* innvilget opphold gikk betydelig ned i 2016, sammenliknet med de siste årene, men det er fortsatt mange som må vente noen måneder også etter at de er blitt tildelt en kommune. Lang ventetid for enslige mindreårige er spesielt problematisk.
 
-Kulturelt mangfold – særlig som følge av innvandring – har siden 1970-tallet gitt begrepet integrasjon nye og kontroversielle betydninger. Innvandring har brakt med seg nye typer spenninger, nye
-former for sosial og kulturell differensiering og
-nye mønstre av ulikhet. Dette utfordrer etablerte
-forståelser av samfunnet, av kriterier for medlemskap, av solidaritet, av rettighetstildeling, av nasjonal kultur og av institusjoners relevans under nye
-forhold.
-Den klassiske sosiologiske definisjonen av integrasjon som prosess – der samfunnsdeltakere
-blir gjort og gjør seg selv til deler av den sosiale
-helheten – er intuitivt meningsfylt når nykommere skal innlemmes i samfunnet. Men fordi innholdet i disse prosessene er verdiladet, blir også
-bruken av begrepet integrasjon kontroversiell og
-ofte uklar. Da den nye integrasjonstenkningen ble
-introdusert på begynnelsen av 1970-tallet, ble den
-ansett som noe kvalitativt forskjellig fra det som
-ble kalt assimilasjon, og som var hentet fra den
-amerikanske innvandringslitteraturen. I den dominerende integrasjonsforståelsen ble assimilasjon definert som en strategi mange stater fulgte
-overfor minoriteter tidligere i historien, der det
-ble brukt tvang og andre pressmidler for å få «avvikere» til å tilpasse seg majoritetens levemåte.
-Denne formen for strategi, som blant annet ble
-fulgt av norske myndigheter overfor den samiske
-urbefolkningen, fungerte som en negativ referanse da en ny politikk skulle utformes overfor
-15
+Det kan imidlertid ikke tas for gitt at stat og kommuner i samarbeid, innenfor gjeldende ordning, ville ha vært i stand til å bosette et så høyt antall som i 2016, dersom tilstrømningen av asylsøkere og flyktninger hadde fortsatt over flere år på samme nivå. Utvalget har derfor vurdert om det finnes alternative ordninger som kan inngå i beredskapsplaner og supplere eller erstatte gjeldende ordning, hvis det i en årrekke er et høyt antall flyktninger som skal bosettes.
 
-Mouritsen, P. (2016). Effekten af etnisk heterogenitet og ulighed på generaliseret tillid og velfærdsstatens legitimitet. Notatet er tilgjengelig på www.regjeringen.no/inko-utvalget.
-16
-Dette kapitlet er delvis basert på G. Brochmanns tekst:
-«Integrering» i Store norske leksikon (https://snl.no/integrering).
+*Alternative bosettingsordninger*
 
-165
+Spørsmålet om alternative ordninger har blitt drøftet og vurdert ved flere korsveier uten at det har ført til endringer av grunnprinsippet om frivillighet for kommunene i bosettingsarbeidet (se kap. 3.3.4).[^436] Ulike alternative modeller har blitt vurdert. I hovedsak dreier det seg om ulike varianter av to hovedalternativer: *selvbosetting*, dvs. at flyktningene er i førersetet, eller *styrt bosetting*, dvs. at staten bestemmer. Disse to alternativene er i noen grad inspirert av ordningene i Sverige og Danmark (se boks 10.1).
 
-Kapittel 9
+1.  **Bosettingsordninger i Danmark og Sverige**
 
-innvandrere og minoriteter. Sammen med en
-rekke andre europeiske stater tok Norge i bruk
-begrepet integrasjon, som var tilpasset en ny tid,
-dvs. det rommet en ny forståelse av relasjoner
-mellom majoritet og minoriteter. Integrasjon som
-strategi var inspirert av etterkrigstidens menneskerettighetsregime der «røtter» og identitet ble
-viktige referanser. Nykommere skulle ikke presses til å «bli som majoriteten», og det skulle legges til rette for at den medbrakte kulturen skulle
-kunne bevares i det nye hjemlandet. Denne typen
-innlemming skulle ideelt skje ved at det ble utviklet gjensidige avhengighets- og tillitsbånd mellom gruppene, og at det mer formelt ble utviklet
-regler for gjensidige plikter og rettigheter. Fulle
-politiske rettigheter skulle oppnås gjennom botid
-og tildeling av statsborgerskap. Integrasjonstenkningen blir ofte koplet på en multikulturalistisk politikk og ideologi, som har eksistert i
-mange varianter (og definisjoner) i ulike mottakerland. Motsatsen til integrasjon blir gjerne ansett å være marginalisering eller manglende tilhørighet når det gjelder individer, og fragmentering
-og segregering/parallellsamfunn når det gjelder
-hele samfunn. Marginalisering kan føre til svak
-deltakelse, mistrivsel og lite innflytelse for den enkelte, og kan, hvis omfanget blir stort, føre til sosiale og kulturelle spenninger i samfunnet som helhet.
-Både den tradisjonelle assimilasjonstenkningen og den nyere integrasjonstilnærmingen har
-velfungerende samfunn som målsetting. Veien dit
-blir imidlertid brolagt med ulike verdier og forskjellige redskaper. Innenfor den klassiske assimilasjonstradisjonen snakker man om en prosess,
-der individene vokser inn i et gitt kulturelt fellesskap og gradvis tilegner seg dette fellesskapets
-normer og verdier. Innvandreres opprinnelige kultur blir ikke tillagt vekt eller blir oppfattet som en
-privat sak, og samfunnet gir ingen rettigheter basert på minoritetskultur. Samfunnets «moraldannende aktører», som familien, eventuelt religionsfellesskapet, skolen og lokalsamfunnet, skulle stå
-for sosial kontroll og støtte.17
-Integrasjonstenkningen hadde et mer verdipluralistisk syn på samfunnet. Nye individer eller
-grupper skulle innlemmes ved å få en sideordnet
-plassering med allerede etablerte grupper og til
-majoriteten. Ved å få like livsbetingelser eller muligheter skulle personer – også med sterkt ulike
-verdisyn – veves inn i samfunnet mer på egne premisser. Innvandrere ble betraktet som medlem17
+I *Danmark* er bosettingen regulert av staten gjennom et kvotesystem, en ordning som trådte i kraft i 1999. Basert på prognoser blir det hvert år fastsatt hvor mange flyktninger som skal bosettes. Dette landstallet blir fastsatt av Udlændingestyrelsen, med utgangspunkt i hvor mange flyktninger som forventes å få opphold i Danmark det kommende året. I 2015 ble det bosatt 10 600 flyktninger i Danmark.
 
-Gordon, M. (1964). Assimilation in American Life. New
-York: Oxford University Press.
+Kommunene har mulighet til å avtale fordelingen av flyktningene mellom og innenfor regionene. Dersom det ikke inngås avtaler, er det Udlændingestyrelsen som fastsetter fordelingen. I beregningsgrunnlaget tas det hensyn til antall innvandrere som allerede bor i de enkelte kommunene, ved at det ifølge integrationsloven er mulig å unnta kommuner fra bosetting av flyktninger hvis det allerede bor mange flyktninger og andre innvandrere der. I 2016 gjaldt det fire kommuner.
 
-[Side 166]
+Når en flyktning får oppholdstillatelse i Danmark, henviser samtidig Udlændingestyrelsen flyktningen til en kommune som får ansvaret for vedkommende. Avgjørelsen blir tatt på bakgrunn av kvoten, forholdene i kommunen og flyktningens personlige forhold. Udlændingestyrelsens avgjørelse om hvor flyktningen skal bosettes, er endelig og kan ikke påklages.
 
-166
+Kommunen har plikt til å skaffe permanent bolig til flyktningen, og flyktninger kan ikke bosettes i et utsatt boligområde. Fram til det er mulig å anvise en permanent bolig, skal kommunen anvise et midlertidig oppholdssted. Såkalte flytteregler skaper et insentiv for deltakerne i integrasjonsprogrammet til å bli boende i den tildelte kommunen i de tre årene som integreringsperioden varer. En kommune kan overta integreringsarbeidet fra en annen kommune dersom en flyktning flytter, men har plikt til dette bare i visse tilfeller. Dersom en flyktning flytter til en annen kommune, kan det derfor få konsekvenser for tilgangen på integreringsytelser og kontantytelser, for retten til bolig etter integrationsloven og for når personen kan få permanent oppholdstillatelse.
 
-Kapittel 9
+Kommunene er ikke pliktige til å anvise bolig til personer som kommer til landet gjennom familieinnvandring. Det forventes at disse bor sammen med familien som de kommer til.
 
-NOU 2017: 2
-Integrasjon og tillit
+I *Sverige* praktiseres selvbosetting, det vil si at flyktningene kan bosette seg hvor i landet de selv ønsker. Man kan finne bosted på egen hånd, eller man kan få hjelp fra myndighetene dersom man ønsker det. Om lag 80 pst. av de nyankomne som får opphold, finner bosted på egen hånd.
 
-mer av etniske grupper, ikke bare som individer,
-og individene kunne også bli tildelt rettigheter
-knyttet til gruppen de tilhørte eller ble henvist til.
-Canada har vært et ledende land når det gjelder
-gruppetilnærmingen, mens man i Norge har lagt
-større vekt på rettigheter knyttet til individet.
-Disse to (stiliserte) tilnærmingene har ulikt
-syn på både hva slags samfunn innvandrere skal
-innlemmes i, og hva innholdet i selve innlemmingen går ut på. Det har også historisk vært et faglig
-skille mellom dem som mener at «disse prosessene bare skjer» (laissez faire-politikk), og dem
-som mener de kan og bør styres. Innenfor assimilasjonsskolen har man ment at individer ensidig
-skal tilpasses majoritetskulturen over tid, enten
-ved å presses aktivt eller ved at «det bare skjer av
-seg selv». En statlig integrasjonspolitikk, derimot,
-fordrer at det tilrettelegges for mennesker med
-flere ulike kulturer i utformingen og organiseringen av samfunnets offentlige institusjoner.
-Det er imidlertid store og viktige uklarheter,
-motsetninger og dilemmaer knyttet til integrasjonstenkningen, og rundt århundreskiftet tok
-flere forskere til orde for å revurdere assimilasjonsbegrepet.18 Diskusjonene om premissene for
-assimilasjon og pluralisme har blitt mer nyanserte: Det er mulig å snakke om faktisk og/eller
-ønsket assimilering på noen samfunnsområder
-(f.eks. i arbeidsliv og utdanning) parallelt med faktisk og/eller ønsket opprettholdelse av kulturelle
-særtrekk i andre. Det diskuteres også hvorvidt
-majoriteten kan kreve assimilering langs noen kriterier, f.eks. tilslutning til det liberaldemokratiske
-fundamentet i samfunnet. På den andre siden kan
-nye samfunnsmedlemmer også kreve at samfunnet lar dem assimilere seg – på noen eller alle områder. Det vil si at majoriteten er åpen for at nye
-innbyggere reelt blir en likeverdig del av samfunnet. Tidshorisonten er også viktig: Snakker man
-om de facto langsiktig (og frivillig) assimilasjon
-gjennom historiske prosesser, eller om en mer
-18
+Personer som har fått opphold, har rett til å bli bosatt i en kommune. Asylsøkere som har bodd privat (i «eget boende») og ikke i et statlig mottak, mens de venter, har ikke rett til hjelp til å bosette seg. De kan fortsette å bo i samme kommune etter vedtaket om opphold og kan registrere seg i folkeregisteret der. Ordningen fører til at mange bor trangt, gjerne i områder med dårlige levekår i og omkring byene Stockholm, Göteborg og Malmö.
 
-Brubaker, R. (2003). 'The return to assimilation? Changing
-perspectives on immigration and its sequels in France, Germany and the United States. I Joppke, C. & Morawska, E.
-(red.), Toward assimilation and citizenship. Immigrants in
-liberal nation-states (London: Palgrave Macmillan), 39–59;
-Alba, R. & Nee, V. (2003). Remaking the American Mainstream. Assimilation and Contemporary Immigration. Cambridge: Harvard University Press.
-Jon Horgen Friberg (2016) tar også til ordet for å rehabilitere assimilasjonsbegrepet i et notat som er bestilt av utvalget. Han anvender «assimilasjon» for å undersøke i hvilken
-grad etterkommere i Norge har tilpasset seg majoritetens
-atferd og verdier, og i hvilken grad de har blitt inkludert av
-majoriteten. Friberg, J. H. (2016). Assimilering på norsk?
-Sosial mobilitet og kulturell tilpasning blant ungdom i det
-flerkulturelle Oslo og Akershus. Fafo-rapport 2016:43.
+I mars 2016 trådte en ny lov om anvisning for bosetting i kraft. Denne loven omfatter nyan-komne som er registrert av og knyttet til Migrationsverkets statlige mottak og overføringsflyktninger.
 
-kortsiktig politisk strategi fra myndighetens side?
-Og når det gjelder politisk strategi, på hvilke samfunnsområder har assimilasjon som målsetting legitimitet?
-Det har i grove trekk vært enighet om at majoriteten har og bør ha rett til å beskytte det økonomiske og sosiale systemets livsbetingelser, eller
-med den politiske filosofen Michael Walzers ord:
-Et politisk fellesskap har rett til å bevare integriteten til sin livsform.19 Men hva som definerer «sin
-livsform», har vært noe av stridens kjerne. Er nasjonal identitet og nasjonal/etnisk homogenitet
-f.eks. et basisvilkår for å gjenskape et samfunns
-livsform? Eller holder det med tilslutning til et felles politisk system og – i moderne demokratier –
-til rettsstatsprinsipper?
-Hvor mye avvik skal aksepteres, og på hvilke
-områder? Hva tilhører privatsfæren og hva er et
-offentlig anliggende? Er det nok at nye grupper
-følger norsk lov, dvs. avstår fra direkte lovbrudd,
-men for øvrig følger sine egne normsett for god
-oppførsel? I de vanskelige grenseflatene mellom
-det lovlige og det legitime, er det få retningslinjer
-å hente i integrasjonstenkningen. Også i praksisfeltet flytter grensene seg kontinuerlig. Selv om
-man skulle være enig med Walzer i at majoriteten
-har rett til å reprodusere sine livsformer, endrer
-samfunnet seg som følge av økt kulturelt mangfold. Nye samfunnsmedlemmer har rettigheter, de
-deltar i valg, og er de mange nok, kan de få gjennomslag for sine motstridende verdier og saker.
-Selve legitimitetsgrunnlaget kan forandre seg underveis.
-En illustrasjon på denne flertydige virkeligheten kan hentes fra gjennomgangen av levekår i kapittel 7.6. Her blir det påpekt at innvandrere deltar
-aktivt i sivilsamfunnets organisasjoner, men at
-mange konsentrerer deltakelsen om «sine egne»
-organisasjoner, altså etnisk baserte sammenslutninger med bånd til opprinnelseslandet. Hvordan
-skal vi tolke dette fenomenet? Er det uttrykk for at
-innvandrerne omfavner den norske frivillighetsog dugnadskulturen og aktivt tilfører den sitt eget
-preg? Eller er det uttrykk for segregering at de i
-så stor grad danner egne lag og foreninger i stedet
-for å gå inn i dem som allerede finnes i lokalsamfunnet?
-Som så ofte ellers, kommer dette an på hva
-som faktisk skjer i innvandrernes organisasjoner,
-og på samspillet med lokalsamfunnet. Som beskrevet i kapittel 7.6, oppfatter mange som er aktive i nasjonalt baserte grupper, at dette gir dem
-19
+Når det gjelder enslige mindreårige, anviser Migrationsverket disse til en kommune allerede ved ankomst. Migrationsverket bestemmer en andel for hver kommune etter samråd med Länstyrelsene. Anvisningsmodellen for enslige mindreårige ble endret fra april 2016 for å få jevnere fordeling.
 
-Walzer, M. (1983). Spheres of Justice: A Defence of Pluralism
-and Equality. New York: Basic Books.
+En stor andel av flyktningene som får oppholdstillatelse i Sverige, har rett til «etableringsplan».<sup>1</sup> Denne tilsvarer i stor grad introduksjonsprogrammet i Norge. Staten har ingen egne boliger, men kan hjelpe nyankomne flyktninger som har rett til etableringsplan, med å finne et bosted. Kommunene gir beskjed når de har ledige boliger, og deretter bosettes nyankomne flyktninger i dialog mellom kommunen og statlige myndigheter. Hensikten er å finne en bostedskommune med et arbeidsmarked der vedkommende kan få brukt yrkeskompetansen sin.
+
+Nyankomne flyktninger som ikke har rett til etableringsplan, kan henvende seg til Migrationsverket for å få hjelp med bosetting. Migrationsverket har også ansvaret for bosetting av kvoteflyktninger, enslige mindreårige flyktninger, pensjonister og personer med alvorlige funksjonsnedsettelser.
+
+I 2016 hadde Arbetsförmedlingen og Migrationsverket delt ansvar for anvisning av nyankomne til kommunene. Fra 2017 har Migrationsverket overtatt hele bosettingsansvaret.
+
+<sup>1</sup> Dette gjelder ikke flyktninger som har fulltidsjobb, tar videregående opplæring, ikke har kapasitet til å delta i minimum 25 pst. av aktivitetene i etableringsplanen eller er under 20 år eller over 65 år. Enslige mindreårige flyktninger mellom 18 og 20 år har likevel rett til etableringsplan.
+
+Meld. St. 30 (2015–2016) *Fra mottak til arbeidsliv – en effektiv integreringspolitikk*
+
+**\[Boks slutt\]**
+
+Det finnes eksempler fra andre land som innebærer at dette arbeidet i all hovedsak er overlatt til sivilsamfunnet – frivillige organisasjoner, arbeidslivets parter mv. – og at offentlige myndigheter har en svært begrenset rolle. Utvalget har ikke vurdert dette nærmere, men vil framheve at det uansett bosettingsordning er en styrke og en fordel for gjennomføringen om sivilsamfunnet blir engasjert og bidrar aktivt med å legge til rette for bosetting og integrering.
+
+Ordningen med *avtalt selvbosetting* finnes innenfor rammen av dagens modell (se kap. 3.3.4). I teorien kunne man tenke seg selvbosetting som hovedprinsipp, uten kommunal avtale eller vetorett, inspirert av den svenske ordningen (se boks 10.1). Det ville i så fall innebære at flyktninger kunne finne bolig og eventuelt arbeid selv, samtidig som de beholdt alle rettigheter etter introduksjonsloven. Det ville gi personer med lovlig opphold rett til å velge bosted, også om de hadde behov for støtte til livsopphold og andre særlige tiltak i en periode. En slik ordning innebærer et mer begrenset offentlig ansvar og mindre statlig styring. Selvbosetting blir også enklere og billigere for staten å administrere enn dagens ordning selv om de store tilskuddene beholdes uendret. Hvis oppholdstiden i mottak reduseres for mange, betyr det også betydelige innsparinger for staten.
+
+Utvalget ser imidlertid flere problemer med en slik modell. Kommunene mister mye av kontrollen og får lite tid til å forberede tilbud og tjenester på at det kommer nye innbyggere med særlige behov. I tillegg er det fare for økt konsentrasjon av flyktninger og andre innvandrere i enkelte sentrale kommuner eller bydeler. Fri selvbosetting vil kunne forsterke det relativt sentraliserte bosettingsmønsteret for innvandrere som allerede finnes i Norge, om enn i noe mindre grad enn i mange andre land. Dette underbygges også av erfaringene med såkalt sekundærflytting fra bosettingskommunene (se kap. 7.3). Erfaringer fra Sverige med segregerte boligområder og konsentrasjon av grupper med dårlige levekår og innvandrerbakgrunn, også i skolene, viser at en slik bosettingspolitikk kan bidra til å forsterke uheldige utviklingstrekk.
+
+Utvalget mener dessuten at det er usikkert hvor godt en slik ordning vil kunne fungere i et boligmarked som er så privatisert som det norske, med få leieboliger og høy andel boligeiere (se kap. 7.2.2). I flere år har den største flaskehalsen for bosetting vært mangelen på tilgjengelige boliger i kommunene.[^437] Kommunene har dels brukt kommunale utleieboliger og dels boliger på det private utleiemarkedet for å dekke etterspørselen. Flyktninger vil ikke ha mulighet til å «bestille» kommunal bolig. Dermed er de prisgitt det begrensede private leiemarkedet ved selvbosetting. Det er mulig at større etterspørsel fra flere små aktører – som det vil bli hvis nyankomne flyktninger etterspør leiebolig på egne vegne – vil stimulere det private leiemarkedet, og at flere leieboliger vil bli tilgjengelige. Studier av boligmarkedet for flyktninger etter første bosetting gir imidlertid liten grunn til å vente dette.[^438]
+
+Utvalget har liten grunn til å tro at nyankomne flyktninger på jakt etter sin første bolig skal møte et bedre leiemarked enn personer med flyktningbakgrunn som leter etter bolig nummer to eller tre. Det kan derfor være strukturelle trekk ved det norske boligmarkedet som tilsier at økt vekt på selvbosetting vil være mer krevende enn i land med en større ikke-kommersiell utleiesektor, som f.eks. Sverige.

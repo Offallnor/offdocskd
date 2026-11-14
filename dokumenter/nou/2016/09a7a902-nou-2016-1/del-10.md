@@ -1,932 +1,458 @@
-# NOU 2016: 1, del 10 av 22 (side 123–132)
+# NOU 2016: 1, del 10 av 21
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/09a7a902-nou-2016-1.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-1/id2467468/
 - Original-PDF: https://www.regjeringen.no/contentassets/32354d9ee7974df0976d76790cab566e/no/pdfs/nou201620160001000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 47 tabeller, 63 figurer, 825 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 123]
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-stemmelsene i tariffavtalene. Norsk allmengjøring
-gjelder oftest minstelønnssatser.
-
-6.3
-
-Arbeidstidsordninger med avtalebaserte unntak fra hovedreglene
-i loven – hvordan blir de til?
-
-Et spørsmål nært knyttet til arbeidstid, organisasjonsgrad og tariffdekning er hvordan arbeidstidsordninger fastsettes i virksomhetene og hva slags
-typer avtaler og dispensasjoner som benyttes.
-Framgangsmåtene for å oppnå ulike former for
-unntak fra hovedbestemmelsene om arbeidstid vil
-variere i ulike næringer og virksomheter, og siden
-mange avtaler inngås på lokalt eller individuelt
-nivå, er det vanskelig å få fullstendig oversikt over
-framgangsmåter og de spesifikke utfordringene i
-alle deler av økonomien. Dette avsnittet baserer
-seg på ulike kilder som gir innsikt i hvordan avtaleadgangen brukes og hvordan partene går fram
-for å oppnå lokal eller sentral avtale.
-
-6.3.1
-
-Tall fra arbeidsgruppe med partene
-i arbeidslivet
-En kartlegging gjennomført av en arbeidsgruppe
-med partene og daværende Arbeidsdepartementet i 2013 viste at det var i overkant av 1300 avtaler
-om unntak fra arbeidstidsreglene inngått med fagforeninger med innstillingsrett.
-Dette er ikke en fullstendig opptelling, men gir
-et øyeblikksbilde på hvordan avtaleadgangen brukes i praksis.
-I NHO-området var det om lag 850 avtaler som
-ble inngått i løpet av 2012. De fleste gjaldt langpendlere og anleggsarbeidere. I KS-området var
-det om lag 350 avtaler. Disse avtalene er inngått på
-ulike nivåer, og det er stor variasjon i innhold og
-størrelse. De fleste dreier seg om lange vakter. I
-Spekter-området var det om lag 80 avtaler, som
-stort sett dreier seg om lange vakter og døgnvakter. I tillegg har Spekter Legeforeningens avtaler
-som omfatter alle helseforetakene og rundt 10.500
-leger. I det statlige tariffområdet var det 90 avtaler.
-Dette var for eksempel langvakter for fengsler og
-ulike arbeidstidsordninger for underliggende etater på barne- og familieområdet og på samferdsels- og beredskapsområdet.
-6.3.2
-
-Unntak gjennom tariffavtale med
-fagforeninger med innstillingsrett
-
-En Fafo-rapport fra 2010 gjennomgår praksisen
-knyttet til muligheten for unntak fra hovedreglene
-
-123
-
-Kapittel 6
-
-i arbeidstidskapitlet ved tariffavtale med fagforeninger med innstillingsrett (mer enn 10.000 medlemmer).8 Rapporten er i hovedsak basert på
-omfattende intervjuer med både arbeidstaker- og
-arbeidsgiverorganisasjoner i utvalgte, store tariffområder. Organisasjonene stilte også et omfattende skriftlig materiale til disposisjon i form av
-statistikk, protokoller og avtaletekster. Følgende
-tariffområder ble dekket av undersøkelsen:
-– Norsk sykepleierforbund – KS HTA
-– Norsk sykepleierforbund – Spekter HF (4 og
-10)
-– LO Stat – Staten
-– LO Stat – Spekter 1–10
-– Fagforbundet – KS HTA
-– Fagforbundet – Spekter (4 og 10)
-– Deler av tariffområdene til Fellesforbundet –
-Norsk industri / BNL:
-– Verkstedoverenskomsten
-– Fellesoverenskomsten for byggfag
-Disse tariffområdene er alle viktige i Norge, både
-med tanke på antall arbeidstakere og som normsettende i norsk arbeidsliv. Offentlig sektor er
-sterkt overrepresentert i rapporten. Privat tjenesteyting er svakt representert. Ingen tariffavtaler
-med YS eller Akademikere inngår i analysen.
-Bare en liten andel av forslag til avtaler om
-unntak avslås sentralt av fagforeningene. Grundig
-(for-) arbeid angis ofte av både arbeidsgiver- og
-arbeidstakerorganisasjonene som en del av forklaringen for gjennomgående lave andeler avslag.
-Flere av hovedorganisasjonene har utformet eller
-formidler klare retningslinjer som sørger for at
-mange av de viktigste prinsippene fra sentralt
-hold ivaretas lokalt, før saken sendes videre til
-behandling og godkjenning sentralt. Slike retningslinjer eller hovedprinsipper er også ofte
-kjente eller lett tilgjengelige for arbeidsgivere.
-Samtidig pekte rapporten på at undersøkelsen
-ikke kunne få oversikt over antallet ønskede avtaleforslag som ikke blir fremmet. Kjente, restriktive holdninger fra hovedsammenslutninger nevnes i noen sammenhenger eksplisitt som årsak til
-dette. Det finnes også rammeavtaler som utformes fra sentralt hold og som gir rom for å utarbeide lokale avtaler innenfor visse rammer uten
-videre forhandlinger. Dette forekommer hovedsakelig i tilfeller hvor det er et behov for noen typer
-tilpasninger som kan være etterspurt i mange
-
-8
-
-Stokke, T.A., Ø.M. Berge og A.A. Seip (2010): Arbeidstidsordninger som fraviker arbeidsmiljøloven, Fafo-rapport
-2010:42.
-
-[Side 124]
-
-124
-
-Kapittel 6
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-ulike virksomheter, mens hvor detaljene rundt en
-lokal avtale kan tenkes å variere noe.
-Krav om økonomisk kompensasjon for å inngå
-avtale om arbeidstidsordninger som gjør unntak
-fra hovedreglene i loven, går igjen som tema i
-flere av tariffområdene som omtales i rapporten,
-men er ikke vanlig i alle tariffavtalene. KS bekrefter for eksempel at særskilt økonomisk kompensasjon ikke er særlig framtredende i deres diskusjoner med Fagforbundet innenfor helse- og
-omsorgssektoren. Rapporten konkluderer mer
-generelt med at økonomiske kompensasjonskrav
-ofte ikke er sterke eller framtredende i mange
-tariffområder i offentlig sektor.
-Alle partene gir klart uttrykk for sterk vektlegging av de ansattes helse og velferd i vurderingen
-av ulike arbeidstidsordninger, og det foreslås ofte
-tidsbegrensning av ordningene og medisinsk vurdering av de ansatte som en del av avtalene for å
-kunne fange opp mulige ugunstige helse- eller
-sosiale effekter. Innenfor helse- og omsorgssektoren blir det nevnt av fagforeningene at arbeidstakerne legger stor vekt på hensyn til brukerne
-(pasientene). Fagforeningene påpeker at denne
-lojaliteten kan føre til situasjoner hvor hensyn til
-brukerne kommer i konflikt med arbeidstakernes
-egen helse og velferd.
-I noen tilfeller opplever fagforeningene at
-deres vurderinger fra sentralt hold avviker fra
-synet til de ansatte eller tillitsvalgte lokalt.
-
-6.3.3
-
-Unntak gjennom individuelle og
-lokale avtaler
-En Fafo-rapport fra 20139 gir en oversikt over
-omfanget av individuelle og lokale avtaler med
-unntak fra hovedreglene i arbeidstidskapitlet,
-samt om virksomhetene benytter slik lokal avtale
-eller søker dispensasjon fra Arbeidstilsynet.
-Rapporten er blant annet basert på en spørreundersøkelse av et representativt utvalg av virksomheter som ble gjennomført i februar 2013.10
-Innenfor privat vareproduksjon oppga 64 prosent
-av virksomhetene at de ikke hadde arbeidstidsordninger med skift, turnus eller gjennomsnittsberegning. I privat tjenesteproduksjon og i gruppen med offentlig sektor og privat helse med mer
-var det litt under halvparten (henholdsvis 46 og
-49 prosent) som ikke hadde slike ordninger.
-
-9
-
-Seip, A.A., R.K. Andersen, K. Nergaard og H. Nicolaisen
-(2013): Arbeidstid og fleksibilitet, Fafo-rapport 2013:46.
-10
-Virksomheter med fem eller flere ansatte i privatsektor og
-10 eller flere ansatte i offentlig sektor.
-
-Blant virksomhetene som oppga å ha skift-,
-turnus-, eller annen arbeidstidsordning med
-arbeid utover ordinær arbeidstid eller innarbeidingsordning var unntak fra hviletidsbestemmelsene mer utbredt blant bedrifter med 50 eller flere
-ansatte (37 prosent) enn blant virksomhetene
-med færre ansatte (27 prosent).
-Når virksomhetene ble spurt hvor lett eller
-vanskelig det var å få til en avtale med lokal fagforening om unntak fra hviletidsbestemmelsene, var
-det få som sa at det var ganske eller svært vanskelig. Dette utgjorde 9 prosent blant virksomhetene
-med mer enn 50 ansatte og bare 2 prosent blant
-de mindre virksomhetene.
-Unntak fra hviletidsbestemmelsene forutsetter
-avtale med tillitsvalgte. Det er likevel mange virksomheter med unntak fra hviletidsbestemmelsene
-som har inngått individuelle avtaler med enkelte
-arbeidstakere eller ikke inngått avtale i det hele
-tatt. Dette kan tyde på at noen virksomheter ikke
-kjenner godt nok til loven på dette området.
-Når virksomhetene ble spurt om det var vanskelig å få til en avtale med lokal fagforening om
-gjennomsnittsberegning, var det få som svarte at
-det var ganske eller svært vanskelig, 9 prosent
-blant virksomhetene med mer enn 50 ansatte og
-fire prosent blant de mindre virksomhetene.
-Både unntak fra hviletidsbestemmelsene og
-gjennomsnittsberegning reguleres i hovedsak
-gjennom avtale med fagforeningene enten lokalt
-eller sentralt blant større virksomheter i privat
-sektor og i offentlig sektor. Individuelle avtaler
-med den enkelte arbeidstaker ser ut til å være mer
-utbredt i virksomheter i privat sektor. Under 30
-prosent av virksomhetene som oppga å ha unntak
-fra bestemmelsene sier at de hadde fått samtykke
-fra Arbeidstilsynet.
-Arbeid rundt avtaleinngåelse i de åtte virksomhetene som ble nærmere undersøkt gjennom
-samtaler og intervjuer med arbeidsgivere, tillitsvalgte og andre avdekker allikevel en rekke tilfeller med betydelige utfordringer knyttet til avtaleinngåelse lokalt. Slike utfordringer kom tydelig
-fram i helseforetak og i kommunene i forbindelse
-med avtale om turnusarbeid med søn- og helligdagsarbeid. Det ble også avdekket utfordringer
-med samkjøring av sentrale og lokale ordninger
-innenfor verftsindustrien.
-Rapporten peker på at arbeidsgivere innenfor
-sykehussektoren og ved verftene opplevde at
-arbeidstakerorganisasjonene prøvde å fremme
-andre interesser utover vernehensyn i forbindelse
-med avtaler om unntak, mens arbeidstakersiden
-anså det som både riktig og nødvendig at kompensasjon inngikk i diskusjoner rundt ubekvem
-
-[Side 125]
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-arbeidstid. Arbeidsgivere både fra verftene og i
-helse- og omsorgssektoren ga uttrykk for et
-ønske om at Arbeidstilsynet kunne fungere som
-ankeinstans i tilfeller hvor det er vanskelig å
-oppnå enighet.
-
-6.3.4
-
-Partenes syn på mulighetene for
-å avtale unntak fra hovedreglene
-i arbeidstidskapitlet
-Utvalget har mottatt informasjon fra partene gjennom møter og skriftlige innspill om hvilke erfaringer partene selv har med lovens system for unntak.
-Arbeidstakersiden har i hovedsak gitt uttrykk
-for at de er fornøyd med hvordan regelverket
-knyttet til avtaler om unntak var organisert fram
-til lovendringene som trådte i kraft 1. juli 2015. LO
-påpeker at daværende arbeidstidsregulering bygget opp om et organisert arbeidsliv, noe som er
-grunnleggende i den norske eller nordiske modellen.
-Organisasjonene på arbeidsgiversiden trekker imidlertid fram ulike vanskeligheter knyttet til
-mulighetene for å inngå avtaler om arbeidstidsordninger med unntak fra hovedreglene om
-arbeidstid.
-Virke påpeker at virksomheter uten tariffavtale har liten fleksibilitet for å avtale unntak fra
-arbeidstidsbestemmelsene. Ifølge Virke ligger
-tariffavtaledekning blant deres medlemsvirksomheter, som i stor grad består av mindre bedrifter,
-på om lag 25 prosent. Lav organisasjonsgrad blant
-de ansatte kan være en av grunnene til at virksomheter ikke har tariffavtale og dermed heller ikke
-kan inngå annet enn individuelle avtaler om unntak. Virke mener at dagens lovregulering er komplisert, at rammene for individuelle avtaler om
-unntak er for små og at individuelle avtaler gene-
-
-125
-
-Kapittel 6
-
-relt er for tungvinte. Dette betyr at særlig mindre
-bedrifter kan oppleve manglende fleksibilitet i tilpasningen av arbeidstidsordninger.
-Både NHO og Spekter tar opp generelle vanskeligheter knyttet til balansen mellom arbeidsgivere og fagforeninger med innstillingsrett i tilfeller med vidtgående unntak. Ifølge NHO får ofte
-lønn og arbeidstid hovedrollen i slike forhandlinger framfor sentrale helse- og sikkerhetsmessige
-hensyn. NHO ønsker å beholde reglene om partenes avtaleadgang, men mener at regelverket bør
-endres for å minske hva arbeidsgiverne opplever
-som en skjevhet i maktbalansen. Spekter beskriver også at slike forhandlinger knyttet til et aspekt
-av arbeidstidsorganiseringen (for eksempel
-arbeid annenhver helg) ofte kobles opp mot andre
-aspekter av arbeidstidens organisering (godkjenning av arbeidsplan), noe som vanskeliggjør inngåelsen av avtale om unntak.
-KS og Spekter framhever at mange forhandlinger om arbeidstid handler om ordninger (skift/
-turnus, nattarbeid, og så videre) som er nødvendig for den vanlige driften i virksomhetene, det vil
-si at normalsituasjonen i mange tilfeller krever
-særskilte avtaler. De mener at loven bør gjøres
-mer fleksibel slik at det som er normalsituasjonen
-for mange virksomheter vil være omfattet av
-lovens normalrammer og ikke kreve særskilt
-avtale.
-KS beskriver også andre forhold som gjør det
-vanskelig å komme fram til gode avtaler. I noen tilfeller er arbeidsgiver nødt til å inngå avtaler med
-mange ulike organisasjoner, som hver for seg kan
-stille ulike krav. KS påpeker videre at dispensasjoner fra Arbeidstilsynet ofte er av forholdsvis kort
-varighet og at virksomheter dermed ikke kan
-basere seg på slike dispensasjoner for vanlig drift
-over tid.
-
-[Side 126]
-
-126
-
-NOU 2016: 1
-
-Kapittel 7
-
-Arbeidstidsutvalget
-
-Kapittel 7
-
-Forskning om arbeidstid –
-arbeidsmiljø, helse, levekår og produktivitet
-7.1
-
-Innledning
-
-Arbeidsplassen er en viktig arena i menneskers
-liv, og er i tillegg til å bidra til inntekt og økonomisk sikkerhet en vesentlig arena for sosialisering
-og selvrealisering. Det å være i arbeid er en av de
-variablene som samvarierer sterkest med god
-helse. Dette skyldes dels at det er personer med i
-utgangspunktet god helse som i hovedsak tar del i
-arbeidslivet, men også at det å være i arbeid i seg
-selv bidrar til trivsel og opprettholdelse av god
-helse, gitt at arbeidsforholdene er gode. Arbeidstidsforhold og samspillet med helse er en del av
-dette større bildet.
-Studier av lykke og tilfredshet bekrefter at
-yrkesaktivitet også henger nært sammen med
-folks tilfredshet med livet. I henhold til en større
-undersøkelse i regi av Eurostat våren 2015, var
-personer under utdanning de som i snitt var mest
-lykkelige. Men nesten like lykkelig som studentene var de som er i jobb. Minst lykkelig var de
-arbeidsløse. I henhold til Eurostats tall var nesten
-halvparten av de arbeidsløse lite tilfreds med
-livet.1
-I Statens arbeidsmiljøinstitutts (STAMI) «Faktabok om arbeidsmiljø og helse» fremgår det at
-norske yrkesaktive er blant de yrkesaktive i verden som trives best og er mest motiverte på jobb,
-og 9 av 10 yrkesaktive oppgir å være fornøyde
-eller svært fornøyde i sitt arbeid. I Norge har vi
-gode arbeidsforhold og god helse, og utviklingen
-ser ut til å gå i en positiv retning. Norske yrkesaktive er også blant dem i Europa som i størst grad
-rapporterer at arbeidstiden er godt tilpasset familielivet og sosiale forpliktelser. Fleksitid og forutsigbarhet er trekk ved det norske arbeidsmarkedet som regnes som fordelaktig for balansen mellom arbeid og familien.2
-1
-
-Se http://ec.europa.eu/eurostat/statistics-explained/
-index.php/Quality_of_life_in_Europe_-_facts_and_views__overall life satisfaction.
-
-Arbeidstiden, og når på døgnet vi jobber, påvirker samfunnet og enkeltindivider i svært stor
-grad. Valg av arbeidstider foretas på bakgrunn av
-kultur, lover og regler, føringer fra arbeidsgivere
-og arbeidstakere – alt avhengig av sammenheng
-og situasjon. Samtidig påvirkes vi av et utall ulike
-faktorer i arbeidsliv, samfunn og privatliv, som
-sammen med arvelige egenskaper bidrar til helse
-eller uhelse. Mellom disse faktorene er det ofte et
-komplisert samspill. I det følgende gjør vi rede for
-forskning og analyser av forholdet mellom
-arbeidstid på den ene siden og helse, familieliv,
-levekår på den annen side. Endelig berører vi et
-siste forskningsområde hva angår arbeidstid,
-nemlig sammenhengen mellom arbeidstid og produktivitet.
-
-7.2
-
-Forskning om arbeidstid og helse
-
-Arbeidsmiljø og -helse er et bredt og sammensatt
-fagområde, hvor også arbeidstidsforhold spiller
-en vesentlig rolle. Arbeidsmiljø er nært knyttet til
-arbeidets utførelse, og hvordan arbeidet er organisert og tilrettelagt for å sikre et best mulig resultat
-over tid. Det finnes solid kunnskap om arbeidsforhold som øker risikoen for arbeidsrelatert uhelse,
-sykefravær og frafall fra arbeidslivet.
-Forebyggende arbeid på dette området handler om å utvikle et arbeidsmiljø hvor slike risikoforhold minimeres, og integreres i arbeidsprosessene på en effektiv måte som over tid gir bærekraft og produktivitet, i kombinasjon med faktorer
-som er dokumentert helsefremmende eller
-beskyttende. Et godt arbeidsmiljø kjennetegnes
-ved at arbeidet er organisert på en bærekraftig
-måte, som sikrer kombinasjon av effektivitet og
-håndterbar risiko. Det vises til Nasjonal overvåking av arbeidsmiljø og helse (NOA) ved Statens
-2
-
-Aagestad, C. (2012): Arbeidsmiljøet i Norge og EU – en
-sammenligning, STAMI-rapport nr. 7, 2012.
-
-[Side 127]
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-arbeidsmiljøinstitutt (STAMI) sin «Faktabok om
-arbeidsmiljø og helse 2015» for en oversikt over
-kjente risiko- og beskyttende faktorer i arbeidslivet, samt en oversikt over risikobildet og arbeidsmiljøtilstanden i norsk arbeidsliv.
-Det finnes solid kunnskap om arbeidstidsordninger og risiko for skadelige helsevirkninger og
-for feilhandlinger, skader og ulykker. Like fullt er
-det vanskelig utfra denne forskningen å fastsette
-absolutte grenser for når risikoen blir for stor eller
-uhåndterbar. Dette skyldes blant annet at betydningen av arbeidstid både kan økes og modereres
-i et samspill av faktorer på individ-, samfunns- og
-virksomhetsnivå.
-Sentralt i en risikoforståelse av arbeidstidsordninger og helse står selve innholdet i arbeidet.
-Arbeidstidsdimensjonen må derfor sees i sammenheng med hva man faktisk gjør i arbeidstiden
-og hvordan arbeidet er organisert. Slike forhold
-kan både være forebyggende og forverrende i et
-risikoperspektiv, og det finnes god dokumentasjon på at dette varierer mellom land, bransjer,
-yrker og også virksomheter. Arbeidstider og
-skiftarbeid kan påvirke helse og funksjonsevne
-gjennom flere kanaler:
-(I) Forstyrrelse av biologiske døgnrytmer
-(II) Søvnmangel
-
-127
-
-Kapittel 7
-
-(III)Utfordringer av å arbeide om kvelden eller
-natten for familieliv og private aktiviteter.
-Alle tre typer mekanismer påvirker psykologiske
-og biologiske funksjoner. I hvilken grad disse
-funksjonene påvirkes varierer mellom individer,
-og også sett i forhold til arbeidets innhold og organisering. Lokale risikovurderinger som grunnlag
-for utforming av arbeidstidsordninger og organiseringen av arbeidet innenfor disse rammer ser
-således ut til å være et viktig fundament for et
-bærekraftig arbeidsliv som fremmer god helse.
-STAMI har i 2008 og 20143 samlet, gjennomgått og kvalitetsvurdert relevant publisert internasjonal vitenskapelig litteratur på området arbeidstid, sikkerhet og helse. Disse kunnskapsgjennomgangene er basert på flere hundre medisinske fagfellebedømte vitenskapelige studier.
-STAMI gjennomførte dette arbeidet i en systematisk-kritisk kontekst, hvor både studienes
-interne (metodologisk) og eksterne (generell gyldighet) validitet ble kritisk vurdert og vektet. Kun
-de studier som møtte de strenge inklusjonskriteriene knyttet til både intern og ekstern validitet ble
-3
-
-Lie m.fl. (2014): Arbeidstid og helse – oppdatering av en
-systematisk litteraturstudie, STAMI-rapport nr. 1, 2014.
-
-Boks 7.1 Arbeidstidsordninger
-grad i helsevesenet. Turnusarbeid inkluderer et
-Overtid og lange arbeidsdager
-relativt stort mangfold av arbeidstidsordninger,
-der noen arbeider bare natt, mens andre arbeiOvertid er et fenomen som indikerer at en jobder varierende skift.
-ber mer enn planlagt arbeidstid. Planlagt
-Skillet mellom skift og turnus er et særnorsk
-arbeidstid kan også variere, og lange arbeidsdafenomen, og lite relevant når en ser på internager eller lange arbeidsøkter er begreper som
-sjonal litteratur som vanligvis omtaler alle slike
-brukes når planlagt arbeidstid er lenger enn 8
-arbeidstidsordninger som «shift work».
-timer.
-Skift og turnus
-
-Skiftrotasjon
-
-I norsk arbeidsliv brukes begrepet skiftarbeid
-om arbeidstidsordninger der arbeidstakere på
-omgang arbeider om dagen, om kvelden eller
-om natten, etter bestemte arbeidsplaner. Karakteristisk for skift er at arbeidstakere følger sine
-skiftlag og at den enkelte arbeider like mange
-timer på hvert skift i løpet av en fastsatt periode.
-Dette er derfor vanligst i industrien.
-Begrepet turnusarbeid brukes om ordninger
-der det vanligvis er et noe mindre dekningsbehov om natten enn om dagen og eventuelt kvelden. Turnus har derfor en annen type regelmessighet. Turnusbegrepet brukes således i stor
-
-Skiftordninger blir ofte beskrevet som foroverroterende eller bakover-roterende. Et foroverroterende system er et skiftsystem der morgenskift etterfølges av ettermiddagsskift og deretter
-nattskift. Det kalles også å rotere med klokka. I
-et bakover-roterende (mot-klokka) system er
-rekkefølgen nattskift, ettermiddagsskift og deretter morgenskift. Rotasjonshastigheten kan
-være hurtig eller langsom. Hurtigst rotasjon har
-man når man ikke jobber mer enn ett morgenskift, ett kveldsskift og så videre etter hverandre. Langsom rotasjon kan for eksempel være
-én uke med hver skift-type.
-
-[Side 128]
-
-128
-
-Kapittel 7
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-omtalt i rapportene og vektlagt i dens konklusjoner. STAMI finner at rapportens hovedkonklusjoner er i samsvar med lignende kunnskapsoppsummeringer fra land som er sammenlignbare med
-Norge. Risikoforhold som omtales i dette kapittelet er i hovedsak basert på kunnskapsoppsummeringene fra STAMI, og peker på de hovedtrekk og
--retninger den samlede kunnskapsfronten på
-området angir.
-
-7.2.1
-Arbeidstidsordninger og helse
-Forskning over lang tid har vist at særlig arbeidstidsordninger som skiftarbeid, nattarbeid og lange
-arbeidstider kan innebære store helsebelastninger, samt øke risikoen for arbeidsskader og ulykker. Risikoøkninger er særlig knyttet til følgende
-forhold:
-– mange påfølgende skift
-– mange påfølgende nattskift
-– få hviletimer mellom skift
-– skiftrotasjon mot klokka
-– lange arbeidsøkter
-– mange timer per uke.
-Det er likevel vanskelig å trekke ut eksakte grenser for hva som medfører en helserisiko fra den
-foreliggende internasjonale litteraturen, da
-arbeidstidsforholdene som tidligere nevnt må
-sees i sammenheng med arbeidets innhold og
-organisering, og hvor det er velkjent at det er variasjoner mellom både land, bransjer, yrker og virksomheter. Videre er det avgjørende hvor lenge
-arbeidstakeren har vært i den aktuelle arbeidstidsordningen, samt hyppighetene på eksempelvis
-de kjente risikofaktorer som er nevnt ovenfor.
-En annen faktor som også må tas hensyn til er
-at det i et godt arbeidsmarked vil være en selektert gruppe av arbeidstakere som søker seg til
-arbeid med spesielle arbeidstidsordninger, og de
-blant disse som opplever utfordringer knyttet
-arbeidstidsordningene ofte slutter relativt raskt.
-Dette kan gjøre at eventuelle helseutfall på gruppenivå blir underestimert ved at det er kun de
-arbeidstakerne som kan synes takle belastningene best som blir inkludert i studiene. Enkeltstudier på dette området kan derfor peke i litt forskjellige retninger. STAMI understreker at nettopp derfor er det viktig å gjennomføre kunnskapsoppsummeringer på dette feltet i en systematiskkritisk tradisjon, hvor overordnede faktorer og
-hovedretninger identifiseres. På tvers av nasjonale
-arbeidstidsreguleringer, arbeidsmiljøstandarder
-og andre lokale forskjeller er det internasjonal
-vitenskapelig konsensus om at nattarbeid,
-
-arbeidsdager utover 12 timer og skiftarbeid med
-rotasjon mot klokka er særlig forbundet med forhøyet helse- og ulykkesrisiko.
-Arbeidstidens sosiale konsekvenser er også
-særlig viktige, spesielt for familieliv. Arbeidstidsordninger med lange arbeidsperioder har vanligvis utvidede friperioder, som kan gi rom for restitusjon, hvile og sosial tid. Noen studier tyder på at
-friperiodene kan kompensere for ulempene ved
-de utvidede arbeidsperiodene, men her peker
-STAMI på at det er fortsatt forsknings- og kunnskapsbehov.
-Hvorvidt en praktisering av arbeidstidsordninger som er forbundet med forhøyet helse- eller
-sikkerhetsrisiko vil kunne medføre helseproblemer eller sikkerhetsutfordringer for den enkelte
-ansatte er en sammensatt problemstilling. Forhold ved selve arbeidet og individuelle forhold
-spiller inn. Generelt gode arbeidsmiljøforhold kan
-i noen tilfeller bidra til at risikopotensialer ikke
-realiseres, eksempelvis hvor mye innflytelse og
-kontroll arbeidstakerne har når det gjelder rammene for og utførelse av arbeidet. Enkeltstudier
-har vist til at fleksible løsninger og innflytelse på
-egen arbeidstid og -innhold ser ut til å kunne redusere omfanget av negative virkninger av arbeid
-utenfor normalarbeidsdagen.4
-Sikkerhet, skader og ulykkesrisiko
-Søvnmangel påvirker funksjon og sikkerhet, og
-det er sterke holdepunkter for at både lange
-arbeidsøkter, nattarbeid og roterende skift påvirker risikoen for skader og ulykker i arbeidslivet.
-Kognitive funksjoner i form av årvåkenhet, evne
-til å bearbeide informasjon, evne til å fatte beslutninger, evne til hukommelse (arbeidshukommelse), samt evne til problemløsning rammes ved
-langvarig våkenhet. Dette underbygges av observasjoner av økt risiko for unnlatelser og feilhandlinger ved arbeid utover normal arbeidstid. Studier indikerer at økt risiko kan påvises ved arbeid
-utover åtte timer per dag, men effekten er tydeligere ved arbeidsøkter utover ti timer og tydeligst
-ved økter over 12 timer. I slike tilfeller er det studier som viser en dobling av ulykkesrisikoen.
-Døgnrytmer (circadiane rytmer) regulerer
-våkenhet og følgelig kognitive funksjoner, og en
-rekke kroppslige funksjoner. Døgnrytmen gjør at
-arbeid i nattfasen øker risiko for unnlatelser og
-feil. Roterende skiftarbeid øker risikoen mer enn
-4
-
-Harma, M. (2006): Workhours in relation to work stress,
-recovery and health. Scandinavian Journal of Work,
-Environment & Health 32(6), s. 163–179.
-
-[Side 129]
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-nattskift, med bakover-roterende skift som den
-mest uheldige ordningen. Roterende skiftarbeid
-gir kroppen begrensede muligheter til å nullstille
-døgnrytmen da man jobber og sover til stadig
-endrede tider. Skiftordninger som roterer bakover
-er dokumentert å være verre sammenliknet med
-de som roterer forover, med hensyn til både helse,
-søvnkvalitet og hjem/arbeid-konflikt.
-Det er i tillegg dokumentert at overtid i seg
-selv er relatert til større risiko for feilhandlinger
-og ulykker i arbeidet. Det er også kjent at risikoen
-for feilhandlinger øker mer enn proporsjonalt med
-økningen av varigheten av arbeidsdagen. Funnene til nå tilsier at risikoen øker med 50 prosent
-ved ti timers skift sammenlignet med åtte timer,
-og med 100 prosent ved 12 timers skift sammenlignet med åtte timer.
-Lange arbeidsøkter, nattarbeid og roterende
-skiftordninger må alltid vurderes i sammenheng
-med arbeidets innhold og kontekst, da eksponeringer under arbeidet, det vil si den påvirkningen
-man utsettes for, har betydning for risiko for feilhandlinger og ulykker. I følge levekårsundersøkelsene til SSB utfører om lag èn av fire i Norge
-arbeidsoppgaver der de mesteparten av tiden kan
-sette eget eller andres liv i fare ved feilhandlinger.
-I noen yrkesgrupper, som sykepleiere, operatører
-og sjåfører, gjelder dette mer enn halvparten av
-arbeidstakerne.
-Helseplager og sykdom
-Det er godt dokumentert at både lange arbeidsuker (> 55–60 t/uke) og skift- og nattarbeid øker
-risikoen for hjerte- og karsykdom og død som
-følge av dette. Skift- og nattarbeid er funnet å øke
-risikoen for diabetes, som også er assosiert med
-hjerte- og karsykdom. Det er også gode holdepunkter for at lange arbeidsøkter kan øke risikoen
-for hyppighet og dødelighet av hjerte- og karsykdommer.
-Forskningslitteraturen konkluderer nokså
-entydig med at et skiftsystem som roterer forover
-er bedre enn et som roterer bakover for helse og
-søvnkvalitet, selv om begge roteringsordninger er
-forbundet med forhøyet helserisiko. Særlig i forbindelse med lange nattskift ser det ut til å være
-helt avgjørende med lange hvilepauser, og tilstrekkelig antall hviletimer før skiftet for å kunne
-forbygge sykdom. Videre viser flere studier at risikoen for innsovningsvansker og for lite søvn er
-fordoblet ved arbeidsuker med 55 timer eller mer
-versus arbeidsuker med 35–40 timer. Risikoen
-øker også med gjentatte lange skift. Daglig og
-ukentlig overtid i kombinasjon med lange arbeids-
-
-129
-
-Kapittel 7
-
-økter øker risikoen for tretthet, hvilket er en risikofaktor for utvikling av mildere psykiske lidelser.
-Lang arbeidstid er påvist å være assosiert med
-lettere psykiske plager, og det er dokumentert at
-risikoen for depresjon øker ved lange arbeidsdager og -uker, og forsterkes ytterligere hvis det ofte
-jobbes lange uker. Lange arbeidsdager ser også ut
-til øke subjektiv rapportering av muskelskjelettplager. Skift- og nattarbeid i kombinasjon med lav
-innflytelse på egen arbeidstid ser ut til å bidra til
-dårligere mental helse. Sykemeldingsdiagnose er
-en viktig kilde til å identifisere mulige risikofaktorer i arbeidsmiljøet. Muskel-/skjelettlidelser og
-psykiske lidelser utgjorde nærmere 60 prosent av
-sykefraværsdagsverkene i 2014.
-Brystkreft er den mest studerte kreftformen i
-sammenheng med skift- og nattarbeid. Nye studier viser økt brystkreftrisiko blant kvinner som
-har jobbet mange år i skiftordninger med mange
-netter i strekk. Det er også enkelte studier av sammenhengen mellom skiftarbeid og andre kreftformer, eksempelvis prostatakreft. Resultatene fra
-disse studiene varierer, og det foreligger så langt
-ikke internasjonal konsensus om årsakssammenhenger mellom skift- og nattarbeid og disse kreftformene. Det pågår flere internasjonale studier
-om dette temaet. Det er videre funnet en sammenheng mellom både lange arbeidstider og skiftarbeid og risiko for lav fødselsvekt, men det er ikke
-påvist at lang arbeidstid kan påvirke tendensen til
-komplikasjoner under svangerskapet.
-
-7.2.2
-Arbeidstid og sykefravær
-Sammenhengen mellom noen former for arbeidstidsordninger og helseutfall gir grunn til å forvente en sammenheng mellom belastende
-arbeidstidsordninger og ulike former for sykefravær.
-Olsen og Dahl (2010) undersøker blant annet
-forholdet mellom arbeidstidsordninger og sykefravær i Norge basert på SSBs Levekårsundersøkelse fra 2003. Forfatterne viser at forskningen på
-forholdet mellom arbeidstid og sykefravær er
-begrenset internasjonalt, med bare få studier som
-dokumenterer en viss sammenheng mellom skift-/
-turnusordninger og høyere (langtids-)sykefravær.
-I den norske analysen skilles det mellom fire
-typer arbeidstidsordninger ut ifra om arbeidet
-skjer utelukkende på dagtid innenfor tidsrommet
-klokken 06.00–18.00 og om arbeidstakeren har
-noen form for fleksibel arbeidstidsordning. Utfallet som studeres er sykefravær over to uker. Analysen kontrollerer for yrke og en rekke kjennetegn ved arbeidstakerne og arbeidsplassene. Fun-
-
-[Side 130]
-
-130
-
-NOU 2016: 1
-
-Kapittel 7
-
-Arbeidstidsutvalget
-
-16
-14
-12
-10
-8
-6
-4
-2
-0
-Dagtid
-
-Fast natt
-
-Todelt skift
-
-Helkontinuerlig
-skift
-
-Annet sykefravær
-
-Døgnkontinuerlig
-skift
-
-Todelt turnus
-
-Tredelt turnus
-
-Arbeidsrelatert sykefravær
-
-Figur 7.1 Prosentandel med arbeidsrelatert og annet sykefravær etter ulike typer arbeidstidsordninger.
-2006
-Kilde: Statistisk sentralbyrås levekårsundersøkelse (LKU), NOU 2008: 17.
-
-nene viser at sykefraværet er høyere for menn
-med arbeidstid utenom ordinær dagtid og uten
-fleksibilitet enn for menn med arbeid på dagtid
-uten fleksibilitet. En tilsvarende sammenheng ble
-ikke avdekket for kvinner.
-Skift/turnusutvalget (NOU 2008: 17) presenterte også flere relevante funn om sammenhengen mellom ulike arbeidstidsordninger og sykefravær over 14 dager med Levekårsundersøkelsen
-fra 2006 som kilde. Det ble skilt mellom ulike
-typer sykefravær: arbeidsrelaterte sykefravær og
-annet sykefravær. Arbeidsrelatert sykefravær ble
-definert ut ifra om den spurte selv mente fraværet
-var forårsaket av helseproblemer som helt eller
-delvis skyldtes jobben.
-Figur 7.1 viser at alle de ulike formene for natt-,
-skift- og turnusarbeid henger sammen med høyere andel sykefravær enn hva arbeid på dagtid
-gjør. Andel arbeidsrelatert sykefravær er høyest
-for fast nattarbeid, mens andelen annet fravær er
-høyest for døgnkontinuerlig skift og todelt turnus.
-Det er små forskjeller i sykefravær blant personer
-som jobber todelt skift, todelt turnus og tredelt
-turnus.
-
-7.2.3
-
-Kunnskapsbehov
-
-På arbeidstidsfeltet er kunnskapsgrunnlaget
-basert på et stort antall fagfellebedømte medisinske vitenskapelige artikler fra internasjonale verdensledende forskningsmiljøer på feltet, som i
-ettertid er kvalitetssikret og samtolket med hensyn på både intern og ekstern validitet. På basis av
-dette er det etablert noen retningsangivende risikofaktorer og grove grenser for når helseskadelige effekter av arbeidstidsordninger inntreffer.
-I tillegg besitter mange av de enkelte parter,
-bransjer og virksomheter god empirisk erfaring
-om hvilke arbeidstidsordninger som har vist seg
-
-bærekraftige på lokalt nivå, som også er grunnlag
-for de sentrale og lokale avtaler som er inngått på
-arbeidstidsområdet i Norge. Like fullt ser det ut til
-å være behov for mer kunnskap på området. Særlig er det kunnskapsbehov knyttet til bedre karakterisering av spesifikke arbeidstidsforhold sett
-opp mot relevante helseeffekter, i kombinasjon
-med bedre beskrivelser av arbeidets reelle innhold og organisering. For eksempel er det variasjon i hvordan lang arbeidstid er blitt definert og
-hva slags utfall som er vurdert i flere av studiene
-på området. Derfor kan det fortsatt være foreliggende risikoforhold som så langt ikke er avdekket, på samme måte som forebyggende og beskyttende faktorer ikke fullt ut er identifisert.
-Videre har de fleste land forskjellige arbeidstidsreguleringer, og internt i ulike land er det et
-stort antall forskjellige lokale avtaler som regulerer arbeidstidsordningene. Med dagens kunnskapsnivå gjør dette, sammen med en rekke samspillende variabler, både på individ-, samfunns-, og
-virksomhetsnivå, at absolutte grenser for når det
-oppstår ugunstige helse- og sikkerhetseffekter
-ikke vil være entydige på individnivå, og heller
-ikke fullt ut entydige på gruppenivå. Risikoforhold
-som omtales i dette kapittelet er i hovedsak basert
-på kunnskapsoppsummeringene fra STAMI, og
-peker på de hovedtrekk og -retninger den samlede internasjonale kunnskapsfronten på området
-angir.
-I Norge, hvor vi er kjent for et generelt godt
-utviklet arbeidsmiljø, er det spesielt behov for
-bedre kunnskap om sammenhengen mellom
-arbeids- og arbeidsmiljøforhold og arbeidstidsbelastninger, samt om arbeidstidsordninger med
-lange arbeidsperioder med utvidede friperioder,
-som kan gi rom for restitusjon, hvile og sosial tid.
-Dette er krevende studier å gjennomføre som vil
-kreve lang oppfølgingstid.
-
-[Side 131]
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-7.3
-
-Arbeidstid, familieliv og levekår
-
-Blant norske yrkesaktive sier ni av ti at de får til
-en god balanse mellom arbeid og familie-/privatliv.5 Av Levekårsundersøkelsen fra 2013 går det
-frem at kun 13,4 prosent av de yrkesaktive opplever at kravene på jobben går utover privatlivet
-nokså ofte eller svært ofte.
-Fleksibel og forutsigbar arbeidstid, kortere
-arbeidsuker og høy forekomst av deltidsarbeid er
-karakteriske trekk ved det norske arbeidsmarkedet. Disse faktorene kan alle være fordelaktige for
-balansen mellom jobb og familie-/privatliv. Tilfredshet med balansen mellom jobb og privatliv er
-et veldig viktig aspekt ved folks trivsel og tilfredshet med livet.6
-Balansering av tid til jobb, partner, barn og fritid kan imidlertid skape tidskonflikter og dilemmaer. I hvilken grad man opplever god balanse
-mellom arbeid og privatliv, avhenger både av familietype (eneforsørger/delforsørger og antall barn)
-og foreldrenes arbeidssituasjon. Av arbeidsrelaterte faktorer er arbeidstidens plassering og tilretteleggelse av stor betydning for balansen mellom
-arbeid og privatliv.
-
-7.3.1
-
-Perspektiver på tid, krav og
-arbeidspress
-Ofte står mengden av tid som kan disponeres til
-ulike sysler i fokus, altså de kvantitative sidene
-ved tid i fokus. Men også kvalitative aspekter ved
-tid er viktige. Ser man på tid til fritid handler ikke
-det bare om å ha nok fritid, men også til å ha fri til
-rett tid. Det å ha fritid som er synkronisert med
-fritiden til andre familiemedlemmer, er viktig. Tid
-brukt sammen med ektefelle og barn oppleves å
-ha en høyere verdi enn annen tidsbruk.7
-Både familiens samlede arbeidstid og arbeidstidsordninger, reisevei til og fra jobb, samt familiesituasjonen vil kunne virke inn på om man klarer å
-tilpasse kravene på jobben til privatlivet. Av Levekårsundersøkelsen fra 2013 går det frem at kun
-13,4 prosent av de yrkesaktive opplever at kravene på jobben går utover privatlivet nokså ofte
-eller svært ofte. Tar man med dem som av og til
-opplever dette, er andelen 37 prosent. Opplevelsen av at kravene på jobben går ut over privatlivet,
-5
-6
-7
-
-Aagestad, C. (2012): Arbeidsmiljøet i Norge og EU – en
-sammenligning. STAMI-rapport nr. 7, 2012.
-OECD (2013): How’s life? Measuring Well-being, Paris:
-OECD Publishing.
-Nicolaisen, H.(2012): Innarbeidingsordninger og familieliv
-– erfaringer fra helsesektoren og industrien, søkelys på
-arbeidslivet, 29: 224–241.
-
-131
-
-Kapittel 7
-
-er noe mer utbredt i yrkesgrupper som kjennetegnes av lange arbeidsuker og arbeid på tidspunkt
-som ikke er lett å forene med hjemme- og familieliv.8
-Arbeidstidens innhold eller kvalitet har også
-betydning for opplevelsen av tid, blant annet for
-hva man orker når man kommer hjem fra jobb.
-Høye jobbkrav kombinert med liten mulighet til å
-styre egen arbeidshverdag kan øke risikoen for
-helseplager og ulykker.9 I 2013 oppga om lag 16
-prosent sysselsatte at de befant seg i en arbeidssituasjon kjennetegnet av høye jobbkrav i kombinasjon med lav jobbkontroll. Denne kombinasjonen
-er mer utbredt blant kvinner (22 prosent) enn
-menn (11 prosent) og i den yngste aldersgruppen
-(17–24 år) hos begge kjønn. Høye jobbkrav og lav
-jobbkontroll er særlig utbredt i helse- og
-omsorgsyrker og i servitør- og kundeserviceyrker.
-En del opplever at arbeidslivet navigerer i
-økende grad etter verdier som effektivitet, lønnsomhet og konkurransedyktighet, og det er
-økende produksjonskrav. Høye jobbkrav kan bli
-en utfordring ved høy intensitet over lengre tid
-slik at pustehullene i arbeidsdagen tettes, men
-samtidig er et visst press og nye utfordringer også
-en viktig del av det som for mange arbeidstakere
-virker motiverende i jobben.10 11 I 2013 oppga
-omlag 61 prosent, det vil si over 1 500 000 sysselsatte, at de opplever høye jobbkrav i form av stor
-arbeidsmengde og høyt tempo. Oppfatning av
-høye jobbkrav er mer utbredt blant kvinner (65
-prosent) enn menn (57 prosent) og i aldersgruppen 25–54 år hos begge kjønn. Oppfatningen av
-høye jobbkrav ser ut til å være utbredt blant
-mange yrkesaktive, både i ulike utdanningsgrupper og i ulike yrkesgrupper. Likevel ser det ut til å
-være noe mer utbredt i yrker med krav til høyere
-utdanning, som sykepleiere, leger, ulike lederyrker, saksbehandlere og salgsagenter/meglere.12
-
-7.3.2
-Arbeidsøktens plassering på døgnet
-Av arbeidsrelaterte faktorer er arbeidstidens plassering og tilretteleggelse av stor betydning for
-balansen mellom arbeid og privatliv. Flere studier
-viser at kvinner og menn som må arbeide utenom
-8
-9
-10
-11
-12
-
-STAMI (2015): Faktaboka om arbeidsmiljø 2015, STAMIrapport nr. 3, 2015.
-STAMI-rapport nr. 3, 2015.
-Ellingsæter, A.L. (2005): Tidsklemme – metafor for vår tid?
-Tidsskrift for samfunnsforskning nr. 3, 2005.
-Faktaboka om arbeidsmiljø 2015, STAMI-rapport nr. 3,
-2015.
-STAMI-rapport nr. 3, 2015.
-
-[Side 132]
-
-132
-
-Kapittel 7
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-normalarbeidsdagen, har større problemer med å
-kombinere arbeid og familie enn dem som arbeider innenfor normalarbeidsdagen. Arbeidstidsordninger som ligger utenfor normalarbeidsdagen kan resultere i fritid med begrenset verdi
-fordi den er ute av fase med kollektive tidsrytmer.13 Dette, å ikke ha nok tid til rett tid, ser ut til
-å være mest utbredt i yrker der tidsfleksibilitet er
-styrt av arbeidsgivers behov for økt fleksibilitet
-for kunder og brukere i service og pleiesektoren.14
-En nordisk litteraturstudie fra 2007 som
-undersøker arbeidsøktens plassering på døgnet
-finner sterk støtte for at arbeid utenfor normalarbeidsdagen har en negativ innvirkning på balansen mellom arbeid og privatliv.15 Dette knytter
-seg til konfliktnivå mellom arbeid og familie, tilfredshet hos familien, konflikter knyttet til hobbyer, samt tid til familie og egne sysler.
-Samme konklusjonen finner vi i en tidligere
-norsk litteraturstudie gjort på oppdrag fra Norsk
-Sykepleierforbund.16 Studien konkluderer med at
-skiftarbeid påvirker sykepleieres sosiale liv negativt – direkte gjennom uregelmessige arbeidstider
-og indirekte gjennom påvirkning av søvnmønsteret.
-Kvinner, spesielt med barn, føler i større grad
-enn menn at skift-, eller turnusarbeid påvirker
-balansen mellom arbeid og familie negativt.17
-Dette kan knyttes til at kvinner tar et større ansvar
-for husarbeid og familieansvar enn menn.18 I tilknytning til omsorg for barn er det som oftest
-kvinner som enten reduserer arbeidstiden eller er
-hjemmearbeidende med barn.
-Amerikanske studier viser at sannsynligheten
-for ekteskapelig ustabilitet var seks ganger så høy
-for menn med skiftarbeid sammenlignet med dagarbeid. For kvinner var sannsynligheten tre ganger så høy.19 En annen studie finner i tillegg til økt
-
-sannsynlighet for skilsmisse, at skiftarbeid også
-er assosiert med seksuelle problemer og problemer relatert til omsorg for barn.20 På den annen
-side viser flere studier at skiftarbeidende fedre
-bruker mer tid med barna enn dagarbeidende
-fedre.21 Men studier viser også at arbeid utenfor
-normalarbeidsdagen ser ut til å ha en negativ innflytelse på barns prestasjoner og velbefinnende.22
-For eksempel vises det til funn der barn av foreldre med kveldsarbeid får dårligere kognitiv stimulering enn andre barn. Dette gjaldt særlig barn
-der mødrene jobbet kveld.
-Når det gjelder ulike typer skift- og turnusordninger og deres innvirkning på sosiale forhold, er
-det gjort færre studier. Men det antydes at ordninger som roterer framover er å foretrekke framfor
-ordninger som roterer bakover, og at permanente
-skift er å foretrekke framfor roterende skift.23
-Turnus- og skiftarbeidets negative følger for
-privatlivet har bidratt til ønsker om å finne løsninger som reduserer disse ulempene. Flere internasjonale studier viser at innflytelse på arbeidstiden
-i forbindelse med skiftende arbeidstid kan ha positiv innvirkning på balansen mellom arbeid og privatliv.24 Innflytelse gir blant annet større mulighet
-for å tilpasse arbeidshverdagen til familiens
-behov. På mange arbeidsplasser – særlig helseinstitusjoner – er det derfor igangsatt ordninger
-som gir arbeidstakerne en viss innflytelse på egen
-turnusordning, noe som ofte betegnes som ønsketurnus.25 En studie av danske lønnsmottakere
-konkluderer med at økt innflytelse på plassering
-av arbeidstiden har en positiv, men begrenset virkning, og bidrar kun til en moderat reduksjon av de
-negative konsekvensene av uregelmessig arbeidstid.26
-
-13
-
-20
-
-Normalarbeidsdagen er ikke en fast juridisk regulering,
-men defineres gjerne som 8-timers arbeidsdag innenfor
-ordinær dagtid mellom klokken 06–18.
-14
-Ellingsæter, A.L. (2005): Tidsklemme – metafor for vår tid?
-Tidsskrift for samfunnsforskning nr. 3, 2005.
-15
-Albertsen, K. m.fl. (2007): Working time arrangements and
-social consequences – what do we know?, TemaNord 2007:
-607, København: Nordic Council of Ministers.
-16
-Bondevik, K. m.fl (2006): Er helsemessige og sosiale konsekvenser av helkontinuerlig skiftarbeid og turnusarbeid
-forskjellige? En litteraturstudie. Seksjon for arbeidsmedisin, Universitetet i Bergen/ UNIFOB Rapport 1.
-17
-Kecklund, G. (2010): Arbetstider, hälse og säkerhet – en
-uppdatering av aktuell forskning. Stressforskningsrapport
-322.
-18
-Bergene, A.C. m.fl. (2013): Norsk arbeidsliv 2013. Stabilitet
-og sårbarhet. YS Arbeidslivsbarometer. Yrkesorganisasjonenes Sentralforbund og Arbeidsforskningsinstituttet.
-
-19
-
-21
-
-22
-23
-
-24
-25
-
-26
-
-Presser, H.B. (2000): Nonstandard work scheduels and
-marital instability. Journal of Marriage and the Familiy, 62,
-93-110.
-White, L og Keith, B. (1990): The effect of shift work on the
-quality and stability of marital relations. Journal of Marriage and the Family, 52, 453-462.
-Albertsen, K. m.fl. (2007): Working time arrangements and
-social consequencies – what do we know? TemaNord
-2007:607 København: Nordic Council of Ministers.
-STAMI-rapport nr. 3, 2015.
-Moen, S.E. m.fl. (2011): Sosiale og helsemessige konsekvenser av arbeidstidsordninger i helse, - pleie- og
-omsorgssektoren. En litteraturstudie. Fafo-notat 2011:11.
-Aagestad, C. (2012): Arbeidsmiljøet i Norge og EU – en
-sammenligning. STAMI-rapport nr. 7, 2012.
-Moland, L.E. (2013): Heltid-deltid – en kunnskapsstatus.
-Begrunnelser og tiltak for å redusere omfanget av deltid og
-organisere for heltidsansettelser. Fafo-rapport 2013:27.
-Albertsen, K. m.fl. (2007): Working time arrangements and
-social consequencies – what do we know? TemaNord
-2007:607 København: Nordic Council of Ministers.
+Andre aspekter av måten arbeidstiden organiseres på kan også virke inn på forholdet mellom arbeidstid og produktivitet. Dette kan gjelde for når arbeidstiden plasseres i løpet av et døgn, uke eller år eller om arbeidstakeren har noe fleksibilitet i forhold til hvor og når arbeidet gjennomføres.
+
+En type arbeidstidsordning som har blitt hyppig diskutert er fleksibel arbeidstid. Her er det imidlertid viktig å skille mellom fleksible løsninger som arbeidsgiveren bestemmer, og fleksible ordninger hvor arbeidstakere har noe kontroll over når arbeidstiden avvikles. Golden (2012) snakker om «variabel arbeidstid» når fleksibiliteten gjelder arbeidsgiverens disponering av arbeidstid og «fleksible ordninger» når noe kontroll over egen arbeidstid overlates til arbeidstakere.[^178] Ifølge oversiktene i både Baltas et al (1999) og Golden (2012) finnes det en rekke fordeler med fleksible ordninger, og disse kan tenkes å være gunstige for produktiviteten[^179]. Fleksible ordninger kan gjøre det lettere for arbeidstakere å legge arbeidstimer til tider av døgnet når de er mest opplagte eller er minst utsatte for forstyrrelser. Dette henger sammen med den mer generelle innsikten at mer autonomi på jobb kan være gunstig for trivsel og derigjennom produktivitet. Fleksible ordninger kan i tillegg i noen grad veie opp for stress og andre eventuelle negative effekter av lang arbeidstid (Golden 2012).
+
+En annen type arbeidstidsordning som har blitt mye omtalt er «komprimerte arbeidsuker», det vil si at ukentlige arbeidstimer fordeles over færre dager enn det som er vanlig. Dette kan tenkes å ha både positive og negative effekter på produktiviteten. Mulige ulemper knyttes opp mot lengre arbeidsøkter, mens mulige fordeler handler om større fleksibilitet og lavere kostnader knyttet til færre arbeidsøkter (eksempelvis reisekostnader eller oppstartskostnader). En meta-analyse fra 1999 (se Baltes et al (1999)) gir ikke grunnlag for å konkludere med at komprimerte arbeidsuker gir høyere produktivitet, men Golden (2012) påpeker at nyere studier antyder positive produktivitetseffekter av komprimerte arbeidsuker.
+
+1.  **Brudd på arbeidstidsbestemmelsene**
+
+    1.  **Innledning**
+
+*Utvalget* er i mandatet bedt om å kartlegge brudd på arbeidstidsreguleringene i norsk arbeidsliv. *Utvalget* er bedt om å se på hvilke bestemmelser som brytes og hva som er de viktigste årsakene til bruddene.
+
+Omfanget av brudd på arbeidstidsbestemmelsene er et viktig grunnlag for å vurdere hvordan arbeidsmiljøloven fungerer i praksis og i hvilken grad den etterleves.
+
+Ideelt sett hadde *utvalget* ønsket seg en fullstendig oversikt over alle brudd på arbeidstidsreglene i norsk arbeidsliv som grunnlag for analysen. Dette viste seg imidlertid ikke å være mulig. Statistisk sentralbyrå har ikke registerdata eller utvalgsdata som belyser dette. Arbeidstilsynet og Petroleumstilsynet[^180] gjennomfører risikobasert tilsyn. Det innebærer at de ikke har oversikter som kan benyttes til å analysere brudd i særlig grad. En annen mulig kilde for oversikt over brudd på arbeidstidsreglene er rettsapparatet, men heller ikke her fant *utvalget* at det er systematiserte oversikter. På ett vesentlig samfunnsområde – nemlig helseforetakene – fikk *utvalget* imidlertid tilgang til administrative og detaljerte data.
+
+Med dette som bakgrunn besluttet *utvalget* å følge en tredelt strategi for å svare på mandatet. Det ble foretatt tre analyser basert på henholdsvis:
+
+- data fra helseforetakene om brudd på arbeidstidsbestemmelsene
+
+- en spørreundersøkelse blant norske virksomheter og tillitsvalgte i utvalgte fagforbund
+
+- data fra Arbeidstilsynets register over reaksjoner på arbeidstidsbestemmelsene i 2014.
+
+Arbeids- og sosialdepartementet ga på vegne av *utvalget* Fafo oppdrag om å gjøre undersøkelsene. Nedenfor følger en oppsummering av hovedfunnene.[^181]
+
+I punkt 8.3 presenteres en analyse av brudd i helseforetakene. I punkt 8.4 presenteres resultater fra spørreundersøkelser blant virksomheter og tillitsvalgte. I punkt 8.5 omtales Arbeidstilsynets reaksjoner på arbeidstid.
+
+1.  **Nærmere om metode og bakgrunn**
+
+Hovedhensikten med analysen til Fafo har vært å kartlegge mulige brudd på arbeidstidsreguleringene og hvilke bestemmelser i hvilke reguleringer som brytes.
+
+Lovens arbeidstidskapittel inneholder blant annet bestemmelser om grenser for alminnelig arbeidstid og gjennomsnittsberegning, overtid, rett til arbeidsfri og pauser, samt bestemmelser om søndagsarbeid og nattarbeid. Arbeidsmiljøloven er ufravikelig, men unntak fra hovedreglene kan gjøres dersom loven uttrykkelig åpner for det. Det er adgang til å gjøre unntak fra de fleste bestemmelsene. Hvilke bestemmelser som kan fravikes og hvilke rammer som gjelder for slike fravik, avhenger av på hvilke nivå avtalene inngås (se omtale i kapittel 3).
+
+Arbeidstid er det området innenfor arbeidsmiljøloven hvor lov og tariffavtaler i størst grad supplerer hverandre. Dette kan skje både ved at loven gir minstebestemmelser som utfylles av tariffavtalene, og ved at avtalepartene benytter seg av adgangen lovgiver har gitt dem til å gjøre unntak fra bestemmelsene gjennom tariffavtale. Kartlegging av om virksomheten bryter arbeidstidsbestemmelsene vil dermed måtte ta høyde for om bruddene faktisk gjelder lov, tariffavtale eller individuell avtale.
+
+Når brudd på arbeidstidsbestemmelsene er tema, er det også kompliserende at enkelte grupper er unntatt fra (sentrale deler av) arbeidstidskapitlet, det vil si har ledende eller særlig uavhengig stilling. Her reises med jevne mellomrom spørsmål om disse omfatter flere ansatte enn det som er meningen, og hvis ja, skulle denne gruppen arbeidstakere hatt annen arbeidstid enn det de faktisk har (overtidsbetaling, lengre hvileperioder og så videre). Dette temaet er belyst i kapittel 4.
+
+I og med at arbeidstidsreguleringene er såpass detaljerte, kan det være vanskelig å kartlegge brudd på alle typer bestemmelser. Fafo foretok derfor en prioritering av hvilke bestemmelser som ble undersøkt. Følgende områder ble kartlagt:
+
+- daglig og ukentlig alminnelig arbeidstid
+
+- daglig og ukentlig alminnelig arbeidstid der det brukes gjennomsnittsberegning
+
+- daglig og ukentlig arbeidsfri
+
+- søndagsarbeid
+
+- nattarbeid
+
+- overtid.
+
+Dette innebærer at det ikke ble undersøkt om det foreligger arbeidsplaner og om disse ble drøftet med arbeidstakernes tillitsvalgte. Når det gjelder overtidsbestemmelsen (§ 10-6) har Fafo valgt å undersøke grensene per uke og grensene per år. Øvrige bestemmelser i arbeidstidskapitlet er ikke undersøkt. Fafo påpeker at undersøkelsen ikke omhandlet hvor alvorlige eller helseskadelige overskridelsene på de ulike bestemmelsene er, kun om det er en overskridelse eller ikke.
+
+1.  **Analyse av brudd på arbeidstidsbestemmelsene i helseforetakene**
+
+    1.  **Innledning**
+
+I helseforetakene finnes det en rekke ulike arbeidstidsordninger avhengig av type stillingsgruppe (leger, pleiepersonell, drift- og støttefunksjoner, administrative stillinger og så videre) og avdelingens driftstid. Blant pleiepersonell vil mange arbeide tredelt turnus. Men det benyttes også andre typer skift/turnus, inkludert vaktordninger som kan strekke seg over et døgn og mer.
+
+Det inngås avtaler med tillitsvalgte om unntak fra hovedreglene i arbeidstidskapitlet både på sentralt og lokalt nivå. Hovedprinsipper for legenes arbeidstid legges for eksempel i avtaler på sentralt nivå mellom Den norske Lægeforening og Spekter, men avtalen åpner også for avtaler på lavere nivå. For andre forbund inngås vanligvis avtalene om unntak fra hovedreglene med tillitsvalgte på et noe lavere nivå (per helseforetak eller på hver enkelt enhet).
+
+Følgende problemstillinger/spørsmål tas opp:
+
+- Hvor ofte brytes arbeidstidsbestemmelsene og hva kjennetegner bruddene?
+
+- Hvilke bestemmelser i loven blir brutt? Og hvordan forklares årsaken til at det ble et brudd?
+
+- Er spesielle stillingsgrupper særlig utsatt?
+
+- Hvor omfattende er avviket (målt ved timer over/under den aktuelle grensen)?
+
+- Er det spesielle tidspunkt (ukedager, ferie og høytider) som er krevende i betydningen at vi finner mange brudd?
+
+- Hvordan fordeler bruddene seg blant arbeidstakerne? Er det få eller mange som berøres i betydningen om bruddene fordeler seg noenlunde jevnt eller om det er et mindretall som peker seg ut med mange brudd?
+
+Årsaken til at Fafo kan analysere brudd på arbeidstidsbestemmelsene i denne sektoren er at helseforetakene har administrative systemer for registrering av arbeidstid der mulige brudd på arbeidstidsbestemmelsene framkommer.[^182] Bruddene framkommer (genereres) automatisk når den enkeltes arbeidstid legges inn og kontrolleres for forhåndsdefinerte grenser for daglig og ukentlig arbeidstid mv., ifølge oppsatt arbeidsplan. Dermed kan Fafo benytte disse dataene til å beskrive både omfanget av brudd og hvilke bestemmelser som eventuelt brytes.
+
+Det er viktig å understreke at det som systemet «produserer» er mulige brudd. De dataene Fafo har hatt tilgang til, har ikke gjennomgått kvalitetssikring i betydning av at den enkelte registering er etterprøvd for å si om dette allikevel er innenfor bestemmelsene i lov og avtale. Automatikken i registreringssystemet innebærer at noen brudd likevel ikke er brudd i lovens forstand. Det vil være akutte situasjoner der grensene kan fravikes innenfor lovens unntaksbestemmelser, eller andre situasjoner der systemet ikke fanger opp at det ikke dreier seg om et brudd. Sistnevnte spenner fra at et bytte av to vakter innebærer at arbeidsplanen likevel går opp innenfor grensen for den ukentlige alminnelige arbeidstid ved gjennomsnittsberegning, til en vurdering av hvordan man skal fortolke de såkalte vernebestemmelsene i legeavtalen (er det å gå utover disse et brudd eller ikke). I den grad betegnelsen brudd (og ikke mulige brudd) benyttes videre i den løpende teksten er det mulige brudd som er det faktiske forhold.
+
+Legenes arbeidstidsbestemmelser er preget av at det er gitt omfattende muligheter for unntak fra lovens grenser gjennom sentral avtale. Det er krevende å tolke hvordan genererte brudd skal forstås for denne stillingsgruppen. I deler av analysen har Fafo derfor tatt ut legene og ser i stedet på disse isolert.
+
+1.  **8.3.2 Data**
+
+Analysen av mulige brudd på arbeidstidsbestemmelsene er gjort med utgangspunkt i opplysninger fra tre av fire helseregioner for 2014. De tre er Helse Sør-Øst, Helse Vest og Helse Nord. Den siste av helseregionene (Helse Midt-Norge) har et annet arbeidsplansystem som innebærer at sammenlignbare data ikke er tilgjengelig innen tidsrammen for oppdraget til Fafo.
+
+I Fafos rapport er det i hovedsak sett på nasjonale tall, det vil si for tre av fire helseregioner samlet. Men for enkelte av analysene har Fafo måttet avgrense seg til Helse Vest eller presenterer tall for hver helseregion. Helse Vest har mer detaljerte registeringer enn de øvrige to. I tilfeller der det er store variasjoner mellom helseregionene og dette påvirker forståelsen av data, kommenteres dette i teksten. Dataene som Fafo har fått tilgang til sier kun noe om hvilke grenser som anvendes i det enkelte tilfelle. Fafo peker på at de derfor ikke vet om dette skyldes at man ikke har forsøkt å oppnå avtale om kortere hvile eller om partene ikke er blitt enige i forhandlinger om alternative grenser.
+
+1.  **8.3.3 Hvor ofte brytes arbeidstidsbestemmelsene?**
+
+De tre helseregionene hadde til sammen 17,8 millioner vakter i 2014. Med vakt forstås en arbeidsøkt for en enkelt arbeidstaker. Hvis vi regner 220 vakter på et årsverk i gjennomsnitt[^183], vil dette utgjøre drøye 80 000 årsverk. Men antall personer er adskillig høyere. De tre helseregionene hadde i gjennomsnitt 120 000 medarbeidere per måned, men flere vil ha vært i arbeid over året. Det vil si at dataene omfatter et stort antall arbeidstakere innen helsesektoren.
+
+Helseforetakene i de tre helseregionene rapporterte inn drøye 550 000 mulige brudd i 2014. Noen av disse framkommer innenfor samme vakt. Man kan for eksempel bryte både reglene om overtid og samlet daglig arbeidstid (alminnelig arbeidstid + overtid) innenfor en og samme vakt. Antall vakter med mulige brudd vil med andre ord være lavere.
+
+Tallene for Helse Vest (tabell 8.1) viser at det er registrert 112 000 mulige brudd fordelt på knappe 85 000 vakter. Helse Vest hadde i alt 4,05 millioner vakter i 2014, og 2,1 prosent av disse var registrert med mulige brudd.
+
+1.  Antall og andel mulige brudd etter helseregion. I alt og som andel av antall vakter. 2014
+
+|  |  |  |  |  |  |
+|----|----|----|----|----|----|
+| Helseregion | Antall brudd | Antall vakter med brudd | Antall vakter i alt | Andel vakter med brudd (prosent) | Forholdstall (brudd i alt/ 100 vakter i alt) |
+|  |  |  |  |  |  |
+| Helse Vest | 111 887 | 84 569 | 4 051 673 | 2,1 | 2,8 |
+| Helse Sør-Øst | 258 986 | 197 035<sup>1</sup> | 11 233 545 | 1,8<sup>1</sup> | 2,3 |
+| Helse Nord | 183 426 | 117 347<sup>1</sup> | 2 521 278 | 4,7<sup>1</sup> | 7,3 |
+| I alt | 554 299 | 398 951<sup>1</sup> | 17 806 496 | 2,2<sup>1</sup> | 3,1 |
+|  |  |  |  |  |  |
+
+<sup>1</sup> Estimat med utgangspunkt i antall datoer med brudd fra datasettet over genererte brudd. Tallet er korrigert med forholdstallet for antall datoer med brudd og antall vakter med brudd for Helse Vest.
+
+Andersen, R.K., K. Jesnes og K. Nergaard (2015).
+
+Årsaken til at antallet mulige brudd er høyere enn antallet vakter med mulige brudd, er at samme vakt kan ha brudd på mer enn en bestemmelse. I gjennomsnitt brytes 1,32 bestemmelser per vakt med brudd innen Helse Vest. Et annet mål er forholdstallet mellom antall mulige brudd i alt og antall vakter i alt. For Helse Vest er dette tallet 2,8, det vil si at for hver 100 vakter har det vært 2,8 mulige brudd.
+
+Ser vi på alle helseregionene samlet, er andel vakter med mulige brudd 2,2 prosent og antall mulige brudd i alt i prosent av antall vakter i alt, 3,1 prosent.
+
+1.  **8.3.4 Hvilke typer vakter som gir brudd**
+
+De drøye 550 000 mulige bruddene for 2014 er i registreringssystemene også gruppert etter hvilken type brudd det er tale om, jf. figur 8.1. Opplysningene er imidlertid ikke fullstendig, og oversikten er derfor bare basert på data for Helse Vest der datamaterialet var best.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Kategorisering av brudd på arbeidstidsbestemmelsene etter type vakt. Alle brudd i Helse Vest per 2014
+
+<sup>1</sup> En del av bruddene på normalvaktene er trolig ikke reelle brudd, men skyldes at det er inngått avtale som ikke er registrert korrekt.
+
+Andersen, R.K., K. Jesnes og K. Nergaard (2015).
+
+Figuren viser at drøye 40 prosent av bruddene i Helse Vest er knyttet til overtidsarbeid, inkludert overtid som påløper i forkant eller etterkant av en vanlig vakt.[^184] Bytter eller forskjøvet arbeidstid (endringer av arbeidsplan) står for 20 prosent av bruddene, og nesten halvparten av disse (ni prosent av alle mulige brudd i Helse Vest) er bytter der arbeidstakere selv har tatt initiativ til å bytte vakter. I seks prosent av tilfellene er det avdelingen (arbeidsgiver) som har tatt initiativ til å bytte vakter på en slik måte at arbeidstidsbestemmelsene brytes eller det er forskjøvet arbeidstid (at vakten begynner før eller senere enn planlagt). Dette er også en endring av vaktens plassering tidsmessig som nok i de fleste tilfeller skjer på initiativ fra arbeidsgiver.
+
+I Helse Vest er 14 prosent av bruddene betegnet i arbeidsplansystemet som «normal vakt». Dette betyr at det er en vakt i en arbeidsplan som er satt opp med et brudd på de grenser som er oppgitt for den enkelte arbeidstaker. Etter nærmere gjennomgang av arbeidsplanene i Helse Vest mener man at en del av disse ikke er reelle brudd, men at det kan komme av at det er inngått avtaler som ikke er blitt registrert korrekt i systemet. Hvor stor andel av 14 prosent dette dreier seg om, er ikke kjent.
+
+1.  **8.3.5 Hvilke bestemmelser i loven blir brutt?**
+
+Det er registrert om lag 550 000 mulige brudd på arbeidstidsbestemmelsene i de tre helseregionene. Dette inkluderer situasjoner der samme hendelse er registrert som flere brudd fordi en vakt kan bryte med flere bestemmelser samtidig. Typene brudd er forhåndskodet i helseforetakenes systemer, og det mulige bruddet generes automatisk når arbeidstiden føres inn. Fafo har gruppert de ulike typene brudd i noen hovedbestemmelser, jf. figur 8.2.
+
+Figur 8.2 viser alle mulige brudd i de tre helseregionene kodet etter hvilken bestemmelse i loven som brytes. Vi ser her bort fra legene og står dermed igjen med 456 000 mulige brudd. Samlet daglig arbeidstid (brudd på daglig arbeidsfri) er de bestemmelsene som oftest genererer brudd og står for om lag en fjerdedel av alle mulige brudd. Overtid per syv dager, overtid per fire uker, ukentlig arbeidsfri og flere søndager på rad hadde omtrent samme antall brudd (rundt 15 prosent). Det er færre brudd på bestemmelsene om alminnelig ukentlig arbeidstid (ved gjennomsnittsberegning) og på årlig overtid.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Fordeling av mulige brudd på arbeidstidsbestemmelsene etter bestemmelse. Legestillinger ikke tatt med. 2014. Prosent
+
+Andersen, R.K., K. Jesnes og K. Nergaard (2015).
+
+1.  **8.3.6 Hvilke situasjoner fører til brudd?**
+
+Helseforetakene registrerer hvilke typer situasjoner som leder til at arbeidstidsbestemmelsene brytes. Følgende koder benyttes:
+
+- Akutt hendelse: Benyttes ved akutt endring av aktivitetsnivået (kortvarige endringer), for eksempel influensaepidemier eller andre situasjoner som gjør at mange pasienter kommer inn samtidig.
+
+- Akutt mangel på nødvendig kompetanse: Benyttes der det er behov for spesiell kompetanse utover det som er lagt til grunn for dimensjoneringen.
+
+- Akutt sykdom hos medarbeider: Benyttes den første dagen der det ikke er andre muligheter til omdisponeringer.
+
+- Bytte drift: Benyttes ved bytte av vakt på grunn av driftsmessige forhold der initiativet kommer fra helseforetaket.
+
+- Initiativ medarbeider: Benyttes ved bytte av vakt på initiativ fra medarbeider.
+
+- Katastrofealarm.
+
+- Utrykning: Omfatter flere typer utrykninger, prehospitale utrykninger og utrykninger som inkluderer andre typer personell.
+
+- Ingen kode.
+
+Noen av disse situasjonene kan omfattes av nødrettsbestemmelsen i § 10-12 tredje ledd som tillater arbeid utover arbeidstidsbestemmelsene når arbeidet er «nødvendig for å avverge fare for skade på liv eller eiendom», jf. også lov om helsemessig og sosial beredskap. Dette kan for eksempel gjelde ved akutt hendelse, katastrofealarm og utrykning. Fafo har i rapporten ikke hatt mulighet til å vurdere hvor mange av de genererte bruddene som vil falle inn under denne unntaksbestemmelsen.
+
+Figur 8.3 er basert på opplysninger fra Helse Vest. Akutt mangel på nødvendig kompetanse – det vil si mangel på medarbeidere med riktig kompetanse – er den viktigste forklaringen på mulige brudd. Brudd som følge av bytte etter initiativ fra arbeidstaker står for 15 prosent av bruddene.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Vakter med brudd på arbeidstidsbestemmelsene etter bruddårsak. Leger unntatt. Helse Vest 2014. Prosent
+
+Andersen, R.K., K. Jesnes og K. Nergaard (2015).
+
+Ambulansepersonell og pleiepersonell er overrepresentert når det gjelder mulige brudd. Det er særlig i Helse Nord at ambulansetjenestene har hyppige brudd på arbeidstidsbestemmelsene. Ambulansepersonell har ofte brudd på hviletidsbestemmelsene (daglig og ukentlig arbeidsfri). Arbeidstakere innen ledelse og administrasjon har færre brudd enn andre grupper.
+
+1.  **Hvilke grenser brytes og med hvor mange timer?**
+
+*Overtid*
+
+Hvor omfattende er de mulige bruddene målt ved antall timer?[^185] Hvor mange går litt over grensen? Og hvor mange er oppført med mer omfattende brudd på grensene?
+
+Når det gjelder overtid per 7 dager viser tabell 8.2 at ett av fire mulige brudd innebærer en arbeidstid på maksimalt tre timer over grensen. Halvparten er oppført med en verdi på fem timer over grensen eller mindre. Hvert fjerde brudd innebærer at arbeidstakeren har arbeidet mer enn ti timer over den gjeldende grensen for overtid per syv dager.
+
+1.  Fordeling av brudd på overtidsbestemmelsene etter antall timer over fastsatt grense. Ett eller flere brudd per bestemmelse per vakt (dato). Unntatt legene. 2014
+
+|  |  |  |  |
+|----|----|----|----|
+|  | Overtid per 7 dager | Overtid per 4 uker | Overtid per år |
+|  |  |  |  |
+| 1\. kvartil (25 prosent av alle) | 3 | 5 | 27 |
+| Median (halvparten av alle) | 5 | 11 | 67 |
+| 3\. kvartil (75 prosent av alle) | 10 | 23 | 138 |
+| Antall vakter med brudd (datoer) | 63 236 | 60 270 | 17 100 |
+|  |  |  |  |
+
+Andersen, R.K., K. Jesnes og K. Nergaard (2015).
+
+Når det gjelder overtid per fire uker ligger ett av fire brudd på 1–5 timer over grensen som gjelder for arbeidstakeren, mens medianen (halvparten av bruddene) ligger inntil 11 timer over grensen. Ett av fire brudd innebærer 23 timer over gjeldende grense.
+
+De fleste av de mulige bruddene på overtidsbestemmelsen skjer i situasjoner der grensen for overtidsarbeid er 10 timer per uke. Det kan bety at det i begrenset grad finnes avtaler om utvidet grense (inntil 15 timer), eller at arbeidsplasser med avtale har færre brudd på denne bestemmelsen og dermed ikke opptrer i dataene over mulige brudd. Halvparten av bruddene (49 prosent) ligger ifølge Fafo mellom hva arbeidsgiver kan pålegge (10 timer) og den avtalefestede grensen som gjaldt i 2014 (15 timer). Mønsteret er noenlunde det samme når man ser på overtid per år. Om lag halvparten av bruddene skjer der det ikke er avtale om utvidet overtid og ligger i intervallet mellom det arbeidsgiver kan pålegge og det som kan avtales gjennom lokal avtale.
+
+Det er få av dem med brudd som er ført opp der det er avtalt utvidet overtid (grenser på 15, 40 eller 300 timer).
+
+Arbeidsmiljølovens grenser for lokal avtale om overtid per 7 dager og per 4 uker ble endret 1. juli 2015. 75 prosent av bruddene knyttet til disse to bestemmelsene er innenfor den avtalegrensen som da ble innført. Det vil si at med de nye reglene ville kun 25 prosent ha vært brudd på overtid (forutsatt lokal avtale om overtid).
+
+*Grense for ukentlig alminnelig arbeidstid ved gjennomsnittsberegning*
+
+Arbeidsgiver kan inngå en individuell avtale med arbeidstaker eller en avtale med tillitsvalgte om gjennomsnittsberegning av ukentlig arbeidstid.
+
+Ett av fire mulige brudd innebærer at arbeidstiden strekker seg opp mot maksimalt to timer utover den grensen som gjelder for arbeidsforholdet (tabell 8.3). Halvparten av de mulige bruddene ligger innenfor fire timer utover oppgitt grense, mens en fjerdedel av arbeidstakerne har brudd som overskrider grensen med syv timer eller mer.
+
+1.  Fordeling av brudd på grensen av den alminnelige ukentlige arbeidstid (med og uten gjennomsnittsberegning) etter antall timer over oppgitt grense. Ett brudd per bestemmelse per vakt (dato). Unntatt leger. 2014
+
+|                                  |                                   |
+|----------------------------------|-----------------------------------|
+|                                  | Antall timer over fastsatt grense |
+|                                  |                                   |
+| 1\. kvartil (25 prosent av alle) | 2                                 |
+| Median (halvparten av alle)      | 4                                 |
+| 3\. kvartil (75 prosent av alle) | 7                                 |
+| Antall vakter med brudd (datoer) | 31 219                            |
+|                                  |                                   |
+
+Andersen, R.K., K. Jesnes og K. Nergaard (2015).
+
+De aller fleste bruddene skjer i et arbeidsforhold der man har avtale om gjennomsnittsberegning, og grensen for ukentlig arbeidstid er avtalt til maksimalt 48 timer.
+
+*Brudd på hviletidsbestemmelsene*
+
+Tabell 8.4 viser at en fjerdedel av bruddene på samlet daglig arbeidstid (daglig arbeidsfri), leger og ambulansepersonell unntatt, er på inntil to timer over grensen. Noen av disse ligger svært nær grensen, noe som kan tyde på at det også registreres brudd der den ansatte er litt sent ut av vakt eller stempler inn litt tidlig på vakt. En fjerdedel av de ansatte (eksklusive leger og ambulansepersonell) har en arbeidstid som strekker seg seks timer utover den avtalte grensen for samlet daglig arbeidstid.
+
+1.  Fordeling av brudd på bestemmelsene om samlet daglig arbeidstid<sup>1</sup> (daglig arbeidsfri) og ukentlig arbeidsfri. Ett eller flere brudd per bestemmelse per døgn (dato). Unntatt leger. 2014
+
+|  |  |  |
+|----|----|----|
+|  | Samlet daglig arbeidstid (antall timer over grensen)<sup>2</sup> | Ukentlig arbeidsfri (antall timer for lite) |
+|  |  |  |
+| 1\. kvartil (25 prosent av alle) | 2 | 3 |
+| Median (halvparten av alle) | 3 | 4 |
+| 3 kvartal (75 prosent av alle) | 6 | 12 |
+| Antall vakter med brudd (datoer) | 106 661 | 74 280 |
+|  |  |  |
+
+<sup>1</sup> Det vil si indirekte brudd på bestemmelsene om daglig arbeidsfri.
+
+<sup>2</sup> Det vil si antall arbeidede timer utover grensen for daglig arbeidsfri.
+
+Andersen, R.K., K. Jesnes og K. Nergaard (2015).
+
+Når det gjelder ukentlig hvile ser Fafo på hvor mange timer ukehvilen er forkortet med. Den fjerdedelen med minst avvik har tre timer eller mindre for lite hvile. Man kan legge merke til at ved ett av fire brudd mangler hele 12 timer av ukehvilen.
+
+Nesten halvparten av de mulige bruddene på samlet daglig arbeidstid er i intervallet for lokale avtaler (13–16 timer).
+
+Også når det gjelder ukehvile (tabell 8.5), finner Fafo at de aller fleste bruddene (94 prosent) er generert i en arbeidsplan der det ikke er avtalt kortere ukehvile og grensen for ukehvile er 35 timer (lovens hovedregel). Få brudd skjer i situasjoner med avtalt kortere ukehvile. Drøyt halvparten av de mulige bruddene ligger i intervallet mellom lovens hovedregel om grense på minst 35 timer og grensen for lokal avtale på minst 28 timer.
+
+1.  Fordeling av brudd på ukehvile (ukentlig arbeidsfri) etter type grense og verdi (antall timer hvile). Ett eller flere brudd per bestemmelse per døgn (dato). Prosent. 2014
+
+|  |  |  |
+|----|----|----|
+|  | Grense for arbeidsforholdet |  |
+|  |  |  |
+|  | 35 timers hvile | 28 timers hvile |
+|  |  |  |
+| Mellom 28 og 35 timers hvile | 56 | 0 |
+| Mindre enn 28 timers hvile | 38 | 6 |
+| Total | 94 | 6 |
+| Antall vakter med brudd (datoer) | 69 807 | 4 473 |
+|  |  |  |
+
+Andersen, R.K., K. Jesnes og K. Nergaard (2015).
+
+*Jobbe flere søndager på rad*
+
+I utgangspunktet sier loven at annenhver søndag skal være fri, mens det er lov å avtale å arbeide to søndager på rad. Fra og med 1. juli 2015 er avtaleadgangen utvidet til tre søndager på rad.
+
+Om lag halvparten av alle brudd på søndagsbestemmelsene er at man jobber to søndager på rad og det ikke er avtale om dette. Det er også en god del (30 prosent) som er oppført med fire søndager eller flere.
+
+*Særskilte tidspunkter*
+
+Det er flere brudd i helgene enn ellers (figur 8.4). Variasjonen over uka er størst for overtidsbestemmelsene, men er også markant for andre typer brudd. Dette gjelder alle yrkesgrupper med et visst unntak for ambulansepersonell.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Vakter (datoer) med brudd på overtidsbestemmelsen fordelt på ukedager. Unntatt leger. 2014
+
+Andersen, R.K., K. Jesnes og K. Nergaard (2015).
+
+Sommermånedene har flere mulige brudd enn resten av året, jf. figur 8.5. Dette gjelder alle typer bestemmelser, og effekten forsterkes av at det er færre arbeidstakere på arbeid i juli.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Vakter (datoer) med brudd. Antall og som brudd per 1000 månedsverk. 2014
+
+Andersen, R.K., K. Jesnes og K. Nergaard (2015).
+
+I forlengelsen av dette så Fafo på om det er noen typer brudd som forekommer oftere i sommermånedene. Det kan se ut som om brudd på overtidsbestemmelsene særlig peker seg ut i denne perioden. Fafo fant ikke samme effekt for andre ferieperioder. I 2014 var påsken i april. Det ser ikke ut som om denne høytiden har utløst flere brudd. Fafo fant heller ingen effekt av fridager i mai eller desember.
+
+1.  **Spørreundersøkelser om arbeidstid blant virksomheter og tillitsvalgte**
+
+    1.  **Bakgrunn**
+
+I spørreundersøkelsen til virksomhetsledere ble det lagt vekt på å få med mange nok store bedrifter, siden disse utgjør en større andel av arbeidsstyrken. Fafo utførte 1 937 intervjuer. Det var en svarprosent på 25 prosent. Virksomhetene ble bedt om å se bort fra ledere og arbeidstakere med særlig uavhengig stilling. Der arbeidstidsordningene varierte mellom ulike grupper ansatte, ble virksomheten bedt om å svare med utgangspunkt i hovedyrkesgruppen.
+
+Spørreundersøkelsen blant tillitsvalgte ble gjennomført blant medlemmer i seks forbund – Norges Ingeniør og Teknologiorganisasjon (NITO), Norsk Sykepleierforbund (NSF), Norsk Journalistlag (NJ), Forskerforbundet (FF), Finansforbundet, – samt i 18 ulike LO-forbund gjennom LOs tillitsvalgtpanel. Forbundene i undersøkelsen har om lag 815 000 yrkesaktive medlemmer. Fafo utførte 3 904 intervjuer blant de tillitsvalgte. Dette utgjorde en svarprosent på 32 prosent.
+
+Spørreundersøkelsen til virksomhetsledere er lagt opp slik at utvalget skal reflektere hvor stor andel av den totale sysselsettingen virksomheten står for. Dette i motsetning til et utvalg som trekkes tilfeldig med basis i antall virksomheter i alt, og der små bedrifter vil dominere på grunn av antall. Spørsmålene om brudd gjelder for brudd som er gjort i løpet av det siste året. Der virksomhetene oppga at det ofte eller av og til har forekommet brudd på arbeidstidsbestemmelsene, har Fafo undersøkt videre hvor mange det gjelder i virksomheten.
+
+Bruddene i disse undersøkelsene gjelder ikke alle ansatte i virksomhetene. For noen brudd kan det gjelde opptil 25 prosent av alle ansatte, i andre brudd kan det omfatte minst 75 prosent.
+
+1.  **Fravik fra arbeidstidsbestemmelsene**
+
+*Individuelle avtaler*
+
+For en del av arbeidstidsbestemmelsene er det mulig å inngå individuelle skriftlige avtaler om unntak med arbeidstakere. Andelen som har slike avtaler med en eller flere arbeidstakere er vist i figur 8.6.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Andel virksomheter og tillitsvalgte som oppgir at det i deres virksomhet er inngått skriftlige individuelle avtaler med en eller flere arbeidstakere om unntak fra arbeidstidsbestemmelsen i arbeidsmiljøloven etter type unntak (flere svar mulig). Prosent
+
+Andersen, R.K., K. Jesnes og K. Nergaard (2015).
+
+Som det går fram av figur 8.6 har flertallet av virksomhetene ingen slike avtaler. De representerer til sammen 83 prosent av sysselsettingen. Blant de tillitsvalgte oppgir 74 prosent at virksomheten ikke har slike individuelle avtaler.
+
+*Avtaler med tillitsvalgte*
+
+Dersom virksomheten er bundet av en tariffavtale, er det mulig å inngå avtale om unntak fra hovedreglene innenfor flere områder. Andel som har ulike former for avtaler med lokal eller sentral fagforening er vist i figur 8.7.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Andel virksomheter og tillitsvalgte (i tariffbundne virksomheter) der det er inngått skriftlig avtale med fagforbund eller lokal fagforening/tillitsvalgt om unntak fra arbeidstidsbestemmelsen etter type unntak (flere svar mulig). Prosent
+
+Andersen, R.K., K. Jesnes og K. Nergaard (2015).
+
+Av figur 8.7 ser vi at den største andelen avtaler går på gjennomsnittsberegning av arbeidstiden. Blant virksomhetene med tariffavtale oppgir virksomheter som representerer 28 prosent av sysselsettingen at de også har en slik avtale. Blant de tillitsvalgte er det 37 prosent som oppgir at de har avtale om gjennomsnittsberegning. Generelt er det flere store enn små virksomheter som har avtalt unntak fra hovedreglene i loven om arbeidstid.
+
+Avtalene som inngås om unntak fra arbeidstidsbestemmelsene kan være gjort med lokale tillitsvalgte, med sentral fagforening eller begge deler. Som vi ser av figur 8.8 er det blant dem som har oppgitt at de har avtale (ett eller flere unntak), drøyt halvparten av virksomhetene som oppgir at de kun har lokale avtaler. For de tillitsvalgte er det snaut halvparten. Andelen med kun sentrale avtaler er vesentlig lavere, henholdsvis 16 prosent blant virksomhetene og 15 prosent blant de tillitsvalgte. Det er også en vesentlig andel blant virksomheter og tillitsvalgte som oppgir at de både har sentrale og lokale avtaler, én av fire blant virksomhetene og drøyt to av tre blant de tillitsvalgte. Det er viktig å merke seg at der det er en sentral avtale på plass vil et mulig brudd på arbeidstidsbestemmelsene kunne komme inn under sentral avtale om unntak med fagforening med innstillingsrett.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Om avtalene om unntakene fra arbeidstidsbestemmelsene er med lokal fagforening/tillitsvalgt, med sentralt fagforbund eller både sentrale og lokale avtaler. Prosent
+
+Andersen, R.K., K. Jesnes og K. Nergaard (2015).
+
+*Dispensasjon fra Arbeidstilsynet*
+
+Arbeidstilsynet kan også gi samtykke til fravik fra arbeidstidsbestemmelsene innenfor en del områder. Figur 8.9 viser andel virksomheter og tillitsvalgte som svarer at virksomheten har dispensasjoner fra Arbeidstilsynet.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Andel virksomheter der arbeidsgiver eller tillitsvalgte oppgir at virsomheten har dispensasjon fra Arbeidstilsynet fra arbeidstids- eller overtidsbestemmelsen i arbeidsmiljøloven etter type unntak (flere svar mulig). Prosent
+
+Andersen, R.K., K. Jesnes og K. Nergaard (2015).
+
+Både i virksomhetsundersøkelsen og i tillitsvalgtundersøkelsen oppgir det store flertallet (82 prosent) at de har ingen dispensasjoner fra Arbeidstilsynet. Det er variasjon mellom de ulike sektorene på spørsmålene om dispensasjon. For bestemmelsen om arbeidsfri er det flere som har dispensasjon i offentlig enn i privat sektor. Innenfor offentlig sektor er det flere som har dette i statlig enn i kommunal sektor. Virksomheter i statlig sektor har også i større grad enn de i privat og kommunal sektor dispensasjon fra overtidsbestemmelsen og dispensasjon til å arbeide søndager. Når man spør de tillitsvalgte, er andelen uten dispensasjoner noe lavere, 72 prosent. NSF-tillitsvalgte er de som i størst grad svarer at det er dispensasjoner til både gjennomsnittsberegning og søndagsarbeid (29 og 22 prosent) i deres virksomhet. LO-forbundene samlet ligger noe lavere (15 og 12 prosent). Finansforbundet og NITO har de laveste andelene som oppgir at de har slike dispensasjoner i sin virksomhet.
+
+1.  **Mulige brudd på alminnelig arbeidstid**
+
+*Mulige brudd for virksomheter uten avtale om gjennomsnittsberegning*
+
+*Daglig alminnelig arbeidstid:* Grensen for den daglige alminnelige arbeidstiden er ni timer i løpet av 24 timer. Andel virksomheter som oppgir at det skjer ofte at man går ut over ni-timersgrensen representerer ni prosent av de sysselsatte. Inkluderer vi de som av og til har ansatte som jobber utover ni timer representerer dette totalt 26 prosent av de sysselsatte. 14 prosent av virksomhetene som svarte at det skjedde ofte eller av og til at arbeidstakerne gikk ut over ni-timersgrensen, oppga at det gjaldt mer enn 75 prosent av de ansatte.
+
+*Ukentlig alminnelig arbeidstid:* For virksomhetene som har en arbeidstidsordning med ordinært dagtidsarbeid uten tariffavtale (grense 40 timer) oppgir virksomheter som representerer 14 prosent av sysselsettingen at det ofte hender at arbeidstakerne jobber ut over den tillatte grensen på 40 timer i løpet av en uke. 26 prosent oppgir at det skjer av og til. Virksomheter med tariffavtale og ordinær dagtid (grense 37,5 timer) oppgir i større grad enn de uten avtale at det ofte skjer at man går ut over grensen; 25 prosent. Blant de med tariffavtale er det nær halvparten som svarer at de har ansatte som har brudd på ukentlig alminnelig arbeidstid ofte eller av og til.
+
+Virksomheter som har ulike arbeidstidsordninger med skift eller turnus uten gjennomsnittsberegning er svært begrenset. Dette skyldes at mange av dem som har redusert arbeidstid, har dette i kombinasjon med avtale om gjennomsnittsberegning. Fafo har derfor kun tall for mulige brudd for dem som har ulike skift-/turnusordninger i kombinasjon med tariffavtale. For dem med en ukentlig grense på 35,5 timer er det 44 prosent som oppgir at det skjer ofte at arbeidstakerne går ut over grensen. For dem med grense på 33,6 timer er det 46 prosent som oppgir dette.
+
+*Mulige brudd for virksomheter med avtale om gjennomsnittsberegning*
+
+*Daglig alminnelig arbeidstid:* Grense for daglig alminnelig arbeidstid ved avtale med tillitsvalgte om gjennomsnittsberegning er ti timer. Alternativt er det mulig å søke Arbeidstilsynet om å utvide denne grensen til maksimalt 13 timer. Blant de virksomhetene som kun har avtale om gjennomsnittsberegning og ingen dispensasjon fra Arbeidstilsynet, finner Fafo at virksomheter som representer 12 prosent av sysselsettingen, oppgir at det ofte skjer at arbeidstakerne overskrider ti-timersgrensen. Slår vi sammen de som svarer ofte og av og til, er det nær én av tre. Blant virksomhetene som har dispensasjon fra Arbeidstilsynet til å gå opp til 13 timer i løpet av et døgn, er det seks prosent av virksomhetene som oppgir at dette skjer ofte. Syv prosent oppgir at det skjer av og til.
+
+Dersom det foreligger en sentral avtale med fagforening med innstillingsrett, vil det være mulig med unntak også fra grensene for gjennomsnittsberegning ved individuell og lokal avtale. Fafo har ikke kunnet si noe om det er mange som har slike sentrale avtaler med fagforening med innstillingsrett og samtidig har fravik utover 10- og 13-timersgrensen. Fafo legger til grunn at en konservativ fortolking kan tilsi at de som går ut over grensene og kun har en lokal avtale om gjennomsnittsberegning (det vil si ingen sentral avtale), bryter grensen for daglig alminnelig arbeidstid. Virksomheter som representerer 13 prosent av sysselsettingen i denne gruppen oppgir at de ofte eller av og til går ut over 10-timersgrensen. Syv prosent av virksomhetene som er omfattet av 13-timersgrensen svarer at de ofte eller av og til går ut over denne. Dersom dispensasjonene som er gitt har en lavere maksimumsgrense enn 13 timer, kan andelen med brudd være høyere.
+
+*Ukentlig alminnelig arbeidstid*: Den ukentlige alminnelige arbeidstiden kan gjennomsnittsberegnes dersom virksomheten har individuell avtale, avtale med fagforening eller dispensasjon fra Arbeidstilsynet. Grensen for det maksimale antall arbeidstimer per uke ved individuell avtale eller dispensasjon fra Arbeidstilsynet er 48 timer. Dersom man har en avtale med lokal fagforening er den maksimale grensen 54 timer. Andelen virksomheter som kun har individuelle avtaler om gjennomsnittsberegning er imidlertid så liten at det ikke er mulig å presentere tall for disse.
+
+Blant virksomhetene med avtale med fagforening (grense 54 timer) oppgir virksomheter som representerer fire prosent av sysselsettingen at denne grensen ofte overskrides.
+
+Blant virksomhetene som kun har dispensasjon fra Arbeidstilsynet er andelen som svarer at man ofte går ut over grensen (48 timer) en del høyere, 14 prosent.
+
+Blant virksomhetene som kun har lokal avtale med fagforening om gjennomsnittsberegning av den ukentlige arbeidstiden er det fire prosent av de sysselsatte som arbeider i en virksomhet som svarer at de ofte eller av og til går ut over denne grensen. Det er seks prosent som arbeider i en virksomhet som har en sentral avtale og oppgir at de ofte eller av og til går ut over grensen. Hvor mange av disse som kan regnes som brudd kan vi ikke si med sikkerhet.
+
+1.  **Brudd på daglig og ukentlig arbeidsfri**
+
+*Virksomheter som følger hovedregelen i loven*
+
+*Daglig arbeidsfri:* Hovedregelen for daglig arbeidsfri slår fast at arbeidstakere skal minimum ha 11 timer sammenhengende arbeidsfri i løpet av et døgn. Av virksomheter som følger hovedregelen oppgir virksomheter som representerer ni prosent av de sysselsatte at det, i løpet av det siste året, ofte eller av og til har hendt at arbeidstakere har fått mindre enn 11 timer hviletid i løpet av et døgn.
+
+*Ukentlig arbeidsfri:* Hovedregelen slår også fast at arbeidstaker skal ha minst 35 timer sammenhengende hvile i løpet av en uke. Av virksomheter som følger hovedregelen oppgir virksomheter som representerer syv prosent av de sysselsatte at det, i løpet av det siste året, ofte eller av og til har hendt at arbeidstakere har fått mindre enn 35 timer hvile i løpet av en uke.
+
+Andelen arbeidstakere som får kortere fri enn hviletidsbestemmelsene tilsier varierer. Men i virksomhetene hvor overskridelse av denne bestemmelsen finner sted, oppgir virksomheter som representerer 22 prosent av de sysselsatte at dette omfatter mer enn 50 prosent av arbeidstakerne.
+
+*Virksomheter med avtale om unntak eller dispensasjon fra hviletidsbestemmelsene*
+
+*Daglig arbeidsfri:* Loven slår fast at virksomheter med avtale om unntak eller dispensasjon fra Arbeidstilsynet skal ha minst åtte timer sammenhengende arbeidsfri i løpet av et døgn. Av virksomhetene med avtale om unntak oppgir virksomheter som representerer syv prosent av de sysselsatte at det, i løpet av det siste året, ofte eller av og til har hendt at arbeidstakere har fått mindre enn åtte timer sammenhengende arbeidsfri i løpet av et døgn.
+
+Dersom vi tar hensyn til sentrale avtaler, ser vi at virksomheter som representerer tre prosent av de sysselsatte oppgir at overskridelser av bestemmelsen om daglig arbeidsfri ofte eller av og til har forekommet i løpet av det siste året.
+
+*Ukentlig arbeidsfri:* Loven slår også fast at virksomheter med avtale om unntak fra hviletidsbestemmelsene skal ha minst 28 timer sammenhengende arbeidsfri i løpet av en uke. Av virksomhetene med avtale om unntak oppgir virksomheter som representerer 13 prosent av de sysselsatte at det, i løpet av det siste året, ofte eller av og til har hendt at arbeidstakere har fått mindre enn 28 timer hvile i løpet av en uke.
+
+Dersom vi tar hensyn til sentrale avtaler, ser vi at syv prosent oppgir at overskridelser av bestemmelsen om daglig arbeidsfri ofte eller av og til har forekommet i løpet av det siste året.
+
+1.  **8.4.5 Brudd på bestemmelsene om søndags- og nattarbeid**
+
+Hovedregelen for søndags- og nattarbeid er at arbeidstakere ikke skal jobbe på søndag eller natt med mindre arbeidets art gjør det nødvendig. I undersøkelsen oppgir 36 prosent av virksomhetene at de har arbeidstidsordninger hvor arbeidstakerne jobber på søndager, mens 64 prosent ikke har slike ordninger. Av de 64 prosent virksomhetene uten søndagsarbeid, oppgir 37 prosent at det likevel hender at arbeidstakerne jobber på søndag. Loven åpner for at slikt arbeid kan avtales ved særlig og tidsavgrunnet behov. Funnet gis likevel en indikasjon på mulige brudd på bestemmelsen om søndagsarbeid men resultatene er usikre.
+
+Loven slår fast at de som jobber på søndager skal ha fri annenhver søndag. Av de 36 prosent virksomhetene med søndagsarbeid oppgir 18 prosent av virksomhetene at det hender at arbeidstakerne jobber ofte eller av og til flere søndager på rad. Dersom vi anvender en forsiktig fortolkning av datamaterialet og tar ut dem med lokale og sentrale avtaler, finner vi at 14 prosent av virksomhetene jobber flere søndager på rad.
+
+I undersøkelsen oppgir 67 prosent at de ikke har arbeidstidsordninger som tilsier at de skal jobbe natt. Av disse er det likevel 11 prosent som sier det hender at de arbeider natt. Dette anser vi også som mulige brudd på bestemmelsen om nattarbeid, men her er også resultatene usikre. Dersom vi tar hensyn til lokale og sentrale avtaler (som kan innebære at det er avtale om å jobbe natt), blir denne andelen redusert til ni prosent.
+
+1.  **Brudd på overtid**
+
+*Virksomheter som følger lovens hovedregel om pålagt overtid*
+
+*Per uke:* Arbeidstaker kan pålegges inntil ti timer overtid i løpet av en uke. Brudd på ti-timersgrensen oppgis i virksomheter som representerer 13 prosent av de sysselsatte. Av virksomhetene som har rapportert om mulige brudd oppgir 12 prosent at mer enn 50 prosent av arbeidstakerne er omfattet av de mulige bruddene.
+
+*Per år:* Arbeidstaker kan ikke pålegges mer enn 200 timer overtid i løpet av ett år. Virksomheter som representerer 15 prosent av de sysselsatte oppgir at mulige brudd på 200-timersgrensen har funnet sted i løpet av det siste året. Av disse virksomhetene oppgir kun to prosent at mer enn 50 prosent av arbeidstakerne er omfattet av de mulige bruddene, mens 70 prosent oppgir at de mulige bruddene har omfattet mindre enn ti prosent av de ansatte.
+
+*Virksomheter med avtale om utvidet overtid*
+
+*Per uke:* I virksomheter som har inngått avtale med tillitsvalgte om utvidet overtid kan arbeidstakere jobbe inntil 15 timer overtid i løpet av en uke. Av virksomheter med avtale om utvidet overtid oppgir virksomheter som representerer 21 prosent av de sysselsatte at brudd på 15-timersgrensen har funnet sted i løpet av det siste året. Dersom vi tar hensyn til sentrale avtaler reduseres antall mulige brudd til 14 prosent.
+
+*Per år:* Ved avtale om utvidet overtid kan arbeidstakere jobbe inntil 300 timer i løpet av ett år. Hele 34 prosent av virksomhetene oppgir et mulig brudd på 300 timer grensen i løpet av det siste året. Dersom vi tar hensyn til sentrale avtaler, reduseres antall mulige brudd til 20 prosent.
+
+Tillitsvalgtundersøkelsen gir et ganske likt bilde av mulige brudd på 300 timers grensene, selv om utvalgene ikke er sammenlignbare. Tre av ti tillitsvalgte oppgir at arbeidstakere jobber mer enn 300 timer overtid i løpet av hele året, mens i underkant av fem av ti oppgir at dette ikke finner sted. En god andel, to av ti, svarer at de ikke er sikre. Dette kan trolig forklares med at det er vanskelig for tillitsvalgte å holde oversikt over overtid hos medlemmene i løpet av et helt år.
+
+*Virksomheter med dispensasjon fra Arbeidstilsynet*
+
+*Per uke:* Arbeidstilsynet kan etter søknad samtykke til inntil 20 timer overtid i løpet av en uke. Av virksomheter med dispensasjon fra Arbeidstilsynet, oppgir virksomheter som representerer ni prosent av de sysselsatte at brudd på 20-timersregelen har funnet sted i løpet av det siste året.
+
+*Per halvt år:* Arbeidstilsynet kan etter søknad samtykke til inntil 200 timer overtid i løpet av et halvt år. Når vi ser på virksomheter med dispensasjon fra Arbeidstilsynet, oppgir virksomheter som representerer seks prosent av de sysselsatte at det ofte eller av og til hender at arbeidstakere jobber mer enn 200 timer overtid i løpet av en periode på et halvt år.
+
+Blant de tillitsvalgte svarer syv prosent at det ofte har hendt at arbeidstakere har jobbet mer enn 200-timer overtid i løpet av et halvt år, mens 15 prosent svarer at dette av og til forekommer. 22 prosent svarer at slike overskridelser aldri har funnet sted i løpet av et halvt år, mens 37 prosent svarer at det sjeldent har funnet sted i løpet av det siste halve året.
+
+1.  **Arbeidstilsynets reaksjoner på arbeidstid i 2014**
+
+    1.  **Innledning**
+
+Arbeidstilsynets hovedoppgave er å føre tilsyn med virksomheter og å undersøke hvorvidt virksomhetene følger de kravene som er nedfelt i blant annet arbeidsmiljøloven og forskrifter. Etaten bruker en risikobasert metode når de fører tilsyn. Dette betyr at de fører tilsyn i næringer og virksomheter som etaten antar er spesielt utsatte for arbeidsmiljøbelastninger, og at etaten særlig ser på forhold i loven hvor det er flest utfordringer. Der hvor Arbeidstilsynet finner forhold som ikke er i tråd med loven, kan inspektørene gi virksomhetene en reaksjon.
+
+Når Arbeidstilsynet fører tilsyn med virksomheter bruker inspektørene sjekklister. Disse sjekklistene består av spørsmål (kontrollpunkt) som er satt sammen for spesifikke aktiviteter. Hvert spørsmål på sjekklisten er knyttet til et lovkrav. I Betzy[^186] er det mulig å registrere flere hjemler per reaksjon. Spørsmål om arbeidstid er ikke med i alle listene, det vil si at arbeidstid ikke kontrolleres i alle tilsynene. Hvor mange brudd på arbeidstidsbestemmelsene som blir avdekket henger sammen med hvorvidt Arbeidstilsynet har spørsmål om arbeidstid på sine sjekklister. Hvilke bestemmelser som får flest reaksjoner er også koblet til hvilke spørsmål som stilles under tilsyn. Og hvilke næringer som får flest reaksjoner er koblet til hvilke næringer Arbeidstilsynet velger å føre tilsyn med. Altså, er antall reaksjoner sterkt koblet til antall tilsyn og hvilke områder som blir prioritert. Arbeidstilsynets risikobaserte metode betyr dermed at vi ikke kan si noe om brudd på arbeidstidsbestemmelsene i arbeidslivet i sin helhet basert på tall fra registreringssystemet til Arbeidstilsynet. Men dette betyr ikke at dataene fra Arbeidstilsynet ikke er interessante i denne sammenheng.
+
+1.  **8.5.2 Hva kan dataene si noe om?**
+
+Dataene fra Arbeidstilsynet gir oss informasjon om totalt antall tilsyn, hvor stor andel av disse som har tilsyn knyttet til arbeidstid og andelen av disse der det er gitt reaksjoner. Det kan også si noe om andelen reaksjoner som er gitt på arbeidstidsbestemmelsene sammenlignet med reaksjoner gitt på øvrige paragrafer.
+
+Videre kan vi undersøke hvilke bestemmelser om arbeidstid flest reaksjoner er hjemlet. Dataene fra Arbeidstilsynet gir oss også informasjon om i hvor stor andel av tilsynene det er avdekket brudd på arbeidstidsbestemmelsene innen hvert næringsområde. Til slutt har vi informasjon om antall ansatte (størrelse) på de virksomhetene som får flest reaksjoner på arbeidstidsbestemmelsene. Vi har ikke kunnskap om alvorlighetsgraden av forholdene som har foranlediget reaksjonene.
+
+1.  **Reaksjoner på arbeidstid**
+
+*Bestemmelser med mange reaksjoner*

@@ -1,970 +1,146 @@
-# NOU 2017: 2, del 12 av 20 (side 146–155)
+# NOU 2017: 2, del 12 av 19
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/a12ffa1f-nou-2017-2.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-2/id2536701/
 - Original-PDF: https://www.regjeringen.no/contentassets/c072f7f37da747539d2a0b0fef22957f/no/pdfs/nou201720170002000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 36 tabeller, 78 figurer, 558 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 146]
-
-146
-
-Kapittel 8
-
-NOU 2017: 2
-Integrasjon og tillit
-
-tektsoverføringer mellom den eksisterende befolkningen og innvandrere. For Norges del er petroleumsformuen særlig viktig, både den som ligger under havbunnen, og den som er spart i Statens pensjonsfond utland. Staten eier og forvalter
-denne formuen på vegne av alle innbyggerne. I
-2016 finansierte bruken av oljepenger tilnærmet
-en sjudel av offentlige utgifter.2 Innvandring innebærer at oljepengene deles på flere innbyggere.
-For land med offentlig nettogjeld er virkningen
-motsatt; byrden deles på flere.
-En annen kilde til inntektsoverføring er om
-norske arbeidstakere mister lønn og trygge arbeidsplasser i konkurranse med innvandrere.
-Denne problemstillingen er mer aktuell for arbeidsinnvandring enn for flyktninginnvandring.
-Anslagsvis to tredeler av sysselsettingsveksten etter 2004 har kommet fra utlandet, særlig nye EUland i Sentral- og Øst-Europa, uten å skape ledighetsproblemer for den øvrige befolkningen. Det
-har gitt klare fordeler for både innvandrerne og
-det store flertallet av de øvrige innbyggerne (utdypes i kap. 8.4). Spørsmålet er om dette vil fortsette hvis norsk økonomi går inn i en fase med lavere vekst i etterspørselen etter arbeidskraft. Arbeidsinnvandringen har falt de siste årene, noe
-som må ses i sammenheng med svakere utvikling
-i norsk økonomi.3
-Det norske velferdssamfunnet er avhengig av
-at forholdet mellom antall år vi i snitt bidrar økonomisk til fellesskapet og antall år vi i snitt mottar
-inntekter og andre ytelser fra det offentlige, ikke
-blir for skjevt. Den forventede økningen i den demografiske forsørgerbyrden, det vil si forholdet
-mellom eldre og befolkningen i yrkesaktiv alder,
-innebærer statsfinansielle utfordringer. Siden innvandrere i gjennomsnitt er relativt unge, vil høy
-innvandring isolert sett kunne lette denne demografiske forsørgerbyrden. Det avgjørende er imidlertid ikke alder, men innvandrernes bidrag til offentlige inntekter og utgifter, som i hovedsak bestemmes av deres arbeidsinntekt. Selv om nettoeffekten av disse bidragene er den samme som for
-den eksisterende befolkningen, vil et slikt tilskudd av unge snarere være en utsettelse av problemet enn en løsning. Innvandringen må også
-være meget høy for å ha merkbar effekt på alderssammensetningen.
-En analyse av konsekvensene av høy innvandring bør gå lenger enn å se på hvordan endringer i
-befolkningens sammensetning påvirker nasjonale
-2
-3
-
-Meld. St. 1 (2016–2017) Nasjonalbudsjettet 2017.
-Statistisk sentralbyrå (2016). Innvandrere etter innvandringsgrunn, 1. januar 2016.
-
-gjennomsnittstall for økonomiske hovedstørrelser. Den bør også vurdere hvordan fordeler og
-ulemper fordeler seg på henholdsvis den eksisterende befolkningen og nye innvandrere. Dette
-er en stor oppgave, og foreliggende forskning/
-utredning gir ikke alle svar som ønskes. Det gjelder særlig tallfesting av effektene. Utvalget har
-ikke hatt mulighet til å endre denne kunnskapsstatusen vesentlig.4
-
-8.3
-
-Kortsiktige virkninger
-
-På kort sikt vil de økonomiske virkningene av innvandring kunne avhenge av konjunktursituasjonen. I en lavkonjunktur med arbeidsledighet over
-det normale, vil mulighetene for innvandrere til å
-få jobb naturlig nok være dårligere enn i perioder
-med sterk etterspørsel etter arbeidskraft. Den
-sterke arbeidsinnvandringen fra EØS-området til
-Norge etter 2004 og fram til finanskrisen i 2008
-falt sammen med, og var trolig også drevet av,
-sterk vekst i samlet etterspørsel, ikke minst som
-følge av høy aktivitet i petroleumsrelatert virksomhet. I denne perioden ga høy arbeidsinnvandring muligheter for kraftig økt produksjon innenlands, og dermed større inntekter i både privat og
-offentlig sektor. Også blant flyktninger og andre
-grupper med svak tilknytning til arbeidsmarkedet
-er det enklere å finne arbeid i en høykonjunktur
-enn i en lavkonjunktur. Med lavere oljepriser og
-svakere arbeidsmarked har arbeidsinnvandringen
-avtatt de siste par årene, mens tilstrømningen av
-flykninger i liten grad påvirkes av konjunkturene
-innenlands.
-Innvandrere synes å miste jobben lettere enn
-den eksisterende befolkningen i nedgangskonjunkturer.5 Dette trenger ikke nødvendigvis ha
-noe med landbakgrunn i seg selv å gjøre. Mønsteret kan skyldes at de som sist ble ansatt, er de første som må gå i nedbemanningstider, og at det er
-arbeidsinnvandrerne som har kortest ansettelsestid. Mange innvandrere er dessuten ansatt på midlertidige kontrakter. Et annet mønster er at innvandrere som blir arbeidsledige, har lavere sannsynlighet for å komme i arbeid igjen når konjunkturene snur. Det tilsier at arbeidsledighet har lettere for å bli varig for innvandrere enn for
-norskfødte.
-4
-5
-
-I kapittel 8.6 vises noen hovedresultater fra beregninger
-gjort av Statistisk sentralbyrå.
-Bratsberg, B., Raaum, O., & Røed, K. (2014). Arbeidsinnvandring – varig gevinst? Søkelys på arbeidslivet, (4), 275293.
-
-[Side 147]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-Selv om det er vanskeligere å håndtere innvandring i en lavkonjunktur enn i en høykonjunktur, kan kostnadene på kort sikt i en lavkonjunktur være mindre synlige for resten av befolkningen. I gode tider må f.eks. økte flyktningutgifter
-innenlands dekkes inn med innstramminger andre steder i budsjettet så ikke det samlede budsjettet blir for ekspansivt. I en lavkonjunktur er
-ikke dette innstrammingsbehovet like stort. Dersom de økte kostnadene får slå ut i økt samlet pengebruk på offentlige budsjetter, vil færre blir berørt på kort sikt. Økningen i offentlige utgifter til
-å behandle asylsøknader og gi asylsøkerne mat,
-klær og tak over hodet vil da representere en form
-for ekspansiv finanspolitikk. Det samme vil være
-tilfellet etter bosetting når flyktningene skal gjennom introduksjonsprogrammet og får introduksjonsstønad til å finansiere livsoppholdet. Kort
-sagt vil flere innvandrerne bety flere forbrukere. I
-en situasjon med arbeidsledighet og ledig kapasitet i økonomien vil økt etterspørsel fra asylsøkere
-og innvandrere i stor grad skape økt aktivitet og i
-liten grad fortrenge annen etterspørsel. Slike aktivitetsvirkninger har en lav realøkonomisk kostnad
-for den eksisterende befolkningen. I den grad økt
-økonomisk aktivitet også øker skatteinngangen,
-reduseres også det offentliges nettoutgifter av tiltakene. Eksempler på analyser av norsk økonomi
-som vektlegger slike kortsiktige effekter er Statistisk sentralbyrå (2015) og Eika (2016).6 Disse analysene for Norge er i hovedsak i tråd med tilsvarende analyser for andre land (se boks 8.1).
-Utvalget har valgt å konsentrere seg om de
-langsiktige virkningene av innvandring. Særlig vil
-økte utgifter til asylsøker- og flyktningformål ha
-helt andre begrunnelser enn hensynet til å stabilisere den økonomiske utviklingen på kort sikt. Det
-må også legges til grunn at asyl- og flyktningutgifter innpasses, sammen med andre utgifter på
-statsbudsjettet, i en samlet budsjettramme som er
-tilpasset den økonomiske situasjonen.
-
-8.4
-
-Nærmere om inntektsvirkninger
-
-De som trolig har klarest fordel av innvandringen,
-er innvandrerne selv. Flytting til Norge vil for
-6
-
-Statistisk sentralbyrå (2015). Konjunkturutviklingen i
-Norge (Kapittel 2, boks 2.1), Økonomiske analyser 4/2015,
-Statistisk sentralbyrå og Eika, T. (2016). Virkninger av
-bosatte flyktninger og arbeidsinnvandrere på norsk økonomi. Vedlegg til NOU 2016: 15 Lønnsdannelsen i lys av nye
-økonomiske utviklingstrekk.
-
-147
-
-Kapittel 8
-
-mange øke levestandarden mye og raskt. Det gjelder både for arbeidsinnvandrere og flyktninger,
-selv om flyktninger per definisjon kommer for å få
-beskyttelse.
-For den eksisterende befolkningen er virkningene av innvandring mer sammensatte. Arbeidsgivere vil ofte ha en ubetinget fordel av arbeidsinnvandring. Den gir dem en mer mangfoldig befolkning å ansette fra. Innvandrerne har ofte lavere
-krav til lønn og arbeidsmiljø enn norske arbeidstakere. Det er derfor vanskelig å tenke seg at ikke
-arbeidsinnvandring vil bidra til å presse lønnskostnadene ned på kort og mellomlang sikt. I tillegg
-vil økt innvandring øke etterspørselen rettet mot
-den enkelte bedriften, så lenge ikke innvandringen leder til at også antall konkurrerende bedrifter øker.
-For de fleste innbyggere i yrkesaktiv alder er
-det realinntekt etter skatt som bestemmer levestandarden. Innvandring påvirker realinntekten
-først og fremst gjennom tre kanaler:
-– Priser på det man kjøper for inntekten.
-– Timelønn før skatt og sannsynligheten for å få
-arbeid.
-– Skattebyrden.
-Priser
-Økt arbeidsinnvandring gir økt konkurranse i deler av arbeidsmarkedet og i mange tjenestemarkeder og kan bidra til lavere vekst i lønninger og priser. I rollen som forbruker har alle åpenbart fordel av at prisene øker mindre enn de ellers ville ha
-gjort. Innvandring har i realiteten ført til at tjenesteprodusenter som før var skjermet for utenlandsk konkurranse, nå er blitt mer konkurranseutsatt. Dette gjelder blant annet innenfor renhold, hotell- og restaurantdrift, transport og
-bygge- og anleggsvirksomhet.
-Virkningen på pris av at innvandrere selger tjenester i Norge langt billigere enn norske produsenter, er av samme type som den forbrukerne
-opplever når billige varer fra utlandet blir tilgjengelige. Den har to komponenter. For det første
-kan prisen falle for en gitt vare/tjeneste, i den
-grad man ikke har skjermet tjenesteproduksjonen
-fra slike effekter gjennom tariffavtaler. For det andre vil normalt tilbudet av kvalitativt ulike varer
-og tjenester bli bredere og mer mangfoldig, slik at
-forbrukeren opplever å få mer for pengene. Det er
-grunn til å tro at den høye arbeidsinnvandringen
-til Norge etter 2004 kan ha påvirket prisene i tjenestesektoren, men det er få studier om dette.
-
-[Side 148]
-
-148
-
-Kapittel 8
-
-NOU 2017: 2
-Integrasjon og tillit
-
-Boks 8.1 Internasjonale studier: Beregninger av økonomiske konsekvenser av økt
-tilstrømning av flyktninger
-På lengre sikt vil utslaget i økonomien avDet foreligger flere internasjonale studier som
-henge av i hvilken grad flyktningene kommer i
-ser på økonomiske konsekvenser av økt asyl- og
-arbeid. Ved deltakelse i arbeidsmarkedet vil
-flyktninginnvandring. Gjennomgående viser
-flyktningene bidra til verdiskaping og til å øke
-disse studiene forholdsvis begrensede effekter
-skatteinntektene til det offentlige og avlaste
-for økonomien og offentlige budsjetter sammentrygdebudsjettene. Personer utenfor arbeidsliknet med de utfordringene man ellers står
-markedet vil i større grad være netto mottakere
-overfor. Det må ses i sammenheng med at studiav diverse offentlige velferdsordninger. Hvorene ser på en situasjon med et begrenset, men
-vidt flyktningene lykkes i arbeidsmarkedet, avhistorisk sett høyt, antall asylsøkere og flyktninhenger blant annet av kompetanse, alder og situger over noen få år, slik at den samlede tilstrømasjonen i arbeidsmarkedet – forhold som for så
-ningen av flyktninger bare utgjør noen tidels
-vidt også gjelder for alle andre i befolkningen. I
-prosent av befolkningen i mottakerlandene.
-tillegg avhenger yrkesdeltakelsen av hvor velIMF, OECD og EU-kommisjonen tar i sine
-lykket integreringspolitikken er.
-beregninger utgangspunkt i den økte tilstrømAlt i alt viser studiene at økningen i BNP i
-ningen av asylsøkere og flyktninger til Europa i
-mottakerlandet er mindre enn veksten i befolk2015 og ser først og fremst på de kortsiktige
-ningen som følge av den økte innvandringen.
-konsekvensene. Alle de tre institusjonene anslår
-BNP per innbygger blir derfor trolig lavere enn i
-en budsjettmessig kostnad for landene i intervalen situasjon uten tilstrømning av flyktninger.
-let 0,1–0,5 pst. av BNP samlet sett over to til tre
-Det vil vedvare så lenge de nyankomne har svaår. Økt offentlig pengebruk vil isolert sett kunne
-kere tilknytning til arbeidsmarkedet enn den øvøke BNP med anslagsvis 0,2 pst. som følge av
-rige befolkningen, eller har lavere produktivitet
-høyere sysselsetting i mottakerapparatet og i annår de kommer i arbeid.
-dre aktiviteter knyttet til økt antall asylsøkere og
-flyktninger. Utslaget vil avhenge av hvilke tilpasKilder: Aiyar, S., Barkbu, B., Batini, N., Berger, H., Detraninger som gjøres i offentlige budsjetter. Utslagiache, E. & Dizioli, A., et.al (2016). The Refugee Surge in
-get vil bli mindre hvis økningen i utgifter helt elEurope. IMF Staff Discussion Note; OECD (2015). How will
-ler delvis dekkes inn gjennom økte skatter eller
-the refugee surge affect the European economy? Migration
-utgiftskutt på andre områder. Det er også en del
-Policy Debates no 8, 2015; European Commission (2016). An
-Economic Take on the Refugee Crisis. A Macroeconomic
-forskjeller mellom land, både når det gjelder den
-Assessment of the EU. Institutional Paper 033.
-anslåtte budsjettmessige kostnaden, og når det
-gjelder de makroøkonomiske effektene.
-
-Lønn og sannsynlighet for å få arbeid
-Den samlede fordelen av lavere priser blir mer
-uklar og mer ujevnt fordelt når man tar hensyn til
-at lavere priser skyldes lavere lønnskostnader. Jo
-lettere den eksisterende befolkningen kan erstattes av innvandrere, desto mer utsatt er de for
-press nedover på lønn og arbeidsmiljø.7 Noen kan
-også oppleve å bli konkurrert ut av markedet i
-den forstand at de vurderer alternative jobber,
-eventuelt med en ledighetsperiode med dagpenger, som bedre enn å fortsette til lavere lønn. En
-7
-
-Ottaviano, G. I., & Peri, G. (2012). Rethinking the effect of
-immigration on wages. Journal of the European Economic
-Association, 10(1), 152-197.
-
-studie for Norge viser at arbeidsinnvandringen
-har redusert lønnsveksten i deler av privat sektor,
-både gjennom at innvandrerne selv har lavere
-lønn enn den øvrige befolkningen, og gjennom
-økt lavlønnskonkurranse.8 Blant yrker i bygg- og
-anleggsnæringen med stor vekst i andel arbeidstakere med innvandrerbakgrunn, var lønnsfallet
-sterkest for arbeidstakere som ikke hadde fullført
-videregående skole, og for tidligere ankomne innvandrere.9 Empiri tyder på at arbeidsinnvandring
-8
-
-9
-
-Bjørnstad, R. (red.) (2015). Virkninger av allmenngjøring
-av tariffavtaler. Rapport nr. 2-2015. Senter for lønnsdannelse.
-Bratsberg, B. & Raaum, O. (2012). Immigration and wages:
-Evidence from Construction. The Economic Journal, 122
-(565), 1177-1205.
-
-[Side 149]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-påvirker lønnen til andre innvandrere mer enn
-resten av befolkningen, og at lønnen til arbeidstakere uten innvanderbakgrunn påvirkes mest av
-innvandrere fra andre nordiske land.10 Norskfødte ungdommer ser ut til å ha vært utsatt for fortrengning pga. innvandrere fra Sverige.11
-Også denne effekten er velkjent fra standardresonnementene innenfor internasjonal handelsteori. Mens det store flertallet i forbrukerrollen
-har fordel av at varer kan være billigere hvis de
-kjøpes fra utenlandske framfor norske tilbydere,
-må utkonkurrerte norske bedrifter legges ned og
-de ansatte finne annet arbeid. Deres tap er større
-jo vanskeligere det er å finne annet arbeid. Innvandring vil kunne gi økt konkurranse i alle lavlønnsyrker samtidig, og de som ikke har ferdigheter som utfyller innvandrernes vil dermed ikke
-så lett kunne unnslippe de negative effektene. På
-den måten kan omstillingsproblemene som følge
-av innvandring ramme bredere og vare lenger enn
-det som er det typiske ved økt internasjonal handel, som normalt treffer enkeltnæringer.
-Når tidsperspektivet utvides til det mer langsiktige, endrer disse effektene karakter fra omstillingskostnader til overflyttingsgevinster i økonomisk teori. Overflyttingsgevinster krever at de arbeidstakerne som slutter i én type jobb, går over i
-annet arbeid og får høyere lønn i den jobben de
-går til. Slike omstillinger bidrar til at arbeidskraften kaster mer av seg, både for den enkelte og for
-samfunnet. Forskning fra både USA,12 Danmark13
-og flere land i Europa14 viser f.eks. hvordan arbeidstakere flytter til andre typer stillinger, andre
-yrker eller andre næringer, og dermed oppnår
-høyere lønn som følge av innvandring. Dersom arbeidsinnvandring medfører varig redusert sysselsetting i den innfødte befolkningen, vil det i seg
-selv representere et samfunnsøkonomisk tap.
-Når tapene kommer umiddelbart og gevinstene senere i omstillingsprosessen, vil gjerne tapene få mest oppmerksomhet. De som taper, har
-10
-
-Bratsberg, B., Raaum, O., Røed, M., & Schøne, P. (2014).
-Immigration wage effects by origin. The Scandinavian
-Journal of Economics, 116(2), 356-393.
-11
-Bratsberg, B., & Raaum, O. (2013). Migrasjonsstrømmens
-påvirkning på lønns- og arbeidsvilkår. Samfunnsøkonomen,
-127(3), 18-29.
-12
-Peri, G., & Sparber, C. (2009). Task specialization, immigration, and wages. American Economic Journal: Applied
-Economics, 1(3), 135-169.
-13
-Foged, M., & Peri, G. (2016). Immigrants’ Effect on Native
-Workers: New Analysis on Longitudinal Data. American
-Economic Journal: Applied Economics, 8(2), 1-34.
-14
-D'Amuri, F., & Peri, G. (2014). Immigration, jobs, and
-employment protection: Evidence from Europe before and
-during the great recession. Journal of the European Economic Association, 12(2), 432-464.
-
-149
-
-Kapittel 8
-
-100
-
-80
-
-60
-
-40
-
-20
-
-0
-1970 1975 1980 1985 1990 1995 2000 2005 2010 2015
-
-Figur 8.1 Lønnsandel i prosent av samlet faktorinntekt i Fastlands-Norge
-Kilde: Statistisk sentralbyrå
-
-så langt vært i mindretall, men opplever enkeltvis
-et konkret og betydelig tap. De som vinner er
-mange, men gevinstene for den enkelte blir liten
-og uopplevd. Insentivene for de som taper til å
-kjempe for sine interesser, er dermed langt sterkere enn for de som vinner. Arbeidsinnvandring
-kan medføre en endret maktbalanse mellom arbeidsgivere og arbeidstakere i enkelte bransjer,
-og dette kan også påvirke hvor store gevinstene
-blir, og hvem de eventuelt tilfaller. I Norge har
-imidlertid verdiskapingen i samfunnet alt i alt blitt
-forholdsvis jevnt fordelt mellom arbeidstakerne
-og bedriftseierne. Lønnsandelen har holdt seg om
-lag uendret siden 1970 (se figur 8.1). Høy organiseringsgrad og stort innslag av kollektive forhandlinger kan ha bidratt til dette. I tillegg fungerer
-den norske konkurranseloven i all hovedsak
-godt.15
-Overflyttingsgevinstene som er omtalt over,
-kan komme i stand ved at innvandringen påvirker
-sammensetningen av utdanning og kompetanse i
-den opprinnelige befolkningen og dermed legger
-grunnlaget for høyere lønn og sikrere arbeidsplasser. En norsk studie viser hvordan rekruttering til
-videregående opplæring innenfor bygg og anlegg
-i Norge har endret seg som følge av den store økningen i innvandring til denne næringen siden utvidelsen av EØS i 2004.16 Det er tegn til at elever
-15
-
-NOU 2015: 1 Produktivitet – grunnlag for vekst og velferd –
-Produktivitetskommisjonens første rapport.
-
-[Side 150]
-
-150
-
-Kapittel 8
-
-NOU 2017: 2
-Integrasjon og tillit
-
-med gode karakterer velger bort bygg- og anleggsfag som følge av innvandring. Andre studier
-fra USA viser hvordan innvandring av personer
-med lav utdanning (lavere enn fullført videregående) kan øke andelen elever som fullfører videregående17 og som begynner på høyere utdanning.18 En analyse viser dessuten at innstrømningen av lavt kvalifiserte innvandrere har ført til at
-amerikanske elever tar lengre utdanninger, oppnår bedre skoleprestasjoner og velger andre yrker
-med høyere krav til f.eks. språkferdigheter.19
-Bedrifter som produserer for eksport kan ikke
-velte økte kostnader over på pris uten å miste kunder. Hvis arbeidstakerne består av grupper med
-ulik kompetanse, vil utskifting av norskfødte med
-innvandrere i noen grupper kunne senke de samlede lønnskostnadene. Bedriftenes overskudd vil
-øke, eller man unngår underskudd hvis prisene internasjonalt presses ned. Samtidig har den norske
-modellen for lønnsdannelse så langt bidratt til den
-relativt stabile utviklingen i fordelingen av verdiskapingen mellom arbeidskraft og kapital som vises i figur 8.1. Sammen kan disse forholdene både
-gjøre bedriftene mer levedyktige, og bidra til at de
-gjenværende norske arbeidsplassene med høyt
-kompetansekrav blir sikrere og får bedre vilkår
-enn uten ansettelsen av innvandrere. Gevinstene
-for norskfødte blir større jo mer kvalitativt forskjellige de er fra innvandrergruppene.20 De
-norskfødte som ikke klarer å tilpasse sin kompetanse, risikerer varig lav lønn (se kap. 8.5). Vedvarende høy innvandring vil i tråd med drøftingen i
-NOU 2016: 15 kunne utfordre de stabiliserende
-mekanismene i den norske lønnsmodellen.21
-Tariffavtalene har stor betydning for lønnsdannelsen i Norge. De inngås mellom en fagforening
-eller sammenslutning av slike foreninger og en arbeidsgiver eller arbeidsgiverforening og er bindende for avtalens parter og deres medlemmer.
-Allmenngjøring av tariffavtaler innebærer blant
-annet at det settes et gulv for hvor lavt arbeidsta16
-
-Brekke, I., Røed, M., & Schøne, P. (2013). Påvirker innvandring investeringen i utdanning? Søkelys på arbeidslivet,
-30(3), 169-188.
-17
-Hunt, J. (2012). The Impact of Immigration on the Educational Attainment of Natives. IZA Working Paper 6904.
-18
-Jackson, O. (2010). Does Immigration Crow Natives into or
-out of Higher Education? Working Paper, University of
-Michigan.
-19
-McHenry, P. (2015). Immigration and the Human Capital of
-Natives. Journal of Human Resources, 50(1), 34-71.
-20
-Ottaviano, G. I., & Peri, G. (2012). Rethinking the effect of
-immigration on wages. Journal of the European Economic
-Association, 10(1), 152-197.
-21
-NOU 2016: 15 Lønnsdannelsen i lys av nye økonomiske
-utviklingstrekk.
-
-kere i den aktuelle bransjen kan lønnes, og det
-minsker bedriftenes mulige gevinst ved å stå utenfor overenskomstene for å betale lavere lønn. Allmenngjøringsinstituttet har på denne måten bidratt til å opprettholde koordineringen i lønnsdannelsen i en periode med høy arbeidsinnvandring.
-(Se mer om organisasjonsgrad blant innvandrere i
-kap. 5.5.4).
-Skattebyrde
-Til slutt vil levestandarden uttrykt ved realinntekten etter skatt påvirkes av skattebyrden. Som beskrevet i kapittel 8.6.3 følger det framtidige behovet for økt skattebyrde først og fremst av at befolkningen blir eldre, og at finansieringsbidraget fra
-petroleumsinntektene blir mindre viktig. I den
-grad innvandring svekker offentlige finanser ytterligere, innebærer det isolert sett et fall i levestandarden for dem som allerede bor i Norge,
-fordi skattene må økes og/eller offentlig velferd
-slankes på sikt. Erfaringsmessig har innvandrere
-fra Asia, Afrika mfl. i gjennomsnitt bidratt mer til
-offentlige utgifter og klart mindre til offentlige
-inntekter enn andre, fordi arbeidsinnsatsen og
-lønnen er lavere. Denne typen innvandring må
-imidlertid bli meget høy for at den i seg selv skal
-øke de statsfinansielle utfordringene mye. Men
-den vil kunne forsterke det sterke og voksende
-statsfinansielle presset på offentlige finanser som
-aldringen av befolkningen vil skape i tiårene framover, dersom en ikke lykkes bedre enn hittil med
-å få disse gruppene i arbeid.
-
-8.5
-
-Inntektsulikhet
-
-Ikke alle har på samme måte fått tatt del i den globale økonomiske veksten de siste tiårene, og
-innad i mange OECD-land har inntektsforskjellene økt (se figur 8.2). Figuren viser nivået på og
-endringen i Gini-koeffisienten22 for disponibel
-inntekt (etter skatt og overføringer) fra midten av
-1980-årene fram mot i dag for en rekke OECDland. I Norge har den økonomiske veksten i
-større grad enn i andre land kommet hele befolkningen til gode, men også her har ulikheten økt
-noe. Teknologisk endring og globaliseringen er
-viktige drivkrefter for økte forskjeller, også i
-22
-
-Gini-koeffisienten er et vanlig mål på den generelle inntektsulikheten i et samfunn og benyttes som oftest til å
-sammenlikne inntektsulikhet mellom land og over tid. Dersom alle har lik inntekt, er Gini-koeffisienten null. Dersom
-kun én person har hele inntekten i samfunnet, er det maksimal ulikhet og Gini-koeffisienten får verdien 1 (100).
-
-[Side 151]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-151
-
-Kapittel 8
-
-50
-45
-40
-35
-30
-25
-20
-15
-10
-5
-
-Ts
-je
-k
-D kia
-an
-m
-ar
-k
-N
-or
-g
-Fi e
-nl
-an
-d
-Be
-lg
-Sv i a
-er
-i
-N
-e d ge
-er
-la
-n
-U d
-ng
-a
-Ty rn
-s
-Lu kla
-n
-xe
-m d
-bo
-Fr urg
-an
-kr
-ik
-e
-C
-an
-a
-d
-O
-EC a
-D
-Au 22
-st
-ra
-lia
-N
-ew Ita
-l
-Ze ia
-al
-an
-d
-Ja
-pa
-n
-St He
-ll
-or
-br as
-ita
-nn
-ia
-Is
-ra
-el
-U
-SA
-Ty
-rk
-i
-M a
-ex
-ic
-o
-
-0
-
-1985
-
-2013
-
-Figur 8.2 Ulikhet i disponibel inntekt (etter overføringer og skatt) målt med Gini i 19851 og 2013 eller
-siste tilgjengelige år
-1
-
-For en del land er Gini-koeffisienten fra et nærliggende år til 1985. For enkelte land er verdien fra et noe senere tidspunkt:
-Tsjekkia (1992), Ungarn (1991) og Australia (1995).
-Kilde: Statistisk sentralbyrå, OECD Income Distribution Database og OECD (2015). In It Together? Why Less Ineqaility Benefits All.
-OECD Publishing
-
-Norge. Økt arbeidsinnvandring er en konsekvens
-av globaliseringen i mange vestlige land. I Norge
-har denne først og fremst kommet til tjenesteytende næringer med lav produktivitet. Dette har
-lagt press på lønningene i enkelte sektorer (se
-kap. 8.4). Isolert sett har derfor arbeidsinnvandringen bidratt til økte inntektsforskjeller i Norge.
-Den forholdsvis jevne fordelingen i Norge kan
-blant annet ses i sammenheng med omfattende,
-og i hovedsak offentlige finansierte, tjenester
-innenfor utdanning og helse, som både virker omfordelende og bidrar til høy produktivitet og
-vekst. I tillegg sikrer godt samarbeid om lønnsdannelsen både fleksibilitet og omstillingsevne for
-norsk næringsliv samt høy yrkesdeltakelse og at
-lønnsforskjellene i Norge er relativt små.
-Endringer i økonomisk ulikhet, særlig antallet
-i lavinntektsgruppen, har stor samfunnsmessig
-betydning utover effekter som skaper inntektsoverføringer fra eller til den eksisterende befolkningen. Spørsmål knyttet til de økende inntektsulikhetene i de aller fleste OECD-landene de
-siste 30–35 årene har fått økt oppmerksomhet,
-særlig de siste årene.23 For det første har myndigheter og samfunnsmedlemmer oppfatninger om
-hva som bør være en nedre grense for materiell
-levestandard. Spørsmålet om lav inntekt har derfor en samfunnsmessig dimensjon utover det som
-angår den enkelte. For det andre leder store inn-
-
-tektsforskjeller erfaringsmessig til spenninger og
-noen ganger sosial uro. For det tredje kan store
-inntektsforskjeller gi enkeltpersoner makt og innflytelse som strider mot demokratiske idealer. Relativt høy grad av inntektsutjevning har vært et
-mål med bred politisk oppslutning i etterkrigstiden i Norge og andre nordiske land, og det er et
-nøkkelelement i den såkalte «norske (nordiske)
-modellen». Dette gjelder ikke bare mulighetslikhet, men også resultatlikhet.
-Høy innvandring av personer med relativt lav
-kompetanse gjør det isolert sett vanskeligere å nå
-gitte mål for inntektsutjevning. Selv med en sjenerøs velferdsstat som den norske vil mange av
-disse havne i gruppen med varig lavinntekt. De
-som ikke får en stabil tilknytning til arbeidsmarkedet, vil havne nederst på inntektsskalaen. For de
-aller fleste er lønnet arbeid den eneste veien ut av
-lavinntektsgruppen. De som kommer i lønnet arbeid, vil kunne unnslippe lavinntektsgruppen,
-men vil likevel i hovedsak få en inntekt som er forholdsvis lav. Innvandring kan derfor forventes å gi
-en direkte økning i ulikheten i Norge, som vil
-23
-
-Se f.eks.: Piketty, T. (2014). Capital in the twenty-first century, The Belknap Press; Stiglitz, J. E. (2012). The price of
-inequality: How today's divided society endangers our future.
-WW Norton & Company og Atkinson, A. B. (2015). Inequality. Harvard University Press.
-
-[Side 152]
-
-152
-
-Kapittel 8
-
-NOU 2017: 2
-Integrasjon og tillit
-
-kunne komme i strid med det politiske målet om å
-bevare et samfunn med små forskjeller. Det gjelder selv om innvandrerne selv opplever store økonomiske gevinster av å komme til Norge.
-Et viktig forhold i denne sammenheng er også
-den inntektsulikheten som vil komme mellom alderspensjonister. Forutsetningene bak beregningene i kapittel 8.6 innebærer at innvandrerne fra
-lavinntektsland i langt større grad enn andre
-grupper vil ha forholdsvis lav opptjening av rettigheter og dermed være blant dem som får lavest alderspensjon.
-I tillegg til den direkte effekten på ulikhet ved
-at mange innvandrere havner nederst på inntektsskalaen, kan innvandring ha en indirekte effekt på
-ulikheten ved å øke ulikheten blant den eksisterende befolkningen. Det er fordi økt konkurranse i lavlønnsyrker gir generelle gevinster til
-hele befolkningen gjennom lavere priser på tjenester, men konsentrerte kostnader for dem som
-blir utsatt for økt konkurranse. Dette vil særlig
-gjelde for arbeidsinnvandring. Flyktninger har lavere yrkesdeltakelse og er mindre konsentrert
-om enkeltbransjer (se kap. 5.5.1). De har dessuten tilgang til inntektssikringsordninger som gjør
-at svært lave lønninger vil være mindre attraktive
-enn for arbeidsinnvandrere, som ikke uten videre
-har tilgang til sosialhjelp i Norge. Som beskrevet
-over vil enkelte av dem som utsettes for økt konkurranse, på sikt tilpasse seg og få økt inntekt,
-men de som ikke klarer å tilpasse seg risikerer å
-få varig lavere lønn og svakere tilknytning til arbeidslivet. En økning i denne gruppen vil bidra til
-økt ulikhet.
-Innvandrere fra lavinntektsland er overrepresentert blant arbeidsledige. Høy og varig arbeidsledighet er en hovedkilde til lav inntekt. I tredje
-kvartal 2016 var summen av den registrerte ledighetsraten og andelen på arbeidsmarkedstiltak
-7,5 pst. for innvandrere mot 2,3 pst. for den øvrige
-befolkningen (se også kap. 5.2.2).
-Uføretrygdede har i gjennomsnitt lav inntekt.
-Studier av forløpet for flyktningers yrkesaktivitet
-viser at prosessen som starter med tidlig avgang
-og ender i uføretrygd, begynner etter bare sju års
-botid for flyktninger.24 For andre innvandrergrupper begynner denne overgangen etter ti–elleve
-års botid.25 Også dette er langt tidligere enn den
-tilsvarende overgangen for norskfødte. Denne
-
-overgangsprosessen går via arbeidsledighet, sykepenger og ulike kvalifiseringsprogrammer.
-Men uføretrygd er det eneste alternativet til arbeid som gir varig inntektssikring før alderspensjonering. En annen studie ser på tidsutviklingen
-for selvforsørgelsesgraden blant innvandrerne
-som ankom i 2000.26 Utviklingen for kun dette
-innvandrerkullet gir ikke mulighet til å skille mellom botidseffekter og effekter av andre forhold,
-spesielt finanskrisen. Funnene er imidlertid i hovedsak konsistente med sysselsettingsforløpene
-for de ulike innvandrerkohortene som følges i
-Bratsberg mfl.27
-Hovedårsaken til høy ledighet blant innvandrerne er at arbeidsgivere i Norge vurderer deres
-produktivitet som lavere enn lønnskostnaden. Det
-kan være på grunn av faktisk lavere produktivitet,
-men også fordi innvandrere ikke har utdanning og
-erfaring som signaliserer til arbeidsgivere at de
-har tilstrekkelig produktivitet. Ledighet blant innvandrere kan også ha sammenheng med etnisk
-diskriminering (se kap. 7.5).
-Utdanning og kvalifisering er de viktigste tiltakene for å styrke mulighetene til svake innvandrergrupper i arbeidsmarkedet. Introduksjonsprogrammet for flyktninger er det tiltaket norske
-myndigheter har utviklet for å møte behovene til
-flyktninger som trenger grunnleggende kvalifisering (se kap. 4.4.). Forskning på innvandrernes
-barn tyder på at det norske utdanningssystemet
-er godt egnet til å integrere barn og ungdom, men
-for godt voksne innvandrere er effekten av mer utdanning mer usikker. Tiltak for å bedre integreringen diskuteres i kapittel 10.
-Blant annet som følge av det høye norske lønnskostnadsnivået er det neppe realistisk å få sysselsettingen blant voksne innvandrere med lav produktivitet opp mot det samme nivået nivå som den
-øvrige befolkningen. I kapittel 4.7 gir utvalget en
-samfunnsøkonomisk analyse av satsing på utdanning og kvalifisering av innvandrere og etterkommere.
-Den norske velferdsstaten finansierer gjennom skatteinntekter et stort omfang av offentlige
-tjenester og stønader som bidrar til høy levestandard og livskvalitet for landets innbyggere. Dette
-systemet forutsetter høy arbeidsinnsats fra en stor
-26
-
-24
-
-Bratsberg, B., Raaum, O., & Røed, K. (2016). Flyktninger
-på det norske arbeidsmarkedet. Søkelys på arbeidslivet,
-33(3), 185-207.
-25
-Bratsberg, B., Raaum, O., & Røed, K. (2014). Arbeidsinnvandring – varig gevinst? Søkelys på arbeidslivet, 31 (4), 275293.
-
-27
-
-Kornstad, T., Skjerpen, T. & Telle, K. (2016). Selvforsørging
-etter botid blant ikke-nordiske innvandrere. Økonomiske
-analyser 4/2016. Statistisk sentralbyrå.
-Bratsberg, B., Raaum, O., & Røed, K. (2014). Arbeidsinnvandring – varig gevinst? Søkelys på arbeidslivet, 31 (4), 275293; Bratsberg, B., Raaum, O., & Røed, K. (2016). Flyktninger på det norske arbeidsmarkedet. Søkelys på arbeidslivet,
-33 (3), 185-207.
-
-[Side 153]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-andel av yrkesbefolkningen, herunder innvandrere. Selv for personer som selv kan velge sin arbeidstid (deltidsbrøk og ferie) ved en avveining
-mellom godene fritid og materielt forbruk, vil det
-være en stor gevinst for samfunnet dersom disse
-jobber mer enn det de selv velger. Dette skyldes
-skatt på arbeid i form av direkte inntektsskatt på
-lønn og arbeidsgiveravgift og indirekte skatter og
-avgifter på de varer og tjenester som lønnsinntekten brukes på. I Norge innebærer den samlede effekten av disse skattene at en arbeidstime skaper
-en inntekt for samfunnet som er rundt det dobbelte av det den enkelte sitter igjen med av kjøpekraft. For dem som av ulike grunner arbeider mindre enn de selv ønsker, er fritiden mindre verdt
-enn for dem som kan jobbe så mye de selv vil. Det
-betyr at den samfunnsøkonomiske lønnsomheten
-av økt arbeidsinnsats er enda større for ufrivillig
-arbeidsledige enn for yrkesaktive, fordi den økte
-arbeidsinnsatsen ikke går på bekostning av ønsket om fritid.
-
-8.6
-
-Konsekvenser for offentlige
-finanser av høy innvandring
-
-8.6.1 Innledning
-I NOU 2011: 7 Velferd og migrasjon. Den norske
-modellens framtid var mandatet å vurdere hvordan
-migrasjon påvirker våre velferdsordninger. Den
-gang ble det lagt særlig vekt på arbeidsinnvandring, og det ble satt ut et utredningsoppdrag til
-SSB, som utviklet en økonomisk modell for å studere langsiktige virkninger av migrasjon på norsk
-økonomi, med vekt på offentlige finanser.28 Beregningene viste at konsekvensene av innvandring for samlet verdiskaping og offentlige finanser
-først og fremst avhenger av i hvilken grad innvandrerne blir sysselsatt, og at potensialet for å øke
-sysselsettingen er særlig stort blant innvandrere
-fra utviklingsland.
-I forbindelse med dette utvalgets arbeid har
-SSB oppdatert og videreutviklet beregningene og
-analysene fra 2011. Beregningene er også utvidet
-med sikte på å illustrere konsekvensene av flyktninginnvandring og å vurdere de økonomiske
-konsekvensene av innvandring opp mot de utfordringene aldringen av befolkningen gir for finansieringen av offentlige velferdsordninger fram mot
-2060. Det vises til egne rapporter for utfyllende
-dokumentasjon av metode og resultater.29 Bereg28
-
-Holmøy, E. & Strøm, B. (2012). Makroøkonomi og offentlige
-finanser i ulike scenarioer for innvandring. Rapporter 15/
-2012, Statistisk sentralbyrå.
-
-153
-
-Kapittel 8
-
-ningene har et langsiktig perspektiv. Det innebærer at de ser bort fra kortsiktige aktivitetseffekter beskrevet i kapittel 8.3.
-Det bør understrekes at de langsiktige framskrivingene ikke skal tolkes som spådommer om
-den mest sannsynlige utviklingen. Det er gjort forutsetninger om utviklingen i størrelser som er meget usikre, og som man har begrenset eller ingen
-kontroll på. Dette gjelder blant annet befolkningsutvikling, produktivitetsvekst, rente, oljepris og andre verdensmarkedspriser. Størrelser som i hovedsak er bestemt direkte eller indirekte av politiske
-beslutninger, er videreført på «dagens nivå». Dette
-gjelder blant annet skattesystem, trygderegler,
-bruken av skattefinansierte kontantytelser og tjenester. Framskrivingene er altså betinget av at
-dagens politikk, herunder velferdsordningene, videreføres slik de er utformet i dag. Det vil selvsagt
-skje endringer i politikken på mange områder, nettopp for å møte utfordringer vi i dag kan se konturene av. Poenget med framskrivingene er nettopp å
-synliggjøre behovet for endringer i politikken.
-Det økonomiske forholdet mellom den enkelte
-og det offentlige tar i beregningene utgangspunkt
-i inntektsstatistikken fra SSB for 2013 (se vedlegg
-3). Befolkningen deles inn i et relativt stort antall
-grupper etter kjennetegnene alder, kjønn, landbakgrunn, botid og hovedinntektskilde. Et eksempel
-på en gruppering er 50 år gamle menn, innvandret
-fra land i Asia, Afrika mfl. (landgruppe 3) for mer
-enn 10 år siden, som har inntekt fra arbeid som
-hovedinntekt. For hver gruppe brukes tall fra inntektsstatistikken, der de sentrale elementene er
-arbeidsinntekt og bruk av skattefinansierte kontantytelser og tjenester. En avgjørende forutsetning i beregningene er at aldersforskjellene for en
-variabel slik dette framkommer i 2013, også forteller hvordan disse beløpene utvikler seg over livsløpet. Et eksempel: Man observerer arbeidsinntekten i 2013 for menn fra landgruppe 3 som er
-henholdsvis 30 og 31 år gamle. Da antas det at de
-mennene som er 31 år i 2014, har den samme arbeidsinntekten som 31-åringene hadde i 2013, før
-det korrigeres for generell lønnsvekst.
-Denne metoden gir et dekkende bilde av dynamikken over et gjennomsnittlig livsløp når kohortene er like, det vil si at viktige kjennetegn og relevant atferd i gruppene ikke endres mye over tid.
-29
-
-Holmøy, E., Romay, C. P, Sagelvmo, I. & Strøm, B. (2017a).
-Bidrag fra innvandrere og norskfødte til offentlige inntekter
-og utgifter på lang sikt. Kommer i serien Rapporter fra Statistisk sentralbyrå, og Holmøy, E. & Strøm, B. (2017b). Den
-langsiktige betydningen for norsk realøkonomi og offentlige
-finanser og av fortsatt innvandring. Kommer i serien Rapporter fra Statistisk sentralbyrå.
-
-[Side 154]
-
-154
-
-NOU 2017: 2
-
-Kapittel 8
-
-Integrasjon og tillit
-
-Denne forutsetningen vil i praksis aldri være oppfylt. Aldersprofilene kan gi likevel en tilstrekkelig
-god beskrivelse av livsløp, fordi usikkerheten –
-som alltid er forbundet med framskrivinger – ikke
-gjør framskrivingene opplagt optimistiske eller
-pessimistiske. Det kan f.eks. tenkes at nye eller
-framtidige innvandrere fra såkalte lavinntektsland
-har bedre forutsetninger for å lykkes i det norske
-arbeidsmarkedet framover enn det historien har
-vist. Mange av dem er bedre utdannet, og integreringspolitikken har i økende grad lagt vekt på kvalifisering og tilrettelegging for deltakelse i arbeidslivet. Det motsatte kan imidlertid også være
-tilfellet, f.eks. hvis det blir vanskeligere enn tidligere for innvandrere med forholdsvis lav kompetanse å få innpass i framtidens arbeidsmarked. Senere i dette kapitlet undersøkes det hvordan ulike
-forløp for integrering av flyktninger kan påvirke
-bidragene til offentlige inntekter og utgifter.
-Dette kapitlet beskriver noen hovedresultater
-fra SSBs beregninger. Alt i alt tegner analysen tilnærmet det samme bildet som i 2011 – konsekvensene for norsk økonomi og offentlige finanser av økt innvandring avhenger først og
-fremst av hvor godt en lykkes med å få innvandrere i arbeid. Det er en utfordring at en stor andel flyktninger har svak tilknytning til arbeidsmarkedet og er avhengige av støtte fra det offentlige
-til livsoppholdet.
-Den demografiske utviklingen vil ha konsekvenser for økonomien og statsfinansene særlig
-gjennom endringer i alderssammensetning og
-endringer i befolkningsandelene for forskjellige
-innvandrergrupper. Yrkesinntekt, mottak av offentlige overføringer og bruk av skattefinansierte
-tjenester varierer både med alder og mellom forskjellige befolkningsgrupper. Kapittel 8.6.2 beskriver befolkningsutviklingen under ulike antakelser om framtidig innvandring. Kapittel 8.6.3 viser at aldringen av befolkningen er hovedutfordringen for offentlige finanser, og at omfanget av
-denne hovedutfordringen vil avhenge av hva som
-forutsettes om innvandring. Kapittel 8.6.4 belyser
-nærmere hvordan den økonomiske atferden historisk har variert mellom ulike grupper i befolkningen, og hvilke konsekvenser et slikt mønster
-kan få framover.
-
-8.6.2
-
-Befolkningsutviklingen
-
-Når modellen som brukes i beregningene deler
-befolkningen inn i forskjellige grupper landbakgrunn (se nærmere omtale av de ulike landgruppene i kap. 2.4), er det for å fange opp viktige forskjeller mellom gruppene med hensyn til gjen-
-
-9
-8,48
-
-8
-7
-6
-
-5,43
-
-5
-4
-3
-2
-
-1,64
-0,95
-0,45
-
-1
-0
-2013
-
-2025
-
-2045
-
-2065
-
-2085
-
-2100
-
-Samlet folkemengde
-Innvandrere fra landgruppe 1 og 2
-Norskfødte med to innvandrerforeldre
-Norskfødte med ingen eller én innvandrerforelder
-Innvandrere fra landgruppe 3
-
-Figur 8.3 Norges befolkning i hovedalternativet
-2016–2100 etter landbakgrunn. Millioner personer. Antall i 2100 er angitt
-Kilde: Statistisk sentralbyrå
-
-nomsnittspersonenes bidrag til offentlige inntekter og bruk av skattefinansiert velferd (se vedlegg
-3). Beregningene bygger på hovedalternativet i
-SSBs befolkningsframskrivinger fra 2016. Her
-øker Norges samlede folketallet fra 5,3 mill. i 2016
-til 7,3 mill. i 2060, og videre til nær 8,5 mill. i 2100
-(se figur 8.3). Den samlede årlige innvandringen
-ligger mellom 60 000 og 70 000 personer i det
-meste av dette århundret. Det er særlig innvandringen fra landgruppe 3 som øker, fra 0,39 mill.
-ved inngangen til 2016 til 1,6 mill. i 2100. Innvandringen fra landgruppene 1 og 2 endres forholdsvis
-lite. Den norskfødte befolkningen vokser fra 4,45
-mill. i 2016 til 5,4 mill. i 2100. En betydelig del av
-veksten i den norskfødte befolkningen består av
-barn som har utenlandsfødt far eller mor.
-Etter en nedgang siden 1990 ligger det an til at
-andelen eldre dobles fram mot slutten av århundret (se figur 8.4). Mens det i dag er godt over fire
-yrkesaktive per person over 67 år, vil det i 2100
-kun være om lag to yrkesaktive per person over
-67 år. Forholdstallet mellom antall eldre og antall
-personer i yrkesaktiv alder omtales gjerne som
-demografisk forsørgerbyrde. Økningen i forsørgerbyrden bærer bud om utfordringer for offentlige finanser (se kap. 8.6.3).
-
-[Side 155]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-50
-45
-40
-35
-30
-25
-20
-15
-10
-5
-0
-1950
-
-1975
-
-2000
-
-2025
-
-2050
-
-2075
-
-2100
-
-Figur 8.4 Forholdet mellom antall personer som
-er 67 år og eldre, og antall mellom 20 og 66 år.
-Framskrivinger basert på SSBs hovedalternativ.
-Prosent
-Kilde: Statistisk sentralbyrå
-
-8.6.3
-
-Konsekvensene for offentlige finanser
-av aldring og innvandring
-Velferdsstaten innebærer en betydelig omfordeling over livsløpet. Barn, ungdom og eldre er
-netto mottakere av offentlig finansierte tjenester
-og overføringer. Befolkningen i yrkesaktiv alder
-står for størsteparten av innbetalingene av skatt
-og er netto bidragsytere. Dette mønsteret betyr at
-offentlige finanser i vesentlig grad påvirkes av
-endringer i sammensetningen av befolkningen.
-En økning i andelen eldre i befolkningen vil isolert sett trekke opp utgifter til helse- og omsorgstjenester og pensjoner og svekke sysselsettingen
-og dermed grunnlaget for skatteinntekter.
-Med utgangspunkt i hovedalternativet i SSBs
-befolkningsframskrivinger fra 2016, viser Holmøy
-mfl. (2017b) hvordan offentlige utgifter ligger an
-til å øke raskere enn offentlige inntekter framover.30 En slik utvikling i offentlige utgifter og inntekter vil gi et økende finansieringsbehov, som tilsvarer den skattebyrden som over tid er nødven30
-
-Beregningene hviler på en rekke forutsetninger, herunder
-at det tas utgangspunkt i dagens standard og dekningsgrader. Denne forutsetningen betyr at beregningene belyser
-hva dagens velferdsordninger vil koste når befolkningen
-utvikler seg som i hovedalternativet til SSBs befolkningsframskrivinger. Det tas ikke hensyn til en fortsatt videreutvikling av de offentlige velferdsordningene, slik vi har sett
-så langt.
-
-155
-
-Kapittel 8
-
-dig for å balansere offentlige budsjetter gitt handlingsregelen for bruk av oljepenger. Det økende finansieringsbehovet skyldes både at det blir flere
-eldre i forhold til yrkesaktive, og at finansieringsbidraget fra Statens pensjonsfond til offentlige
-budsjetter etter hvert avtar sett i forhold til en voksende økonomi. Finansieringsbehovet øker til
-4 pst. av BNP for Fastlands-Norge i 2060. I 2015
-tilsvarte 4 pst. av BNP for Fastlands-Norge 104
-mrd. kroner.
-Analysene viser hvordan endrede forutsetninger for innvandring vil påvirke økonomien og
-statsfinansene. Størrelsen på norsk økonomi vil
-naturlig nok avhenge av folketallet. En endring i
-folketallet vil innebære en endring i sammensetningen av arbeidstilbydere og konsumenter, skattebetalere og mottakere av offentlig velferd. For å
-isolere de effektene migrasjon har på offentlige finanser, studeres et alternativ der det verken skjer
-inn- eller utvandring fra og med 2016. I dette hypotetiske alternativet vil befolkningen telle 5,2 mill. i
-2060, om lag 2 mill. færre enn i hovedalternativet.
-Det udekkede finansieringsbehovet blir i 2060
-1,6 pst. av fastlands-BNP, sammenliknet med 4 pst.
-i hovedalternativet. Hovedårsaken til denne styrkingen av offentlige finanser er at avkastningen av
-oljeformuen deles på færre.
-SSBs alternativ med høy innvandring gir en
-befolkning på 8,2 mill. i 2060, som er 1 mill. mer
-enn i hovedalternativet. Innvandring fra landgruppe 3 bidrar klart mest til befolkningsveksten.
-Høyere innvandring betyr at oljeformuen må deles på flere personer. Høy innvandring fra landgruppe 3 øker befolkningsandelen i yrkesaktiv alder. Denne effekten motvirker i stor grad effekten
-av lavere aldersspesifikk sysselsettingsgrad. Det
-udekkede finansieringsbehovet for offentlige utgifter i alternativet med høy innvandring anslås til
-5,1 pst. av fastlands-BNP. Sett i forhold til de store
-utslagene endrede forutsetninger om innvandring
-har for befolkningsantallet, framstår utslagene på
-finansieringsbehovet for offentlige finanser som
-forholdsvis beskjedne.
-
-8.6.4
-
-Nærmere om innvandringens
-konsekvenser for offentlige finanser
-Dette kapitlet ser mer detaljert på hvordan isolerte endringer i innvandringen fra ulike landgrupper kan påvirke offentlige finanser, gitt de
-forutsetningene som beskrives i kapittel 8.6.1.
-Mens de makroøkonomiske framskrivingene i kapittel 8.6.3 ivaretar virkningene av etterkommere,
-vil et såkalt livsløpsperspektiv belyse hvordan én
-innvandrer, under gitte forutsetninger om inntekt,
+Tallene i tabell 9.1 viser at andelen uten kjent religiøs tilhørighet øker, samtidig som (ikke-religiøse) livssynssamfunn har kommet inn som en egen kategori. Dette illustrerer det som kalles sekulariseringsprosessen i det norske samfunnet. I den relativt nye boka om religion i det norske samfunnet som denne tabellen bygger på, presenteres flere tall som dokumenterer at tradisjonell religion har fått en mindre framtredende plass i befolkningens liv i Norge.[^375] Andelen som sier at de ikke tror på Gud i det hele tatt, økte fra 10 til 18 pst. mellom 1991 og 2008, mens andelen som beskrev seg selv som sterkt troende falt fra 15 til 10 pst. i samme periode. Andelen som aldri går i gudstjeneste, økte fra 35 til 43 pst., og andelen som oppgir at de aldri ber, økte fra 38 til 45 pst. Samtidig finnes det studier som tyder på at yngre generasjoner i økende grad trekkes mot individualiserte og subjektive tilnærminger til tros- og livssynsspørsmål. De religiøse dogmene blir mindre viktige, og det legges større vekt på «feelgood»-opplevelser og en mykere form for religion. Dette skjer også innenfor kirken. Forskerne forklarer disse trendene med økt utdanning og sysselsetting, særlig blant kvinner, og endrede familiemønstre, der det heterofile ekteskapet har mistet sin enerådende status. Andre forskere har pekt på modernisering som en sentral drivkraft, samt statens evne til å etablere og håndheve felles spilleregler. En generell følelse av trygghet, der man opplever at tilværelsen er noenlunde forutsigbar, og at man er beskyttet mot naturkatastrofer, sult, krig og kriminalitet, kan minske behovet for overnaturlige forklaringer.[^376]
+
+I tråd med disse observasjonene kan man tenke seg to former for sekularisering: at religion blir mindre viktig generelt, og at religionen endrer karakter og blir mer privatisert, mer et personlig moralsk kompass[^377] enn et sett av regler for samfunnsliv.
+
+Hvordan spiller dette seg ut for innvandrere som ofte har religiøsitet med seg i bagasjen? Stiller man spørsmålet i holdningsundersøkelser, er det lite som tyder på at religionen blir mindre viktig for innvandrere. Spørsmålet «hvor viktig vil du si at religion er i livet ditt?» ble stilt i levekårsundersøkelsen blant innvandrere 2005–2006. Her framsto innvandrerne som svært religiøse, og dette varte selv etter mange års botid i Norge. De som var født i Norge av innvandrede foreldre, oppga at religion var like viktig som det var for dem som selv hadde innvandret.[^378] Innvandrere fra Pakistan og Somalia framsto som mest religiøse, med en skår på hhv. 9 og 9,8 på skalaen som gikk fra 1 til 10. En studie som omfatter fire EU-land, viser at barn av kristne innvandrere over tid blir mer sekulære, mens graden av religiøsitet er stabil, og i noen grad økende, blant barn av muslimer. Dette kan tolkes som støtte til hypotesen om muslimsk eksepsjonalisme, altså en hypotese om at det er trekk ved islam som gjør muslimer nærmest immune ovenfor de sekulariseringsprosessene som har preget Europa.[^379] En studie fra Fafo bekrefter delvis, men ikke helt, disse funnene.[^380] Unge med innvandrerbakgrunn, og særlig de som er født i Norge, oppgir at religion er litt mindre viktig for dem enn de tror det er for foreldrene. Muslimer skiller seg likevel klart ut: På en skala fra 0 til 3 skårer unge innvandrede muslimer nesten 2,5, mens muslimer født i Norge skårer marginalt lavere. Dette er langt høyere enn for noen annen gruppe. Studien gir altså svak støtte til hypotesen om sekularisering, og en viss støtte til hypotesen om at muslimer faktisk er mer «immune» enn andre.
+
+Den andre formen for sekularisering, altså en «privatisering» av religionen, er mindre studert blant innvandrere i Europa. Fafo-studien «Assimilering på norsk» er den eneste studien så langt som tematiserer dette. I denne studien bes respondentene, som er elever i videregående opplæring (Vg1) i Oslo og Akershus, om å ta stilling til følgende spørsmål: Hvilket av disse utsagnene er du mest enig i: «det viktigste med religion er å være god mot andre» eller «det viktigste med religion er å følge regler og seremonier»? Spørsmålet stilles også i World Value Survey (WVS), slik at det er mulig å sammenlikne de norske ungdommenes svar med svarene til respondenter i opprinnelseslandet. Blant de videregående elevene i Norge svarer et klart flertall at de er mest enige i påstanden «det viktigste med religion er å være god mot andre». Dette gjelder også elever med bakgrunn i land med muslimsk majoritet, som Marokko, Irak, Tyrkia og Pakistan. Om lag 70 pst. av elevene med bakgrunn fra Marokko og Pakistan gir dette svaret, det samme gjør mer enn 80 pst. av elevene fra Irak. Dette står i sterk kontrast til svarene i disse elevenes opprinnelsesland: i WVS i Marokko og Pakistan sier 70 pst. av respondentene at det viktigste er å følge lover og regler.
+
+Funnene i denne studien tyder på at det i liten grad skjer en sekularisering av unge med innvandrerbakgrunn i den forstand at religion blir mindre viktig i livet deres. Men disse ungdommene gjennomgår det som kan forstås som en praktisk tilnærming til det sekulære samfunnet, der religion i større grad forstås som en privatsak og et spørsmål om personlig moral, og i mindre grad som et sett med ytre regler for sosialt liv.
+
+Også på områder som gjelder religiøs toleranse, tyder funnene i Fafo-studien på at det skjer en bevegelse blant ungdom i Norge. Blant annet svarer mer enn 50 pst. av muslimske ungdommer som har innvandret til Norge, at deres religion er den eneste akseptable, og mer enn 40 pst. av unge muslimer født i Norge sier det samme. Dette er klart høyere tall enn for noen annen religiøs gruppe i Norge, men likevel lavt sammenliknet med andelen som gir dette svaret i noen av ungdommenes opprinnelsesland: mer enn 90 pst. i Pakistan og Marokko, mer enn 80 pst. i Irak og Tyrkia. Som forfatteren påpeker, er det også uklart hva som menes med «eneste akseptable»: den eneste religionen som vil føre inn i det hinsidige Paradiset, eller den eneste som bør tolereres i samfunnet? Aksepten for ekteskap på tvers av religiøse skillelinjer ser også ut til å øke: nesten halvparten av de unge muslimene mener at det er «OK i alle tilfeller» å gifte seg med noen som tilhører en annen religion, men bare litt over 20 pst. av dem tror foreldrene er like liberale.
+
+1.  **Religionsfrihet og integrering**
+
+Sentrale integreringsforskere har hevdet at motsetningen mellom islam og sekularisme er den største barrieren mot integrering mellom majoritetsbefolkningen og nykommere i Europa.[^381] Det pågår imidlertid store diskusjoner blant muslimer, som blant kristne og tilhengere av andre store religioner, om hvordan religiøse forbud og påbud skal tolkes og praktiseres i moderne samfunn. Enkeltpersoner og grupper tilpasser seg også på svært ulike måter. I norsk sammenheng tyder mye på at religiøst mangfold i seg selv ikke utgjør et problem for opplevelsen av tillit og samhørighet, men at prosesser og praksiser knyttet til konkrete religiøse grupper kan være utfordrende.
+
+Forholdet mellom religionsfrihet og de øvrige menneskerettighetene er et sammensatt og vanskelig tema, der kjønnslikestilling ofte får særskilt oppmerksomhet. På den ene siden forplikter kvinnekonvensjonen (FNs konvensjon om å avskaffe alle former for diskriminering av kvinner) statene til å innlemme prinsippet om likestilling mellom kvinner og menn gjennom forfatningsregler eller annen lovgivning, og til å forby all diskriminering av kvinner. Konvensjonen fastslår at kvinner skal ha samme rettslige handleevne som menn, samme rett til å inngå avtaler og forvalte eiendom, behandles likt med menn i rettssystemet og ha samme rettigheter og plikter som foreldre. På den andre siden er retten til å praktisere sin religion en grunnleggende menneskerettighet, og mange tolkninger av de store religionene foreskriver kjønnsroller i strid med prinsippene om like rettigheter. Dette er en sentral rettighetskonflikt også i dagens Norge. Det finnes ingen enkle svar, og heller ingen etablert konsensus.[^382] Samtidig er det klart at ikke alle problemstillinger knyttet til kjønnslikestilling i minoritetsmiljøer springer ut av religion, men av medbrakt kultur i videre forstand og møtet mellom denne kulturen og norske institusjoner. Dette diskuteres videre nedenfor.
+
+Alle registrerte trossamfunn i Norge kan søke om offentlig pengestøtte. De aktuelle støtteordningene er motiverte av plikten til å tilrettelegge for religionsfrihet, og kommer i liten grad med tydelige føringer for mottakerne. I den senere tid har det oppstått en diskusjon om legitimiteten til disse støtteordningene, særlig i den grad de går til religiøse samfunn med en lære og/eller praksis som man mener er i strid med sentrale sekulære verdier (kjønnslikestilling, ikke-diskriminering av homofile, barns rettigheter). Flere har tatt til orde for å frata trossamfunn offentlig støtte hvis de tillater oppfordring til hat og vold, bryter lover som skal beskytte barns rettigheter, eller bryter diskrimineringslovgivning utover unntaksreglene som gjelder for trossamfunn. Det har også vært diskutert om det bør stilles krav til norskkunnskaper for å få arbeidstillatelse i et trossamfunn med offentlig støtte. Dette er viktige problemstillinger, men utvalget har ikke hatt anledning til å gå inn i en grundig drøfting av grenseoppgangene mellom trosfrihet, diskriminerende praksis i trossamfunn og offentlige støtteordninger. Utvalget viser til at det pågår et arbeid med en ny lov om tros- og livssynssamfunn, som blant annet vil dekke vilkår for registrering og tilskudd. Lovforslaget skal etter planen sendes på høring i 2017. Vilkår for støtte til trossamfunn drøftes også inngående i NOU 2013: 1 *Det livssynsåpne samfunn*. Under det eksisterende lovverket finnes et sett av unntaksbestemmelser, slik at trossamfunn – ut fra hensynet til religionsfriheten – kan praktisere prinsipper i strid med det øvrige lovverket (som regel knyttet til diskriminering av kvinner og seksuelle minoriteter). Utvalget vil anmode myndighetene om å følge misbruk av unntaksreglene nøye. Utvalget vil også understreke at trossamfunn bør bidra aktivt til å forebygge radikalisering og ekstreme holdninger bl.a. ved å samarbeide med politiet og andre aktører.
+
+I IMDis integreringsbarometer 2014 er respondentene spurt om hva de synes om at kvinnelige muslimer bruker det heldekkende plagget nikab.[^383] 86 pst. er meget eller ganske negative til dette, og bare 3 pst. er positive. Ikke noe annet spørsmål i integreringsbarometeret får fram så sterke negative holdninger i den norske befolkningen. Nikab og tilsvarende heldekkende plagg er eksempler på religiøse symboler som skaper sterke reaksjoner i offentligheten. I Frankrike er det restriksjoner på bruken av slike klesplagg, og tilsvarende restriksjoner diskuteres i andre land. Frankrike har nedlagt forbud mot religiøse symboler generelt i skolen, noe som også rammer kors, kippa og turban. Bruken av religiøse symboler i offentlige rom er et stridstema i et Europa med en økende andel minoriteter.
+
+Spørsmålet i denne sammenhengen må være om noen religiøse symboler skaper så sterk avstand, og genererer så sterk motstand, at det går ut over opplevelsen av samhørighet og tillit. På den ene siden er pluralistiske samfunn på sitt beste når alle, også minoritetene, har rom til å definere og markere sin egen identitet. Dette gjelder så vel for religiøse og etniske minoriteter som for grupper som er i minoritet på grunn av kjønnsuttrykk, seksuell orientering eller funksjonshemming. Det ligger styrke og fellesskap i det å markere seg som «norsk katolikk» eller «norsk sikh», eller for den saks skyld som «norsk transperson». På den andre siden kan det å signalisere sin religiøse tilhørighet svært sterkt ses på som en form for tilbaketrekking: det blir oppfattet som at man signaliserer at den primære identiteten ikke ligger i det lokale eller nasjonale fellesskapet, men i det religiøse. Diskusjonen kompliseres ytterligere av at det potensielt er store diskrepanser mellom hva den enkelte opplever at de religiøse symbolene signaliserer, og hva omgivelsene oppfatter. Et eksempel er swastikaen (nazistenes «hakekors»), som er et religiøst symbol for hinduer, men gir helt andre assosiasjoner i Europa. Et annet eksempel er den nevnte nikaben/burkaen, som noen muslimske kvinner vil hevde de bruker for å bekrefte sitt personlige forhold til sin gud, mens mange i Europa assosierer slike plagg med systematisk kvinneundertrykkelse, avstandtaken til kulturen i mottakerlandet og i verste fall støtte til islamsk fundamentalisme.
+
+Bruken av kontroversielle religiøse symboler illustrerer en mer generell spenning. På den ene siden vil det være vanskelig for innvandrere å utvikle følelser av tillit og tilhørighet hvis majoritetssamfunnet overstyrer det som oppleves som personlige valg. På den andre siden skaper kontroversielle praksiser og tydelig markering av forskjellighet uro i majoriteten som kan bidra til å undergrave oppslutningen om integreringsprosjektet. Representanter for majoriteten vil spørre, noen ganger med rette, om innvandrerne *ønsker* å bli integrert. En måte å møte disse tvetydighetene på er gjennom samhandling og diskusjon, slik at det kan tydeliggjøres både hva de religiøse symbolene betyr for den enkelte, og hva omgivelsene eventuelt reagerer mot. Personer som bærer religiøse symboler, må høres, men kan likevel ikke forvente å ha full definisjonsmakt over hvordan disse symbolene tolkes. Dette er ikke bare et forhold mellom majoriteten og de ulike minoritetene, men også mellom enkeltpersoner innenfor minoritetene: Mange flyktninger i Europa har kommet nettopp for å unnslippe aggressiv religiøs fundamentalisme og kan oppleve det som provoserende og truende å møte det de opplever som fundamentalistenes symboler på gatene i Europa.
+
+1.  **Grenser for toleranse**
+
+Religionsfrihet er sentralt i liberale samfunn. Likevel er det, som diskusjonen ovenfor viser, grenser for hva som kan og bør aksepteres i religionens navn. Tilsvarende refleksjoner kan knyttes til praksiser som ikke nødvendigvis er eksplisitt religiøst begrunnede, men som kan ha dype kulturelle røtter. I mange tilfeller knytter de prinsipielle refleksjonene seg til hvilke restriksjoner enkeltpersoner, i kulturens, religionens, slektens eller ideologiens navn, kan tillates å påføre andre enkeltpersoner. To særlig utfordrende temaer i denne sammenhengen er kjønnslikestilling og barneoppdragelse.[^384]
+
+1.  **Kjønnslikestilling**
+
+Et grunnleggende spørsmål i debatten om kulturelt mangfold og kjønnslikestilling er om det er legitimt for et liberalt samfunn å tvinge liberale verdier på illiberale grupper. Eller er det legitimt å la det være?[^385] Usikkerheten i møtet med disse temaene forsterkes når kvinner fra det som anses som «illiberale grupper», står fram og forsvarer, eller iallfall nyanserer, praksiser som fra utsiden kan virke undertrykkende. Gode eksempler på dette finnes blant annet i studier av arrangerte ekteskap.[^386] Mange kvinner som kommer til orde i slike studier, gir inntrykk av at de ikke *ønsker* kjønnslikestilling, slik dette defineres og forstås i blant annet norsk likestillingslovgivning. Skal liberale stater akseptere at enkeltpersoner velger å inngå i relasjoner som tilsynelatende krever underkastelse?
+
+Filosofisk kan dette framstå som uløselige knuter. For velferdsstatens lovgivere og førstelinje er det snakk om dilemmaer som må håndteres. Sett fra et velferdsstatlig og integreringspolitisk ståsted er kvinners underordning i familien særlig problematisk hvis den fører til at kvinner nektes – eller nekter – å delta på inkluderende arenaer, herunder arbeidslivet, og som følge av dette blir avhengig av offentlige ytelser. I slike situasjoner omformes de prinsipielle spørsmålene: Borgere i en stat basert på liberale prinsipper kan kreve en høy grad av respekt for sitt privatliv, men borgere i en liberal *velferdsstat* kan neppe forlange at andre samfunnsborgere skal betale for valg de gjør i privatlivet. Hvis kostnadene skal bæres av noen andre, må dette begrunnes i noe annet enn den enkeltes frihet. Kravet om at velferdsytelser skal være sekundære i forhold til lønnsinntekt, og at friske stønadsmottakere i yrkesaktiv alder har plikt til å ta tilgjengelig arbeid, er godt innarbeidede prinsipper i den norske velferdsstaten. En prinsipiell oppfatning om at kvinner ikke skal delta i arbeidsmarkedet eller i kvalifiseringstiltak, kan vanskelig være en tilstrekkelig begrunnelse for unntak fra denne gjennomgående regelen. I denne sammenhengen er det relevant å understreke at kjønnslikestilling ikke bare er en «norsk verdi» man kan adoptere eller avvise – kvinners deltakelse i arbeidslivet er en forutsetning for at den omfattende og tjenesteintensive norske velferdsmodellen skal fungere.[^387]
+
+Gjennom mediene formidles med ujevne mellomrom historier om overgrep, vold og sosial kontroll i lukkede, ofte religiøse miljøer. Et eksempel fra våren 2016 var dokumentasjon av omfattende seksuelle overgrep mot barn og unge i en læstadiansk menighet i en kommune i Nordland.[^388] Det er viktig å understreke at slike handlinger er kriminelle, og at ingen kan påberope seg immunitet gjennom å vise til privatlivets fred eller religiøse bud. Det norske samfunnet har en infrastruktur for å håndtere lovbrudd bak lukkede dører, og også for å ivareta ofre for slike lovbrudd. Sentrale aktører er politiet, barnevernet, krisesentrene og helsevesenet. Det må aldri være tvil om at disse aktørene har myndighet, også i situasjoner der lovbrytere hevder å handle i tråd med sin kultur/religion/tradisjon. Samtidig er det viktig at de relevante institusjonene bygger tillit i minoritetsmiljøene. Personer i minoritetene, som ofte har kort botid i Norge, må vite hva de kan forvente av hjelpeapparatet, og hjelpeapparatet må ha tilstrekkelig kulturell kompetanse til å gi et relevant tilbud til volds- og overgrepsofre i minoritetsmiljøer.
+
+Når noen kvinner i minoritetsmiljøer aktivt velger å gå inn i underordnede roller, er det en utfordring for likestillingstankegangen i majoritetsbefolkningen. En del kvinner har en sterk forestilling om at deres gud pålegger dem å underordne seg foreldrene eller ektemannen, eller å være en del av menigheter som ikke tillater kvinner å ha autoritative roller. På dette området gjelder prinsippet om den enkeltes autonomi. Hvordan samtykkende voksne mennesker organiserer sine nære relasjoner, er opp til dem. Dette gjelder likevel bare innenfor rammene som er skissert ovenfor. Det er ikke tillatt å bruke vold mot familiemedlemmer, uavhengig av om fornærmede gir en form for «samtykke» til underordning. Kvinner som opplever å bli gjenstand for kontroll og maktbruk, skal kunne få hjelp til å håndtere relasjonen – eller til å forlate den.
+
+1.  **Barneoppdragelse**
+
+Det kan være et godt prinsipp at voksne mennesker skal ha frihet til å organisere sitt liv som de ønsker. Derimot kan det oppstå utfordringer hvis det er barn inne i bildet. Hvor langt går foreldres rett til å kreve at barna skal leve i tråd med deres prinsipper, kanskje på måter som ekskluderer barna fra majoritetssamfunnet? FNs erklæring om barns rettigheter (barnekonvensjonen) inneholder en rekke formuleringer om barns rett til ytringsfrihet, deltakelse i organisasjoner og forsamlinger, frihet fra vold og overgrep etc. Samtidig heter det i artikkel 30:
+
+I stater hvor det finnes etniske, religiøse eller språklige minoriteter eller personer som tilhører en urbefolkning, skal et barn som tilhører en slik minoritet eller urbefolkningen, ikke nektes retten til sammen med andre medlemmer av sin gruppe å leve i pakt med sin kultur, bekjenne seg til og utøve sin religion, eller bruke sitt eget språk.
+
+Barnekonvensjonen pålegger altså statene å anerkjenne at det finnes et mangfold av kulturer, og at barn har rett til «å leve i pakt med sin kultur». Spenningsforholdet mellom de ulike delene av konvensjonen åpner for ulike tolkninger. Det er en rekke dilemmaer knyttet til hva staten skal gjøre hvis en minoritets kultur for barneoppdragelse overtrer grensene for det som oppfattes som overgrep i majoritetsbefolkningen. Ulike kulturer har ulike normer for bruk av vold i barneoppdragelse, og også for når barnet er modent til å ha seksuelle relasjoner og inngå ekteskap. Grensene mellom «barns frihet» og «omsorgssvikt» kan også være flytende.
+
+En utfordring i denne sammenhengen er at tilliten til institusjonene kan være liten i minoritetsmiljøene. Det å oppdra barn i et nytt land og en ukjent kultur er krevende, og foreldre kan ofte være usikre på hva som skjer f.eks. på skolen og i barnehagen. Dette kan blant annet knytte seg til forventningene om at barn skal leke ute om vinteren, eller frykt for at barna skal få servert mat som er forbudt i foreldrenes religion.[^389] Forholdet til barnevernet kan være særlig problematisk, siden barnevernet har mulighet til å bruke tvangsmidler og i verste fall kan ta barnet ut av familien.
+
+Norsk lov setter en del grenser for *akseptabel oppdragerpraksis*, og heller ikke i barneoppdragelsen står kulturelle normer eller religiøse påbud i minoritetsmiljøer over norske lover. Det er ikke lov å slå barn, og det er forbudt å ha seksuell omgang med barn under 16 år. Igjen oppstår de vanskelige spørsmålene når praksisen det gjelder, ikke rammes direkte av loven, men likevel oppfattes som uheldig. Et eksempel som med ujevne mellomrom lanseres i den offentlige debatten i Norge, er omskjæring av guttebarn. Praksisen kan sjelden gis en medisinsk begrunnelse, og mange hevder at det er uetisk – og dessuten sløsing med offentlige ressurser – å operere friske organer. På den andre siden hevdes det at praksisen heller ikke er skadelig i medisinsk forstand, og at omskjæring er et helt sentralt ritual for jødiske og muslimske menn. Skal da liberale samfunn tillate foreldre å utsette sønnene sine for medisinsk unødvendige operasjoner? I dette konkrete tilfellet har lovgivere i Norge kommet fram til at foreldres rett til å treffe beslutninger på barnas vegne gis prioritet, og at det ikke er tungtveiende nok grunner til å forby omskjæring av gutter og menn.
+
+Tilsvarende refleksjoner kan knyttes til *skolen* som integreringsarena. De aller fleste barn i Norge går i offentlige skoler. Dette er et godt utgangspunkt, men skolens rolle som integreringsarena utfordres i noen grad av elever og foreldre som går langt i å kreve spesielle tilpasninger, eventuelt fritak fra undervisning. Det finnes lite forskning om hvordan dette påvirker skolehverdagen, men det finnes en rekke eksempler som har vært omtalt i mediene: skolejenter med hijab, krav om fritak fra gymnastikk- og svømmeundervisning, krav om bønnerom på skolen etc. Disse utfordringene håndteres som regel pragmatisk på den enkelte skolen og fører sjelden til offentlig debatt. Noen lærere kan likevel savne klarere retningslinjer for hva som er akseptable tilpasninger, og under hvilke betingelser de kan si nei til foreldres krav om fritak/tilrettelegging. Det prinsipielle spørsmålet her må være hvor langt foreldre kan gå i å begrense mindreårige barns kontakt med det samfunnet de tross alt vil at barna skal være en del av i framtiden. Igjen vil det være snakk om grader av tilpasning, ikke om absolutter. I den grad ansatte i barnehage, skole, barnevern, politi, helsevesen og NAV – de som har mest direkte kontakt med brukerne og må håndtere slike beslutninger løpende – føler at de står alene i disse vurderingene, er det likevel problematisk. Det er også et problem hvis de foreldrene som vil ha flest særtilpasninger, gis en form for definisjonsmakt i slike sammenhenger. Utvalget mener at det er behov for felles standarder på en del områder, og at et felles regelverk bør gå noe lenger enn i dag i å regulere i hvor stor grad foreldre har rett til å nekte barna sine deltakelse på fellesarenaer i kulturens eller religionens navn.
+
+1.  **Radikalisering og terror**
+
+Utvalget er bedt om å drøfte hva som kan bidra til å «redusere faren for polarisering og konflikt og styrke fellesskaps- og trygghetsfølelsen i befolkningen». Polarisering og konflikt har mange avskygninger, hvorav radikalisering og voldelig ekstremisme er ytterpunkter på en skala. På regjeringens nettsider om forebyggende arbeid defineres voldelig ekstremisme som at personer er villige til å bruke vold for å nå sine politiske mål, mens radikalisering forstås som prosessen der en person i økende grad aksepterer bruk av vold for å nå sine politiske mål.[^390]
+
+Radikalisering er med andre ord en prosess som kan føre til at en person blir en voldelig ekstremist. Typisk for denne prosessen vil være at personer i faresonen utvikler et ensidig verdensbilde der det ikke er rom for alternative perspektiver. De opplever at drastiske handlinger (som støtte eller oppfordring til vold) er nødvendig, og utvikler en forståelse der hensikten helliger midlene. Ikke alle som har vært igjennom deler av denne prosessen, ender med å bruke vold for å fremme sine mål. Radikaliseringsprosessen har ideologiske (politiske/religiøse) elementer, men også psykologiske.
+
+Utvalget har ikke anledning til å gå dypere inn i denne problematikken, men vil likevel påpeke at det å utvikle og opprettholde gode og inkluderende fellesarenaer (skoler, arbeidsplasser, nabolag) kan være et virkemiddel for å hindre radikalisering. Det fordrer imidlertid at fellesarenaene faktisk er inkluderende. Her har politiske og religiøse ledere også et ansvar for ikke å bygge opp «oss mot dem»-holdninger.
+
+Utvalget fikk en orientering fra Politiets sikkerhetstjeneste (PST) om radikalisering og ekstremisme i et utvalgsmøte i august 2016. Lederen for PST formidlet blant annet følgende:
+
+Jo større innvandringen er over et gitt tidsrom, desto tydeligere vil vi se effekten \[flere ekstremister blant innvandrere og vekst i høyreekstreme miljøer\]. Dette gjelder hvis vi holder alle andre faktorer «konstante», det vil si ikke «korrigerer» for ulike former for integreringstiltak og forebygging. Ved å sørge for språkopplæring, jobbmuligheter, nødvendig psykisk helsevern etc. vil man redusere sannsynligheten for at både første- og andregenerasjons innvandrere blir ekstremister. Å redusere sannsynligheten er likevel ikke det samme som å eliminere den.
+
+\[…\]
+
+Også uten terroraksjoner kan følelsen av fellesskap og trygghet bli redusert. Det kan skje hvis det gjennom innvandring utvikles segregering og konfliktlinjer mellom folkegrupper. Manglende integrering, vedvarende sosioøkonomisk underutvikling, fattigdom og religiøse og kulturelle parallellsamfunn kan gi grobunn for mistro og fiendebilder. Borgerne må føle fellesskapet som naturlig og ønskelig. Da må mange av de sentrale verdiene faktisk være felles. Språk, historie og kultur er viktige fellesnevnere, men også ønsket om å leve i et demokratisk og liberalt samfunn. Hvis motstanden mot et fellesskap blir stor, vil grunnlaget smuldre bort og kunne resultere i flere og mindre sub-fellesskaper. Slike utviklingstrekk har man sett i flere europeiske land, og denne type prosesser er svært vanskelige å snu. Å hindre utvikling av segregerte og «parallelle» samfunn er ikke en oppgave for en sikkerhetstjeneste, men nettopp under slike forhold kan radikalisering og ekstremisme få grobunn.
+
+Utvalget forstår lederen for PST slik at det å skape og bevare et nasjonalt fellesskap, basert på et felles ønske om å leve i et demokratisk og liberalt samfunn, er sentralt også i arbeidet for å forebygge radikalisering.[^391] Å motvirke utviklingen av parallellsamfunn er essensielt for å bevare dette fellesskapet og for å hindre at det skapes «lommer» der politiet ikke har tilgang og ekstreme grupper kan få innflytelse. Med andre ord er bevaring av fellesskapet, insisteringen på liberale verdier og motarbeidelse av parallellsamfunn ikke bare viktige mål i seg selv, men også sentrale virkemidler for å motarbeide terror og ekstremisme på norsk territorium. Dette fordrer at tendenser til selvsegregering blant innvandrere motarbeides, og også at majoritetssamfunnet reelt åpner seg for nykommere og minoriteter.
+
+Lederen for PST sa videre:
+
+Høyreekstreme grupper bruker muslimsk innvandring og særlig kriminelle innvandrere som bevis på at det norske samfunnet er under angrep, og at norske myndigheter svikter befolkningen. \[…\] Dette er en kamp som bare kan vinnes ved bruk av vold. Både innvandrere og myndighetene er legitime mål.
+
+Økende aktivitet i høyreekstreme miljøer framheves også som en sentral bekymring i PSTs trusselvurdering for 2016, og trusselen fra disse miljøene ble vurdert som større enn tidligere.[^392] Dette skyldtes blant annet den økte flyktningtilstrømmingen i 2015, som ble antatt å mobilisere flere til høyreradikale miljøer. PST vurderte i 2016 likevel terrortrusselen fra disse miljøene som begrenset, fordi miljøet var svakt organisert og preget av indre konflikt. Terskelen for å gjennomføre angrep som medførte tap av liv, ble antatt å være høy. Høyreekstreme ble imidlertid mistenkt for å ha gjennomført aksjoner som ildspåsettelser på asylmottak og andre former for sabotasje, og enkeltpersoner med høyreekstreme synspunkter ble antatt å kunne gjennomføre rene terroraksjoner.
+
+1.  **Holdninger til innvandring og velferdsordninger**
+
+Velferds- og migrasjonsutvalget diskuterte hvordan befolkningens oppslutning om den omfordelende velferdsstaten ble påvirket av innvandring. Hovedkonklusjonen var da at det ikke later til å være noen sterk effekt av innvandring på befolkningens ønske om en omfattende velferdsstat.[^393] En rekke europeiske holdningsundersøkelser viser at oppslutningen om velferdsstaten er stabil, uavhengig av hvor mange utenlandsfødte eller personer med innvandrerbakgrunn som bor i landet. Ulike studier antyder ulike forklaringer på dette. For det første er velferdsstatlige institusjoner robuste når de først er bygget opp. Befolkningen i et land tilpasser seg de institusjonene som finnes, og institusjoner tilpasses til hverandre. Har man først slått inn på et gitt spor, er det vanskelig å skifte kurs[^394] – det skal mye til for at støtten til disse institusjonene forvitrer. For det andre kan innvandring skape en følelse av utrygghet og føre til at flere frykter å miste levebrødet som følge av økt konkurranse om jobbene. Dette kan lede til sterkere oppslutning om velferdsordningene snarere enn svakere.[^395]
+
+Siden 2011 har det imidlertid blitt tydelig i den velferdspolitiske debatten at det å slutte opp om velferdsordninger generelt, og det å ønske nykommere (flyktninger og andre) velkommen inn i disse ordningene, er to ulike ting. Den norske politikken på feltet har også dreid i retning av å begrense tilgangen til velferdsytelser for nykommere (se boks 10.4).
+
+I dette kapitlet gjennomgås en rekke holdningsundersøkelser om innvandring og velferdsrettigheter. Undersøkelsene er gjennomført på ulike måter, med ulike prosedyrer for valg av respondenter, spørsmålsstilling etc. Undersøkelsene har dermed ulike sterke og svake sider. En generell usikkerhet ved holdningsundersøkelser er at det er vanskelig å fastslå hvor representative utvalgene er. Svarprosenten kan være lav selv om utvalgene er store. Dette gjelder særlig blant innvandrere, der det generelt er en risiko for at de som svarer, er systematisk forskjellige fra de som ikke svarer. Videre vil svar på en del spørsmål være følsomme for ulikheter i spørsmålsformuleringene, slik at man kan komme i tvil om hva som egentlig måles. Gjennomgangen nedenfor går i liten grad inn på det metodiske opplegget til de ulike undersøkelsene, men søker i den grad det er mulig, å få fram et helhetsbilde på tvers av ulike undersøkelser med ulike empiriske opplegg.
+
+1.  **Holdninger til å begrense rettigheter for nykommere**
+
+Nyere studier av befolkningens holdninger til innvandring og velferd tyder på at det er relativt få som vil ekskludere alle nykommere permanent, men svært mange som vil gjøre tilgangen til ordningene betinget. Ser man på resultatene fra den store holdningsundersøkelsen European Social Survey (ESS) for 24 europeiske land under ett, sier f.eks. 16 pst. at de vil gi innvandrere ubetinget adgang til velferdsordninger med en gang eller etter et års opphold, uavhengig av om de har vært i jobb i denne perioden. 41 pst. vil gjøre tilgangen avhengig av at innvandrerne har vært i jobb og betalt skatt i minst ett år, 35 pst. etter at de har blitt statsborgere i landet. Bare 7 pst. sier at innvandrere aldri bør få tilgang.[^396] Ønsket om å begrense eller betinge innvandreres stønadsadgang omtales i en ny norsk artikkel som *velferdsnasjonalisme*.[^397] Dette begrepet brukes videre i dette kapitlet, selv om det anerkjennes at ønsket om å begrense nykommeres adgang til velferdsytelser kan begrunnes i andre hensyn enn de som vanligvis assosieres med «nasjonalisme». Tendenser til velferdsnasjonalisme er dokumentert i en rekke studier, både nasjonale og internasjonale. Et norsk eksempel er valgundersøkelsen 2013, der respondentene ble bedt om å ta stilling til påstanden «flyktninger og innvandrere bør ha samme rett til sosialhjelp som nordmenn, selv om de ikke er norske statsborgere». 24 pst. sa seg «helt uenig» i dette, mens 28 pst. var «nokså uenig».[^398] 52 pst. mente altså at flyktninger og innvandrere ikke bør ha samme rett til sosialhjelp som nordmenn. Den tilsvarende andelen i 2005 var 39 pst., så oppslutningen om dette prinsippet har klart økt.
+
+Over tid har forskningens oppmerksomhet dreid seg fra å *kartlegge* fenomenet til å undersøke *hva slags fenomen* velferdsnasjonalisme er. I hvilke situasjoner øker oppslutningen om velferdsnasjonalisme, hvem er det særlig som har slike holdninger, og er det særlige egenskaper ved innvandrerne som utløser det?
+
+Velferdsnasjonalisme kan måles direkte eller indirekte. Det målet som brukes i ESS, der man spør direkte om og ev. når nykommere i landet bør gis tilgang, er av den direkte typen. Indirekte mål tar utgangspunkt i forholdet mellom oppslutningen om velferdsordninger som er generelle og går til alle, og oppslutning om ordninger som krever opptjening (og dermed ekskluderer nykommere i utgangspunktet).[^399] Hvis oppslutningen om opptjeningsbaserte/statusbevarende ordninger er uendret i en situasjon med høy innvandring mens oppslutningen om universelle/omfordelende ordninger synker, kan det tolkes som tegn på at man ikke ønsker å omfordele til innvandrere.
+
+To nyere studier bruker begge indirekte mål, i den forstand at de måler om innvandring til et land påvirker oppslutningen om omfordelende velferdsordninger. Den ene av disse finner at andelen utenlandsfødte i et område har negativ effekt på oppslutningen om påstanden «myndighetene bør sikre en jobb for alle som ønsker en».[^400] Derimot påvirker ikke andelen utenlandsfødte svarene på spørsmål om velferdsytelser som alderspensjon, støtte til arbeidsløse, helsestell etc. Forfatterne bak studien antar at velferdsnasjonalistiske holdninger oppstår når et gode oppfattes som begrenset, slik at økt tilgang for innvandrere betyr at innenlandsfødte får mindre, og når det oppfattes som en trussel, det vil si at innvandrere gjennom å få tilgang til dette godet settes bedre i stand til å konkurrere med majoriteten. Den andre studien bruker andre data og andre mål på oppslutning.[^401] Hovedfunnet i denne studien er at andelen utenlandsfødte i et område har liten betydning for oppslutningen om universelle og omfordelende ordninger, men at *økningen* i innvandring svekker oppslutningen. Denne sammenhengen gjelder likevel bare i land som hadde stor økonomisk ulikhet i utgangspunktet. Konklusjonen er dermed at velferdsnasjonalismen aktiveres når det kommer mange innvandrere til land med stor ulikhet, der personer i bunnen av hierarkiet allerede er marginalisert. Studien har ikke data som viser hvem som i slike situasjoner framstår som mest velferdsnasjonalistiske – de rike (som kan frykte at de må betale mer) eller de fattige (som kan frykte økt konkurranse om knappe goder).
+
+Spørsmålet om hvem som lar seg påvirke av høy innvandrerandel og/eller stor tilstrømming til et område, er imidlertid tema i flere andre studier. En norsk studie fra 2016 undersøker f.eks. hvordan skepsis til innvandrere varierer med nivået på arbeidsløsheten i et land.[^402] Forskerne finner at høy innvandring til land med høy arbeidsledighet skaper bekymring, særlig hvis det er mange innvandrere i landet fra før, og at bekymringen er særlig sterk blant dem med lave formelle kvalifikasjoner. En annen studie finner et samspill mellom holdninger og egeninteresse.[^403] De som mener at velferdsgoder bør fordeles etter behov-prinsippet (i stedet for universalisme eller fortjeneste), er oftere enn andre villige til å ekskludere innvandrere, og særlig hvis de selv har lav inntekt og innvandrerbefolkningen i landet er stor. En annen studie viser også at oppslutningen om omfordelende velferdsordninger er lavere i områder med mange innvandrere, men at denne effekten er vesentlig sterkere når innvandrerne har høyere arbeidsledighet og er mer avhengige av sosiale overføringer enn personer i majoritetsbefolkningen.[^404] Det ser ut til at de som i utgangspunktet er mest sårbare, er de som er mest skeptiske til å gi innvandrere tilgang til begrensede fellesgoder, og særlig når de erfarer at innvandrere i stor grad etterspør disse godene.
+
+I den norske debatten har eksport av stønad – altså det at innvandrerne tar med seg stønaden ut av Norge og bruker pengene i opprinnelseslandet – vært et vel så stort tema som innvandreres tilgang i seg selv. Dermed kan man spørre om hva som utløser velferdsnasjonalistiske responser: innvandreres tilgang eller muligheten til eksport? En ny norsk studie søkte å skille disse to dimensjonene gjennom et surveyeksperiment om holdninger til økning av barnetrygden.[^405] Respondentene ble spurt om de syntes barnetrygden burde økes. De som sa ja, ble så minnet på at \[gruppe X\] også mottok barnetrygd, og spurt om de fortsatt var for en økning i lys av dette. Tilsvarende fikk de som sa nei, spørsmål om de ville endre syn hvis \[gruppe X\] ikke fikk tilgang. Respondentgruppen var på forhånd delt i to: for halvparten var gruppe X «nyankomne innvandrere», for den andre halvparten var gruppe X «arbeidsinnvandrere fra EU-land». De sistnevnte fikk også informasjon om at arbeidsinnvandrere fra EU-land har rett til barnetrygd for barn som ikke bor i Norge. Et betydelig flertall av dem som ble minnet om at nyankomne innvandrere får barnetrygd, opprettholdt sitt opprinnelige standpunkt (85 pst. av dem som var for å øke, 83 pst. av dem som var mot). Bare 56 pst. av dem som opprinnelig var for å øke barnetrygden, opprettholdt imidlertid dette standpunktet da de ble minnet om at ytelsen også utbetales for barn som ikke bor i Norge. 27 pst. av disse sa de var mot å øke barnetrygden i lys av denne opplysningen, mens 17 pst. var usikre. Tilsvarende opprettholdt bare 63 pst. standpunktet om å ikke øke barnetrygden da de fikk anledning til å utelukke barn bosatt utenfor Norge. Når man spør om den veletablerte og beskjedne ytelsen barnetrygd, finner man altså at det er eksporten, og ikke ønsket om å ekskludere nykommere som sådan, som skaper motstand. Noe tilsvarende ble funnet i en svensk studie.[^406]
+
+Alt i alt er det klart fra forskningen på området at velferdsnasjonalisme er et reelt fenomen: Når befolkningen i Europa spørres direkte om når de synes innvandrere bør få tilgang til velferdssystemet, svarer et flertall at dette bør skje enten etter at innvandreren har gitt sitt bidrag, eller etter at han eller hun har demonstrert ønsket om å tilhøre det nasjonale fellesskapet gjennom å skifte statsborgerskap. Det er grunn til å understreke at dette ikke behøver å handle om skepsis til fremmede, men snarere gjenspeiler det etablerte prinsippet om at rettigheter skal opparbeides før man tar dem ut.[^407] Tilsvarende, i situasjoner der det er mange innvandrere og/eller en sterk tilstrømming av innvandrere, svekkes oppslutningen om omfordelende ordninger, men ikke nødvendigvis om opptjente velferdsordninger. Oppslutningen om ordninger med mekanismer for å utestenge personer uten opptjening bevares, mens oppslutningen om ordninger for alle svekkes. Den begrensede kunnskapen som finnes om dette, antyder at det særlig er de med lave kvalifikasjoner, som føler konkurransen fra innvandrerne sterkest, som trekker støtten tilbake. Studiene som foreligger, tyder på at det skjer et samspill mellom hvor mange innvandrere som bor i et område fra før, og hvor mange som kommer til. Kombinasjonen av mange bosatte og stor tilstrømming skaper særlig bekymring. Videre spiller institusjonelle ordninger og graden av økonomisk ulikhet en rolle: Bekymringen for innvandringen, og ønsket om å holde dem utenfor velferdsordningene, later til å være størst i land med stor økonomisk ulikhet, og blir mindre i samfunn der innvandrere er integrert i arbeidslivet.[^408] Konkret kan dette bety at kombinasjonen av mange innvandrere og stor tilstrømming blir vesentlig vanskelig å håndtere hvis de økonomiske ulikhetene også øker, og særlig hvis innvandrere er overrepresentert blant dem med vedvarende lavinntekt.
+
+1.  **Innvandreres holdninger til velferd**
+
+Det finnes svært få studier som går nærmere inn på innvandreres holdninger til velferd og omfordeling. Analyser av valgundersøkelsen 2013 viste at innvandrere i langt større grad enn befolkningen som helhet stemte på partier på venstresiden. Blant innvandrerne som hadde stemmerett ved stortingsvalget, stemte 55 pst. på Arbeiderpartiet, 6 pst. på Sosialistisk Venstreparti og 3 pst. på Rødt. I befolkningen som helhet stemte 36 pst. til sammen på disse tre partiene. Bare 3 pst. av innvandrerne stemte på Fremskrittspartiet, mot 16 pst. i befolkningen.[^409] Undersøkelsen tyder likevel på en viss «høyrebølge» blant innvandrere, siden oppslutningen om partiet Høyre økte fra 13 pst. ved kommunevalget i 2011 til 26 pst. i stortingsvalget 2013. Disse tallene er ikke helt sammenliknbare, siden bare norske statsborgere har stemmerett ved stortingsvalg, mens alle bosatte med mer enn tre års botid kan stemme ved lokalvalg.
+
+Disse tallene innebærer likevel ikke at innvandrere i overveiende grad uttrykker «venstresympatier» på sentrale verdidimensjoner. Dette illustreres av tallene i tabell 9.2 som viser holdninger til ulike politiske stridsspørsmål for alle velgere under ett, og for velgere med innvandrerbakgrunn (inkludert norskfødte med innvandrerforeldre) etter landbakgrunn.
+
+1.  Holdninger til ulike politiske stridsspørsmål, alle og personer med innvandrerbakgrunn etter landbakgrunn. Innvandrere og norskfødte med innvandrerbakgrunn. Andel «helt enige»
+
+|  |  |  |  |  |  |  |
+|----|----|----|----|----|----|----|
+|  |  | Innvandrere og norskfødte med innvandrer foreldre fra |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  | Alle velgere | EU/EØS | Europa utenom EØS | Afrika | Asia | Latin-Amerika |
+|  |  |  |  |  |  |  |
+| For å oppmuntre innsatsviljen til den enkelte bør vi godta større lønnsforskjeller enn i dag | 38 | 35 | 39 | 47 | 47 | 45 |
+|  |  |  |  |  |  |  |
+| Mange offentlige aktiviteter kunne blitt utført både bedre og billigere hvis de ble overlatt til private | 56 | 40 | 29 | 33 | 37 | 39 |
+| Flyktninger og innvandrere bør ha samme rett til sosialhjelp som nordmenn, selv om de ikke er norske statsborgere | 40 | 45 | 48 | 78 | 63 | 49 |
+|  |  |  |  |  |  |  |
+| *Antall respondenter* | *1700* | *182* | *107* | *96* | *233* | *68* |
+|  |  |  |  |  |  |  |
+
+Bergh, J., Bjørklund, T. og Aalandslid, V. (2014). Ibid., Kleven, Ø., Aardal, B., Bergh, J, Hesstvedt, S. & Hindenes, Å. (2015). Valgundersøkelsen 2013. Dokumentasjons- og tabellrapport. Notater 2015/29, Statistisk sentralbyrå.
+
+Tabellen viser først og fremst at det er stor variasjon blant innvandrere, og at de innbyrdes forskjellene gjerne er større enn forskjellene mellom befolkningen som helhet og ulike innvandrergrupper. Innvandrere fra Asia og Afrika skiller seg klart ut med sin tilslutning til prinsippet om at innvandrere bør ha samme rett til sosialhjelp som nordmenn, men er også mer tilbøyelige enn andre til å åpne opp for større lønnsforskjeller. Forskerne tolker disse mønstrene slik at innvandrere ikke nødvendigvis er utpreget venstreorienterte i politiske holdninger, men at de stemmer til venstre ut fra en kollektiv tanke om at partiene på venstresiden er minoritetenes forsvarere.[^410]
+
+Valgundersøkelsen gjelder bare bosatte i Norge. To studier har sett på innvandrernes svar på fordelingsspørsmål i European Social Survey. ESS er ikke designet som en studie av minoritetsholdninger, men det er tilstrekkelig mange med innvandrerbakgrunn som har svart til at det er mulig å gjøre noen analyser. Man må likevel ta høyde for at ESS kun har fanget opp de best integrerte innvandrerne, blant annet fordi undersøkelsen er gjennomført på det hovedspråket som snakkes i hvert land.[^411] Den første av disse studiene tar utgangspunkt i en hypotese om at innvandrere tar med seg holdninger i verdispørsmål fra landet de reiser fra, og derfor vil likne mer på befolkningen i opprinnelseslandet enn på befolkningen i bosettingslandet på dette området.[^412] For å teste hypotesen ser de på europeiske innvandrere i Europa, og sammenlikner dem med befolkningen både i opprinnelseslandet og i landet de har bosatt seg i. Som utfallsmål bruker de ett enkelt spørsmål som er stilt i tre ESS-runder på rad: «myndighetene bør treffe tiltak som reduserer forskjeller i inntekt», der svarene varierer fra 1 («helt enig») til 5 («helt uenig»). Fordi studien omfatter innvandrere som har flyttet fra ett land der ESS gjennomføres til et annet, har man presise opplysninger om fordelingen på dette spørsmålet både i opprinnelseslandet og i bosettingslandet. Analysen bekrefter hypotesen: personer som emigrerer fra ett europeisk land til et annet, likner mer på befolkningen i opprinnelseslandet enn i bosettingslandet på dette målet. Dette gjelder også innvandrere som har bodd i det nye landet svært lenge (mer enn 20 år), og det gjelder for deres barn. Forskerne bak studien konkluderer med at det er en sterk kulturell komponent i holdninger til omfordeling, slik at denne ikke bare bestemmes av egeninteresse.
+
+Funnene i denne artikkelen imøtegås i en artikkel fra 2015 som presenterer tall om innvandreres syn på hva staten bør gjøre.[^413] Her studeres svar på fem spørsmål: bør myndighetene ta ansvar for (a) jobber til alle som ønsker en, (b) helsestell for syke, (c) en rimelig levestandard for de eldre, (d) en rimelig levestandard for de arbeidsledige, (e) barnetilsyn for yrkesaktive foreldre, (f) betalt permisjon for yrkesaktive med omsorgsforpliktelser. Til sammen utgjør disse spørsmålene dimensjonen «myndighetenes rolle». I analysene finner de at innvandrere og etterkommere av innvandrere er noe mer positive enn majoritetsbefolkningen i de fleste landene til en aktiv rolle for myndighetene på de ulike områdene, men forskjellene er ganske marginale. Etter kontroll for blant annet egen sosioøkonomisk status og oppfatninger om hvor store de sosiale problemene landet står overfor er, forsvinner forskjellene for etterkommerne, mens de reduseres for innvandrerne. Deles innvandrerne etter opprinnelsesregion, finner man ingen tegn på at innvandrere fra fattige regioner tillegger myndighetene en mer aktiv rolle i sosialpolitikken enn andre. Det funnet som er mest slående i denne undersøkelsen, er i hvilken grad innvandrere og etterkommerne deres i disse spørsmålene likner på majoritetsbefolkningen i landet de har bosatt seg. Dette gjelder særlig etterkommerne. Innvandrere som har kommet til land der majoriteten har restriktive holdninger til myndighetenes involvering på ulike områder, framstår som klart mer restriktive enn innvandrere til land der majoritetens ønsker en mer aktiv rolle for myndighetene. På dette området mener derfor forskerne at det er tendenser til en holdningsmessig assimilering.
+
+De to studiene av ESS-data på innvandreres oppslutning ender i helt ulike konklusjoner: Studien fra 2011 mener å påvise at holdninger er stabile, og at innvandrere likner mer på befolkningen i landet de har reist fra, enn i landet de kommer til. Studien fra 2015 finner det motsatte og mener det skjer en assimilering. Forskjellene kan sannsynligvis forklares med forskjeller i utfallsmål (et enkelt spørsmål om omfordeling versus et spørsmålsbatteri om myndighetenes rolle) og forskjeller i målgruppe (europeiske innvandrere versus alle). Innvandreres holdninger er et nytt forskningsfelt der det er begrenset tilgang på gode data, og dermed er det fortsatt ikke grunnlag for å si noe generelt om hvilke prosesser som former holdningene i ulike innvandrergrupper. Hovedinntrykket fra disse studiene er likevel at forskjellene innen innvandrergruppen er store, og at innvandrere som gruppe ikke skiller seg vesentlig fra majoritetsbefolkningen i sentrale velferdspolitiske spørsmål.
+
+1.  **Holdninger til innvandrere og innvandring**
+
+Befolkningens holdninger til innvandrere og innvandring måles mer regelmessig enn innvandreres holdninger til ulike spørsmål. I Norge gjør SSB årlige undersøkelser av dette temaet.[^414] Innvandring er også en av de roterende modulene i European Social Survey,[^415] i tillegg gjøres mer avgrensede studier av temaet. Studiene tyder på at holdningene er relativt stabile over tid, men at de påvirkes av hvor stor tilstrømmingen til landet er på det tidspunktet undersøkelsen gjøres, og også av hvordan problematikken «rammes inn» i den nasjonale politiske diskusjonen i ulike land.[^416]

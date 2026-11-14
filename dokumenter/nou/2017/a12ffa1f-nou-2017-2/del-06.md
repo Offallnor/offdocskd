@@ -1,1371 +1,315 @@
-# NOU 2017: 2, del 6 av 20 (side 69–80)
+# NOU 2017: 2, del 6 av 19
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/a12ffa1f-nou-2017-2.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-2/id2536701/
 - Original-PDF: https://www.regjeringen.no/contentassets/c072f7f37da747539d2a0b0fef22957f/no/pdfs/nou201720170002000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 36 tabeller, 78 figurer, 558 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 69]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-4.3.5 Høyere utdanning
-Figur 4.4 C ovenfor viste at både flyktninger og
-andre innvandrere deltar lite i høyere utdanning i
-Norge. Etterkommere tar derimot ofte høyere utdanning og har høyere deltakelse enn den øvrige
-befolkningen. Dette gjelder i alle aldersgrupper
-og både for kvinner og for menn. Det finnes lite
-komparativ statistikk internasjonalt, men en studie viser at innvandrere oftere deltar i høyre utdanning i Sverige enn i Norge.38 For etterkommere er det omvendt.
-En viktig årsak til at relativt få innvandrere tar
-høyere utdanning, er at de ikke har videregående
-opplæring (VGO) fra Norge.39 En studie av innvandrere som begynte i norsk VGO i 1999 som 16åringer, viser at mange har begynt på høyere utdanning ved 25 års alder.40 Det er en del variasjon
-etter landbakgrunn: Sri Lanka 74 pst., Iran 64, Vietnam/Kina 59, Bosnia-Hercegovina 57, Irak 48
-og Somalia 43 pst.41 Til sammenlikning hadde
-53 pst. av befolkningen uten innvandrerbakgrunn
-fra det samme årskullet begynt på høyere utdanning.
-
-Boks 4.1 Flyktningstipend
-Flyktningstipend fra Lånekassen er rettet mot
-personer som har fått flyktningstatus i Norge
-og tar videregående opplæring eller grunnskoleopplæring her. Ordningen er tidsbegrenset,
-og hvor lenge man har rett på stipendet, er avhengig av på hvor raskt man kommer i gang
-med utdanning etter innvilget opphold. Begynner man på utdanningen innen tre år, kan stipendet gis i inntil tre år, begynner man innen
-fire år, kan det gis i inntil to år, og begynner
-man innen fem år, kan det gis i inntil ett år.
-Flyktningstipend har eksistert som en mulighet for finansiering av livsopphold helt siden
-1983–84, da stipendordningen ble overført til
-Lånekassen fra Sosialdepartementet. Fra og
-med undervisningsåret 2011–2012 har man
-ikke rett på flyktningstipend samtidig som
-man mottar introduksjonsstønad.
-
-Ungdom med innvandrerbakgrunn som har
-tatt VGO i Norge, tar seg i mindre grad et friår
-enn ungdom for øvrig, og går oftere direkte over i
-høyere utdanning etter videregående. Ungdom
-med innvandrerbakgrunn begynner også oftere
-på de mest prestisjefylte studiene med høye opptakskrav. Innvandrerbakgrunn ser ut til å ha lite
-betydning for progresjon, frafall og fullføring i
-høyere utdanning, ifølge en litteraturgjennomgang.42
-For innvandrere uten VGO fra Norge kan
-veien inn i høyere utdanning være kronglete, selv
-om de har fullført videregående opplæring i hjemlandet og er motivert for å studere. Norge er blant
-landene med sterk statlig kontroll med opptak til
-høyere utdanning, og med nasjonale kriterier for
-opptak av studenter med videregående fra utlandet. I en del andre land er det vanlig at de høyere
-utdanningsinstitusjonene har autonomi til å bestemme hvilke studenter de tar opp (se tabell 4.1).
-Hovedregelen for å bli tatt opp i høyere utdanning
-i Norge er at søkeren har en utdanning som gir
-generell studiekompetanse i Norge, samt tilstrekkelige kunnskaper i engelsk og norsk.43 Det er
-forskriftsfestet at Samordna opptak skal vurdere
-om en person tilfredsstiller kravet om generell
-studiekompetanse, basert på vitnemål.
-For søkere med videregående fra utlandet er
-det forskriftsfestet at vurderingen skal baseres på
-dokumentet «Generell studiekompetanse for utenlandske søkere», heretter kalt GSU-listen.44 Søkere med en videregående opplæring som ikke
-vurderes som jevngod med norsk generell studiekompetanse, må ifølge GSU-listen i tillegg ha ett
-års høyere utdanning (bl.a. søkere fra Afghanistan, Eritrea, Irak, Iran, Somalia, Syria), eventuelt to års høyere utdanning (bl.a. søkere fra Kina)
-fra hjemlandet for å kvalifisere for opptak til høyere utdanning i Norge. Begrunnelsen for dette
-kravet er i hovedsak at samlet varighet av grunnskole og videregående skole i disse landene er
-kortere enn i Norge. Som nevnt ovenfor har myn41
-
-42
-38
-
-Støren, L.A. (2010). Unge innvandrere i utdanning og overgang til arbeid. Rapport 45/2010, NIFU.
-39
-Dette gjelder særlig flyktninger. Når det gjelder arbeidsinnvandrere, kommer de til Norge for å arbeide, og dette er
-hovedårsaken til at de ikke tar utdanning.
-40
-Støren, L.A. (2010). Unge innvandrere i utdanning og overgang til arbeid. Rapport 45/2010, NIFU.
-
-69
-
-Kapittel 4
-
-43
-
-44
-
-Bare 10 pst. av innvandrere fra Somalia og 20 pst. fra Irak i
-alderen 20–24 er i høyere utdanning, ifølge Østby, L.
-(2015). «Flyktninger i Norge». Artikkel, Statistisk sentralbyrå. At over 40 pst. av somaliere som har tatt videregående i Norge, går inn i høyere utdanning, tyder på at veldig
-mange somaliere i Norge ikke tar en videregående utdanning i Norge. Det samme gjelder for irakere.
-Caspersen, J., Hovdhaugen, E. & Karlsen, H. (2012). Ulikhet i høyere utdanning. En litteraturgjennomgang for perioden 2002–2012. Rapport 32/2012 NIFU.
-I tillegg har noen studier spesielle opptakskrav. Det finnes
-også andre veier til opptak som ikke omtales her (se Samordna opptak).
-http://www.nokut.no/no/Fakta/Databaser-og-oversikter/
-GSU-listen/
+Basert på sysselsettingsforskjellene i tabell 4.5 (kolonnene for «alle flyktninger») har utvalget beregnet den samfunnsøkonomiske lønnsomheten av ulike kombinasjoner av sysselsetting og utdanning. Konkret er det regnet på noen eksempler der flyktninger øker sin sysselsetting ved å komplettere sin medbrakte utdanning med en utdanning *på samme nivå* i Norge. Disse er vist i figur 4.8. Forutsetninger og beregningsmetoden er beskrevet i boks 4.7. Det er gjort alternative beregninger for å ta høyde for eventuelt store seleksjonseffekter.
 
-[Side 70]
+**\[:figur:figX-X.jpg\]**
 
-70
+1.  Samfunnsøkonomisk lønnsomhet målt ved nytte–kostnad-brøk for ulike eksempler på kompletterende utdanningstiltak for en flyktning på 26 år, etter medbrakt utdanningsnivå og antall år i fulltids opplæring i Norge
 
-NOU 2017: 2
+Utvalgets egne beregninger
 
-Kapittel 4
+1.  **Beregning av samfunnsøkonomisk lønnsomhet**
 
-Integrasjon og tillit
+En samfunnsøkonomisk analyse er et verktøy for å synliggjøre konsekvenser av et tiltak. Den viser om nyttevirkningene av tiltaket for hele befolkningen er høyere eller lavere enn den totale ressursbruken på tiltaket. Tiltakene som er beregnet her, har som formål å øke verdiskapingen i samfunnet ved å øke flyktningers sysselsetting. To ulike tiltak er beregnet:
 
-Tabell 4.1 Krav for opptak til høyere utdanning, for personer med utdanning fra utlandet. Utvalgte land
-Norge
+1.  Å komplettere den medbrakte utdanningen til en voksen flyktning med en norsk utdanning på samme nivå. Det forutsettes at tiltaket øker sysselsettingen i tråd med tabell 4.5. For å ta høyde for eventuelle seleksjonseffekter gjøres det beregninger av en alternativ forutsetning der økningen i sysselsettingsgraden er satt til det halve. Dette utgjør et lavt anslag.
 
-Sverige
+2.  Å heve en voksen flyktnings utdanningsnivå til et høyere nivå enn det vedkommende har fra utlandet. Det forutsettes at tiltaket øker sysselsettingen i tråd med tabell 4.5. På grunn av stor fare for seleksjonseffekter, gjøres det beregninger av en alternativ forutsetning der økningen i sysselsettingsgraden er satt til det halve. Dette antas å være et mer realistisk anslag.
 
-Danmark
+*Nyttevirkningen* av tiltakene ligger i samfunnets økte forbruksmuligheter, som følger av at en norsk utdanning utløser mer arbeid og dermed økt produksjon. Det forutsettes altså at tiltaket fører til en reell produksjonsøkning, og ikke at flyktningen får jobb på bekostning av andre, eller at jobben er en «vernet» arbeidsplass, tiltaksplass e.l. Produksjonsøkningen verdsettes som økt reallønn for individet før skatt, pluss arbeidsgiveravgift og sosiale kostnader (20 pst. til sammen). Produksjonen er beregnet som en forventningsverdi: sannsynligheten for å være sysselsatt, multiplisert med gjennomsnittlig produksjon for alle ansatte i Norge med tilsvarende utdanningsnivå. Det forutsettes altså at sysselsatte flyktninger i gjennomsnitt produserer like mye som andre sysselsatte med samme utdanningsnivå, uansett hvor utdanningen er tatt. For enkelhets skyld forutsettes det at produksjonen er konstant over livsløpet fram til 67 års alder, så lenge utdanningsnivået ikke forandrer seg. Verdien av framtidig økte forbruksmuligheter for samfunnet neddiskonteres med 4 pst. reelt per år.
 
-Tyskland
+*Kostnadsvirkninger*: Det forutsettes at økning av studietid skjer på bekostning av arbeid. Kostnaden forbundet med dette er verdsatt som redusert produksjon i perioden flyktningen tar utdanning. Verdsetting av den tapte produksjonen er gjort på samme måte som ovenfor (forventningsverdi). For å verdsette ressursbruken på selve utdanningstilbudet brukes SSBs beregnede driftsutgifter for grunnskole og videregående, og Kunnskapsdepartementets satser for høyere utdanning (utdanningsinsentiv til bachelorutdanninger i helsefag, lærerutdanning og realfag). Offentlig finansiering medfører et effektivitetstap fordi skattene må økes (skattekile). Dette tapet er anslått til 20 pst. og inkluderes som en kostnadsvirkning i tråd med Finansdepartementets retningslinjer. Alle framtidige kostnader neddiskonteres med 4 pst. reelt per år.
 
-England
+Skatteøkninger og trygdebesparelser er ikke beregnet, på grunn av begrensninger i tilgjengelige data. Offentlige utgifter til studiefinansiering (lån og stipend) er heller ikke inkludert. Slike overføringer mellom offentlig og privat sektor skal uansett ikke telle med i beregningene av lønnsomheten for samfunnet. Skattekilen på 20 pst. skal likevel ideelt sett være med, som en gevinst ved spart trygd og en kostnad ved offentlige utgifter til lån og stipend. At disse skattekilene er utelatt, bidrar til å undervurdere lønnsomheten av tiltakene. Databegrensningene gjør at heller ikke fordelingsvirkninger eller offentlige budsjettvirkninger av tiltaket er beregnet. Ikke-verdsatte effekter i form av helsegevinster, økt samfunnsdeltakelse, at foreldre blir bedre i stand til å følge opp barns skolegang, osv. er ikke tatt hensyn til. Dette bidrar til å undervurdere lønnsomheten av tiltakene.
 
-Frankrike
+**\[Boks slutt\]**
 
-USA
+Den samfunnsøkonomiske lønnsomheten er i figuren illustrert ved hjelp av nytte–kostnad-brøken. Når denne er lik 1, er gevinsten ved tiltaket like høy som kostnaden. Når brøken er større enn 1, er tiltaket samfunnsøkonomisk lønnsomt. Når brøken er mindre enn 1, er tiltaket ulønnsomt.
 
-Syria
+Eksempel 1 illustrerer at dersom en 26-årig flyktning med grunnskoleutdanning fra utlandet kompletterer denne med en norsk grunnskoleutdanning i løpet av ett år, er nytten (i form av økt produksjon over livsløpet) drøye ti ganger høyere enn kostnaden (skoleplass og tapt produksjon i ett år). Sagt på en annen måte får samfunnet igjen over ti kroner for hver krone som investeres i et slikt opplæringstiltak.
 
-VGO + ett VGO + ett
-VGO1 + ett VGO +
-års høyere års høyere
-års høyere engelsk
-utd.
-utd.
-+ svensk
-utd. +
-Norsk B 2 + + matematikk +
-engelsk
-særskilte
-krav som
-varierer med
-studieretning
+Dette forutsetter at tiltaket medfører at flyktningen etter fullført grunnskole øker sysselsettingssannsynligheten opp på nivå med gjennomsnittet for flyktninger i samme aldersgruppe som har norsk grunnskoleutdanning (se tabell 4.5). Dersom denne forutsetningen er urealistisk – f.eks. fordi flyktningene med størst effekt av utdanning i Norge allerede har tatt den – viser figuren også et beregningsalternativ der halvparten av sysselsettingsgevinsten antas å skyldes seleksjon. I dette lavalternativet er nytte–kostnad-brøken 4,5 hvis flyktningen klarer å fullføre norsk grunnskole på ett år.
 
-LæreNasjonale Lærespråkkrav + stedene
-stedene
-bestemmer
-bestemmer læreselv
-selv
-stedene
-bestemmer
-selv
+Jo flere år flyktningen bruker på å fullføre utdanningen, desto lavere blir gevinsten i forhold til kostnaden. Kompletterende grunnskoleutdanning er i eksempel 1 samfunnsøkonomisk ulønnsomt dersom flyktningen bruker fem år eller mer på å fullføre. I lavalternativet blir tiltaket ulønnsomt dersom flyktningen bruker tre år eller mer på å fullføre grunnskolen. Innvandrere bruker vanligvis to til tre år på å fullføre grunnskoleutdanningen.[^130]
 
-Eritrea
+Eksempel 2 og 3 viser tilsvarende beregninger for en 26-årig flyktning som kompletterer henholdsvis videregående og høyere utdanning fra utlandet med tilsvarende utdanning. Den samfunnsøkonomiske lønnsomheten er høyere enn for grunnskoleutdanning. Spesielt ser kompletterende utdanning på universitets- og høyskolenivå ut til å være svært lønnsomt for samfunnet.
 
-Se over
+I figur 4.9 vises tilsvarende beregninger for lønnsomheten av utdanningstiltak som – i tillegg til å komplettere utenlandsk utdanning – også hever utdanningsnivået til en flyktning på 26 år. Det er imidlertid grunn til større varsomhet i slike beregninger, ettersom sysselsettingsgapet mellom en med lav utdanning fra utlandet og en med høy utdanning fra Norge ikke kan tolkes som en rent kausal effekt av at dagens lavutdannede flyktninger tar mer utdanning. Det er rimelig å anta at seleksjonseffektene er større i eksempel 4 og 5, enn i eksemplene 1–3 ovenfor: Flyktninger med videregående opplæring har antakelig en del sysselsettingsfremmende egenskaper som flyktninger med grunnskole ikke har, slik som bedre evner.
 
-Se over
+**\[:figur:figX-X.jpg\]**
 
-Ukjent
+1.  Samfunnsøkonomisk lønnsomhet målt ved nytte–kostnad-brøk for ulike eksempler på tiltak som øker utdanningsnivået til en flyktning på 26 år, etter medbrakt utdanningsnivå og antall år i fulltids opplæring i Norge
 
-Se over
+Utvalgets egne beregninger
 
-Se over
+Hvis det antatt mer realistiske alternativet med lav sysselsettingsgevinst legges til grunn, kan en grunnskoleutdannet flyktning likevel bruke inntil ti år på å fullføre videregående i Norge før tiltaket er samfunnsøkonomisk ulønnsomt. Tilsvarende kan en flyktning med videregående skole fra utlandet bruke inntil seks år på å fullføre en bachelorgrad før tiltaket blir samfunnsøkonomisk ulønnsomt.
 
-Se over
+1.  **Oppsummering**
 
-Afghanistan Se over
+- Innvandrere er overrepresentert både blant høyt utdannede og blant lavt utdannede. Dette er et vanlig mønster internasjonalt. Utdanningsnivået blant flyktninger har hittil vært lavere enn blant andre innvandrere. Innvandrere har dårligere grunnleggende ferdigheter enn den øvrige voksenbefolkningen når disse måles i norskspråklige tester, også når det tas hensyn til utdanning og annen bakgrunnsinformasjon. Tatt i betraktning den betydningen ferdigheter og utdanning har for sysselsetting, vil en eventuell framtidig høy innvandring av flyktninger isolert sett bidra til lavere sysselsetting dersom kompetansegapet ikke tettes.
 
-Se over
+- Flyktningers medbrakte utdanning verdsettes i liten grad i det norske arbeidsmarkedet. Derimot viser statistikken at flyktninger som har fått utdanning i Norge, har nesten like høy sysselsetting som den øvrige befolkningen. Selv om framtidige flyktninggrupper skulle være mer utdannet enn dem som har kommet hittil, vil dette kanskje ikke gi seg utslag i økt sysselsetting uten at den medbrakte utdanningen kompletteres med noe norsk utdanning. Utvalgets beregninger tyder på at slik komplettering kan ha høy samfunnsøkonomisk lønnsomhet. Lønnsomheten avhenger sterkt av hvor lang tid utdanningen tar, og hvor stor effekt den har på sysselsettingen.
 
-VGO + ett VGO + to
-Se over
-års høyere års høyere
-utd.
-utd.
+- Etterkommere lykkes godt med å skaffe seg utdanning. Etterkommernes resultater har også blitt stadig bedre over tid. På den andre siden avdekker analysen ovenfor at innvandrere deltar lite i utdanning og opplæring, og at mange oppnår svake resultater. Enkelte resultater har også blitt dårligere over tid. Dette kan tyde på at det er noe galt med innsatsen som gjøres den første tiden etter ankomsten, men kunnskapen om effekten av de ulike ordningene er mangelfull. Det er således vanskelig å peke på hva som eventuelt bør gjøres annerledes. Dette gjelder både innsatsen overfor nyankomne barn og unge i skolen, og innsatsen overfor voksne i introduksjonsprogrammet og andre ordninger.
 
-Se over
+- Mange av innvandrerne som deltar i den obligatoriske opplæringen i norsk og samfunnskunnskap for nyankomne, oppnår ikke norskferdigheter som anses som et minimumskrav blant et økende antall arbeidsgivere. Men det foreligger lite kunnskap om opplæringens innhold, kvalitet og effekt. Når det gjelder innføringstilbudene som gis nyankomne barn og unge i skolen, kan disse åpenbart ha både positive og negative effekter. Likevel finnes det ikke kunnskap om hvordan tilbudene i sum påvirker elevenes språklige, faglige eller sosiale utvikling.
 
-Se over
+- Myndighetenes målsetting om at 70 pst. av dem som fullfører introduksjonsprogrammet for nyankomne, skal være i arbeid eller utdanning året etter, blir bare nådd for menn. Foreliggende kunnskap kan tyde på at tiltak som er nær koplet til arbeidsliv eller utdanning – den type tiltak som hittil har blitt minst brukt – gir best resultater i form av overgang til arbeid eller utdanning. Dette indikerer at det finnes et potensial for å oppnå bedre resultater i introduksjonsprogrammet som antakelig kan utløses ved å vri innholdet i retning av arbeid og utdanning, kombinert med norskopplæring. En del – men ikke alle – formelle hindringer for en slik omlegging er bygget ned den siste tiden. For eksempel er ordinær høyere utdanning på fulltid fortsatt ikke tillatt i programmet.
 
-Irak
+- Selv om voksne flyktninger har et relativt stort behov for utdanning dersom sysselsettingsgapet til den øvrige befolkningen skal reduseres, viser statistikken at de deltar lite i utdanning. Utdanningssystemet er primært designet med tanke på personer som er født og oppvokst i Norge og snakker norsk, som gjennomfører grunnskolen og videregående skole som barn og ungdom, som blir helt eller delvis forsørget av sine foreldre gjennom store deler av utdanningsløpet, som ikke selv har en stor forsørgerbyrde, men kan jobbe ved siden av studiene for å spe på studielånet, og som er utstyrt med norske vitnemål når de skal søke seg til videre utdanning eller ut i arbeid. Det er gjort en del tilpasninger for å tilrettelegge bedre for voksne innvandrere. Likevel viser analysen ovenfor at denne gruppen fortsatt møter på særskilte utfordringer.
 
-Se over
+- Barrierene omfatter mangelfulle rettigheter til utdanning, at utdanningstilbud ikke er tilgjengelig lokalt, eller at det ikke er relevant for voksne med behov for rask progresjon. Særlig ser det ut til å være vanskelig å kombinere norskopplæring og utdanning, selv om dette antakelig er mer effektivt enn å ta det hver for seg. Det finnes også noen «portvoktere» i systemet som ikke nødvendigvis fungerer hensiktsmessig i lys av behovet for å oppkvalifisere innvandrere, f.eks. når det gjelder godkjenning av medbrakt utdanning og opptak til universiteter og høyskoler. Flyktninger kan også ha kortsiktige økonomiske disinsentiver til utdanning, fordi de har tilgang på ytelser som ikke kan kombineres med utdanning.
 
-Se over
+- Nye tall utvalget har framskaffet, tyder på at innvandrere har dårligere læringsmuligheter på jobben enn andre sysselsatte. Dette kan delvis skyldes at innvandrere har et mindre opplæringsbehov fordi de oftere er ansatt i en jobb de er overkvalifisert for. Teknologiutvikling og andre forhold krever at arbeidstakere må være omstillingsdyktige for å stå lenge i jobb. At innvandrere deltar mindre i opplæring og har mindre læringsintensivt arbeid enn andre, kan bidra til tidlig utstøting fra arbeidsmarkedet. Myndighetene har en begrenset rolle og få virkemidler for å stimulere til kompetanseutvikling i arbeidslivet.
 
-Se over
+1.  **Tilknytning til arbeidslivet**
 
-VGO + ett Se over
-års høyere
-utd.
+    1.  **Innledning**
 
-Se over
+Ifølge mandat skal utvalget
 
-Se over
+\[…\]vurdere hvordan norsk økonomi bør og vil bli tilpasset fortsatt høy innvandring, særlig av flyktninger. Viktige spørsmål er den betydning innvandringen vil kunne ha for arbeidsmarked, arbeidslivsforhold, lønnsdannelse, utvikling i sysselsettingsrate, arbeidsstyrkens kompetanse, forsørgelsesbyrde og offentlige finanser.
 
-Somalia
+Som et ledd i dette arbeidet gjennomgår utvalget i dette kapitlet eksisterende kunnskap om innvandreres deltakelse på arbeidsmarkedet (se kap. 5.2) og arbeidsmarkedspolitikkens rolle for arbeidsintegrering av flyktninger (se kap. 5.3). Kapittel 5.4 setter det norske arbeidsmarkedet i et internasjonalt perspektiv gjennom sammenliknbar internasjonal statistikk som beskriver arbeidsmarkedssituasjonen for både utenlandsfødte og innenlandsfødte personer. Videre detaljer rundt innvandreres situasjon på arbeidsmarkedet presenteres i kapittel 5.5, herunder innvandrernes næringstilhørighet, organisasjonsgrad, arbeidstid, stillingsvern og lønn. Kapittel 5.6 omtaler kort noen generelle utviklingstrekk ved det norske arbeidsmarkedet som kan være relevante for arbeidsintegrering av innvandrere. Til slutt dokumenterer kapittel 5.7 hvordan det går for unge med innvandrerbakgrunn, herunder også for enslige mindreårige flyktninger når det gjelder sysselsetting og deltakelse i utdanning.
 
-Se over
+1.  **Sysselsetting og arbeidsledighet blant innvandrere**
 
-Se over
+    1.  **Sysselsetting etter landbakgrunn, kjønn og alder**
 
-Ukjent
+Det er store forskjeller i sysselsetting mellom ulike innvandrergrupper (se tabell 5.1). Mens sysselsettingen blant befolkningen eksklusive innvandrere lå på om lag 78 pst. for aldersgruppen 20–66 år i 4. kvartal 2015, var tilsvarende andel over 13 prosentenheter lavere blant innvandrere og over 25 prosentenheter lavere for flyktninger (se boks 5.1).[^131] Disse forskjellene var noe mindre for menn enn for kvinner.
 
-Individuell Se over
-vurdering
+1.  Registerbasert sysselsettingsrate, etter kjønn, landbakgrunn,<sup>1</sup> innvandringsgrunn i 4. kvartal 2015. Prosent i aldersgruppen 20–66 år. 4. kvartal 2015
 
-Se over
+|                                      |             |      |         |
+|--------------------------------------|-------------|------|---------|
+| Landbakgrunn                         | Begge kjønn | Menn | Kvinner |
+|                                      |             |      |         |
+| Hele befolkningen                    | 75,0        | 76,9 | 73,0    |
+| Befolkningen eksklusive innvandrere  | 77,5        | 79,1 | 75,8    |
+| Innvandrere i alt                    | 63,9        | 67,5 | 59,8    |
+| Innvandrere etter landgruppe:        |             |      |         |
+| Landgruppe 1                         | 75,4        | 77,0 | 73,4    |
+| Landgruppe 2                         | 71,0        | 73,0 | 67,7    |
+| Landgruppe 3                         | 55,4        | 58,9 | 52,2    |
+| Innvandrere etter innvandringsgrunn: |             |      |         |
+| Flyktninger                          | 50,8        | 52,8 | 47,6    |
+| Familieinnvandrere til flyktninger   | 51,3        | 60,5 | 46,7    |
+| Nordiske innvandrere                 | 79,3        | 79,7 | 79,0    |
+| Arbeidsinnvandrere                   | 74,5        | 74,6 | 74,1    |
+| Andre familieinnvandrere             | 60,4        | 68,8 | 57,7    |
+|                                      |             |      |         |
 
-Se over
+<sup>1</sup> Se kap. 2.4 for definisjon av landgrupper.
 
-Se over
+Registerbasert sysselsettingsstatistikk, Statistisk sentralbyrå
 
-1
+1.  **Data om sysselsetting**
 
-VGO = videregående opplæring fra avsenderlandet
-Kilde: NOKUT
+Sysselsettingsstatistikk som er presentert i kapittel 5.2.1, er basert på registeropplysninger om sysselsettingsstatus i 4. kvartal. Slike data har bare vært tilgjengelige siden 2008 i Norge. Mer detaljerte analyser av sysselsetting blant innvandrere i dette kapitlet, og mer generelt i norsk forskning, bruker som oftest en sysselsettingsdefinisjon basert på en årlig yrkesinntekt på mer enn grunnbeløpet i folketrygden (1 G). Denne definisjonen gjør det mulig å analysere sysselsettingsandeler blant innvandrere over flere tiår ved hjelp av data fra folketrygden. Sysselsettingsandelene for hele befolkningen iflg. denne definisjonen er sammenliknbare med sysselsettingsratene som framkommer av både Arbeidskraftsundersøkelsen og den registerbaserte sysselsettingsstatistikken som lages av SSB for 4. kvartal hvert år.
 
-dighetene nylig besluttet å gi denne gruppen innvandrere bedre muligheter til å ta videregående
-opplæring i Norge. Det ser ikke ut til å ha blitt vurdert å gi spesielt egnede personer fra denne gruppen mulighet til å gå rett inn i høyere utdanning,
-f.eks. basert på opptaksprøver eller forkurs, slik
-man har i en del andre land.
-Mangelfulle norskferdigheter er en annen årsak til at innvandrere deltar lite i høyere utdanning. Opptak til høyere utdanning krever norsk på
-nivå B2 (høyeste nivå). Mange innvandrere har
-problemer med å innfri dette kravet, også flyktninger.45 Kommunene har kun plikt til å tilby
-norskopplæring på dette nivået dersom personen
-kan nå dette nivået innen 600 timer. Det finnes
-mange private kurstilbud, men det ser ikke ut til å
-eksistere studietilbud innenfor høyere utdanning
-med integrert norskopplæring og tilhørende dispensasjon fra kravet om norsk på B2-nivå. Unntaksvis er det mulig med opptak i høyere utdan45
+**\[Boks slutt\]**
 
-http://khrono.no/2016/11/komplemeterende-utdanning.
+Innvandrere med bakgrunn fra Vest-Europa, Nord-Amerika mfl. (landgruppe 1) og EU-land i Sentral- og Øst-Europa (landgruppe 2) har litt lavere sysselsettingsandeler enn befolkningen eksklusive innvandrere. For innvandrere med bakgrunn fra Asia, Afrika mfl. (landgruppe 3) er sysselsettingsandelene betydelig lavere.
 
-ning basert kun på engelskkompetanse (til et fåtall engelskspråklige studietilbud).
-En annen mulig årsak til lav deltakelse i høyere utdanning er at de kortsiktige økonomiske insentivene ofte trekker i motsatt retning. I og med
-at ordinær høyere utdanning på fulltid ikke kan
-inngå i introduksjonsprogrammet, vil flyktninger
-miste introduksjonsstønaden og eventuell supplerende sosialhjelp når de begynner å studere. Lån
-og stipend tilsvarer bare litt over halve introduksjonsstønaden, og mye av det er et lån som må tilbakebetales. Flyktninger som etter introduksjonsprogrammet er avhengig av ulike ytelser fra NAV,
-må som regel avbryte eventuell påbegynt høyere
-utdanning. Ytelser fra NAV kan som hovedregel
-ikke kombineres med utdanning (se omtale under
-kap. 4.3.4). Studenter kan få forsørgerstipend på
-ca. 1 600 kr i måneden per barn (avtakende med
-antall barn og behovsprøvd). Studiefinansiering
-fra Lånekassen er basert på at studenten jobber
-ved siden av studiene eller har andre inntekter.
+Innvandrere fra landgruppe 1 og 2 domineres av arbeidsinnvandrere og familieinnvandrere til arbeidsinnvandrere eller til øvrig befolkning. Landgruppe 3 består i stor grad av flyktninger og familieinnvandrere til flyktninger, men omfatter også arbeidsinnvandrere og familieinnvandrere til andre enn flyktninger. Figur 5.1 sammenlikner sysselsettingsrater etter alder for ulike grupper etter landbakgrunn og innvandringsgrunn. Samtidig er mye av den statistikken som er tilgjengelig, både fra SSB, fra andre kilder og i denne rapporten (se kap. 8.6), basert på en inndeling etter landgruppe.
 
-[Side 71]
+De to øvre panelene av figur 5.1 viser at flyktninger og familieinnvandrere, som til sammen utgjør en stor andel av innvandrerne fra landgruppe 3, har nokså like sysselsettingsrater. For de eldste aldersgruppene er observasjonsmaterialet nokså lite, og tallene her vil derfor trolig kunne variere mye.
 
-NOU 2017: 2
-Integrasjon og tillit
+**\[:figur:figX-X.jpg\]**
 
-71
+1.  Andel sysselsatte etter kjønn, alder og landbakgrunn<sup>1</sup> og innvandringsgrunn. 4. kvartal 2015. Prosent
 
-Kapittel 4
+<sup>1 </sup>Se kap. 2.4 for definisjon av landgrupper. Familieinnvandrere og arbeidsinnvandrere omfatter personer som innvandret fra og med 1990.
 
-Boks 4.2 Ulike mål på innvandrere i høyere utdanning i Norge
-ner har internasjonale studenter studiekom– Ifølge SSB innvandret rundt 5 000 personer i
-petanse (videregående) fra et annet land enn
-2015 med innvandringsgrunn «utdanning».
-Norge. Om lag 4 000 av de internasjonale stuDette tallet inkluderer au pair-er (ca. 1 300),
-dentene i Norge kommer fra Europa, og
-men ikke studenter fra nordiske land. Rundt
-svensker utgjør den største enkeltgruppen.
-80 pst. av denne innvandrergruppen forlater
-Nesten like mange kommer fra Asia (Kina er
-Norge i løpet av få år. Ifølge IMDi oppholdt
-størst). De fleste studerer på masternivå
-det seg nesten 32 000 personer med utdan(rundt 4 000), og om lag 1 500 er doktorning som innvandringsgrunn i Norge i 2015.
-gradsstudenter. Norge har en litt lavere andel
-– Det er ca. 20 000 innvandrere i høyere utdaninternasjonale studenter enn gjennomsnittet
-ning i Norge (SSB-statistikk) og et tilsvablant OECD-landene, på tross av at det er innrende antall utenlandske statsborgere. Utenført studieavgifter for internasjonale studenlandske statsborgere står for mer enn hver
-ter i nesten alle land unntatt Norge. Antallet
-tredje avlagte doktorgrad i Norge (rundt 500
-internasjonale studenter har hatt en sterk
-av 1 500 avlagte doktorgrader årlig). De størvekst både globalt og i Norge de siste ti
-ste enkeltgruppene i 2015 var fra Kina, Tyskårene.
-land, Iran, India og Italia. Om lag halvparten
-av de utenlandske statsborgerne som tar dokKilder: Wiers-Jenssen, J. (2013). Utenlandske studenter i
-torgrad i Norge, blir boende, og andelen er
-Norge. Arbeidsnotat 12/2013, NIFU, NIFU (2016). Doktorhøyere for dem med doktorgrad innenfor fag
-grader i tall. Informasjon fra doktorgradsregisteret. Mars
-der det er mangel på arbeidskraft i Norge,
-2016. Olsen, T.B. (2013). Utlendinger med norsk doktorgrad –
-som teknologifag.
-hvor blir de av? En undersøkelse basert på registerdata. Rapport 17/2013, NIFU. OECD (2016e). The internationalisation
-– Det er om lag 9 000 internasjonale studenter
-of doctoral and master’s studies. Education Indicators in
-i Norge, dvs. som har kommet til Norge for å
-Focus, 39. OECD Publishing.
-studere. I henhold til internasjonale definisjo-
+Registerbasert sysselsettingsstatistikk, Statistisk sentralbyrå
 
-4.4
+De to nederste panelene i figur 5.1 viser at sysselsettingsratene til nordiske innvandrere og landgruppe 1 som helhet er nokså like, og det samme gjelder for arbeidsinnvandrere og landgruppe 2. Mannlige familieinnvandrere til andre enn flyktninger likner i stor grad på arbeidsinnvandrere når det gjelder sysselsetting, mens sysselsettingsratene til andre kvinnelige familieinnvandrere er noe lavere enn for landgruppe 2 og kvinnelige arbeidsinnvandrere, særlig i fruktbar alder. Familieinnvandrere til andre enn flyktninger har imidlertid klart høyere sysselsettingsandeler enn familieinnvandrere til flyktninger (se panel b og d).
 
-Særskilt om nyankomne voksne
-innvandrere
+1.  **Arbeidsledighet**
 
-4.4.1 Introduksjonsloven
-De aller fleste innvandrere som kommer til
-Norge, vil ha behov for å lære seg norsk. Mange
-trenger også å tilegne seg andre kunnskaper og
-ferdigheter for å kunne ta del i norsk arbeids- og
-samfunnsliv. Disse behovene er forsøkt ivaretatt
-gjennom særskilte tiltak og ordninger som følger
-av introduksjonsloven. Formålet med loven er å
-styrke nyankomne innvandreres muligheter for å
-delta i yrkes- og samfunnslivet og deres økonomiske selvstendighet.
-Introduksjonsloven gjelder per i dag ikke asylsøkere eller andre som oppholder seg i Norge
-uten innvilget oppholdstillatelse, men asylsøkere
-over 16 år som bor i ordinære mottak, kan få tilbud om inntil 175 timer norskopplæring.46 Kommunene er ikke pliktige til å gi et slikt tilbud, men
-dersom de søker om tilskudd, må de tilby opplæring til hele målgruppa. I 2015 deltok 5 600 per46
+Registrert arbeidsledighet blant innvandrere – om lag 7 pst. i 2016 – er to til tre ganger større enn ledigheten i resten av befolkningen, som ligger på om lag 2 pst. i 2016 (se figur 5.2). Variasjonen i ledighet over konjunkturene, målt i prosentenheter, ser ut til å være større blant innvandrere enn for resten av befolkningen.
 
-Tilbudet ble fra 1. januar 2015 redusert fra 250 timer.
+**\[:figur:figX-X.jpg\]**
 
-soner i denne opplæringen.47 Det er også utviklet
-et kursopplegg for kultur og samfunnskunnskap i
-50 timer for asylsøkere som ble iverksatt fra januar 2017.48
-Loven omfatter to ulike ordninger: 1) opplæring i norsk og samfunnskunnskap og 2) introduksjonsordningen. Nedenfor omtales deltakelse og
-resultater i de to ordningene. For å få mer kunnskap om hvordan introduksjonsordningen og opplæringen i norsk og samfunnskunnskap kan videreutvikles, evalueres disse ordningene.49
+1.  Kvartalsvis registrert ledighet i prosent av arbeidsstyrken for innvandrere fra utvalgte verdensdeler
 
-4.4.2
+Registerbaserte ledighetsstatistikk, Statistisk sentralbyrå
 
-Opplæring i norsk og samfunnskunnskap
-Tabell 4.2 viser at en rekke innvandrergrupper
-har plikt og dels rett til opplæring i norsk og sam47
+Arbeidsledigheten blant innvandrere fra EU-land i Sentral- og Øst-Europa var litt høyere enn for befolkningen uten innvandrerbakgrunn i perioden 2006–2008. Den økte imidlertid kraftig under og til dels rett etter finanskrisen. Ledigheten for denne gruppen har siden holdt seg på et betydelig høyere nivå enn for befolkningen uten innvandrerbakgrunn.
 
-48
-49
+Forskning fra Frischsenteret dokumenterer mer detaljert økningen i arbeidsledighet blant østeuropeiske arbeidsinnvandrere i forbindelse med finanskrisen.[^132] Mellom oktober 2008 og mars 2009 økte andelen som mottok dagpenger blant mannlige arbeidsinnvandrere fra EU-land i Sentral- og Øst-Europa fra 1,4 pst. til 11,3 pst. I løpet av vinteren 2010 toppet ledigheten for gruppen seg med 15,5 pst., sammenliknet med 3,5 pst. for den øvrige befolkningen på samme tid.[^133] Over en tredjedel (36,8 pst.) av de mannlige arbeidsinnvandrerne fra nevnte EU-land mottok dagpenger i løpet av toårsperioden 2009­2010, sammenliknet med 9,9 pst. av menn uten innvandrerbakgrunn. Ledigheten i gruppen gikk ned igjen etter noen år, men kom aldri helt ned til nivået før finanskrisen, slik det også framgår av figur 5.2. Mer detaljerte statistiske analyser viser at 40­60 pst. av forskjellene i ledighet mellom arbeidsinnvandrerne fra nevnte EU-land og den øvrige befolkningen kan tilskrives forskjeller i ansiennitet, alder, yrke og næring. Dette tyder på at innvandrerne var mer utsatt for arbeidsledighet under finanskrisen, fordi de jobbet i yrker som var konjunkturutsatte, og hadde kort arbeidserfaring i Norge.
 
-1 800 av disse ble seinere samme år innvilget opphold og
-deltok i den ordinære opplæringen i norsk og samfunnskunnskap.
-Meld. St. 30 (2015–2016) Fra mottak til arbeidsliv. En effektiv integreringspolitikk.
-Evalueringen, som gjennomføres av Fafo, vil foreligge i
-løpet av 2017. Se: http://www.fafo.no/index.php/nb/
-forskningstema/prosjekter/prosjekter-alle/item/evaluering-av-introduksjonsordning-og-norskopplaering.
+1.  **Sysselsetting etter innvandringsgrunn og botid**
 
-[Side 72]
+Slik det framgår av figur 5.3, er få flyktninger sysselsatt de første par årene i landet. Kohortene følges fra det året de kom til Norge, fram til det siste året med tilgjengelige data. Sysselsettingsandelen blant flyktninger øker mye de første fem–sju årene etter ankomst. Resultatene som presenteres i figur 5.3 er basert på forskning fra Frischsenteret, og resultatene bekreftes av liknende funn fra SSB.[^134]
 
-72
+**\[:figur:figX-X.jpg\]**
 
-NOU 2017: 2
+1.  Andel sysselsatte<sup>1</sup> blant flyktninger 18­47 år ved ankomst, etter kalenderår, ankomstkohort og kjønn. Ankomster etter 1990. Prosent
 
-Kapittel 4
+<sup>1 </sup>Sysselsetting definert som yrkesinntekt over 1G.
 
-Integrasjon og tillit
+Frischsenteret
 
-Tabell 4.2 Oversikt rett og plikt til opplæring i norsk og samfunnskunnskap
-Personkrets1
-
-Rett
+Det samme grunnleggende mønsteret, med svært lav sysselsetting de første årene i landet og en klar økning i sysselsetting de første fem til ti årene, vises for alle ankomstkohortene. Deretter flater sysselsettingsratene ut eller går til dels ned. Mannlige flyktninger opplever en noe raskere økning i sysselsetting med økende botid enn kvinnene. Mennene oppnår et høyere sysselsettingsnivå enn kvinner før utflating eller eventuell nedgang.
 
-Plikt
+De ulike resultatene for ankomstkohortene vil være påvirket av hvordan kohortene er sammensatt med hensyn til både landbakgrunn, alder og kompetanse/utdanning. Forskning fra SSB viser at sysselsettingsnivåene som oppnås, varierer en del i ulike flyktninggrupper etter landbakgrunn, men det samme grunnleggende mønsteret – lav sysselsetting i begynnelsen av oppholdet, stigende sysselsettingsrater de første fem til ti årene fulgt av utflating eller nedgang – går igjen for alle gruppene.[^135]
 
-Gratis
+Ifølge kohortanalyser av arbeidsinnvandrere gjennomført av SSB var sysselsettingsandelen blant arbeidsinnvandrere høy allerede i ankomståret for arbeidsinnvandrere som kom i perioden 1993­2010.[^136] Sysselsettingen for denne gruppen har holdt seg høy i perioden som dekkes av studien, med unntak av en nedgang rundt finanskrisen.
 
-1) Personer med fluktbakgrunn og
-familiegjenforente med disse,
-16–67 år
+Mer detaljerte analyser av sysselsettingsrater etter botid over en lengre periode, for både arbeidsinnvandrere og flyktninger gir, et mer sammensatt bilde.[^137] Arbeidsinnvandrere som kom til Norge tidlig på 1970-tallet fra land utenfor Europa, i hovedsak menn fra Pakistan og Tyrkia, hadde sysselsettingsrater de første årene etter ankomsten som var minst like høye som eller høyere enn sammenliknbare personer uten innvandrerbakgrunn. I året 2000, dvs. 25–30 år etter ankomst for denne gruppen, hadde sysselsettingsraten falt til om lag 50 pst., som var 37 prosentenheter lavere enn for menn i majoritetsbefolkningen i tilsvarende alder og med ellers sammenliknbare kjennetegn. Ulike effekter av konjunkturer for innvandrere og den øvrige befolkningen bidrar til å forklare en del av denne utviklingen.[^138]
 
-X
+Analyser av nyere ankomstkohorter av både arbeidsinnvandrere og flyktninger[^139] viser ikke den samme dramatiske nedgangen i sysselsetting med økende botid.[^140] Arbeidsinnvandrere som kom fra andre EØS-land på 1970-tallet, har beholdt en høy sysselsettingsrate, litt under nivået for sammenliknbare personer i den øvrige befolkningen, over hele perioden siden ankomsten.
 
-X
+1.  **Sysselsetting etter utdanningsnivå**
 
-X
+Figur 5.4 viser sysselsettingsandelen blant innvandrere med utdanning fra utlandet og innvandrere med utdanning fra Norge. Sysselsettingsgapet mellom flyktninger og den øvrige befolkningen er på rundt 20­30 prosentenheter (panel A). Forskjellene i sysselsetting etter utdanningsnivå for flyktninger som utelukkende har utdanning fra utlandet, er i tillegg forholdsvis små. Sysselsettingsgapet mellom flyktninger og den øvrige befolkningen er imidlertid redusert til under 10 prosentenheter når vi ser på dem som har videregående opplæring eller høyere utdanning fra Norge (panel C og D). Dette gjelder uansett om vi ser på hele flyktningbefolkningen eller kun dem som kom til Norge i voksen alder (ikke vist i figuren).
 
-600 timer (550 timer norsk og
-50 timer samfunnskunnskap), ved
-behov opptil 2 400 norsktimer
-i tillegg
+**\[:figur:figX-X.jpg\]**
 
-2) Familiegjenforente med norske og
-nordiske borgere bosatt i Norge,
-16–67 år
+1.  Sysselsetting etter innvandrerbakgrunn, alder, utdanningsnivå<sup>1</sup> og land der utdanningen ble fullført. Prosent av befolkningen 2015
 
-X
+<sup>1 </sup>Grunnskole fra utlandet inkluderer også personer uten utdanning og personer med ikke fullført grunnskole. Flyktninger inkluderer familie til flyktninger.
 
-X
-
-X
-
-600 timer (550 timer norsk og
-50 timer samfunnskunnskap), ved
-behov opptil 2 400 norsktimer
-i tillegg
-
-3) Arbeidsinnvandrere utenfor
-EØS/EFTA-regelverket, 16–67 år
-
-X
-
-Omfang
-
-300 timer (250 timer norsk og
-50 timer samfunnskunnskap)
-
-1
-
-Gjelder personer som har fått oppholdstillatelse etter 1. september 2005 som gir grunnlag for permanent oppholdstillatelse etter
-utlendingsloven.
-Kilde: Justis- og beredskapsdepartementet
-
-funnskunnskap. Boks 4.3 viser at gjennomført
-pliktig opplæring, dokumenterte norskkunnskaper og en bestått prøve på ulike måter er vilkår for
-å få innvilget permanent opphold og statsborgerskap.
-Antallet deltakere i opplæringen har ligget på
-et relativt stabilt nivå siden 2010, med en viss økning de siste tre årene. I 2015 var det 37 100 deltakere. Det var en markert økning i antall mannlige
-deltakere, men flertallet av deltakerne var fortsatt
-kvinner (53 pst.). 70 pst. av deltakerne var under
-35 år. De aller fleste av deltakerne (95 pst.) hadde
-rett og plikt eller bare rett til opplæringen, dvs. at
-de hadde flukt eller familietilknytning som innvandringsgrunn. 45 pst. av deltakerne var registrert
-med Somalia, Eritrea eller Syria som fødeland.
-Det var nesten en fordobling i antall deltakere fra
-Syria i 2015.50
-De fleste av dem som har rett og plikt til å
-delta i opplæring, begynner opplæringen forholdsvis raskt og gjennomfører innen fristen på tre år.
-Av dem som fikk rett og plikt til opplæring i 2011,
-hadde 88 pst. oppfylt plikten innen tre år.
-I 2014 ble det tatt i bruk nye digitale prøver i
-norsk. Disse prøvene erstatter tidligere norskprøve 2 og norskprøve 3. Ansvaret for den praktiske gjennomføringen av prøvene ble samtidig
-overført til kommunene. Den nye norskprøven
-måler norskferdigheter på fire ulike nivåer, og
-kandidatene får vurdering for hver enkelt delprøve på skalaen A1, A2, B1 og B2, der A1 er det
-laveste nivået og B2 det høyeste.51
-50
-
-Se SSBs nettsider for flere detaljer: http://www.ssb.no/
-utdanning/statistikker/nopplinnv/aar.
-
-Myndighetenes mål for 2015 var at 70 pst.
-skulle greie nivå A2 eller høyere på skriftlig prøve,
-og at 90 pst. skulle greie nivå A2 eller høyere på
-muntlig prøve. Tabellen under viser at disse målene ble nådd for 2015.52 Stadig flere arbeidsgivere stiller likevel høyere krav til norskferdigheter. For eksempel har Bærum kommune
-og Oslo kommune krav om nivå B1 for ansettelse i
-sykehjem og barnehager.53 Rundt 60 pst. når
-dette nivået når det gjelder lytte- og leseforståelse,
-men bare hhv. 45 og snaue 30 pst. når det gjelder
-muntlig kommunikasjon og skriftlig framstilling
-(se tabell 4.3). Nivå B2 gir grunnlag for opptak til
-høyere utdanning. Kun 1 pst. oppnår dette nivået
-på den skriftlige prøven.
-Opplæringen i samfunnskunnskap avsluttes
-også med en prøve. Det ble avlagt prøver på 28
-ulike språk i 2015. Prøven i samfunnskunnskap
-må bestås på norsk. Myndighetenes mål er at
-90 pst. skal bestå den avsluttende prøven. I 2015
-besto 78 pst. av kandidatene prøven.54
-Det ble i Revidert nasjonalbudsjett 2016 bevilget midler til utvikling av nettbasert norskopplæ51
-
-52
-
-53
-
-54
-
-Informasjon om de ulike nivåene finnes på nettsiden til
-Kompetanse Norge, tidligere Vox:
-http://www.vox.no/contentassets/
-dbb0af88e28d48fb815a39cbb51082eb/vedlegg_provebevis_bm.pdf.
-Siden prøve- og karaktersystemet for pliktig avsluttende
-norskprøve ble endret i 2014, er det ikke mulig å sammenlikne prøveresultatene før og etter det året.
-Regjeringen har nylig varslet at den vil komme med et lovforslag om tydeligere nasjonale krav til norskspråklig kompetanse hos ansatte i barnehagen som arbeider med barn.
-Rapportering fra Kompetanse Norge/Vox
-
-[Side 73]
-
-73
-
-NOU 2017: 2
-Integrasjon og tillit
-
-Kapittel 4
-
-Tabell 4.3 Resultater på digital norskprøve 2015.1 Andel av gjennomførte prøver
-Antall
-
-Delprøve
-
-A2 eller høyere
-
-B1 eller høyere
-
-B2 (høyeste nivå)
-
-Muntlig prøve
-
-13 665
-
-Muntlig kommunikasjon
-
-91
-
-45
-
-4
-
-Skriftlig prøve
-
-13 650
-
-Leseforståelse
-
-84
-
-60
-
-12
-
-13 797
-
-Lytteforståelse
-
-90
-
-58
-
-9
-
-15 151
-
-Skriftlig framstilling
-
-79
-
-30
-
-1
-
-1
-Prøver gjennomført av privatister er inkludert og utgjorde 31,5 pst.
-Kilde: Kompetanse Norge
-
-Boks 4.3 Opplæring i norsk og samfunnskunnskap som vilkår for permanent opphold
-og statsborgerskap
-– Personer som søker norsk statsborgerskap,
-– For å få permanent oppholdstillatelse etter utog som er omfattet av opplæringsplikt etter
-lendingsloven er det et krav at søkeren har
-introduksjonsloven, må ha gjennomført hengjennomført pliktig opplæring. Stortinget har
-holdsvis 300 eller 600 timer opplæring.
-vedtatt at vilkårene for permanent opphold
-– Personer som søker norsk statsborgerskap,
-bør skjerpes, herunder at det stilles krav om
-og som ikke er omfattet av opplæringsplikt etet minimum av norskkunnskaper og bestått
-ter introduksjonsloven, må ha gjennomført
-prøve i samfunnskunnskap.
-300 timer norskopplæring eller dokumentere
-– Personer som søker permanent opphold, og
-tilstrekkelige kunnskaper i norsk eller sasom er omfattet av opplæringsplikt etter inmisk.
-troduksjonsloven, må ha gjennomført sin
-– Etter endring i statsborgerloven er det fra 1.
-plikt til opplæring i samfunnskunnskap etter
-januar 2017 også krav om dokumenterte
-introduksjonsloven.
-muntlige norskkunnskaper på nivå A2 og en
-– Etter endring i utlendingsloven er det fra 1.
-bestått prøve i samfunnskunnskap for å få
-januar 2017 også krav om å dokumentere
-innvilget statsborgerskap. Prøven i sammuntlige norskkunnskaper på nivå A1 og ha
-funnskunnskap må bestås på norsk. Kravene
-bestått avsluttende prøve i samfunnskunngjelder personer mellom 18 og 67 år.
-skap på et språk man forstår, for å få innvilget
-permanent oppholdstillatelse.
-
-ring som et supplement til norskopplæring gitt i
-mottak og etter introduksjonsloven.
-Det foreligger lite forskningsbasert kunnskap
-om opplæring i norsk og samfunnskunnskap for
-voksne, det gjelder både opplæringens innhold,
-kvalitet og effekt. Flere utredninger har pekt på behovet for bedre tilpasset norskopplæring, språkopplæring knyttet til arbeid, bedre sammenheng
-med annen opplæring og økt lærerkompetanse.55
-Kommunene har plikt til å tilby opplæringen, og tilbudet varierer fra kommune til kommune. Ifølge
-en undersøkelse fra Fafo er kommunene bekymret
-over tilgangen til kompetente norsklærere.56 En
-kartlegging viser at bare halvparten av lærerne har
-
-formell fagkompetanse i norsk som andrespråk og
-få har kompetanse i voksenpedagogikk.57
-
-4.4.3 Introduksjonsordningen
-Introduksjonsordningen ble innført i 2004 og er et
-viktig integreringstiltak for nyankomne flyktninger. Ordningen har to hovedelementer, introduksjonsprogram og introduksjonsstønad (se boks
-4.4.). Hovedmålgruppen for ordningen er nyankomne flyktninger og deres familiemedlemmer
-som er i aldersgruppen 18 til 55 år, og som har behov for grunnleggende kvalifisering. En flyktning
-56
-
-55
-
-Se bl.a. NOU 2010: 7 Mangfold og mestring – Flerspråklige
-barn, unge og voksne i opplæringssystemet.
-
-57
-
-Sterri, E.B. (2016). Kapasitet i integreringsapparatet. Fafonotat 2016: 06.
-Vox (2015). Voksenlæreres kompetanse og kompetansebehov.
-
-[Side 74]
-
-74
-
-NOU 2017: 2
-
-Kapittel 4
-
-Integrasjon og tillit
-
-som kan benytte seg av det ordinære utdanningsog opplæringstilbudet, regnes ikke som å ha behov for grunnleggende kvalifisering. Unntak er
-grunnskoleopplæring for voksne og fra høsten
-2016 også ordinær videregående opplæring.
-Tall fra SSB viser at i løpet av 2015 deltok 17
-900 personer i introduksjonsprogrammet. Dette
-er en økning på 22 pst. fra 2014 og det høyeste tallet i ordningen så langt. Økningen skyldes i hovedsak flere deltakere fra Syria og Eritrea. Om lag
-7 av 10 av deltakerne i 2015 var fra Eritrea, Syria
-og Somalia. Antall deltakere fra Syria har økt kraftig. Det er også over 7 av 10 deltakere som er i aldersgruppen mellom 18 og 35 år. Det er flest deltakere i de store byene.
-SSB har fulgt overgangen til arbeid eller utdanning for tidligere deltakere i introduksjonspro-
-
-–
-
-–
-
-–
-
-–
-
-grammet siden 200758 og har publisert en resultatstudie med en analyse av om lag 13 700 flyktninger som avsluttet introduksjonsprogrammet i
-årene 2007–2011.59 Sett under ett var nesten
-63 pst. av dem som gikk ut av programmet i denne
-perioden, i arbeid eller utdanning året etter. For
-menn var snittet 70 pst. Det tilsvarer den nasjonale målsettingen. Andelen som avsluttet programmet i årene fra 2009 til og med 2013, lå stabilt
-mellom 60 og 63 pst.
-De siste resultatene fra introduksjonsprogrammet viser at av de vel 3 700 deltakerne som avsluttet programmet i 2014, var 58 pst. i arbeid og/eller
-58
-59
-
-Se www.ssb.no/introinnv.
-Blom, S. & Enes, A. (2015). Introduksjonsordningen – en
-resultatstudie, Rapporter 36/2015, Statistisk sentralbyrå.
-
-Boks 4.4 Introduksjonsordningen: program og stønad
-– Den enkeltes program skal være individuelt
-Introduksjonsordningen er obligatorisk for
-tilrettelagt og tilpasset den enkeltes bakbåde kommunene og målgruppen. Det innegrunn, forutsetninger og kvalifiseringsbebærer at alle kommuner som bosetter flykthov. En deltaker kan i prinsippet begynne i arninger, er pålagt å tilby introduksjonsordning
-beidspraksis fra dag én, i kombinasjon med
-til alle i målgruppen, og at alle i målgruppen
-opplæring i norsk og samfunnskunnskap på
-har rett og plikt til å delta, så lenge de har bedeltid, gjennomføre grunnskole eller viderehov for grunnleggende kvalifisering.
-gående opplæring, gjennomføre kompletteIntroduksjonsprogram skal tilby kvalifisering
-rende utdanning med unntak av ordinær høypå full tid i inntil to år for dem som har behov
-ere utdanning på fulltid, arbeidstrening i
-for det. Programmet kan forlenges til tre år
-kombinasjon med norskopplæring og eventunår særlige grunner taler for det. Kvalifiserinelt også praktisk språkopplæring på arbeidsgen skal som et minimum inneholde opplæplassen og praktisk bransje- eller yrkesfaglig
-ring i norsk og samfunnskunnskap og tiltak
-opplæring.
-som forbereder for arbeid eller utdanning.
-– Ordinært arbeid kan også legges inn som en
-Arbeids- og velferdsetaten samarbeider med
-del av programmet, slik at den enkelte kan få
-kommunen om planlegging og gjennomfømulighet til å få en tidlig tilknytning til arring av introduksjonsprogram i om lag halvbeidslivet samtidig som hun eller han kvalifiparten av kommunene.
-seres til arbeid eller utdanning. Dersom lønAlder og oppholdstillatelse etter utlendingsnet arbeid inngår i programmet, reduseres
-loven avgjør om den enkelte er i personkretintroduksjonsstønaden tilsvarende den tiden
-sen for ordningen eller ikke. Vilkåret er også
-arbeidet tar.
-at de er nyankomne, det vil si at det er mindre
-– Loven er også nylig endret slik at deltakere
-enn to år siden bosetting i en kommune, og
-som har tilbud om ordinært arbeid, har rett
-dessuten at de er bosatt etter avtale mellom
-til inntil ett års permisjon fra introduksjonsutlendingsmyndighetene og kommunen.
-programmet. Ved slik permisjon på fulltid
-Rett og plikt til å delta i introduksjonspromottar ikke deltakeren introduksjonsstønad.
-grammet inntrer først etter bosetting eller
-etablering i en kommune.
-1
-Stønaden tilsvarer to ganger folketrygdens grunnbeløp
-Deltakere i introduksjonsprogrammet mottar
-(for dem over 25 år) eller 2/3 av to ganger folketrygdens
-1
-introduksjonsstønad. Det trekkes skatt og
-grunnbeløp (for dem under 25 år) årlig. Per 1. mai 2016
-var 2 G 185 152 kr på årsbasis.
-trygdeavgift av stønaden, og det gjøres trekk
-i stønaden ved ugyldig fravær fra programKilde: Rundskriv G-01/2016 og Q-27/2015
-met.
-
-[Side 75]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-70
-60
-50
-40
-30
-20
-10
-0
-I arbeid og/eller Arbeidsledig og/eller
-utdanning
-på tiltak
-Menn
-
-Kvinner
-
-Annen eller
-ukjent status
-
-Alle
-
-Figur 4.7 Andel deltakere som gikk ut av introduksjonsprogrammet 2014. Status i 2015. Prosent
-Kilde: Statistisk sentralbyrå
-
-utdanning i november 2015. Dette er en nedgang
-på fire prosentenheter, sammenliknet med dem
-som avsluttet året før. Endringer i registreringen
-av sysselsettingsdata gjør det imidlertid vanskelig
-å sammenlikne med tidligere år.60 I 2015 var
-11 pst. registrert arbeidsledige eller på tiltak og
-31 pst. hadde annen eller ukjent status.61
-Det er store forskjeller i resultater mellom
-kvinner og menn (se figur 4.7), mellom nasjonaliteter og i ulike aldersgrupper. For de yngre deltakerne er resultatene svært gode. Av deltakerne
-mellom 20 og 24 år var 76 pst. i arbeid eller utdanning. For deltakere fra Etiopia og Eritrea var andel
-i arbeid og/eller utdanning hhv. 71 og 68 pst.,
-mens andelen for deltakere fra Irak og Somalia
-var 48 og 46 pst.
-Det er også store forskjeller kommunene imellom. En analyse av tidligere resultater har vist at i
-
-noen kommuner er det bare 3 av 10 som er i arbeid eller utdanning året etter avsluttet program,
-mens i andre kommuner er alle deltakerne det.62
-Introduksjonsordningen innebar et visst
-brudd med tidligere politikk og arbeidsmetoder
-på feltet da den ble innført. En oppsummering av
-erfaringene etter ti år viser at innføringen av ordningen har gått relativt bra, og at hovedelementene etter hvert har kommet på plass i svært
-mange kommuner.63 Dette gjelder særlig de økonomiske rammene – introduksjonsstønaden og
-økonomiske sanksjoner ved fravær. De største utfordringene når det gjelder iverksetting, har vært
-knyttet til innholdet i programmet. Det handler
-blant annet om å få til et reelt heldagsprogram,
-men også om å finne gode, individuelt tilpassede
-kurs og tiltak for den enkelte.
-Programmet skal tilby kvalifisering på full tid i
-inntil to år for dem som har behov for det. For
-dem som har særlige grunner, kan programmet
-vare i inntil tre år. Programmets eneste obligatoriske element er at det må inneholde norskopplæring, samfunnskunnskap og tiltak rettet mot enten
-ordinær utdanning eller arbeidslivet. Hensikten
-med denne fleksibiliteten er at programmet skal
-kunne tilpasses den enkeltes behov for grunnleggende kvalifisering.
-I mange kommuner er imidlertid både innhold
-og rammer for programmet standardisert, med
-samme løp for alle. Kommunene planlegger for at
-programmet skal vare i to år, uavhengig av den enkeltes bakgrunn og forutsetninger. Mange kommuner har også utfordringer med å tilby et helårlig program på fulltid.64 Opplæring i norsk- og
-samfunnskunnskap utgjør den største komponenten for de fleste deltakerne, mens praksis i arbeidslivet og ordinær utdanning benyttes i liten
-grad.65 For eksempel er det en betydelig andel somaliske, afghanske og irakiske kvinner som mangler grunnskoleopplæring, men svært få har likevel tatt grunnskolefag i løpet av programmet, eller
-har fått tilstrekkelig opplæring til at de regnes
-62
-
-60
-
-Statistikken er tilgjengelig på SSBs hjemmeside:
-http://www.ssb.no/utdanning/statistikker/introinnv/
-aar-tidligere-deltakere/2016-12-19.
-61
-Blant kvinner er andelen med annen eller ukjent status (41
-prosent) langt større enn blant menn (21 prosent). Blant
-kvinner i denne kategorien er det i hovedsak mottakere av
-sosialhjelp og dem med såkalt ukjent status som dominerer
-med henholdsvis 11 og 15 prosent. Én av sju kvinner er det
-ingen opplysninger om. Mange av dem med ukjent status
-er sannsynligvis hjemme med barn. I denne samlekategorien vil også de som deltar i grunnskoleopplæring være,
-dersom de ikke i tillegg har en deltidsjobb, mottar kontantstøtte eller på annen måte inngår i noen av de overnevnte
-kategoriene.
-
-75
-
-Kapittel 4
-
-63
-64
-
-65
-
-Enes, A. & Wiggen, K. (2016). Tidligere deltakere i introduksjonsordningen 2009–2013, Rapporter 24/2016, Statistisk sentralbyrå.
-Djuve A.B. & Kavli H.C. (2015). Ti års erfaringer. Fafo-rapport 2015:26.
-IMDi (2016). Årsrapport 2015, Integrerings- og mangfoldsdirektoratet; Djuve, A.B. & Kavli, H.C. (2015). Ti års erfaringer En kunnskapsstatus om introduksjonsprogram og
-norskopplæring for innvandrere, Fafo-rapport 2015:26.
-Djuve A.B., Haakestad, H. & Sterri E.B. (2014). Rett til
-utdanning? Grunnskoleopplæring og videregående opplæring
-som tiltak i introduksjonsordningen for nyankomne innvandrere. Fafo-rapport 2014:34, Fafo. For statistikk over deltakelse i ulike tilbud i 2015, se www.ssb.no/utdanning/statistikker/introinnv.
-
-[Side 76]
-
-76
-
-Kapittel 4
-
-NOU 2017: 2
-Integrasjon og tillit
-
-som ferdig med grunnskolen.66 Det skjer på tross
-av at deltakerne i tiltak som er nær koplet til arbeidsliv eller utdanning, oftere kommer ut i arbeid
-eller utdanning etterpå, sammenliknet med dem
-som deltar i andre tiltak.67 I en upublisert underveisrapport fra den pågående evalueringen av ordningen pekes det på manglende språkpraksis,
-mye bruk av klasseromsundervisning og lite bruk
-av praksis i arbeidslivet med sikte på kvalifisering
-for arbeid, særlig for deltakere med lite eller ingen utdanning.
-Som en oppfølging av Meld. St. 16 (2015–2016)
-Fra utenforskap til ny sjanse. Samordnet innsats for
-voksnes læring er flere tiltak for å bedre ordningene i introduksjonsloven iverksatt eller i ferd
-med å bli iverksatt. Det skal bl.a. legges bedre til
-rette for å ta mer ordinær utdanning som del av
-ordningene, øke arbeidsrettingen av introduksjonsprogrammet og øke kompetansen blant lærerne og programrådgiverne. Det skal også bli
-bedre individuell tilrettelegging for kvinner og
-personer med nedsatt funksjonsevne. Dessuten
-skal det settes i gang forsøk med å kombinere
-opplæring etter henholdsvis opplæringsloven og
-introduksjonsloven, og en gjennomgang av disse
-lovverkene skal bidra til bedre samordning mellom sektorene. Samlet sett skal tiltakene bidra til
-at deltakerne utnytter tiden i programmet og opplæringen bedre, og at ordningene blir bedre tilpasset deltakernes kvalifiseringsbehov.
-I tillegg kommer tiltak i Meld. St. 30 (2015–2016)
-Fra mottak til arbeidsliv – en effektiv integreringspolitikk, som har som mål å styrke arbeidet med
-individuell tilpasning. Disse omfatter blant annet
-tidligere kartlegging av kompetanse, karriereveiledning, hurtigspor i introduksjonsprogram for
-dem med etterspurt kompetanse, økt bruk av nettbasert opplæring og språktrening og kompetanseheving for programrådgivere i kommunene. Dessuten skal kommunene få mulighet til å gjennomføre forsøk med unntak fra introduksjonsloven, og
-loven skal endres slik at bruk av arbeids- og utdanningsrettede tiltak, alltid skal inn i arbeidet
-med den enkeltes individuelle plan.
-
-4.5
-
-Opplæring av ansatte er gunstig for arbeidsgiveren hvis de framtidige inntektene opplæringen genererer, overstiger opplæringskostnaden. Arbeidsgiveren risikerer å miste avkastningen av investeringen dersom arbeidstakeren skifter jobb.
-Arbeidsgiveren vil i hovedsak ha insentiver til å investere i spesifikk kompetanse som er anvendelig
-på akkurat denne arbeidsplassen. Opplæring i
-mer generelle ferdigheter – herunder språk, lesing, skriving og regning – må i hovedsak finansieres av arbeidstakeren gjennom f.eks. lavere inntekter i opplæringsperioden eller av myndighetene.68
-Formell utdanning er én måte å opparbeide
-ferdigheter på, og myndighetenes viktigste virkemiddel for å påvirke befolkningens ferdigheter.
-Formell utdanning foregår i noen grad i arbeidslivet, f.eks. lærlingordningen på videregående nivå,
-praksisperioder i profesjonsutdanninger som sykepleie- og lærerutdanning, og ulike former for
-samarbeid mellom virksomheter og utdanningsinstitusjoner. Sysselsatte deltar også i mye utdanning utenfor arbeidslivet, f.eks. ansatte som tar videreutdanning ved en utdanningsinstitusjon, eller
-studenter som jobber ved siden av studiene.
-Arbeidstakere deltar i en rekke etterutdanningskurs og andre opplæringstiltak som ikke fører fram til en offentlig anerkjent kvalifikasjon, såkalt ikke-formell opplæring. Denne typen opplæring er i hovedsak overlatt til markedet. Myndighetene sørger i noen grad for at det finnes relevante tilbud, og bidrar med finansiering der
-markedssvikten antas å være stor. Eksempler på
-dette er arbeidsmarkedskurs for personer som
-står i fare for å miste jobben, eller lese- og skrivekurs for arbeidstakere med mangelfulle grunnleggende ferdigheter (se boks 4.5).
-Sist, men ikke minst, utvikles kompetansen
-gjennom uformell læring i det daglige, spesielt i
-jobber som stiller høye krav til læring, og hvor det
-også legges til rette for at dette skal skje (læringsintensivt arbeid). Her har myndighetene li68
-
-66
-
-Djuve, A.B., Hagelund, A. & Kavli, H.C. (2012). Innvandrede kvinner i kvalifisering. Arbeidslinja når helsa skranter, utdanningen er lav og barna mange. I Stjernø, S. &
-Øverbye, E. (red.) Arbeidslinja. Arbeidsmotivasjon og velferdsstaten. Universitetsforlaget.
-67
-Blom, S. & Enes, A. (2015). Introduksjonsordningen – en
-resultatstudie, Rapporter 36/2015, Statistisk sentralbyrå.
-
-Læring i arbeidslivet
-
-Becker, G. (1974). Human Capital: A Theoretical and Empirical Analysis, with Special Reference to Education, Second
-Edition. NBER Volume ISBN: 0-226-04109-3 Denne enkle
-teorien er senere modifisert, blant annet vil kostnader knyttet til gjennomtrekk av ansatte gi arbeidsgivere insentiver
-til å finansiere også mer generell opplæring. Acemoglu, D.,
-& Pischke, J. S. (1999). Beyond Becker: training in imperfect labour markets. The Economic Journal, 109(453), 112142, viser videre at opplæring kan være lønnsomt for
-arbeidsgivere i en økonomi med sammenpresset lønnsstruktur, med relativt sett høyere inntjening av høyproduktive ansatte.
-
-[Side 77]
-
-77
-
-NOU 2017: 2
-Integrasjon og tillit
-
-Boks 4.5 Kompetansepluss
-Kompetansepluss er en statlig tilskuddsordning for opplæring i grunnleggende ferdigheter i lesing, skriving, regning, muntlig, IKT
-og grunnleggende opplæring i norsk eller samisk. Ordningen skal bidra til at voksne får
-nødvendig kompetanse til å mestre krav og
-omstilling i arbeidslivet.
-Siden ordningen ble innført i 2006, har
-over 53 000 arbeidstakere fått opplæring i
-grunnleggende ferdigheter på jobben. I 2015
-ble ordningen utvidet til å omfatte grunnleggende norskopplæring.
-Virksomheter og frivillige organisasjoner
-kan søke tilskudd. I 2016 er det bevilget over
-200 millioner kroner til Kompetansepluss.
-Kilde: Kompetanse Norge
-
-ten påvirkningskraft, samtidig som dette antakelig
-er den mest omfattende formen for kompetanseutvikling i samfunnet.
-De tre nevnte typene kompetanseutvikling kan
-ha overlappende innhold og foregå samtidig. Tabell 4.4 viser at sysselsatte innvandrere deltar
-
-Kapittel 4
-
-minst like mye som øvrige sysselsatte i formell utdanning. Sysselsatte innvandrere deltar imidlertid
-mindre i kurs og annen ikke-formell opplæring,
-og de har jobber som er mindre læringsintensive.
-Dette gjelder også om man sammenlikner innvandrere med øvrige sysselsatte på samme utdanningsnivå.69 En mulig årsak til dette er at innvandrere oftere enn andre arbeidstakere er overkvalifiserte for jobben de har (se kap. 5.4).
-
-4.6
-
-Godkjenning og komplettering av
-utenlandsk utdanning
-
-Forskning fra andre land tyder på at det er store
-sysselsettings- og inntektsgevinster av å få utdanning fra utlandet godkjent i mottakerlandet. Sysselsettingsgevinsten kan være opp mot 40 prosentenheter, enten det gjelder generell godkjenning
-av utdanning eller autorisasjon for å utøve et
-yrke.70 Det foreligger ikke kunnskap om effekten
-69
-70
-
-I internasjonal sammenheng deltar sysselsatte innvandrere
-i Norge relativt mye i utdanning og ikke-formell opplæring.
-Tani, M. (2015). Local Signals and the Returns to Foreign
-Education. IZA Discussion Paper No. 9597 December 2015;
-Herbert Brücker, H., Glitz, A., Lerche, A. & Romiti, A.
-(2015). Occupational Recognition and Immigrant Labor
-Market Outcomes. Working Paper, October 2015.
-
-Tabell 4.4 Læring i arbeidslivet, etter innvandrerbakgrunn og utdanningsnivå.1 Prosent av sysselsatte
-22–66 år, 2015
-Deltatt i
-Deltatt i
-formell
-ikke-formell
-utdanning2 siste opplæring3 siste
-12 md. (pst.)
-12 md. (pst.)
-
-Innvandrere
-
-Øvrige befolkning
-
-1
-
-2
-3
-4
-
-Har læringsintensivt
-arbeid4 (pst.)
-
-Antall
-personer
-(1000)
-
-Grunnskole
-
-9
-
-31
-
-44
-
-75
-
-Videregående
-
-9
-
-35
-
-43
-
-161
-
-Høyere utdanning
-
-14
-
-50
-
-59
-
-159
-
-I alt
-
-11
-
-40
-
-50
-
-395
-
-Grunnskole
-
-7
-
-35
-
-51
-
-373
-
-Videregående
-
-9
-
-46
-
-58
-
-930
-
-Høyere utdanning
-
-13
-
-64
-
-73
-
-848
-
-I alt
-
-10
-
-51
-
-63
-
-2 151
-
-Tallene er beregnet på grunnlag av vekter som er produsert for å kunne gi tall fra AKU for innvandrere og øvrig befolkning.
-Disse tallene er derfor ikke identiske med de ordinære AKU-tallene eller tidligere tall produsert for lærevilkårsmonitoren.Kilde:
 Statistisk sentralbyrå
-Offentlig godkjent utdanning som leder til formell kompetanse
-Kurs osv.
-Arbeid som krever at man stadig lærer seg nye ting, samtidig som det daglige arbeidet gir gode muligheter til å skaffe seg de
-kunnskaper og ferdigheter man trenger
-
-[Side 78]
-
-78
-
-Kapittel 4
-
-NOU 2017: 2
-Integrasjon og tillit
-
-av de norske ordningene, men det er rimelig å
-anta at godkjenningsordningene har stor betydning for sysselsetting og videre utdanning for
-flyktninger og andre innvandrere som har fullført
-en utdanning i utlandet.
-Mange flyktninger fra de viktigste opprinnelseslandene risikerer å ikke få medbrakt høyere utdanning godkjent i Norge på grunn av GSUlistens klassifisering av grunnopplæringen i opprinnelseslandet (se omtale av GSU-listen i kap.
-4.3.5). En bachelor fra f.eks. Syria godkjennes
-ikke som en bachelor i Norge, fordi det stilles
-krav om at samlet antall år i utdanning tilsvarer
-norsk nivå. Dette innebærer ett ekstra år med
-høyere utdanning etter videregående opplæring
-for å få generell studiekompetanse for personer
-med grunnopplæring fra Syria (se kap. 4.3.5).
-GSU-listen brukes også av lærestedene i den fag-
-
-lige godkjenningen og av autorisasjonskontorene
-(se boks 4.6).
-I Sverige ble det tidlig på 1990-tallet tatt initiativ til å utvikle kompletterende utdanningstilbud.
-Hensikten er at innvandrere skal slippe å ta hele
-utdanningen på nytt i Sverige, og at man på den
-måten forkorter veien ut i arbeidslivet. Mange av
-disse kompletterende utdanningene finansieres av
-de svenske myndighetenes integrasjonssatsinger.
-En studie dokumenterer positive effekter av utvalgte kompletterende utdanninger, spesielt for
-lærere med over 15 prosentenheter økt sysselsetting og signifikant økning i arbeidsinntekt.71
-I Norge er tilbudet av slik kompletterende utdanning lite. Mangel på samordning mellom autorisasjonskontorene og utdanningsinstitusjoner
-gjør det også vanskelig for innvandrere å få informasjon og tilbud om kompletterende utdanning. I
-
-Boks 4.6 Godkjenningsordninger for medbrakt kompetanse
-dinære ordningen fordi papirene deres ikke kan
-NOKUT er nasjonalt veiledningskontor for all
-verifiseres. Dette er en mindre ressurskrevende
-godkjenning av utenlandsk utdanning og har i
-ordning som koster om lag 5 000 kr per sak,
-tillegg ansvar for generell godkjenning av utenmen som kun gir en vurdering, ikke juridisk binlandsk høyere utdanning. Dette innebærer en
-dende vedtak. NOKUT har også etablert to såvurdering av den utenlandske utdanningen opp
-kalte turbovurderinger. Den ene gir en rask vurmot det norske utdanningssystemet, verifisering
-dering til arbeidsgivere som har jobbsøkere elav papirer etc. og utstedelse av et bevis på utdanler allerede ansatte med utenlandsk høyere utningens nivå og lengde. Det har vært en sterk
-danning. Den andre bistår universitetene og
-vekst på godkjenningsområdet. Antall saker er
-høyskolene med vurdering av søkernes utenfemdoblet i løpet av en tiårsperiode, og ligger nå
-landske høyere utdanning i forbindelse med
-på ca. 10 000 saker i året. Samtidig er saksbeopptak til doktorgradsstudier.
-handlingstiden mer enn halvert.
-Ansvaret for faglig godkjenning av utenDet er etablert en egen ordning i NOKUT
-landsk utdanning ligger hos universiteter og
-for godkjenning av høyere utdanning for persohøyskoler. Dette benyttes for det meste dersom
-ner uten verifiserbar dokumentasjon av gjenman ønsker videre studier ved et universitet elnomført høyere utdanning, den såkalte UVDler en høyskole. Godkjenning av en grad gir rett
-ordningen. Egne sakkyndige komiteer gjennomtil å titulere seg med den tilsvarende norske grafører den faglige vurderingen, koordinert av
-den. Det finnes ingen samlet statistikk som viser
-NOKUT. Ressursbruken på ordningen er omomfanget av slik faglig godkjenning av innvantrent 50 000 kr per godkjenning. UVD-ordnindreres medbrakte utdanning.
-gen krever imidlertid permanent opphold i
-Ansvaret for autorisasjon til å arbeide innenNorge og språkkunnskaper i norsk eller enfor et lovregulert yrke er tillagt ulike fagetater
-gelsk. Det betyr blant annet at godkjenningsprosom vurderer den enkeltes yrkeskvalifikasjoner,
-sessen ikke kan starte opp i asylsøkerfasen, og
-dvs. både utdanningsbakgrunn og arbeidserfaat en del flyktninger uten verifiserbare dokuring. Dette gjelder f.eks. helsepersonell, elektrimenter ikke kan få godkjent utdanning før de
-kere og lærere samt lovregulerte yrker i fag- og
-har tilstrekkelig kompetanse i norsk.
-yrkesopplæringen. Det er over 170 lovregulerte
-NOKUT har etablert en enklere ordning,
-yrker i Norge og 16 ulike godkjenningskontorer.
-«Kvalifikasjonsvurdering for flyktninger», for
-den økende gruppen flyktninger som ikke oppKilder: NOKUT og kap. 6 i Meld. St. 16 (2015–2016) Fra
-fyller forutsetningene for UVD-ordningen, og
-utenforskap til ny sjanse. Samordnet innsats for voksnes læring.
-som heller ikke kan få godkjenning etter den or-
-
-[Side 79]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-de tilfellene kompletterende utdanninger finnes,
-fører de heller ikke nødvendigvis til at autorisasjon innvilges. Disse svakhetene kan medføre at
-personer med utdanning fra utlandet må starte utdanningsløpet på nytt uten å få godskrevet medbrakt kompetanse. Myndighetene har satt i gang
-utvikling av noe kompletterende utdanning for lærere og sykepleiere, i samarbeid med Høgskolen i
-Oslo og Akershus og berørte godkjenningskontorer. I tillegg ser man på tilsvarende ordning for ingeniør- og realfagsutdanninger.
-
-4.7
-
-Samfunnsøkonomisk analyse av
-utdanning for voksne flyktninger
-
-I kapittel 5.2.4 gis det en oversikt over statistikk
-og forskningslitteratur om betydningen for innvandreres sysselsetting at de har tatt en utdanning i vertslandet. Her vises det spesielt at flyktningers medbrakte utdanning verdsettes lite i det
-norske arbeidsmarkedet. De som har norsk utdanning, har klart høyere sysselsetting enn sammenliknbare innvandrere med utenlandsk utdanning på samme nivå. I den grad denne forskjellen
-representerer en effekt av norsk versus utenlandsk utdanning, kan denne skyldes:
-– humankapitaleffekter i form av bedre og mer
-relevant kompetanse
-– nettverkseffekter, der sosialt nettverk opparbeidet under utdanning gjør det lettere å få
-jobb etterpå
-– signaleffekter i form av at et norsk vitnemål gir
-mer informasjon til en norsk arbeidsgiver enn
-et utenlandsk vitnemål
-I tillegg kan sysselsettingsforskjellene forklares
-med seleksjonseffekter som skyldes at innvandrere som tar utdanning i Norge, skiller seg systematisk fra innvandrere som ikke tar utdanning i
-Norge, på måter som kan ha betydning både for
-beslutningen om å ta utdanning og for sannsynligheten for å komme i arbeid.
-Hvis det foreligger betydelige positive seleksjonseffekter, vil sysselsettingsforskjellene mellom flyktninger med utdanning fra utlandet og
-flyktninger med tilsvarende utdanning fra Norge i
-hovedsak skyldes andre forhold enn den norske
-utdanningen. Man kan f.eks. tenke seg at en eritreisk flyktning med en bachelorgrad fra Norge
-71
 
-Niknami, S. & Schröder, L. (2012). Utvärdering av kompletterande utbildning för akademiker med utländsk examen
-Juristutbildning, lärarutbildning och förvaltningskunskap.
-Slutrapport, Institutet för social forskning (SOFI) og Stockholms universitet.
+At en utdanning fra Norge lettere gir jobb enn en tilsvarende utdanning fra utlandet, kan forklares med både humankapitaleffekter og signaleffekter. *Humankapitaleffekten* innebærer at en utdanning i Norge øker de ferdighetene som verdsettes i det norske arbeidsmarkedet, inkludert ferdigheter i norsk språk. *Signaleffekten* fanger opp at vitnemål fra norske utdanningsinstitusjoner gir norske arbeidsgivere bedre informasjon om individets ferdigheter enn vitnemål fra ofte ukjente utenlandske læresteder. Godkjenning av utdanning gir også signaleffekt: Forskning fra andre land tyder på at det er store sysselsettings- og inntektsgevinster av å få vitnemål fra utlandet godkjent i mottakerlandet.[^141]
 
-79
+Forskjellene mellom innvandrere med utdanning fra utlandet og innvandrere med utdanning fra Norge fanger i tillegg opp seleksjonseffekter. Innvandrere som tar utdanning i Norge, kan ha andre egenskaper som styrker deres stilling i arbeidsmarkedet sammenliknet med innvandrere som bare har tilsvarende utdanning fra utlandet.
 
-Kapittel 4
+Figur 5.4 tyder på at voksne innvandrere ofte opplever at utdanningen de har med seg fra utlandet, av ulike årsaker ikke verdsettes i det norske arbeidsmarkedet. En norsk studie viser videre at avkastningen i form av høyere lønn for ett år med ekstra utdanning er tre ganger så høy for personer uten innvandrerbakgrunn som for innvandrere fra Asia, Afrika mfl. med utdanning fra utlandet.[^142] En studie av voksne flyktninger i Norge fra land utenfor Europa viser at sysselsettingen blant dem som har tatt en høyere utdanning i Norge, er 20 prosentenheter høyere for menn og 30 prosentenheter høyere for kvinner, enn flyktninger med høyere utdanning fra utlandet.[^143] Tilsvarende sysselsettingsgap for flyktninger med videregående opplæring er 11 prosentenheter for menn og 25 for kvinner (se også kap. 4.7).
 
-har andre egenskaper enn en eritreisk flyktning
-med en bachelorgrad fra Eritrea. Personen som
-tar utdanning i Norge, kan blant annet ha lengre
-botid, bedre språkkunnskaper i norsk og/eller engelsk, bedre helse og mindre omsorgsforpliktelser.
-Det er mindre sannsynlig at det er seleksjon
-på evner, utholdenhet osv. når vi sammenlikner
-personer med samme utdanningsnivå. Siden utdanningsmulighetene i opprinnelseslandet er dårligere enn i Norge, er det i utgangspunktet en
-sterkere seleksjon basert på evner i utdanningssystemet i land som f.eks. Eritrea sammenliknet
-med hva som er tilfellet i Norge.
-Samtidig kan det også være negative seleksjonseffekter, som bidrar til å undervurdere betydningen av en norsk utdanning. Personer som
-søker seg til utdanning, kan være mindre jobbmotiverte enn andre og mer opptatt av f.eks. selvrealisering. Det kan også tenkes at flyktninger
-med norsk utdanning oftere har kommet til Norge
-i økonomiske lavkonjunkturer, og at de begynte i
-utdanning på grunn av høy ledighet. Likeledes
-kan det tenkes at personene som har tatt utdanning i Norge, gjorde det fordi de i utgangspunktet
-var mindre attraktive i arbeidsmarkedet og slet
-med å få jobb, sammenliknet med de som ikke
-valgte å ta utdanning.
-De store forskjellene i sysselsetting mellom
-flyktninger med utdanning fra utlandet og flyktninger med tilsvarende utdanningsnivå fra Norge
-er illustrert i kapittel 5.2.4. Tabell 4.5 gjengir disse
-forskjellene målt i prosentenheter, både for alle
-flyktninger og for dem som kom som voksne. Tabellen viser at en norsk utdanning gir 20–30 prosentenheter høyere sysselsetting, enten vi tar med
-dem som ankom som barn, eller bare dem som
-ankom som voksne.
-Basert på sysselsettingsforskjellene i tabell 4.5
-(kolonnene for «alle flyktninger») har utvalget beregnet den samfunnsøkonomiske lønnsomheten
-av ulike kombinasjoner av sysselsetting og utdanning. Konkret er det regnet på noen eksempler
-der flyktninger øker sin sysselsetting ved å komplettere sin medbrakte utdanning med en utdanning på samme nivå i Norge. Disse er vist i figur
-4.8. Forutsetninger og beregningsmetoden er beskrevet i boks 4.7. Det er gjort alternative beregninger for å ta høyde for eventuelt store seleksjonseffekter.
-Den samfunnsøkonomiske lønnsomheten er i
-figuren illustrert ved hjelp av nytte–kostnad-brøken. Når denne er lik 1, er gevinsten ved tiltaket
-like høy som kostnaden. Når brøken er større enn
+Dette ser ut til å være et nokså allment fenomen. En dansk studie av innvandrere fra Tyrkia, Pakistan og Iran, fant f.eks. at den medbrakte utdanningen ikke hadde noen selvstendig effekt på sysselsettingen. De fant også at høyt utdannede innvandrere hadde høy tilbøyelighet til å ta mer utdanning i Danmark, og at dette hadde stor effekt på sysselsettingen.[^144]
 
-[Side 80]
+OECDs kartlegging av voksnes ferdigheter (PIAAC-undersøkelsen) viser at det ikke er noen vesentlige forskjeller i sysselsettingsandeler mellom utenlandsfødte og innenlandsfødte med samme ferdighetsnivå. Figur 5.5 viser andelen utenlandsfødte som er sysselsatt, på ulike nivåer for leseferdigheter. Forskjellene mellom innenlands- og utenlandsfødte er ikke store og kan forklares med statistisk usikkerhet. Likevel er det verdt å merke seg at utenlandsfødte har en sysselsettingsandel på linje med, eller svakt over, tilsvarende andeler for innenlandsfødte på hvert ferdighetsnivå. At innvandrere totalt sett har lavere sysselsetting, er forenelig med at de er overrepresenterte i gruppen med svake leseferdigheter.
 
-80
+**\[:figur:figX-X.jpg\]**
 
-NOU 2017: 2
+1.  Sysselsetting etter leseferdigheter og innvandrerbakgrunn. Prosent
 
-Kapittel 4
+Statistisk sentralbyrå, PIAAC-data (OECD Survey of adult skills 2011­2012)
 
-Integrasjon og tillit
+1.  **Arbeidsmarkedspolitikken**
 
-Tabell 4.5 Sysselsettingsforskjeller mellom flyktninger1 med utdanning fra hhv. Norge og utlandet, etter
-alder og utdanningsnivå. Prosentenheter, 4. kvartal 2015
-Alle flyktninger
+    1.  **Bruk av arbeidsmarkedstiltak**
 
-Flyktninger bosatt som voksne
-
-25–39 år
-
-40–54 år
-
-55–66 år
-
-25–39 år
-
-40–54 år
+Arbeidsmarkedspolitikken skal legge til rette for et velfungerende arbeidsmarked med høy sysselsetting og lav ledighet og bidra til et inkluderende arbeidsliv. Arbeidsmarkedstiltak er virkemidler som skal gi arbeidssøkere mulighet til å komme inn på arbeidsmarkedet og forebygge frafall fra arbeidslivet. De mest vanlige arbeidsmarkedstiltakene omtales kort i boks 5.2.
 
-55–66 år
+1.  **De mest vanlige arbeidsmarkedstiltakene i Norge**
 
-Grunnskole
+*Lønnstilskudd*
 
-19,7
+Formålet med lønnstilskudd er at arbeidssøkere som har problemer med å komme inn på arbeidsmarkedet, skal oppnå ansettelse på ordinære vilkår ved at NAV i en begrenset periode refunderer deler av lønnen. Den ansatte skal ha ordinære lønns- og arbeidsvilkår. Lønnstilskudd skal bidra til å redusere kostnader og risiko for arbeidsgiveren ved å tilsette arbeidssøkeren, slik at produktiviteten til den ansatte kan bli prøvd ut. Et nytt regelverk for arbeidsmarkedstiltakene ble iverksatt 1. januar 2016, og hovedmålet der er å få en mer effektiv inkludering i ordinært arbeidsliv, blant annet gjennom økt bruk av lønnstilskudd. For arbeidssøkere uten nedsatt arbeidsevne kan lønnen refunderes med inntil 50 pst., og for dem med nedsatt arbeidsevne med inntil 75 pst.
 
-11,1
+*Arbeidstrening*
 
-13,1
+Arbeidstrening (tidligere arbeidspraksis) skal prøve ut den enkeltes muligheter på arbeidsmarkedet, gi relevant arbeidserfaring og styrke deltakerens muligheter til å komme i arbeid eller utdanning. Formål og innhold skal nedfelles i en avtale mellom arbeidssøker, arbeidsgiver og NAV ved oppstart. Deltakeren kan motta tiltakspenger eller dagpenger fra NAV under deltakelse på tiltaket. Varigheten er inntil ett år, men dette skal vurderes individuelt. Arbeidstrening er et lavterskeltilbud og retter seg mot arbeidssøkere med liten eller ingen erfaring fra arbeidslivet, som ungdom og nyankomne innvandrere, og arbeidssøkere som har vært lenge ute av arbeidslivet.
 
-19,1
+*Arbeidsmarkedsopplæring (AMO)*
 
-10,4
-
-13,2
-
-Videregående
-
-23,0
-
-21,3
-
-23,2
-
-24,8
-
-22,1
-
-22,9
-
-Univ./høyskole
+Arbeidsmarkedsopplæring (AMO) i form av kurs er rettet mot personer med behov for kvalifisering, som har vanskeligheter med å komme inn på arbeidsmarkedet.<sup>1</sup> AMO-tiltaket kan ha en varighet på inntil ti måneder, men de fleste AMO-tiltakene varer i mellom tre og fem måneder. Det finnes mange ulike AMO-kurs. Noen er generelle arbeidsforberedende kurs, og noen er yrkesrettede, som enkeltkurs i f.eks. regnskap, eller kurs som leder fram til godkjente eksamener/sertifikater, som datakort og fagbrev. Innholdet i kursene varierer betydelig, også mellom ulike fylker. AMO-kurs kan tilrettelegges for arbeidssøkere med innvandrerbakgrunn og kan inneholde norskopplæring, men er ikke en del av det ordinære utdanningssystemet. Noen AMO-kurs har en praksisperiode lagt inn i kursdelen. AMO anskaffes i tråd med lov om offentlige anskaffelser.
 
-39,3
+*Toårig yrkesrettet opplæringstiltak*
 
-25,6
+Fra 1. januar 2016 ble det etablert et nytt opplæringstilbud med inntil to års varighet. Målgruppen er arbeidssøkere med svake formelle kvalifikasjoner eller svake grunnleggende ferdigheter som står uten rett til videregående opplæring i det ordinære utdanningssystemet eller innenfor introduksjonsordningen.<sup>2</sup> Tiltaksdeltakerne må være fylt 19 år. Opplæringen kan gi deltakerne formell kompetanse på videregående nivå, særlig innen yrkesfag.
 
-27,3
+*Mentorordningen*
 
-36,1
+Mentorordningen er en ordning for frikjøp av en ansatt på arbeidsstedet. Tiltaksdeltakere på arbeidstrening eller nyansatte med en lønnstilskuddsavtale kan ha behov for faglig, sosial og praktisk støtte på arbeidsplassen. Å gi tilskudd til frikjøp av en ansatt med dedikert ansvar for oppfølging av den nye arbeidstakeren er et tiltak for å få til rask tilpasning til arbeidsoppgaver og arbeidsmiljø. Det kan bidra til en mer varig tilknytning til arbeidsplassen. Mentorordningen kan også benyttes som et selvstendig tiltak i en ordinær arbeidssituasjon, enten som et støttetiltak for rekruttering, eller som et tiltak for å motvirke utstøting.
 
-24,7
-
-27,0
-
-1
-
-Inkludert familiegjenforente
-Kilde: Statistikk fra Statistisk sentralbyrå bearbeidet av Utvalg om innvandringens konsekvenser
-
-snittet for flyktninger i samme aldersgruppe som
-har norsk grunnskoleutdanning (se tabell 4.5).
-Dersom denne forutsetningen er urealistisk –
-f.eks. fordi flyktningene med størst effekt av utdanning i Norge allerede har tatt den – viser figuren også et beregningsalternativ der halvparten
-av sysselsettingsgevinsten antas å skyldes seleksjon. I dette lavalternativet er nytte–kostnad-brøken 4,5 hvis flyktningen klarer å fullføre norsk
-grunnskole på ett år.
-Jo flere år flyktningen bruker på å fullføre utdanningen, desto lavere blir gevinsten i forhold til
-kostnaden. Kompletterende grunnskoleutdanning
-er i eksempel 1 samfunnsøkonomisk ulønnsomt
-
-1, er tiltaket samfunnsøkonomisk lønnsomt. Når
-brøken er mindre enn 1, er tiltaket ulønnsomt.
-Eksempel 1 illustrerer at dersom en 26-årig
-flyktning med grunnskoleutdanning fra utlandet
-kompletterer denne med en norsk grunnskoleutdanning i løpet av ett år, er nytten (i form av økt
-produksjon over livsløpet) drøye ti ganger høyere
-enn kostnaden (skoleplass og tapt produksjon i ett
-år). Sagt på en annen måte får samfunnet igjen
-over ti kroner for hver krone som investeres i et
-slikt opplæringstiltak.
-Dette forutsetter at tiltaket medfører at flyktningen etter fullført grunnskole øker sysselsettingssannsynligheten opp på nivå med gjennom-
-
-Eksempel 1: Flyktning med grunnskole Eksempel 2: Flyktning med videregående
-Eksempel 3: Flyktning med høyere
-eller mindre fra utlandet, fullfører
-fra utlandet, fullfører videregående i Norge utdanning fra utlandet, fullfører høyere
-grunnskole i Norge
-utdanning i Norge
-32
-30
-28
-26
-24
-22
-20
-18
-16
-14
-12
-10
-8
-6
-4
-2
-0
-
-1 år
-
-2 år
-
-3 år
-
-4 år
-
-5 år
-
-32
-30
-28
-26
-24
-22
-20
-18
-16
-14
-12
-10
-8
-6
-4
-2
-0
-
-1 år
-
-2 år
-
-3 år
-
-Hovedalternativ
-
-4 år
-
-5 år
-
-32
-30
-28
-26
-24
-22
-20
-18
-16
-14
-12
-10
-8
-6
-4
-2
-0
-
-1 år 2 år 3 år 4 år 5 år 6 år 7 år 8 år
-
-Lavalternativ
-
-Figur 4.8 Samfunnsøkonomisk lønnsomhet målt ved nytte–kostnad-brøk for ulike eksempler på kompletterende utdanningstiltak for en flyktning på 26 år, etter medbrakt utdanningsnivå og antall år i fulltids opplæring i Norge
-Kilde: Utvalgets egne beregninger
+<sup>1</sup> NOU 2012: 6 *Arbeidsrettede tiltak*.
+
+<sup>2 </sup>Meld. St. 16 (2015­2016) *Fra utenforskap til ny sjanse. Samordnet innsats for voksnes læring*.
+
+**\[Boks slutt\]**
+
+Arbeidsmarkedstiltak er ingen rettighet, men gis på bakgrunn av en individuell vurdering av den enkeltes behov for bistand for å komme i arbeid. Tilbud om tiltak gis dersom dette anses som nødvendig og hensiktsmessig for den enkeltes muligheter på arbeidsmarkedet. Den arbeidsrettede bistanden skal tilpasses den enkelte arbeidssøkers behov.
+
+Innvandrere er en utsatt gruppe på arbeidsmarkedet. Innvandrere fra land utenfor EU er derfor ­ i tillegg til ungdom, personer med nedsatt arbeidsevne og langtidsledige ­ prioritert ved inntak til arbeidsmarkedstiltak.
+
+Innvandrere står ofte overfor andre utfordringer og vanskeligheter enn arbeidsledige i majoritetsbefolkningen når de skal etablere seg på arbeidsmarkedet. Innvandrere er i tillegg en uensartet gruppe. Ulike tiltak innenfor arbeidsmarkedspolitikken kan ha andre effekter for innvandrere enn for majoritetsbefolkningen.
+
+Innvandrere utgjorde om lag 37 pst. av de registrerte ledige i 3. kvartal i 2016 (se tabell 5.2). I samme periode utgjorde de nesten 44 pst. av alle deltakere i tiltak for ledige. Om lag en femdel av de registrerte ledige og nesten en tredel av tiltaksdeltakerne var innvandrere fra Asia, Afrika mfl. Tabell 5.2 viser at innvandrere, særlig fra landgruppe 3, er overrepresentert som deltakere i arbeidsmarkedstiltak. Mens andel tiltaksdeltakere ligger på rundt 0,3 pst. for befolkningen eksklusive innvandrere, er tilsvarende andel 1,3 pst. for alle innvandrere og hele 2,6 pst. blant innvandrere fra Afrika. Tiltaksintensiteten viser også at flere innvandrere blant de ledige deltar på arbeidsmarkedstiltak. Tiltaksintensiteten er igjen høyest for innvandrere fra Afrika, hvor nesten en tredel av de ledige deltar på tiltak.
+
+1.  Deltakere i arbeidsmarkedstiltak etter innvandrerbakgrunn. 2. kvartal 2016. Andel av befolkningen
+
+|  |  |  |  |  |  |  |
+|----|----|----|----|----|----|----|
+|  | Tiltaksdeltakere (pst. av befolkningen) | Tiltaksintensitet<sup>1</sup> |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  | Alle | Menn | Kvinner | Alle | Menn | Kvinner |
+|  |  |  |  |  |  |  |
+| Befolkningen eksl. innvandrere | 0,3 | 0,4 | 0,3 | 0,18 | 0,17 | 0,18 |
+| Alle innvandrere | 1,3 | 1,0 | 1,6 | 0,21 | 0,16 | 0,27 |
+| Norden | 0,3 | 0,4 | 0,3 | 0,12 | 0,11 | 0,14 |
+| Vest-Europa ellers | 0,5 | 0,4 | 0,5 | 0,13 | 0,10 | 0,19 |
+| EU-land i Sentral- og Øst-Europa | 0,9 | 0,5 | 1,5 | 0,12 | 0,07 | 0,22 |
+| Øst-Europa ellers | 1,4 | 1,0 | 1,6 | 0,23 | 0,18 | 0,27 |
+| Nord-Amerika og Oseania | 0,5 | 0,5 | 0,5 | 0,19 | 0,18 | 0,21 |
+| Asia | 1,6 | 1,3 | 1,8 | 0,26 | 0,22 | 0,30 |
+| Afrika | 2,6 | 2,5 | 2,7 | 0,32 | 0,29 | 0,36 |
+| Sør- og Mellom-Amerika | 1,7 | 1,3 | 2,0 | 0,24 | 0,18 | 0,29 |
+|  |  |  |  |  |  |  |
+
+<sup>1 </sup>Andel tiltaksdeltakere blant bruttoledige (arbeidsledige pluss tiltaksdeltakere)
+
+Registerbasert ledighetsstatistikk, Statistisk sentralbyrå
+
+Figur 5.6 viser tiltakssammensetning for henholdsvis alle ledige og ledige innvandrere i desember 2016. Arbeidsmarkedsopplæring er mye mer brukt for innvandrere enn for alle. Over en tredel av tiltaksdeltakerne blant innvandrere deltar på et opplæringstiltak, sammenliknet med omtrent en firedel for alle. Bruk av arbeidspraksis er omtrent like utbredt blant innvandrere som for alle. Lønnstilskudd er generelt lite brukt, men er likevel mye mer utbredt som tiltak for alle enn for innvandrere.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Fordeling av ledige innvandrere på tiltak, gjennomsnittlig månedstall hittil i 2016. Prosent
+
+Arbeids- og sosialdepartementet basert på opplysninger fra Statistisk sentralbyrå og Arbeids- og velferdsdirektoratet.
+
+1.  **Effekter av arbeidsmarkedstiltak**
+
+Hovedformål med arbeidsmarkedstiltak er å øke overgang til ordinær jobb. Generelt er det krevende å få til gode effektstudier av tiltak innenfor arbeidsmarkedspolitikken. Ideelt sett burde effektstudier være basert på randomiserte eksperimenter, kvasi-eksperimentelle tilnærminger eller andre metoder som på en eller annen måte tar høyde for potensiell seleksjon i tiltaksdeltakelse, dvs. at deltakerne på en type tiltak kan skille seg ut fra personer som ikke deltar på tiltak eller som deltar på andre typer tiltak.
+
+Eksisterende effektstudier av arbeidsmarkedstiltak omtaler mange ulike typer effekter, hvor de vanligste som analyseres er innlåsings-, program- og totaleffekter. Innlåsingseffekter forekommer når overgangen til jobb blant tiltaksdeltakere er lavere enn blant ikke-deltakere mens arbeidsmarkedstiltak pågår. Slike effekter kan f.eks. oppstå når deltakelse på tiltaket minsker tiden som er tilgjengelig for å søke ordinær jobb. Programeffekter er effektene på overgang til jobb etter at tiltaket er ferdig, mens totaleffekter skal teoretisk være summen av alle typer effekter. Totaleffektene blir som oftest i praksis målt som summen av innlåsings- og programeffekter.
+
+Arbeidsmarkedstiltak kan også ha effekter for andre enn tiltaksdeltakerne. Fortrengning er en mulig ikke-tilsiktet effekt av lønnstilskudd. Om en person får jobb ved at lønnen blir subsidiert av myndighetene, kan jobbmulighetene til andre arbeidssøkere, som er dyrere for arbeidsgiveren, reduseres. En slik effekt kan særlig være til stede på kort sikt i en situasjon der arbeidsmarkedets evne til å absorbere en økt arbeidsstyrke er begrenset. Det kan være realistisk på kort sikt eller når arbeidsledigheten er høy. På lengre sikt vil arbeidsmarkedet kunne tilpasse seg en situasjon med en slik økning i arbeidsstyrken.
+
+En annen utfordring med arbeidsmarkedstiltak er at de kan gi arbeidsgivere insentiver til å overføre lønnskostnader på staten ved å ansette produktive arbeidstakere på lønnstilskudd framfor i ordinært arbeid. Både kostnadsoverføring og fortrengning er vanskelig å måle empirisk, og det er ikke tilstrekkelig belegg for sterke konklusjoner om omfanget av disse utfordringene, gitt tiltaksnivået i Norge i dag.
+
+Analyser av arbeidsmarkedstiltak burde også, ideelt sett, måle hvor kostnadseffektive tiltakene er. En analyse av kostnadseffektivitet ville sammenlikne kostnader og ulemper knyttet til gjennomføring av tiltaket, f.eks. kostnader til saksbehandling, tiltakspenger, osv., opp mot fordelene, f.eks. økt lønn som følge av større overgang til jobb. Det foreligger imidlertid få slike analyser, bl.a. pga. manglende relevante data.
+
+Kunnskapsgrunnlaget for ulike deler av arbeidsmarkedspolitikken varierer, men innenfor den generelle arbeidsmarkedspolitikken, dvs. arbeidsmarkedspolitikken som ikke er rettet særskilt mot flyktninger eller innvandrere, finnes det noen internasjonale meta-analyser som samler og sammenfatter eksisterende studier.[^145] Her utpekes særlig lønnstilskudd i privat sektor som det arbeidsmarkedstiltaket som gir best overgang til arbeid. Deltakere på lønnstilskudd er imidlertid ofte de som står nærmest arbeidsmarkedet. Det er dermed ikke opplagt at effektene av lønnstilskudd for denne gruppen er overførbare til andre jobbsøkere. Samtidig viser to danske studier at lønnstilskudd har størst effekt for en rekke svakere grupper i Danmark, hvor innvandrerne er én av gruppene som peker seg ut.[^146]
+
+Opplæringstiltak innenfor arbeidsmarkedspolitikken – som stort sett ikke er av langvarig karakter – og bistand ved jobbsøking ser også ut til å ha en viss positiv effekt ifølge de internasjonale meta-analysene. Eksisterende studier, som ofte dekker perioder av begrenset varighet, kan imidlertid undervurdere mulige positive effekter av slike tiltak, som kan tenkes å være større på mellomlang eller lang sikt. Offentlige sysselsettingstiltak og/eller lønnstilskudd i offentlig sektor har stort sett ingen effekt og har ofte vist seg til og med å kunne ha negative totaleffekter, særlig når tiltaket har sterke innlåsingseffekter.[^147]
+
+Forskning om effekten av arbeidsmarkeds- og integreringstiltak blant innvandrere er av begrenset omfang. Ifølge en studie fra Fafo hadde lønnstilskudd en betydelig effekt for både majoritetsbefolkningen og tre av gruppene i analysen (Øst-Europa, Asia og Afrika).[^148] Effekten var muligens noe større for innvandrerne enn for majoritetsbefolkningen. Arbeidsmarkedsopplæring hadde en viss effekt for majoritetsbefolkningen og innvandrere fra Asia og Øst-Europa, men denne effekten var betydelig mindre enn for lønnstilskudd. Det viste seg å være en negativ effekt av praksisplass (arbeidspraksis) for majoritetsbefolkningen, mens det var en liten positiv effekt av dette tiltaket for innvandrere fra Øst-Europa og Asia.
+
+En studie fra Frischsenteret viser negative innlåsingseffekter og positive programeffekter av arbeidsmarkedstiltak.[^149] Innlåsingseffektene ser ut til å være noe mindre for innvandrere enn for andre. På lengre sikt gir tiltakene imidlertid økt overgang til jobb, og dette gjelder særlig for innvandrere pga. de mindre negative innlåsingseffektene for denne gruppen. Totaleffektene blir i beste fall moderate, også for innvandrere. Studien skiller ikke mellom ulike typer tiltak.
+
+En annen norsk studie skiller mellom AMO, lønnstilskudd og arbeidspraksis samt tiltakskjeding i form av AMO etterfulgt av arbeidspraksis eller lønnstilskudd.[^150] For alle tiltakene er det negative innlåsingseffekter i noe tid etter oppstart, men disse forsvinner og/eller blir positive etter hvert for AMO og lønnstilskudd. Det betyr at eventuelle innlåsingseffekter i begynnelsen av tiltakene opphører allerede mens tiltakene pågår for AMO og lønnstilskudd. Effektene ser ut til å være av omtrent samme størrelsesorden for innvandrere fra Asia, Afrika mfl. og majoritetsbefolkningen. Programeffektene på overgang til jobb er sterkt positive umiddelbart etter AMO og lønnstilskudd for både innvandrere og majoritetsbefolkningen, men avtar over tid. Arbeidspraksis ser ikke ut til å påvirke overgang til jobb etter tiltaket, verken for innvandrere eller for majoritetsbefolkningen. Mens tiltakskjeding i form av AMO etterfulgt av arbeidspraksis eller lønnstilskudd gir økt overgang til jobb etter (det siste) tiltaket for innvandrere fra Asia, Afrika mfl., finnes det ingen slik effekt for majoritetsbefolkningen.
+
+Tiltakskjeding er ikke uvanlig, særlig for personer som i utgangspunktet står langt fra arbeidsmarkedet. En studie fra Frischsenteret ser derfor nærmere på to former for tiltakskjeding:[^151] AMO etterfulgt av arbeidspraksis og arbeidspraksis etterfulgt av AMO. For disse formene for tiltakskjeding avdekkes det sterkere innlåsingseffekter på overgang til jobb for innvandrere enn for den øvrige befolkningen. Totaleffektene er små, både for innvandrere og for øvrig befolkning, men litt større for innvandrere. AMO etterfulgt av arbeidspraksis ser ut til å gi større effekt enn praksis etterfulgt av AMO (og enn AMO alene). Programeffekter av arbeidspraksis er positive for innvandrere, men ikke for den øvrige befolkningen, og mindre enn tilsvarende effekter for AMO alene.
+
+Et liknende tiltak som norsk arbeidspraksis/arbeidstrening finnes i Danmark («praktik»), hvor det ser ut til å ha positive effekter for både innvandrere[^152] og andre svake eller marginaliserte grupper.[^153] I Danmark er det også flere studier som viser positive program- og totaleffekter av privat lønnstilskudd for innvandrere, mens det finnes motstridende funn for effekter av «uddannelsesaktivering» innenfor arbeidsmarkedspolitikken (tilsvarende norsk AMO).
+
+Analysen av arbeidsmarkedstiltak og språkundervisning innenfor det danske introduksjonsprogrammet tyder på at programmet kan innebære visse innlåsingseffekter ved at sannsynligheten for arbeid og selvforsørgelsen minskes noe i programperioden.[^154] Innlåsingseffektene ser imidlertid *ikke* ut til å gjelde lønnstilskudd i privat sektor under introduksjonsprogrammet. Mangel på innlåsingseffekter koplet med sterke programeffekter betyr at lønnstilskudd i privat sektor kom klart best ut som tiltak innenfor det danske introduksjonsprogrammet. Mange av tiltakene med sterke innlåsingseffekter viste ingen eller små programeffekter og dermed ingen eller negative totaleffekter. Studien kunne bare avdekke korttidseffekter. Det er god grunn til å tro at mange av de positive effektene av arbeidsmarkedstiltak brukt innenfor introduksjonsprogrammet inntreffer først på mellomlang eller lengre sikt.
+
+Et forsøk i 20 svenske kommuner i perioden 2003­2006 la vekt på bedre, strukturert veiledning og rådgivning for innvandrere gjennom metoden «supported employment». Resultater tyder på at programmet hadde en moderat effekt på sysselsettingen.[^155] Det hadde også en positiv effekt på deltakelse i tiltak som ga deltakerne mer arbeidserfaring, noe som kan være gunstig på noe lengre sikt, dvs. utover observasjonsperioden for analysen. Sensitivitetsanalyser trekker imidlertid konklusjonene om sysselsettingseffekten til en viss grad i tvil, og det er derfor usikkert om analysen klarer å fange opp effekten av tiltaket.
+
+I Sverige finnes det erfaringer med tiltakskjeding av to lønnstilskuddsordninger, «instegsjobb» og «nystartsjobb». Nystartsjobb er et tiltak som kan brukes for alle – ikke bare innvandrere – som har vært arbeidsledige i minst ett år eller for innvandrere som har vært bosatt i opptil tre år. «Instegsjobb» brukes utelukkende for innvandrere, og innvandrere får lov å ha 15 timer med svenskopplæring i uken som en del av arbeidstiden. Tilskudd til arbeidsgiveren er høyere for «instegsjobb» (80 pst. av lønn) enn for nystartsjobb. Kartlegginger viser at det forekommer tiltakskjeding med disse tiltakene, uten at det var intensjonen. «Instegsjobb» øker sannsynligheten for nystartsjobb.[^156] Deltakere som har vært gjennom både «insteg» og «nystart», som nesten utelukkende skjer med «insteg» først og så «nystart», viser de beste sysselsettingsresultatene, dvs. bedre enn både en sammenlikningsgruppe uten tiltak og dem som bare hadde gått på nystartsjobb-tiltaket.
+
+1.  **Internasjonalt perspektiv: Norge som et arbeidsmarked med høye kompetansekrav**
+
+Dette kapitlet gir en kort oversikt over internasjonale analyser og statistikker som setter situasjonen for innvandrere på det norske arbeidsmarkedet i et internasjonalt perspektiv. Tallene er hentet fra publikasjoner og statistikkbaser i OECD som i stor grad er basert på internasjonalt sammenliknbare tall fra arbeidskraftsundersøkelsene i de enkelte landene.
+
+OECD-statistikken skiller mellom innenlandsfødte og utenlandsfødte i analysene. Denne inndelingen skiller seg noe fra den som til vanlig brukes i norsk statistikk, og tall vil derfor ikke være direkte sammenliknbare med resten av kapitlet (se kap. 2.4).
+
+1.  **Sysselsettingsrater**
+
+Sysselsettingsraten blant utenlandsfødte er høyere i Norge enn i de fleste andre OECD-land.[^157] Det kan være flere årsaker til dette. Innvandrernes sammensetning etter innvandringsgrunn, utdanning, botid, kjønn og alder mv. er faktorer som påvirker sysselsetting, sammen med landenes evne til å integrere innvandrere i arbeidslivet.
+
+Sysselsettingsandelen blant utenlandsfødte er relativt høy i Norge sammenliknet med de fleste andre OECD-land, men sysselsettingsraten blant utenlandsfødte er betydelig lavere (10 prosentenheter) enn blant innenlandsfødte. Dette gapet er mindre i Norge enn i en del andre land, inkludert Sverige, Danmark og Finland, men likevel større enn i mange andre OECD-land. De høye sysselsettingsratene for innvandrere i Norge henger til dels sammen med at arbeidsinnvandrere har utgjort en større andel av innvandringen til Norge enn til de andre landene de siste ti årene.

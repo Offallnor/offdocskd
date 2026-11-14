@@ -1,943 +1,270 @@
-# NOU 2021: 9, del 13 av 36 (side 145–155)
+# NOU 2021: 9, del 13 av 42
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2021/a2e6ef96-nou-2021-9.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2021-9/id2862895/
 - Original-PDF: https://www.regjeringen.no/contentassets/7b8fb44f93a4402981ed7f279b345dbe/no/pdfs/nou202120210009000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 tabeller, 28 figurer, 239 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 145]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-143
-
-Kapittel 6
-
-Boks 6.1 Employment Relationship Recommendation
-– Arbeidet utføres under en annens instrukILOs Employment Relationship Recommendasjon og kontroll.
-tion, 2006 (No. 198) inneholder anbefalinger om
-– Arbeidet utføres som en integrert del av virkå sikre effektiv beskyttelse av arbeidstakere,
-somheten/organisasjonen.
-særlig knyttet til eksistensen av et arbeidsfor– Arbeidet utføres kun eller i hovedsak for en
-hold. Her anbefales medlemsstatene å sørge for
-annen.
-veiledninger som effektivt bidrar til å avgjøre
-– Arbeidet må utføres personlig.
-om det foreligger et ansettelsesforhold, her– Arbeidet blir utført innenfor en spesifikk
-under grensen mellom arbeidstaker og opparbeidstid eller på et spesifikt arbeidssted
-dragstaker, og bekjempelse av feilklassifisering.
-som er bestemt av den andre.
-Det er også anbefalt at arbeidstakerstatus må
-– Arbeidet er av en bestemt varighet og med en
-bedømmes etter realitetene og ikke hva som er
-viss kontinuitet.
-avtalt. For å avgjøre om det er tale om et arbeids– Arbeidet krever arbeiderens tilgjengelighet.
-forhold eller ikke, vises det til at medlemssta– Arbeidet involverer utstyr, materialer og mastene blant annet kan vurdere å ha en presumkiner levert av en annen.
-sjonsordning for arbeidsforhold gitt visse vilkår,
-– Periodisk betaling av lønn.
-og/eller i samråd med partene bestemme at
-– Betalingen er arbeiderens hovedinntektarbeidere med visse kjennetegn skal anses å
-skilde.
-være enten arbeidstaker eller oppdragstaker.
-– Betaling av naturalytelser (for eksempel
-Rekommandasjonen inneholder også forslag til
-reise, kost, losji).
-hvilke momenter som kan bidra til å avgjøre om
-– Anerkjenne berettigelsen av ukentlig hvile og
-det er tale om et arbeids- eller oppdragsforhold,
-årlig ferie.
-jf. avsnitt 13. Listen omfatter følgende momen– En annen betaler reiser for å få utført arbeiter:
-det.
-– Fravær av finansiell risiko for arbeideren.
-
-6.2.2
-
-Fokus på fremtidens arbeidsliv
-
-ILOs hundreårsjubileum ble markert i 2019 med
-fokus på fremtidens arbeidsliv. I juni 2019 ble det
-vedtatt en «hundreårserklæring» på den internasjonale arbeidskonferansen (ILO 2019, Centenary Declaration for the Future of Work).
-Et viktig premiss i hundreårserklæringen var
-rapporten «Work for a brighter future» fra februar
-2019 (ILO 2019b). Rapporten ble laget av en kommisjon, ledet av Sveriges statsminister, Stefan
-Löfven og Sør-Afrikas president, Cyril Ramaphosa, som var nedsatt for å gi en samlet fremstilling av hva som må til for å sikre trygghet, likhet
-og velstand i fremtidens arbeidsliv. På den måten
-ble det lagt opp til en samlet oppfølging av de
-tema ILO har satt søkelys på i lang tid, som blant
-annet anstendig arbeid, bærekraftig utvikling,
-sosial dialog og likeverdige arbeidsvilkår for alle.
-Daværende administrerende direktør i NHO,
-Kristin Skogen Lund, ble oppnevnt som medlem
-av kommisjonen.
-
-Kommisjonen tok utgangspunkt i at arbeidslivet er under kontinuerlig utvikling og endring. Ny
-teknologi, nye krav til ferdigheter, miljø- og klimaendringer og befolkningsendringer innebærer
-nye utfordringer som kommer i tillegg til de eksisterende utfordringer på globalt plan, slik som fattigdom, manglende likestilling, arbeidsledighet og
-et stort uformelt arbeidsmarked.
-Kommisjonens hovedbudskap var at endringer i arbeidslivet må møtes ved å revitalisere
-den sosiale kontrakten mellom de styrende og
-den arbeidende befolkningen og tilføre ny kraft til
-den sosiale dialogen i arbeidslivet. Kommisjonen
-anbefalte tre særskilte innsatsområder:
-– Styrke investeringene i kompetanse.
-– Styrke investeringene i institusjoner som former arbeidslivet.
-– Styrke investeringene i anstendig og bærekraftig arbeid.
-Kommisjonens rapport ble som nevnt fulgt opp av
-en hundreårserklæring i juni 2019. Erklæringen
-bygger på de samme hovedelementene som rap-
-
-[Side 146]
-
-144
-
-Kapittel 6
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-porten. På basis av trepartssamarbeidet i arbeidslivet anbefales medlemsstatene å:
-– Styrke mulighetene for at alle kan høste fordeler av et arbeidsliv i endring ved en effektiv realisering av likestilling mellom kjønn, livslang
-læring og utdanning av høy kvalitet, universell
-adgang til sosial sikkerhet og effektive tiltak
-for å bistå gjennom overganger i løpet av et
-yrkesaktivt liv.
-– Styrke institusjonene i arbeidslivet for å sikre
-beskyttelse av arbeidstakere i samsvar med
-ILOs agenda for et anstendig arbeid.
-– Fremme en bærekraftig økonomisk vekst, produktiv og full sysselsetting gjennom gode rammebetingelser og investeringer i infrastruktur
-og strategiske sektorer som bidrar til å realisere målene i erklæringen.
-Det ble samtidig besluttet at ILOs styre skal vurdere om HMS skal bli en del av ILOs kjernekonvensjoner og en fundamental rettighet i arbeidslivet.
-FNs Generalforsamling vedtok høsten 2019 en
-resolusjon som ga tilslutning til målsettingene og
-anbefalte at disse følges opp av medlemsstatene
-og i arbeidet i øvrige FN-organer.
-
-6.2.3
-
-ILO-sekretariatets analyser og
-anbefalinger når det gjelder ulike
-former for tilknytningsformer
-Saker av avgjørende betydning i ILO behandles av
-den årlige arbeidskonferansen eller styret. Analysene og anbefalingene som beskrives i det følgende er utarbeidet av ILOs sekretariat, som har
-laget en rekke rapporter om utviklingstrekk i
-arbeidslivet globalt.
-Rapportene viste at selv før koronapandemien
-rammet verden, var 13 prosent av den samlede
-arbeidsstyrken undersysselsatt eller helt uten
-arbeid (ILO 2020). ILOs tilnærming vil ofte være å
-fremme utvikling, og dermed kan deres analyser
-og anbefalinger være særlig orientert mot situasjonen i andre deler av verden. Samtidig legger
-ILO vekt på prinsipielle tilrådinger, for eksempel
-om hvordan arbeidstakeres rettigheter kan ivaretas uavhengig av den enkeltes tilknytningsform.
-ILO (2016) har definert alternative tilknytningsformer som alt arbeid som adskiller seg fra
-fast ansettelse i heltidsstilling, og omfatter følgende fire hovedkategorier:
-– Midlertidig arbeid (temporary employment).
-– Arbeid på tilkalling og deltid (part-time and oncall work).
-
-–
-–
-–
-
-Trepartsrelasjoner som innleie og entreprise
-(multi-party employment relationship).
-Selvstendige som i praksis fungerer som
-arbeidstakere (disguised employment/dependent self-employment).
-For enkelte kan arbeid i en alternativ tilknytningsform være et bevisst valg og ha positive
-effekter, men ifølge ILO vil alternativ tilknytningsform for de fleste være forbundet med
-usikkerhet og få konsekvenser på blant annet
-følgende områder: Jobbusikkerhet, lønn,
-balanse mellom arbeid og fritid, HMS, sosiale
-rettigheter, opplæring, representasjon, produktivitet, arbeidsmarkedssegmentering, økonomisk stabilitet, boliglån/familieplanlegging.
-
-ILO (2016) anbefaler i rapporten at reguleringene
-og politikken innrettes for å sikre anstendig
-arbeid for alle ved å:
-– Tette regulatoriske hull, eksempelvis sikre
-likebehandling av arbeidstakerrettigheter og
-redusere insentiver for å bruke alternativ tilknytning, adressere problemstillinger rundt
-«feilklassifisering» og gråsoner, fordele plikter
-og ansvar i flerpartsrelasjoner og sikre at alle
-arbeidere har tilgang til organisasjonsfrihet og
-rett til kollektive forhandlinger.
-– Styrke den kollektive forhandlingsretten,
-eksempelvis styrke fagforeningers mulighet til
-å organisere arbeidere i alternativ tilknytning,
-og sikre effektiv representasjon i kollektive forhandlinger.
-– Styrke sosiale rettigheter, for eksempel knyttet
-til opptjeningstid for når man har krav på
-ytelser.
-– Innføre politikk som styrer sosial risiko og tar
-hensyn til endringer i arbeidsmarkedet,
-eksempelvis makroøkonomisk politikk som
-støtter opp om fulltidsarbeid.
-ILO gjennomfører studier av flere former for alternativ tilknytning, blant annet har de publisert en
-studie av reglene for innleie fra bemanningsforetak og hvilke effekter bruk av innleie kan ha på
-blant annet lønns- og arbeidsvilkår. Her fremkommer det at det er gitt gradvis større aksept for
-bruk av bemanningsforetak i arbeidslivsreguleringene i sentrale EU-land, og at dette er blitt påskyndet av gjennomføringen av likebehandlingsprinsippet i EUs vikarbyrådirektiv (2008/104/EF), jf.
-omtale av direktivet i punkt 8.6.2 nedenfor. Forskerne bak rapporten stiller seg imidlertid kritiske til om dette i tilstrekkelig grad ivaretar hensynet til beskyttelse av arbeidstakere (jf. Countouris mfl. 2016). Reguleringer av innleie fra beman-
-
-[Side 147]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-ningsforetak i de nordiske landene omtales nærmere i punkt 8.6.7.
-For ILO står det helt sentralt å motivere til trepartssamarbeid i arbeidslivet. Dette gjennomsyrer selve arbeidsformen, hvor arbeidstakersiden,
-arbeidsgiversiden og myndighetene deltar på like
-vilkår. Det gis særlig oppmerksomhet til å følge
-opp retten til kollektiv organisering og forhandlinger, blant annet gjennom ordningene for rapportering og oppfølging av konvensjonene. ILO har
-også som mål å hjelpe medlemsstatene til å etablere eller styrke juridiske rammer, institusjoner
-og prosesser for partssamarbeid.3
-ILO gjennomfører et omfattende arbeid med å
-kartlegge utbredelsen av trygdeordninger for
-arbeidstakere og motivere til innføringen av ordninger som ivaretar arbeidstakeres sosiale sikkerhet. Dette er blant temaene som er særlig vektlagt
-i de kartlegginger som er gjort av arbeid innen
-den digitale plattformøkonomien, jf. nærmere
-omtale i kapittel 4. ILO vektlegger betydningen av
-fleksible sosiale ordninger som gjør at den som
-utfører arbeid kan dekkes av disse ved jobbskifter
-og ulike tilknytningsformer. De fremhever betydningen av offentlige, skattefinansierte ordninger
-for å sikre alle et grunnleggende nivå av sosial
-beskyttelse (jf. Berg mfl. 2018). ILO har også tatt
-til orde for å innføre internasjonale kjøreregler for
-digitale plattformer etter inspirasjon fra det maritime regelverket (Maritime Labour Convention
-fra 2006), som har bidratt til felles retningslinjer
-for alle som arbeider til sjøs.
-ILO anbefaler medlemsstatene å regelmessig
-gjennomgå sine reguleringer av arbeidsforhold
-(se nærmere omtale av ILOs rekommandasjon i
-boks 6.1). Når arbeidslivet endrer seg må også
-reguleringene vurderes slik at de ivaretar formålet om å gi arbeidstakere tilstrekkelig beskyttelse.
-De understreker betydningen av at reguleringene
-gir tilstrekkelig veiledning for den enkelte som
-utfører arbeid til å kunne vurdere om det foreligger et arbeidsforhold og skille dette fra genuine
-situasjoner hvor man arbeider som selvstendig.4
-
-3
-4
-
-Om ILOs arbeid, se nettside: https://www.ilo.org/global/
-about-the-ilo/mission-and-objectives/lang--en/index.htm
-Kartlegging utarbeidet av ILOs Committee of Experts on
-the Application of Conventions and Recommendations til
-behandling på arbeidskonferansen i 2020. Konferansen ble
-avlyst på grunn av koronapandemien. Nettside: Report
-III(B): Promoting employment and decent work in a changing landscape (ilo.org)
-
-6.3
-
-145
-
-Kapittel 6
-
-OECD
-
-6.3.1 Om OECD
-Organisasjonen for økonomisk samarbeid og
-utvikling (OECD) ble etablert i 1961, og har nå 36
-medlemsland. Generalsekretær er Angel Gurría
-fra Mexico. Han har ledet organisasjonen siden
-2006.
-OECD er basert på mellomstatlig samarbeid
-på områder som spenner over hele bredden av
-økonomiske, næringspolitiske og sosiale spørsmål og med langsiktige målsetninger om å
-fremme bærekraftig økonomisk vekst, sikre gode
-vilkår for multilateral handel og bidra til økonomisk og sosial utvikling, ikke bare i medlemslandene, men også i ikke-medlemsland. OECD samarbeider med omkring 90 ikke-medlemsland, ikke
-minst store fremvoksende økonomier. Partene er
-ikke representert i besluttende organer, men fagforeningene og næringslivets interesseorganisasjoner er tilknyttet OECDs arbeid konsultativt
-gjennom henholdsvis Business and Industry Advisory Committee (BIAC) og Trade Union Advisory
-Committee (TUAC).
-OECD har ingen overnasjonal myndighet som
-EU, og har heller ingen midler til utlån som IMF
-eller Verdensbanken. Organisasjonens styrke ligger i dens analytiske arbeid og dens «overtalelsesevne» (peer pressure) i forhold til å bevege medlemslandene mot felles tilnærminger til og retningslinjer for sin nasjonale politikk i en gjensidig
-avhengig verden. OECD har et særlig fortrinn i
-komparative statistiske, økonomiske og sosiale
-data.
-6.3.2
-
-OECDs anbefalinger om fremtidens
-arbeidsliv
-
-En av OECDs faste årlige rapporter omfatter
-Employment Outlook. Employment Outlook 2019
-hadde et særlig fokus på fremtidens arbeidsliv,
-med utfordringer knyttet til megatrender som aldring, globalisering, teknologisk utvikling, kompetansebehov, nye former for arbeidsforhold, utfordringer for sårbare grupper i arbeidsmarkedet og
-betydningen av sosial dialog. Dette er en omfattende rapport med analyser, statistikk og faglige
-vurderinger, samt råd til politiske beslutningstakere. Et annet viktig bidrag er rapporten «Negotiating Our Way Up. Collective Bargaining in a
-Changing World of Work» fra november 2019,
-hvor OECD fremhever den viktige rollen kollektiv
-organisering har for et velfungerende arbeidsmar-
-
-[Side 148]
-
-146
-
-Kapittel 6
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-ked (OECD 2019b). Nedenfor følger noen
-utvalgte hovedelementer fra disse rapportene.
-Nye tilknytningsformer og arbeidstakere i «gråsoner»
-OECD viser til at endringer i preferanser, innovasjoner i forretningsmodeller og arbeidsorganisasjon, så vel som teknologisk utvikling har fremmet fremveksten av «nye» arbeidsformer, som i
-plattformøkonomien. I tillegg har mange land opplevd økt bruk av alternative tilknytningsformer.
-Disse mer fleksible arbeidsordningene har ofte
-dukket opp som svar på reelle behov hos både
-arbeidsgivere og arbeidstakere. Mer fleksible
-ansettelsesformer kan også innebære nye muligheter og et springbrett for noen, inkludert ungdom og mange lavt kvalifiserte arbeidere.
-OECD mener at innovasjoner i tilknytningsformer bør ønskes velkommen, men det er nødvendig at medlemslandene håndterer omgåelser, for
-eksempel i form av selvstendige som i realiteten
-er arbeidstakere, men som arbeider på oppdragskontrakter for å unngå reguleringer, skatter og
-fagforeninger. Slik sysselsetting skader ikke bare
-den enkelte arbeider, men også bedrifter som følger reglene. OECD anbefaler medlemslandene å
-
-klargjøre og håndheve eksisterende reguleringer.
-De mener det bør bli enklere for den enkelte å ta
-opp og utfordre spørsmålet om sin egen status på
-arbeidsmarkedet, og straffen for å ikke følge
-reglene bør bli strengere.
-De nasjonale myndighetene bør også sikre at
-forskjeller i skatter og regulatorisk behandling på
-tvers av ulike tilknytningsformer, ikke oppmuntrer til uheldig klassifisering av arbeidere.
-Noen arbeidere vil være genuint vanskelige å
-klassifisere og befinner seg i «gråsonen» mellom
-avhengighet og selvstendighet. Med «gråsoner»
-mener OECD personer som deler visse karakteristikker med selvstendige (for eksempel at de
-kan velge når og hvor de skal jobbe og bruker
-eget arbeidsutstyr), men de deler også noen
-karakteristikker med arbeidstakere (for eksempel
-at de ikke kan bestemme egne priser, de må kanskje bruke uniform, de kan ikke erstattes med
-andre i utføring av oppgaven). De kan oppleve elementer av avhengighet og/eller underordning i
-sitt arbeidsforhold. Likevel, fordi de klassifiseres
-som selvstendige, vil de generelt sett ikke dra
-nytte av beskyttelsen arbeidslovgivningen gir for
-arbeidstakere, kollektiv forhandlingsrett, sosial
-beskyttelse og lik tilgang til opplæring.
-
-Boks 6.2 Anbefalinger
-eller selvstendig for å gjøre disse definisjoOECD gir sine medlemsland følgende anbefalinnene så klare så mulig og unngå usikkerhet.
-ger:
-– Utvide rettigheter og beskyttelse til de som
-– Hindre feilklassifisering, gjennom å:
-blir igjen i «gråsonen» ved å:
-– Sikre at arbeidsgivere og arbeidstakere
-– Identifisere spesifikke grupper av selver klar over og har forstått gjeldende
-stendig næringsdrivende som trenger
-regulering.
-beskyttelse (for eksempel økonomisk
-– Gjøre det lettere og mindre kostbart for
-avhengige selvstendig næringsdrivende).
-arbeidere å utfordre arbeidstakerstatu– Bestemme hvilke rettigheter og beskytsen.
-telse som (i det minste delvis) utvides (for
-– Gi strengere straffer til virksomheter som
-eksempel arbeidsledighetsforsikring, feriefeilklassifiserer.
-penger, kollektiv forhandlingsrett).
-– Styrke kapasiteten til arbeidstilsyn for å
-– Om nødvendig, klargjøre og/eller tildele
-overvåke og avdekke brudd.
-arbeidsgiveransvar i treparts ansettelses– Redusere insentiver for virksomheter og
-forhold (inkludert plattformarbeid), som
-arbeidere til å feilklassifisere for å unngå
-kan innebære at ansvar fordeles på flere
-skatter og reguleringer.
-virksomheter.
-– Redusere omfanget av dem som befinner seg
-i «gråsonen» mellom arbeidstaker og selvKilde: OECD Employment Outlook 2019.
-stendig ved å revidere, oppdatere og/eller
-harmonere definisjoner av arbeidstaker og/
-
-[Side 149]
-
-147
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-–
-
-Tilgang til offentlige støtteordninger
-Tilgang til offentlige velferds- og støtteordninger
-er en større utfordring ved alternative tilknytningsformer mer generelt. Selvstendig næringsdrivende er vanligvis mindre godt dekket av de
-sosiale sikringsordningene. Andre tilknytningsformer (for eksempel deltid og midlertidig
-arbeid) er i teorien godt dekket, men mange
-arbeidere på disse kontraktene sliter fremdeles
-med å få tilgang i praksis fordi de ikke klarer å
-oppfylle minsteperioder og/eller inntjeningsgrenser. Sammenlignet med dem med fast tilknytning
-har arbeidstakere med alternativ tilknytning i
-gjennomsnitt 40 til 50 prosent mindre sannsynlighet for å få noen form for inntektsstøtte i løpet av
-en periode uten arbeid. Og for de som mottar
-støtte, er støtten ofte betydelig mindre enn for
-ansatte i faste heltidsstillinger.
-OECD anbefaler at regelverket for offentlige
-støtteordninger tilpasses for å bedre dekningen
-for arbeidstakere i ikke-standardiserte arbeidsformer. Som mulige reformalternativer nevner de:
-– Øke muligheten til å overføre rettigheter mellom ulike sosiale forsikringsprogrammer som
-er beregnet på forskjellige arbeidsmarkedsgrupper.
-
-–
-
-Kapittel 6
-
-Endre referanseperiodene for behovsvurderingen og legge riktig vekt på siste eller nåværende inntekter til alle familiemedlemmer.
-Komplettere målrettede sosiale beskyttelsestiltak med mer universell og ubetinget støtte. En
-mer radikal reform for å erstatte store deler av
-tradisjonell sosial beskyttelse med en universell grunninntekt anbefales ikke. Dette ville
-enten være veldig kostbart eller ha ugunstige
-fordelingsresultater på bekostning av de mest
-utsatte gruppene.
-
-Tilgang til opplæring
-OECD anbefaler medlemslandene å styrke opplæringstiltak, særlig rettet mot arbeidstakere med
-lite utdanning i jobber med høy risiko for automatisering. De peker på at arbeidstakere med alternativ tilknytning har flere vanskeligheter med å få
-opplæring i jobben. Selv om det er innført like rettighetsklausuler i de fleste OECD-land, er ofte
-opplæringsrettigheter avhengig av antall arbeidstimer. I praksis kan det hende at midlertidige og
-deltidsansatte ikke får rett til å opplæring. Selvstendige er fortsatt svært sjelden omfattet av lover
-om opplæringsrettigheter. OECD anbefaler nasjonale myndigheter å vurdere utvidelse av opplæ-
-
-Non-standard
-employment
-
-Standard employment
-
-Employee?
-
-False
-
-Ambiguity
-
-Full-time, open-ended
-employees
-
-Part-time and temporary
-employees (incl. casual,
-on-call and TWA
-
-Grey zone
-
-Genuine
-self-employed
-
-Yes
-
-Yes, but with practical
-difficulties
-
-Access varies
-depending on national
-legislation or court
-
-Limited by competition
-regulations
-
-Access to collective bargaining?
-
-Figur 6.1 Tilgang til kollektive forhandlinger
-Kilde: OECD Negotiating our way up, 2019.
-
-[Side 150]
-
-148
-
-Kapittel 6
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-ringsrettigheter, gi mer fleksible opplæringsordninger og gi større muligheter til å ta med seg
-opplæringsrettigheter fra en jobb til en annen.
-Muligheter for kollektiv organisering
-Antallet arbeidere som er medlemmer av fagforeninger og den samlede dekningen av tariffavtaler
-har gått ned i mange land, noe som ofte svekker
-arbeidernes forhandlingsmakt. Andelen arbeidere
-i OECD som er omfattet av tariffavtaler har jevnlig
-gått ned de siste tre tiårene, og falt fra 45 prosent i
-1985 til 32 prosent i 2016.
-OECDs analyser viser at arbeidstakere med
-alternativ tilknytning i mindre grad er fagorganiserte og dekkes i mindre grad av tariffavtaler. I
-gjennomsnitt har de 50 prosent mindre sannsynlighet for å være fagorganiserte enn arbeidstakere
-med en fast og varig tilknytning.
-Tradisjonelt har bare arbeidstakere i et underordnet ansettelsesforhold («lønnet ansettelse») fått
-full juridisk rett til kollektive forhandlinger, jf. figur
-6.1. Selvstendig næringsdrivende har vanligvis blitt
-ekskludert på grunn av konkurranselovgivning
-som forbyr karteller, der disse har en tendens til å
-bli betraktet som «forretningsforetak». Dette kan
-være greit for mange selvstendig næringsdrivende
-som tjener godt eller er i stand til å forhandle prisene, mens andre selvstendige står i en maktubalanse opp mot sin oppdragsgiver eller klient.
-OECD mener det er sterke argumenter for å
-utvide kollektive forhandlingsrettigheter til arbeidere i gråsonen, og noen land har allerede gjort
-dette. Utfordringen er imidlertid å sikre at
-arbeidsmarkeds- og konkurransepolitikken er i
-
-samsvar. Å håndheve riktig klassifisering av arbeidere og bekjempe feilklassifisering bør være det
-første skrittet i å utvide kollektive forhandlingsrettigheter til utsatte arbeidere.
-
-6.4
-
-EU
-
-6.4.1 Om EU
-Den europeiske union (EU) er et omfattende politisk og økonomisk samarbeid mellom en rekke
-europeiske land. EU består i dag av 27 nasjonalstater som til sammen utgjør en mellomstatlig
-organisasjon med flere overstatlige institusjoner.
-EUs overordnete målsetning kan sies å være «en
-stadig snævrere union mellem de europæiske
-folk» for å fremme fred, velferd, respekt for menneskers verdighet, frihet, demokrati, likhet, rettssikkerhet og menneskerettigheter, jf. TEU artikkel 1 andre ledd, jf. artikkel 3 nr. 1, jf. artikkel 2.
-EU-samarbeidet reguleres av traktater, som
-har blitt reforhandlet ved flere anledninger. EUs
-traktatgrunnlag består i dag av to traktater: Traktaten om den europeiske union (TEU) og Traktaten om den europeiske unions virkemåte (TEUV).
-Samarbeidet i EU skiller seg fra annet internasjonalt samarbeid ved at medlemsstatene har
-avstått lovgivningsmyndighet til felles institusjoner på en rekke områder. Etter dagens regelverk
-er det syv institusjoner som danner grunnlaget for
-unionssamarbeidet: de to mellomstatlige institusjonene Det europeiske råd og Rådet for Den europeiske union, hvor medlemsstatene er representert, og de fem overstatlige institusjonene Europakommisjonen, Europaparlamentet, Den euro-
-
-Boks 6.3 De viktigste institusjonene i EU
-Det europeiske råd er EUs forsamling av
-Europakommisjonen er det utøvende organet.
-nasjonale stats- og regjeringssjefer, samt KomKommisjonens hovedoppgave er å fremme lovmisjonens president, og har som hovedoppgave
-forslag og sette dem ut i livet. Kommisjonen er
-å utforme EUs overordnede politiske stratesatt sammen av et kollegium av 27 kommissægier.1
-rer, og ledes av en president.
-Rådet for Den europeiske union har lovgiEU-domstolen er EUs dømmende myndighet
-vende myndighet. Det består av 27 ministre, en
-på fellesskapsrettens område og består av en
-fra hvert medlemsland, men hvilken minister
-dommer fra hver medlemsstat, samt en presisom representerer hvert land på de enkelte
-dent som velges av og blant de 27 dommerne.
-møter avhenger av møtets dagsorden.
-Domstolen har også 11 generaladvokater.
-Europaparlamentet er den eneste institusjo1
-Det europeiske råd må ikke forveksles med Europarådet,
-nen i EU som er direkte valgt av EUs innbygsom er en internasjonal organisasjon utenfor EUs institugere. Parlamentet vedtar lover sammen med
-sjonelle system.
-Rådet.
-
-[Side 151]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-149
-
-Kapittel 6
-
-Boks 6.4 EU-rettens fire hovedrettskilder
-Generelle rettsprinsipper blir ansett for å være en
-Primærretten, det vil si de grunnleggende traktarettskilde selv om disse ikke er klart og entydig
-tene og internasjonale avtaler med tredjeland og
-definert. EU-domstolen ser de generelle prinsipinternasjonale organisasjoner. EUs traktatpene som en del av de rettsreglene som binder
-grunnlag består i dag av to traktater. Traktaten
-EU, og definerer dem som «general principles
-om den europeiske union (TEU) omhandler
-common to the laws of the Member States».
-EUs grunnleggende prinsipper og regler. Den
-EU-domstolens rettspraksis er også en svært
-etablerer mål, verdier, kompetanser, institusjoviktig rettskilde, og blir ansett som bindende for
-nell struktur, forholdet til medlemsstatene og
-medlemslandenes nasjonale domstoler. DomstoEUs borgere, kriterier for medlemskap og
-lens myndighet er nedfelt i TEU artikkel 19. EUutmelding av EU. Traktaten om den europeiske
-domstolen skal sikre at traktatenes bestemmelunions virkemåte (TEUV) – tidligere Traktaten
-ser og sekundærlovgivning blir fortolket, gjenom det europeiske felleskap – omhandler regler
-nomført og anvendt på en enhetlig måte. EUfor EUs institusjoner og de ulike politikkområdomstolen har myndighet til å treffe avgjørelser
-dene. Dette med unntak av EUs felles utenriksi saker mellom medlemsland, EUs organer, foreog sikkerhetspolitikk som er plassert i TEU.
-tak og enkeltpersoner. En av flere viktige oppSekundærretten, det vil si det avledede regelgaver EU-domstolen har, er såkalte prejudisielle
-verket, som deles inn i to hovedgrupper: rettslig
-avgjørelser. For å sikre ensartet tolkning av EUbindende og ikke-bindende instrumenter. Forregelverket, har nasjonale domstoler i medlemsordninger (regulations), direktiver (directives)
-landene adgang, og noen ganger plikt, til å foreog vedtak (decisions) er rettslig bindende rettslegge EU-rettslige tolkingsspørsmål for EUakter, mens anbefalinger (recommendations) og
-domstolen for såkalt prejudisiell avgjørelse. De
-uttalelser (opinions) er såkalt ikke-bindende
-nasjonale domstolene er forpliktet til å følge EUinstrumenter.
-domstolens prejudisielle avgjørelser. På den
-måten sikres felles forståelse og anvendelse av
-Forordninger er bindende i alle deler og har
-EUs rettsgrunnlag i alle medlemsstatene. Prejudirekte virkning i alle medlemsstater. Fororddisielle foreleggelser utgjør størstedelen av
-ninger anvendes på områder der det er særlig
-sakene som behandles i EU-domstolen. EUviktig at regelverket praktiseres så likt som
-domstolen har således vært viktig for rettsutvikmulig. Sentrale eksempler er EUs trygdelingen i EU, og har i visse sammenhenger også
-forordning1
-og
-personvernforordning
-2
-en viktig rolle i å fremme europeisk integrasjon.
-(GDPR).
-EUs samlede lovgivning (primærrett og
-Direktiver er bindende «i sin målsetting»,
-sekundærrett) omtales ofte som EUs acquis
-men nasjonale myndigheter kan avgjøre
-(acquis communautaire).
-hvordan direktivet skal gjennomføres i nasjonal rett. Plikter og rettigheter for borgere og
-1
-Europaparlaments- og rådsforordning (EF) nr. 883/2004
-bedrifter inntrer i utgangspunktet først ved
-av 29. april 2004 om koordinering av trygdeordninger.
-nasjonal gjennomføring av direktivet. Direkti2
-Europaparlaments- og rådsforordning (EU) 2016/679 av
-ver brukes når det er ulike måter å gjennom27. april 2016 om beskyttelse av individer ved behandling
-av personopplysninger og om fri flyt av slike opplysninføre felles målsettinger på, noe som gjør det
-ger (personvernforordningen).
-nasjonale handlingsrommet og muligheten
-for lokale tilpasninger større. I henhold til
-Kilde: EU/EØS-håndboken, Utenriksdepartementet, 2016,
-side 71-72
-TEU skal direktiver brukes i så stor utstrekning som mulig.
-
-peiske unions domstol, Den europeiske sentralbank og Revisjonsretten, som har en selvstendig
-status overfor medlemsstatene. Vedtakene i Rådet
-for Den europeiske union, Europaparlamentet,
-Kommisjonens egne vedtak, samt avgjørelser i
-EU-domstolen, er bindende for EU-landene.
-
-Et felles indre marked er en av grunnpilarene i
-EU-samarbeidet, noe som innebærer at det gjelder felles regler som etablerer fritt varebytte og fri
-bevegelighet av kapital, tjenester og personer (de
-fire friheter). Grunnlaget for EUs rettslige regulering av det indre marked er traktatene som med-
-
-[Side 152]
-
-150
-
-Kapittel 6
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-lemsstatene har inngått. I TEUV finnes de grunnleggende bestemmelsene om det indre marked –
-de fire friheter, EUs konkurranseregler, bestemmelsene om statsstøtte mv. Her finnes også en
-rekke andre materielle hovedregler av større og
-mindre betydning for det indre marked, blant
-annet regler om unionsborgerskap, tollunion,
-landbruk og fiskeri, sivil- og strafferettslig samarbeid, transport, skatte- og avgiftsspørsmål, pengeog valutapolitikk, sysselsetting, sosialpolitikk,
-utdannelse, kultur, folkehelse, forbrukervern,
-industri, forskning, miljø, energi, turisme og felles
-handelspolitikk.
-EU-samarbeidet strekker seg imidlertid lengre enn et enhetlig indre marked. EU har også en
-felles utenriks- og sikkerhetspolitikk, justis- og
-politisamarbeid, penge- og valutapolitikk (eurosamarbeidet), grensekontroll, asyl og innvandring, unionsborgerskapet mv.
-
-6.4.1.1
-
-Norges tilknytning til EUs indre marked
-gjennom EØS-avtalen
-
-EØS-avtalen er en folkerettslig avtale mellom
-EFTA-statene Island, Liechtenstein og Norge og
-EU-statene, som integrerer EFTA-statene i EUs
-indre marked. Formålet er å skape like konkurransevilkår i hele EØS-området på de felt som
-omfattes av EØS-avtalen. Store deler av EU-retten,
-inkludert bestemmelsene om de fire friheter og
-konkurransebestemmelsene, ble ved undertegnelsen innlemmet i EØS-avtalen. I tillegg er avtalen grunnlag for samarbeid om blant annet miljøvern, utdanning, forskning og teknologisk utvikling, informasjonstjenester, likestilling, statistikk,
-små- og mellomstore bedrifter, kultur- og mediespørsmål, turisme, sivil beredskap, helse- og forbrukerspørsmål, arbeidslivsspørsmål og sosiale
-spørsmål. EØS-avtalen gjør Norge til del av EUs
-indre marked ved at vi i norsk rett gjennomfører
-EUs regler om fritt varebytte og fri bevegelighet
-for kapital, tjenester og personer.
-I motsetning til EU, er EFTA-samarbeidet et
-mellomstatlig samarbeid, hvor vedtak fattes ved
-enstemmighet blant medlemslandene i EFTA.
-EØS-avtalen bygger på de samme mellomstatlige
-prinsippene som EFTA-samarbeidet for øvrig. Det
-innebærer at EUs vedtak alltid formelt innlemmes
-i EØS-avtalen etter godkjenning i hvert enkelt
-EØS/EFTA-land og påfølgende beslutning i EØSkomiteen. Dette enstemmighetskravet gjør at
-hver av EØS/EFTA-statene har såkalt reservasjonsrett. Dersom en av EØS/EFTA-statene ikke
-ønsker å gjøre den aktuelle rettsakten til en del av
-EØS-avtalen, vil den kunne oppnå det ved ikke å
-
-stemme for endringen av avtalen. Reservasjonsretten har hittil ikke vært benyttet.
-På samme måte som Kommisjonen, har
-EFTAs overvåkingsorgan, ESA (EFTA Surveillance Authority) ansvaret for å føre tilsyn med at
-EØS-avtalen blir gjennomført og etterlevd i det
-enkelte EØS/EFTA-land. Likeledes har EFTAdomstolen tilnærmet samme type funksjon overfor EØS/EFTA-landene som EU-domstolen har
-overfor EU-landene, men en viktig forskjell ligger
-i at EFTA-domstolens uttalelser i prejudisielle
-foreleggelser ikke binder statene.
-EØS-avtalen forplikter Norge folkerettslig til å
-gjennomføre store deler av EU-retten, og gjennomførte regler har forrang ved motstrid med
-andre norske bestemmelser, jf. EØS-loven § 2.5
-
-6.4.1.2 EU/EØS-rettslig arbeidslivsregulering
-Reguleringen av arbeidslivet i EU/EØS består
-grovt skissert av to elementer: regelverket for det
-indre marked og EUs sosiale dimensjon, som inkluderer regler knyttet til blant annet arbeidsmiljø,
-arbeidstakerrettigheter og koordinering av trygderettigheter.
-Når det gjelder regelverket for det indre marked er Norge gjennom EØS-avtalen del i et felles
-arbeidsmarked som omfattes av felles regelverk
-for fri bevegelighet av arbeidskraft og tjenester.
-Det innebærer at norske borgere har rett til å
-søke jobb og bli ansatt på samme vilkår i andre
-EU/EØS-land og at EU/EØS-borgere kan gjøre
-det samme i Norge. Tjenesteytere og -mottakere
-har rett til å levere tjenester på tvers av landegrensene og gjennom EØS-avtalen eksisterer også retten til opphold for å etablere og utøve næringsvirksomhet i EU- og EØS-området.
-Videre er Norge gjennom EØS-avtalen koblet
-til EUs sosiale dimensjon. Den sosiale dimensjonen
-ved EU-samarbeidet har utviklet seg gradvis, og
-har vokst frem gjennom traktatendringer, lovgivning, rettspraksis og handlingsprogrammer, jf.
-Europautredningen, NOU 2012: 2 punkt 16.3.1.
-Gjennom den sosiale dimensjon har EU vedtatt en
-rekke minimumsdirektiver vedrørende arbeidsmiljø og arbeidstakerrettigheter. Eksempler på dette
-er deltidsdirektivet (97/81/EF), direktivet om
-midlertidig ansettelse (99/70/EF) og vikarbyrådirektivet (2008/104/EF). At det er såkalte minimumsdirektiv innebærer at direktivene angir minimumsstandarder, men at medlemslandene kan ha
-5
-
-Lov 27. november 1992 nr. 109 om gjennomføring i norsk
-rett av hoveddelen i avtale om Det europeiske økonomiske
-samarbeidsområdet (EØS) m.m.
-
-[Side 153]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-nasjonale regler som gir arbeidstakerne sterkere
-vern.
-Da EØS-avtalen ble inngått, antok de fleste at
-kravene til arbeidsmiljø og arbeidstakerrettigheter i Norge var strengere enn i EU/EØS-retten,
-men på flere områder – som krav til skriftlig
-arbeidskontrakt, medvirkning og virksomhetsoverdragelser – har EUs minimumsregler vist seg
-å gi bedre vern og styrkede rettigheter også for
-norske arbeidstakere (NOU 2012: 2, punkt 16.1).
-EUs kompetanse til å vedta minimumsdirektiv
-innen arbeidslivs- og sosialpolitikk følger av
-TEUV artikkel 153 punkt 2, jf. punkt 1. Bestemmelsen gir en uttømmende liste med hensyn til
-hvilke områder det kan vedtas minimumsdirektiv,
-blant annet på følgende områder: HMS, arbeidsvilkår, informasjon og høring av arbeidstakere, likebehandling av kvinner og menn i arbeidslivet,
-arbeidstakernes sosiale sikring og sosiale beskyttelse, beskyttelse av arbeidstakere ved avbrudd av
-arbeidskontrakt.
-Når det gjelder lønnsforhold, rett til å organisere seg, streikerett og rett til lockout, ligger dette
-i utgangspunktet utenfor EUs reguleringskompetanse, jf. TEUV artikkel 153 punkt 5. Nasjonale
-regler og ordninger kan imidlertid som hovedregel ikke stå i motstrid til EUs grunnleggende prinsipper om fri bevegelse og ikke-diskriminering,
-samt grunnleggende rettigheter, som for EU er
-nedfelt i EUs charter om grunnleggende rettigheter. Dette kan legge begrensninger på det nasjonale handlingsrommet.
-Videre er Norge også gjennom EØS-avtalen og
-EUs sosiale dimensjon omfattet av regelverket for
-koordinering av trygderettigheter i EU/EØSområdet. Dette gir norske borgere som tar arbeid
-i andre EU/EØS-land samme sosiale rettigheter
-som landets innbyggere. Tilsvarende gjelder for
-EU/EØS-borgere som arbeider i Norge.
-Partene i norsk arbeidsliv har gjennom sine
-europeiske organisasjoner dessuten rett til å delta
-i EUs sosiale dialog, som er EUs trepartssamarbeid om arbeidslivssaker. De europeiske partene i
-arbeidslivet har rett til høring og konsultasjon
-med Kommisjonen under EUs lovgivningsprosess, jf. TEUV artikkel 154. I tillegg gir traktaten
-partene i fellesskap rett til å sette til side forslag til
-arbeidsrettsdirektiv fra Kommisjonen og i stedet
-fremforhandle europeiske avtaler som kan omgjøres til bindende EU-direktiv, jf. TEUV artikkel 155.
-Eksempler på slike direktiver er deltidsdirektivet
-
-151
-
-Kapittel 6
-
-(97/81/EF) og direktivet om midlertidig ansettelse (99/70/EF), som begge er fremforhandlede
-avtaler mellom de europeiske partene i arbeidslivet omgjort til direktiver.
-Arbeidsmarkedspolitikk, pensjons- og trygdepolitikk og sosialpolitikk er derimot et nasjonalt
-ansvar i EU-landene og i Norge. Mye av arbeidsog sosialområdet er dermed ikke gjenstand for felles lovgiving i EU-landene, og heller ikke en del av
-EØS-avtalen. På disse områdene brukes andre virkemidler i samarbeidet mellom EU-landene, der
-medlemslandene blir enige om felles mål, trekker
-opp retningslinjer, rapporterer om resultater eller
-utarbeider strategier, handlingsplaner og lignende. Et eksempel er erklæringen om EUs pilar
-for sosiale rettigheter som ble undertegnet av
-EUs institusjoner i november 2017, jf. punkt 6.4.2
-nedenfor.
-
-Boks 6.5 Sentrale bestemmelser i EØSavtalen knyttet til EUs sosiale dimensjon
-Gjennom EØS-avtalen er EØS/EFTA-landene
-løpende forpliktet til å gjennomføre EUs regler
-knyttet til den sosiale dimensjon. De sentrale
-EU-bestemmelsene i EØS-avtalen er følgende:
-– Artikkel 29 om fri bevegelse av arbeidstakere.
-– Artikkel 29 om samordning av trygderettigheter for bevegelige arbeidstakere.
-– Artiklene 36–37 om fri bevegelse av tjenester.
-– Artiklene 66–71 om sosial- og arbeidslivspolitiske mål og regler.
-– I avtalens artikkel 66–71 vises det blant
-annet til at partene er enige om å
-arbeide for bedring av arbeidstakernes
-leve- og arbeidsvilkår (artikkel 66),
-helse, sikkerhet og miljø (artikkel 67),
-lik lønn for samme arbeid (artikkel 69),
-likebehandling (artikkel 70), dialog
-mellom partene på europeisk nivå
-(artikkel 71), samt å gjennomføre de
-arbeidsrettslige tiltak som er nødvendige for å innfri disse målene (art. 68).
-Kilde: NOU 2012: 2 side 431
-
-[Side 154]
-
-152
-
-Kapittel 6
-
-6.4.2
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-Den europeiske pilar for sosiale
-rettigheter
-
-I 2016 ble den europeiske pilaren for sosiale rettigheter lansert, og på EUs sosiale toppmøte i Gøteborg høsten 2017 ble den offisielt satt ut i livet.
-Formålet er å styrke den sosiale dimensjonen i
-EU.6 Pilaren består av et «kompass» med 20 prinsipper og rettigheter som skal sørge for bedre
-arbeids- og leveforhold i Europa. Kompasset er
-delt inn i tre hovedområder:
-– Like muligheter og adgang til arbeidsmarkedet.
-– Gode og rettferdige forhold på arbeidsplassen.
-– Tilstrekkelige og bærekraftige sosiale sikringssystemer, samt adgang til grunnleggende
-velferdstjenester av god kvalitet.
-Initiativet til en sosial pilar og et styrket sosialt fokus
-i EU hadde særlig sin bakgrunn i at finanskrisen
-medførte store sosiale omkostninger med mange
-arbeidsledige og en økt andel av befolkningen som
-lever under EUs fattigdomsgrense, at arbeidslivet
-er under sterk utvikling med ny teknologi, nye tjenester og nye produksjonsmåter, samt den demografiske utviklingen med en aldrende befolkning og
-dermed færre arbeidstakere per pensjonist.
-For å bidra til å gjennomføre prinsippene i pilaren har EU fulgt opp med flere initiativer, blant
-annet ny regulering av arbeidsvilkår og en anbefaling om styrking av sosiale sikkerhetsordninger,
-jf. henholdsvis punkt 6.4.3 og 6.4.4.
-I mars 2021 la EU-kommisjonen frem en handlingsplan for gjennomføringen av EUs sosiale
-pilar.7
-Handlingsplanen inneholder tre overordnede
-mål om sysselsetting, etterutdanning og fattigdomsreduksjon som skal innfris innen 2030:
-– Minst 78 prosent av befolkningen i aldersgruppen 20-64 år skal være sysselsatt innen 2030.
-Mot slutten av 2019 var tallet 73,1 prosent.
-– Minst 60 prosent av voksne skal årlig delta i
-etterutdanning innen 2030. I 2016 var andelen
-37 prosent.
-– Antallet personer som risikerer å leve i fattigdom eller sosial utestengelse skal reduseres
-med minst 15 millioner. I 2019 befant 91 millioner EU-borgere seg i den kategorien.
-6
-
-7
-
-The European Pillar of Social Rights (2017/C 428/09).
-Nettside:
-https://ec.europa.eu/commission/priorities/
-deeper-andfairer-economic-and-monetary-union/europeanpillarsocial-rights_en
-https://ec.europa.eu/info/strategy/priorities-2019-2024/
-economy-works-people/jobs-growth-and-investment/european-pillar-social-rights/european-pillar-social-rightsaction-plan_en
-
-Handlingsplanen inneholder også flere konkrete
-initiativ/tiltak som skal bidra til ytterligere å gjennomføre prinsippene i den europeiske pilaren, og
-som Kommisjonen forplikter seg til å legge frem
-innen perioden for sitt mandat (innen 2024).
-Mange av tiltakene er tidligere kjent gjennom
-Kommisjonens arbeidsprogram. Av lovforslagene
-som varsles i handlingsplanen, er lovforslag vedrørende plattformarbeideres arbeidsvilkår, samt
-et forslag som skal sikre at EUs konkurranseregler ikke er til hinder for kollektiv forhandlingsrett for visse selvstendige oppdragstakere, jf.
-omtale i henholdsvis punktene 6.4.5 og 8.7.3.
-I tillegg fremgår det av handlingsplanen at
-Kommisjonen skal sikre en hensiktsmessig oppfølging av Europaparlamentets resolusjon som
-ber Kommisjonen om å legge frem et lovforslag
-om retten til å være frakoblet («offline») utenfor
-arbeidstid.
-
-6.4.3
-
-Nytt direktiv om tydelige og
-forutsigbare arbeidsvilkår
-(arbeidsvilkårsdirektivet)
-Et nytt direktiv om tydelige og forutsigbare
-arbeidsvilkår ble vedtatt 20. juni 2019 (Directive
-2019/1152 on Transparent and Predictable Working Conditions), og anses som ett av nøkkelinitiativene for å effektivisere pilaren om sosiale rettigheter. Direktivet bygger på og skal erstatte det
-såkalte «written statement-direktivet» (91/533/
-EØF) om arbeidsgiverens plikt til å informere om
-vilkårene i arbeidsavtalen eller arbeidsforholdet.
-Gjeldende direktiv er gjennomført i arbeidsmiljøloven §§ 14-5–14-8.
-Direktivets formål er å forbedre arbeidsvilkårene gjennom å fremme mer gjennomsiktige og forutsigbare arbeidsforhold, samtidig som man sikrer
-et tilpasningsdyktig arbeidsmarked, jf. artikkel 1.
-Bakgrunnen for direktivet er særlig de senere
-års utvikling av alternative tilknytningsformer, det
-vil si deltidsarbeid og ulike former for midlertidige ansettelser, og den ustabilitet og uforutsigbarhet dette har ført til for enkelte arbeidstakere.
-Kommisjonen pekte i sitt forslag blant annet på at
-digitalisering og demografiske endringer har
-fremmet etableringen av alternative arbeidsforhold, og at fleksibiliteten har utgjort en viktig drivkraft for jobbskapning og vekst. Utilstrekkelige
-rettslige rammer kan imidlertid utsette arbeidstakerne for en uklar og urettferdig praksis, og det
-kan gjøre det vanskelig å håndheve egne rettigheter. Kommisjonen pekte også på at det er stor forskjell mellom regelsettene i EU, og at risikoen
-dermed øker for konkurranse basert på lavere
-
-[Side 155]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-arbeidsmarkedsstandarder. Evaluering av written
-statement-direktivet har dessuten vist at mange
-arbeidstakere ikke mottar skriftlig bekreftelse på
-sine arbeidsvilkår og/eller ikke mottar nødvendig
-informasjon i tide.
-Direktivets personelle anvendelsesområde, herunder arbeidstakerbegrepet, var en sentral diskusjon i prosessen med direktivet. Europakommisjonens opprinnelige direktivforslag inneholdt en
-arbeidstakerdefinisjon som anga hvem direktivet
-skulle gis anvendelse for. Innholdsmessig bygget
-forslaget til definisjon på EU-domstolens praksis, jf.
-blant annet C-66/85 (Lawrie-Blum) og C-216/15
-(Ruhrlandklinik), ved at med arbeidstaker skal forstås som «en fysisk person, der i en vis periode
-præsterer ydelser mod vederlag for en anden og
-efter dennes anvisninger».8 Det vises for øvrig til
-omtale av det felleseuropeiske arbeidstakerbegrepet i kapittel 8 nedenfor. I det vedtatte direktivet ble
-definisjonen tatt ut, og anvendelsesområdet vil nå
-avgjøres basert på det enkelte medlemslands definisjon, jf. artikkel 1 nr. 2. Det henvises imidlertid
-eksplisitt til at det skal ses hen til EU-domstolens
-praksis og fortolkning av arbeidstakerbegrepet. I
-fortalen premiss 8 fremgår det at EU-domstolens
-fortolkning av de domstolsskapte kriteriene bør tas
-i betraktning ved gjennomføringen av direktivet.
-Det fremgår at dersom hjemmearbeidere, arbeidere på tilkalling, «løst ansatte», voucher-baserte
-ansatte, plattformarbeidere, praktikanter og lærlinger oppfyller kriteriene, kan de være omfattet av
-direktivet. Det fremgår videre at reelt selvstendig
-næringsdrivende ikke bør være omfattet av direktivet ettersom de ikke oppfyller EU-domstolens kriterier. Det vises imidlertid til at «proforma-selvstendige» bør omfattes av direktivet. Dette kan være
-personer som benevnes selvstendige selv om de
-oppfyller kriteriene, eksempelvis for å unngå rettslige eller skattemessige forpliktelser. Det påpekes
-også i fortalen premiss 8 at hvorvidt det foreligger
-et arbeidsforhold bør baseres på de faktiske forhold og ikke på partenes benevnelse av forholdet.
-På samme måte som det gjeldende written statement-direktivet, har det nye direktivet en liste over
-hvilke opplysninger og informasjon arbeidsgivere må
-gi til arbeidstakerne. Gjeldende regler er gjennomført i arbeidsmiljøloven § 14-6. Det nye direktivet
-viderefører alle de samme kravene til opplysninger,
-og inneholder i tillegg noen nye, jf. artikkel 4.
-Arbeidsgiver skal nå blant annet opplyse om
-arbeidstidsordningen for arbeidstakere som har
-varierende arbeidstid. I slike arbeidsforhold skal
-arbeidsgiver opplyse om at arbeidsplanen er skif8
-
-Com (2017) 797.
-
-153
-
-Kapittel 6
-
-tende/varierende, antall garanterte betalte arbeidstimer, samt betaling for arbeid utover de garanterte
-timene. Arbeidsgiver skal i tillegg opplyse om referansetimer og -dager som arbeidstaker kan pålegges arbeid, og det skal være varslingsfrist før oppstart av en arbeidsoppgave. Nytt er også at det skal
-opplyses om prøvetid, etterutdanning og overtid.
-Det nye direktivet inneholder også nye frister
-med hensyn til når arbeidstaker skal motta informasjon, jf. artikkel 3, 5 og 6. Etter gjeldende direktiv skal arbeidsgiver gi opplysningene innen to
-måneder etter tiltredelse. Ved endring av forholdene det skal opplyses om, skal dette meddeles
-tidligst mulig og senest en måned etter at endringen trådte i kraft. Arbeidsmiljøloven § 14-5 har i
-dag litt andre krav enn direktivet, ved at informasjonen (arbeidsavtalen) foreligger «snarest mulig
-og senest en måned» etter tiltredelse. For arbeidsforhold med kortere varighet enn én måned skal
-arbeidsavtalen inngås «umiddelbart». Samme tidsfrister gjelder for endringer i arbeidsforholdet, jf.
-arbeidsmiljøloven § 14-8. Det nye direktivet krever at den mest grunnleggende informasjonen
-skal foreligge senest syv dager etter tiltredelsesdagen (i alle arbeidsforhold), mens resten skal
-foreligge senest én måned etter tiltredelse. Ved
-endring av forholdene det skal opplyses om, skal
-dette meddeles snarest mulig og senest samme
-dag endringene trer i kraft.
-Det nye direktivet inneholder også noen substansielle minimumsregler. Dette er nytt sammenlignet med det gjeldende direktivet som ikke har
-noen slike materielle regler.
-Det er for det første gitt regler om maksimal
-varighet av prøvetid, jf. artikkel 8. Maksimal varighet av prøvetid kan etter direktivet settes til seks
-måneder med mulighet for forlengelse tilsvarende
-arbeidstakers fravær. Lengre prøvetid kan også
-unntaksvis tillates dersom det er begrunnet i
-arbeidets art eller er i arbeidstakers interesse.
-Ved midlertidig ansettelse skal lengden på prøvetiden være proporsjonal med forventet lengde på
-arbeidsforholdet og arbeidets art. Ved fornyelse/
-forlengelse av en kontrakt for samme funksjon/
-arbeidsart, skal det ikke være en ny prøveperiode.
-Det er også gitt regler om forbud mot eksklusivitetsklausuler, jf. artikkel 9. Bestemmelsen innebærer at arbeidsgiver ikke kan forhindre arbeidstaker i å ta arbeid hos andre utenfor den tidsplanen arbeidsgiver har fastlagt, eller utsette arbeidstaker for ugunstig behandling på grunn av dette.
-Medlemslandene kan imidlertid tillate bruk av
-restriksjoner knyttet til uforenelighet (incompatibility restrictions) på visse vilkår, som hensynet til
-helse og sikkerhet, forretningshemmeligheter,
+## Implikasjoner av ulike tilknytningsformer
+
+### Innledning
+
+Med implikasjoner av ulike tilknytningsformer menes i denne sammenheng hvilke forskjeller det eventuelt er i situasjonen for personer som utfører arbeid med alternative tilknytningsformer sammenlignet med arbeidstakere med en fast, direkte ansettelse, og hva som er karakteristisk ved arbeidsforholdet for dem med alternative tilknytningsformer. Dette belyses blant annet i flere kartlegginger av arbeidsmiljø og arbeidsforhold. Arbeidsforskningsinstituttet (AFI) ved OsloMet – storbyuniversitetet, har utarbeidet en rapport for utvalget som er et av grunnlagene for omtalen her (Ingelsrud mfl., 2020).[^70]
+
+### Arbeidsmiljø, jobbtilhørighet og helse
+
+I SSBs levekårsundersøkelse om arbeidsmiljø (LKU)[^71], stilles det spørsmål om i hvilken grad man er motivert og engasjert i arbeidet, i hvilken grad man føler tilhørighet til arbeidsplassen, og hvor fornøyd man er med jobben. I den norske yrkesbefolkningen oppgir 86 prosent at de er nokså ofte, meget ofte eller alltid motivert/engasjert i arbeidet. 88 prosent sier at de er ganske eller svært fornøyd med jobben, mens 78 prosent har høy eller svært høy tilhørighet til virksomheten de jobber i. Statens arbeidsmiljøinstitutt (2018; 2021) utarbeider faktabøker om arbeidsmiljø og helse hvor resultater fra de respektive levekårsundersøkelsene presenteres og analyseres. Statens Arbeidsmiljøinstitutt har blant annet utarbeidet en indeks om jobbtilhørighet ut fra svarene i LKU. Basert på tall fra LKU 2016 skåret frisører og ulike lederyrker høyest, men også yrkesgrupper med en høy andel selvstendig næringsdrivende som bonde/fisker og profesjonelle kunstnere var for en stor del motivert/engasjert, tilfreds og har tilhørighet til jobben.
+
+Personer som arbeider som selvstendige skårer høyest når det gjelder motivasjon (93 prosent) og jobbtilhørighet (96 prosent) i LKU 2019. Det er en overvekt blant selvstendige som først og fremst ser sitt arbeid som en kilde til utvikling og utfoldelse, og som sier at det er helt nødvendig at de får bruke sin fantasi og kreativitet i arbeidet (Ingelsrud mfl. 2020, side 66). Blant midlertidig ansatte oppgir to tredjedeler at de har høy tilhørighet til jobben. Det er ingen forskjeller i midlertidig og fast ansattes motivasjon og tilfredshet med jobben (Ingelsrud mfl. 2020, side 44). Andelen arbeidstakere som er utleid fra bemanningsforetak er lav i LKU. Forskjellene mellom dem og fast ansatte når det gjelder spørsmål om jobbtilhørighet forklares av de variasjoner som er mellom næringer og yrker. Mens svar i YS Arbeidslivsbarometer indikerer større forskjeller mellom eller like ansatte i samme yrker; utleide arbeidstakere har lavere tilfredshet med jobben, de møter sjeldnere positive utfordringer i jobben (Ingelsrud mfl. 2020, side 77).
+
+Høye jobbkrav, kombinert med muligheter for kontroll over egen arbeidssituasjon, er et karakteristisk trekk ved norsk arbeidsliv. Moderat høye krav kan være positivt, så lenge de er forbundet med tilsvarende høy egenkontroll over arbeidet (Statens arbeidsmiljøinstitutt, 2018, side 70). Samlet er det 57 prosent i LKU 2019 som svarer at de selv i høy grad kan bestemme hvordan de skal utføre arbeidet. På dette området er det forskjeller mellom næringer og yrker, og dette har ofte mer å si enn forskjeller mellom tilknytningsformer. Svarene viser likevel at midlertidig ansatte opplever lavere kvantitative krav på jobb, men også noe mindre selvbestemmelse enn fast ansatte. 37 prosent blant midlertidig ansatte sier at de opplever lav selvbestemmelse (jobbkontroll), mens tilsvarende andel blant fast ansatte er 23 prosent (Ingelsrud mfl., 2020, side 44). På den andre siden er det færre av de midlertidige som svarer at de opplever rollekonflikter i jobben. Også arbeidstakere som leies ut fra bemanningsforetak svarer at de har lavere selvbestemmelse.
+
+Det er også gjort enkelte kartlegginger av arbeidsmiljø og arbeidsforhold ved nyere tilknytningsformer. På oppdrag fra EU-kommisjonen er det gjennomført en studie som gjelder arbeid gjennom digitale plattformer (Kilhofer mfl., 2020). Studien omfatter også data fra Norge. Enkelte utfordringer er spesifikke for plattformarbeid, men de finner også mange likhetstrekk med andre alternative tilknytningsformer, blant annet når det gjelder lønn, arbeidstid, medvirkning, kompetanseutvikling og sosiale rettigheter.
+
+Arbeidsoppgavene for plattformarbeidere kan fastsettes på ulike måter:
+
+- Gjennom plattformens systemer, typisk en «app».
+
+- Av kundene, som gjennom plattformen selv velger hvilken arbeidstaker de ønsker skal utføre et oppdrag.
+
+- Arbeidstaker selv, som gjennom plattformen velger et oppdrag som hun tilbyr seg å gjennomføre.
+
+Hvordan oppdragene fastsettes vil ha stor betydning for graden av autonomi ved gjennomføringen av dem. Oppdrag som tildeles gjennom plattformens systemer og som utføres på stedet vil ofte innebære stor grad av styring og kontroll, for eksempel ved bruk av ratingsystem. Ubers systemer fungerer slik at sjåførene får beholde en økende andel av betaling selv, jo flere oppdrag de tar i løpet av en bestemt tidsperiode. For den som har dette som hovedinntektskilde legger det til rette for lange arbeidsdager. Mange arbeider for digitale plattformer ved siden av andre aktiviteter, men en kartlegging utført av Pesole mfl. (2018) i flere europeiske land tyder på at for nærmere en tredjedel av disse stod inntekter fra plattformarbeid for mer enn 50 prosent av deres samlede inntekt. Kilhofer mfl. (2020) fremhever også det fysiske arbeidsmiljøet og personvernet for den som utfører arbeid som spesifikke utfordringer ved plattformarbeid, i tillegg til uklarheter i kontraktsforholdet når det gjelder forholdet mellom å være oppdragstaker og arbeidstaker.
+
+Samant (2020) har beskrevet HMS-utfordringer for arbeidere i plattformøkonomien og peker blant annet på risikofaktorer ved digital overvåking for sjåfører innen slike tjenester, og at det generelt er slik at arbeidsmiljørisikoen er høyere for dem som arbeider innen alternative tilknytninger.
+
+Statens Arbeidsmiljøinstitutt (2014) har utarbeidet en kunnskapsoversikt hvor de går gjennom funn i den internasjonale forskningslitteraturen når det gjelder midlertidige ansettelsesformer og helse. De understreker at studier fra ulike land ikke nødvendigvis er sammenlignbare, og at det kan være vanskelig å studere effekter av tilknytningsformen til arbeidslivet isolert sett. De finner at studier fra ulike land tyder på at midlertidig ansatte har høyere forekomst av psykiske plager enn fast ansatte. Det er indikasjoner på at sammenhengen mellom midlertidige ansettelser og psykisk helse er knyttet til graden av stabilitet og forutsigbarhet i arbeidsforholdet. Men det kan ikke utelukkes at sammenhengen også kan skyldes at mennesker med psykiske problemer har større sannsynlighet for å bli ansatt i midlertidige stillinger. Midlertidig ansatte vurderer sin helsetilstand som dårligere enn fast ansatte. Men forskningen gir ikke noe entydig svar om det er en klar årsakssammenheng. Midlertidig ansatte ser ikke ut til å ha høyere sykefravær enn fast ansatte. En klar overvekt av studier fra flere land finner en forhøyet risiko for arbeidsskader blant midlertidig ansatte. Dette bekreftes også av analyser av ulykker i norsk arbeidsliv (Arbeidstilsynet, 2018).
+
+I LKU fremgår det at midlertidige ansatte og utleide fra bemanningsbyåer er overrepresentert i yrker og næringer med høyere fysisk risiko, men innenfor samme yrke og næring har ikke midlertidige dårligere fysiske arbeidsmiljø enn fast ansatte (Ingelsrud mfl., 2020, side 81). På enkelte områder som rengjøring og matindustri er arbeidstakere som er utleid fra bemanningsforetak mer utsatt for fysiske eksponeringer enn fast ansatte i tilsvarende jobber. Også selvstendige svarer oftere enn fast ansatte at de utsettes for fysiske, mekaniske, kjemiske og biologiske arbeidsmiljøfaktorer, men de fleste forskjellene forsvinner når vi ser på selvstendige og fast ansatte innenfor samme næring, yrke og demografiske kategori.
+
+### Jobbkvalitet og jobbsikkerhet
+
+Med jobbkvalitet menes både økonomiske forhold som lønn og lønnsfordeling og ikke-økonomiske forhold knyttet til arbeidsmiljø og den enkeltes opplevelse av arbeidsforholdene. Med jobbsikkerhet menes risiko for å miste jobben, de økonomiske forhold knyttet til et eventuelt tap av jobben, det formelle stillingsvernet og den enkeltes opplevelse av trygghet i arbeidsforholdet.
+
+De studier som er gjort er hovedsakelig basert på ansatte i bemanningsbransjen eller midlertidig ansatte med en direkte ansettelse i virksomhet. Et hovedfunn er at midlertidig ansatte og innleide arbeidstakere ofte har jobber med dårligere arbeidsbetingelser, også når man sammenlikner ansatte som ellers har like kjennetegn (alder, kjønn mv.). Lengre utdanning reduserer imidlertid noe av risikoen for at arbeidstakere med alternativ tilknytning opplever dårligere jobbkvalitet. Dette kommer frem både i internasjonale og norske kartlegginger.[^72]
+
+Endringer i regelverk og rammebetingelser vil ha betydning. Kartlegginger av lønns- og arbeidsvilkår i næringer hvor deler av tariffavtalene er allmenngjort viser at forskjellene mellom ulike arbeidstakergrupper er blitt redusert (Bjørnstad (red.), 2015). En undersøkelse om likebehandlingsreglene for utleide arbeidstakere tyder på at det ble mer likebehandling etter at reglene ble innført (Alsos mfl. 2016).
+
+Både midlertidige ansettelser og arbeid gjennom bemanningsforetak kan innebære risiko for en løsere tilknytning til arbeidslivet. Enkelte studier viser imidlertid at arbeid gjennom bemanningsforetak kan øke sannsynligheten for å oppnå ordinært arbeid for ikke-vestlige innvandrere og unge uten fullført videregående opplæring (von Simson 2009, 2016).
+
+På grunnlag av LKU finner Ingelsrud mfl. (2020) at midlertidig ansatte har lavere tilhørighet til arbeidsplassen (66 prosent mot 80 prosent for fast ansatte) og en noe mer passiv arbeidssituasjon med lavere krav og lavere kontroll over arbeidet enn det fast ansatte opplever. Midlertidig ansatte er imidlertid like motiverte og tilfredse med jobben. De midlertidig ansatte tror oftere enn fast ansatte at de er i en bedre jobb om fem år.
+
+Opplevd jobbsikkerhet er lavere blant midlertidig ansatte som svarer at de arbeider som ekstrahjelper enn andre. Dobbelt så mange blant dem som blant fast ansatte er bekymret for at nedbemanning eller omstilling vil få negative konsekvenser for deres arbeidsforhold (Ingelsrud mfl. 2020, side 61). Selvstendige svarer oftere enn fast ansatte at de sannsynligvis er i samme jobb og samme bransje om fem år. Mens bildet for de utleide arbeidstakerne er motsatt, flere blant dem er bekymret for å miste jobben og færre som tror de er i samme jobb fremover. Det er flere enn blant de fast ansatte som tror de er i en bedre jobb om fem år.
+
+Mer enn dobbelt så mange midlertidige ansatte som fast ansatte oppgir at de har flere jobber. Strøm og von Simson (2020, side 49) finner at de som er midlertidig ansatt i snitt har 15–20 prosent høyere sannsynlighet for å ha flere jobber sammenlignet med fast ansatte. Flere av de midlertidig ansatte må også stille på jobb på kort varsel, jf. svar i YS Arbeidslivsbarometer (Ingelsrud mfl. 2020, side 46). Det samme gjelder selvstendige og utleide arbeidstakere.
+
+Olsen (2016) oppsummerer sentrale funn i den forskningen (hovedsakelig basert på internasjonale studier) som er gjort om konsekvenser for arbeidstakere og arbeidsmiljø i situasjoner der innleide arbeidstakere arbeider side om side med de fast ansatte i virksomheten. De studier som er gjort peker i overveiende grad på negative konsekvenser. Dette gjelder blant annet økt konfliktnivå i virksomheten, for eksempel ved at personer som utfører samme arbeid har ulik lønn. Det vises for øvrig til at regelverket om fast ansettelse, som også hadde konsekvenser for bemanningsforetakene, ble endret med virkning fra 2019, jf. punkt 8.3.2.
+
+Bruk av innleid arbeidskraft og arbeidstakere fra eksterne tjenesteleverandører har også konsekvenser for de fast ansatte og for organisasjonsstrukturen hos kundevirksomheten. Forskningen tyder på at de fast ansatte rapporterer om lavere tillit, mindre deling av kunnskap internt i virksomheten, lavere opplevelse av tilknytning og lojalitet til arbeidsgiver. Nesheim mfl. (2014) har i en studie fra petroleumsvirksomheten som omfattet ingeniører og teknisk personell, identifisert følgende utfordringer når interne og eksterne jobber sammen: Kundevirksomheten blir avhengig av kompetansen til de eksterne konsulentene, de eksterne arbeidstakerne er mindre tilbøyelige til å ta opp arbeidsmiljøproblemer i virksomheten, det er utfordringer på arbeidsplassen knyttet til hvor sterkt man skal integrere de eksterne konsulentene og det oppstår spørsmål knyttet til rettferdighet.
+
+De som utfører arbeid i en trepartsrelasjon, jf. punkt 5.1, enten som innleide eller ansatte hos en ekstern tjenesteleverandør, vil oppleve en dobbelt tilhørighet til henholdsvis kundevirksomheten og egen arbeidsgiver. Dette kan innebære rollekonflikter. Når arbeidstakere opplever dette, tenderer de mot å identifisere seg mer med kunden – virksomheten de arbeider i for tiden – eller sin egen fagprofesjon, enn med virksomheten der de har sin opprinnelige tilhørighet (Olsen, 2016).
+
+### Arbeidstid
+
+Selvstendige er den gruppen som arbeider flest timer i løpet av en uke (Strøm og von Simson, 2020, side 47). Blant midlertidig ansatte er det vanligere å ha deltidsjobb og dermed arbeide færre timer i uken enn fast ansatte.
+
+I LKU oppgir en tredjedel av de midlertidig ansatte at de jobber utenfor regulær arbeidstid, mens andelen blant fast ansatte er 24 prosent. Imidlertid forsvinner disse forskjellene når en tar hensyn til næring, yrke og demografiske forskjeller mellom midlertidig og faste ansatte. En forskjell som består selv innenfor samme bransje og yrke, er at midlertidig ansatte sjeldnere blir kontaktet av jobben eller leser e-post utenom arbeidstid. De midlertidig ansatte svarer også sjeldnere enn fast ansatte at jobbkrav forstyrrer privatlivet deres (Ingelsrud mfl. 2020, side 44).
+
+Svar i YS Arbeidslivsbarometer tyder på at utleide arbeidstakere oftere enn fast ansatte må stille på jobb på kort varsel og flere opplever ofte problemer på grunn av arbeidsgivers krav om når de skal jobbe. Det er flere innleide som svarer at jobbkrav går utover familien, men ikke flere som rapporterer om at dette skaper konflikt for familien.
+
+Selvstendige svarer oftere enn fast ansatte at de jobber skift, turnus eller en annen ordning enn ordinær dagtid. Det er også flere selvstendige som svarer at de ofte jobber lange arbeidsuker, det vil si mer enn 48 timer per uke. Nærmere en fjerdedel av de selvstendige oppgir at de jobber deltid.
+
+### Lønns- og arbeidsvilkår
+
+Strøm og von Simson (2020, side 43-46) finner at selvstendige i gjennomsnitt for alle har høyere inntekt enn fast ansatte. Det er imidlertid store forskjeller i gruppen, og over tid er det blitt flere selvstendige i den nedre delen av inntektsfordelingen og færre i den øvre delen. De mener det kan henge sammen med at den sterkeste veksten i andelen selvstendige har vært blant personlige tjenesteytere som ofte er relativt lavtlønnede jobber.
+
+Timelønnen for de midlertidige og ansatte i bemanningsforetak ligger i gjennomsnitt lavere enn for fast ansatte. Samlet inntekt for ansatte i bemanningsforetak ligger noe under inntekten for fast ansatte, mens inntekten for midlertidig ansatte er enda lavere. Dette skyldes i stor grad mye deltidsarbeid, men også at disse jobbene ofte har lavere timelønn. Den store majoriteten av midlertidig ansatte befinner seg nederst i inntektsfordelingen. Dette er en utvikling som har forsterket seg over tid. En årsak kan være at de som har midlertidige jobber, er forholdsvis unge, og mange er også studenter. Når det gjelder ansatte i bemanningsforetak ligner de fast ansatte ved at de jobber omtrent like mange arbeidstimer. De lavere inntektene sammenlignet med fast ansatte skyldes hovedsakelig lavere timelønn.
+
+Elstad og Heggebø (2019) har sett på utviklingen over tid. De finner at en økende andel i aldersgruppen 30-55 år har oppnådd en langvarig stabil tilknytning til arbeidslivet målt som årlig arbeidsinntekt. De fant at vel åtte prosent av de sysselsatte hadde vedvarende lave arbeidsinntekter og opplevde hyppige perioder med inntektsnedgang. Men andelen arbeidstakere i denne situasjonen var den samme i 2015 som i starten av 1990-tallet.
+
+Strøm og von Simson (2020, side 51) har også sett på andre økonomiske forhold ved ulike tilknytningsformer og finner at fast ansatte og selvstendige har like høy sannsynlighet for å eie egen bolig, mens ansatte i bemanningsforetak skiller seg ut ved å ha lavest sannsynlighet for dette.
+
+### Organisering og tariffavtaler
+
+Organisasjonsgrader og tariffavtaledekning er beskrevet i kapittel 3. Det er betydelige forskjeller mellom fast ansatte og de med alternative tilknytningsformer om de er organisert eller ikke. Organisasjonsgraden er 16 prosentpoeng lavere blant midlertidig ansatte enn fast ansatte. Forskjellen er størst i offentlig sektor, hvor 54 prosent av de midlertidige er organisert, mot 82 prosent av de fast ansatte (jf. Nergaard 2018b, tabell 2.10). Ansiennitet hos samme arbeidsgiver har ellers en klar effekt på organisering. De som har lang ansiennitet, er oftest eldre og har oppnådd en stabil tilknytning til arbeidslivet.
+
+Også YS Arbeidslivsbarometer viser høyere organisasjonsgrad blant fast ansatte sammenlignet med midlertidig ansatte. På spørsmål om de er interessert i å bli fagorganisert svarer 57 prosent av de midlertidige og 41 prosent av de fast ansatte ja (Ingelsrud mfl. 2020, side 48).
+
+I LKU er det en noe lavere andel fagorganiserte blant arbeidstakere som leies inn fra bemanningsforetak enn blant andre i privat sektor, men ikke signifikant færre. Det er også en like stor andel av de innleide som svarer at deres lønns- og arbeidsvilkår er regulert i tariffavtale, som blant andre arbeidstakere i privat sektor. I YS Arbeidslivsbarometer oppgir 31 prosent av utleide at de er fagorganisert, mot 69 prosent blant andre som har svart på undersøkelsen (omfatter også arbeidstakere i offentlig sektor). Interessen for fagorganisering blant uorganiserte er like stor blant arbeidstakere i bemanningsforetak som andre. I 2016 gjennomførte bemanningsbransjen i NHO Service og Handel en undersøkelse blant arbeidstakere i medlemsbedriftene der 21 prosent oppga at de var fagorganisert. Et fellestrekk ved disse undersøkelsene er at det har vært vanskelig å få med alle arbeidstakergrupper blant de som leies ut fra bemanningsforetak, blant annet utleide til bygg og anlegg svarte sjeldnere på bemanningsbransjens undersøkelse. Det er rimelig å anta at organisasjonsgraden samlet er lavere (Ingelsrud mfl. 2020, side 79).
+
+Det foreligger ingen samlede tall eller anslag for organisasjonsgraden blant ansatte i bemanningsforetak. I næringer med høyt innslag av innleide fra bemanningsforetak er utbredelsen av det organiserte arbeidslivet blitt svekket. Innen bygg og anlegg var 51 prosent av lønnstakerne omfattet av tariffavtaler i 2001, mens andelen var redusert til 41 prosent i 2013 (Nergaard, 2018b, side 32). På enkelte områder foregår det likevel organisering av innleide arbeidstakere. NHO har medlemsbedrifter som tidligere var produksjonsbedrifter, men nå leverer spesialisert bemanning til industri og er registrerte bemanningsforetak. Flere av disse har alltid hatt tariffavtaler. Store bemanningsforetak har opprettet landsdekkende overenskomster for ansatte innen industri, bygg og elektro.[^73] Flere norske fagforeninger arbeider aktivt for å rekruttere medlemmer også blant innleide arbeidstakere. Men kortvarige innleieforhold og usikkerhet i forhold til fornyelse av arbeidskontraktene gjør dette krevende. I intervjuer med tillitsvalgte kommer det frem at frykt for å ikke få fornyet kontrakt er en grunn til at arbeidstakere i bemanningsforetak vegrer seg mot å organisere seg (Ingelsrud mfl. 2020, side 99).
+
+Det er relativt lite vanlig blant selvstendige å være fagorganisert, men innen enkelte profesjonsgrupper som leger, tannleger, psykologer, veterinærer, jurister og ingeniører er det betydelig grad av organisering. Akademikerne opplyser at om lag ti prosent av deres medlemmer er næringsdrivende. Ifølge Akademikernes medlemsundersøkelse benyttes ulike selskapsformer, men enkeltmannsforetak er det mest vanlige. En del av de næringsdrivende vil også ha flere ansatte i tillegg til seg selv. I YS Arbeidslivsbarometer svarte 25 prosent blant de selvstendige at de var organisert (69 prosent samlet). I LKU er gruppen «konsulenter» skilt særskilt ut. Dette kan være selvstendige, men også ansatte i en virksomhet som arbeider for andre gjennom entreprisekontrakter. For dem var organisasjonsgraden lik andre, men langt færre (17 prosent mot 45 prosent for andre) svarte at de var omfattet av tariffavtaler (Ingelsrud mfl. 2020, side 72).
+
+Generelt er det store forskjeller i organisasjonsgrad avhengig av virksomhetens størrelse. I bedrifter med under fem ansatte i privat sektor er kun 18 prosent av arbeidstakerne organisert, mens organisasjonsgraden når opp i 59 prosent i bedrifter med 200 ansatte eller mer. I offentlig sektor er forskjellene langt mindre, selv om organisasjonsgraden også her er noe lavere på de minste arbeidsplassene (Nergaard, 2018b).
+
+Det er også en nær sammenheng mellom utbredelsen av kollektive partsforhold på arbeidsplassen og arbeidstakeres organisasjonsgrad. I levekårsundersøkelsen om arbeidsmiljø er arbeidstakere spurt om de er dekket av tariffavtaler og om det er fagforeninger til stede på arbeidsplassen. Der det verken er fagforening eller tariffavtale er organisasjonsgraden bare 13 prosent (Steen mfl. 2017). Nærmere to tredjedeler av alle uorganiserte arbeidstakere jobber innen privat sektor. I privat tjenesteyting er det mange uorganiserte uansett tilknytning til arbeidsplassen, mens det innen vareproduksjon og rådgivningsyrker er det ganske få blant de uorganiserte som har en alternativ tilknytningsform. En av fire uorganiserte arbeidstakere i privat sektor er på arbeidsplasser der det finnes fagforeninger og tariffavtaler. De uorganiserte er yngre enn gjennomsnittet og har sannsynligvis kortere ansiennitet. Vel en tredjedel av de uorganiserte arbeidstakerne i privat sektor er på arbeidsplasser uten tariffavtale og fagforeninger. Ifølge svar i YS Arbeidslivsbarometer er hele 41 prosent av de uorganiserte arbeidstakerne interessert i å bli medlem i en arbeidstakerorganisasjon, andelen er høyest blant de yngste (Steen mfl. 2017).
+
+### Medvirkning, medbestemmelse, informasjon, drøfting og samarbeid på arbeidsplassen
+
+Begrepene medvirkning og medbestemmelse brukes til dels om hverandre, og henspiller gjerne til ulike former for deltakelse i avgjørelser med betydning for arbeidsforholdet. Det kan være ulike forståelser av hva som ligger i de enkelte begrepene. Utvalget vil bruke begge begreper uten nærmere å angi hva som eventuelt utgjør forskjellen på de to begrepene.
+
+I punkt 8.8 omtales hvilke reguleringer som gjelder for de ulike ordningene som skal ivareta medvirkning, medbestemmelse, informasjon, drøfting og samarbeid på arbeidsplassen.
+
+Medvirknings- og medbestemmelsesutvalget (NOU 2010: 1) gjorde en bred gjennomgang av ordningene og hvordan disse ble benyttet. Det var enighet om at ordningene i all hovedsak var gode og velfungerende, og at det i hovedsak ville være tale om å videreutvikle og forbedre de etablerte ordningene. Utvalget pekte i den sammenheng på fire utfordringer:
+
+- Økt oppmerksomhet om demokrati i arbeidslivet som en del av en overordnet demokratidebatt.
+
+- Inkludering av flere arbeidstakere i dagens ordninger.
+
+- Endringer i arbeidslivet som utfordrer dagens lovverk.
+
+- Økt effekt av ordningene i virksomheter der de praktiseres.
+
+I forbindelse med Medvirknings- og medbestemmelsesutvalgets arbeid ble det utført flere kartlegginger (Falkum mfl., 2009). Et sentralt funn var at arbeidstakerne opplevde høy innflytelse på egen arbeidssituasjon, men i mindre grad på virksomhetens beslutninger. Oppslutningen om medvirkning og de ulike ordningene for medvirkning og samarbeid på arbeidsplassen var høy, både fra ledere og ansatte. Kartleggingene viste også at den konkrete kunnskapen om de ulike ordningene for medvirkning var svak, og at det var lite presis forståelse av forskjellene mellom ulike ordninger etter lov og avtale. Det var for eksempel en høy andel som svarte at de hadde tillitsvalgte i virksomheten, også blant dem som ikke hadde tariffavtale. Det ble ikke funnet vesentlige forskjeller i opplevelse av innflytelse mellom arbeidstakere som var medlemmer i fagforeninger/omfattet av tariffavtale og de uorganiserte.
+
+LKU 2019 og en undersøkelse Fafo har gjennomført på oppdrag fra Arbeids- og sosialdepartementet (Trygstad mfl., 2021) gir nye tall om arbeidstakeres medvirkning og medbestemmelse, jf. boks 5.2 og 5.3.
+
+Opplevelse av individuell medvirkning og medbestemmelse
+
+- 62 prosent av arbeidstakerne gir uttrykk for at de selv i stor grad kan bestemme hvordan de skal utføre arbeidet (LKU 2019).
+
+- Flertallet blant arbeidstakerne i privat sektor svarer at de i stor grad kan bestemme eget arbeidstempo, mens andelen er noe lavere i offentlig sektor.
+
+- Nærmere halvparten av alle arbeidstakere svarer at de i høy grad kan påvirke beslutninger som er viktige for arbeidet sitt. Andelen er noe lavere i offentlig sektor.
+
+- Arbeidstakere har økt sin innflytelse over individuelle forhold og egen arbeidssituasjon sammenlignet med lignende kartlegginger tilbake på 1960-tallet.
+
+Trygstad mfl. (2021). Statistisk sentralbyrå (2020). Resultater fra levekårsundersøkelsen om arbeidsmiljø 2019.
+
+\[Boks slutt\]
+
+Jo større virksomheter, jo mer ser det ut til at medvirkningsordningene benyttes. Trygstad mfl. (2021) finner imidlertid betydelige forskjeller mellom sektorer og næringer, bruken av medvirkningsordningene er lavest i deler av tjenesteytende sektor. Dessuten har selskapsstrukturene og hvordan virksomheter og konsern legger opp sine beslutningsstrukturer betydning for formell og reell medvirkning. Dersom en virksomhet er dekket av tariffavtale øker sannsynligheten for at det er etablert verneombud, arbeidsmiljøutvalg og styrerepresentasjon. Det gjelder også i virksomheter som ligger under terskelkrav om antall ansatte for å ha slike ordninger. Størrelse (antall ansatte), tariffavtale og konserntilknytning er det som har størst betydning når det gjelder ansatterepresentasjon i styrer for aksjeselskaper. I offentlige eide virksomheter er de ansatte representert i styrer der reglene tilsier at de skal være det.
+
+Bruken av kollektive medvirknings- og medbestemmelsesordninger
+
+- Verneombud finnes i 84 prosent av virksomhetene med over 10 ansatte.
+
+- Arbeidsmiljøutvalg finnes i 68 prosent av virksomhetene med over 50 ansatte.
+
+- 55 prosent av ansatte i aksjeselskaper med over 30 ansatte er dekket av ordningen med ansattrepresentant i styret.
+
+- 72 prosent av ansatte i aksjeselskaper med over 200 ansatte er dekket av ordningen.
+
+- 13 prosent av de ansatte i konsern i privat sektor svarer at de har konsernutvalg.
+
+- 45 prosent av ansatte i konsern med minst 200 ansatte svarer at de har konserntillitsvalgte.
+
+Merknad når det gjelder konsern: Det må tas forbehold om at arbeidstakere ikke er kjent med ordningene, at ordningene finnes i andre varianter eller at det er tale om ansatte i norske datterselskap av utenlandske konsern, hvor ordningene vil være lite relevante. Kvalitative intervjuer med tillitsvalgte i ulike sektorer og virksomheter indikerer at tillitsvalgte innen konsern og kjedeorganisasjoner vurderer sin innflytelse som dårligere enn andre. Ofte handler dette om at beslutninger tas på andre nivåer, der de ikke deltar (Trygstad mfl. 2021).
+
+Trygstad mfl. (2021).
+
+\[Boks slutt\]
+
+Nær seks av ti tillitsvalgte svarer at de har både formelle møter og uformelle samtaler med ledelsen. 15 prosent av de tillitsvalgte svarer at slik kontakt med ledelsen sjelden eller aldri forekommer. Kontakten mellom tillitsvalgte og ledelse er mest omfattende i kommunesektoren. Ikke overraskende er det de tillitsvalgte og ledere som svarer at de deltar i formelle møter og uformelle samtaler som også vurderer den gjensidige tilliten som størst.
+
+De tillitsvalgte er også blitt spurt om innholdet i partssamarbeidet på arbeidsplassen. De temaene som flest ønsker at skal trekkes mer inn i dialogen med ledelsen er kompetanseutvikling, det psykososiale arbeidsmiljøet og seniorpolitikk, mens klima skårer lavest. De tillitsvalgte og ledelsen er enige om at innspill som gjelder arbeidsmiljø og lønns- og arbeidsvilkår er det som blir tatt mest hensyn til, mens tillitsvalgtes innspill når det gjelder bruk av innleie og andre arbeidskraftstrategier i mindre grad vektlegges.
+
+Trygstad mfl. (2021) finner en del forskjeller mellom midlertidig ansatte og fast ansatte i privat sektor når det gjelder deres opplevelse av muligheter for medvirkning og medbestemmelse. Basert på svar i LKU er det utarbeidet en indeks som samler svar på en rekke spørsmål i undersøkelsen, jf. figur 5.8.
+
+Opplevd innflytelse etter tilknytningsform. Indeks
+
+Arbeidstakeres vurdering av sin jobbnære innflyelse etter tilknytningsform og sektor. 1= i svært høy grad, 5 = i svært liten grad.
+
+Trygstad mfl., 2021 (side 118).
+
+Arbeidstakeres svar i LKU viser at det er færre midlertidige og utleide arbeidstakere som har eller kjenner til at det er kollektive ordninger som verneombud og arbeidsmiljøutvalg (AMU) på arbeidsplassen sin, enn blant fast ansatte. Det er også færre av de midlertidige enn av de faste ansatte som har eller vet om at det er tillitsvalgte i deres virksomhet. På den annen side er det flere av de midlertidige som sier deres lønns- og arbeidsvilkår er regulert av tariffavtale. Disse forskjellene blir borte når vi tar hensyn til at midlertidige og faste er ulikt fordelt på yrker og næringer (Ingelsrud mfl., 2020, side 47).
+
+Ingelsrud mfl. (2020, side 92-100) gjennomførte kvalitative undersøkelser i enkelte næringer; verftsindustri, bygg, IKT og kultur. Dette gir eksempler på hvilke konsekvenser bruken av alternative tilknytningsformer kan få for arbeidslivs- og partsrelasjoner i ulike virksomheter og næringer, slik informanter på arbeidstakersiden opplever det. Det oppleves som krevende å etablere velfungerende ordninger for medvirkning for dem som arbeider på virksomheten, men har annen arbeidsgiver. Innen verftsindustrien fant de tegn til at omfanget av innleie og entreprise har vært økende og blitt et permanent innslag i virksomhetene. Ifølge informantene bidrar dette til å svekke fagforeningenes posisjon i virksomhetene, og dermed grunnlaget for det partssamarbeidet som anses som et grunnleggende trekk ved den norske modellen. Et av utviklingstrekkene de peker på er opplevelse av økende avstand mellom ledelse og ansatte.
+
+Samarbeidet mellom ledelse og tillitsvalgte på arbeidsplassene karakteriseres av Hernes (2006) som den «norske mikromodellen». Det er en kombinasjon på den ene siden av forhandlinger om lønn, regelverk og medbestemmelse, og på den andre siden et praktisk og vedvarende samarbeid for videreutvikling av bedriften. Dette partssamarbeidet om utviklingen av virksomhetene kan spenne fra rent formelle konsultasjoner, til mer uformelle kontakter, er gjerne konkret og hyppig, mest når tillitsvalgte tar del i prosjekter, endring av rutiner og innføring av innovasjoner.
+
+Levin mfl. (2012) beskriver fremveksten av et sterkere partssamarbeid i virksomhetene der de tillitsvalgte deltar i tett samspill med ledelsen ved siden av de representasjonsbaserte medvirkningsordningene og de former for medvirkning som knytter seg direkte til den enkeltes arbeidssituasjon. Dette vurderes som en sentral del av den norske samarbeidsmodellen, der ledelseskulturen og involveringen av de tillitsvalgte bidrar til å fremme effektivisering og innovasjon i virksomhetene slik at dette kan fremstå som et konkurransefortrinn for norske virksomheter.
+
+Det er gjort enkelte studier av konsekvenser for arbeidstakeres opplevelse av medbestemmelse og medvirkning i forbindelse med gjennomføring av internasjonale ledelseskonsepter. En studie av «Lean»-organisering i enkelte nordiske virksomheter tyder på at en tilpasning av konseptet til en nordisk kontekst øker sannsynligheten for å oppnå positive resultat (Hagedorn-Rasmussen og Klethagen, 2019).
+
+SINTEF har gjennomført flere studier og samarbeidsprosjekter med virksomheter i forbindelse med innføring av ny teknologi og endrede arbeidsprosesser. En erfaring med prosjekter innen blant annet helse og omsorg er at medvirkning fra arbeidstakere har vært en forutsetning for å lykkes med digitalisering av arbeidsoppgaver og -prosesser. Dessuten er opplæring av brukerne og tilpasninger av de teknologiske løsningene til de enkelte virksomhetene viktige forutsetninger for å skape vellykket innføring av digital teknologi.[^74]
+
+I en rapport utarbeidet av Lærlingsliv AS på oppdrag fra NHO pekes det også på at de teknologiske omstillingsprosessene griper stadig dypere inn i virksomhetene og hvordan arbeidet gjennomføres (Amdahl Seim mfl. 2019). Derfor anbefaler de at omstillinger må knyttes opp til samarbeid med arbeidstakerne slik at de løsninger man kommer frem til på virksomheten skjer som en del av den norske modellen i stedet for å fungere som import av andre ledelsesmodeller som kan skape konflikter og uro på arbeidsplassene.
+
+I den forskningen som er gjort om medvirknings- og medbestemmelsesordningene blir gjerne arbeidstakeres medvirkning og medbestemmelse vurdert ut fra i hvilken grad det bidrar til å realisere ulike formål, for eksempel arbeidstakeres innflytelse overfor utenlandske eiere, utvikling av konkurransefortrinn for særskilte næringer eller redusert sykefravær. I en gjennomgang av den foreliggende litteraturen finner Fafo at de kan grupperes etter tre ulike hovedperspektiver på arbeidstakeres deltakelse og innflytelse (Trygstad mfl., 2019):
+
+- Rettigheter – som virkemiddel for beskyttelse eller som en buffer for arbeidstakerne.
+
+- Effektivitet – som virkemiddel i endringsprosesser og for å fremme innovasjon.
+
+- Velferd – som virkemiddel for et godt arbeidsmiljø.
+
+Arbeidsforskningsinstituttet ved OsloMet-storbyuniversitetet (AFI) utarbeider Medbestemmelsesbarometeret på oppdrag fra en gruppe arbeidstakerorganisasjoner (Drange mfl., 2020). Her er det gjennomført en serie spørreundersøkelser til arbeidstakere. Resultatene viste en negativ utvikling i opplevd medbestemmelse fra 2009 til 2016, men deretter en viss positiv utvikling. De finner at styrings- og ledelsesformene i virksomhetene har betydning for arbeidstakeres opplevelse av muligheter for medvirkning, og at det er forskjell mellom norskeide private foretak og utenlandske.
+
+Hvid og Falkum (2019) har analysert spørreundersøkelser blant norske arbeidstakere som er gjort i 2016 og 2017 og så sammenlignet resultatene med en undersøkelse som ble gjort i 2009. Her fant de en tendens til redusert medbestemmelse, særlig i virksomheter med ledelsesmodeller basert på standardisering, kontroll, lojalitet og lydighet. Arbeidstakernes opplevelse av medbestemmelse er lavere i statlig sektor enn i kommunal og privat sektor. De finner også at arbeidstakere i konserner opplever lavere medbestemmelse enn dem som arbeider i enkeltstående selskaper.
+
+## Etterlevelse og håndheving av tilknytningsformer
+
+### Kartlegginger av hvordan regelverket etterleves
+
+Det er gjort få systematiske undersøkelser for å kartlegge etterlevelsen av regelverket og måle omfanget av eventuelle omgåelser. Arbeids- og sosialdepartementet ga i 2018 Fafo et oppdrag for å belyse håndhevingen av reglene om adgang til midlertidig ansettelse og innleie fra bemanningsforetak, herunder omfanget av brudd på reglene og hvordan eventuelle regelbrudd følges opp (jf. delrapport, Bergene mfl., 2019, og sluttrapport, Svalund mfl., 2019). Sluttrapporten fra prosjektet bygger i hovedsak på spørreundersøkelser blant virksomheter og tillitsvalgte. Når det gjelder midlertidig ansettelse tyder undersøkelsen på at en del virksomheter begrunner sin bruk av slike tilknytningsformer på måter som ligger i en gråsone eller utenfor arbeidsmiljølovens bestemmelser. Dette kan for eksempel være tilfeller der midlertidig ansettelse begrunnes med at de inngår som en del av den løpende virksomheten eller at det benyttes for å teste arbeidstakere før en eventuell fast ansettelse. I analysen av undersøkelsen har man valgt å se bort fra bruk av den nye generelle adgangen til midlertidig ansettelse fordi flere andre kartlegginger har vist at denne er svært lite benyttet i praksis. Det kan ikke utelukkes at noen av disse ansettelsene likevel ville vært lovlige ved bruk av den generelle adgangen til midlertidige ansettelser. Arbeidsgivere er også blitt spurt direkte om de kan ha brutt reglene eller brukt dem på en måte som er i en gråsone. Ni prosent svarer ja til dette.
+
+Også andre kartlegginger kan tyde på at begrunnelsene for midlertidige ansettelser ikke alltid følger lovens bokstav. Nesheim (2017) sammenligner virksomhetenes svar om bruken av midlertidige ansettelser i ulike undersøkelser som er gjort fra og med midten av 1990-tallet. Han finner indikasjoner på at virksomhetene benytter midlertidige ansettelser på samme måte, dette selv om lovverket er blitt justert ved flere anledninger i løpet av denne tiden. Disse undersøkelsene er imidlertid ikke direkte sammenlignbare.
+
+Også når det gjelder begrunnelser for bruk av innleie er arbeidsgivere blitt spurt om begrunnelser. Svalund mfl. (2019) vurderer at mellom 23 og 36 prosent av virksomheter som har leid inn arbeidskraft fra bemanningsforetak de siste to årene kan ha gjort dette uten at de hadde adgang til det etter regelverket, det foreligger med andre ord ikke adgang til midlertidig ansettelse etter § 14-9 andre ledd bokstav a til e, og de har heller ikke hatt en avtale med tillitsvalgte om å gjøre dette. Analysene innebærer ikke en rettslig vurdering og kan derfor bare brukes som en indikasjon på andelen som bryter regelverket.
+
+To prosent av arbeidsgiverne svarer ja på direkte spørsmål om de kan ha brutt reglene om innleie. Det er stor forskjell mellom andelen som svarer ja på dette spørsmålet og det som fremkommer i analysen av de begrunnelser virksomhetene har oppgitt for bruken av innleie. Svalund mfl. (2019) mener dette kan indikere at arbeidsgivernes kunnskap om regelverket er for dårlig.
+
+Svalund mfl. (2019) har også kartlagt i hvilken grad arbeidstakere selv følger opp saken dersom de mener de er blitt midlertidig ansatt på uriktig grunnlag. Det ser ut til å skje i få tilfeller, og der sakene faktisk følges opp skjer det gjerne med støtte fra fagforening. Det synes da som en lykkes å forlike sakene i dialog på virksomhetsnivå, og i de fleste tilfeller førte dette til at arbeidstaker fikk en fast ansettelse. Ifølge Svalund mfl. (2019) gjaldt mange av disse sakene tre/fireårsregelen i arbeidsmiljøloven, det vil si tilfeller hvor en sammenhengende midlertidig ansettelse kan utløse rett til fast ansettelse.
+
+En gruppe fagforeninger har gjennomført egne kartlegginger på enkelte byggeplasser. Deres funn kan tyde på at mye av innleien til byggenæringen har vært i strid med loven. I mange tilfeller mangler det avtaler med tillitsvalgte (Engelstad. 2019). Det er imidlertid usikkert i hvilken grad slike funn er representative for hele næringen.
+
+Statsbygg gjennomfører regelmessige kontroller av hvordan deres entreprenører benytter innleie. I november 2020 ble 44 virksomheter som benyttet innleie kontrollert. Av disse var det 21 virksomheter som kunne dokumentere at innleien var lovlig. Det ble funnet tilfeller hvor arbeidsmiljølovens avtalekrav ikke ble oppfylt, og hvor virksomhetene heller ikke kunne redegjøre for at de var i en situasjon hvor det var anledning til å ansette midlertidig. Statsbygg mener dette blant annet kan skyldes manglende kunnskap om og forståelse av regelverket når det gjelder hva som er midlertidige behov og at det at en tariffavtale er allmenngjort eller følges frivillig ikke er det samme som å være tariffbundet (jf. Statsbyggs rapport, 2021).
+
+I en spørreundersøkelse blant virksomheter i 2016 kom det frem at to tredjedeler av virksomhetene hadde drøftet bruken av innleie fra bemanningsforetak med tillitsvalgte eller representanter for de ansatte, mens de resterende virksomhetene ikke hadde gjort dette (Nesheim, 2017).
+
+Alsos mfl. (2016) har kartlagt virkninger etter innføringen av likebehandlingsreglene for utleide fra bemanningsforetak, og vurderte at regelverket har ført til mer likebehandling også i praksis. De bemanningsforetakene som alt hadde gode systemer og rutiner før innføringen av reglene, har etterpå forbedret disse for å sikre at reglene følges. De mindre bemanningsforetakene har i mindre grad systemer og rutiner for å følge opp reglene. Det var store variasjoner når det gjelder hvilken kontroll innleievirksomhetene selv fører med hvilke vilkår vikarene arbeider under. Det synes som om aktørene i liten grad prøvde å omgå likebehandlingsreglene ved å fremstille utleie som en underentreprise eller som utleie fra produksjonsbedrifter.
+
+### Erfaringer fra Arbeidstilsynets kontrollvirksomhet
+
+Fra 1. juli 2020 har Arbeidstilsynet fått utvidet myndighet til å føre tilsyn med innleie- og likebehandlingsreglene i arbeidsmiljøloven, jf. punkt 8.6.3. Dersom det avdekkes brudd, kan tilsynsmyndighetene gi pålegg om at den ulovlige innleien må opphøre eller at bemanningsforetaket for fremtiden må gi vilkår som innebærer likebehandling. Den offentlige tilsynsmyndigheten kommer i tillegg til den enkelte arbeidstakers mulighet til selv å følge opp saken.
+
+Arbeidstilsynets årsrapport for 2020 viser at de etter at regelendringen trådte i kraft kontrollerte lovligheten av innleie fra bemanningsforetak i nærmere hundre tilsyn. Dette ble gjennomført som et pilotprosjekt ved bygge- og anleggsvirksomheter i Oslo og omegn. Det ble funnet brudd på regelverket i ett av fem tilsyn. Det ble funnet flest brudd på arbeidsgivers plikt til å drøfte bruken av innleide arbeidstakere med de tillitsvalgte. Arbeidstilsynets erfaring fra tilsynsaktiviteten var at det viste seg nødvendig å innhente dokumentasjon fra virksomhetene i flere omganger og at det var utfordrende å vurdere, på en enhetlig måte, om innleie var lovlig eller ikke basert på den fremlagte dokumentasjonen (jf. Arbeidstilsynet, 2021b).
+
+Gjennom sin kontrollvirksomhet avdekker Arbeidstilsynet og andre offentlige kontrollmyndigheter blant annet tilfeller av omgåelser av regelverk, jf. punkt 4.7.4. I slike situasjoner kan det besluttes «gjennomskjæring», som innebærer at etaten legger de reelle forholdene til grunn. Arbeidstilsynets erfaringer fra tilsynsvirksomheten viser at «gjennomskjæring» ofte er aktuelt der de møter personer som oppgir å være oppdragstakere, enkeltpersonsforetak eller frivillige som utfører arbeid. I tillegg gjøres det vurderinger om «gjennomskjæring» for å avklare om det foreligger innleie eller entreprise.
+
+Arbeidstilsynet opplyser at et karakteristisk trekk ved tilsyn hvor det er foretatt gjennomskjæring, er at arbeidstakere ofte er i en sårbar posisjon med dårlige forutsetninger for å ivareta sine interesser. I tillegg hender det ofte at organiseringen av arbeidet bærer preg av å være gjort bevisst, i den hensikt å unngå eller omgå krav i arbeidsmiljøloven eller allmenngjøringsloven. Arbeidstilsynet har ikke egne tall for tilsynssaker hvor det foretas gjennomskjæring, men opplyser at dette er mest relevant i følgende næringer/bransjer:
+
+- Bygg- og anlegg
+
+- Servering
+
+- Renhold
+
+- Fiskerimottak.
+
+Arbeidstilsynet vurderer gjennomskjæring kun i saker der det er nødvendig å etablere et arbeidsgiveransvar for å sikre etterlevelse av bestemmelser som etaten fører tilsyn med, for eksempel bestemmelser om lønn innenfor et allmenngjort område eller sikkerhetsbestemmelser. Det kan ofte være utfordrende å få tilstrekkelig og riktig dokumentasjon for å kunne avgjøre om det for eksempel i realiteten foreligger et arbeidsgiver-arbeidstakerforhold der det blir hevdet å være oppdragsgiver-oppdragstakerforhold. Det er også svært ressurskrevende for Arbeidstilsynet å vurdere dokumentasjonen, og om denne er reell eller fiktiv og tilpasset regelverket.
+
+### Rettspraksis om arbeidstaker- og arbeidsgiverbegrepene i arbeidsmiljøloven
+
+Advokatfirmaet Haavind har i forbindelse med utvalgets arbeid utarbeidet en rapport med gjennomgang og systematisering av rettspraksis fra 2010 til 2020 om arbeidstaker- og arbeidsgiverbegrepene i arbeidsmiljøloven.[^75] I rapporten fremstilles avgjørelser i sivile saker fra Høyesterett, lagmannsrettene og tingrettene, og omfatter både publiserte og upubliserte avgjørelser. De upubliserte avgjørelsene er innhentet fra domstolene. Det kan finnes avgjørelser som ikke er fanget opp, men ifølge Haavind er det ikke grunn til å tro at omfanget er stort.
+
+Når det gjelder *arbeidstakerbegrepet* er det identifisert 12 publiserte og 13 upubliserte dommer, fordelt slik mellom instansene:
+
+- 3 dommer fra Høyesterett,
+
+- 5 dommer fra lagmannsrettene,
+
+- 17 dommer fra tingrettene.
+
+Sakene knytter seg i all hovedsak til grensegangen mellom arbeidstaker og oppdragstaker. I mange av sakene har partene opprinnelig inngått en oppdragsavtale. Når denne avtalen er blitt sagt opp eller avsluttet av ulike årsaker er det oppstått tvist om opphøret, herunder om oppdragstaker er å anse som arbeidstaker eller ikke. Det er også en del saker som gjelder krav om fast ansettelse eller krav om ulike økonomiske ytelser som feriepenger, pensjon eller andre ytelser. Noen av sakene omfatter flere av disse kategoriene. I samtlige saker ble søksmålet tatt ut av den som mente han måtte regnes som arbeidstaker. I analysen av dommene har Haavind identifisert hvilke momenter som ble tillagt særlig vekt. De to mest fremtredende momentene var «personlig arbeidsplikt» og «underordning/instruks». I 20 av 25 saker har retten funnet at resultatet er klart. I åtte dommer var det dissens. I de sakene som skapte tvil, var det enten fordi de ulike momentene trakk i forskjellige retninger, eller fordi det var en klar uenighet mellom mindretallet og flertallet i vurderingen av momentene og/eller resultatet. I 13 saker kom domstolen til at saksøker(ne) var arbeidstaker, og i 11 saker kom domstolen til at saksøker(ne) ikke var arbeidstaker.
+
+Det finnes lite rettspraksis om grensen mellom det å være arbeidstaker og andre grupper eller kategorier. I Haavinds rapport er det gjengitt en kjennelse fra lagmannsretten om grensen mellom rollen som arbeidstaker og selskapsdeltaker. Videre foreligger det en tingrettsdom som gjaldt grensen mellom et verv og rollen som arbeidstaker.
+
+Sakene er knyttet til en rekke ulike næringer. Helse- og sosialtjenester, IKT og annen tjenesteyting utgjør de tre største med 15 saker totalt.
+
+En sak som har fått mye oppmerksomhet og som fortsatt pågår for domstolene gjelder Aleris, nå Stendi, jf. boks 5.4.
+
+Aleris-saken
+
+I Aleris-saken reiste 24 «konsulenter» (oppdragstakere med enkeltpersonforetak) sak mot oppdragsgiver Aleris (nå Stendi). Oppdragstakerne fremmet ulike krav på blant annet lønn, feriepenger og etterinnmelding i virksomhetens pensjonsordning basert på at de i realiteten var arbeidstakere i sin utførelse av arbeid som miljøarbeidere. I tingrettens dom av 21. august 2019 ble elleve av «konsulentene» klassifisert som arbeidstakere, seks ble klassifisert som oppdragstakere, og for sju av saksøkerne tok retten ikke stilling til klassifiseringen fordi skjæringstidspunktet for kravene medførte at de uansett ikke ville få medhold. Dommen er anket og ikke rettskraftig. Saken belyser problemstillingen rundt den rettslige grensen mellom arbeidstaker og oppdragstaker, og har fått betydelig oppmerksomhet. Fordi saken ikke er rettskraftig, vil ikke utvalget kommentere saken ytterligere.
+
+\[Boks slutt\]
+
+Når det gjelder *arbeidsgiverbegrepet* har Haavind identifisert 17 dommer, fordelt slik mellom instansene:
+
+- 1 dom fra Høyesterett,
+
+- 7 dommer fra lagmannsrettene,
+
+- 9 dommer fra tingrettene.
+
+Sakene fordeler seg på to hovedgrupper: 12 saker som gjelder spørsmål om delt arbeidsgiveransvar, typisk mellom mor- og datterselskap, og 7 saker gjelder plassering av arbeidsgiveransvar, det vil si tilfeller hvor det er usikkert hvilket selskap som på et gitt tidspunkt er riktig arbeidsgiver. To av sakene omhandler begge tvistetemaene. Opphør av arbeidsforhold ved oppsigelse eller avskjed er den klart viktigste årsaken. Haavinds analyse viser at domstolene har funnet resultatet klart i alle disse sakene. I 4 dommer var det dissens. Tvistesakene gjelder en rekke næringer, 6 av disse er imidlertid knyttet til transportnæringen.

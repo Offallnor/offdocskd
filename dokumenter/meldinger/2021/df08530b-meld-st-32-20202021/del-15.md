@@ -1,927 +1,584 @@
-# Meld. St. 32 (2020–2021), del 15 av 16 (side 154–164)
+# Meld. St. 32 (2020–2021), del 15 av 15
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/meldinger/2021/df08530b-meld-st-32-20202021.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/meld.-st.-32-20202021/id2856870/
 - Original-PDF: https://www.regjeringen.no/contentassets/ce1f2d9ff9a64db2967817b0b337702c/no/pdfs/stm202020210032000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 17 figurer, 16 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 154]
-
-152
-
-Meld. St. 32
-Ingen utenfor – En helhetlig politikk for å inkludere flere i arbeids- og samfunnsliv
-
-2020–2021
-
-Boks 8.6 Fremveksten av sosialt entreprenørskap i Norge
-virkemiddelapparatet. Det ble ikke kartlagt hvor
-Fremveksten av sosialt entreprenørskap i Norge
-mye stønaden fra disse aktørene utgjør, men på
-har skjedd både gjennom etablering av nyskabakgrunn av dialog med aktørene antas det i
-pende aksjeselskap og med utgangspunkt i frirapporten at den samlede støtten fra Ferd
-villig sektor og større ideelle aktører som driver
-Sosiale Entreprenører, Gjensidigestiftelsen,
-sosialt arbeid. Førstnevnte er ofte små aktører
-Kavlistiftelsen, Sparebankfondet og Kronprinsmed få ansatte og liten omsetning. Den andre
-gruppen består av store og profesjonaliserte
-parets Fond med flere, er like stor, og samlet
-organisasjoner som tilpasser seg markedet og
-sett muligens større enn den samlede offentlige
-sosial innovasjon i prosjektutviklingen.1 Utvikstøtten til samme formål.5
-ling av sosialt entreprenørskap skjer også gjenInkubatorer og møteplasser gir sosiale entrenom lokalsamfunnsutvikling.
-prenører tilgang til bl.a. kompetanse og nettverk
-som kan bidra til utvikling av bærekraftige virkDet finnes ingen samlet oversikt over sosiale
-somhetsmodeller. En annen studie finner at mer
-entreprenører i Norge. En kartlegging fant i
-enn halvparten av respondentene inngår i
-2019 at det var om lag 295 sosiale entreprenører
-gründernettverk eller i en samarbeidsplattform
-i Norge. En økning fra om lag 120 virksomheter
-2
-for sosiale virksomheter eller innovasjon.
-i 2012. Sosiale entreprenører finnes i en rekke
-bransjer og næringer. De fleste er registrert
-1
-Eimhjellen, I., & Loga, J. (2016). Utvikling av sosialt entresom tjenesteytere, men noen driver også innenprenørskap i Norge. Uni Research Rokkansenteret, Rap3
-for vareproduksjon. Om lag halvparten av de
-port 9-2016
-2
-sosiale entreprenørene er organisert innenfor
-European Commission (2019) Social enterprises and their
-ecosystems in Europe. Country fiche: Norway. Author: Lars
-privat sektor, enten som AS, ideelle AS eller
-U. Kobro. Luxembourg: Publications Office of the Euronæringsdrivende stiftelser. Den andre halvpean Union.
-3
-parten er organisert som frivillige organisaKobro, L. U., Røtnes, R., Eggen, F. W., & Skar, C. (2017).
-Statlige rammevilkår på ramme alvor. Sosialt entreprenørsjoner, ideelle stiftelser og samvirker.4
-skap i norsk offentlig kontekst. Skriftserien fra Høgskolen i
-Sosialt entreprenørskap støttes og finanSørøst-Norge:14
-sieres både gjennom offentlige virkemidler og
-4
-Eimhjellen, I., & Loga, J. (2016). Utvikling av sosialt entregjennom inkubatorer, nettverk, fond, stiftelser
-prenørskap i Norge. Uni Research Rokkansenteret, Rapport 9-2016
-og investorer. Sistnevnte er aktører som har
-5
-Kobro, L. U., Røtnes, R., Eggen, F. W., & Skar, C. (2017).
-vokst fram samtidig med de sosiale entrepreStatlige rammevilkår på ramme alvor. Sosialt entreprenørnørene. I en kartlegging fra 2017 opplyser nærskap i norsk offentlig kontekst. Skriftserien fra Høgskolen i
-mere halvparten av respondentene å ha mottatt
-Sørøst-Norge:14
-støtte fra andre kilder enn fra det offentlige
-
-som verdifull.10 De sosiale entreprenørene som
-intervjues i denne kartleggingen kommer med
-flere forslag til forbedringer i støtte som gis, bl.a.
-at Arbeids- og velferdsdirektoratet følger opp tilskuddsmottakerne tettere og forsikrer seg om at
-de sosiale entreprenørene har en fornuftig plan
-for å bli en bærekraftig sosial virksomhet. Flere
-etterlyser en type møteplass eller et nettverk for
-sosiale entreprenører som forsøker å få til samarbeid med arbeids- og velferdsforvaltningen.
-Flere av de NAV-ansatte etterlyser veiledning fra
-10
-
-Aksnes, S. Y., Breit, E., Eimhjellen, I. og Reichborn-Kjennerud, K (2020) Nye muligheter for sosialt entreprenørskap?
-Samarbeid om arbeidsinkludering mellom Nav og sosiale
-entreprenører, AFI Rapport 2020:10
-
-direktoratet om hvordan man kan samarbeide
-med sosiale entreprenører.
-Det er igangsatt en evaluering av tilskuddsordningen til sosialt entreprenørskap sammen med tilskudd til aktivisering og arbeidstrening i regi av frivillige organisasjoner. Proba Samfunnsanalyse er
-tildelt oppdraget og rapport fra denne evalueringen
-skal foreligge høsten 2021. Hovedformålet med
-evalueringen er å få kunnskap om tilskuddene
-bidrar til målene for ordningene, herunder bidrar til
-innovative og nyskapende tiltak og løsninger. Evalueringen skal belyse spørsmål knyttet til innretning
-og forvaltning av tilskuddsordningen, måloppnåelse og eventuell finansiering fra andre og videreføring etter endt tilskuddsperiode samt hvordan tilskuddsordningen bør innrettes framover.
-
-[Side 155]
-
-2020–2021
-
-Meld. St. 32
-Ingen utenfor – En helhetlig politikk for å inkludere flere i arbeids- og samfunnsliv
-
-153
-
-Boks 8.7 Sosiale entreprenører og Innovasjon Norge
-Innovasjon Norge er statens og fylkeskommuneInnovasjon Norge tilbyr entreprenører,
-vekstbedrifter og klynger tjenester innen finannes viktigste virkemiddel for å realisere verdiskapende næringsutvikling i hele landet. Innovasiering, rådgivning og nettverk. Innovasjon
-Norge har de siste årene jobbet stadig mer
-sjon Norge har ingen virkemidler spesielt
-strategisk med store samfunnsutfordringer.
-utviklet for sosiale entreprenører, men bredden
-Utviklingen av Innovasjonspartnerskap som en
-av Innovasjon Norges tjenester skal støtte opp
-ny samspillsmodell mellom offentlig og privat
-om sosialt entreprenørskap og samfunnsinnovasektor står sentralt her, og tilbys i et samarbeid
-sjon på en slik måte at det bidrar til bedrifts- og
-med Nasjonalt program for leverandørutvikling
-samfunnsøkonomisk lønnsomhet. En studie fra
-og Digitaliseringsdirektoratet. Offentlige virk2017 fant at 36 pst. av de kartlagte sosiale entreprenørene sier at de har mottatt en eller annen
-somheter som forvalter samfunnsoppgaver kan
-form for støtte fra det offentlige næringsrettede
-søke midler til å gjennomføre innovasjonsvirkemiddelapparatet, fordelt på nasjonale og
-partnerskap.
-regionale ordninger, med omtrent halvparten
-1
-Kobro, L. U. (2020). Sosialt entreprenørskap – Økt synligfra Innovasjon Norge.1
-het og større handlingsrom. Skriftserien 37/2019
-
-Regjeringen vil på bakgrunn av evalueringen
-og kartleggingen av samarbeid vurdere endringer i både regelverk og forvaltningen av tilskuddsordningene som kan bidra til bedre
-måloppnåelse.
-I kartleggingen av samarbeid om arbeidsinkludering mellom arbeids- og velferdsforvaltningen
-og sosiale entreprenører vises det til erfaringer
-med andre tilskuddsordninger hvor kommunene
-mottar tilskuddsmidlene og har ansvar for prosjektene. Flere av respondentene peker på at dette
-kan gjøre det enklere å gå inn i samarbeid og
-utvikle tjenester med sosiale entreprenører.
-Innenfor arbeids- og velferdsforvaltningen gis
-det i dag tilskudd til utvikling av de sosiale tjenestene i NAV-kontorene. Formålet med tilskuddet er
-å stimulere til utvikling av sosiale tjenester og tiltak i kommunene etter sosialtjenesteloven. Ordningen skal bidra til et helhetlig og samordnet tjenestetilbud tilpasset brukernes behov og økt kvalitet på tjenestene. Sosiale entreprenører kan være
-en nyttig samarbeidspartner for kommunen i
-utviklingen av de sosiale tjenestene. Regjeringen
-vil vurdere endringer som bidrar til at slike samarbeid i større grad inngås. Dette vil ses i sammenheng med oppfølging av evalueringen av tilskuddsordningen for sosiale entreprenører rettet
-mot fattigdom og sosial eksklusjon.
-Mulighetene i innovative offentlige anskaffelser
-Det viktigste tiltaket for å stimulere til mer sosialt
-entreprenørskap er at det offentlige bruker
-
-anbudsprosesser og innkjøp på en slik måte at
-sosiale entreprenører kan delta i konkurransen og
-får vist frem sine tilbud.
-Anskaffelsesregelverket skal sikre effektiv
-ressursbruk ved offentlige innkjøp. I hovedsak
-dreier dette seg om å sikre best mulig behovsdekning til best mulig pris. I tillegg kan offentlige
-anskaffelser brukes som virkemiddel for å nå
-andre samfunnshensyn, som f.eks. innovasjon,
-ivareta svake grupper i samfunnet, bekjempe
-arbeidslivskriminalitet, bedre miljøet og redusere
-klimautfordringene. Et mangfold av leverandører
-er viktig for å få til velfungerende konkurranse om
-offentlige kontrakter.
-Innovasjon i offentlige anskaffelser handler
-om at offentlige oppdragsgivere fokuserer mer
-på hvilket behov som skal dekkes fremfor en
-bestemt løsning. Det åpner opp for at flere aktører kan delta i konkurransen om å levere løsningen eller bidra til utviklingen av nye. I en anskaffelse vil en innovativ prosess kunne bidra til at
-den innkjøpende virksomheten får flere mulige
-løsninger.
-Direktoratet for forvaltning og økonomistyring (DFØ) jobber for å øke andelen innovative
-offentlige anskaffelser. DFØ har publisert en veileder11 for offentlige oppdragsgivere i møte med
-en sosial entreprenør. Veilederen er utarbeidet av
-Ferd sosiale entreprenører, med innspill fra flere
-aktører, inkludert DIFI (nå DFØ). I inspirasjons11
-
-Veileder om sosiale entreprenører som leverandører |
-Anskaffelser.no
-
-[Side 156]
-
-154
-
-Meld. St. 32
-Ingen utenfor – En helhetlig politikk for å inkludere flere i arbeids- og samfunnsliv
-
-2020–2021
-
-Effektkontrakter som virkemiddel
-for å utvikle nye løsninger på sosiale
-problemer
-Effektkontrakter, internasjonalt omtalt som Social
-Impact Bonds, er en alternativ modell for offentlig-privat samarbeid med fordeling av ansvar og
-risiko. Resultater av tiltak fremfor aktiviteter og
-ressursinnsats vektlegges. Effektkontrakter er en
-forholdsvis ny modell for finansiering av sosiale
-tiltak, men fra det første forsøket i 2010 er det etablert kontrakter i minst 25 land.13 I Norden har
-Finland prøvd ut effektkontrakter som metode
-innenfor flere områder, inkludert tiltak for utsatte
-barn og unge og tiltak for å redusere langtidsarbeidsledighet.14
-Effektkontrakter kan organiseres på flere
-måter, men utgangspunktet er en modell hvor private investorer finansierer et sosialt tiltak med et
-fastsatt resultatmål, og blir tilbakebetalt av det
-offentlige om målene nås. Myndighetene betaler
-kun hvis resultatene oppnås og investorene tjener
-
-kun penger dersom samfunnet også gjør det.15
-Ulike private eller ideelle leverandører utfører tjenestene eller tiltakene som skal bidra til å nå
-resultatmålene i effektkontrakten. I mange av
-effektkontraktene som er gjennomført internasjonalt er det i praksis en mer nyansert tilnærming,
-med delmål og utbetaling underveis eller andre
-grep som gjør det mulig å bruke opparbeidet
-kunnskap underveis og deling av ansvar og
-risiko.16 En kunnskapssammenstilling peker på at
-en utfordring i bruken av effektkontrakter er å
-identifisere målbare prosjektmål som sikrer sammenheng mellom innsats og resultat for den
-ønskede målgruppen. Effektkontrakter er en forholdsvis ny metodikk og kunnskapsgrunnlaget er
-under utvikling.
-I Norge er det etablert en effektkontrakt i Lier
-kommune. Trygg av natur, Lier kommune og
-Ferd sosiale entreprenører har inngått en avtale
-hvor det kortsiktige målet er å øke livsmestring
-og motivasjon, samt å redusere stress. Det langsiktige målet er redusert frafall i videregående
-skole. Modellen i Lier innebærer at Lier kommune tilbakebetaler Ferd halvparten av investeringen dersom avtalte resultater oppnås. I tillegg
-viderefører kommunen tilbudet dersom det viser
-seg å fungere som forventet.17
-Det er videre under oppstart en effektkontrakt i Vestfold. Dette er en del av pilotprosjektet med bruk av velferdsobligasjoner som
-skal teste ut effektkontrakter som modell for
-utvikling og finansiering av nye tiltak for å forebygge tilbakefall til kriminalitet (Se nærmere
-omtale i boks 8.8).
-Det er også under utprøving resultatbasert
-finansiering av oppfølging (REFINO), som er en
-finansieringsmodell med noen likheter med
-effektkontrakter. Forsøket ble etablert i 2018 og
-skal gi grunnlag for å vurdere om resultatbasert
-finansiering av arbeidsmarkedstiltaket Oppfølging
-resulterer i høy grad av formidling til ordinært
-arbeid. Innholdet i forsøket er identisk med det
-eksisterende oppfølgingstiltaket, og det er kun
-selve betalingen til tiltaksarrangør som organiseres på en annen måte i forsøket. I forsøket får tiltaksarrangøren betalt etterskuddsvis i bolker og
-siste utbetaling skjer når deltaker har vært fast
-
-12
-
-15
-
-heftet Veier til samarbeid. Sosiale entreprenører
-som samarbeidspartnere i offentlig sektor – eksempler og ideer, utgitt av Kommunal- og moderniseringsdepartementet, gis det også informasjon om
-anskaffelsesregelverket og hvordan sosiale entreprenører kan gå fram for å komme i dialog med
-det offentlige og delta i konkurranser om offentlige anskaffelser.12
-Anskaffelsesregelverket legger til rette for å
-fremme innovasjon og praksisen med innovative
-anskaffelser øker. Det er imidlertid mye som
-tyder på at handlingsrommet kan utnyttes i
-større grad. Utgangspunktet for innovative
-anskaffelser er at oppdragsgiver fokuserer på
-hvilket behov løsningen skal dekke framfor
-mulige løsningsforslag. Innovative anskaffelser
-kan være et godt virkemiddel til å stimulere til
-nytenking. Både ansatte i offentlig sektor og
-sosiale entreprenører må ha god kunnskap om
-mulighetene som ligger i anskaffelsesregelverket og hvordan innovative anskaffelser kan
-gjennomføres. For nærmere omtale av innovative løsninger og anskaffelser av arbeidsmarkedstiltak, se kapittel 8.3.
-
-8.2.3
-
-Inspirasjonsheftet Veier til samarbeid (www.regjeringen.no/2540583).
-13
-Carè, R., & De Lisa, R. (2019). Social impact bonds for a
-sustainable welfare state: The role of enabling factors.
-Sustainability, 11(10), 2884.
-14 Ministry of Employment and Economic Affairs Finland.
-(2021). SIB Projects. Hentet fra: https://tem.fi/en/sib-projects
-
-16
-17
-
-KS (2021). Hva er effektkontrakter? Hentet fra: https://
-www.ks.no/fagomrader/innovasjon/sosiale-investeringer/
-effektkontrakter/hva-er-effektkontrakter/
-Oxford Research (2021). Effektkontrakter. Delrapport: Litteraturstudie
-Ferd (2021). Årsrapport 2019: Sosiale entreprenører. Hentet
-fra:
-https://aarsrapport2019.ferd.no/sosiale-entreprenorer/
-
-[Side 157]
-
-2020–2021
-
-Meld. St. 32
-Ingen utenfor – En helhetlig politikk for å inkludere flere i arbeids- og samfunnsliv
-
-155
-
-Boks 8.8 Pilot med velferdsobligasjoner/effektkontrakter
-ble deretter fattet politiske vedtak om deltakelse
-Arbeids- og velferdsdirektoratet og Kriminali fem kommuner. Regelverk og rammeverk for
-omsorgsdirektoratet er gitt et felles oppdrag om
-piloten tok lengre tid å ferdigstille enn forventet.
-å gjennomføre en pilot med bruk av velferdsobliHøsten 2019 ble det avholdt kommunevalg, og
-gasjoner.
-mange kommuner var samtidig i en prosess
-Hovedformålet med pilotprosjektet er å teste
-med kommunesammenslåing. Dette førte til at
-ut velferdsobligasjoner som modell for utvikling
-det var behov for ny politisk forankring av piloog finansiering av nye tiltak for å forebygge tilbakefall til kriminalitet. Videre er formålet å
-ten i kommunene etter valget. Prosessen ble
-bidra til å utvikle velferdsobligasjoner som konderfor forsinket til ut i 2020. Koronasituasjonen
-har påvirket framdriften fra våren 2020.
-sept i Norge, belyse modellen i norsk sammenheng og avdekke muligheter og utfordringer.
-Kommuner som fikk fornyet politiske vedtak
-Det er inngått avtale om evaluering av piloten
-om deltakelse i piloten i 2020 er Larvik, Sandemed Oxford Research.
-fjord, Tønsberg og Færder. Disse har etablert et
-interkommunalt samarbeid om piloten. KommuDirektoratene har siden arbeidet startet opp
-nene har våren 2021 inngått kontrakt med tjei 2018 hatt kontakt og/eller møter med en rekke
-tjenesteleverandører, investorer og kommuner.
-nesteleverandøren Back in the Ring, og det er
-Det ble ved oppstart sendt invitasjon til Oslo,
-planlagt rask oppstart av tilbudet til løslatte.
-Trondheim, Kristiansand, samt kommunene i
-Arbeids- og velferdsdirektoratet har i 2020 tildelt
-daværende Østfold og Vestfold om deltakelse i
-midler til en interkommunal koordinator for
-piloten. Kommunene fikk muligheten til å søke
-vestfoldkommunene. Det er også tildelt midler
-om tilskudd for administrative kostnader og tiltil en tilrettelegger for piloten.
-skuddsgaranti til gjennomføring av piloten. Det
-
-ansatt i over seks måneder, eventuelt midlertidig
-ansatt i over ni måneder. Institutt for samfunnsforskning (ISF) gjennomfører, i samarbeid med
-PROBA samfunnsanalyse, en randomisert, kontrollert studie av forsøket.
-Endringer i arbeidsliv og samfunn skaper nye
-utfordringer, og gjør at innsatsen mot utenforskap er et arbeid som ikke tar slutt. Manglende
-sosial inkludering og opplevelse av mestring i
-oppveksten kan føre til frafall i videregående opplæring. Ungt utenforskap kan føre til et liv utenfor arbeid og inkludering på viktige samfunnsarenaer. Omstilling, teknologisk utvikling og
-endringer i krav til kompetanse gjør det vanskeligere for utsatte grupper å komme inn eller få et
-stabilt fotfeste i arbeidslivet. Regjeringen vil derfor legge til rette for utprøving av nye løsninger
-som kan forebygge sosiale problemer og inkludere flere i arbeids- og samfunnsliv. Det er gitt et
-oppdrag til Arbeids- og velferdsdirektoratet om å
-vurdere hvilke områder, utover det igangsatte
-forsøket for å forebygge tilbakefall til ny kriminalitet, som kan være aktuelle for forsøk med
-effektkontrakter eller liknende modeller for
-finansiering og utvikling av nyskapende løsninger på sosiale problemer.
-
-8.3
-
-Økt mangfold og bedre løsninger i
-markedet for arbeidsmarkedstiltak
-
-8.3.1 Om arbeidsmarkedstiltakene
-Arbeids- og velferdsetaten kan tilby arbeidsmarkedstiltak til personer som har behov for
-bistand for å komme i arbeid. Målet med de fleste
-arbeidsmarkedstiltakene er å styrke deltakerens
-muligheter til å skaffe seg, eller beholde arbeid.
-Tiltakene kan også benyttes for å avklare arbeidsevne. Tiltaket varig tilrettelagt arbeid (VTA) skal
-gi et meningsfullt arbeid til personer som har
-vanskeligheter med å få arbeid på ordinære lønnsog arbeidsbetingelser. Dette tiltaket omtales nærmere i kapittel 6.
-Arbeidsmarkedstiltakene finansieres ved en
-rammebevilgning over statsbudsjettet. Størrelsen på bevilgningen vil variere avhengig av situasjonen på arbeidsmarkedet og Stortingets prioriteringer. Dette gir ulikt rom for hvor mange tiltaksplasser som kan gjennomføres fra år til år. I
-tillegg vil endringer i tiltakssammensetningen ha
-betydning. Ulike brukergrupper vil ha behov for
-ulike typer tiltak, med ulike priser. Situasjonen
-på arbeidsmarkedet vil også legge føringer for
-
-[Side 158]
-
-156
-
-Meld. St. 32
-Ingen utenfor – En helhetlig politikk for å inkludere flere i arbeids- og samfunnsliv
-
-2020–2021
-
-Boks 8.9 Hovedgrupper av arbeidsmarkedstiltak
-Avklaring – skal kartlegge og vurdere persoArbeidsrettet rehabilitering – skal bidra til
-mestring av helserelaterte og sosiale problemer
-nens arbeidsevne og eventuelle spesifikke
-som kan være til hinder for deltakelse i arbeidsbehov for bistand for å komme i, eller beholde
-arbeid. Avklaringstiltaket kjøpes som en ekstern
-livet.
-tjeneste når behovsvurderingen som ArbeidsInkluderingstilskudd – skal kompensere for
-og velferdsetaten gjør, ikke er tilstrekkelig.
-tilleggskostnader arbeidsgivere har i forbinOppfølging – kan tilbys personer som har
-delse med tilrettelegging av en arbeidsplass for
-behov for mer omfattende formidlings- og opppersoner med behov for arbeidsrettet bistand fra
-Arbeids- og velferdsetaten.
-følgingsbistand enn den Arbeids- og velferdsetaten kan tilby. Oppfølgingstjenester kan inneMidlertidig/tidsbegrenset lønnstilskudd – kan
-gis til arbeidsgivere for å bidra til at personer
-holde kartlegging og veiledning til tiltaksdelkan bli fast ansatt i ordinære virksomheter, og
-taker, arbeidsgiver og tiltaksarrangør, oppfølhindre utstøting av personer som står i fare for å
-ging på arbeidsplassen, tilskudd til mentor, oppfalle ut av arbeidslivet.
-læring i arbeidsrelaterte og sosiale ferdigheter,
-Varig lønnstilskudd – skal bidra til at personer
-samt tilpasning og tilrettelegging av arbeidsoppmed varig og vesentlig nedsatt arbeidsevne kan
-gaver og arbeidssituasjon.
-skaffe seg eller beholde ordinært arbeid, samt
-Arbeidstrening – skal prøve ut personens
-bidra til å motvirke overgang til uføretrygd.
-muligheter på arbeidsmarkedet, gi relevant
-arbeidserfaring og bidra til å styrke muligArbeids- og utdanningsreiser – støtte som skal
-bidra til at personer med forflytningsvansker
-hetene til å få arbeid. Tiltaksdeltakeren får tilretpga. nedsatt funksjonsevne kan være i ordinært
-telagt arbeidstrening i ordinært arbeidsliv. Perarbeid, eller gjennomføre arbeidsrettet utdansoner med nedsatt arbeidsevne som har behov
-for arbeidstrening i et skjermet og tilrettelagt
-ning.
-arbeidsmiljø før arbeidstrening eller opplæring i
-Funksjonsassistanse – tilskudd som kan gis til
-ordinært arbeidsliv, kan tilbys tiltaket arbeidsyrkesaktive personer som har omfattende
-fysiske funksjonsnedsettelser. Ordningen inneforberedende trening.
-Opplæring – skal bidra til at arbeidssøkere
-bærer at en lønnet assistent hjelper til med prakkvalifiseres til ledige jobber. Opplæringen kan
-tiske formål i arbeidssituasjonen.
-gis i form av kortvarige kurs som vanligvis skal
-Varig tilrettelagt arbeid – arrangeres i forgi formell kompetanse i form av offentlige
-håndsgodkjente bedrifter eller ordinære virkprøvebevis, sertifikater o.l. Opplæringen kan
-somheter for personer som mottar, eller i nær
-også bestå av fag- og yrkesopplæring på videreframtid ventes å få innvilget uføretrygd, og som
-har behov for spesiell tilrettelegging og tett oppgående skoles nivå, høyere yrkesfaglig utdanning eller gis som høyere utdanning.
-følging. Tiltaket er uten tidsbegrensning.
-
-hvilke typer tiltak det vil være mest hensiktsmessig å tilby.
-Tilgangen til arbeidsmarkedstiltak er begrenset, og Arbeids- og velferdsetaten må prioritere
-hvem som skal tilbys tiltak. Regjeringen legger
-føringer for dette gjennom tildelingsbrevet til
-Arbeids- og velferdsdirektoratet, hvor det løftes
-fram enkelte grupper som skal prioriteres for tiltak. De senere årene har dette omfattet ungdom,
-innvandrere fra land utenfor EU/EØS og langtidsledige. Mange av de som trenger bistand fra
-Arbeids- og velferdsetaten har nedsatt arbeidsevne, og en betydelig andel av tiltaksplassene tildeles denne gruppen. Eksempelvis utgjorde per-
-
-soner med nedsatt arbeidsevne i gjennomsnitt om
-lag 80 pst. av tiltaksdeltakerne i 2020. NAV-kontorets behovs- og arbeidsevnevurderinger vil alltid
-ligge til grunn for tildeling av tiltak, sammen med
-hensynet til situasjonen på arbeidsmarkedet.
-Mange personer med sammensatte bistandsbehov eller usikker produktivitet kan ha nytte av
-tiltak rettet mot arbeidsgiver. Slike tiltak kan bidra
-til å redusere arbeidsgivers opplevde usikkerhet
-knyttet til produktivitet og framtidig bidrag til
-virksomheten. Tiltak som f.eks. lønnstilskudd,
-ulike former for tilrettelegging av arbeidssituasjonen og støtte til arbeidsgiver kan bidra til å trygge
-arbeidsgiver og stimulere til ordinær ansettelse.
-
-[Side 159]
-
-2020–2021
-
-Meld. St. 32
-Ingen utenfor – En helhetlig politikk for å inkludere flere i arbeids- og samfunnsliv
-
-Lønnstilskudd og andre tiltak rettet mot arbeidsgivere er omtalt i kapittel 4.
-Personer med store og sammensatte bistandsbehov kan ofte ha behov for utprøving av arbeidsevne før de går videre til andre tiltak. Tiltaket
-arbeidsforberedende trening (AFT) legger til
-rette for arbeidstrening i et tilrettelagt og skjermet miljø før deltakelse i tiltak i ordinært arbeidsliv, og er mye brukt for denne gruppen. AFT er i
-dag reservert for forhåndsgodkjente tiltaksarrangører som får direkte tilskudd fra Arbeids- og velferdsetaten. Riksrevisjonen har kritisert at
-Arbeids- og velferdsetaten ikke har etablert gode
-nok kontroller for å sikre at midlene kommer attføringsarbeidet og tiltaksdeltakerne til gode.
-Regjeringen vil følge opp Riksrevisjonens anbefaling om å vurdere hensiktsmessigheten i dagens
-tilskuddsordning, med mål om å komme fram til
-ordninger som gir et best mulig tilbud til den aktuelle brukergruppen. Arbeids- og sosialdepartementet arbeider med et høringsnotat med ulike
-alternative forslag til endringer.
-Oppfølging som arbeidsmarkedstiltak kan
-kjøpes fra eksterne leverandører, eller tilbys fra
-Arbeids- og velferdsetaten selv. Oppfølgingstjenester i etatens egen regi omfatter innsats med
-utvidet oppfølging og innsatsen med individuell
-jobbstøtte (IPS). Målgruppen for utvidet oppfølging
-er personer som har behov for individuell oppfølgingsbistand for å få og beholde en vanlig, lønnet
-jobb. Individuell jobbstøtte kan tilbys personer som
-mottar behandling av en viss varighet for psykiske
-lidelser og/eller rusproblematikk. Innsatsen med
-individuell jobbstøtte omtales i kapittel 5.
-Sysselsettingsutvalget er opptatt av at det bør
-føres en mer aktiv arbeidsmarkedspolitikk, hvor
-flere får tett oppfølging og tilbud om arbeidsmarkedstiltak. Utvalget forslår mer ressurser til
-tettere oppfølging, og økte rammer for bruk av
-arbeidsmarkedstiltak. De peker på at koronakrisen, med redusert sysselsetting og økt ledighet, har forsterket dette behovet.
-Det er viktig for regjeringen å iverksette tiltak
-som motvirker at ledigheten biter seg fast på et
-høyt nivå, og unngå at utsatte grupper skyves lengre unna arbeidsmarkedet. Dette er bakgrunnen
-for at bevilgningene til arbeidsmarkedstiltak og
-oppfølging i Arbeids- og velferdsetaten er betydelig styrket i 2021, både gjennom Prop. 1 S (2020–
-2021) og Prop. 79 S (2020–2021).
-I lys av koronasituasjonen vil regjeringen fortsatt følge situasjonen på arbeidsmarkedet nøye,
-med særlig fokus på situasjonen for utsatte grupper. Regjeringen vil vurdere å øke andelen ledige,
-sykemeldte og personer med nedsatt arbeidsevne
-
-157
-
-som får oppfølging og arbeidsmarkedstiltak fra
-Arbeids- og velferdsetaten, i tråd med sysselsettingsutvalgets anbefalinger.
-
-8.3.2
-
-Effekter av arbeidsmarkedstiltak
-
-I forbindelse med sysselsettingsutvalgets arbeid
-utarbeidet Kristine von Simson en kunnskapsoversikt som sammenfatter og vurderer forskning
-om effekter av arbeidsmarkedsinnsatser i
-Norge.18 Generelt peker von Simson på at effekten av arbeidsmarkedstiltak ser ut til å variere
-mellom ulike tiltakstyper og brukergrupper, men
-at de fleste studiene i hennes utvalg finner positiv
-effekt på sysselsetting ved deltakelse på arbeidsmarkedstiltak.
-Von Simson finner gjennomgående positive
-resultater av lønnstilskudd i privat sektor for alle
-målgrupper. For ordinære arbeidssøkere ser
-bistand til jobbsøking ut til å være det mest effektive tiltaket på kort sikt, mens opplæringstiltak og
-lønnstilskudd viser best effekt på lengre sikt. For
-personer med nedsatt arbeidsevne er effekten av
-lønnstilskudd særlig stor når det brukes som siste
-tiltak i en kjede med andre tiltak. Lønnstilskudd
-forutsetter ansettelse, og det kan for mange være
-nødvendig å gjennomgå andre tiltak før lønnstilskudd blir aktuelt. Arbeidspraksis alene viser ikke
-god effekt på overgang til jobb, men gir store positive effekter på overgangen til skole/utdanning
-for unge. Tiltaket viser bedre effekt på overgang
-til arbeid når det brukes i etterkant av opplæringstiltak.
-Mottakere av sosialhjelp kan være en særlig
-utsatt gruppe, som ofte står langt fra arbeidslivet.
-Arbeidsmarkedstiltak ser likevel ut til å ha positiv
-virkning på sysselsetting og lønn også for denne
-gruppen. Von Simson viser til forskning som finner særlig stor effekt av lønnstilskudd og opplæringstiltak for denne gruppen, samt for arbeidspraksis brukt i etterkant av opplæringstiltak.
-Effekten av tiltakene påvirkes av situasjonen
-på arbeidsmarkedet, og bruken av de ulike
-arbeidsmarkedstiltakene må tilpasses denne.
-Ifølge von Simson finner mange norske studier at
-arbeidsmarkedstiltak har bedre effekt på overgang til arbeid i perioder med oppgangskonjunktur enn i perioder med nedgangskonjunktur. For
-eksempel har ulike opplæringstiltak noe lengre
-varighet, og vil normalt ha en viss innlåsingseffekt. Denne effekten vil ha mindre betydning i
-18
-
-von Simson, K. (2019): Kunnskapsoversikt: Effekter av
-arbeidsmarkedstiltak mv på arbeidstilbud og sysselsetting,
-norske erfaringer. Digitalt vedlegg til NOU 2019: 7.
-
-[Side 160]
-
-158
-
-Meld. St. 32
-Ingen utenfor – En helhetlig politikk for å inkludere flere i arbeids- og samfunnsliv
-
-et vanskelig arbeidsmarked når sannsynligheten
-for rask overgang til arbeid uansett er lav. I en slik
-situasjon kan det være fornuftig å benytte tiltak
-som kan øke kompetansen blant de ledige, for å
-øke mulighetene for en god tilknytning til arbeidslivet når situasjonen på arbeidsmarkedet bedres.
-Sysselsettingsutvalget peker på at et generelt
-trekk ved erfaringer og evalueringer av tiltak er at
-ressurskrevende innsats synes å ha god effekt.
-Individuell jobbstøtte (IPS) trekkes fram som
-eksempel, sammen med kvalifiseringsprogrammet. Sysselsettingsutvalget peker videre på viktigheten av en kunnskapsbasert politikk, og trekker
-bl.a. fram betydningen av forskning på effekter av
-arbeidsmarkedstiltak og oppfølging av arbeids- og
-velferdsforvaltningens brukere. Sysselsettingsutvalget ser fortsatt behov for mer kunnskap om
-hvilke tiltak som virker for hvem, og hvilke rammebetingelser som må være til stede for at tiltaket
-skal ha effekt. Samtidig pekes det på betydningen
-av at Arbeids- og velferdsetaten tar i bruk denne
-kunnskapen ved tildeling av tiltak. Regjeringen vil
-innhente mer kunnskap om effekter av ulike typer
-arbeidsmarkedstiltak for arbeidssøkere i ulike
-situasjoner.
-
-8.3.3
-
-Innovative løsninger og anskaffelser
-av arbeidsmarkedstiltak
-Regjeringen er opptatt av å videreutvikle de
-arbeidsrettede tjenestene slik at flere kan komme
-i arbeid.
-En stor del av arbeidsmarkedstiltakene gjennomføres direkte hos arbeidsgivere i ordinært
-arbeidsliv eller i utdanningsinstitusjoner, mens en
-betydelig andel anskaffes også fra eksterne tiltaksarrangører. Samarbeid med ulike typer leverandører er viktig for å sikre mangfold og et
-variert tilbud innenfor arbeidsmarkedstiltakene.
-Anbudsutsettingen av avklarings- og oppfølgingstiltakene i 2015 hadde som mål å forenkle regelverket for arbeidsmarkedstiltakene, bidra til økt
-mangfold og sikre økt kvalitet i det samlede tiltakstilbudet. En evaluering fra Proba Samfunnsanalyse viser at dette har gitt bedre resultater i
-form av overgang til arbeid til en lavere pris for
-ulike typer oppfølgingstiltak.19
-Hvordan Arbeids- og velferdsdirektoratet
-gjennomfører anskaffelsesprosessene for arbeidsmarkedstiltak, har betydning for innovasjonsgraden i arbeidsmarkedstiltakene og utviklingen
-av markedet for arbeids- og velferdstjenester.
-19
-
-Proba (2020). Resultater av oppfølgingstiltak. Sluttrapport.
-Proba-rapport nr. 2020-8.
-
-2020–2021
-
-Gjennom anskaffelser kan sosiale entreprenører
-og ideelle aktører levere tjenester og produkter til
-det offentlige på like vilkår som andre private
-aktører. Som leverandør av arbeidsmarkedstjenester kan eksempelvis ideelle virksomheter og
-sosiale entreprenører konkurrere om utlyste oppdrag, og slik være med å øke både mangfoldet og
-kvaliteten i tilbudet. Det er imidlertid få nye ideelle og sosiale entreprenører som har kommet inn
-som leverandører av arbeidsmarkedstiltak. Dette
-kan bety at nye løsninger som potensielt kan gi
-bedre overgang til arbeid eller utdanning, ikke
-blir prøvd ut. En viktig utfordring er derfor å
-legge til rette for økt utprøving av nye, gode ideer
-og løsninger gjennom å gi nye og mindre tilbydere innpass på tiltaksfeltet. Det handler om å
-utforme anbudene slik at små og innovative aktører kan få prøvd ut nye ideer i et system, der de
-dårlige ideene blir silt ut og de gode ideene gir
-mulighet for å vinne større kontrakter framover i
-tid.
-Leverandørsamarbeid gir økonomiske muligheter, men for nystartede og mindre virksomheter kan det være krevende å oppfylle formelle
-vilkår og nå opp i konkurranse med etablerte og
-større aktører. I en analyse gjennomført av
-Arbeidsforskningsinstituttet pekes det på at
-sosiale entreprenører ofte ikke når opp i anbudskonkurranser med de større og mer etablerte
-leverandørene. Utfordringene for de sosiale
-entreprenørene er blant annet knyttet til å utvikle
-virksomheten fra oppstartsfasen til en mer profesjonalisert form som kan gi en mer etablert plass
-i det markedet de opererer innenfor. Det pekes
-også på manglende forståelse hos de sosiale
-entreprenørene av anskaffelses- og tiltaksregelverkene som regulerer Arbeids- og velferdsetatens rolle og muligheter i slike samarbeid. I
-tillegg har de ofte mindre erfaring med et tett
-bestiller-leverandørforhold.
-Situasjonen kan bedres bl.a. gjennom dialog
-med Arbeids- og velferdsetaten, holdningsendring
-og bedre forståelse av bestiller og leverandørrollen. Veiledninger kan være et behov. Det opplyses også av entreprenørene at det er krevende å
-nå opp i konkurranse med de større og mer etablerte tiltaksarrangørene om samarbeidsavtaler.
-Hvordan anskaffelsene blir beskrevet og størrelsen på anskaffelsen, kan ha stor betydning for hva
-slags aktører som kan tilby løsninger og tjenester.
-Særlig mindre aktører kan ha utfordringer med å
-vinne fram i store, offentlige anskaffelsesløp.
-Undersøkelsen peker videre på at sosiale entreprenører har særlige utfordringer i anbudsrunder
-fordi de ikke kan levere store nok volum og heller
-
-[Side 161]
-
-2020–2021
-
-Meld. St. 32
-Ingen utenfor – En helhetlig politikk for å inkludere flere i arbeids- og samfunnsliv
-
-ikke har et profesjonelt apparat for å skrive og
-levere anbud.20
-Innovative anskaffelser kan være et godt virkemiddel til å stimulere til nytenkning. Innovasjon i
-offentlige anskaffelser handler om at offentlige
-oppdragsgivere fokuserer mer på hvilket behov
-som skal dekkes framfor en bestemt løsning. Det
-åpner opp for at flere aktører kan delta i konkurransen. Se mer om mulighetene som ligger i bruk
-av innovative anskaffelser i eget avsnitt over. Det
-at løsningene er innovative vil ofte innebære at
-leverandørene tilnærmer seg samfunnsproblemer på nye måter, f.eks. gjennom utviklingen
-av nye inkluderingsarenaer eller nye metoder.
-Eksempler på sosiale problemer det er behov for å
-fokusere på er sosialt utenforskap, inkludering av
-sårbare personer i arbeidslivet og integrering av
-flyktninger og innvandrere i arbeids- og samfunnsliv.
-Som en stor offentlig innkjøper har Arbeidsog velferdsetaten store muligheter for å bidra til
-nytenkning og utvikling i leverandørmarkedet for
-arbeidsmarkedstiltak ved å etterspørre nye og
-bedre løsninger. For å legge bedre til rette for at
-flere gode krefter får bidra med nye, innovative
-løsninger på arbeids- og velferdsfeltet, har
-Arbeids- og sosialdepartementet bedt Arbeids- og
-velferdsdirektoratet øke bruken av mer innovative
-anskaffelsesmetoder for innkjøp av arbeidsmarkedstiltak. Det skal bidra til flere anskaffelser som
-aktivt søker nye innovative løsninger og tilnærminger herunder fra mindre aktører, ideelle aktører og sosiale entreprenører. Målet med en slik
-utprøving er større variasjon i leverandørmarkedet og større variasjon i virkemidler og tiltak ut mot arbeids- og velferdsforvaltningens
-brukere. Dette kan gi et grunnlag for å bedre
-overgangen til arbeid og utdanning.
-Arbeids- og velferdsetaten har over tid hatt
-fokus på nytten av innovative anskaffelser og har
-fra starten i 2010 vært partner i leverandørutviklingsprogrammet for innovative anskaffelser
-som drives av bl.a. NHO, KS, Innovasjon Norge
-og Forskningsrådet. Arbeids- og velferdsdirektoratet erfarer at i en innovativ anskaffelsesprosess er dialogen med leverandørmarkedet i
-forkant av anskaffelsen viktig. Dialogen må tilpasses at flere aktuelle leverandører gjerne er
-mindre virksomheter som har et beskjedent administrativt apparat. For å bidra til at flere mindre
-20
-
-Aksnes, S. Y., Breit, E., Eimhjellen, I. og Reichborn-Kjennerud, K (2020) Nye muligheter for sosialt entreprenørskap?
-Samarbeid om arbeidsinkludering mellom Nav og sosiale
-entreprenører, AFI Rapport 2020:10
-
-159
-
-leverandører, både kommersielle og ideelle, kan
-delta i anbudskonkurransene, vurderer direktoratet bl.a. å innhente innspill fra leverandørmarkedet på hva som kan være gode resultatmål og hensiktsmessige tildelingskriterier. Formålet er at det
-utarbeides kravspesifikasjoner som åpner opp for
-nye løsninger og tilbydere. I innovative anskaffelser må kriteriene for hvilke grupper de ulike tiltakene skal nå, være mer åpne enn i dag.
-Arbeids- og velferdsdirektoratet vurderer også
-andre tilnærminger som gjør det enklere for mindre leverandører å delta i anbudskonkurranser i
-regi av Arbeids- og velferdsetaten, herunder om
-det kan være aktuelt med rammeavtaler hvor tilbyderne selv får anledning til å tilby det antall
-plasser de kan levere. Det vurderes også om det
-kan være hensiktsmessig å dele opp anbudskonkurranser i mindre delkonkurranser. Lokale
-behov og prioriteringer for utprøving av nye løsninger og tilnærminger skal vektlegges, slik at
-også lokale NAV-kontor i større grad får finne
-fram til, samarbeide med og følge opp mindre,
-lokale, innovative løsninger. Særlig aktuelt er det å
-bruke metoden med mer innovative anskaffelser
-for tiltak i tilknytning til avklaring og oppfølging,
-særlig av unge og personer som har stått lenge
-uten arbeid. Virkemidler som samarbeid med
-sosiale entreprenører bør også vurderes som et
-supplement, overfor personer som har stått lenge
-uten arbeid og som har prøvd flere arbeidsmarkedstiltak uten å komme i ordinær jobb. Det
-er viktig at en slik utprøving evalueres ut fra
-målene for arbeidsmarkedstiltak, som i hovedsak
-er overgang til arbeid og utdanning, og mål om
-effektiv ressursbruk.
-Ideelle aktører er en viktig del av velferdssamfunnet og utgjør et viktig alternativ til både
-det offentlige og kommersielle tilbudet. Gjennom
-Granavolden-plattformen har regjeringen lagt opp
-til å invitere ideelle leverandører på arbeids- og
-velferdsfeltet for å utvikle en strategi som sikrer
-utvikling av ideell sektors rolle og tilbud. Som
-ledd i dette har Arbeids- og sosialdepartementet
-gitt Arbeids- og velferdsdirektoratet i oppdrag å
-nedsette en arbeidsgruppe med ideelle aktører,
-som bl.a. skal kartlegge barrierer og muligheter
-for at flere ideelle og mindre aktører kan levere
-arbeidsmarkedstiltak til Arbeids- og velferdsetaten. Arbeidsgruppen vil vurdere tiltak og
-mulige endringer som kan bidra til å øke mangfoldet blant leverandørene av arbeidsmarkedstiltak. Samarbeid med flere ulike typer leverandører, både kommersielle og ideelle, herunder
-sosiale entreprenører, er viktig for å sikre mangfold og et variert tilbud innenfor arbeidsmarkeds-
-
-[Side 162]
-
-160
-
-Meld. St. 32
-Ingen utenfor – En helhetlig politikk for å inkludere flere i arbeids- og samfunnsliv
-
-tiltakene. Regjeringen er opptatt av at potensielle
-gode løsninger på samfunnsutfordringer prøves ut
-og at virksomme tiltak og metoder skaleres opp.
-Regjeringen vil på bakgrunn av innspillene fra
-arbeidsgruppen med ideelle aktører og Arbeidsog velferdsdirektoratets arbeid med å øke andelen
-innovative anskaffelser av arbeidsmarkedstiltak,
-utforme en strategi for innovative anskaffelser av
-arbeidsmarkedstiltak og arbeide videre med å
-utvikle en strategi for ideelle aktører i tråd med
-målsettingen i Granavolden-plattformen.
-
-8.4
-
-Oppsummering av tiltak
-
-Regjeringens mål er at flere skal inkluderes i
-arbeids- og samfunnsliv. Dette krever at innovasjonskraften som finnes i offentlig, frivillig og privat sektor utnyttes fullt ut.
-Å stimulere til utvikling av nye løsninger, teste
-disse og deretter ta i bruk de som gir bedre resultater er en forutsetning for å kunne forebygge
-bedre og inkludere flere i arbeids- og samfunnsliv.
-De siste årene har stadig flere NAV-kontor
-utviklet nye arbeidsmåter og tiltak for å støtte
-brukerne sine på bedre måter. En sentral utfordring i den kunnskapsbaserte tjenesteutviklingen
-er hvordan det lokale handlingsrommet kan kombineres med systematikken som er nødvendig for
-å gå fra mange lovende lokale løsninger til stadig
-flere effektive løsninger andre kontorer kan lære
-av. Det er behov for å etablere bedre systemer for
-å identifisere effekter av tiltak og tjenester i
-arbeids- og velferdssektoren og mer læring mellom enheter.
-Ny teknologi og tilgang på data gir nye muligheter for innovasjon i tjenestene. Dette kan bety
-bedre kvalitet og bedre samordning mellom tjenester overfor den enkelte. Dagens digitale tjenester er i stor grad bygget opp ut fra hvem som har
-eierskap til tjenesten, og ikke ut fra brukerbehovene. Samarbeid på tvers av sektorer om brukere er avhengig av at man har rettslige hjemler
-for deling av informasjon. Det er stort behov for å
-arbeide videre med det juridiske rammeverket og
-rettsgrunnlaget for behandling av personopplysninger på en måte som både tar hensyn til personvern og legger til rette for å utvikle tjenester og
-systemer som gir større muligheter til helhetlig
-dialog og oppfølging.
-Sosiale entreprenører utvikler og leverer
-nyskapende løsninger og kan være viktige samarbeidspartnere i arbeidet med å forebygge utenforskap og inkludere flere i arbeids- og samfunnsliv. Det er en del samarbeid mellom arbeids- og
-
-2020–2021
-
-velferdsforvaltningen og sosiale entreprenører,
-men det er potensial for å øke samarbeidet.
-Arbeidsmarkedstiltakene er sentrale virkemidler i arbeidet for at flest mulig skal komme i
-arbeid, og for å hindre utstøting fra arbeidslivet.
-En utfordring er å legge til rette for økt utprøving
-av nye, gode ideer og løsninger. Bruk av anbud og
-samarbeid med ulike typer leverandører er også
-viktig for å sikre mangfold og et variert tilbud
-innenfor arbeidsmarkedstiltakene. Innovative
-anskaffelser kan være et godt virkemiddel til å
-stimulere til nytenkning.
-For å legge til rette for bedre tjenester og økt
-innovasjon i arbeidet mot utenforskap vil regjeringen:
-– Styrke samarbeid om tjenesteutvikling mellom
-tjenestene og forskningsmiljøer. Det skal bidra
-til mer systematisk kunnskapsinnhenting om
-effekter av tiltak og tjenester.
-– Arbeide videre med systemer og metoder for
-mer løpende resultatinformasjon og læring
-mellom NAV-kontor.
-– Forsterke arbeidet med å utvikle gode regler
-for informasjonsdeling og personvern for å
-kunne utnytte teknologiske muligheter i innovasjon og tjenesteutviklingen på en trygg og
-etisk forsvarlig måte.
-– Vurdere endringer i regelverk og forvaltning
-av tilskuddsordningene til sosialt entreprenørskap og tilskudd til aktivisering og arbeidstrening i regi av frivillige organisasjoner. Målet
-er å bidra til mer nyskapende løsninger og tiltak.
-– Vurdere endringer som bidrar til at samarbeid
-med sosiale entreprenører i større grad inngås
-i utvikling av de sosiale tjenestene.
-– Legge til rette for utprøving av nye løsninger
-som kan forebygge sosiale problemer og inkludere flere i arbeids- og samfunnsliv.
-– Vurdere å øke andelen ledige, sykemeldte og
-personer med nedsatt arbeidsevne som får oppfølging og arbeidsmarkedstiltak fra Arbeids- og
-velferdsetaten, i tråd med Sysselsettingsutvalgets anbefalinger.
-– Innhente mer kunnskap om effekter av ulike
-typer arbeidsmarkedstiltak for arbeidssøkere i
-ulike situasjoner, jf. forslag fra Sysselsettingsutvalget.
-– Legge til rette for samarbeid med flere ulike
-typer leverandører, både kommersielle og ideelle, inkludert sosiale entreprenører, innenfor
-arbeidsmarkedstiltakene.
-– Vurdere andre virkemidler slik som samarbeid
-med sosiale entreprenører overfor personer
-som har stått lenge uten arbeid og som har
-
-[Side 163]
-
-2020–2021
-
-–
-
-–
-
-Meld. St. 32
-Ingen utenfor – En helhetlig politikk for å inkludere flere i arbeids- og samfunnsliv
-
-prøvd flere arbeidsmarkedstiltak uten å
-komme i ordinær jobb.
-Øke bruken av innovative metoder i anskaffelser av arbeidsmarkedstiltak som utviklingskontrakter, rammeavtaler og mindre anbud
-med sikte på større mangfold og bedre tilbud
-til sårbare grupper for å motvirke utenforskap.
-I innovative anskaffelser må kriteriene for
-hvilke grupper de ulike tiltakene skal nå, være
-mer åpne enn i dag.
-I utprøvingen av innovative metoder i anskaffelser av arbeidsmarkedstiltak skal lokale
-
-–
-–
-
-161
-
-behov og prioriteringer for utprøving av nye
-løsninger og tilnærminger vektlegges, slik at
-også lokale NAV-kontor i større grad får finne
-fram til, samarbeide med og følge opp mindre,
-lokale, innovative løsninger.
-Utarbeide en strategi for innovative anskaffelser av arbeidsmarkedstiltak.
-Utvikle en strategi som sikrer utvikling av
-ideell sektors rolle og tilbud på arbeids- og velferdsfeltet, jf. målsetting i Granavolden-plattformen.
-
-[Side 164]
-
-162
-
-Meld. St. 32
-Ingen utenfor – En helhetlig politikk for å inkludere flere i arbeids- og samfunnsliv
-
-2020–2021
-
-9 Økonomiske og administrative konsekvenser
-Regjeringen foreslår i denne meldingen tiltak for
-at flere skal bli inkludert i arbeids- og samfunnsliv.
-Manglende tilknytning til arbeidslivet er en
-viktig forklaring på lavinntekt, både for husholdninger og for enkeltindivider. Å være i inntektsgivende arbeid gir for de fleste en betydelig velferdsgevinst sammenlignet med alternative kilder
-til livsopphold og tidsbruk. Arbeid gir inntekt og
-mulighet til selvforsørgelse. For den enkelte betyr
-det å ha en jobb både personlig utvikling, stabil
-inntekt og deltakelse på en sosial arena. Høy
-sysselsetting ligger til grunn for utformingen av
-den økonomiske politikken, det inntektspolitiske
-samarbeidet, arbeids- og velferdspolitikken og
-innsatsen for et inkluderende arbeidsliv. Høy
-sysselsetting bidrar til å sikre finansieringen av
-velferdsordningene, gir muligheter til å videreutvikle velferdssamfunnet og bidrar til å sikre
-bærekraften i offentlige finanser. Det å stå utenfor
-arbeidslivet er derfor en utfordring ikke bare for
-den enkelte, men for hele samfunnet.
-Regjeringen har ført en aktiv politikk for å
-bekjempe fattigdom og inkludere flere i utdanning
-og arbeid, og det gjøres allerede et stort arbeid
-innenfor mange sektorer for å redusere utenforskap. Det er imidlertid vanskelig å tallfeste effektene av denne innsatsen.
-I et bredt perspektiv vil tiltak som fører til at
-flere voksne deltar i arbeidslivet, føre til reduksjon
-av offentlige utgifter til trygdeutbetalinger og
-helse, og mindre forskjeller i levekår.
-De samfunnsøkonomiske kostnadene ved
-utenforskap og marginalisering blant barn og
-unge er store, spesielt i et livsløpsperspektiv. En
-rapport fra Vista Analyse anslo tilbake i 2010 de
-samfunnsøkonomiske effektene av marginalisering blant unge.1 De fant at om 2 pst./8 pst. av et
-årskull blir marginalisert, så kan det utgjøre en
-(negativ) nåverdi på 5 mrd. kroner/15 mrd. kroner per årskull. Ungdom som faller utenfor i
-Norge har ofte ikke fullført videregående utdanning, noe som medfører lavere sannsynlighet for
-
-arbeidsdeltakelse på sikt. Tiltak som forebygger
-at barn og unge faller utenfor vil også kunne bidra
-til reduserte utgifter til offentlige stønader og økte
-skatteinntekter, gjennom økt arbeidsdeltakelse i
-voksenlivet.
-I kapittel 3 redegjøres det for regjeringens innsatser for å sikre gode oppvekstsvilkår, trygge
-familier, og læring og mestring i skolen. Denne
-innsatsen er viktig grunnlag for senere inkludering i arbeids- og samfunnsliv. Kapitlet omtaler
-også initiativer for bedre samordnede tjenester og
-mer helhetlig innsats for utsatte barn og unge og
-deres familier. For at barn, unge og familier med
-sammensatte utfordringer skal få et koordinert og
-helhetlig tjenestetilbud, vil regjeringen harmonisere og styrke samarbeidsbestemmelser og lovfeste en tydelig plikt for kommunen til å samordne
-tjenestetilbudet. Individuelle planer er en sentral
-del av dette. Regjeringen har i Prop. 100 L (2020–
-2021) Endringer i velferdstjenestelovgivningen
-(samarbeid, samordning og barnekoordinator) bl.a.
-foreslått å harmonisere reglene om individuell
-plan, å innføre en plikt til å medvirke i arbeidet
-med individuell plan, og å innføre en felles forskrift om individuell plan. Det vises til kapittel 10 i
-Prop. 100 L (2020–2021) for omtale av administrative og økonomiske konsekvenser. Regjeringen vil
-også videreføre arbeidet som har vært gjennomført innenfor rammen av 0–24-samarbeidet, for
-bedre samordnede tjenester og mer helhetlig innsats for utsatte barn og unge og deres familier.
-Arbeidet finansieres innenfor eksisterende
-budsjettrammer.
-I kapittel 4 drøftes ulike sider av inntektssikringssordingene og andre tilgrensende virkemidler som kan bidra til å få flere i arbeid. Regjeringen vil jobbe for ordninger og virkemidler som
-bidrar til at flest mulig kommer i jobb, og at unødig langvarige stønadsløp unngås. Samtidig må de
-som trenger det få nødvendig inntektssikring.
-Sysselsettingsutvalgets rapporter2 gir viktige
-bidrag inn i dette arbeidet. Rapportene er sendt på
-
-1
-
-2
-
-Rasmussen, I. m.fl. (2010) Samfunnsøkonomiske effekter av
-marginalisering blant ungdom, Vista Analyse AS, Rapportnummer 2010/07
-
-NOU: 2019: 7 Arbeid og inntektssikring – Tiltak for økt sysselsetting og NOU 2021: 2 Kompetanse, aktivitet og inntektssikring – Tiltak for økt sysselsetting.
+# Økonomiske og administrative konsekvenser
+
+Regjeringen foreslår i denne meldingen tiltak for at flere skal bli inkludert i arbeids- og samfunnsliv.
+
+Manglende tilknytning til arbeidslivet er en viktig forklaring på lavinntekt, både for husholdninger og for enkeltindivider. Å være i inntektsgivende arbeid gir for de fleste en betydelig velferdsgevinst sammenlignet med alternative kilder til livsopphold og tidsbruk. Arbeid gir inntekt og mulighet til selvforsørgelse. For den enkelte betyr det å ha en jobb både personlig utvikling, stabil inntekt og deltakelse på en sosial arena. Høy sysselsetting ligger til grunn for utformingen av den økonomiske politikken, det inntektspolitiske samarbeidet, arbeids- og velferdspolitikken og innsatsen for et inkluderende arbeidsliv. Høy sysselsetting bidrar til å sikre finansieringen av velferdsordningene, gir muligheter til å videreutvikle velferdssamfunnet og bidrar til å sikre bærekraften i offentlige finanser. Det å stå utenfor arbeidslivet er derfor en utfordring ikke bare for den enkelte, men for hele samfunnet.
+
+Regjeringen har ført en aktiv politikk for å bekjempe fattigdom og inkludere flere i utdanning og arbeid, og det gjøres allerede et stort arbeid innenfor mange sektorer for å redusere utenforskap. Det er imidlertid vanskelig å tallfeste effektene av denne innsatsen.
+
+I et bredt perspektiv vil tiltak som fører til at flere voksne deltar i arbeidslivet, føre til reduksjon av offentlige utgifter til trygdeutbetalinger og helse, og mindre forskjeller i levekår.
+
+De samfunnsøkonomiske kostnadene ved utenforskap og marginalisering blant barn og unge er store, spesielt i et livsløpsperspektiv. En rapport fra Vista Analyse anslo tilbake i 2010 de samfunnsøkonomiske effektene av marginalisering blant unge.[^271] De fant at om 2 pst./8 pst. av et årskull blir marginalisert, så kan det utgjøre en (negativ) nåverdi på 5 mrd. kroner/15 mrd. kroner per årskull. Ungdom som faller utenfor i Norge har ofte ikke fullført videregående utdanning, noe som medfører lavere sannsynlighet for arbeidsdeltakelse på sikt. Tiltak som forebygger at barn og unge faller utenfor vil også kunne bidra til reduserte utgifter til offentlige stønader og økte skatteinntekter, gjennom økt arbeidsdeltakelse i voksenlivet.
+
+I kapittel 3 redegjøres det for regjeringens innsatser for å sikre gode oppvekstsvilkår, trygge familier, og læring og mestring i skolen. Denne innsatsen er viktig grunnlag for senere inkludering i arbeids- og samfunnsliv. Kapitlet omtaler også initiativer for bedre samordnede tjenester og mer helhetlig innsats for utsatte barn og unge og deres familier. For at barn, unge og familier med sammensatte utfordringer skal få et koordinert og helhetlig tjenestetilbud, vil regjeringen harmonisere og styrke samarbeidsbestemmelser og lovfeste en tydelig plikt for kommunen til å samordne tjenestetilbudet. Individuelle planer er en sentral del av dette. Regjeringen har i Prop. 100 L (2020–2021) *Endringer i velferdstjenestelovgivningen (samarbeid, samordning og barnekoordinator)* bl.a. foreslått å harmonisere reglene om individuell plan, å innføre en plikt til å medvirke i arbeidet med individuell plan, og å innføre en felles forskrift om individuell plan. Det vises til kapittel 10 i Prop. 100 L (2020–2021) for omtale av administrative og økonomiske konsekvenser. Regjeringen vil også videreføre arbeidet som har vært gjennomført innenfor rammen av 0–24-samarbeidet, for bedre samordnede tjenester og mer helhetlig innsats for utsatte barn og unge og deres familier. Arbeidet finansieres innenfor eksisterende budsjettrammer.
+
+I kapittel 4 drøftes ulike sider av inntektssikringssordingene og andre tilgrensende virkemidler som kan bidra til å få flere i arbeid. Regjeringen vil jobbe for ordninger og virkemidler som bidrar til at flest mulig kommer i jobb, og at unødig langvarige stønadsløp unngås. Samtidig må de som trenger det få nødvendig inntektssikring. Sysselsettingsutvalgets rapporter[^272] gir viktige bidrag inn i dette arbeidet. Rapportene er sendt på offentlig høring med høringsfrist i juni, og regjeringen vil vurdere forslagene i etterkant av høringen. Regjeringen vil starte et forberedende arbeid på enkelte områder av Sysselsettingsutvalgets forslag, slik som arbeidsorientert uføretrygd og sykelønnsforslaget, herunder igangsette nødvendig utredningsarbeid av enkelte forhold ved forslagene. Økonomiske og administrative konsekvenser av aktuelle forslag vil bli kartlagt som en del av den videre oppfølgingen. Tiltak regjeringen ønsker å gjennomføre, må vurderes i den ordinære budsjettprosessen.
+
+I kapittel 5 drøftes virkemidler som kan legge til rette for at flere med sammensatte og komplekse utfordringer kan komme i arbeid. Regjeringen foreslår en rekke tiltak for å bedre samhandlingen mellom utdanning, arbeid og helse. Tiltakene vil i all hovedsak kunne finansieres innenfor eksisterende budsjettrammer. Enkelte tiltak vil kunne ha administrative eller budsjettmessige konsekvenser, og må vurderes på vanlig måte i den ordinære budsjettprosessen.
+
+I kapittel 6 presenteres tiltak for å styrke og videreutvikle forebyggende sosialt arbeid, sosiale tjenester og tiltak for sosial inkludering. Tiltakene vil i all hovedsak kunne finansieres innenfor eksisterende budsjettrammer. En økning i antall VTA-plasser vil ha merkostnader, og dette tiltaket må vurderes i den ordinære budsjettprosessen.
+
+I kapittel 7 foreslås tiltak for å styrke arbeids- og velferdsforvaltningens evne og mulighet til å gi helhetlig og tilpasset bistand til brukere med behov for oppfølging. Tiltakene vil i all hovedsak kunne finansieres innenfor eksisterende budsjettrammer.
+
+Kapittel 8 tar for seg tjenesteutvikling i arbeids- og velferdsforvaltningen, innovasjon i arbeidsmarkedstiltakene, effektkontrakter som virkemiddel for å prøve ut nye løsninger og økt samarbeid med sosiale entreprenører. Regjeringen foreslår flere tiltak for å legge til rette for bedre tjenester og økt innovasjon i arbeidet mot utenforskap. Regjeringens målsetting om å øke andelen ledige, sykmeldte og personer med nedsatt arbeidsevne som får oppfølging og arbeidsmarkedstiltak fra Arbeids- og velferdsetaten, i tråd med Sysselsettingsutvalgets anbefalinger, må vurderes som ledd i de ordinære budsjettprosessene. Øvrige tiltak i kapittel 8 må vurderes på vanlig måte innenfor de budsjettrammer som til enhver tid gjelder.
+
+Det er vanskelig å anslå de samlede virkningene av de strategiene og forslagene som er omtalt i meldingen. Strategiene og forslagene i meldingen må konkretiseres ytterligere før det kan anslås konkrete budsjettmessige konsekvenser og gevinster. For endringer som ønskes gjennomført på lengre sikt og som har bevilgningsmessige konsekvenser, tas det forbehold om at gjennomføring er betinget av det økonomiske handlingsrommet. Regjeringen vil derfor komme tilbake til konkretiseringen av økonomiske og administrative konsekvenser av eventuelle forslag som krever bevilgningsendringer i de årlige budsjettframleggene for Stortinget.
+
+Arbeids- og sosialdepartementet
+
+tilrår:
+
+Tilråding fra Arbeids- og sosialdepartementet 4. juni 2021 om Ingen utenfor – En helhetlig politikk for å inkludere flere i arbeids- og samfunnsliv blir sendt Stortinget.
+
+[^1]: Offentlig utvalg ledet av Steinar Holden som har levert NOU 2019: 7 *Arbeid og inntektssikring. Tiltak for økt sysselsetting* og NOU 2021: 2 *Kompetanse, aktivitet og inntektssikring – tiltak for økt sysselsetting*.
+
+[^2]: NOU 2019: 7 *Arbeid og inntektssikring – Tiltak for økt sysselsetting* og NOU 2021: 2 *Kompetanse, aktivitet og inntektssikring – Tiltak for økt sysselsetting*
+
+[^3]: Arbeids- og velferdsdirektoratet (2021) *NAVs omverdensanalyse 2021 – Utvikling, trender og konsekvenser fram mot 2035* (NAV-rapport 1).
+
+[^4]: Nedelkoska, L. & Quintini, G. (2018). Automation, skills use and training. *Social, Employment and Migration Working Papers 202.* Paris: OECD.
+
+[^5]: Bratsberg, B., Raaum, O., Røed, M. og Schøne, P. (2014). Immigration Wage Impacts by Origin. *Scandinavian Journal of Economics, 116(2)*, 356–393.
+
+[^6]: Hoen, M. F. (2020). Immigration and the tower of Babel: Using language barriers to identify individual labor market effects of immigration. *Labour Economics, 65.*
+
+[^7]: Se for eksempel NOU 2013: 13 *Lønnsdannelsen og utfordringer for norsk økonomi*
+
+[^8]: Bratsberg, B., Markussen, S., Røed, K., Raaum, O., Eielsen, G. og Alstadsæter, A. (2020) *Koronakrisen etter 22 uker – hvem er (ikke) tilbake i jobb?* Oslo: Frischsenteret.
+
+[^9]: Fevang, E., Markussen, S. & Røed, K. (2020). *Gråsoner i arbeidsmarkedet og størrelsen på arbeidskraftreserven*. Frisch-rapport 2020:1.
+
+[^10]: Fedoryshyn, N. (2021). *En av ti blir sysselsatt etter to år utenfor arbeid og utdanning*. Statistisk sentralbyrå, Oslo, Analyse 2021:3.
+
+[^11]: Det har vært flere større omlegginger i AKU over en så lang periode, som gir brudd i statistikken, som det ikke er justert for her. Merk også at AKU-tallene avviker fra registertallene, både fordi det benyttes ulike definisjoner i de to statistikkene og fordi man ser på ulike aldersgrupper.
+
+[^12]: Horgen, E. H. (2014). *Innvandrere med svak tilknytning til arbeidsmarkedet. Hva vet vi om innvandrere som verken jobber, studerer eller mottar ytelser?* Samfunnsspeilet 2014:3.
+
+[^13]: Umblijs, J. (2020). *Kunnskapsoppsummering om deltakelse i arbeidslivet for kvinner med innvandrerbakgrunn.* Rapport 2020:2 – Institutt for samfunnsforskning.
+
+[^14]: Bratsberg, B., Raaum, O. & Røed, K. (2017). *Immigrant Labor Market Integration Across Admission Classes.* IZA Discussion Paper 10513.
+
+[^15]: Tønnessen, M. & Syse, A. (2021). Flere eldre innvandrere i framtidens arbeidsstyrke. *Søkelys på arbeidslivet, 38(01), 4-22*.
+
+[^16]: Reisel, L., Hermansen, A. S. & Kindt M. T. (2019) Norway: Ethnic (In)equality in a Social-Democratic Welfare State. *In The Palgrave Handbook of Race and Ethnic Inequalities in Education*, 843–884. Palgrave Macmillan, Cham. https://doi.org/10.1007/978-3-319-94724-2_20
+
+[^17]: Personer som oppgir i AKU at de har en nedsatt funksjonsevne overlapper i noen grad med gruppen av personer som er registrert med nedsatt arbeidsevne hos Arbeids- og velferdsetaten. Nedsatt arbeidsevne er en betegnelse som benyttes for personer som pga. sykdom, skade eller andre hindringer har behov for ekstra oppfølging fra NAV-kontoret for å få eller beholde arbeid. Denne gruppen omfatter personer som har gjennomført en arbeidsevnevurdering i arbeids- og velferdsforvaltningen som konkluderer med et betydelig behov for innsats for at personen skal komme i jobb.
+
+[^18]: Grue, L. P. & Finnvold, J. E. (2014). *Hjelp eller barrierer? En undersøkelse av betingelser for høyere utdanning for ungdom med nedsatt funksjonsevne,* NOVA-rapport 8/14.
+
+[^19]: Fedoryshyn, N. (2018). *Tyngre vei inn i arbeidsmarkedet for unge med lav utdanning.* Statistisk sentralbyrå, Oslo, Analyse 2018:19.
+
+[^20]: NEET: Not in Employment, Education og Training
+
+[^21]: OECD (2018). *Investing in Youth: Norway.* Paris: OECD Publishing
+
+[^22]: Bell, D. & Blanchflower, D. (2011). Young people and the Great Recession. *Oxford Review of Economic Policy*, *27(2*), 241–267. Schmillen, A. & Umkehrer, M. (2017). The scars of youth: Effects of early-career unemployment on future unemployment experience. *International Labour Review*, *156(3-4)*, 465–494 Nilsen, Ø. A. & Reiso, K. H. (2011). Scarring effects of unemployment. *CESifo* *Working Paper No. 3675*. Munich, Center for Economic Studies.
+
+[^23]: En ny rapport fra Kann og Grønlien (2021) peker på at andelen unge under 30 år som mottar sykepenger derimot har falt i samme periode, jf. Kann, I. C. og Grønlien, E. (2021). *Midlertidige helserelaterte ytelser til unge – har vi misforstått utviklingen?* Arbeid og velferd, 1/2021. Arbeids- og velferdsdirektoratet.
+
+[^24]: OECD (2020). *Identifying and addressing employment barriers in Belgium and Norway*. Implementing the OECD jobs strategy. Paris.
+
+[^25]: Bufdir (2018), *Levekårsstatus for personer med nedsatt funksjonsevne: Trygghet og rettssikkerhet*, hentet fra: https://www.bufdir.no/Statistikk_og_analyse/Nedsatt_funksjonsevne/Rettssikkerhet/
+
+[^26]: Bufdir (2020). *Diskriminering i arbeidslivet*. Hentet fra https://bufdir.no/Statistikk_og_analyse/Etnisitet/arbeidsliv/diskriminering_i_arbeidslivet
+
+[^27]: Bufdir (2020). *Diskriminering i arbeidslivet*. Hentet fra https://bufdir.no/Statistikk_og_analyse/Etnisitet/arbeidsliv/diskriminering_i_arbeidslivet/#heading80792
+
+[^28]: Fevang, E., Markussen, S. & Røed, K. (2020). *Gråsoner i arbeidsmarkedet og størrelsen på arbeidskraftreserven*. Frisch-rapport 2020:1.
+
+[^29]: NOU 2012: 15 *Politikk for likestilling*
+
+[^30]: NOU 2018: 13 *Voksne i grunnskole- og videregående opplæring – Finansiering av livsopphold*
+
+[^31]: Falch. T. & Nyhus, O.H. (2011). Betydningen av fullført videregående opplæring for sysselsetting og inaktivitet blant unge voksne. *Søkelys på arbeidslivet. 28(4),* 285–301. Barth, E. & von Simson, K. (2013). Ulike veier gjennom videregående: Hva skjer de neste ti årene? *Søkelys på arbeidslivet*. *30*(4), 313–333. doi: 10.18261/issn.1504-7989-2020-01-02-08 Albæk, K., Asplund, R., Barth, E., Lindahl, L., Strøm, M. & Vanhala, P. (2020). Bedre sent enn aldri? Hvordan sen fullføring av videregående skole påvirker tidlig karriere. *Søkelys på arbeidslivet*. *37*(01-02), 124–141. doi: 10.18261/issn.1504-7989-2020-01-02-08
+
+[^32]: Albæk, K., Asplund, R., Barth, E., Lindahl, L., Strøm, M. & Vanhala, P. (2020). Bedre sent enn aldri? Hvordan sen fullføring av videregående skole påvirker tidlig karriere. *Søkelys på arbeidslivet*. *37*(01-02), 124–141. doi: 10.18261/issn.1504-7989-2020-01-02-08
+
+[^33]: Næsheim, H. N. (2018). *Endringer i yrkesstrukturen 2000–2017*. Rapport 2018/39 Statistisk sentralbyrå
+
+[^34]: Barth, E. & Østbakken, K. M. (2021). Fortsatt polarisering i det norske arbeidsmarkedet? *Søkelys på arbeidslivet, 38(01),* 23–40.
+
+[^35]: NOU 2020: 2 *Fremtidige kompetansebehov III – Læring og kompetanse i alle ledd*
+
+[^36]: NOU 2019: 25 *Med rett til å mestre – Struktur og innhold i videregående opplæring*; NOU 2020: 2 *Fremtidige kompetansebehov III – Læring og kompetanse i alle ledd*
+
+[^37]: OECD (2013). *Skills Outlook 2013: First results from the Survey of Adult Skills* og NOU 2018: 2 *Fremtidige kompetansebehov I – Kunnskapsgrunnlaget*.
+
+[^38]: Bjørkeng, B. & Lagerstrøm, B. O. (2014). *Voksnes basisferdigheter – resultater fra PIAAC*. SSB-rapporter 2014/29.
+
+[^39]: Bjørkeng, B. (2013). *Ferdigheter i voksenbefolkningen*. SSB-rapporter 2013/42.
+
+[^40]: OECD gjennomførte den første ferdighetsundersøkelsen for voksne i 1998 (IALS) og den neste i 2003 (ALL). Disse undersøkelsene er ikke direkte sammenlignbare med PIAAC-undersøkelsen fra 2012, men SSB som har gjennomført alle undersøkelsene i Norge kan i stor grad korrigere for ulikheter i skalaer og vekting. Det skal gjennomføres en ny PIAAC-undersøkelse i 2023/24 som i hovedsak er direkte sammenlignbar med undersøkelsen fra 2012.
+
+[^41]: NOU 2018: 13 *Voksne i grunnskole- og videregående opplæring – Finansiering av livsopphold*
+
+[^42]: Dahle, M., Lerfaldet, H., Monsen, M., Ervik, A. O. & Ryssevik, J. (2018). *Forberedende voksenopplæring. Evaluering av første forsøksår.* Ideas2evidence rapport 6/2018.
+
+[^43]: OECD (2020). *Education at a Glance 2020: OECD Indicators*.
+
+[^44]: Perlic B., Foss, E. S. & Moaf, H. (2020). *Grunnskoleresultaters betydning for gjennomføring av videregående opplæring*. SSB-rapporter 2020/33
+
+[^45]: Definert som under nivå 2 på nasjonale prøver, eller at de ble fritatt for testing eller av andre årsaker ikke er testet (herunder de som ikke har grunnskole fra Norge).
+
+[^46]: Kilde: PISA-undersøkelsen
+
+[^47]: Finnvold, J. E. & Grue, L. (2014). *Hjelp eller barrierer? En undersøkelse av betingelser for høyere utdanning for ungdom med nedsatt funksjonsevne.* NOVA-rapport 8/2014. Oslo. Norsk institutt for forskning om oppvekst, velferd og aldring
+
+[^48]: Nes, R. B., Nilsen, T. S., Hauge, L. J., Eilertsen, M., Gustavson, K., & Aarø, L. E. (2020). *Livskvalitet i Norge 2019. Fra nord til sør*. Oslo: Folkehelseinstituttet
+
+[^49]: Oslo Economics (2019). *Årsaker til økt tilstrømming til uføretrygd blant unge. Delrapport: Psykiske helseproblemer blant unge – En litteraturgjennomgang.* Oslo
+
+[^50]: Waddell, G. & Burton, A. K. (2006). *Is work good for your health and well-being?* London: TSO
+
+[^51]: Van der Noordt, M., Ijzelenberg, H., Droomers, M. & Proper, K. I. (2014). Health effects of employment: a systematic review of prospective studies. *Occupational and Environmental Medicine*, *71,* 730–736.
+
+[^52]: Hauane, M. & Brekke, K. A. (2018). Kan økonomiske bekymringer påvirke kognitiv ytelse? *Samfunnsøkonomen, 132*(1), 36.
+
+[^53]: Folkehelseinstituttet (2018). *Folkehelserapporten – Helsetilstanden i Norge 2018.* Oslo: Folkehelseinstituttet
+
+[^54]: Andelene for arbeidstilknytning for mottakere av arbeidsavklaringspenger og uføretrygd er beregnet ut fra alle som mottok disse ytelsene gjennom hele det aktuelle kalenderåret. Arbeid er definert som at vedkommende er registrert i Aa-registeret og at avtalt arbeidstid er minst fire timer i uken.
+
+[^55]: Arbeids- og velferdsdirektoratet (2020). Statistikknotat. Utviklingen i uførediagnoser per 30. juni 2016
+
+[^56]: Ibid.
+
+[^57]: Oslo Economics (2019). *Årsaker til økt tilstrømming til uføretrygd blant unge. Delrapport: Psykiske helseproblemer blant unge – En litteraturgjennomgang*. Oslo
+
+[^58]: NOU 2021: 2 *Kompetanse, aktivitet og inntektssikring – Tiltak for økt sysselsetting*
+
+[^59]: Kann, I. C. & Grønlien, E. (2021). *Midlertidige helserelaterte ytelser til unge – har vi misforstått utviklingen?* Arbeid og Velferd, 1/2021. Arbeids- og velferdsdirektoratet.
+
+[^60]: Arbeids- og velferdsdirektoratet (2019). *Gjennomgang av sosiale tjenester for langtidsmottakere av økonomisk sosialhjelp*, NAV-notat nr. 1-2019.
+
+[^61]: Løyland, B., Dahl, E., Wahl, A. K.,Lødemel, I., van der Wel, K., Hermansen, Å., Bråthen, M. & Heggebø, K. (2020). *Arbeidsinkludering, utdanning eller velferdsytelser. Hvordan har det gått med personer som var langtidsmottakere av sosialhjelp i 2005?* OsloMet.
+
+[^62]: Dahl, E., van der Wel, K. & Harsløf, I. (2010). *Arbeid, helse og sosial ulikhet.* Oslo: Helsedirektoratet
+
+[^63]: Barstad, A. (2020). *Økonomi, helse og livskvalitet. En analyse av Levekårsundersøkelsen EU-SILC 2017*. (Rapporter 2020/29), Oslo: Statistisk sentralbyrå
+
+[^64]: Folkehelseinstituttet (2018). *Folkehelserapporten – Helsetilstanden i Norge 2018.* Oslo: Folkehelseinstituttet
+
+[^65]: Lunde, E.S., Otnes, B. & Ramm, J. (2017). *Sosial ulikhet i bruk av helsetjenester. En kartlegging* (Rapporter 2017/16). Oslo-Kongsvinger: Statistisk sentralbyrå
+
+[^66]: Bufdir (2019), *Levekårsstatus for personer med nedsatt funksjonsevne: Helsetjenester,* hentet fra: https://www.bufdir.no/Statistikk_og_analyse/Nedsatt_funksjonsevne/Helse/Helsetjenester/
+
+[^67]: Bufdir (2020). *Møte med offentlige tjenester blant samer, nasjonale minoriteter og personer med innvandrerbakgrunn*. Hentet fra https://bufdir.no/Statistikk_og_analyse/Etnisitet/mote_med_offentlige_tjenester/
+
+[^68]: Hamre, K. (2017). «Diskriminering», i Vrålstad og Wiggen (red.). *Levekår blant innvandrere i Norge 2016*. Oslo-Kongsvinger: Statistisk sentralbyrå. Egge-Hoveid, K. (2018). «Diskriminering», i Dalgard (red.). *Levekår blant norskfødte med innvandrerforeldre i Norge 2016.* Oslo-Kongsvinger: Statistisk sentralbyrå.
+
+[^69]: Barstad, A. (2016). *Opphopning av dårlige levekår: En analyse av Levekårsundersøkelsen EU-SILC 2013.* SSB-rapporter 2016/32.
+
+[^70]: Revold, M. K. (2015). *Innsattes levekår 2014. Før, under og etter soning*. SSB-rapporter 2015/47.
+
+[^71]: Vedvarende lavinntekt måles her som at gjennomsnittsinntekten i en treårsperiode ligger under en lavinntektsgrense satt ved 60 pst. av medianinntekten med bruk av EUs ekvivalensskala for omregning av stordriftsfordeler.
+
+[^72]: Bratsberg, B., Markussen, S., Røed, K., Raaum, O., Vigtel, T. & Eielsen, G. (2020). *Hvem tar støyten? Arbeidsmarkedet under Korona-krisen.* Oslo: Frischsenteret
+
+[^73]: Poppe, C. & Kempson, E. (2020). *Hvordan går det med folks økonomi i koronatider?* SIFO-rapport 12/2020. Oslo: Forbruksforskningsinstituttet SIFO.
+
+[^74]: Norges Bank, Finansiell stabilitet 2020
+
+[^75]: Lima, I., Dahl, E. S., Furuberg, J. & Munch-Ellingsen, E. (2020). *Lavinntekt og levekår i Norge Tilstand og utviklingstrekk – 2020.* NAV- rapport 2020: 4
+
+[^76]: Ibid.
+
+[^77]: Finanstilsynet, Utviklingen i forbruksgjeld 2020
+
+[^78]: Poppe, C. & Bøyum, L. S. (2018). *Gjeldsordninger under press – Endringssaker ved Oslo namsfogdembete og byfogdembete i 2017.* SIFO-rapport 17/2018.
+
+[^79]: Astrup, K. C. & Medby, P. (2013). *Samfunnsøkonomisk lønnsomhetsanalyse av gjeldsrådgivning i norske kommuner.* NIBR-rapport 2013:16.
+
+[^80]: Poppe, C. (2019). *Inngåtte gjeldsordninger ved tre namsfogdembeter i 2017.* SIFO-rapport 2/2019. Oslo: Forbruksforskningsinstituttet SIFO.
+
+[^81]: Levekårsundersøkelsen EU-SILC, Statistisk sentralbyrå.
+
+[^82]: Hyggen, C., Brattbakk, I. & Borgeraas, E. M. (2018). *Muligheter og hindringer for barn i lavinntektsfamilier. En kunnskapsoppsummering*, NOVA-rapport 11/2018
+
+[^83]: With, M. L. & Thorsen, L. R. (2018). *Materielle og sosiale mangler i den norske befolkningen. Resultater fra Levekårsundersøkelsen EU-SILC*, SSB-rapporter 2018/07
+
+[^84]: Ibid.
+
+[^85]: Aaberge, R. & Langørgen, A. (2003). Fiscal and spending behaviour of local governments: Identification of price effects when prices are not observed. *Public choice, 117(1–2),* 125–161. Aaberge, R. & Langørgen, A. (2006). Measuring the benefits from public services: the effects of local government spending on the distribution of income in Norway. *Review of Income and Wealth, 52(1),* 61–83. Bhuller, M. & Aaberge, R (2010.) *Vedvarende økonomisk fattigdom blant innvandrere. En empirisk analyse for perioden 1993–2007*, SSB-rapporter 2010/32. Oslo: Statistisk sentralbyrå.
+
+[^86]: Nørgaard 2001, Aaberge et al. 2010 og OECD 2011, gjengitt i Omholt 2016.
+
+[^87]: Felitti, V. J., Anda, R. F., Nordenberg, D., Williamson, D. F., Spitz, A. M., Edwards, V. & Marks, J. S. (1998). Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults: The Adverse Childhood Experiences (ACE) Study. *American journal of preventive medicine, 14(4),* 245–258.
+
+[^88]: Rasmussen, I. & Vennemo, H. (2017). *Samfunnsøkonomiske konsekvenser av omsorgssvikt og vold mot barn*. Oslo: Vista analyse 2017/12.
+
+[^89]: Paulsen, V., Wendelborg, C., Riise, A., Berg, B., Tøssebro, J. & Caspersen, J. (2020). *Ettervern – en god overgang til voksenlivet?: Helhetlig oppfølging av ungdom med barnevernerfaring*. Trondheim: NTNU Samfunnsforskning.
+
+[^90]: Folkehelseinstituttet (2021). *Barn og unges helse: oppvekst og levekår. I: Folkehelserapporten – Helsetilstanden i Norge.* Hentet fra: https://www.fhi.no/nettpub/hin/grupper/barn-oppvekst/
+
+[^91]: Hafstad, G. S. & Augusti, E. M. (Red.) (2019). *Ungdoms erfaringer med vold og overgrep i oppveksten: En nasjonal undersøkelse av ungdom i alderen 12 til 16 år.* Oslo: Nasjonalt kunnskapssenter om vold og traumatisk stress. (Rapport 4/2019)
+
+[^92]: Torvik, F. A. & Rognmo, K. (2011). *Barn av foreldre med psykiske lidelser eller alkoholmisbruk: omfang og konsekvenser* (2011:4). Oslo: Folkehelseinstituttet.
+
+[^93]: Grønningsæter, A. B. & Nielsen, R. A. (2011). *Bolig, helse og sosial ulikhet.* Oslo: Helsedirektoratet.
+
+[^94]: Revold, M. K., Sandvik, L. & With, M. L. (2018). *Bolig og boforhold – for befolkningen og utsatte grupper.* SSB-rapport 2018/13.
+
+[^95]: von Simson, K. & Umblijs, J. (2019). *Boforhold og velferd.* ISF-rapport 2019:2.
+
+[^96]: Hyggen, C., Brattbakk I. & Borgeraas, E. M. (2018). *Muligheter og hindringer for barn i lavinntektsfamilier. En kunnskapsoppsummering*, NOVA-rapport 11/2018.
+
+[^97]: Helgesen, M. K., Holm, A., Monkerud, L. & Schmidt, L. (2014). *Bolig og folkehelse – hva er sammenhengen? En litteraturhistorie,* NIBR-rapport 2014:16.
+
+[^98]: NOU 2020: 16 *Levekår i byer – gode lokalsamfunn for alle*
+
+[^99]: Brattbakk, I. & Wessel, T. (2017). *Nabolagets effekt; Hva er problematisk med geografisk ulikhet?* I: Ljunggren J. (red.). Oslo. Ulikhetenes by. Cappelen Damm Akademisk.
+
+[^100]: Umblijs, J., von Simson, K. & Mohn, F. (2019). *Boligens betydning for annen velferd – en gjennomgang av nasjonal og internasjonal forskning*. ISF-rapport 2019:1.
+
+[^101]: Brattbakk, I. & Wessel, T. (2017). *Nabolagets effekt; Hva er problematisk med geografisk ulikhet?* I: Ljunggren J. (red.). Oslo. Ulikhetenes by. Cappelen Damm Akademisk. Brattbakk, I. & Wessel, T. (2013). Long-term Neighbourhood Effects on Education, Income and Employment among Adolescents in Oslo. *Urban Studies. 50(2),* 391–406. Chetty, R., Hendren, N. & Katz, L. F. (2016). The Effects on Exposure to Better Neighborhoods on Children: New Evidence from the Moving to Opportunity Experiment. *American Economic Review. 106(4),* 855–902
+
+[^102]: Hyggen, C., Brattbakk I. & Borgeraas, E. M. (2018). *Muligheter og hindringer for barn i lavinntektsfamilier. En kunnskapsoppsummering,* NOVA-rapport 11/2018.
+
+[^103]: Brattbakk, I. & Andersen, B. (2017). *Oppvekststedets betydning for barn og unge. Nabolaget som ressurs og utfordring,* AFI-rapport 2:2017.
+
+[^104]: Hyggen, C., Brattbakk, I. & Borgeraas, E. M. (2018). *Muligheter og hindringer for barn i lavinntektsfamilier. En kunnskapsoppsummering,* NOVA-rapport 11/2018.
+
+[^105]: Markussen, S. & Røed, K. (2018). *The Golden Middle Class Neighborhood: Trends in Residential Segregation and Consequences for Offspring Outcomes*. IZA discussion paper 11684.
+
+[^106]: Hermansen, A. S., Borgen, N. T. & Mastekaasa, A. (2020). Long-Term Trends in Adult Socio-Economic Resemblance between Former Schoolmates and Neighbouring Children. *European Sociological Review. 36(3),* 366–380.
+
+[^107]: Barne- ungdoms- og familiedirektoratet (Bufdir) (2020). *Barn i lavinntektsfamilier*. Tilgjengelig fra https://bufdir.no/Familie/Fattigdom/Ny_Barnefattigdom_i_Norge/ (hentet 11. januar 2021)
+
+[^108]: Grødem, A. S. (2011). *Innvandrerbarn og bolig – Hva betyr boligen og bomiljøet for inkludering?* Fafo-rapport 2011:32
+
+[^109]: Billings, S. B., Deming, D. J. & Ross, S. L. (2019). Partners in Crime. *American Economic Journal: Applied Economics, 11(1),* 126–50. Damm, A. P. & Dustmann, C. (2014). Does Growing Up in a High Crime Neighborhood Affect Youth Criminal Behavior? *American Economic Review. 104(6),* 1806–1832.
+
+[^110]: Ibid.
+
+[^111]: Sampson, R. J. (2012). *Great American City: Chicago and the Enduring Neighborhood Effect*. University of Chicago Press.
+
+[^112]: Aarland, K. & Brattbakk, I. (2020). *Analyser av levekår og demografi for levekårsutsatte byområder. Fase 2 av oppdrag for By- og levekårsutvalget.* NOU 2020: 16 *Levekår i byer – gode lokalsamfunn for alle.*
+
+[^113]: Ibid
+
+[^114]: Turner, L. M. & Sandlie, H. C. (2016). *Storby – stabilitet og endring i botetthet og flytting*. NOVA-notat 2/16.
+
+[^115]: Andersen, H. S. (2017). Selective moving behaviour in ethnic neighbourhoods: white flight, white avoidance, ethnic attraction or ethnic retention? *Housing Studies, 32(3),* 296–318. Andersson, R. (2013). Reproducing and reshaping ethnic residential segregation in Stockholm: The role of selective migration moves. *Geografiska Annaler: Series B, Human Geography. 95(2),* 163–187. Bråmå, Å. (2006). ‘White Flight’? The Production and Reproduction of Immigrant Concentration Areas in Swedish Cities, 1990–2000. *Urban Studies. 43(7),* 1127–1146.
+
+[^116]: Strand, A. H. & Kindt, M. K. (2019). *Unge i utsatte områder – en kunnskapsoversikt.* Delrapport. Fafo-notat 2019:24.
+
+[^117]: Aarland, K. & Brattbakk, I. (2020). *Analyser av levekår og demografi for levekårsutsatte byområder. Fase 2 av oppdrag for By- og levekårsutvalget*. NOU 2020: 16 *Levekår i byer – gode lokalsamfunn for alle*.
+
+[^118]: C. Hyggen, I. Brattbakk & E. M. Borgeraas (2019). *Muligheter og hindringer for barn i lavinntektsfamilier. En kunnskapsoppsummering,* NOVA-rapport 11/2018
+
+[^119]: Fløtten, T. & Nielsen, R. A. (2020). *Barnefattigdom – en kunnskapsoppsummering*. Vedlegg til Like muligheter i oppveksten. Regjeringens samarbeidsstrategi for barn og ungdom i lavinntektsfamilier (2020–2023). Oslo: Barne- og familiedepartementet.
+
+[^120]: Norberg-Schulz, M. & Østhus, S. (2018). *Geografiske forskjeller i inntektsmobilitet i Norge.* Rapport 31/2018. Oslo: Samfunnsøkonomisk analyse AS.
+
+[^121]: Bakken, A. (2019). *Ungdata 2019. Nasjonale resultater.* NOVA-rapport 9/2019.
+
+[^122]: Hyggen, C., Brattbakk, I. & Borgeraas, E. M. (2018). *Muligheter og hindringer for barn i lavinntektsfamilier. En kunnskapsoppsummering,* NOVA-rapport 11/2018
+
+[^123]: Folkestad, B., Fladmoe, A., Sivesind, K. H. & Eimhjellen, I. (2017). *Endringer i frivillig innsats: Norge i et skandinavisk perspektiv (2017:10)*. Bergen/Oslo: Senter for forskning på sivilsamfunn og frivillig sektor.
+
+[^124]: Bakken, A. (2019). *Idrettens posisjon i ungdomstida: Hvem deltar og hvem slutter i ungdomsidretten?* NOVA-rapport 2/2019
+
+[^125]: Standbu, Å., Gulløy, E., Andersen, P. L., Seippel, Ø. & Dalen, H. B. (2017). Ungdom, idrett og klasse: Fortid, samtid og framtid. *Norsk sosiologisk tidsskrift, 1(02),* 132–151. Jacobsen, S., Andersen, P. L., Nordø, Å. D., Sletten, M. A. & Arnesen, D. (2021). *Sosial ulikhet i barn og unges deltakelse i organiserte fritidsaktiviteter.* Rapport 2021: 01 Senter for forskning på sivilsamfunn og frivillig sektor
+
+[^126]: Oslo Economics (2020). *Økonomi som barriere for idrettsdeltakelse – kostnader og kostnadsdrivere i barne- og ungdomsidretten,* Rapport 2020/12. Oslo: Oslo Economics.
+
+[^127]: Bakken, A. (2019). *Ungdata 2019. Nasjonale resultater*. NOVA-rapport 9/2019.
+
+[^128]: Seland, I. & Andersen, P. L. (2020). Hva kjennetegner ungdom som går på norske fritidsklubber og ungdomshus? *Nordisk tidsskrift for ungdomsforskning, 1(01)*, 6-26.
+
+[^129]: OECD (2017). *Bridging the gap. Inclusive growth 2017 update report*. Paris: OECD Publishing
+
+[^130]: NOU 2021: 2 *Kompetanse, aktivitet og inntektssikring – Tiltak for økt sysselsetting*
+
+[^131]: Modalsli, J. H. (2017). *Stor økning i yrkesmobiliteten fra 1800-tallet til i dag*. Samfunnsspeilet 2019:1. Statistisk sentralbyrå.
+
+[^132]: Salvanes, K. G., Sarvimaki, M., & Pekkarinen, T. (2016). The evolution of social mobility: Norway over the twentieth century. *The Scandinavian Journal of Economics 119(1)*, 5-33.
+
+[^133]: Markussen, S. & Røed, K. (2020) Economic mobility under pressure. *Journal of the European Economic Association, 18(4)*, 1844–1885.
+
+[^134]: Markussen, S. & Røed, K. (2017). *Egalitarianism under Pressure: Toward Lower Economic Mobility in the Knowledge Economy?* IZA Discussion Papers 10664, Institute of Labor Economics.
+
+[^135]: OECD (2017). *Education at a Glance 2017: OECD Indicators*, OECD Publishing, Paris, https://doi.org/10.1787/eag-2017-en.
+
+[^136]: OECD (2017). *Educational Opportunity for All: Overcoming Inequality throughout the Life Course*, Educational Research and Innovation, OECD Publishing, Paris, https://doi.org/10.1787/9789264287457-en.
+
+[^137]: Meld. St. 13 (2019–2019): *Muligheteter for alle – Fordeling og sosial bærekraft*
+
+[^138]: Mogstad, M. & Rege, M. (2009). Tidlig læring og sosial mobilitet: Norske barns muligheter til å lykkes i utdanningsløpet og arbeidslivet. *Samfunnsøkonomen, 63(5)*, 4–22. Havnes, T. & Mogstad, M (2011). No child left behind: Subsidized child care and childrens long-run outcomes. *American Economic Journal: Economic Policy, 3(2),* 97–129. Sandvik, M., Garmann, N. G. & Tkachenko, E. (2014). *Synteserapport om skandinavisk forskning på barns språk og språkmiljø i barnehagen i tidsrommet 2006–2014*. Høgskolen i Oslo og Akershus.
+
+[^139]: OECD (2018). In which countries and schools do disadvantaged students succeed? *PISA in Focus 80*.
+
+[^140]: Ekren, R. (2014). *Sosial reproduksjon av utdanning?* Samfunnspeilet 5/2014. Statistisk sentralbyrå.
+
+[^141]: Askvik, T. (2015). Hva velger de som bryter mønsteret? *Tidsskrift for samfunnsforskning, 56*(4), 449–482. NOU 2019: 19 *Jenterom, gutterom og mulighetsrom – Likestillingsutfordringer blant barn og unge*
+
+[^142]: Kirkeberg, M. I. og Epland, J. (2018). *Tjener bedre enn foreldrene.* Analyse 2018:11. Oslo: Statistisk sentralbyrå
+
+[^143]: OECD (2017). *Catching up? Intergenerational mobility and children of immigrants*. Paris: OECD Publishing.
+
+[^144]: Hermansen, A. S. (2016). Moving Up or Falling Behind? Intergenerational Socioeconomic Transmission among Children of Immigrants in Norway. *European Sociological Review, 32(5)*, 675–689.
+
+[^145]: Steinkellner, A. (2017). *Hvordan går det med innvandrere og deres barn i skolen?* Artikkel. Oslo: Statistisk sentralbyrå
+
+[^146]: Hermansen, A. S. (2017). Et egalitært og velferdsstatlig integreringsparadoks? Om sosioøkonomisk integrering blant innvandrere og deres etterkommer i Norge. *Norsk sosiologisk tidsskrift, 1(1)*, 15–34.
+
+[^147]: Markussen, S. og Røed, K. (2017). *Egalitarianism under Pressure: Toward Lower Economic Mobility in the Knowledge Economy?* IZA Discussion Papers 10664, Institute of Labor Economics(IZA). Norberg-Schulz, M. & Østhus, S. (2018). *Geografiske forskjeller i inntektsmobilitet i Norge*, Rapporter nr. 31. Samfunnsøkonomisk analyse AS.
+
+[^148]: Hjetland, H., Brinchmann, E., Scherer, R., & Melby-Lervåg, M. (2017). *Preschool predictors of later reading comprehension ability*. Campbell Collaboration. Lervåg, A. &. (2010). Vocabulary knowledge is a critical determinant of the difference in reading comprehension growth between first and second language learners. *The Journal of Child Psychology and Psychiatry*. Aukrust, V. (2005). *Tidlig språkstimulering og livslang læring – en kunnskapsoversikt*. Oslo: Rapport utarbeidet for Utdannings- og forskningsdepartementet.
+
+[^149]: Dietrichson, J., Bøg, M., Filges, T., & Jørgensen, A. (2017). Academic Interventions for Elementary and Middle School Students With Low Socioeconomic Status - A Systematic Review and Meta-Analysis. Review of. *Review of Educational Research Vol 87, Issue 2, 2017*. Yoshikawa, H., Aber, J., & Beardslee, W. (2012). The Effects of Poverty on the Mental, Emotional, and Behavioral Health of Children and Youth. *American Psychologist*.
+
+[^150]: Melhuish, E., & Ereky-Stevens, K. P. (2015). *A review of research on the effects of early childhood Education*. CARE Project. Drange, N. & Havnes, T. (2015). *Child care before age two and the development of language and numeracy. Evidence from a lottery* (Discussion Paper, no. 808). Oslo: Statistics Norway. Zachrisson, H., & Dearing, E. (2015). Family Income Dynamics, Early Childhood Education and Care, and Early Child Behavior Problems in Norway. *Child Development*. Brandlistuen, R., Helland, S., Evensen, L., Schjølberg, S., Tambs, K., Aase, H., & Wang, M. (2015). *Sårbare barn i barnehagen – betydningen av kvalitet*. Oslo: Nasjonalt folkehelseinstitutt. Schjølberg, S., Lekhal, R., Vartun, M., Helland, S., & Mathiesen, K. (2011). *Barnepass fram til 18 måneder. Sammenhenger mellom barnepass fram til 18 måneder og språklige ferdigheter og psykisk fungering ved 5 år*. Oslo: Nasjonalt folkehelseinstitutt. Dearing, E., Zachrisson, H., Mykletun, A., & Toppelberg, C. (2018). Estimating the Consequences of Norway’s National Scale-Up of Early Childhood Education and Care (Beginning in Infancy) for Early Language Skills. *AERA Open*. Heckman, J., & Karapakula, G. (2018). Intergenerational and Intragenerational Externalities of the Perry Preschool Projec. *NBER Working Paper*.
+
+[^151]: Drange, N. & Havnes, T. (2015). *Child care before age two and the development of language and numeracy. Evidence from a lottery* (Discussion Paper, no. 808). Oslo: Statistics Norway. Drange, N. & Telle, K. (2015). *Promoting intergration of immigrants. Effects of free child care on child enrolment and parental employment* (Discussion Paper no. 177). Oslo: Statistics Norway. Drange, N. (2018). *Gratis kjernetid i barnehage i Oslo, Rapport 2: Oppfølging av barna på femte trinn*. Statistisk sentralbyrå.
+
+[^152]: Drange, N., og Telle, K. (2017). Preschool and School Performance of Children from Immigrant Families. *I: Empirical Economics* 52(2). Drange, N. (2018). *Gratis kjernetid i barnehage i Oslo, Rapport 2: Oppfølging av barna på femte trinn*. Statistisk sentralbyrå. Bråten, B., Drange, N., Haakestad, H. og Telle, K. (2014). *Gratis kjernetid i barnehager. Sluttrapport*. Fafo-rapport 2014:44.
+
+[^153]: Wendelborg, C., Caspersen, J., Mordal. S., Ljusberg, A.L., Valenta, M. og Bunar N. (2018). *Lek, læring og ikke-pedagogikk for alle. Nasjonal evaluering av skolefritidsordningen i Norge*. Rapport. NTNU Samfunnsforskning.
+
+[^154]: Dokument 3:9 (2015–2016) Riksrevisjonens undersøkelse av oppfølging av ungdom utenfor opplæring og arbeid.
+
+[^155]: Federici, R. A., mfl. (2020). *Et lag rundt eleven: Økt helsesykepleierressurs i systemrettet og strukturert samarbeid med skole – en effektevaluering.* NIFU-rapport 2020: 23. Malmberg-Heimonen, I., mfl. (2020). *Et lag rundt eleven. En klynge-randomisert evaluering av LOG-modellen*. AFI-rapport 2020:07.
+
+[^156]: Nordahl, T. (2018). *Inkluderende fellesskap for barn og unge*. Ekspertgruppen for barn og unge med behov for særskilt tilrettelegging. Fagbokforlaget.
+
+[^157]: Bakken, A. (2019). *Ungdata 2019. Nasjonale resultater*. NOVA-rapport 9/19.
+
+[^158]: Andersen, P. L., & Seland, I. (2019). *Fritidsklubber i et folkehelseperspektiv.* Analyser av statlige dokumenter 2007–2017 og Ungdata 2015–2017. NOVA Notat 1/2019.
+
+[^159]: *Trygge foreldre – trygge barn*. Regjeringens strategi for foreldrestøtte (2018–2021).
+
+[^160]: NOU 2019: 20 *En styrket familietjeneste – en gjennomgang av familieverntjenesten.*
+
+[^161]: Hyggen, C., Brattbakk, I., & Borgeraas, E. (2018). *Muligheter og hindringer for barn i lavinntektsfamilier. En kunnskapsoppsummering.* NOVA-rapport 11/2018.
+
+[^162]: I tillegg til uføretrygd menes her sykepenger og arbeidsavklaringspenger.
+
+[^163]: Fernandez, R., Hijzen, A, Pacifico, D & Thewissen, S. (2020). *Identifying and addressing employment barriers in Belgium, Korea and Norway*. *Implementing the OECD jobs strategy*. Paris: OECD
+
+[^164]: NOU 2019: 7 *Arbeid og inntektssikring – Tiltak for økt sysselsetting* og NOU 2021: 2 *Kompetanse, aktivitet og inntektssikring – Tiltak for økt sysselsetting*
+
+[^165]: For sykepenger kompenseres inntektstapet fullt ut (inntil 6 G).
+
+[^166]: Grasdal, A. L. (2016). De helserelaterte trygdeytelsene – Betydningen av økonomiske insentiver og samspill mellom trygdeordninger. *Tidsskrift for velferdsforskning, 19(2)*.
+
+[^167]: Se f.eks. Kann, I. C., Yin, J. & Kristoffersen P. (2016) *Fra arbeidsavklaringspenger til arbeid*, Arbeid og velferd, 2/2016. Arbeids- og velferdsdirektoratet.
+
+[^168]: Grasdal, A. L. (2016). De helserelaterte trygdeytelsene – Betydningen av økonomiske insentiver og samspill mellom trygdeordninger. *Tidsskrift for velferdsforskning, 19(2)*.
+
+[^169]: NOU 2019: 7 *Arbeid og inntektssikring – Tiltak for økt sysselsetting*
+
+[^170]: I Danmark gis førtidspensjon med et fast beløp uavhengig av tidligere inntekt.
+
+[^171]: Grasdal, A. L. (2016). De helserelaterte trygdeytelsene – Betydningen av økonomiske insentiver og samspill mellom trygdeordninger. *Tidsskrift for velferdsforskning, 19(2)*.
+
+[^172]: Meld. St. 14 (2020–2021) *Perspektivmeldingen 2021.*
+
+[^173]: Kann, I.C. & Grønlien, E. (2021). *Midlertidige helserelaterte ytelser til unge – har vi misforstått utviklingen?* Arbeid og Velferd, 1/2021. Arbeids- og velferdsdirektoratet.
+
+[^174]: NOU 2019: 7 *Arbeid og inntektssikring – Tiltak for økt sysselsetting* og NOU 2021: 2 *Kompetanse, aktivitet og inntektssikring – Tiltak for økt sysselsetting*
+
+[^175]: Pleie-, opplærings- og omsorgspenger gir også 100 pst. kompensasjonsgrad opp til 6 G.
+
+[^176]: OECD (2019). OECD *Economic Surveys: Norway 2019*. OECD Publishing. Paris: OECD.
+
+[^177]: Kann, I.C., Thune, O. & Galaasen, A.M. (2013). *Gir lavere sykefravær færre på lagtidsytelser?* Arbeid og Velferd, 3/2013. Arbeid og velferdsdirektoratet.
+
+[^178]: Se bl.a. Markussen, S., Mykletun A., & K. Røed, K. (2012). The case for presenteeism – Evidence from Norway’s sickness insurance program. *Journal of Public. Economics, 96(11–12)*.
+
+[^179]: MacDonald, D., C. Prinz & H. Immervoll (2020). *Can disability benefits promote (re)employment?: Considerations for effective disability benefit design»*, OECD Social, Employment and Migration Working Papers, No. 253, OECD Publishing, Paris.
+
+[^180]: Riksrevisjonen (2017). *Revisjonsrapport for 2017 om uførereformen*. *Dokument 1 (2018–2019)*. Oslo
+
+[^181]: Inntekt etter uførhet +0,4 G
+
+[^182]: Riksrevisjonen (2017). *Revisjonsrapport for 2017 om uførereformen*. *Dokument 1 (2018–2019)*. Oslo
+
+[^183]: Alne, R. (2018). *Uføretrygd og arbeid: jobber de uføre mer etter reformen i 2015?* Arbeid og velferd, 3/2018. Arbeids- og velferdsdirektoratet.
+
+[^184]: NOU 2019: 7 *Arbeid og inntektssikring – Tiltak for økt sysselsetting.*
+
+[^185]: Avkortingsgraden er lik kompensasjonsgraden ved 100 pst. uføretrygd.
+
+[^186]: Fevang, E,. Markussen, S. & Røed, K. (2020). *Gråsoner i arbeidsmarkedet og størrelsen på arbeidskraftreserven*. Frisch Rapport, 1/2020. Frischsenteret.
+
+[^187]: Tillegg i minsteytelsen til personer som har fått arbeidsevnen nedsatt pga. alvorlig og varig sykdom før fylte 26 år.
+
+[^188]: von Simson, K. (2019). *Kunnskapsoversikt: Effekter av arbeidsmarkedstiltak mv på arbeidstilbud og sysselsetting, norske erfaringer*. Institutt for samfunnsforskning.
+
+[^189]: NOU 2019: 7 *Arbeid og inntektssikring – Tiltak for økt sysselsetting*
+
+[^190]: NOU 2019: 7 *Arbeid og inntektssikring – Tiltak for økt sysselsetting*
+
+[^191]: Kompetanse Norge: Virksomhetsbarometeret 2019
+
+[^192]: K. G. Bardal, m.fl. (2020). *Muligheten til å leve et normalt liv. Evaluering av Arbeids- og utdanningsreiser*. NF-rapport nr. 15/2020. Nordlandsforskning.
+
+[^193]: Proba samfunnsanalyse (2018). *Arbeidsgiverperspektiv på inkludering – en undersøkelse blant NHOs medlemsbedrifter*. Rapport 2018: 12.
+
+[^194]: NOU 2021: 2 *Kompetanse, aktivitet og inntektssikring – Tiltak for økt sysselsetting*
+
+[^195]: MacDonald, D., C. Prinz & H. Immervoll (2020). *Can disability benefits promote (re)employment?: Considerations for effective disability benefit design*. OECD Social, Employment and Migration Working Papers, No. 253. Paris: OECD.
+
+[^196]: NOU 2019: 7 *Arbeid og inntektssikring – Tiltak for økt sysselsetting* og NOU 2021: 2 *Kompetanse, aktivitet og inntektssikring – Tiltak for økt sysselsetting*
+
+[^197]: OECD (2020). *Identifying and addressing employment barriers in Belgium and Norway*. Implementing the OECD jobs strategy. Paris.
+
+[^198]: Reme, S. E., Monstad, K., Fyhn, T., Øverland, S., Ludvigsen, K., Sveinsdottir, V., Løvvik, C. & Lie, S. A. (2016). *Effektevaluering av Individuell jobbstøtte* (IPS): Sluttrapport. Bergen: Uni Research Helse og Uni Research Rokkansenteret; Tor Helge Holmås, Karin Monstad, Silje Endresen Reme (2019): *IPS oppfølgingsstudie*. NORCE Norwegian Research Centre, Universitetet i Oslo.
+
+[^199]: Strand, A. H., Grønningsæter, A. B., Holte, J. H. og Nielsen, R. A. (2020). *Tid for aktivering. Evaluering av forsterket ungdomsinnsats i NAV*. (Fafo-rapport 2020:19)
+
+[^200]: NOU 2020: 2 *Fremtidige kompetansebehov III – Læring og kompetanse i alle ledd*.
+
+[^201]: Nicolaisen og Kann: *«Hvem får hva og hvorfor? Utdanning, opplæring og unge NAV-brukere».* Arbeid og velferd 1-2019.
+
+[^202]: Nicolaisen og Kann (2019): «Hvem får hva og hvorfor. *Utdanning, opplæring og unge NAV-brukere*». Arbeid og velferd, 1-2019.
+
+[^203]: NOU 2021: 2 *Kompetanse, aktivitet og inntektssikring*.
+
+[^204]: I tillegg bevilget Stortinget 250 mill. kr i 2020 til rammetilskuddet til fylkeskommunene begrunnet med kompetansehevingstiltak for ledige og permitterte, herunder bedriftsintern opplæring, videregående opplæring og fagskoler, i regi av fylkeskommunen (fase 2, 3. april 2020).
+
+[^205]: Steskal og Holmås (2020): *Utdanning som tiltak og aktivitet for brukere i NAV*. Rapport 40-2020, NORCE Samfunnsforskning.
+
+[^206]: NOU 2019: 2 *Fremtidige kompetansebehov II – Utfordringer for kompetansepolitikken*.
+
+[^207]: NOU 2018: 13 *Voksne i grunnskole og videregående opplæring – Finansiering av livsopphold*.
+
+[^208]: Skåholdt og Sutherland Olsen (2019): *Forberedt for fag: En undersøkelse av prøveordning med fagopplæring i Kompetansepluss arbeid*. NIFU arbeidsnotat 2019:20.
+
+[^209]: NAVs omverdensanalyse 2021. Arbeids- og velferdsdirektoratet.
+
+[^210]: Proba (2017): *Samarbeid NAV-kommune om introduksjonsprogram – En kartlegging*. Rapport 2017-11.
+
+[^211]: Dokument 3: 4 (2019–2020): *Riksrevisjonens undersøkelse av myndighetenes arbeid med å integrere flyktninger og innvandrere gjennom kvalifisering til arbeid*.
+
+[^212]: Waddell, G. & Burton, K. (2006). *Is work good for your health and well-being?* London: TSO
+
+[^213]: Van der Noordt, M., Ljzelenberg, H., Droomers, M. & Proper, K. I. (2014). Health effects of employment: a systematic review of prospective studies. *Occupational and Environmental Medicine*, *71*, 730–736
+
+[^214]: Ose, S. O. & Kaspersen, S. L. (2020). *Kommunalt psykisk helse- og rusarbeid 2020: Årsverk, kompetanse og innhold i tjenestene*. SINTEF
+
+[^215]: Arbeids- og velferdsdirektoratet (2020). *Årsrapport 2019*
+
+[^216]: Fyhn, T., Øygarden, O., Monstad, K. & Skagseth, M. (2021). *Evaluering av samarbeidet mellom NAV og helsetjenesten om Individuell jobbstøtte (IPS).* Rapport 1-2021. NORCE
+
+[^217]: Lidén, H. T. og Solbu, H. (2019). *Delrapport 1 Aktivitetsplikt for unge mottakere av sosialhjelp*. Oslo: Institutt for samfunnsforskning. Rapport 2/2019.
+
+[^218]: Hernæs, Ø. M. (2021). *Delrapport 2 Kvantitativ evaluering av innføring av plikt for kommunene til å stille vilkår om aktivitet til sosialhjelpsmottakere under 30 år*. Oslo: Stiftelsen Frischsenteret for samfunnsøkonomisk forskning. Rapport 3/2021.
+
+[^219]: Helsetilsynet (2015). *Kvalifisert til kvalifisering? Oppsummering av landsomfattende tilsyn med kvalifiseringsprogrammet i NAV*, Oslo: Rapport fra Helsetilsynet 2/2015.
+
+[^220]: Arbeids- og velferdsdirektoratet (2019). *Gjennomgang av sosiale tjenester for langtidsmottakere av økonomisk sosialhjelp*. NAV-notat nr.1/2019.
+
+[^221]: Markussen, S. og Røed, K. (2016). «Leaving Poverty Behind? The Effects of Generous Income Support Paired with Activation», *American Economic Journal:* Economic Policy 2016, 8 (1): 180-211.
+
+[^222]: Lima, I. A. Å. og Furuberg, J. (2018). *Hvem starter i Kvalifiseringsprogrammet og kommer de i arbeid?* Arbeid og velferd 3/2018.
+
+[^223]: Arbeids- og velferdsdirektoratet (2020). *Lavinntekt og levekår i Norge. Tilstand og utviklingstrekk – 2020*. NAV-rapport 2020:4.
+
+[^224]: Helsetilsynet (2015). *Kvalifisert til kvalifisering? Oppsummering av landsomfattende tilsyn med kvalifiseringsprogrammet i NAV*, Oslo: Rapport fra Helsetilsynet 2/2015.
+
+[^225]: Riksrevisjonen (2020). *Undersøkelse av myndighetenes arbeid med å integrere innvandrere gjennom kvalifisering og arbeid*, Oslo: Dokument 3:4 (2019–2020).
+
+[^226]: Tariffavtale mellom Fellesforbundet og ASVL for 2020–2022. Tariffavtalen dekker kun ASVLs medlemsbedrifter, dvs. VTA i skjermet virksomhet. Deltakere i VTA i ordinær virksomhet vil i utgangspunktet ikke være dekket av avtalen.
+
+[^227]: Møller, G. og Mangnussen, E. (2020). *Evaluering av forsøk med varig tilrettelagt arbeid i kommunal regi*, TM-forsk rapport 552/2020.
+
+[^228]: NOU 2016: 17. *På lik linje – Åtte løft for å realisere grunnleggende rettigheter for personer med utviklingshemming*.
+
+[^229]: Fossestøl, K., Borg, E. og Breit, E. (2020) *Nav i en ny tid? En evaluering av hvordan retningsvalgene i Stortingsmelding 33 implementeres på Nav-kontorene*, AFI rapport 2020:9
+
+[^230]: Arbeids- og velferdsdirektoratet (2021) «NAVs omverdensanalyse 2021 – Utvikling, trender og konsekvenser fram mot 2035», NAV-rapport, januar 2021
+
+[^231]: Samarbeidsavtale mellom KS og Arbeids- og sosialdepartementet om partnerskapet i NAV-kontoret, april 2018
+
+[^232]: Fossestøl, K., Borg, E. og Breit, E. (2020) *Nav i en ny tid? En evaluering av hvordan retningsvalgene i Stortingsmelding 33 implementeres på Nav-kontorene*, AFI-rapport 2020:09.
+
+[^233]: Hellang, Ø. mfl. (2019) *Mulighetsrommet i Nav-partnerskapet*, Rapport NORCE 34-2019
+
+[^234]: Digisos: Samarbeid mellom kommunesektoren og Arbeids- og velferdsetaten om utvikling av digitale tjenester på sosialtjenesteområdet i arbeids- og velferdsforvaltningen.
+
+[^235]: NAVs omverdensanalyse 2021, Utvikling, trender og konsekvenser fram mot 2035, januar 2021
+
+[^236]: Lov om sosiale tjenester i arbeids- og velferdsforvaltningen (sosialtjenesteloven) § 17 Opplysning, råd og veiledning
+
+[^237]: Lov om sosiale tjenester i arbeids- og velferdsforvaltningen (sosialtjenesteloven) § 13 Samarbeid med andre deler av forvaltningen
+
+[^238]: Prop. 100 L (2020–2021) *Endringer i velferdstjenestelovgivningen (samarbeid, samordning og barnekoordinator)*
+
+[^239]: «*Et NAV med muligheter*» – Sluttrapport fra Ekspertgruppen for gjennomgang av NAV, april 2015
+
+[^240]: Bla. «*Utvikling av NAV-kontor – større handlingsrom og ansvar*» – Tilrådning til arbeids- og velferdsdirektøren fra arbeidsgruppe om myndige og løsningsdyktige NAV-kontor, 2017
+
+[^241]: NOU 2021: 4 *Norge mot 2025 – Om grunnlaget for verdiskaping, produksjon, sysselsetting og velferd etter pandemien*
+
+[^242]: Skutlaberg, L. S., Lerfaldet, H. og Bjørnebekk, O. L. (2019) *Evaluering av tilskuddsordningen Frivillig arbeid mot fattigdom og sosial ekskludering*, Ideas2evidence, rapport 2/2019
+
+[^243]: Forskrift 13.1.2021; Tilskudd til brukerstyrte organisasjoner som arbeider mot fattigdom
+
+[^244]: Nyberg, T. E. mfl. (2021) *Kritiske diskusjoner gir opplevd medvirkning – En analyse av NAVs brukerutvalg* Arbeid og velferd nr.1-2021
+
+[^245]: Nasjonale retningslinjer for helse- og sosialfagutdanningene (RETHOS)
+
+[^246]: Terum, L. I. og Sadeghi, T. (2019) *Medarbeidernes kompetanse ved NAV-kontorene – Endringer i utdanningsbakgrunn, læring på arbeidsplassen og kompetanse, 2011–2018* Skriftserie 2019 nr 6
+
+[^247]: Instruks om virksomhets- og økonomistyring for Arbeids- og velferdsdirektoratet, fastsatt av Arbeids- og sosialdepartementet 1. april 2021
+
+[^248]: «*Et NAV med muligheter – bedre brukermøter, større handlingsrom og tettere på arbeidsmarkedet*.» En gjennomgang av NAV, Sluttrapport fra ekspertgruppen, april 2015
+
+[^249]: Arbeids- og velferdsdirektoratet (2019) *Gjennomgang av sosiale tjenester for langtidsmottakere av økonomisk sosialhjelp*, NAV-notat nr. 1-2019
+
+[^250]: Malmberg-Heimonen, I. mfl. (2019) *Helhetlig oppfølging av lavinntektsfamilier*. Skriftserie 2019 nr. 10. Sluttrapport
+
+[^251]: NOU 2021: 2 *Kompetanse, aktivitet og inntektssikring*
+
+[^252]: Én digital offentlig sektor – Digitaliseringsstrategi for offentlig sektor 2019–2025, 2019
+
+[^253]: Områdesatsingene i Oslo – Delprogram sysselsetting (2020). *Nye digitale løsninger for brukeroppfølging i NAV? – Muligheter og juridiske begrensninger for deling av data – utvidet juridisk utredning*. (Rapporten er utarbeidet av prosjekt Datadrevet oppfølging, og partnerne i Delprogram sysselsetting)
+
+[^254]: Kobro, L. U., Røtnes, R., Eggen, F. W., & Skar, C. (2017). *Statlige rammevilkår på ramme alvor. Sosialt entreprenørskap i norsk offentlig kontekst*. Skriftserien fra Høgskolen i Sørøst-Norge:14
+
+[^255]: Aksnes, S. Y., Breit, E., Eimhjellen, I. og Reichborn-Kjennerud, K (2020) *Nye muligheter for sosialt entreprenørskap? Samarbeid om arbeidsinkludering mellom Nav og sosiale entreprenører,* AFI Rapport 2020:10
+
+[^256]: Ibid.
+
+[^257]: Kobro, L. U., Røtnes, R., Eggen, F. W., & Skar, C. (2017). *Statlige rammevilkår på ramme alvor. Sosialt entreprenørskap i norsk offentlig kontekst.* Skriftserien fra Høgskolen i Sørøst-Norge:14
+
+[^258]: Aksnes, S. Y., Breit, E., Eimhjellen, I. og Reichborn-Kjennerud, K (2020) *Nye muligheter for sosialt entreprenørskap? Samarbeid om arbeidsinkludering mellom Nav og sosiale entreprenører,* AFI Rapport 2020:10
+
+[^259]: Arbeids- og sosialdepartementet (2018). *Samarbeid om sosialt entreprenørskap,* Rapport fra tverrdepartemental arbeidsgruppe
+
+[^260]: Aksnes, S. Y., Breit, E., Eimhjellen, I. og Reichborn-Kjennerud, K (2020) *Nye muligheter for sosialt entreprenørskap? Samarbeid om arbeidsinkludering mellom Nav og sosiale entreprenører,* AFI Rapport 2020:10
+
+[^261]: Veileder om sosiale entreprenører som leverandører \| Anskaffelser.no
+
+[^262]: Inspirasjonsheftet Veier til samarbeid (www.regjeringen.no/2540583).
+
+[^263]: Carè, R., & De Lisa, R. (2019). Social impact bonds for a sustainable welfare state: The role of enabling factors. *Sustainability*, *11*(10), 2884.
+
+[^264]: Ministry of Employment and Economic Affairs Finland. (2021). SIB Projects. Hentet fra: https://tem.fi/en/sib-projects
+
+[^265]: KS (2021). *Hva er effektkontrakter?* Hentet fra: https://www.ks.no/fagomrader/innovasjon/sosiale-investeringer/effektkontrakter/hva-er-effektkontrakter/
+
+[^266]: Oxford Research (2021). *Effektkontrakter.* Delrapport: Litteraturstudie
+
+[^267]: Ferd (2021). *Årsrapport 2019: Sosiale entreprenører*. Hentet fra: https://aarsrapport2019.ferd.no/sosiale-entreprenorer/
+
+[^268]: von Simson, K. (2019): *Kunnskapsoversikt: Effekter av arbeidsmarkedstiltak mv på arbeidstilbud og sysselsetting, norske erfaringer*. Digitalt vedlegg til NOU 2019: 7.
+
+[^269]: Proba (2020). *Resultater av oppfølgingstiltak. Sluttrapport.* Proba-rapport nr. 2020-8.
+
+[^270]: Aksnes, S. Y., Breit, E., Eimhjellen, I. og Reichborn-Kjennerud, K (2020) *Nye muligheter for sosialt entreprenørskap? Samarbeid om arbeidsinkludering mellom Nav og sosiale entreprenører,* AFI Rapport 2020:10
+
+[^271]: Rasmussen, I. m.fl. (2010) *Samfunnsøkonomiske effekter av marginalisering blant ungdom*, Vista Analyse AS, Rapportnummer 2010/07
+
+[^272]: NOU: 2019: 7 *Arbeid og inntektssikring – Tiltak for økt sysselsetting* og NOU 2021: 2 *Kompetanse, aktivitet og inntektssikring – Tiltak for økt sysselsetting*.

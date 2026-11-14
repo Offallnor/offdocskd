@@ -1,886 +1,308 @@
-# NOU 2021: 9, del 28 av 36 (side 301–310)
+# NOU 2021: 9, del 28 av 42
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2021/a2e6ef96-nou-2021-9.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2021-9/id2862895/
 - Original-PDF: https://www.regjeringen.no/contentassets/7b8fb44f93a4402981ed7f279b345dbe/no/pdfs/nou202120210009000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 tabeller, 28 figurer, 239 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 301]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-rettslige sidene av Norwegian-saken. Utvalgsmedlemmene hadde ulike vurderinger, jf. boks 4.3. De
-av Luftfartsutvalgets medlemmer som ikke representerte organisasjonene i arbeidslivet, uttalte at
-utvalget om tilknytningsformer og virksomhetsorganisering har et mandat og en sammensetning
-som kan gjøre det bedre egnet til å vurdere rettslige sider ved de nye tilknytningsformene som blir
-brukt i luftfarten. De henstilte om at det legges
-vekt på erfaringene fra luftfarten i arbeidet.
-Utvalget har vurdert det som mest hensiktsmessig å vurdere problemstillingene på generelt
-grunnlag, uten å se på spesifikke forhold i enkelte
-bransjer og næringer. Dette skyldes at arbeidsmiljøloven gjelder generelt for alle virksomheter som
-omfattes av loven, uavhengig av bransje eller
-næring. Momenter fra Norwegian-saken er imidlertid trukket inn i utvalgets vurderinger under.
-
-13.2.5 Oppsummering
-Utvalgets vurderinger i punkt 13.2 kan oppsummeres i følgende punkter:
-– Omfanget av innleie fra bemanningsforetak har
-økt fra under 0,4 prosent i 1995 til vel 1,5 prosent av samlet sysselsetting i 2018. Bruken av
-innleie har økt særlig innen enkelte næringer
-som bygg og anlegg. Foreliggende tall tyder på
-at omfanget er noe redusert de siste årene. Det
-er imidlertid behov for mer samlet statistikk
-når det gjelder omfang og bruk av innleie, og
-bedre oversikt over i hvilken grad det kan forekomme omgåelser.
-– Innleie er i enkelte situasjoner hensiktsmessig
-og nødvendig for å få skaffet til veie arbeidskraft
-for å avhjelpe et bemanningsbehov i en tidsbegrenset periode.
-– Innføringen av likebehandlingsprinsippet i
-2013, innstramminger i 2019, samt offentlig tilsyn med innleiereglene fra 2020, bidrar til å
-styrke mulighetene for å etterleve regelverket.
-– Utvalget foreslår ingen endringer i vilkårene
-for innleie nå. Flertallet, medlemmene Fougner, Almestrand, Brandshaug Dale, Juliussen,
-Olsen, Salvanes og Spjelkavik, mener at de nye
-reglene må få mer tid til å virke, og deretter
-evalueres.
-– Mindretallet, medlemmene Tinnlund, Dahle,
-Kastet og Stokland foreslår videre utredning av
-adgangen til innleie av arbeidskraft.
-– Det foreligger lite kartlegging av bruken av
-entreprise og hvilke konsekvenser det har for
-arbeidsforhold. Utvalget tok initiativ til å få
-gjennomført en utredning og beskrivelse av
-bruken av entreprisekontrakter. Det er likevel
-
-–
-
-–
-
-–
-
-–
-
-–
-
-299
-
-Kapittel 13
-
-behov for mer systematisk kunnskapsbygging
-om bruk av entrepriser og andre sentrale tema
-om hvordan virksomheter organiserer seg og
-samhandler med andre.
-Undersøkelser tilsier at vel 8,5 prosent av de
-sysselsatte arbeider gjennom entreprisekontrakter hvor arbeidet utføres i tilknytning til
-oppdragsgivers virksomhet, enten på oppdragsgivers sted eller med oppdragsgivers
-utstyr. Dette er først og fremst utbredt innenfor
-næringene bygg og anlegg og forretningsmessig tjenesteyting.
-Utvalget mener at å organisere arbeid i entrepriser er en nødvendig, legitim og bedriftsøkonomisk gunstig arbeidsdeling mellom virksomheter, hvor spesialiserte funksjoner kan kjøpes
-fra andre. Det er viktig å sikre virksomheters
-konkurransekraft og effektivitet gjennom den
-type virksomhetsorganisering som entreprisekontrakter muliggjør. Entreprise kan også
-være samfunnsøkonomisk gunstig.
-Samtidig kan entrepriser og fragmentering av
-arbeid skape en kompleksitet ved visse sider av
-ansettelsesforholdene. Når flere virksomheter
-er involvert i arbeidsprosessene kan det skape
-uklarheter rundt HMS-ansvar, og i undersøkelser pekes det på at fragmentering av arbeid til
-mange underleverandører fører til flere ulykker og dårligere helse og arbeidsmiljø. Det kan
-også vanskeliggjøre det lokale partssamarbeidet. I en kvalitativ undersøkelse (Ingelsrud
-mfl., 2020) pekes det på at en lavere andel fast
-ansatte fører til at fagforeningenes posisjon i
-virksomhetene svekkes og at virksomhetene
-gjør seg mer økonomisk avhengige av å bruke
-innleie eller entreprise. De tillitsvalgte som er
-intervjuet i undersøkelsen peker på en opplevelse av økende avstand mellom ledelse og
-ansatte.
-Utvalget viser også til at det i særlig to høyesterettsdommer har blitt påpekt at det ikke kan
-utelukkes at fragmentering av virksomhet ved
-å inngå en rekke entrepriser som dekker en
-virksomhets behov for å operere i markedet,
-og nye måter å organisere næringsvirksomhet
-på, vil kunne utfordre arbeidsmiljølovens formål om sikring av trygge ansettelsesforhold, jf.
-Rt. 2013 side 998, premiss 63 og HR-2018-2371A, premiss 119.
-Slik fragmentering kan etter flertallet, medlemmene Fougner, Dahle, Kastet, Olsen, Salvanes,
-Stokland, Sverdrup Svendsen og Tinnlund sitt
-syn utfordre hovedregelen i norsk arbeidsliv
-om fast tilsetting i et topartsforhold, og kan
-
-[Side 302]
-
-300
-
-NOU 2021: 9
-
-Kapittel 13
-
-Den norske modellen og fremtidens arbeidsliv
-
-derfor svekke grunnlaget for den norske
-modellen.
-
-13.3 Utvalgets vurdering og forslag –
-grensen mellom innleie og
-entreprise
-13.3.1 Innledning og utgangspunkter for
-vurderingen
-Det er et tydelig arbeidsrettslig reguleringsskille
-mellom innleie og entreprise. Innleiereglene stiller blant annet krav til når man kan leie inn, jf.
-§§ 14-12 og 14-13, og hvilke lønns- og arbeidsvilkår
-som skal gjelde ved utleie fra bemanningsforetak,
-jf. § 14-12 a. Ved innleie fra bemanningsforetak er
-det dessuten regler som gir krav på fast ansettelse
-etter tre eller fire års innleie, jf. § 14-12 jf. § 14-9,
-samt ved brudd på reglene, jf. § 14-14. Innleie fra
-bemanningsforetak skal også drøftes med de tillitsvalgte, jf. § 14-12, og fra 1. juli 2020 ble dessuten
-regler om innleie fra bemanningsforetak underlagt Arbeidstilsynets tilsyns- og påleggskompetanse, jf. § 18-6. Det er ikke tilsvarende begrensninger i regelverket ved entreprise. Det er dermed langt færre arbeidsrettslige krav og regler
-knyttet til entreprise enn til innleie. Dette er en
-naturlig konsekvens av at entreprise ikke er en tilknytningsform, men en kontraktsform mellom
-virksomheter der entreprenøren er bundet av de
-samme arbeidsrettslige reglene som andre
-arbeidsgivere.
-Etter utvalgets vurdering er viktige formål med
-innleiereglene på den ene siden å sikre virksomheter en fleksibilitet ved midlertidig arbeidskraftsbehov, mens det på den andre siden er satt
-begrensninger for å unngå at innleie skjer på
-bekostning av faste direkte ansettelser som en løsning på et permanent arbeidskraftsbehov. Videre
-finns det reguleringer som skal sikre et visst nivå
-på arbeidsvilkårene for innleide, jf. likebehandlingsreglene. EU-domstolen fremholder også i sak
-C-681/18 fra 14. oktober 2020 premiss 51 at vikarbyrådirektivet har som formål å stimulere vikaransattes adgang til fast ansettelse hos innleier, jf.
-artikkel 6, nr. 1 og 2. Etter utvalgets syn reflekterer innleiereglene arbeidsmiljølovens formål om å
-sikre trygge ansettelsesforhold, jf. § 1-1 bokstav b.
-Utvalget viser til at entreprise kjennetegnes
-som en bedriftsøkonomisk gunstig arbeidsdeling
-mellom virksomheter, hvor blant annet spesialiserte funksjoner kan kjøpes fra andre. Entreprise
-kan også være samfunnsøkonomisk gunstig.
-Dette bidrar til at virksomheter kan spesialisere
-seg på sin kjernevirksomhet, og for eksempel
-
-sette ut ulike støttefunksjoner. Dette er et dynamisk bilde og vil variere mellom virksomheter.
-Behovet for ulike spesialiserte tjenester danner
-også grunnlaget for nye virksomheter og arbeidsplasser. Det bidrar også til at virksomheter ikke
-behøver å være bemannet med all type kompetanse eller spesialisering på oppgaver hvor
-arbeidskraft- eller tjenestebehovet er varierende.
-Denne type effektivisering kan også sikre konkurransekraft.
-Ved vurderingen av grensedragningen mellom
-innleie og entreprise må man etter utvalgets vurdering ta innover seg disse utgangspunktene. På
-den ene siden er det viktig at formålene bak innleiebegrensningene ikke undergraves gjennom
-entreprisekontrakter der formålet er å organisere
-seg bort fra forpliktelser og ansvar. På den andre
-siden er det viktig å sikre virksomheters konkurransekraft og effektivitet gjennom den type virksomhetsorganisering som entreprisekontrakter
-muliggjør. Det er derfor viktig at man ikke får en
-grensedragning som i praksis innebærer for store
-begrensninger i virksomheters valg av fornuftige
-og kostnadseffektive virksomhetsmodeller, også
-av hensyn til mulig utflagging og tap av arbeidsplasser.
-Grensen mellom hva som er innleie og hva
-som er entreprise er ikke uttrykkelig regulert i
-arbeidsmiljøloven og fremkommer bare indirekte.
-Hvorvidt arbeidsmiljølovens innleieregler kommer til anvendelse avgjøres basert på en ulovfestet grensevurdering som kan utledes av forarbeider og rettspraksis. Definisjonen av utleie i
-arbeidsmarkedsloven § 25 andre ledd kan også gi
-veiledning.
-Utvalget har vurdert om det er behov for tiltak
-på dette området. Utvalget har vurdert om gjeldende rettstilstand, herunder momentene som
-skal skille mellom innleie og entreprise, er tilstrekkelig tydelig og hensiktsmessig, og fanger
-opp de kontrakter som bør klassifiseres som innleie. Utvalget har i sin vurdering både sett hen til
-momentlisten som ble oppstilt av Blaalid-utvalget,
-til de momentene som ble oppstilt i forarbeidene
-fra 1971 samt til om samfunnsutviklingen tilsier at
-andre kriterier bør tillegges vekt. Utvalget har
-også vurdert om det av pedagogiske hensyn kan
-være hensiktsmessig at det tas inn en definisjon
-av innleie i arbeidsmiljøloven. En slik definisjon vil
-kunne tjene som en tydeliggjøring og bevisstgjøring av grensen mellom innleie og entreprise.
-Utvalget viser til de problemstillinger som ble
-reist i henholdsvis Rt. 2013 side 998 (Quality People) og HR-2018-2371-A (Norwegian), om hvorvidt fragmentering av virksomhet gjennom entre-
-
-[Side 303]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-priser kan innebære negative konsekvenser for
-arbeidstakerrettigheter, jf. punkt 13.2.4. Høyesterett viser i begge saker til at det er en lovgiveroppgave å vurdere behovet for eventuelle regelendringer. Et særlig spørsmål for utvalget har
-dermed vært hvorvidt fragmentering av virksomhet gjennom entrepriser kan innebære negative
-konsekvenser for arbeidstakerrettigheter, på en
-slik måte at kontraktene bør klassifiseres som innleie, og om dette i sin tur innebærer behov for å
-presisere eller endre momentlisten.
-Når utvalget har vurdert om fragmentering av
-virksomhet gjennom entrepriser kan innebære
-negative konsekvenser for arbeidstakerrettigheter, har ikke dette vært en helt enkel øvelse. Utvalget viser til at bruken av entreprisekontrakter
-spenner over et stort spekter både når det gjelder
-bransjer, type arbeidsoppgaver og måten entreprisen organiseres og gjennomføres på. Det kan være
-ulike behov som begrunner entreprisen, og det
-kan være ulike konsekvenser for arbeidsforhold.
-Det er mange hensyn å ta, og det kan være krevende å oppstille en generell norm som tar høyde
-for og favner hele spekteret av variasjoner, behov
-og konsekvenser. Som et utgangspunkt mener
-utvalget at virksomheter må kunne organisere seg
-på den måten den finner mest hensiktsmessig.
-Men dette utgangspunktet begrenses av at organiseringen kan ha konsekvenser som følge av det
-grunnleggende hensynet til vern av arbeidstakerne.
-Flertallet, medlemmene Fougner, Dahle, Kastet,
-Olsen, Salvanes, Stokland, Sverdrup Svendsen og
-Tinnlund, mener at en fast ansettelse direkte hos
-den virksomheten som skal ha arbeidet utført er
-den tilknytningsformen som best legger grunnlaget for tillit, utvikling og samarbeid mellom partene, og som dermed best ivaretar interessefellesskapet rundt den norske arbeidslivsmodellen.
-Flerpartsforhold, slik som innleie og/eller
-enkelte entrepriser, hvor arbeid utføres for eller
-på vegne av andre enn egen arbeidsgiver kan ha
-konsekvenser for arbeidsforholdene hos både
-oppdragstaker og oppdragsgiver. Flerpartsforhold
-kan innebære økt avstand mellom arbeidstaker og
-arbeidsgiver, det kan føre til en kompleksitet i utøvelse av arbeidsgiverfunksjoner og plassering av
-for eksempel HMS-ansvar, samt gjøre informasjonsflyt, medvirkning og partssamarbeidet mellom de involverte aktører mer krevende, jf. punkt
-13.2.3.
-Lovgiver tillater likevel slike flerpartsforhold. I
-dette ligger det en formodning om at dette kan
-være kostnadseffektive løsninger som sikrer virksomhetene fleksibilitet for eksempel ved varier-
-
-301
-
-Kapittel 13
-
-ende arbeidskraftsbehov eller behov for spesialisert kompetanse. Når det gjelder innleie har lovgiver imidlertid tatt konsekvensene av at innleie kan
-gi negative konsekvenser for ansettelsesforholdene, gjennom å gi reguleringer som skal sikre at
-innleie kun brukes i særlige tilfeller og at arbeidstakerne sikres anstendige vilkår. Grunnen til at
-entrepriser ikke reguleres tilsvarende som innleie, må etter flertallets vurdering være fordi
-arbeidstakerne som det klare utgangspunkt antas
-å ha trygge og ordinære arbeidsforhold hos entreprenøren.
-Som det fremgår nedenfor i punkt 13.3.2 er det
-etter flertallets vurdering likevel visse entrepriser
-hvor det kan være særlig grunn til å være oppmerksom på konsekvensene for ansettelsesforhold. Det er gjerne kombinasjonen av flere forhold
-som i sum kan utfordre lovens formål om trygge
-ansettelsesforhold og den norske arbeidslivsmodellen i for stor grad. Forholdene flertallet peker
-på nedenfor har særlig blitt aktualisert gjennom
-de virksomhetsmodellene som har blitt prøvd for
-domstolene. Etter flertallets vurdering kan det på
-denne bakgrunn være grunn til å presisere eksisterende og/eller tilføre nye kriterier i momentlisten for å skille mellom innleie og entreprise.
-Mindretallet, medlemmene Almestrand, Brandshaug Dale, Juliussen og Spjelkavik deler flertallets
-syn på at fast ansettelse er grunnleggende for tillit, utvikling og samarbeid mellom partene, og
-dermed best ivaretar interessefellesskapet rundt
-den norske arbeidslivsmodellen. Mindretallet
-mener det ikke er avgjørende om den faste ansettelsen er hos leverandør eller hos mottaker av
-leveransen. Mindretallet vil understreke at en
-rekke arbeidstakere innen et bredt spekter av
-næringer, utfører arbeidet helt eller delvis hos
-andre enn egen arbeidsgiver, uten at det innebærer et svekket grunnlag for tillit, utvikling og
-samarbeid mellom partene.
-
-13.3.2 Kriterier for å skille mellom innleie og
-entreprise
-I dette punktet fremgår utvalgets vurdering av
-hvilke kriterier som bør vektlegges ved grensedragningen mellom innleie og entreprise. Disse
-kriteriene innebærer en presisering og tydeliggjøring av gjeldende rett.
-Utvalget er enige om beskrivelsen av kriteriene Arbeidsledelse og Ansvar for arbeidsresultat,
-men har delt seg i et flertall og mindretall når det
-gjelder de øvrige kriteriene. Disse kriteriene bygger dels på det flertallet mener kan utledes av gjeldende rett, og dels på flertallets vurdering av
-
-[Side 304]
-
-302
-
-Kapittel 13
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-behovet for presiseringer i lys av samfunnsutviklingen.
-Arbeidsledelse
-Hvem som utøver arbeidsledelse er et sentralt kjennetegn på innleie; at det er innleier som utøver
-arbeidsledelsen, og at innleid arbeidstaker er
-underlagt innleiers styring, ledelse og kontroll.
-Ved entreprise derimot arbeider arbeidstakerne
-under entreprenørens tilsyn og ledelse. Kriteriet
-følger allerede av gjeldende rett, er ansett som et
-sentralt moment av Høyesterett, og må forstås i
-tråd med gjeldende praksis.
-Utvalget viser også til at vikarbyrådirektivets
-virkeområde er knyttet til «brukerforetakets» tilsyn og ledelse, jf. artikkel 1 nr. 1: «Dette direktiv
-får anvendelse på arbeidstakere som har en
-arbeidsavtale eller et arbeidsforhold med et vikarbyrå, og som leies ut til brukerforetak for å arbeide
-midlertidig under deres tilsyn og ledelse». Tilsvarende formulering fremgår også i definisjonen av
-«vikarbyrå» i artikkel 3 bokstav b, «vikar» i bokstav c, og «brukerforetak» i bokstav d. Kriteriet
-om hvem som utøver tilsyn og ledelse er således
-også benyttet som et avgrensningskriterium for
-vikarbyrådirektivets anvendelsesområde etter
-EU-retten.
-Utvalget viser til omtalen av dette kriteriet i
-Ot.prp. nr. 53 (1970–71), og viser til at dette fortsatt er en treffende beskrivelse:
-Et utpreget og helt avgjørende kjennetegn på
-entreprise er at entreprenøren faktisk utøver
-arbeidsledelsen, dvs. at han selv eller gjennom
-en annen som er ansatt hos ham, leder, fordeler
-og kontrollerer det arbeid som skal utføres.
-Entreprenøren har en viss handlefrihet. Han
-skal kunne anvende de metoder han selv finner
-formålstjenlig for å oppnå det på forhånd
-bestemte arbeidsresultat. Fordelen med entreprisen er at den spesielle kunnskap entreprenøren sitter inne med kan nyttiggjøres på en effektiv måte. For at det skal foreligge entreprise, må
-entreprenøren således utøve de vanlige arbeidsledende funksjoner. Det er ikke nok at han formelt holder arbeidsleder, eller, som det ofte
-skjer ved utleie av arbeidskraft, at en av arbeidstakerne utpekes som kontaktmann mellom
-utleiefirmaet og oppdragsgiveren, uten å ha
-noen egentlig lederfunksjon. I slike tilfeller ligger den virkelige arbeidsledelse hos oppdragsgiveren. En selvstendig arbeidsledelse fra entreprenørens side er imidlertid ikke til hinder for
-at oppdragsgiveren kontrollerer arbeidsresulta-
-
-tet på vanlig måte, uansett om denne kontroll
-skjer fortløpende under arbeidets gang eller
-først når arbeidet er avsluttet.
-Etter utvalgets vurdering må det ligge en realitet i
-dette kriteriet. For at entreprenøren skal sies å ha
-tilsyn og ledelse med arbeidet, må det utøves en
-reell arbeidsledelse. Innenfor kontraktens rammer må entreprenøren være den som bestemmer
-hvordan og når arbeidet skal utføres.
-I Rt. 2013 side 998 (Quality People) foretok
-Høyesterett en helt konkret vurdering av hvem
-som faktisk ledet arbeidstakeren, jf. premiss 83.
-Arbeidstakeren hadde en «person i QP lokalt å
-forholde seg til som leder, og det var ingen hos
-ankende part som på noe tidspunkt erstattet
-denne funksjonen». Det at det tidvis var en fysisk
-distanse mellom arbeidstakeren og lederen, spilte
-ingen rolle.
-Kriteriet kan i noen tilfeller være vanskelig å
-avveie mot oppdragsgivers kontroll med resultatet. Problemstillingen ble belyst i HR-2018-2371-A
-(Norwegian). Høyesterett kom til at oppdragstaker (NAR) hadde den daglige ledelsen av arbeidstakerne som dermed talte for entreprise, jf. premiss 82 følgende. Samtidig ble betydningen av
-oppdragsgivers utøvelse av kontroll drøftet. Det at
-oppdragsgiverne etter avtalen hadde rett til å
-kreve individuelle piloter eller kabinansatte erstattet dersom de ikke tilfredsstilte selskapenes kvalifikasjonskrav, kunne isolert sett tale for innleie,
-men var etter førstvoterendes syn mer naturlig å
-se som et utslag av «den rett til å føre kontroll som
-også en oppdragsgiver må ha», og dessuten at det
-kunne «karakteriseres som kontroll med ‘arbeidsresultatet’» Høyesterett holdt det imidlertid åpent
-at «[o]ppdragsgivers kontroll, selv om den er
-myndighetspålagt, kan selvsagt bli så detaljert og
-direkte at man må konkludere med at det i praksis
-er oppdragsgiveren som leder arbeidet. En så
-aktiv og direkte kontroll kan man imidlertid ikke
-utlede av kontraktene».
-Også hvem som utøver andre arbeidsgiverfunksjoner enn den daglige arbeidsledelsen kan
-være relevant. Det vises til Ot.prp. nr. 53 (1970–
-71), hvor det står at «dersom oppdragsgiveren
-fastsetter og kontroller arbeidstiden, innvilger
-permisjoner mv., og dermed utøver visse arbeidsgiverfunksjoner, tyder det på at det foreligger
-utleie av arbeidskraft.»
-I en innleiesituasjon beholder arbeidsgiver
-(utleier) det overordnede arbeidsgiveransvaret.
-Dette følger både av arbeidskontrakten og arbeidsmiljøloven § 2-1. Dette innebærer for eksempel at
-arbeidsgiver plikter å inngå arbeidsavtale, følge
-
-[Side 305]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-stillingsvernsreglene, og sørge for at arbeidsavtalens vilkår, herunder lønnsutbetaling, blir oppfylt.
-Samtidig utøver innleier likevel visse arbeidsgiverfunksjoner. Innleier har et selvstendig ansvar
-for å gi innleid arbeidstaker informasjon om
-risiko, helsekontroll og nødvendig opplæring.15
-Som et utgangspunkt har utleier det generelle
-HMS-ansvaret for den utleide arbeidstakeren, jf.
-§ 2-1. Det følger likevel av § 2-2 at innleier både
-har et HMS-ansvar overfor innleid arbeidstaker,
-og dessuten skal sørge for at innleid arbeidstakers
-arbeidstid er i samsvar med bestemmelsene i
-arbeidsmiljøloven kapittel 10. HMS-ansvaret for
-innleide antas å gå lenger enn en virksomhets
-HMS-ansvar overfor andre som utfører arbeidsoppgaver i tilknytning til arbeidsgivers aktivitet
-eller innretning, jf. Ot.prp. nr. 49 (2004–2005), side
-304. Ved innleie fra bemanningsforetak har innleier dessuten et solidaransvar for utbetaling av
-lønn mv. etter likebehandlingsreglene, jf. § 14-12 c.
-Ved entreprise utøver oppdragsgiver i utgangspunktet ingen arbeidsgiverfunksjoner overfor
-oppdragstakers ansatte, utover de krav som stilles
-i § 2-2. I særlige tilfeller kan det også påligge oppdragsgiveren visse plikter i tilknytning til lønnsog arbeidsvilkår, jf. beskrivelsen i punkt 8.7.5 om
-allmenngjorte områder og offentlige kontrakter.
-Det gjeldende momentet om hvem som avgjør
-arbeidsstokkens antall og sammensetning, er
-også forhold som naturlig kan sorteres under kriteriet om utøvelse av arbeidsledelse. En entreprenør bestemmer selv hvor mange og hvem av sine
-arbeidstakere som skal utføre det avtalte oppdraget. En innleier vil på den andre siden avgjøre
-hvor mange innleide arbeidstakere innleier trenger, og hvilken kompetanse de må ha.
-Ansvar for arbeidsresultat
-Et kriterium som ikke var fremtredende i forarbeidene fra 1971, men som ble tydeliggjort i Blaalidutvalgets innstilling, er spørsmålet om hvem som
-er ansvarlig for arbeidsresultatet. Kriteriet er fremhevet som særlig sentralt av Høyesterett, og er
-etter utvalgets vurdering et sentralt moment. Kjernen i kriteriet er at en oppdragsgiver betaler
-entreprenøren for resultatet, og ikke for arbeidsinnsatsen. En innleier betaler på sin side for leie
-av arbeidstakerne, og må selv stå til ansvar for det
-arbeidsresultatet de innleide arbeidstakerne
-utfører, tilsvarende som for egne arbeidstakere.
-Momentet følger allerede av gjeldende rett, og
-15
-
-NOU 2004: 5, punkt 10.6.4.
-
-303
-
-Kapittel 13
-
-foreliggende forarbeider og rettspraksis vil fortsatt være relevant å se hen til.
-I Rt. 2013 side 998 (Quality People) viser Høyesterett til at «Quality People hadde et resultatansvar i den forstand at selskapet ikke ville få ekstra
-betalt om de hadde feilkalkulert oppdraget. Det
-fremgår også av Service Level Agreement at leverandøren skulle ha det økonomiske og driftsmessige ansvaret for den daglige driften av Posten», jf.
-premiss 106.
-I HR-2018-2371-A (Norwegian) kom Høyesterett til at NAR «klart» hadde et ansvar for at
-arbeidsinnsatsen var kontraktsmessig, jf. avsnitt
-94. Det ble blant annet vist til at NAR måtte håndtere og skaffe erstatning for arbeidstakere som
-ikke kunne stille på jobb, og var ansvarlig for å
-kompensere NAS eller NAN for eventuell erstatning til passasjerer som følge av forsinkelser eller
-kanselleringer grunnet mangel på personell.
-Flertallet i utvalget, medlemmene Fougner,
-Dahle, Kastet, Olsen, Salvanes, Stokland, Sverdrup
-Svendsen og Tinnlund, mener i tillegg at kriteriene
-som angis nedenfor må tas i betraktning ved grensedragningen mellom innleie og entreprise.
-Mindretallet, medlemmene Almestrand, Brandshaug Dale, Juliussen og Spjelkavik viser til Høyesteretts uttalelse om at de to mest sentrale momentene i den helhetsvurderingen som skal foretas er
-hvem som utøver arbeidsledelsen og hvem som
-har den økonomiske risikoen for arbeidsresultatet. Momentene gir anvisning på oppdragstakers
-selvstendighet i forbindelse med både arbeidsutførelsen og for det resultat som skal leveres.
-Mindretallet mener dette er de sentrale kriteriene
-i grensevurderingen, og som bør videreføres.
-Mindretallet kan derfor støtte punktene Arbeidsledelse og Ansvar for arbeidsresultat ovenfor.
-Mindretallet har for øvrig et annet syn på de
-øvrige kriteriene, og viser til mindretallsmerknaden i punkt 13.3.4.
-Hvorvidt det i hovedsak skal leveres arbeidskraft
-Et sentralt kjennetegn på innleie er at innleid
-arbeidstaker stiller sin arbeidskraft til disposisjon
-for innleier, og utfører arbeid for innleier som om
-vedkommende var ansatt direkte. Avtalen mellom
-innleier og utleier går ut på levering av arbeidskraft eller bemanning, hvor selve arbeidsinnsatsen (og ikke arbeidsresultatet) er det sentrale.
-Entreprise avviker fra innleie ved at entreprenøren skal levere en resultatforpliktelse. Dette følger
-allerede av kriteriet ovenfor om at entreprenøren
-har et selvstendig ansvar for resultatet.
-
-[Side 306]
-
-304
-
-Kapittel 13
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-I entrepriser hvor det skal leveres en vare, produkt eller gjenstand, er det som oftest klart nok at
-det er avtalt og skal leveres en resultatforpliktelse.
-Når resultatforpliktelsen innebærer levering av en
-løpende tjeneste, hvor arbeidskraften gjerne
-utgjør den bærende innsatsfaktoren i leveransen,
-kan imidlertid grensen være mer utydelig.
-Etter flertallets syn kan distinksjonen mellom
-levering av bemanning (stille arbeidskraft til disposisjon) på den ene siden og resultatforpliktelse
-på den andre siden egne seg som et relevant kriterium for å skille mellom innleie og entreprise.
-Flertallet ser at det kan være glidende overganger mellom at oppdragstaker «kun» skal stille
-arbeidstakere til disposisjon for oppdragsgiver
-(innleie), og hvor oppdragstaker skal levere noe
-mer enn arbeidskraft (entreprise). I HR-20182371-A (Norwegian) viste Høyesterett for eksempel til at «avtalene beskriver en forpliktelse ikke
-bare til å stille et bestemt antall arbeidstakere til
-disposisjon, men en mer komplett tjeneste», og at
-dette dermed talte for entreprise. Utvalget er enig
-i at en viktig distinksjon er at et entrepriseoppdrag
-må ha tydelige elementer av at det leveres noe
-mer enn arbeidskraft og den kompetansen
-arbeidskraften besitter.
-Flertallet viser i denne sammenheng også til
-Oslo Economics (2020) beskrivelse av markedet
-for konkurranseutsatte støttefunksjoner (fasilitetsstyring). Der viser de til at det skjer en utvikling der «markedet går i retning av at det avtales
-kvalitetsnivå på tjenester og funksjoner og fokuset
-i kontraktene rettes mot opprettholdelse av et
-ønsket resultat; fra å selv huske å kjøpe lyspærer
-kan bedrifter inngå entreprisekontrakter med en
-FM-bedrift (Facility Management) der oppetid på
-lys er en del av tjenesten.»
-Flertallet viser videre til at uttalelsene i Ot.prp.
-nr. 53 (1970–71) fortsatt er treffende for å skille
-mellom levering av arbeidskraft/bemanning og
-resultatforpliktelse. Entreprise er en avtale mellom oppdragsgiver og entreprenør, hvor entreprenøren mot vederlag skal utføre et klart bestemt
-arbeid for oppdragsgiver. Resultatforpliktelsen,
-altså det som skal leveres, må være avtalt før oppdraget gjennomføres, og det må være avtalt og
-definert hva det er som skal leveres. Uklarheter
-rundt arbeidsresultat, eller hyppige endringer av
-arbeidsoppgaver i løpet av avtaleperioden, kan
-tale for at det er innleie. Det betyr imidlertid ikke
-at det ikke mellom partene i avtalen kan foretas
-endringer i oppdraget underveis.
-Hva som skal til, må vurderes konkret. Dersom avtalen i all hovedsak går ut på å levere
-arbeidskraft som en innsatsforpliktelse, og da slik
-
-at oppdragsgiver selv kontrollerer denne, vil dette
-normalt sett tale for at det er innleie. Dersom tjenestekontrakten (også) inneholder en tydelig formulert resultatforpliktelse, vil dette peke i retning
-av entreprise. For eksempel vil en tjenestekontrakt som kun inneholder en arbeidsbeskrivelse,
-kunne være å anse som innleie. En tjenestekontrakt som i tillegg tydelig angir kvalitetskrav for
-resultatet på tjenesten som skal leveres, vil peke i
-retning av entreprise.
-Hvem som stiller med arbeidsutstyr, materiell,
-maskiner og verktøy, er et moment etter gjeldende rett. Etter utvalgets vurdering kan momentet være relevant i sammenheng med dette kriteriet. Dersom oppdragsgiver selv stiller med slikt
-utstyr, kan det indikere at det er selve arbeidskraften som er det sentrale i leveransen, og at det dermed taler for innleie. Dersom oppdragstaker stiller med utstyret, kan det imidlertid tale for entreprise. Etter utvalgets vurdering bør kriteriet imidlertid ikke være noe avgjørende moment, men
-heller et støttemoment i grensetilfeller. For
-eksempel er det naturlig å tenke seg at utsetting
-av kantinedrift ofte vil innebære at oppdragsgiver
-stiller både med lokaler, kjøkken og utstyr, uten at
-det må anses som innleie av denne grunn alene.
-Kriteriet må for øvrig ses i sammenheng med
-hvem som er ansvarlig for arbeidsresultatet, jf.
-ovenfor.
-Betydningen av nærhet til oppdragsgivers virksomhet
-Flertallet viser til at det er en forskjell mellom
-entrepriser når det gjelder hvor arbeidet utføres.
-Entrepriser som utføres i oppdragstakers lokaler
-og med oppdragstakers utstyr («off-site» entreprise) vil etter flertallets syn i de aller fleste tilfeller innebære ordinære og trygge arbeidsforhold,
-hvor ansvarsforhold og samhandling kan utøves
-på vanlig måte.
-Etter flertallets syn er det først og fremst entrepriser som utføres i oppdragsgivers lokaler og/
-eller ved hjelp av oppdragsgivers utstyr («on-site»
-entreprise)16, som det kan være grunn til å være
-oppmerksom på. Flertallet viser til at «on-site»
-entrepriser utgjør en forholdsvis stor del av sysselsettingen i norsk arbeidsliv. Det anslås at vel
-8,5 prosent av de sysselsatte arbeider gjennom
-slike entreprisekontrakter. Flertallet viser til at
-«on-site» entrepriser fortsatt må være en naturlig
-og legitim del av norsk arbeidsliv. Dette er høyst
-praktisk i mange deler av arbeids- og næringsli16
-
-Oslo Economics (2020), side 11.
-
-[Side 307]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-vet, og kan være viktig for å fremme omstilling og
-nyskaping i virksomheter og næringer.
-Samtidig ligner «on-site» entrepriser mer på
-innleieforhold, fordi arbeidet foregår hos oppdragsgiver, arbeidet kan foregå i nærere tilknytning til oppdragsgiver, og/eller side om side med
-oppdragsgivers egne ansatte. Oppgaveløsningen
-kan dermed skje gjennom større nærhet, mer
-samhandling og større påvirkning fra oppdragsgivervirksomheten enn ved «off-site» entreprise.
-Dette kan innebære visse uklarheter knyttet til
-ansvarsforhold fordi flere virksomheter er involvert i arbeidsprosessene, og kan dessuten innebære fysisk avstand mellom arbeidsgiver og
-arbeidstaker som vanskeliggjør partssamarbeidet.
-En konsekvens av entrepriser «on site» er også at
-arbeidstakerne som utfører arbeidet i entreprisen,
-kan bli stående utenfor det kollegiale fellesskapet
-med arbeidstakerne hos oppdragsgiver. Dette
-gjør seg særlig gjeldende dersom det kun er én
-eller få ansatte hos entreprenøren som utfører
-arbeidet i entreprisen, og dersom entreprisen er
-av permanent eller langvarig karakter. Dette ble
-synliggjort og påberopt i Rt. 2013 side 998 (Quality People). Oslo Economics omtaler «on-site»
-entrepriser som «entreprisekontrakter som fra
-arbeidstakers perspektiv oppfattes som mer eller
-mindre reelle alternativ til fast ansettelse hos oppdragsgiver».
-Etter flertallets vurdering kan dermed spørsmålet om hvorvidt arbeidet utføres i nær tilknytning til oppdragsgivers virksomhet («on-site»), i
-visse tilfeller være relevant å se hen til. At en
-entreprise utføres «on-site» er imidlertid ikke ensbetydende med at kontraktsformen utfordrer
-lovens formål om trygge ansettelsesforhold. Når
-flertallet viser til dette er det fordi det kan være ett
-av flere forhold som det er grunn til å være oppmerksom på. I dette ligger også at entrepriser
-som utføres «off-site» sjelden bør klassifiseres
-som innleie.
-Betydningen av varighet og om arbeidet skal dekke et
-permanent arbeidskraftsbehov
-Flertallet viser til at det er forskjeller på entrepriser når det gjelder entreprisens varighet, herunder om arbeidet som utføres i entreprisen skal
-dekke et midlertidig eller permanent arbeidskraftsbehov hos oppdragsgiver. I Ot.prp. nr. 53
-(1970–71) side 23–24 fremgår det at «ved en entreprise vil det ofte være avtalt at arbeidet skal utføres innen en bestemt tid». Kriteriet tilsier at entrepriser normalt er tidsbegrensede. Kriteriet var
-ikke fremtredende i Blaalid-utvalgets momentliste
-
-305
-
-Kapittel 13
-
-i NOU 1998: 15, og heller ikke i de to sentrale
-dommene på området. En mulig årsak kan være at
-også innleie fra bemanningsforetak må være tidsbegrenset, og at kriteriet derfor i utgangspunktet
-ikke er egnet til å skille entreprise fra tidsbegrenset innleie. Etter flertallets vurdering kan oppdragets varighet imidlertid fortsatt være relevant, og
-flertallet ønsker å synliggjøre hvorfor dette kriteriet kan være viktig.
-Dersom virksomheter på permanent basis
-splitter opp virksomheten gjennom å inngå entrepriser, innebærer dette nødvendigvis noen konsekvenser for arbeidsforholdene. Visse sider av
-dette er regulert gjennom reglene om virksomhetsoverdragelse. Når en virksomhet går fra
-egenproduksjon til varig utsetting av driften til en
-annen virksomhet, kan dette innebære en virksomhetsoverdragelse som sikrer de ansatte
-videre ansettelse og i store trekk på samme vilkår
-hos leverandøren. De ansatte mister samtidig sine
-rettigheter knyttet til arbeidsforholdet hos sin tidligere arbeidsgiver, herunder informasjons- og
-medvirkningsrettigheter i den virksomheten hvor
-arbeidet utføres. De ansatte blir «tvunget» over fra
-å jobbe i en produksjonsbedrift til en ekstern tjenesteleverandør, hvor avstanden til egen arbeidsgiver kan bli større og påvirkningsmulighetene
-kan bli færre. Når dette etableres som varige løsninger, kan det etter flertallets vurdering være
-egnet til å svekke arbeidstakerrettigheter.
-Samtidig ser flertallet at utviklingen har gått
-mer i retning av et behov og ønske om mer varig
-utsetting av ulike støttefunksjoner for eksempel
-innenfor forretningsmessig tjenesteyting (Facility
-Management). I denne sammenheng er det
-gjerne entreprisebehovet, sett fra oppdragsgivers
-ståsted, som er varig. Selve kontrakten med den
-enkelte tjenesteleverandør kan likevel være tidsbegrenset. Det vises for eksempel til at kontraktene i Facility Management-markedet typisk er på
-to år med opsjon på forlengelse i inntil tre ettårsperioder.17
-Flertallet viser til at permanent utsetting av
-ulike side- og støttefunksjoner, slik som kantine,
-renhold, vakthold mv., i mange tilfeller kan innebære en hensiktsmessig og fornuftig arbeidsdeling. Det er fra flertallets side ikke ønskelig å
-begrense muligheten til entrepriseløsninger som
-oppfattes som velfungerende virksomhetsmodeller i norsk arbeidsliv. Utsetting av støttefunksjoner kan for det første bidra til at oppdragsgivervirksomheten kan konsentrere seg og sine ressurser om sin kjernevirksomhet. For det andre kan
-17
-
-Oslo Economics (2020), side 21.
-
-[Side 308]
-
-306
-
-Kapittel 13
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-det ligge stordriftsfordeler hos etablerte utøvere
-innenfor dette markedet, for eksempel med tanke
-på opplæring og kompetansebygging. Også
-ansatte hos tjenesteleverandøren kan i mange tilfeller ha fordel av et bedre arbeidsfellesskap, karrieremuligheter og kompetanseheving, sammenlignet med om vedkommende hadde vært direkte
-ansatt i oppdragsgivervirksomheten. Flertallet
-viser samtidig til at organisasjonsgraden er lavere
-innenfor tjenestenæringen sammenlignet med
-andre næringer. Dette kan påvirke ansattes mulighet til medvirkning og samarbeid negativt.
-Flertallet mener at varigheten av en entreprise
-i visse tilfeller bør kunne ha betydning. Dersom
-dette sammen med andre forhold og kriterier tilsier at lovens formål om trygge ansettelsesforhold
-legges under press, kan dette tilsi at forholdet bør
-bedømmes som innleie og dermed bli omfattet av
-de strengere regler som gjelder for innleie.
-Betydningen av arten av arbeidsoppdraget
-Flertallet viser videre til at det er forskjeller på
-entrepriser når det gjelder arten av arbeidsoppdraget og hvilke funksjoner som settes ut i entreprise. Det vises i denne sammenheng også til
-Ot.prp. nr. 53 (1970–71) hvor det heter at «arten
-av arbeidsoppdraget må tillegges vekt når en skal
-avgjøre om det foreligger entreprise eller arbeidsutleie. Et indisium på entreprise er at arbeidsoppgaven skiller seg fra hva oppdragsgiverens egen
-arbeidsstyrke arbeider med».
-Flertallet viser til Norwegian-saken som
-belyste en ny måte å organisere virksomhet på,
-nemlig å benytte entreprise på varig basis slik at
-personell ansatt hos leverandør utfører virksomhetens kjerneoppgaver.
-Flertallet viser til at sentrale elementer i den
-norske arbeidslivsmodellen er tillit, innflytelse,
-samarbeid og medvirkning. Samarbeid mellom
-partene er grunnleggende for de fleste arbeidsmiljøspørsmål, blant annet knyttet til hvordan man
-organiserer, planlegger og tilrettelegger arbeid,
-og har betydning for helse, jobbengasjement og
-virksomhetenes resultater og produktivitet.18
-Flertallet viser til vurderingene i kapittel 14 om
-arbeidsmiljø, medvirkning og samarbeid. Entrepriser som innebærer varig utsetting av kjernevirksomhet, kan etter flertallets vurdering rokke
-ved den grunnleggende balansen mellom ansvar
-og innflytelse som følger av arbeidsmiljølovens
-arbeidsgiveransvar. Arbeidsoppgaver som ligger
-innenfor en virksomhets hovedbeskjeftigelse eller
-18
-
-Jf. blant annet IA-avtalen.
-
-kjerneproduksjon, som det er et permanent behov
-for, og som skjer i nær tilknytning til oppdragsgivers virksomhet, bør etter flertallets vurdering
-som det klare utgangspunkt utføres av virksomhetens egne ansatte. Selv om utbredelsen av slike
-entreprisekontrakter ikke synes være stor i norsk
-arbeidsliv, er det etter flertallets syn viktig å signalisere at denne type varig oppsplitting og fragmentering av virksomhet ikke er en ønsket utvikling,
-fordi det kan undergrave hovedregelen om den
-faste og direkte ansettelsen mellom en arbeidsgiver og arbeidstaker som den norske arbeidslivsmodellen bygger på.
-Utvalgets flertall viser i denne sammenheng
-også til kapittel 10 ovenfor om arbeidstakerbegrepet, hvor det foreslås at om arbeidet utføres i nær
-tilknytning til arbeidsgivers ordinære virksomhet
-og organisasjon, bør være et relevant moment i
-vurderingen av grensen mellom arbeidstaker og
-selvstendig oppdragstaker. Etter flertallets vurdering gjør tilsvarende betraktning seg gjeldende i
-denne sammenheng, og det gir dessuten en god
-indre sammenheng i regelverket.
-Utvalgets flertall ser imidlertid at det unntaksvis kan tenkes å foreligge bransjemessige eller
-særlige forhold som kan gjøre varig utsetting av
-kjerneproduksjon mindre betenkelig. Flertallet
-viser til at det offentliges utsetting av for eksempel
-velferdstjenester til private aktører, kan tenkes å
-falle inn under kategorien «permanent utsetting
-av kjerneproduksjon». Slike tjenester utføres
-imidlertid gjerne «off-site», og omfattes derfor
-normalt ikke av det flertallet her uttrykker bekymring for. I tillegg er det offentlige underlagt forskrift om lønns- og arbeidsvilkår i offentlige kontrakter og stiller dessuten ofte ytterligere krav om
-de ansattes arbeidsvilkår, jf. omtalen i punkt 13.2.2.
-Oppsummering kriterier
-Et samlet utvalg er enige i forståelsen om at de to
-førstnevnte kriteriene er sentrale og relevante kriterier ved grensedragningen mellom innleie og
-entreprise. Dette gjelder hvem som utøver arbeidsledelsen og hvem som har ansvar for resultatet.
-Flertallet viser til redegjørelse ovenfor om kriteriet knyttet til hvorvidt det i hovedsak skal leveres arbeidskraft eller en resultatforpliktelse.
-Flertallet mener videre at det kan foreligge
-entreprisekontrakter som i for stor grad utfordrer
-arbeidsmiljølovens formål om å sikre trygge
-ansettelsesforhold. Dette gjelder særlig entrepriser som utføres i nær tilknytning til oppdragsgivers virksomhet («on-site»), og som ligger innenfor oppdragsgivers vedvarende arbeidskraftsbe-
-
-[Side 309]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-hov og kjernevirksomhet. Som det vil fremgå
-nedenfor, mener flertallet at disse kriteriene bør
-inngå i helhetsvurderingen av om en avtale skal
-anses som innleie eller entreprise.
-Særlig om betydningen av at oppdragstaker og
-oppdragsgiver inngår i samme konsern
-Utvalget har videre vurdert bruk av entrepriseavtaler hvor både oppdragsgiver og oppdragstaker
-(entreprenør) er en del av samme konsern eller
-andre grupper av foretak som er bundet sammen
-gjennom eierinteresser. Utvalget viser til at om lag
-halvparten av de sysselsatte i Norge utfører
-arbeid innenfor konsern, og problemstillingen
-berører derfor potensielt mange.
-Utvalget viser til at entrepriseavtalene i Norwegian var inngått mellom selskaper innenfor
-samme konsern, hvor oppdragsgiver og oppdragstaker var bundet sammen gjennom eierskap.
-Etter hva utvalget forstår er de fleste entrepriseavtaler i norsk arbeidsliv inngått mellom virksomheter som ikke har slik binding til hverandre. Oslo
-Economics (2020), punkt 3.1.2, viser likevel til at
-«noen bedrifter har organisert sin virksomhet slik
-at ett datterselskap driver utleie av arbeidskraft til
-andre datterselskap. Dette er ikke uvanlig i skipsfartsnæringene og luftfart. Det er også eksempler
-fra bygg og anlegg.» Om slike selskapsinterne
-bemanningsløsninger er innleie eller entreprise er
-vanskelig å fastslå uten at det prøves rettslig.
-Utvalget antar at slike «interne» entrepriser kan
-bære preg av eksklusivitet og økonomisk avhengighet mellom oppdragsgiver og oppdragstaker i
-større grad enn ved entrepriseavtaler utenfor konsern.
-Utvalget legger til grunn at det er sentralt at
-virksomheter må kunne organisere sin virksomhet på den måten som de selv mener gir best
-effektivitet, utviklingsmuligheter og verdiskapning, herunder gjennom konsernorganisering
-eller andre måter å organisere virksomheten på.
-Samtidig må dette hensynet avveies mot de
-grunnleggende hensynene til vern av arbeidstakere. Utvalget legger videre til grunn at det for
-mange virksomheter er hensiktsmessig og kostnadseffektivt at ulike selskaper innenfor et konsern leverer ytelser til hverandre, for eksempel at
-ulike støttefunksjoner innen IT, HR og regnskap
-konsentreres i ett selskap som yter støtte til andre
-deler av konsernet gjennom entrepriseavtaler.
-Utvalget viser også til at avtalekravet ved innleie
-mellom produksjonsselskaper i § 14-13 andre ledd
-ikke gjelder for innleie innad i konserner. I forarbeidene er det blant annet vist til at det «innenfor
-
-307
-
-Kapittel 13
-
-slike selskapsstrukturer kan være hensiktsmessig
-med en mer fleksibel, overordnet politikk for bruk
-av arbeidsstokken», jf. Ot.prp. nr. 70 (1998–1999),
-punkt 6.3.4.4. Konserner har således en mindre
-streng regulering av innleie når innleien er
-«intern», og utleier ikke anses som et «bemanningsforetak».
-Flertallet, medlemmene Fougner, Dahle, Kastet,
-Olsen, Salvanes, Stokland, Sverdrup Svendsen og
-Tinnlund mener samtidig at entreprisekontrakter
-hvor oppdragsgiver over tid har stor innflytelse på
-tjenesteleverandørens virksomhet, kan være
-egnet til å skape uklarheter om hvor den reelle
-beslutningsmyndigheten og ulike arbeidsgiverfunksjoner ligger. Dette kan få betydning blant
-annet for partenes samarbeid, medvirkning og
-drøftelser. Slike entreprisekontrakter kan etter
-omstendighetene dermed utfordre den faste
-ansettelsen mellom arbeidstaker og arbeidsgiver
-som den norske arbeidslivsmodellen bygger på,
-og som innleiebegrensningene søker å ivareta.
-Utvalget mener likevel at konserner må kunne
-velge å bruke entreprisekontrakter for levering av
-ulike ytelser på tvers av konsernstrukturen, og
-foreslår ingen begrensninger for konserner særskilt. De samme vurderinger som må gjøres for
-bruk av «eksterne» entrepriser, må imidlertid gjøres tilsvarende i «selskapsinterne» entrepriser
-innad i et konsern eller tilsvarende. Det vises for
-øvrig til de vurderinger og forslag som vedrører
-konsern i kapittel 11 og 14.
-
-13.3.3 Flertallets forslag
-Flertallet, medlemmene Fougner, Dahle, Kastet,
-Olsen, Salvanes, Stokland, Sverdrup Svendsen og
-Tinnlund, foreslår at det tas inn en definisjon av
-innleie i en ny § 14-11a i arbeidsmiljøloven, med
-følgende ordlyd:
-Med innleie menes at en virksomhet (innleier)
-leier inn arbeidstaker fra en annen virksomhet
-(utleier), hvor det i hovedsak skal leveres
-arbeidskraft, og hvor innleier utøver arbeidsledelse og har et selvstendig ansvar for resultatet. I
-helhetsvurderingen etter første punktum skal det
-også legges vekt på om arbeidet skjer i nær tilknytning til oppdragsgivers virksomhet og innenfor oppdragsgivers vedvarende arbeidskraftsbehov og kjernevirksomhet.
-Forslaget til definisjon i første punktum inneholder de tre mest sentrale kriteriene for å avgjøre
-om en kontrakt skal klassifiseres som innleie eller
-entreprise; om det i hovedsak skal leveres
-
-[Side 310]
-
-308
-
-Kapittel 13
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-arbeidskraft, om innleier utøver arbeidsledelsen,
-og om innleier har et selvstendig ansvar for resultatet. Det er ikke tale om kumulative vilkår, men
-kriterier som inngår i en helhetsvurdering. Forslagets første punktum bygger i all hovedsak på gjeldende rett, men er noe presisert og utfylt. Det
-vises for øvrig til omtalen av kriteriene i punkt
-13.3.2 ovenfor, og i forslaget til lovmerknader i
-kapittel 18.
-Som det fremgår ovenfor i punkt 13.3.2 mener
-flertallet videre at tjenestekjøp som oppfyller visse
-kriterier kan utfordre lovens formål om å sikre
-trygge ansettelsesforhold på en slik måte at kontraktene bør klassifiseres som innleie. Etter flertallets vurdering gjelder dette særlig tjenestekjøp
-som oppfyller følgende tre kriterier: 1) tjenestekjøp som skjer i nær tilknytning til oppdragsgivers
-virksomhet («on-site»), 2) innenfor oppdragsgivers vedvarende arbeidskraftsbehov og 3) innenfor oppdragsgivers kjernevirksomhet. Flertallet
-har vurdert om dette bør reguleres særskilt i lovtekstens andre punktum, eller om det er tilstrekkelig at det fremgår av forarbeider. Flertallet har
-også vurdert om disse tre kriteriene bør oppstilles
-som absolutte kumulative vilkår, eller om de bør
-inngå i en helhetsvurdering. Flertallet har kommet til at det vil skape størst fleksibilitet og rom
-for domstolene til å foreta konkrete helhetsvurderinger dersom kriteriene inngår i en helhetsvurdering, i stedet for at de oppstilles som absolutte vilkår. Videre kan det av pedagogiske grunner være
-opplysende at kriteriene fremgår av lovteksten.
-Etter flertallets vurdering bør dermed disse tre
-kriteriene inngå som momenter i vurderingen av
-om det foreligger et innleieforhold. Dersom alle
-tre kriterier er oppfylt, bør dette etter flertallets
-syn tale sterkt for at kontrakten må klassifiseres
-som innleie. Det vises for øvrig til forslag til lovmerknader i kapittel 18.
-Forslaget til definisjon omfatter både innleie
-fra bemanningsforetak etter § 14-12 og innleie fra
-produksjonsbedrift etter § 14-13. Lovens systematikk vil derfor fortsatt være at man først må vurdere om man står overfor et innleie- eller entrepriseforhold, jf. forslag til ny definisjon i § 14-11a.
-Dersom det er innleie, må det deretter vurderes
-om det er tale om innleie etter § 14-12 eller § 1413.
-
-13.3.4 Mindretallets merknader
-Utvalgets mindretall, medlemmene Almestrand,
-Brandshaug Dale, Juliussen og Spjelkavik, legger
-til grunn at de reelle, underliggende forholdene
-skal være avgjørende for å klassifisere innleie og
-
-entreprise. Mindretallet er av den oppfatning at
-klassifiseringen fortsatt skal være basert på gjeldende rett, slik det blant annet kommer til uttrykk
-i Rt-2013 side 998 og HR-2018-2371-A. Momentene
-og vektleggingen av disse i helhetsvurderingen
-gir etter mindretallets syn uttrykk for et velfundert
-skille mellom innleie og entreprise. Dagens tilnærming til grensen mellom innleie og entreprise
-gir dessuten rom for utvikling gjennom domstolenes praksis, noe som gir en robusthet med tanke
-på den videre samfunnsutviklingen. Nye momenter i lovteksten fører gjerne til ytterligere avgrensningsspørsmål og nye skjønnsmessige vurderinger.
-Ved den nærmere grensegangen skal det foretas en helhetsvurdering der de avgjørende
-momentene er hvem av partene som har ansvaret
-for ledelsen og resultatet av det arbeidet som skal
-presteres. Videre er det ikke avgjørende om oppdraget går ut på å levere et produkt eller en
-løpende tjeneste. Innleie er leveranse av arbeidskraft, og entreprise kan være en leveranse der
-arbeidskraft utgjør en vesentlig del. Det avgjørende er like fullt en helhetsvurdering der ansvaret for ledelsen og resultatet av arbeidet som skal
-presteres er de sentrale momentene.
-Etter mindretallets oppfatning skaper flertallets forslag til nye momenter i vurderingen av innleie-/entrepriseforhold, uklarhet om hvilke andre
-tilfeller enn det som i dag regnes som innleie, som
-er ment å omfattes. Uklarhet gir blant annet risiko
-for at brukere av loven tolker den feil og således
-også for feilklassifiseringer.
-Eksempelvis er kjernevirksomhet et begrep
-som nødvendigvis vil være dynamisk avhengig av
-virksomhetenes strategiske valg for driften, og
-dermed lite egnet som et rettslig begrep. Tilsvarende kan innvendes mot momentet om nærhet til
-oppdragsgivers virksomhet med henvisning til
-begrepene «on-site» og «off-site» entrepriser. Det
-er en legitim del av og svært vanlig at utføringen
-av et entrepriseoppdrag skjer hos oppdragsgiver.
-Flertallet viser til at momentet er relevant fordi
-det kan være ett av flere forhold som det er
-«grunn til å være oppmerksom på». For mindretallet er det således uklart hvilken betydning
-momentet er ment å ha.
-I de to sentrale høyesterettsdommene påpekes
-at det ikke kan utelukkes at en fragmentering av
-en oppdragsgivers virksomhet ved å inngå en
-rekke entrepriser som dekker virksomhetens
-behov for å operere i markedet, eller nye måter å
-organisere næringsvirksomhet på, kan utfordre
-arbeidsmiljølovens formål om sikring av trygge
-ansettelsesforhold. Mindretallet vil understreke at
+## Utvalgets vurderinger og forslag
+
+### Innledning
+
+Å være arbeidsgiver innebærer og utløser et betydelig rettslig ansvar. Arbeidsgiver er det sentrale pliktsubjektet i arbeidsmiljøloven og annen vernelovgivning.
+
+Lovens systematikk bygger på at det er fastsatt et vern av «arbeidstaker», at reglenes anvendelse er knyttet til «virksomheten» og at ansvaret er lagt til «arbeidsgiver».[^138] En slik innretning skal legge til rette for at det er samsvar mellom innflytelse og ansvar. Dette er også bakgrunnen for at det er utviklet en praksis med at arbeidsgiveransvaret i visse tilfeller kan plasseres hos andre eller flere rettssubjekter enn den som formelt fremstår som arbeidsgiver. Etter *utvalgets* syn er denne rettsutviklingen tuftet på et synspunkt om å plassere arbeidsgiveransvaret hos den som har de beste forutsetningene for å være arbeidsgiver, nettopp for å sikre samsvar mellom innflytelse og ansvar.
+
+*Utvalget* viser til at tendensen i norsk arbeidsliv er at flere foretak enn tidligere er knyttet sammen gjennom konsernorganisering, nettverk eller andre former for integrering. Dette innebærer at stadig flere virksomheter som er arbeidsgivere og formelt sett selvstendige, kan være under sterk innflytelse fra andre foretak, noe som har konsekvenser for driften av selskapene, og dermed kan ha betydning for arbeidsgivers handlingsrom og styring av arbeidsforholdene. Utvalget viser dessuten til at nær samtlige saker for domstolene om arbeidsgiverbegrepet i arbeidsmiljøloven i perioden 2010–2020 gjaldt konsernforhold, se nærmere om dette i boks 11.1 ovenfor.
+
+Arbeidsgiveransvar i konsernforhold har blitt diskutert flere ganger tidligere, men fikk ny aktualitet med Norwegian-saken (HR-2018-2371-A). Omstruktureringen i Norwegian innebar en virksomhetsmodell hvor ulike deler av virksomheten skulle legges til datterselskaper, og arbeidstakere som var flygende personell (piloter og kabinpersonale) ble overført til datterselskap i konsernstrukturen. Datterselskapene leverte bemanning til andre deler av konsernet gjennom egne tjenestekontrakter. Saken medførte betydelig debatt, herunder om virksomhetsmodellens betydning for arbeidsgiveransvar og dens konsekvenser for arbeidstakerrettigheter.
+
+Høyesterett vurderte saken både ut fra spørsmålet om virksomhetsmodellen innebar lovlige entrepriseavtaler eller om det var ulovlig innleie, og om det forelå delt eller felles arbeidsgiveransvar etter den ulovfestede læren om arbeidsgiveransvar, på særskilt grunnlag. De spørsmål som gjaldt innleie og entreprise vil utvalget vurdere nærmere i kapittel 13. Når det gjaldt delt arbeidsgiveransvar kom Høyesterett i den konkrete vurderingen til at det ikke forelå delt ansvar. Høyesterett viste samtidig til at:
+
+\[…\] nye måter å organisere næringsvirksomhet på \[kan\] utfordre arbeidsmiljølovens formål om å sikre trygge ansettelsesforhold. Det er videre slik at flytting av arbeidstakere til andre selskaper innen et konsern får konsekvenser for deres rett til informasjon, samarbeid og medbestemmelse i henhold til hovedavtalen og arbeidsmiljøloven. Gitt de klare lovgiveruttalelsene knyttet til gjeldende arbeidsgiverbegrep må det imidlertid være opp til lovgiver å avgjøre om det bør gis en slik regel som arbeidstakersiden her har argumentert for, jf. premiss 119.
+
+*Utvalget* legger til grunn at private virksomheters valg av forretningsmodell og virksomhetsstruktur baseres på strategier for å sikre avkastning og verdiskaping, også sett i lys av at Norge er en liten, åpen økonomi i et globalt marked. Det er viktig at det legges til rette for næringsvirksomhet, både med tanke på verdiskaping og sysselsetting. *Utvalget* viser også til at arbeidsgivers valg av virksomhetsform som det klare utgangspunkt ligger, og må ligge, innenfor arbeidsgivers styringsrett. Samtidig er det avgjørende at arbeidsmiljøloven som vernelov og arbeidsgiverbegrepet i loven i tilstrekkelig grad er tilpasset realitetene i arbeidslivet, speiler de reelle ansvarsforhold, og er egnet til å ta opp i seg utvikling og endring.
+
+*Utvalget* har ulike syn på spørsmålet om plassering av arbeidsgiveransvar. På den ene siden pekes det på at gitt den viktige funksjonen og ansvaret arbeidsgiver har etter loven, er det vesentlig at det er klart og forutsigbart hvem som har arbeidsgiveransvar. Dette er viktig for både arbeidstaker og arbeidsgiver. På den andre siden pekes det på at det har stor betydning at rettssubjektet som har den faktiske innflytelsen og reell mulighet til å påvirke at vernelovgivningen blir overholdt, også kan pålegges ansvar som arbeidsgiver. Ansvarsforholdene må speile realitetene. I motsatt fall vil det grunnleggende hensynet bak arbeidsrettslig lovgivning, som er å korrigere for ubalansen i maktforholdet mellom arbeidsgiver og arbeidstaker, svekkes.
+
+### Vurdering av generell utvidelse av lovens arbeidsgiverdefinisjon
+
+Spørsmålet som vurderes i dette punktet er om arbeidsgiverbegrepet bør utvides med hensyn til når det er grunnlag for å legge arbeidsgiveransvar på flere enn den som formelt sett er arbeidsgiver etter avtalen.
+
+Arbeidsgiver er i arbeidsmiljøloven § 1-8 andre ledd definert som «enhver som har ansatt arbeidstaker for å utføre arbeid i sin tjeneste». Definisjonen speiler arbeidstakerdefinisjonen i § 1-8 første ledd. Lovens utgangspunkt er at arbeidsgiver er det rettssubjektet som har ansatt arbeidstakeren. Arbeidsgiver vil normalt være arbeidstakers kontraktsmotpart etter arbeidsavtalen. Som alminnelig regel vil det rettssubjektet som er arbeidsgiver være sammenfallende med arbeidsgivers virksomhet, slik at arbeidstakers rettigheter er knyttet til den enkelte virksomhet, jf. Ot.prp. nr. 49 (2004–2005) punkt 6.2.1. Dette utgangspunktet gjelder også i konserner og andre sammensatte virksomhetsorganiseringer.
+
+Gjeldende rett åpner imidlertid for at arbeidsgiveransvaret etter omstendighetene kan pålegges et annet rettssubjekt enn det som står som formell avtalepart, og dessuten at visse sider av arbeidsgiveransvaret etter omstendighetene kan være delt mellom flere rettssubjekter.
+
+Det følger av forarbeidene (Ot.prp. nr. 49 (2004–2005) pkt. 6.2.4) at arbeidsgiverbegrepet er ment å treffe det rettssubjektet som har den reelle avgjørelsesmyndigheten over arbeidsmiljøspørsmål, og videre at «departementet legger til grunn at det etter gjeldende rett blant annet skal legges vekt på hvem som i praksis har opptrådt som arbeidsgiver og som har utøvet arbeidsgiverfunksjoner». Dette blir gjerne omtalt som at arbeidsgiverbegrepet er funksjonelt.
+
+Når det gjelder delt arbeidsgiveransvar, er dette en ulovfestet, domstolsskapt lære som har fått tilslutning i forarbeider, som innebærer at flere rettssubjekter har arbeidsgiveransvar for samme arbeidstaker. Vilkåret for delt ansvar er at det foreligger «særskilt grunnlag». Det følger av forarbeidene (Ot.prp. nr. 49 (2004–2005) side 74-75) at «slike særlige grunnlag har i hovedsak vært at det er avtalt flere arbeidsgivere, at flere selskaper reelt har opptrådt som arbeidsgiver og utøvd arbeidsgiverfunksjoner, eller at arbeidsforholdet har kontraktsmessige uklarheter». Læren om delt arbeidsgiveransvar er ulovfestet, og har av Høyesterett blitt karakterisert som en regel om «ansvarsgjennombrudd basert på arbeidsrettslige hensyn», jf. HR-2018-2371-A (Norwegian) avsnitt 121. Det ble videre uttalt i avsnitt 110 at «(…) felles arbeidsgiveransvar er en snever unntaksregel – det skal mye til før et annet foretak enn den formelle arbeidsgiveren kan anses for å ha del i arbeidsgiveransvaret».
+
+Som nevnt ovenfor, synes spørsmål om delt arbeidsgiveransvar særlig å komme på spissen i konsernforhold. *Utvalget* viser til at utvidelse av arbeidsgiveransvar i konsern har blitt vurdert flere ganger tidligere. Konsernutvalget (NOU 1996: 6) vurderte blant annet en generell utvidelse av lovens arbeidsgiverbegrep i konsernforhold. Bakgrunnen for at utvalget ble nedsatt var at foretak stadig oftere inngikk i konsern eller andre former for foretaksgrupperinger. Det ble antatt at viktige avgjørelser av betydning for arbeidstakerne og deres arbeidsforhold, blir truffet andre steder enn i det foretaket som arbeidstakerne har inngått arbeidsavtale med. Flertallet foreslo å utvide arbeidsgiverdefinisjonen med en bestemmelse om at foretak som kan utøve bestemmende innflytelse over arbeidsgiver, også skal regnes som arbeidsgiver etter loven, jf. innstillingen side 115. Ved konsernorganisering eller lignende integrering ville dette føre til arbeidsgiveransvar for flere enn den som er arbeidsgiverpart etter avtalen, og uavhengig av om det foreligger et «særskilt grunnlag» i henhold til den ulovfestede læren om delt arbeidsgiveransvar. Forslaget møtte sterk motstand i høringsrunden, og førte ikke til endring i lovens definisjon eller andre vesentlige utvidelser av arbeidsgiveransvaret.
+
+I forarbeidene til arbeidsmiljøloven, Ot.prp. nr. 49 (2004–2005) side 76, ble det uttalt at selv om det har skjedd en utvikling med nye måter å organisere arbeidet på, var det ønskelig å videreføre arbeidsgiverbegrepet slik det var, basert på eksisterende rettspraksis. Departementet uttalte blant annet:
+
+En generell og «automatisk» utvidelse av arbeidsgiveransvaret til andre enn primærarbeidsgiver, som er betinget av «bestemmende innflytelse» eller lignende kriterier, ville bli en svært vanskelig bestemmelse å håndtere i praksis. Det er et stort mangfold av ulike virksomhetsorganiseringer, og beslutningsstrukturene kan være kompliserte og ikke nødvendigvis gjennomskuelige. Det kan derfor ofte være vanskelig å fastslå når og hvem som utøver reell innflytelse over en virksomhet. Departementet mener at det vil være uheldig om utgangspunktet i loven med hensyn til hvem som har arbeidsgiveransvar skulle være så skjønnsmessig og usikkert. Det er viktig at hvem som har arbeidsgiveransvaret fremgår tilstrekkelig tydelig av loven.
+
+Samtidig må *utvalget* vurdere om det har skjedd en utvikling som tilsier at dette spørsmålet bør vurderes annerledes nå, og om det er nye utviklingstrekk eller nye måter å organisere virksomhet på, som tilsier at det kan være behov for en utvidelse av arbeidsgiveransvaret i konsern.
+
+*Utvalget* viser først til at konsernorganisering på ingen måte er en ny virksomhetsform. Samtidig er tendensen i norsk arbeidsliv at flere foretak enn tidligere er knyttet sammen gjennom konsernorganisering. Det har vært en markert økning i antall konsern det siste tiåret. Nær halvparten av alle de sysselsatte er ansatt i virksomheter som er del av et konsern, og tendensen er økende. Spørsmål om arbeidsgiveransvar i konsern er derfor en høyst relevant problemstilling. Denne utviklingen henger tett sammen med økende internasjonalisering gjennom etableringer utenlands og flere utenlandske eiere av norske foretak. Sammen med ytre drivkrefter og en generelt sterkere markedskonkurranse, kan det skape behov for at virksomhetene må tenke nytt rundt hvordan virksomheten organiseres.
+
+*Utvalgets flertall, medlemmene Fougner, Dahle, Kastet, Olsen, Salvanes, Stokland, Sverdrup Svendsen og Tinnlund* viser til at Norwegian-saken omhandlet en måte å organisere virksomhet på som skapte avstand mellom ansettelsesforholdene og det eller de selskapene som drev kjerneaktiviteten til virksomheten. Virksomhetsmodellen innebar i korte trekk at arbeidstakerne (piloter og kabinpersonell) ble flyttet fra morselskapet til egne bemanningsselskaper organisert som datterselskaper. Gjennom tjenestekontrakter (entreprise) skulle bemanningsselskapene levere bemanning til andre selskaper i konsernet, herunder morselskapet. Høyesterett benevnte dette som bemanningsentreprise.
+
+Etter hva *utvalget* har klart å bringe på det rene, synes en slik virksomhetsmodell, med interne bemanningsselskaper i konsernet, ikke å være veldig utbredt. I sin rapport om omfang og særtrekk ved entreprise nevner Oslo Economics (2020) side 14, eksempler på dette:
+
+Noen bedrifter har videre organisert sin virksomhet slik at ett datterselskap driver utleie av arbeidskraft til andre datterselskap. Dette er ikke uvanlig i skipsfartsnæringene og luftfart. Det er også eksempler fra bygg og anlegg.
+
+Etter *flertallets* vurdering kan det være grunn til å se nærmere på Norwegian-saken, herunder om loven burde ha fanget opp en slik virksomhetsmodell og slik organisering som var tilfelle i denne saken.
+
+Spørsmålet for Høyesterett i Norwegian-saken var om det forelå «særlig grunnlag» for delt arbeidsgiveransvar, nærmere bestemt om «NAS i realiteten fortsatt opptrer som arbeidsgiver for piloter og kabinansatte». Når det gjaldt den konkrete vurderingen, trakk Høyesterett en parallell mellom spørsmålet om arbeidsgiveransvar på særskilt grunnlag og sin forutgående vurdering av grensen mellom innleie og entreprise. I vurderingen av innleie/entreprise kom Høyesterett til at det «klart» forelå entreprise (premiss 99), og mente at morselskapets innflytelse «ikke går ut over det som en oppdragsgiver kan ha i et entrepriseforhold». De samme forholdene tilsa etter Høyesteretts vurdering at morselskapet «heller ikke kan sies å ha utøvd arbeidsgiverfunksjoner annet enn i helt marginal grad».
+
+Høyesterett konkluderte videre med at det ikke var tilstrekkelig til å etablere felles arbeidsgiveransvar at arbeidstakerne gjennom virksomhetsoverdragelser ble overført fra morselskap til datterselskap. Da saken stod for tingretten var det liten realitet i datterselskapene de ansatte var flyttet til; morselskapet utøvde fortsatt de fleste av arbeidsgiverfunksjonene knyttet til arbeidet som ble utført, og tingretten kom til at det forelå en (selskaps-)konstruksjon som ikke fortjente arbeidsrettslig vern. Da saken kom til behandling i lagmannsretten og Høyesterett hadde datterselskapene blitt en realitet. Det var nå den formelle arbeidsgiveren som i all hovedsak utøvde arbeidsgiverfunksjoner, og ble dermed av Høyesterett ansett for å være både formell og reell arbeidsgiver. Høyesterett viste imidlertid til at «\[…\] nye måter å organisere næringsvirksomhet på \[kan\] utfordre arbeidsmiljølovens formål om å sikre trygge ansettelsesforhold. Det er videre slik at flytting av arbeidstakere til andre selskaper innen et konsern får konsekvenser for deres rett til informasjon, samarbeid og medbestemmelse i henhold til hovedavtalen og arbeidsmiljøloven. Gitt de klare lovgiveruttalelsene knyttet til gjeldende arbeidsgiverbegrep må det imidlertid være opp til lovgiver å avgjøre om det bør gis en slik regel som arbeidstakersiden her har argumentert for» (premiss 119).
+
+*Utvalget* viser til at også Luftfartsutvalget vurderte arbeidsmiljølovens arbeidsgiverbegrep i lys av Norwegian-saken, jf. NOU 2019: 22 side 122 flg. Luftfartsutvalget delte seg i et flertall, samt to ulike mindretall.[^139] Mindretallene bestod av henholdsvis to medlemmer fra arbeidstakerorganisasjonene og to medlemmer fra arbeidsgiverorganisasjonene. Etter *utvalgets* vurdering pekte de ulike mindretallene i Luftfartsutvalget på flere sentrale hensyn og vurderingstemaer for spørsmålet om plassering av arbeidsgiveransvar i konsern. Ett mindretall, representanter for arbeidstakerorganisasjoner, viste til at:
+
+Det er viktig at arbeidsgiverbegrepet gis et innhold som gjør at faste og direkte ansettelsesforhold fortsatt blir normen i norsk arbeidsliv, og at omorganiseringer som ikke innebærer en økonomisk realitet for arbeidsgiver, ikke fritar fra det ansvar som følger av arbeidskontrakten.
+
+Og videre at:
+
+Arbeidsgiverbegrepet må sørge for at et ansettelsesforhold er knyttet til den som driver, bestemmer og gjennomfører den aktivitet arbeidstakeren jobber for. Det er også der de plikter og rettigheter som følger av arbeidervernlovgivningen og arbeidskontrakten kan oppfylles. Arbeidsgiveransvaret bør ikke kunne plasseres i et konsernselskap som ikke selv driver egen selvstendig økonomisk aktivitet. Hvis arbeidsgiverbegrepet ikke stenger for slike løsninger, mister vi den nødvendige gjensidighet og skjebnefellesskap mellom arbeidsgiver og arbeidstaker den norske modellen bygger på.
+
+Et annet mindretall, representanter for arbeidsgiverorganisasjoner, viste på sin side til at:
+
+Gjennom fast tilsetting av flygende personell i egne ressursselskaper unngår man innlåsing som begrenser jobbmulighetene for de flygende som kan arbeide for flere driftsselskaper, og man forhindrer dobbeltfunksjoner og redusert effektivitet. Likeså vil et organisatorisk skille mellom holding-, drifts- og ressursselskap etablere en nødvendig uavhengighet som sikrer finansiering av fly- og annet kapitalkrevende materiell.
+
+Og videre at:
+
+Muligheten for en effektiv og hensiktsmessig organisering i Norge er således helt avgjørende for å kunne konkurrere i et internasjonalt luftfartsmarked, jf. tidligere beskrivelser av ulike forretnings- og organisasjonsformer som anvendes i internasjonal luftfart.
+
+Etter *utvalgets* vurdering synliggjør de ulike synspunktene i Luftfartsutvalget hvilke hensyn som står mot hverandre. Også i dette utvalget er synspunktene delte. På den ene siden er noen av medlemmene opptatt av at faste ansettelser i den virksomhet hvor arbeid utføres gir det beste grunnlaget for tillit, samarbeid og gode arbeidsforhold. En utvikling i retning av stadig større oppsplitting og fragmentering av virksomhet kan undergrave hovedregelen om fast, direkte ansettelse mellom en arbeidsgiver og arbeidstaker som den norske arbeidslivsmodellen bygger på. På den andre siden er andre medlemmer opptatt av at det arbeidsrettslige regelverket ikke skal være til hinder for virksomheters valg av fornuftige og kostnadseffektive virksomhetsmodeller, også av hensyn til mulig utflagging og tap av arbeidsplasser. Utfordringen ligger i å sørge for at det arbeidsrettslige regelverket balanserer hensynet til virksomhetens eiers valg av kostnadseffektive virksomhetsmodeller opp mot hensynet til arbeidstakers vernebehov.
+
+Utvalget har vurdert om det er behov for en generell utvidelse av arbeidsgiveransvaret i konsern. *Utvalget* har kommet til at det ikke vil foreslå en slik utvidelse av arbeidsgiveransvaret. Utvalget har imidlertid en noe ulik begrunnelse for denne konklusjonen.
+
+*Utvalgets flertall, medlemmene Fougner, Dahle, Kastet, Olsen, Salvanes, Stokland, Sverdrup Svendsen og Tinnlund* viser til at dette utvalget ikke fullt ut har tatt stilling til på hvilken måte nye selskapsstrukturer og avtalerelasjoner mellom virksomheter kan utfordre maktrelasjonen mellom arbeidsgiver og arbeidstakerne. Ulike virksomhetsorganiseringer, for eksempel der arbeidstakere flyttes nedover i en selskapsstruktur, kan gjøre regler om medbestemmelse og medvirkning mindre relevante og effektive. De ansatte får ikke drøftet og forhandlet med den som sitter på den reelle beslutningsmyndigheten. I en litt større sammenheng kan slike måter å organisere virksomheter på føre til en maktforskyvning og mindre rettferdig fordeling av den samlede verdiskapning i bedriftene. Det kan slik sett svekke tilhørigheten mellom eiere og ansatte, og forpliktelsen til å arbeide mot felles mål. Medbestemmelse, forhandlinger og rettferdig fordeling er avgjørende for at arbeidstakere skal få en mulighet til å påvirke egen arbeidshverdag og ta del i verdiskapningen og utviklingen av samfunnet mer generelt. Forvitring av slike institusjoner vil utfordre den norske modellen. For *utvalgets flertall* er det sentralt at slike forhold drøftes i en bredere sammenheng enn hva kunnskapsgrunnlaget som har vært tilgjengelig har tillatt. *Utvalgets flertall* anmoder om at disse forholdene utredes videre.
+
+*Flertallet* viser til at noen av utfordringene for arbeidsforhold som man ser gjennom fragmentering av virksomheter, til dels kan løses gjennom andre tiltak enn en generell utvidelse av hele arbeidsgiveransvaret. Det vises i denne sammenheng særlig til forslag om reguleringer rundt innleie og entreprise i kapittel 13 og forslag knyttet til medvirkning i konsern i kapittel 14. Som det fremgår nedenfor i punkt 11.3.3, foreslår *flertallet* også å utvide visse aspekter av arbeidsgiveransvaret i konsern knyttet til stillingsvern.
+
+*Utvalgets flertall, medlemmene Fougner, Dahle, Kastet, Olsen, Salvanes, Stokland, Sverdrup Svendsen og Tinnlund* foreslår også en mindre språklig endring av arbeidsgiverdefinisjonen i tråd med utvalgets forslag knyttet til arbeidstakerdefinisjonen, jf. kapittel 10. *Flertallet* foreslår en slik endret ordlyd i § 1-8 andre ledd:
+
+\(2\) Med arbeidsgiver menes i denne lov enhver som har ansatt arbeidstaker, *jf. første ledd*. Det som i denne lov er bestemt om arbeidsgiver, skal gjelde tilsvarende for den som i arbeidsgivers sted leder virksomheten.
+
+*Mindretallet, medlemmene Almestrand, Brandshaug Dale, Juliussen og Spjelkavik,* har en annen begrunnelse enn resten av utvalget for hvorfor det ikke er behov for en generell utvidelse av lovens arbeidsgiverdefinisjon. Spørsmålet er grundig utredet flere ganger tidligere, og kunnskapsgrunnlaget tilsier ikke behov for verken utvidelse av begrepet eller at spørsmålet utredes ytterligere nå. I Ot.prp. nr. 49 (2004–2005) side 76 uttales det blant annet at en generell utvidelse ville bli en «(…) svært vanskelig bestemmelse å håndtere i praksis. Det er et stort mangfold av ulike virksomhetsorganiseringer, og beslutningsstrukturene kan være kompliserte og ikke nødvendigvis gjennomskuelige».
+
+*Mindretallet* er enig i begrunnelsene for hvorfor forslaget ikke tidligere har fått gjennomslag. Det vises også til flertallets vurdering i Arbeidslivslovutvalget i punkt 10.7.1 i NOU 2004: 5, som gikk i samme retning.
+
+*Mindretallet* viser til at et generelt delt arbeidsgiveransvar innenfor konsern vil innebære en betydelig utvidelse av arbeidsgiveransvaret. Foreliggende rettspraksis gjelder delt ansvar for visse sider av arbeidsgiveransvaret, typisk stillingsvernet. En generell deling av arbeidsgiveransvaret ville også omfattet for eksempel arbeidsgiverplikter knyttet til helse, miljø- og sikkerhet, arbeidstid, straff mv. *Mindretallet* peker på at det vil kunne skape usikkerhet rundt hvem som er rette pliktsubjekt. Arbeidsgiveransvar innebærer et stort rettslig ansvar, herunder både privatrettslige og offentligrettslige plikter. Sistnevnte innebærer at Arbeidstilsynet kan føre tilsyn og rette pålegg mot arbeidsgiver ved brudd på bestemmelsene. Enkelte bestemmelser er også ilagt straffansvar ved brudd. Det er derfor avgjørende at plasseringen av arbeidsgiveransvaret er så klart og tydelig som mulig, både av hensyn til arbeidstaker og arbeidsgiver. Uklarhet kan både virke ansvarspulveriserende og konfliktskapende, og dermed skape unødvendige tvister og prosesser rundt hvilket rettssubjekt som har hvilket ansvar.
+
+Etter *mindretallets* vurdering ivaretar lovens arbeidsgiverbegrep hensynet til forutsigbarhet og klarhet gjennom det formelle utgangspunktet om at arbeidsgiver er arbeidstakers kontraktsmotpart. Gjeldende rett innebærer at ansvaret som den klare hovedregel ligger hos det enkelte rettssubjektet, noe som sørger for tydelighet rundt hvem som har ansvaret. Dette sikrer videre at det arbeidsrettslige regelverket kan fungere effektivt, noe som både er til fordel for arbeidstakere og arbeidsgivere.
+
+Arbeidsgiverbegrepet og arbeidstakerbegrepet vil naturlig speile hverandre i og med at det er arbeidsavtalen mellom arbeidsgiver og arbeidstaker som etablerer arbeidsforholdet.
+
+Dagens arbeidsgiverbegrep har en tydelig utforming samtidig som det gir rom for utvikling gjennom rettspraksis, ikke bare i saker som direkte gjelder selve arbeidsgiverbegrepet, men også i rettstvister der arbeidstakerbegrepet må tolkes. En videreutvikling av arbeidstakerbegrepet vil dermed gjerne samtidig innebære en videreutvikling av arbeidsgiverbegrepet. Etter *mindretallets* syn er dagens definisjon godt egnet til å møte et fremtidig arbeidsliv.
+
+*Mindretallet* kan ikke se at flertallets forslag om å stryke en del av dagens definisjon gjør begrepet mer tydelig. Dagens definisjon er allerede kortfattet og enkel, og byr etter det mindretallet kjenner til ikke på tolkningsproblemer. Det å endre ordlyden uten betydning for meningsinnholdet, kan bidra til uklarheter og spørsmål hos de som skal anvende loven.
+
+*Mindretallet* mener på denne bakgrunnen at gjeldende definisjon av arbeidsgiverbegrepet i § 1-8 bør beholdes.
+
+### Utvidet arbeidsgiveransvar knyttet til stillingsvern
+
+#### Flertallets forslag
+
+I stedet for å foreslå en regel om et generelt utvidet arbeidsgiveransvar i konsern, mener *utvalgets flertall,* *medlemmene Fougner, Dahle, Kastet, Olsen, Salvanes, Stokland, Sverdrup Svendsen og Tinnlund* at det kan være grunn til å vurdere om *visse sider* ved arbeidsgiveransvaret bør deles mellom flere selskaper i et konsern. Etter *flertallets* vurdering er det særlig rettigheter knyttet til stillingsvernet som er relevant å vurdere. *Flertallet* ser at virksomhetsorganisering i konsern og andre tett integrerte foretaksstrukturer potensielt kan ha konsekvenser for de ansattes stilling og rettigheter. Der virksomheter splittes opp og organiseres som konsern med flere mindre datterselskaper, vil omorganiseringen virke direkte inn på arbeidstakeres rettigheter, ved at «virksomheten» som rettighetene knyttes til, blir mindre. Ved en eventuell nedbemanning, vil arbeidstakers stillingsvernsrettigheter knyttet til annet passende arbeid og fortrinnsrett kun gjelde i den mindre, nye virksomheten. En utvidelse av disse pliktene til å gjelde i større deler av konsernet, kan slik være med på å gjenopprette balansen.
+
+Det vises i denne sammenheng også til at det nordiske kunnskapsprosjektet (Hotvedt 2020b) anbefaler en tilnærming i denne retningen, nemlig å tydeliggjøre hvilke rettssubjekter som har ansvar for hvilke arbeidsgiverplikter og funksjoner:
+
+The legislatures could consider taking the initiative to develop a principled and general approach on how to allocate employer responsibilities, for example by clarifying which responsibilities should rest with the contractual employer and which responsibilities should be related to various employer functions.
+
+Etter *flertallets* vurdering er det særlig bestemmelsene om plikten til å tilby annet passende arbeid i § 15-7 andre ledd og bestemmelsen om fortrinnsrett i § 14-2 som peker seg ut når det gjelder utvidelse av arbeidsgiveransvar knyttet til stillingsvernet ved nedbemanninger. Disse vil behandles nedenfor, henholdsvis i punkt 11.3.3.2 og 11.3.3.3. *Flertallet* foreslår videre å lovfeste den ulovfestede læren om delt arbeidsgiveransvar, jf. punkt 11.3.3.4. Her vil en lovfesting av gjeldende rett tydeliggjøre at delt arbeidsgiveransvar unntaksvis kan statueres der et annet rettssubjekt har utøvd arbeidsgiverfunksjoner. Delt ansvar er i disse tilfellene også knyttet til stillingsvernet.
+
+#### Plikten til å tilby annet passende arbeid i § 15-7 andre ledd
+
+Plikten til å tilby annet passende arbeid i § 15-7 andre ledd, er en del av saklighetsvurderingen knyttet til oppsigelse begrunnet i virksomhetens forhold. Dersom en oppsigelse skyldes driftsinnskrenkning eller rasjonaliseringstiltak, er den ikke saklig begrunnet dersom arbeidsgiver har «annet passende arbeid» i virksomheten å tilby arbeidstaker. Bestemmelsen er sammen med fortrinnsrettsregelen i § 14-2 en viktig del av stillingsvernet ved nedbemanning.
+
+Om plikten til å tilby annet passende arbeid står det i Ot.prp. nr. 41 (1975–76) side 72 blant annet at:
+
+Regelen innebærer ikke at arbeidsgiveren skal ha plikt til å opprette en ny stilling som det ikke er behov for, men at han har plikt til å omplassere vedkommende, hvis det er en passende ledig stilling eller et udekket arbeidsbehov. Hva som i denne forbindelse skal anses som passende arbeid, må bli gjenstand for en helhetsvurdering, hvor ikke minst arbeidstakerens egen vurdering må spille inn.
+
+*Utvalgets flertall, medlemmene Fougner, Dahle, Kastet, Olsen, Salvanes, Stokland, Sverdrup Svendsen og Tinnlund* mener at det er grunn til å vurdere å utvide plikten til å tilby annet passende arbeid i § 15-7 andre ledd. *Flertallet* peker på at plikten til å tilby annet passende arbeid, slik regelen er utformet i dag, som den klare hovedregel er begrenset til å gjelde innenfor arbeidsgivers virksomhet.
+
+*Utvalgets flertall* har vurdert om plikten til å tilby annet passende arbeid bør utvides til generelt å gjelde i konsern og andre konsernliknende forhold. Strategiske beslutninger om for eksempel nedlegging, rasjonalisering, sammenslåinger og flytting av virksomhet treffes ikke nødvendigvis av den formelle arbeidsgiveren. I konsern har morselskapet bestemmende innflytelse over sine datterselskaper, og kan dermed ha betydelig makt over virksomhetsbeslutninger som berører ansatte i andre deler av konsernet. Videre viser *flertallet* til den store økningen i konserndannelser, som nå innebærer at om lag halvparten av den norske arbeidsstokken er ansatt i konsern.
+
+Etter *flertallets* vurdering er et grunnleggende element i arbeidsgiveransvaret at det skal være samsvar mellom innflytelse og ansvar. I relasjon til stillingsvern innebærer en slik tilnærming at det rettssubjektet som reelt sett treffer de beslutningene som leder til at arbeidstaker står i fare for å miste sin stilling, også må bære ansvaret for beslutningen. I noen tilfeller er det den enkelte arbeidsgiver eller virksomhet som treffer slike beslutninger, også i konsern. I andre tilfeller treffes slike beslutninger på nivået over, typisk av morselskapet. Ved å utvide arbeidsgiveransvaret knyttet til plikten til å tilby annet passende arbeid, vil man dermed søke å ansvarliggjøre det nivået eller rettssubjektet i organisasjonsstrukturen som reelt sett treffer de avgjørende beslutningene. Formålet med en slik utvidelse vil være å styrke arbeidstakers vern når arbeidsgiver er en del av et større økonomisk og organisatorisk fellesskap slik som i konsern. Flertallet viser til at mange arbeidsgivere som er del av et konsern også i dag rutinemessig undersøker om det kan finnes ledig stilling andre steder i konsernet før man går til oppsigelse.
+
+*Flertallet* viser til at en slik utvidelse kun vil være aktuell i de tilfellene hvor det er fastslått at arbeidsgiver selv ikke har annet passende arbeid å tilby. Det vil således være en «sekundær» rettighet. Utvidelsen er ikke ment å gå foran arbeidsgivers plikt til å tilby annet passende arbeid til arbeidstakere i «sin» virksomhet.
+
+*Utvalgets flertall* har vurdert hvordan en slik bestemmelse eventuelt kan innrettes. Ett spørsmål er hvilke virksomheter i et konsern bestemmelsen skal utvides til. En mulighet er at utvidelsen kun gjelder det selskapet som har, eller rent faktisk utøver, bestemmende innflytelse, det vil si morselskapet. Et morselskap kan imidlertid være et styringsselskap med få ansatte, som dermed kan gjøre utvidelse av plikten til å tilby annet passende arbeid illusorisk. Dersom det skal ligge en realitet i utvidelsen mener *utvalgets flertall* at plikten til å tilby «annet passende arbeid» i utgangspunktet bør gjelde alle virksomheter i et konsern.
+
+Det kan være naturlig å ta utgangspunkt i selskapslovgivningens definisjon av konsern, jf. for eksempel aksjeloven § 1-3, hvor det fremkommer at et konsern foreligger når et morselskap har «bestemmende innflytelse» over ett eller flere andre datterselskap. I tillegg kan det etter *flertallets* vurdering være naturlig at tilsvarende gjelder for selskaper som er knyttet sammen i konsernliknende forhold gjennom felles eierinteresser eller felles ledelse uten at det foreligger et konsern i aksjelovens forstand, jf. for eksempel aksjeloven § 6-5 andre ledd, som inngår i bestemmelsen vedrørende ansattes rett til å velge styremedlemmer i konsernforhold. *Flertallet* viser til at en tilsvarende tilnærming er brukt i arbeidsmiljøloven § 15-3 sjette ledd som regulerer beregning av oppsigelsesfristens lengde i tilfeller hvor arbeidstaker har vært ansatt i «annen virksomhet innenfor konsern som arbeidsgiver tilhører eller innenfor annen gruppe av virksomheter som er knyttet sammen gjennom eierinteresser eller felles ledelse på en slik måte at det er naturlig å se ansettelsesforholdene i sammenheng».
+
+*Flertallet* foreslår således at utvidelsen av plikten til å tilby annet passende arbeid ikke kun bør være begrenset til konsernforhold slik det er definert i selskapslovgivningen, men at utvidelsen også omfatter andre grupper av virksomheter som er «knyttet sammen gjennom eierinteresser eller felles ledelse». Siktemålet er å omfatte konsernliknende forhold, selv om slike grupperinger ikke er konsern i selskapsrettslig forstand.
+
+Når det gjelder hva som menes med gruppe av virksomheter som er «knyttet sammen gjennom eierinteresser eller felles ledelse» vil det være hensiktsmessig å ta utgangspunkt i hva som følger av blant annet aksjeloven § 6-5 andre ledd. Vedrørende forståelsen av denne bestemmelsen fremgår det av Aarbakke mfl. (2017, kapittel 6) blant annet at:
+
+\[…\] en foretaksgruppe kan være knyttet sammen gjennom eierinteresser hvor flere sideordnede selskaper eies av de samme interesser. Eierinteressen kan ligge hos personlige eller upersonlige rettssubjekter, f.eks. utenlandsk aksjeselskap, samvirkelag, ansvarlig selskap, stiftelse, forening, stat, kommune eller enkeltperson, jf. Andenæs side 406 og G. Granden: Styrearbeid (2013) side 211 flg. Sammenknytting gjennom felles ledelse omfatter også tilfeller hvor flertallet i de styrende organer består av de samme personer eller representanter for de samme interesser. Det er ingen forutsetning at det ene foretaket står i et overordnet forhold til det annet, foretakene kan være sideordnet, jf. Ot.prp. nr. 19 (1974–75) side 79 og Andenæs side 391–393.
+
+Det vises til at også kommuner, fylkeskommuner og staten kan ha helt eller delvis eierskap i en del virksomheter. Dersom offentlig eid virksomhet omfattes av arbeidsmiljøloven og av virkeområdet til forslaget, vil en nedbemanning i en slik virksomhet innebære at det må vurderes om det finnes «annet passende arbeid» innenfor konsernet eller gruppen. Dette kan for det første omfatte kommuner eller kommunene som eier selskapet eller fylkeskommunen. I de tilfeller staten er eier vil forslaget kunne innebære at en arbeidstaker som har stillingsvern etter arbeidsmiljøloven skal tilbys «annet passende arbeid» i staten og således bli omfattet av statsansattelovens stillingsvernsregler. Sett hen til at dette er to ulike regelsett, bør forslaget avgrenses mot staten, slik at kretsen av virksomheter som utgjør konsernet eller gruppen kun gjelder virksomheter som omfattes av arbeidsmiljølovens anvendelsesområde. Utover denne avgrensningen ser ikke flertallet prinsipielle grunner til å avgrense plikten til eksempelvis kun å gjelde for privat eid virksomhet, og ikke offentlig eid virksomhet.
+
+*Flertallet* ser imidlertid at en utvidelse av plikten til å tilby annet passende arbeid kan reise noen særlige spørsmål for offentlig eid virksomhet. *Flertallet* ser at den konkrete anvendelsen av konserndefinisjonen, samt gruppealternativet i selskapslovgivningen, i alle fall i teorien, kan by på enkelte grensedragninger. Etter *flertallets* syn er imidlertid ikke disse større eller prinsipielt annerledes enn annen lovtolkning og må eventuelt overlates til domstolen i det konkrete tvilstilfellet å ta stilling til. Men som *flertallet* kommer tilbake til nedenfor, foreslås det at arbeidsgiver kan gjøre avgrensninger med hensyn til rekkevidden av plikten til å tilby annet passende arbeid basert på saklige kriterier. Dette kan også innebære saklige avgrensninger med hensyn til eksempelvis hvilke eierkommuner som omfattes av plikten til å tilby annet passende arbeid.
+
+Forslaget som her er skissert vil innebære at arbeidsgiver i en nedbemanningsprosess, sammen med øvrige virksomheter i konsernet/gruppen, må undersøke om det er annet passende arbeid å tilby arbeidstakeren innenfor hele konsernet/gruppen, dersom det ikke er annet passende arbeid å tilby i arbeidsgivers virksomhet. Hvis det finnes annet passende arbeid i konsernet/gruppen, skal stilling tilbys arbeidstakeren. Stillingen som tilbys vil således kunne være i et annet rettssubjekt enn hos arbeidsgiver.
+
+Kravet til hva som skal anses som «annet passende arbeid» i denne sammenheng må vurderes konkret og med utgangspunkt i de samme vurderingstemaene som etter gjeldende § 15-7 andre ledd. Det vises til at det ikke vil være «annet passende arbeid» å tilby en stilling som er geografisk plassert slik at det er urealistisk at arbeidstakeren har mulighet til å akseptere tilbudet om stillingen.
+
+*Utvalgets flertall* ser imidlertid også innvendinger mot en utvidelse av plikten til å tilby annet passende arbeid til å gjelde hele konsernet eller gruppen. *Flertallet* viser til at en slik regel kan bli administrativt krevende i store konserner eller store grupper av virksomheter. Oppsigelser i forbindelse med nedbemanning innebærer allerede omfattende prosesser, hvor det gjelder en rekke materielle og prosessuelle krav i både lov og tariffavtale.
+
+*Flertallet* mener derfor at det innenfor konsernet/gruppen, bør kunne åpnes for at arbeidsgiver kan gjøre avgrensninger med hensyn til rekkevidden av plikten til å tilby «annet passende arbeid» basert på saklige kriterier. Dette vil særlig være aktuelt i store konserner eller store grupper av virksomheter. Arbeidsgiver må i så fall definere saklige kriterier i samråd med arbeidstakernes representanter. En mulig saklig avgrensning er for eksempel innenfor virksomheter i konsernet/gruppen som det kan være rimelig å anta at kan ha annet passende arbeid, fordi virksomheten har tilsvarende arbeidsoppgaver eller ansatte innenfor samme arbeidstakerkategori som den eller de arbeidstakerne det gjelder. En annen mulig saklig avgrensning i store konserner kan for eksempel være geografisk. I tillegg kan det for offentligeide virksomheter være behov for, i de tilfeller der et rettssubjekt eies av for eksempel mange kommuner, at det kan gjøres saklige avgrensninger med hensyn til hvilke eierkommuner som omfattes av plikten til å tilby annet passende arbeid.
+
+Utvidelsen av arbeidsgiveransvaret til konsern eller gruppe gjelder kun selve plikten til å tilby annet passende arbeid, og ikke den øvrige saklighetsvurderingen av oppsigelsen eller interesseavveiningen ved oppsigelse begrunnet i virksomhetens forhold. Avveiningen mellom virksomhetens behov og de ulemper oppsigelsen påfører den enkelte arbeidstaker, jf. § 15-7 andre ledd annet punktum, er følgelig ikke foreslått endret med dette forslaget.
+
+Et særskilt spørsmål er om arbeidstaker som ikke aksepterer et tilbud om annet passende arbeid i konsernet/gruppen, likevel bør ha fortrinnsretten i behold i konsernet/gruppen. Det vises til forslaget om å utvide fortrinnsretten i § 14-2 tilsvarende til konsern/gruppe, jf. punkt 11.3.3.3*. Flertallet* peker på at det kan være ulike grunner til at arbeidstaker takker nei til en stilling i andre virksomheter i konsernet/gruppen som isolert sett oppfyller kravet til «annet passende arbeid». Dette kan tale for at fortrinnsretten ikke bør bortfalle. Samtidig vil en utvidelse i plikten til å tilby annet passende arbeid til konsern eller gruppe medføre en viktig utvidelse av arbeidstakers rettighet. *Flertallet* mener at hvis arbeidstaker velger å takke nei til annet passende arbeid i konsernet/gruppen, bør fortrinnsretten i konsernet/gruppen bortfalle. *Flertallet* viser til at den ordinære fortrinnsretten i arbeidsgivers virksomhet likevel vil være i behold, jf. gjeldende regel i § 14-2. *Flertallet* legger til grunn at en fortrinnsrett i arbeidsgivers virksomhet i all hovedsak vil fremstå som det foretrukne alternativet for arbeidstaker. *Flertallet* foreslår at det inntas en presisering om at fortrinnsretten i konsern/gruppe bortfaller hvis arbeidstaker ikke aksepterer tilbud om annet passende arbeid i forslaget som omtales i punkt 11.3.3.3 nedenfor.
+
+*Utvalgets flertall* viser til at konserner/grupper ofte har tilknytning til flere land. Forslaget til utvidelse av bestemmelsen vil imidlertid måtte ha det samme geografiske virkeområde som arbeidsmiljøloven for øvrig, det vil si i utgangspunktet på norsk territorium. I praksis vil bestemmelsen dermed kun ha bindende virkning for selskaper i Norge.
+
+*Utvalgets flertall* har følgende forslag til nytt tredje punktum i § 15-7 andre ledd:
+
+*Tilhører arbeidsgiver et konsern eller en gruppe av virksomheter som er knyttet sammen gjennom eierinteresser eller felles ledelse, er ikke oppsigelsen saklig begrunnet dersom det er annet passende arbeid å tilby arbeidstaker innenfor konsernet eller gruppen.*
+
+*Mindretallet*, *medlemmene Almestrand, Brandshaug Dale, Juliussen og Spjelkavik,* støtter ikke en utvidelse av plikten til å tilby annet passende arbeid for selskaper i konsern/gruppe av virksomheter som er knyttet sammen gjennom eierinteresser eller felles ledelse.
+
+Retten til å ansette er en sentral del av arbeidsgivers styringsrett, og det bør derfor vises til sterke behov og et klart grunnlag for å begrense denne. Slike foreligger ikke.
+
+Forslaget bryter dessuten med den grunnleggende selskapsrettslige og arbeidsrettslige betydningen av virksomheten som selvstendig rettssubjekt.
+
+Det er en rekke tungtveiende grunner som taler mot en generell utvidelse av lovens arbeidsgiverdefinisjon, se mindretallets merknader i punkt 11.3.2 ovenfor. Til tross for det mener flertallet at sentrale sider ved arbeidsgiveransvaret knyttet til stillingsvern skal utvides. *Mindretallet* viser til at verken kunnskapsgrunnlaget eller Høyesterett i Norwegian-dommen fremhever stillingsvernet som en utfordring i konsernforhold eller for grupper av virksomheter som nevnt.
+
+Flertallets forslag til lovendring vil treffe alle former for konserner/grupper av virksomheter – også de der det er liten eller ingen sammenheng mellom den aktivitet som drives i de enkelte selskapene.
+
+En lovfestet plikt er noe ganske annet enn at noen selskaper også i dag – når de anser det hensiktsmessig – undersøker om det er ledige stillinger i andre konsernselskaper ved overtallighet.
+
+*Mindretallet* ser også flere prinsipielle og praktiske utfordringer med forslaget. Plikten til å tilby annet passende arbeid skal etter flertallets forslag påligge arbeidsgiver, mens det altså er et annet selskap som skal ansette den overtallige arbeidstakeren. Det innebærer at det er ulike rettssubjekter som involveres. Arbeidsgiver/det «primære» pliktsubjektet er ikke i posisjon til å vurdere det nærmere innholdet i den/de alternative stillingen(e), hvilke kvalifikasjoner som kreves eller hvilken opplæring som er nødvendig. Derimot er det arbeidsgiver som kjenner arbeidstakers kvalifikasjoner. Det reiser også spørsmål om hvilket rettssubjekt som har ansvar for nødvendig opplæring, og hvilket selskap som skal beslutte om stillingen er «passende» eller ikke.
+
+Bestemmelsen vil videre være klart prosesskapende. Med det store tvistepotensialet som allerede ligger i bestemmelsene om oppsigelser på grunn av virksomhetens forhold, er dette både samfunns- og bedriftsøkonomisk lite gunstig. Det er dessuten allerede i dag en utfordrende vurdering hva som er «passende» arbeid. Selskaper som inngår i et konsern, vil gjerne være forskjelligartede og ha ulik produksjon/virksomhet. Dette gjør vurderingen av hva som er «passende» ytterligere komplisert.
+
+*Mindretallet* er av den oppfatning at det er uavklarte tvistespørsmål som ikke er vurdert. Som ett eksempel kan det oppstå en mulig konflikt mellom en tilbudsplikt i konsern og det enkelte selskap; for eksempel nedbemanner selskap A, og selskap B har plikt til å tilby annet passende arbeid. Selskap B er også i en nedbemanningsprosess, men ikke kommet så langt som selskap A. Mulighetene for omplassering/løsning i «selskap B-prosessen» hindres/vanskeliggjøres av tilbudsplikt i selskap A. Slike eksempler viser at forslaget om plikt til å tilby annet passende arbeid ikke nødvendigvis styrker stillingsvernet til ansatte i konsern/gruppe av virksomheter totalt sett. Tvert imot kan ansatte i de ulike selskapene oppleve en svekket posisjon og mindre forutsigbar situasjon ved omorganiseringer i de enkelte selskapene som inngår i konsernet eller gruppen. Tilsvarende vil gjelde for de ansatte i eierkommunene til interkommunale selskaper.
+
+*Mindretallet* mener forslaget vil hindre fremdrift i omstillingsprosesser som allerede i dag er tid- og ressurskrevende. Undersøkelser i flere selskaper/kommuner vil nødvendigvis medføre at prosesser drar ut i tid, kanskje med det resultat at det ikke avdekkes stillinger. Dette innebærer kostnader og ulemper for både virksomhetene og de involverte ansatte.
+
+#### Fortrinnsrett ved overtallighet i § 14-2
+
+En annen bestemmelse som knytter seg til arbeidstakers stillingsvern ved nedbemanninger, er regelen om fortrinnsrett til ny ansettelse for arbeidstaker som er sagt opp på grunn av virksomhetens forhold i § 14-2.
+
+Bestemmelsen innebærer at arbeidstaker som er sagt opp på grunn av virksomhetens forhold har fortrinnsrett til ny ansettelse i samme virksomhet, med mindre det gjelder en stilling arbeidstakeren ikke er kvalifisert for. Fortrinnsretten gjelder ansettelse «i samme virksomhet», jf. § 14-2 første ledd, det vil si i den virksomhet arbeidstaker tidligere var ansatt i og ble oppsagt fra. Bestemmelsen gjelder følgelig ikke i andre konsernselskaper.
+
+*Flertallet, medlemmene Fougner, Dahle, Kastet, Olsen, Salvanes, Sverdrup Svendsen, Stokland og Tinnlund* viser til at stillingsvernet som følger av § 15-7 andre ledd, jf. ovenfor, og § 14-2, på mange måter forfølger samme formål, nemlig å sikre et effektivt stillingsvern. For fortrinnsretten uttalte departementet i Ot.prp. nr. 49 (2004–2005) punkt 17.1 at «det viktigste formålet med bestemmelsen er å forhindre at virksomheten benytter seg av kortvarige driftsinnskrenkninger for å skifte ut enkelte arbeidstakere, i tilfeller hvor dette ikke kunne skjedd ved saklig oppsigelse». Etter *flertallets* vurdering bidrar bestemmelsen i § 15-7 andre ledd til det samme. Det vises i denne sammenheng også til HR-2018-880-A (Linjebygg) premiss 32 hvor det står at «arbeidsgiverens plikt til å vurdere om det finnes annet passende arbeid å tilby dem som ellers står i fare for å bli sagt opp er – sammen med fortrinnsretten ved nyansettelser, jf. arbeidsmiljøloven § 14-2 – en viktig del av stillingsvernet ved nedbemanninger». Forskjellen på bestemmelsene er imidlertid tidspunktet for når retten inntrer. Retten til annet passende arbeid i § 15-7 andre ledd slår inn i forbindelse med selve nedbemanningsprosessen, i tilknytning til saklighetsvurderingen og før oppsigelse gis. Fortrinnsretten etter § 14-2 gjelder fra oppsigelsestidspunktet og i ett år fra oppsigelsesfristens utløp.
+
+*Utvalgets flertall* viser til sin begrunnelse for hvorfor § 15-7 andre ledd bør vurderes utvidet i konsern eller grupper av virksomheter, og viser til at det kan være naturlig å vurdere tilsvarende utvidelse når det gjelder den etterfølgende fortrinnsretten i § 14-2.
+
+*Utvalgets flertall* viser til sammenligning til at det i staten gjelder en såkalt ekstern fortrinnsrett, som innebærer at statsansatte som blir sagt opp på grunn av virksomhetens forhold, har fortrinnsrett til annen passende stilling i staten, jf. statsansatteloven § 24. Fortrinnsretten er med andre ord ikke begrenset til det rettssubjektet den statsansatte opprinnelig var ansatt i, men gjelder i hele staten. Fortrinnsrett i staten har eksistert siden den første tjenestemannsloven, og er videreført i statsansatteloven, som trådte i kraft i 2017, jf. Prop. 94 L (2016–2017) punkt 16.4.1.
+
+Dersom det skal innføres en utvidet fortrinnsrett innenfor konsern/gruppe, må det vurderes hvordan en slik bestemmelse eventuelt skal innrettes.
+
+Når det gjelder virkeområde, altså virksomhetskretsen, mener *utvalgets flertall* at det vil være naturlig å oppstille samme regel som for en utvidelse i § 15-7 andre ledd, det vil si konsern eller grupper av virksomheter som er knyttet sammen gjennom eierinteresser eller felles ledelse. Det vises til omtalen over i punkt 11.3.3.2.
+
+*Flertallet* mener videre at en fortrinnsrett i konsern eller grupper av virksomheter, herunder selskaper som er eid av flere ulike offentlige virksomheter, må gjelde i tillegg til fortrinnsretten som gjelder i egen virksomhet, jf. § 14-2 første ledd. Det er viktig at fortrinnsretten til stilling i egen virksomhet ikke uthules som følge av en konsernfortrinnsrett.
+
+*Flertallet* viser videre til at fortrinnsrett i konsern/gruppe ellers kan innrettes på samme måte og med samme vilkår som fortrinnsrett i egen virksomhet. Dette innebærer for det første at fortrinnsretten kun bør gjelde for stillinger arbeidstakeren er «kvalifisert for», jf. første ledd. For det andre betyr det at fortrinnsretten bør gjelde for arbeidstaker som har vært ansatt i virksomheten i til sammen minst 12 måneder i de to siste år, og at retten gjelder fra oppsigelsestidspunktet og i ett år fra oppsigelsesfristens utløp, jf. § 14-2 tredje og fjerde ledd. For det tredje innebærer det at fortrinnsretten i konsern/gruppe bør gjelde rett til «ny ansettelse». Hva som er å anse som «ny ansettelse» må forstås på samme måte som gjeldende § 14-2 første ledd.
+
+*Flertallet* har særskilt vurdert om en utvidet fortrinnsrett i konsern/gruppe også bør gjelde i de tilfellene som er nevnt i § 14-2 andre ledd, det vil si fortrinnsrett for midlertidig ansatte som på grunn av virksomhetens forhold ikke får fortsatt ansettelse (med unntak av midlertidig ansatte i vikariat), og for arbeidstaker som har akseptert tilbud om redusert stilling i stedet for oppsigelse.
+
+Når det gjelder fortrinnsretten for midlertidig ansatte er *flertallet* usikker på den praktiske betydningen av bestemmelsen, men viser uansett til de krav om likebehandling av midlertidig ansatte som følger av Rådsdirektiv 1999/70/EF av 28. juni 1999 om rammeavtalen om midlertidig ansettelse inngått mellom EFF, UNICE og CEEP, og foreslår at fortrinnsretten av denne grunn bør gjelde tilsvarende her.
+
+Når det gjelder fortrinnsrett for arbeidstaker som har akseptert tilbud om redusert stilling i stedet for oppsigelse, viser *flertallet* til at slik fortrinnsrett gjelder «en høyere stillingsbrøk, eventuelt full stilling, ved nyansettelser i virksomheten», jf. Ot.prp. nr. 49 (2004–2005) punkt 17.1.1. Etter *flertallets* vurdering kan en fortrinnsrett i konsern i utgangspunktet bli upraktisk i slike tilfeller, da arbeidstaker presumptivt allerede fyller en deltidsstilling i en annen virksomhet i konsernet. Samtidig vil en fortrinnsrett til en fulltidsstilling i en annen virksomhet i konsernet/gruppen, kunne oppfattes som mer attraktivt for arbeidstakeren enn deltidsstillingen vedkommende allerede har. Arbeidstakeren vil i slike tilfeller kunne velge å si opp sin deltidsstilling, og takke ja til en større stilling i et annet konsernselskap. Dette vil også samsvare med krav om likebehandling av deltidsansatte som følger av Rådsdirektiv 97/81/EF av 15. desember 1997 om rammeavtalen om deltidsarbeid inngått mellom UNICE, CEEP og EFF. *Utvalgets flertall* mener at fortrinnsretten bør gjelde også i slike tilfeller.
+
+En praktisk side ved fortrinnsrettsbestemmelsene er hvordan oppsagte arbeidstakere får kunnskap om ledige stillinger, slik at vedkommende får søkt på stillingen og påberopt fortrinnsretten. I motsetning til i offentlig sektor, er det i det private næringslivet ikke plikt til å utlyse stillinger. For fortrinnsretten i egen virksomhet er det i tidligere forarbeider uttalt at arbeidstakeren bør «gi opplysninger om sin adresse, slik at han kan nås med et eventuelt tilbud om arbeid. Arbeidsgiver vil ikke ha plikt til å etterlyse vedkommende», jf. Ot.prp. nr. 41 (1975–76) side 79. *Utvalgets flertall* mener det vil gå for langt å skulle pålegge alle virksomheter i et konsern/gruppe en opplysningsplikt om ledige stillinger overfor enhver fortrinnsberettiget i konsernet. En løsning kan være at arbeidsgiver spør oppsagt arbeidstaker ved fratreden om vedkommende vil være interessert i eventuelle nye stillinger, også i andre rettssubjekter i konsernet eller i gruppen, og at man finner praktiske løsninger. Digitalisering gir mange muligheter for praktiske løsninger både for registrering og varsling.
+
+*Utvalgets flertall* viser videre til at en problemstilling rundt fortrinnsrett er prioritet mellom flere fortrinnsberettigede, samt prioritet mellom ulike grunnlag for fortrinnsrett.
+
+*Utvalgets flertall* viser til at hvis det er flere fortrinnsberettigede arbeidstakere til en ledig stilling etter § 14-2, fremgår det av bestemmelsens sjette ledd at arbeidsgiver plikter å følge de samme regler for utvelgelse som de som gjelder ved oppsigelser på grunn av driftsinnskrenkning eller rasjonaliseringstiltak, jf. § 15-7 andre ledd. Utvelgelsen må baseres på saklige kriterier som ansiennitet, kvalifikasjoner, personlige forutsetninger mv. Selv om kriteriene ved nedbemanning etter § 15-7 og «oppbemanning» etter § 14-2 skal være like, er det forutsatt i forarbeidene at vekten av de forskjellige kriteriene kan falle ulikt ut, avhengig av om saklighetsvurderingen foretas på oppsigelsestidspunktet (ved nedbemanning) eller tidspunktet for nyansettelse (ved «oppbemanning»), jf. Ot.prp. nr. 50 (1993–94) side 203 og NOU 2004: 5 side 339.
+
+Når det gjelder prioritet mellom de ulike grunnlagene for fortrinnsrett som følger av loven, anses følgende rekkefølge å gjelde i dag (Skjønberg mfl., 2017, side 149):
+
+- Arbeidstakere som er sagt opp på grunn av virksomhetens forhold, jf. § 14-2 første ledd, herunder arbeidstakere som har akseptert tilbud om redusert stilling i stedet for oppsigelse, jf. andre ledd siste punktum.
+
+- Deltidsansattes rett til utvidet stilling, jf. § 14-3 fjerde ledd.
+
+- Midlertidige ansatte (som ikke er i vikariat) som ikke får fortsatt ansettelse på grunn av virksomhetens forhold, jf. § 14-2 andre ledd første punktum.
+
+- Arbeidstakere som har redusert arbeidstid etter § 10-2 fjerde ledd siste punktum.
+
+- Arbeidstakere som gjør gjeldende reservasjonsrett etter § 16-3 i forbindelse med virksomhetsoverdragelse.
+
+Det må tas stilling hvor i prioritetsrekkefølgen konsernfortrinnsretten slår inn. *Flertallet* vektlegger at konsernfortrinnsretten vil utløses overfor andre rettssubjekt enn virksomheten hvor vedkommende tidligere arbeidet. Derfor mener *flertallet* at det vil være naturlig at de fire første grunnlagene for fortrinnsrett i egen (tidligere) virksomhet får prioritet foran konsernfortrinnsretten, men at fortrinnsrett ved reservasjonsrett i forbindelse med virksomhetsoverdragelse bør få lavere prioritet enn konsernfortrinnsretten.
+
+Rettsvirkningene av brudd på reglene om fortrinnsrett fremgår i dag av § 14-4, hvor det heter at «\[d\]ersom retten kommer til at en fortrinnsberettiget skulle vært ansatt i en bestemt stilling, skal retten etter påstand fra den fortrinnsberettigede avsi dom for ansettelse i stillingen, med mindre dette finnes urimelig.» Bestemmelsen viser at pliktsubjektet vil være det rettssubjektet hvor den bestemte stillingen ligger. Dette vil også gjelde ved en konsernfortrinnsrett.
+
+*Flertallet* viser til at konserner/grupper ofte har tilknytning til flere land. Forslaget til utvidet fortrinnsrett vil imidlertid måtte ha det samme geografiske virkeområde som arbeidsmiljøloven for øvrig, det vil si i utgangspunktet på norsk territorium. I praksis vil bestemmelsen dermed kun ha bindende virkning for selskaper i Norge.
+
+Etter dette foreslår *flertallet* følgende ordlyd til en ny bestemmelse i § 14-2 første ledd, nytt andre og tredje punktum:
+
+*Tilhører arbeidsgiver et konsern eller en gruppe av virksomheter som er knyttet sammen gjennom eierinteresser eller felles ledelse, har arbeidstaker i tillegg fortrinnsrett til ny ansettelse i hele konsernet eller gruppen, med mindre det gjelder en stilling arbeidstakeren ikke er kvalifisert for. Fortrinnsrett etter andre punktum bortfaller hvis arbeidstaker ikke aksepterer tilbud om annet passende arbeid etter § 15-7 andre ledd tredje punktum.*
+
+I tillegg foreslås det en endring i § 14-3 fjerde ledd:
+
+Fortrinnsrett etter § 14-2, med unntak av § 14-2 *første ledd andre punktum og* andre ledd første punktum, går foran fortrinnsrett for deltidsansatte.
+
+*Mindretallet,* *medlemmene Almestrand, Brandshaug Dale, Juliussen og Spjelkavik* viser til merknaden over til forslaget om annet passende arbeid, og kan heller ikke se at det er funn i kunnskapsgrunnlaget som tilsier en fortrinnsrett til ledig stilling i selskaper i konsern eller virksomheter som er knyttet sammen gjennom eierinteresser eller felles ledelse. Retten til å ansette er en sentral del av arbeidsgivers styringsrett, og det bør derfor vises til sterke behov og et klart grunnlag for å begrense denne.
+
+Mindretallet vil videre peke på at det i loven i dag eksisterer en rekke ulike former for fortrinnsrett som delvis kan kollidere med hverandre og som inngår i en prioriteringsrekkefølge. Forslaget kompliserer bildet ytterligere.
+
+#### Lovfesting av læren om delt arbeidsgiveransvar
+
+*Utvalgets flertall, medlemmene Fougner, Dahle, Kastet, Olsen, Salvanes, Sverdrup Svendsen, Stokland og Tinnlund* foreslår ingen generell utvidelse av arbeidsgiveransvaret, jf. punkt 11.3.2.
+
+*Flertallet* mener imidlertid at det kan være grunn til å vurdere å lovfeste den ulovfestede læren om delt arbeidsgiveransvar på særskilt grunnlag. Som beskrevet ovenfor i punkt 11.3.2, kan delt arbeidsgiveransvar unntaksvis statueres av domstolene i tilfeller der et annet rettssubjekt enn den kontraktsfestede arbeidsgiver har utøvd arbeidsgiverfunksjoner.
+
+*Flertallet* viser til at på den ene siden kan en slik lovfesting være opplysende for lovens brukere, ved at regelen kan leses direkte i lovteksten. En kodifisering av læren vil dermed synliggjøre at de reelle ansvarsforholdene kan legges til grunn, og dessuten gjøre lovens brukere oppmerksomme på at delt utøvelse av arbeidsgiverfunksjoner etter omstendighetene vil kunne medføre et delt ansvar. En lovfesting vil videre kunne bidra til å tydeliggjøre hvor grensene går, hva som skal til for at regelen inntrer, og hva som eventuelt blir konsekvensene. *Flertallet* viser dessuten til at lovgiver allerede har lovfestet at visse sider av arbeidsgiveransvaret kan være delt mellom flere rettssubjekter. Ansvar for HMS og arbeidstid for innleide arbeidstakere, jf. § 2-2, er eksempler på at to rettssubjekter, både utleier og innleier, har et delt ansvar. Lovfesting av at deler av arbeidsgiveransvaret kan deles er dermed ikke en fremmed tanke. Utvalget viser også til at det i fortalen til Europaparlaments- og rådsdirektiv (EU) 2019/1152 av 20. juni 2019 om tydelige og forutsigbare arbeidsvilkår i Den europeiske union avsnitt 13, står at flere fysiske eller juridiske rettssubjekter i noen tilfeller kan anses som arbeidsgiver, helt eller delvis, men at dette overlates til nasjonal rett:
+
+Several different natural or legal persons or other entities may in practice assume the functions and responsibilities of an employer. Member States should remain free to determine more precisely the persons who are considered to be wholly or partly responsible for the execution of the obligations that this Directive lays down for employers, as long as all those obligations are fulfilled. Member States should also be able to decide that some or all of those obligations are to be assigned to a natural or legal person who is not party to the employment relationship.
+
+På den andre siden kan det ikke utelukkes at en lovfesting av regelen vil kunne ha en viss prosessdrivende effekt. *Flertallet* viser også til at det ikke nødvendigvis er helt enkelt å lovfeste ulovfestet rett, da det ikke alltid er helt klart hva som kan utledes av gjeldende rett. Lovgiver må i slike tilfeller nødvendigvis gjøre noen avgrensninger og presiseringer.
+
+*Flertallet* vurderer i det følgende hvordan en lovfesting av den ulovfestede læren bør innrettes.
+
+Delt arbeidsgiveransvar innebærer at to ulike rettssubjekter deler på visse sider av arbeidsgiveransvaret. Denne normen oppstiller både en vilkårsside, altså hva som skal til for at et annet rettssubjekt får arbeidsgiveransvar i tillegg til den formelle arbeidsgiveren. Normen oppstiller også en rettsvirkningsside, altså hvilke arbeidsgiverfunksjoner det er som i så fall skal deles mellom de to rettssubjektene.
+
+Vilkårene for å statuere delt arbeidsgiveransvar følger av arbeidsmiljølovens forarbeider og av rettspraksis. I arbeidsmiljølovens forarbeider er det lagt til grunn at «flere rettssubjekter kan ha et arbeidsgiveransvar dersom arbeidsgiverfunksjonene har vært delt mellom dem», jf. Ot.prp. nr. 49 (2004–2005) side 74-75. Dette kan være tilfellet dersom flere selskaper reelt har utøvd arbeidsgiverfunksjoner. I forarbeidene er det videre presisert at ansvarsplasseringen skal gi en rimelig grad av samsvar mellom faktisk innflytelse og ansvar, jf. Ot.prp. nr. 49 (2004–2005) side 76-77.
+
+Ved vurderingen av om det foreligger et delt ansvar, vil det være naturlig å se hen til den lovbestemmelsen som regulerer arbeidsgiverplikten som anføres å være delt, for så å vurdere om flere virksomheter har utøvd arbeidsgiverfunksjoner i relasjon til denne. Selv om arbeidsgiverbegrepet som utgangspunkt skal ha den samme betydningen i alle bestemmelsene i arbeidsmiljøloven, vil løsningen kunne bli ulik avhengig av hvilken bestemmelse det er snakk om (Fougner mfl. 2018 § 1-8). Hva som skal til for at vilkåret om å ha utøvd arbeidsgiverfunksjoner er oppfylt, må vurderes i lys av foreliggende rettspraksis.[^140]
+
+I Rt. 1990 side 1126 (Wärtsilä-dommen) ble et morselskap og et datterselskap ansett å ha et delt arbeidsgiveransvar som følge av at begge selskapene hadde utøvd arbeidsgiverfunksjoner. Saken omhandlet stillingsvernet til administrerende direktør datterselskapet. Etter en konkret vurdering av forholdet mellom datterselskapet og morselskapet og de rettigheter og plikter arbeidstakeren hadde overfor morselskapet, kom Høyesterett til at også morselskapet måtte anses som arbeidsgiver i relasjon til stillingsvernet. Høyesterett vektla at arbeidstakeren opprinnelig hadde vært ansatt i morselskapet, og at hans rettigheter og plikter ved overføring til datterselskapet var regulert i avtale med morselskapet. Selv om arbeidstakeren var lønnet av datterselskapet, var hans lønns- og pensjonsforhold regulert gjennom avtale inngått med morselskapet. Det ble også tillagt vekt at arbeidstakeren var forpliktet til å følge de direktiver som til enhver tid ble gitt av morselskapets ledelse, samt at arbeidstakeren hadde mottatt en uformell oppsigelse av morselskapet.
+
+Wärtsilä-avgjørelsen er et eksempel på et tilfelle der det var relativt klart at det forelå et delt arbeidsgiveransvar. Morselskapet hadde utøvd en rekke ulike arbeidsgiverfunksjoner, og disse var utøvd direkte overfor arbeidstakeren. I tillegg var det en avtalemessig forankring mellom arbeidstakeren og morselskapet, og arbeidstakeren hadde tidligere vært ansatt i morselskapet.
+
+Også Rt. 1997 side 623 (PPD-dommen) illustrerer betydningen av å utøve arbeidsgiverfunksjoner, men med motsatt utfall. Saksforholdet var at et interkommunalt Pedagogisk-Psykologisk Distriktssenter la ned senterets skole- og boavdeling. Som følge av nedleggelsen ble de ansatte sagt opp, og de gikk til sak mot både PPD-senteret og samarbeidskommunene. De oppsagte arbeidstakerne anførte at oppsigelsene var usaklige fordi samarbeidskommunene var forpliktet til å tilby dem annet passende arbeid i kommunene, jf. tidligere arbeidsmiljølov § 60 nr. 2. Etter å ha foretatt en konkret vurdering av plasseringen av de ulike arbeidsgiverfunksjonene, fant Høyesteretts flertall at kommunene ikke var arbeidsgivere i tillegg til PPD-senteret. Flertallet uttalte at «\[a\]lle sentrale arbeidsgiverfunksjoner har tilligget og blitt utøvet av styret ved PPD» (side 631).
+
+I Norwegian-saken (HR-2018-2371-A) kom Høyesterett til at morselskapet kun i begrenset grad hadde utøvd arbeidsgiverfunksjoner, og fant derfor ikke grunnlag for delt arbeidsgiveransvar. Høyesterett viste til at vurderingen av delt arbeidsgiveransvar i saken i det vesentlige var identisk med vurderingen av om det forelå innleie eller entreprise. Til tross for at morselskapet som oppdragsgiver hadde utstrakt rett til å føre kontroll med tjenestene som ble levert av datterselskapet, var dette ikke i seg selv tilstrekkelig til å anse morselskapet som innleier. At det var rom for justeringer fortløpende i oppdragsperioden, var heller ikke nok til å konstatere et innleieforhold. Det at arbeidstakerne i datterselskapet tidligere hadde vært ansatt i morselskapet, og nå utførte de samme arbeidsoppgavene i datterselskapet, ble heller ikke tillagt avgjørende vekt. Høyesterett viste i sin vurdering av spørsmålet om delt arbeidsgiveransvar til at «\[d\]e samme trekk ved forholdet innebærer at NAS heller ikke kan sies å ha utøvd arbeidsgiverfunksjoner annet enn i helt marginal grad» (avsnitt 112).
+
+I Norwegian-saken fant Høyesterett at morselskapets utøvelse av arbeidsgiverfunksjoner var i en «helt marginal grad». Dette var i seg selv ikke tilstrekkelig til å fastslå delt arbeidsgiveransvar. I Norwegian-dommen stadfestet Høyesterett også at læren om delt arbeidsgiveransvar er en snever unntaksregel.
+
+*Flertallet* legger derfor til grunn at det etter gjeldende rett er en forholdsvis høy terskel for å oppfylle vilkåret om å ha utøvd arbeidsgiverfunksjoner. Dette har formodentlig sammenheng med de klare fordelene ved at ett rettssubjekt har ansvaret. Derfor kan det i en eventuell lovtekst være grunn til å oppstille et krav om at arbeidsgiverfunksjoner har blitt utøvd i «vesentlig grad». Formuleringen er imidlertid ikke ment å utgjøre noen begrensning sammenlignet med gjeldende rett.
+
+Etter *flertallets* vurdering vil det økonomiske forholdet mellom de rettssubjektene som hevdes å ha delt arbeidsgiveransvar kunne være av betydning. Regler om ansvarsgjennombrudd og identifikasjon gjelder innen selskapsrett og det bør også gjelde på arbeidsrettens område. I de tilfellene der et selskap i realiteten kun er et redskap eller avdeling for sin eier eller morselskap, svikter grunnlaget for den selskapsrettslige beskyttelsen. Det vil for eksempel kunne være tilfelle der et datterselskap mangler et eget selvstendig økonomisk formål, mangler egen selvstendig ledelse, og er systematisk underfinansiert. Når arbeidstaker formelt er ansatt i et selskap som faller i en slik kategori, vil det lettere kunne foreligge delt arbeidsgiveransvar med den dominerende eier. Et eksempel på dette er Wärtsilä-dommen, hvor Høyesterett sluttet seg «i det vesentlige» til mindretallet fra lagmannsretten:
+
+Wärtsilä Diesel A/S er et datterselskap av Oy Wärtsilä AB, heleid av dette selskapet. Selv om Wärtsilä Diesel A/S formelt er en selvstendig juridisk person, er selskapet reelt bare en del av Oy Wärtsilä ABs virksomhet. Forsåvidt kan i alt vesentlig vises til byrettens bemerkninger. Som det fremgår av disse hadde Oy Wärtsilä AB i enhver henseende full kontroll med Wärtsilä Diesel A/S. Wärtsilä Diesel A/S hadde heller ikke noe eget økonomisk liv. All fortjeneste gikk til Oy Wärtsilä AB som så dekket Wärtsilä Diesel A/S’ omkostninger. Det ville således være i strid med dette opplegg om Oy Wärtsilä AB unnlot å tilføre Wärtsilä Diesel A/S tilstrekkelige midler til å dekke lønn til de ansatte. Erstatningskrav etter arbeidsmiljøloven synes ikke å stå i noen vesentlig annen stilling.
+
+At et annet rettssubjekt har noen grad av kontroll eller innvirkning på ansettelsesforhold i en virksomhet, vil ikke nødvendigvis tilsi at det utøves en arbeidsgiverfunksjon. Videre viser *flertallet* til at det faktum at arbeidstakerne utfører samme oppgaver i en virksomhet som de tidligere hadde utført som ansatte i et annet rettssubjekt, kan være relevant, men heller ikke i seg selv vil være tilstrekkelig til at det foreligger delt arbeidsgiveransvar.
+
+*Flertallet* antar at vilkårene om å ha utøvd arbeidsgiverfunksjoner etter omstendighetene vil kunne være oppfylt både der utøvelsen er knyttet til ett konkret aspekt ved arbeidsgiveransvaret, som stillingsvernet, og i de tilfellene der det er knyttet til ulike aspekter, men hvor man etter en konkret vurdering finner at virksomheten samlet har opptrådt som arbeidsgiver. Wärtsilä-dommen er et eksempel på sistnevnte, der Høyesterett nettopp fant at morselskapet samlet sett hadde utøvd en rekke arbeidsgiverfunksjoner, og at dette var tilstrekkelig for å konstatere et delt ansvar.
+
+Oppsummert viser *flertallet* til at vurderingen av om vilkårene for delt arbeidsgiveransvar er oppfylt, vil måtte bero på en konkret helhetsvurdering. Her vil det for det første være relevant å se hen til hvilke arbeidsgiverfunksjoner selskapet har utøvd. Det vil kunne ha betydning om det er utøvd sentrale arbeidsgiverfunksjoner, for eksempel styring med arbeidet, utbetaling av lønn og andre disposisjoner en arbeidsgiver har rett eller plikt til å utføre. Det kan også være relevant å se på hvor mange arbeidsgiverfunksjoner selskapet har stått for, og det kan være relevant å se på hvor stor del utøvelsen utgjør sett opp mot det fulle arbeidsgiveransvaret. Det antas også at hvorvidt arbeidsgiverfunksjonene har vært utøvd direkte overfor arbeidstakeren, vil kunne ha betydning.
+
+Hvorvidt de aktuelle arbeidstakerne tidligere var ansatt i det andre rettssubjektet er relevant for vurderingen. Det vil også være av betydning hvorvidt det foreligger en avtalemessig forankring direkte mellom arbeidstaker og det andre rettssubjektet, slik som i Wärtsilä-dommen.
+
+Når det gjelder rettsvirkningssiden, altså hvilke arbeidsgiverfunksjoner som blir felles ved delt arbeidsgiveransvar, er det ikke like enkelt å oppstille en norm basert på foreliggende rettspraksis. I Norwegian-saken uttalte Høyesterett at «en dom for at flere foretak har stilling som arbeidsgiver uten nærmere avgrensning av hvilke forhold det gjelder for, synes å reise flere spørsmål om hva som ville være rettsvirkningene av en slik dom», jf. avsnitt 123. Det har følgelig formodningen mot seg at det etter gjeldende rett kan statueres et fullstendig delt arbeidsgiveransvar der begge rettssubjekt kan pålegges forpliktelser for alle arbeidsgiverfunksjoner. Videre er det i arbeidsmiljølovens forarbeider vist til at «sakene om delt arbeidsgiveransvar har vært knyttet til oppsigelsesvernet og plikten til å tilby annet passende arbeid etter § 60 nr. 2» (Ot.prp.nr.49 (2004–2005) side 74-75).
+
+I Wärtsilä-dommen var det plikten til å tilby «annet passende arbeid» morselskapet ble pålagt. Videre ble selskapene ansett som solidarisk ansvarlige for arbeidstakerens erstatningskrav som følge av at han ikke hadde fått bli stående i stillingen under rettsprosessen. Dette er ansvar som knytter seg til stillingsvernet.
+
+*Flertallet* legger til grunn at det etter gjeldende rett primært er rettsvirkninger i tilknytning til stillingsvernet som kan deles. Det er disse bestemmelsene sakene om delt arbeidsgiveransvar har omhandlet. *Flertallet* viser videre til at det på en rekke andre områder allerede foreligger særskilte regler om delt ansvar, for eksempel i § 2-2, og at det derfor primært er reglene om stillingsvern som er aktuelle.
+
+Det vil være domstolene som skal håndheve og tolke regelen om delt arbeidsgiveransvar.
+
+Etter dette foreslår *flertallet* følgende ordlyd til § 1-8 andre ledd nytt siste punktum:
+
+*Et annet rettssubjekt enn den som er arbeidsgiver etter første punktum kan pålegges delt arbeidsgiveransvar dersom det i vesentlig grad har utøvd arbeidsgiverfunksjoner.*
+
+*Utvalgets mindretall, medlemmene Almestrand, Brandshaug Dale, Juliussen og Spjelkavik* kan ikke slutte seg til flertallets forslag til ny bestemmelse om delt arbeidsgiveransvar. Etter mindretallets syn forutsetter loven allerede i dag at arbeidsgiveransvaret skal plasseres hos den som i realiteten er forpliktet som arbeidsgiver. Rettspraksis viser tydelig at domstolene legger arbeidsgiveransvaret til det rettssubjektet som etter en konkret helhetsvurdering opptrer som den reelle arbeidsgiver.
+
+Formuleringer om delt ansvar vil etter *mindretallets* syn kunne bidra til uklarheter om hvem som skal ha arbeidsgiveransvaret og i hva slags tilfeller det eventuelt skal etableres et delt ansvar, noe som vil være prosesskapende. Usikkerhet om ansvarsforholdene kan dessuten virke ansvarspulveriserende og konfliktskapende.

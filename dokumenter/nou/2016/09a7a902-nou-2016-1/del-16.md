@@ -1,940 +1,280 @@
-# NOU 2016: 1, del 16 av 22 (side 189–198)
+# NOU 2016: 1, del 16 av 21
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/09a7a902-nou-2016-1.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-1/id2467468/
 - Original-PDF: https://www.regjeringen.no/contentassets/32354d9ee7974df0976d76790cab566e/no/pdfs/nou201620160001000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 47 tabeller, 63 figurer, 825 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 189]
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-Helseforetakene ser ut til å ha solide systemer
-for å kontrollere arbeidstiden i egne virksomheter. Sett i forhold til det totale antallet vakter og
-helsesektorens særlige behov for å ha kvalifisert
-personell på vakt til enhver tid, anser utvalget at
-antall mulige brudd er meget lavt.
-Kommunene er den største arbeidsgiveren
-innen helse- og sosialsektoren. Utvalget er kjent
-med at enkelte kommuner legger betydelig vekt
-på rapportering og oppfølging av brudd på loven.
-Utvalget anbefaler at kommunene etablerer
-systemer tilsvarende helseforetakene for å sikre
-god oversikt og oppfølging av arbeidstiden i sine
-virksomheter.
-Kartleggingen viser at det i all hovedsak forekommer færre brudd i de virksomheter som har
-benyttet adgangen til å inngå avtaler om unntak
-fra arbeidstidsbestemmelsene. Samtidig merker
-utvalget seg at om lag halvparten av mulige brudd
-i helseforetakene lå innenfor det som kunne avtales gjennom lokal avtale. Avtaleadgangen bidrar til
-fleksibilitet og mulighet for å finne løsninger på
-virksomhetenes ulike utfordringer. Utvalget peker
-på at det er viktig at virksomhetene arbeider aktivt
-med å unngå at loven brytes og derfor benytter
-seg av denne adgangen til å inngå avtaler.
-Endringene som er innført i loven fra 1. juli 2015
-utvider mulighetsrommet for å inngå avtaler.
-Utvalget ser det som positivt at virksomheter
-har gode styrings- og rapporteringsrutiner og er
-åpne om at det kan forekomme lovbrudd. Det er
-vanskelig å se for seg en situasjon i arbeidslivet
-der brudd overhodet ikke skulle forekomme. Det
-er viktig at virksomhetene lærer av erfaringene og
-gjennomfører tiltak for å unngå brudd.
-Utvalget understreker at det er viktig for alle
-ansatte at arbeidstidsordningen ikke innebærer
-helse- eller velferdsmessige belastninger og heller
-ikke går ut over brukernes behov. Utvalget har
-samtidig merket seg at rundt 15 prosent av de
-mulige bruddene i helseforetakene skyldes at
-ansatte har ønsket å bytte vakt. Utvalget har samtidig fått opplyst at restriksjoner på bytte blir brukt
-som tiltak for å unngå brudd på arbeidstidsbestemmelsene. Utvalget mener det fremstår som
-lite hensiktsmessig, og bryter med hensynet til
-arbeidstakers vern og velferd, at ansatte skal nektes å bytte vakter seg imellom for å unngå brudd.
-Utvalget ser at ledere i helse- og omsorgsektoren i
-utgangspunktet ønsker å imøtekomme medarbeideres ønsker. Dersom en virksomhet etablerer
-arbeidsplaner for en lengre periode, er det vanskelig for medarbeidere å gi uttrykk for behov eller
-planlagte aktiviteter som ligger langt fram i tid, for
-eksempel viktige sosiale aktiviteter. Det vil fram-
-
-189
-
-Kapittel 11
-
-stå som lite arbeidstakervennlig at en ikke har
-mulighet for å akseptere noe bytte av vakter.
-Dette må slik utvalget ser det reflekteres i en viss
-toleranse for brudd. Avgjørende må være årsaken
-til bruddene, og hvor alvorlige de er. Dokumentasjon av årsaker er således å anse som vesentlig.
-Utvalget viser videre til at forslag som fremmes i denne innstillingen også kan bidra til færre
-brudd på arbeidstidsbestemmelsene.
-
-11.8 Forenkling
-11.8.1
-
-Behovet for et klart og forståelig
-regelverk
-Det følger av mandatet at utvalget skal vurdere
-behovet for forenkling av lovverket.
-Utvalget viser til at arbeidstidsreglene skal
-sikre vern av arbeidstakerne. Det er derfor viktig
-at de er klare og forståelige slik at både arbeidstakerne selv og virksomhetene kan gjøre seg kjent
-med hvilke rammer som gjelder. Loven legger til
-rette for avtaler om unntak slik at det kan etableres arbeidstidsordninger som er tilpasset lokale
-og bransjevise behov. For fullt ut å kunne benytte
-den fleksibiliteten som dette systemet innebærer,
-er det etter utvalgets syn også av betydning med
-regler som er lett tilgjengelige. Utvalget har fått
-inntrykk av at mange anser arbeidstidsreglene for
-å være kompliserte og dermed vanskelige å forstå.
-11.8.2 Innspill om forenkling
-Flere av arbeidsgiverorganisasjonene har gitt innspill om behovet for forenkling. De har også trukket fram at det er utfordringer knyttet til forståelsen og anvendelsen av dagens regelverk.
-NHO har i innspill til utvalget tatt opp at virksomhetene opplever regelverket som komplisert:
-Det som særlig kan utledes av NHOs arbeidstidsundersøkelse er at flere bedrifter enten har
-store utfordringer når det gjelder å forholde
-seg til regelverket, eller at reglene er så kompliserte at det er vanskelig å benytte seg av de
-mulighetene for fleksibilitet som finnes.
-Enkelte av bestemmelsene er dessuten så
-strenge at de i praksis er svært krevende å
-følge. Det er flere av reglene som kan forenkles
-og forbedres på en slik måte at både hensynet
-til vernet av arbeidstakeren, og hensynet til
-opprettholdelse og utvikling av bærekraftige
-bedrifter ivaretas. Reglene om arbeidstid praktiseres daglig av den enkelte bedrift, og det er
-
-[Side 190]
-
-190
-
-NOU 2016: 1
-
-Kapittel 11
-
-Arbeidstidsutvalget
-
-derfor ikke akseptabelt med en utforming som
-er delvis uforståelig for den som skal anvende
-loven.7
-Hovedorganisasjonen Virke har i innspill til utvalget foreslått at lovens hovedbestemmelser skal bli
-enklere å forstå:
-Virke mener at arbeidsmiljøloven og arbeidstidsbestemmelsene bør kunne brukes som et
-oppslagsverk for arbeidsgivere og ansatte i den
-typiske norske virksomhet. Vi vet at de aller
-fleste norske arbeidsplasser har mellom 10 og
-15 ansatte, og at de færreste arbeidsplassene
-har en egen juridisk avdeling. Derfor bør både
-hovedreglene om arbeidstid og adgangen til å
-gjøre unntak fra disse kunne leses rett ut av
-loven. En lov som er lett å forstå vil bidra til at
-samfunnet kan utnytte den samlede arbeidskraften bedre enn i dag.
-
-11.8.3 Forenkling av reguleringenes innhold
-Utvalget viser til at forenkling kan utformes på
-ulike måter. Det kan bety færre regler, for eksempel mer i tråd med arbeidstidsdirektivets innretning. Færre regler vil imidlertid samtidig gjerne
-innebære en endring av det materielle innholdet i
-regelverket. Direktivet har på flere områder en
-del videre rammer enn det som følger av de norske arbeidstidsreglene. For eksempel har ikke
-direktivet regler om daglig og ukentlig arbeidstid.
-Den daglige og ukentlige arbeidstiden etter direktivet er i utgangspunktet kun begrenset av kravene til daglig og ukentlig hvile.
-En endring i retning av færre regler ville dermed også føre til en endring av vernenivået som
-ligger i dagens regelverk. Dette ville særlig kunne
-få betydning for arbeidstakerne i de uorganiserte
-delene av arbeidslivet, ettersom de ikke vil være
-omfattet av tariffavtaler som i mange tilfeller vil gi
-arbeidstakerne et noe forsterket vern utover
-lovens hovedregler. Etter utvalgets syn taler hensynet til vern av arbeidstakerne dermed for at en
-forenkling av regelverket ikke først og fremst bør
-skje gjennom færre regler.
-Mindre reguleringer og en utvidelse av rammene i loven ville dessuten gi en maktforskyvning
-i favør av arbeidsgiver, noe som også kunne fått
-betydning for dagens avtalesystem. I den sammenheng vises det til drøftelsene i punkt 11.3,
-hvor det fremgår at utvalget mener at dagens avtalesystem i all hovedsak er velfungerende, samt at
-7
-
-NHOs politikkdokument om arbeidstid, 2014.
-
-balansen mellom arbeidsgiver og arbeidstakerne i
-det store og hele anses for å være hensiktsmessig.
-Det er dessuten grunn til å tro at et regelverk
-med færre regler og videre rammer ville ført til at
-mye av det som i dag følger av loven isteden ville
-ha blitt regulert i tariffavtalene. Etter utvalgets vurdering er det dermed ikke sikkert at en slik endring reelt sett ville ført til en forenkling, men bare
-en «flytting» av utfordringene fra lov til tariffavtale.
-
-11.8.4
-
-Forenkling av lovens struktur og
-begrepsbruk
-
-Utvalget har drøftet hvordan arbeidstidsreglene
-kan forenkles uten at det samtidig gjøres
-endringer i reglenes materielle innhold, utover de
-endringene som utvalget selv foreslår.
-Én av utfordringene med regelverket er at
-mange av bestemmelsene må ses i sammenheng
-for å gi et fullstendig bilde av hva som faktisk ligger i reglene. Dette gjelder for eksempel reglene
-om gjennomsnittsberegning av arbeidstiden.
-Ifølge arbeidsgiverorganisasjonene NHO og
-Virke er reglene om gjennomsnittsberegning for
-detaljerte og kompliserte. Slik loven er utformet i
-dag, må reglene om gjennomsnittsberegning i
-§ 10-5 ses i sammenheng med lovens regler om
-henholdsvis alminnelig arbeidstid i § 10-4 og overtid i § 10-6, noe som kan gjøre at reglene oppleves
-som vanskelig tilgjengelig for brukerne. Etter
-utvalgets syn bør reglene utformes på en slik måte
-at samvirket mellom de ulike bestemmelsene og
-sammenhengen i regelverket kommer tydeligere
-fram.
-En annen utfordring som er påpekt av flere, er
-at sentrale begreper i arbeidstidsreglene ikke er
-klart definert. Dette gjelder for eksempel begrepet «tariffbundet virksomhet». Som påpekt over i
-punkt 11.3 har utvalget inntrykk av at det er manglende kunnskap hos en del aktører om hvilke
-krav som stilles i forbindelse med inngåelsen av
-lokale avtaler, blant annet når det gjelder vilkåret
-om at virksomheten må være «tariffbundet».8 Det
-er grunn til å tro at dette kan være en medvirkende årsak til at adgangen til å inngå lokale avtaler ikke utnyttes bedre. Etter utvalgets syn kan det
-til dels tilskrives lovens utforming, ettersom det
-ikke fremgår hva som faktisk ligger i dette vilkåret. For noen kan det derfor fremstå som om kra8
-
-Å bli en tariffbundet virksomhet kan skje på to måter:
-1.Virksomheten inngår en tariffavtale med en fagforening.
-2. Virksomheten kan bli medlem av en arbeidsgiverforening som har inngått tariffavtale.
-
-[Side 191]
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-vene til hva som skal til for å være en «tariffbundet
-virksomhet» er andre eller strengere enn de loven
-reelt sett stiller. Utvalget mener det må gjøres lettere for leseren å forstå begrepet «tariffbundet»
-ved lesing av arbeidstidskapitlet i loven.
-Utvalget registrerer også at det er flere eksempler på at det fra bestemmelse til bestemmelse
-benyttes forskjellige formuleringer om det som tilsynelatende er samme situasjon, for eksempel i
-forbindelse med inngåelse av skriftlige avtaler om
-unntak fra lovens hovedregler. Dette vil kunne
-føre til at brukerne lurer på om det også innebærer en meningsforskjell mellom de ulike
-bestemmelsene, noe som kan skape unødvendig
-uklarhet og usikkerhet.
-Utvalget fremmer ikke konkrete forslag til
-endringer av loven i sin innstilling, men anbefaler
-at regelverket gjennomgås med sikte på å få til en
-mer pedagogisk fremstilling av reglenes faktiske
-innhold. Dette kan for eksempel løses ved å ta inn
-definisjoner eller sørge for henvisninger til annet
-lovverk.
-Utvalget mener også at det kan være grunn til
-å vurdere om en annen inndeling av bestemmelsene i arbeidstidskapitlet kan gjøre loven lettere å
-forstå.
-Det vises i den forbindelse til innspill fra Virke,
-hvor det pekes på at det er vanskelig å få oversikt
-over hvilke grenser for arbeidstid og hvilken unntaksadgang som gjelder i en konkret situasjon.
-Virke har trukket fram følgende eksempler for å
-illustrere dette:9
-§ 10-12 har overskriften «Unntak» som tilsier at
-bestemmelsen inneholder en fullstendig oversikt over adgangen til å gjøre unntak fra lovens
-hovedregler. I realiteten inneholder loven langt
-flere unntaksbestemmelser enn dette, eksempelvis i §§ 10-5,10-6 (5), § 10-6 (6), § 10-6 (9),
-10-8 (3), 10-10 (4), 10-10 (5), og 10-11 (8).
-Loven åpner for å gjøre unntak på flere
-ulike nivåer, enten gjennom lokale avtaler, søknad til Arbeidstilsynet eller ved tariffavtale med
-sentral fagforening med innstillingsrett. Loven
-har derimot ikke et konsekvent system for
-hvordan hovedregler og unntak reguleres.
-Eksempelvis er deler av Arbeidstilsynets kompetanse regulert i samme bestemmelse som de
-materielle hovedreglene (eksempelvis 10-6
-sjette ledd), mens andre deler av tilsynets kom9
-
-Hovedorganisasjonen Virke. Innspill til Arbeidstidsutvalget
-januar 2015. Eksemplene er basert på lovteksten før
-endringene som trådte i kraft 1. juli 2015.
-
-191
-
-Kapittel 11
-
-petanse er regulert i unntaksbestemmelsene
-§ 10-12 og § 10-5.
-Virke mener det bør vurderes om det er mulig å få
-en helhetlig og gjennomført struktur som gjør det
-enklere å få overblikk over hovedregler og unntaksadgang i en bestemt situasjon.
-Utvalget er enig i at det at unntaksadgangen
-ikke i alle tilfeller er uttømmende angitt i de ulike
-bestemmelsene kan gjøre det vanskelig å få oversikt over hvilke unntak som faktisk kan avtales.
-Etter utvalgets syn kan det derfor være grunn til å
-vurdere nærmere måten lovbestemmelsene bygges opp på, slik at det angir hovedregelen og deretter en fullstendig oversikt over adgangen til å
-avtale unntak, slik at de som skal bruke loven slipper å lete seg fram mellom ulike paragrafer for å
-finne disse sammenhengene.
-
-11.8.5 Forenkling av lovens språk
-Språket i lovens arbeidstidskapittel kan i seg selv
-være en medvirkende årsak til at det er vanskelig
-å forstå hva som egentlig ligger i mange av
-bestemmelsene. Det er flere av bestemmelsene
-som etter utvalgets syn kan være krevende å forstå
-fordi de er unødvendig tungt formulert. Utvalget
-understreker betydningen av at loven er lett forståelig og tilgjengelig for alle som er omfattet av
-den. Det er viktig at dette også gjenspeiles i språket. Som et ledd i å se hvordan regelverket kan
-utformes for å oppnå dette, har utvalget bedt Klarspråk, som er et samarbeid mellom Norsk
-Språkråd og Direktoratet for forvaltning og IKT,
-om å utarbeide et forslag til hvordan dagens
-regler rent språklig kan formuleres for at de skal
-være enklere å forstå. Deres forslag til lovtekst følger som vedlegg 2.
-Et eksempel på hvordan en språklig forenkling
-av loven kan gjøres er tatt inn i boks 11.1. Bestemmelsen om gjennomsnittsberegning av den alminnelige arbeidstid i § 10-5 er viktig for å løse behov
-for fleksibel bruk av arbeidskraften. Mange virksomheter antas å kunne ha nytte av dette. Ordlyden gjør imidlertid bestemmelsen tungt tilgjengelig, blant annet ved at det er de ytre grensene som
-gjengis først, før en sier hva som kan avtales. En
-alternativ tilnærming kan være å bygge opp
-bestemmelsen etter hva som kan avtales på hvert
-enkelt nivå, og til slutt hva som er de ytre grensene. På denne måten kan hovedreglene lettere
-leses rett ut av loven. Utvalget anbefaler at det
-arbeides videre med en samlet forenkling av
-lovens struktur, begrepsbruk og språk.
-
-[Side 192]
-
-192
-
-Kapittel 11
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-Boks 11.1 Eksempel på forenkling – arbeidsmiljøloven § 10-5
-gjennomsnittsberegning av den alminnelige arbeidstid
-uker må den alminnelige arbeidstid i gjennom§ 10-5 Gjennomsnittsberegning av den alminnesnitt ikke bli lenger enn foreskrevet i § 10-4. Ved
-lige arbeidstid
-inngåelse av avtale som innebærer at den almin(1) Arbeidsgiver og arbeidstaker kan skriftnelige arbeidstiden overstiger ti timer i løpet av
-lig avtale at den alminnelige arbeidstid kan for24 timer, skal det legges særlig vekt på hensynet
-lenges opp til ti timer i løpet av 24 timer og 50
-til arbeidstakernes helse og velferd.
-timer i løpet av sju dager. Den alminnelige
-(3) Arbeidstilsynet kan samtykke i at den
-arbeidstiden kan likevel ikke overstige 48 timer
-alminnelige arbeidstiden forlenges opp til 13
-per uke i gjennomsnitt over en periode på åtte
-timer i løpet av 24 timer og 48 timer i løpet av sju
-uker. Over en periode på 52 uker må den almindager. Den alminnelige arbeidstid kan likevel
-nelige arbeidstid i gjennomsnitt ikke bli lenger
-ikke overstige 48 timer i gjennomsnitt over en
-enn foreskrevet i § 10-4. Avtale etter dette ledd
-periode på åtte uker. Over en periode på 26 uker
-kan ikke inngås med arbeidstaker som er midmå den alminnelige arbeidstid i gjennomsnitt
-lertidig ansatt med grunnlag i § 14-9 første ledd
-ikke bli lenger enn foreskrevet i § 10-4. Før
-bokstav f.
-Arbeidstilsynet treffer sin avgjørelse, skal ord(2) Arbeidsgiver og arbeidstakernes tillitsningen av arbeidstiden drøftes med arbeidstavalgte i virksomhet som er bundet av tariffavkernes tillitsvalgte. Referat fra drøftingene samt
-tale, kan skriftlig avtale at den alminnelige
-utkast til arbeidsplan skal vedlegges søknaden.
-arbeidstiden kan forlenges opp til 12,5 timer i
-Arbeidstilsynet skal ved sin avgjørelse legge
-løpet av 24 timer og 54 timer i løpet av sju dager.
-særlig vekt på hensynet til arbeidstakernes
-Den alminnelige arbeidstid kan likevel ikke
-helse og velferd.
-overstige 48 timer per uke i gjennomsnitt over
-en periode på åtte uker. Over en periode på 52
-
-11.8.6 Bedre informasjon
-Selv om det er flere tiltak som kan bidra til et mer
-brukervennlig regelverk, er det likevel ikke mulig
-å utarbeide regler uten uklarheter eller rom for
-tolkningstvil. Utvalget vil derfor understreke
-betydningen av god informasjon og veiledning om
-regelverket. Det er viktig at både arbeidstakerne
-og virksomhetene på en enkel måte selv kan finne
-ut hva reglene går ut på, uten å måtte ha behov for
-juridisk bistand.
-Utvalget viser til at Arbeidstilsynet, som har
-veiledningsansvaret for loven, har informasjon om
-arbeidstidsreglene på sine hjemmesider. Arbeidstilsynet har dessuten en egen svartjeneste som
-svarer på spørsmål fra publikum, blant annet om
-arbeidstid. Utvalget mener likevel at man skal se
-på om ikke informasjon om arbeidstidreguleringen kan formidles enda klarere. Man kan se for
-seg en web-basert løsning som tar utgangspunkt i
-hvem man er, avhengig av den informasjonen bruker gir, og med dette som bakgrunn lister om brukers handlingsrom, rettigheter og plikter.
-I tillegg legger utvalget til grunn at arbeidslivets parter også gir sine medlemmer informasjon
-og rådgivning knyttet til reglene om arbeidstid.
-Partene har åpenbart et særlig ansvar for informa-
-
-sjon om de bestemmelsene som er nedfelt i egne
-tariffavtaler, men det er også viktig at partene
-bidrar med informasjon og veiledning om det
-samlede regelverket på arbeidstidsområdet.
-Utvalget mener det i tillegg til den innsatsen
-som allerede gjøres vil kunne være nyttig med en
-veileder om arbeidstidsbestemmelsene, som med
-utgangspunkt i brukerens situasjon kan gi forståelige beskrivelser av lovens system, reglenes innhold og sammenhengen mellom disse, gjerne
-med utstrakt bruk av praktiske eksempler. Utvalget viser i den forbindelse til at de svenske
-arbeidsmiljømyndighetene har utarbeidet et
-omfattende informasjonshefte10 som blant annet
-utdyper innholdet i reglene i den svenske arbetstidslagen og relaterer dem til praktiske situasjoner. Etter utvalgets syn vil et slikt informasjonshefte være velegnet til å bidra til økt kunnskap og
-dermed etterlevelse av arbeidstidsreglene. Utvalget anbefaler derfor at det utarbeides lignende
-informasjonsmateriell om det norske regelverket.
-For eksempel gjelder dette hva angår forståelsen
-av begrepet «tariffbundet».
-10
-
-Arbetsmiljöverket, (2015), Arbetstidslagen med kommentarer (H026).
-
-[Side 193]
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-193
-
-Kapittel 12
-
-Kapittel 12
-
-Særregulering basert på kjennetegn ved stillingen
-12.1 Innledning
-Utvalget er bedt om å vurdere hvordan de ulike
-arbeidstidsreguleringene i form av lovverk, tariffavtaler, individuelle avtaler, EU-direktiver og rettspraksis virker samlet og hvorvidt de samlet og
-hver for seg ivaretar politiske mål og de opprinnelige begrunnelsene for innføringen av reguleringene. Utvalget er også bedt om å vurdere de samlede arbeidstidsreguleringene i lys av økt behov
-og muligheter for fleksibilitet.
-Det har helt siden innføringen av arbeidervernloven av 1936 vært et prinsipp at arbeidstidsbestemmelsene, liksom loven for øvrig, skal
-omfatte hele arbeidslivet og at eventuelle unntak
-krever en særskilt begrunnelse. Både tidligere
-lovbestemmelser og dagens lovbestemmelser har
-imidlertid en rekke særreguleringer eller unntak.
-I dette kapitlet ser vi nærmere på ett av unntakene. Dette unntaket er basert på kjennetegn ved
-stillingen og gjelder for personer i ledende og særlig uavhengig stilling.
-Unntakene for arbeidstakere i ledende og særlig uavhengig stilling har over de siste årene vært
-gjenstand for adskillig diskusjon. Stortinget
-uttalte i forbindelse med behandlingen av Prop. 48
-L (2014–2015) om endringer i blant annet arbeidstidsreglene at «det er naturlig at utvalget også ser
-nærmere på bruken av «særlig uavhengig stilling»».
-Et unntak for arbeid av «ledende eller kontrollerende art» og «særlig betrodd art» ble innført
-allerede i 1936 da arbeidervernloven gikk fra å
-være en lov i hovedsak for kroppsarbeidere i
-industrien til å bli en alminnelig lov for arbeidstakere i hele arbeidslivet. Bestemmelsene har siden
-vært behandlet av Stortinget flere ganger. Blant
-de endringene som har vært foreslått og debattert
-er å reservere lovens unntak for øverste leder i en
-virksomhet og å innføre individuell adgang for
-særlig uavhengige til å avtale unntak fra alle
-lovens bestemmelser.
-Det har også vært fremmet ønske om å finne
-klare kriterier for bruken av unntaksbestemmel-
-
-sene. Videre har det blitt reist spørsmål om
-dagens unntaksbestemmelser i tilstrekkelig grad
-er tilpasset et mangfoldig arbeidsliv.
-Under punkt 12.2 gjøres det rede for gjeldende
-rett, rettspraksis og unntaksbestemmelsene i
-arbeidstidsdirektivet, mens det under 12.3 gjøres
-rede for utviklingstrekk i arbeidslivet som etter
-utvalgets syn har betydning for reguleringen av
-arbeid av ledende og særlig uavhengig art. Under
-punkt 12.4 diskuteres bruk og kjennskap til
-unntaksbestemmelsene. Under punkt 12.5 legger
-utvalget fram sine vurderinger og forslag.
-
-12.2 Gjeldende rett – unntaket for
-ledende og særlig uavhengig
-stilling
-12.2.1
-
-Gjeldende rett – arbeidstakere
-i ledende stilling
-Det følger av § 10-12 første ledd at arbeidstakere
-som har en ledende stilling, er unntatt fra arbeidstidsbestemmelsene med unntak av § 10-2 første,
-andre og fjerde ledd.
-Unntak for ledende stilling er ifølge Ot.prp. nr.
-49 (2004–2005) en videreføring av arbeidsmiljøloven av 1977 § 41 bokstav a om unntak for «arbeid
-av ledende art».
-Departementet uttalte i Ot.prp. nr. 41 (1975–
-76) blant annet at:
-Unntaket under a) tar for det første sikte på
-arbeidstakere som innehar klare lederfunksjoner. Som eksempel kan nevnes disponenter,
-avdelingssjefer, kontorsjefer, overingeniører
-og andre som har et større ansvar eller som i
-særlig grad kan treffe selvstendige avgjørelser,
-og som selv må vurdere og avgjøre behovet for
-egen arbeidsinnsats. Det avgjørende for om en
-arbeidstaker går inn under unntaket, må være
-den faktiske stilling og funksjon vedkommende har i virksomheten. Hvilken tittel
-arbeidstakeren har, er av underordnet betydning.
-
-[Side 194]
-
-194
-
-NOU 2016: 1
-
-Kapittel 12
-
-Arbeidstidsutvalget
-
-[…]
-I grensetilfellene vil det være naturlig å
-legge avgjørende vekt på om vedkommende
-selv kontrollerer sin arbeidstid. En arbeidstaker som er underlagt fast kontroll med hensyn
-til arbeidstida, vil det således neppe være naturlig å unnta fra arbeidstidsbestemmelsene, selv
-om han har visse lederfunksjoner.
-Loven hadde tidligere en begrensning av unntaket, idet det ikke gjaldt «arbeidsledere og andre i
-liknende stillinger som i arbeidstida følger dem de
-er satt til å lede,» jf. § 41 bokstav a annet punkt i
-arbeidsmiljøloven av 1977. Begrensningen ble
-ikke videreført i lovteksten ved endringen av
-arbeidsmiljøloven i 2005, men forarbeidene
-uttrykker klart at dette ikke er ment å bety en realitetsendring.
-Forarbeidene til 1977-loven viser også til at
-arbeidstakere i slike stillinger ofte har et lønnsnivå som forutsettes å dekke en viss arbeidsinnsats ut over alminnelig arbeidstid uten at overtidsarbeid registreres særskilt.
-Rettspraksis
-Det er sparsomt med rettspraksis hva angår forståelsen og anvendelsen av unntaksbestemmelsen
-for ledende stilling. Det finnes ingen høyesterettsdommer som tar for seg bestemmelsen, men det
-foreligger noen lagmannsrettsdommer.
-Lagmannsretten har i de enkelte sakene gjort
-konkrete helhetsvurderinger basert på en rekke
-ulike momenter. Lagmannsretten synes å ha lagt
-særlig vekt på følgende momenter i sine avgjørelser fra 2009 til 2015:
-– plassering i organisasjonshierarkiet
-– myndighet til å treffe beslutninger på vegne av
-virksomheten i visse saker
-– budsjettansvar/resultatansvar og personalansvar
-– arbeidsledelse av underordnede, for eksempel
-fordeling av oppgaver, instruksjon og veiledning
-– at man ikke er underlagt fast kontroll av
-arbeidstiden.
-Domstolene synes å konsentrere sin vurdering
-om hvorvidt arbeidstaker har klare og reelle
-lederfunksjoner. Dersom arbeidstaker i utgangspunktet har klare og reelle lederfunksjoner, vil det
-ha mindre betydning at han eller hun også utfører
-mye underordnet arbeid. Det er verdt å merke
-seg at arbeidsgiver i avgjørelsene i perioden fikk
-medhold i sin fortolkning av ledende stilling.
-
-12.2.2
-
-Gjeldende rett – arbeidstakere
-i særlig uavhengig stilling
-
-Det følger av § 10-12 andre ledd at arbeidstakere
-som har en særlig uavhengig stilling er unntatt fra
-arbeidstidsbestemmelsene med unntak av § 10-2
-første, andre og fjerde ledd.
-Bestemmelsen om arbeidstakere i særlig uavhengig stilling er en videreføring av arbeidsmiljøloven av 1977 § 41 første ledd punkt a) annet
-alternativ som gjaldt «arbeidstakere som ikke
-innehar lederfunksjoner, men som likevel har
-overordnede og ansvarsfulle stillinger».
-Forarbeidene til arbeidsmiljøloven av 1977, jf.
-Ot.prp. nr. 41 (1975–76), nevnte som eksempel på
-en slik stilling en advokat ansatt i et forsikringsselskap. Departementet uttalte videre at det i grensetilfeller ville være naturlig å legge avgjørende vekt
-på om arbeidstakeren «selv kontrollerer sin
-arbeidstid».
-I loven av 2005 ble «særlig selvstendig» omformulert til «særlig uavhengig», men ifølge Ot.prp.
-nr. 24 (2004–2005) var det ikke ment å legge noe
-annet i begrepet «uavhengig» enn i «selvstendig».
-For å falle inn under begrepet særlig uavhengig stilling er det ikke tilstrekkelig å kunne kontrollere egen arbeidstid og/eller ha fleksibel
-arbeidstid. I henhold til forarbeidene er det den
-rettslige relasjonen mellom arbeidstaker og
-arbeidsgiver som i hvert fall i prinsippet er det
-avgjørende i unntaket fra lovens arbeidstidsregler,
-jf. Ot.prp. nr. 49 (2004–2005) (punkt 13.12.2):
-Bestemmelsen er ment å omfatte arbeidstakere som ikke har en ledende stilling som definert ovenfor, men som likevel har overordnede
-og ansvarsfulle stillinger. For å falle inn under
-begrepet særlig uavhengig stilling er det ikke
-tilstrekkelig å kunne kontrollere egen arbeidstid og/eller ha fleksibel arbeidstid. En særlig
-uavhengig stilling må også innebære en tydelig
-og åpenbar ‘selvstendighet’ eller ‘uavhengighet’ i hvordan og til hvilken tid arbeidsoppgaver organiseres og gjennomføres.
-Som NHO skriver i sin høringsuttalelse:
-«dette dreier seg om arbeidstakere som
-selv prioriterer sine oppgaver. De bestemmer
-selv hva de skal gjøre, hva som skal delegeres
-til andre, når arbeidet skal gjøres og hvordan
-arbeidet skal utføres.» Dette er synspunkter
-departementet deler når det gjelder forståelsen
-av bestemmelsen.
-
-[Side 195]
-
-195
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-I endringsproposisjonen er det vist til og gitt tilslutning til uttalelsen fra NHO, jf. Ot.prp. nr. 24
-(2005–2006), punkt 6.5.3.
-Departementet har i forarbeidene uttalt at prosjektdeltakere i utgangspunktet ikke kan anses å
-være omfattet av unntaksbestemmelsen. Disse
-har i utgangspunktet stor frihet, men blir i praksis
-styrt av omgivelsene sine, herunder spesielt utviklingen i prosjektet. Det sies her videre at den nærmere vurderingen av hvorvidt en arbeidstaker har
-en «særlig uavhengig stilling» må bero på en konkret vurdering.1, 2
-Rettspraksis
-Det finnes heller ikke høyesterettsdommer som
-direkte berører bestemmelsen om unntak for
-arbeidstakere i særlig uavhengige stillinger. Det
-foreligger imidlertid flere lagmannsretts- og tingrettsdommer.
-Følgende momenter synes særlig vektlagt i
-domstolenes avgjørelser fra de siste 7–8 årene:
-– begrenset plikt til å følge instrukser om eget
-arbeid (hva, når og hvordan) og rapportere til
-arbeidsgiver/overordnete
-– muligheter til å påvirke frister og andre ytre
-forutsetninger for arbeidet
-– en ikke ubetydelig selvstendig beslutningsmyndighet
-– begrenset innslag av underordnet arbeid på
-linje med ansatte som klart ikke er særlig uavhengige
-– ikke underlagt kontroll med arbeidstiden.
-Domstolene legger også vekt på de samme
-momentene som for ledende stillinger ved vurderingen av om en stilling er særlig uavhengig. At
-arbeidstaker ikke er underlagt fast kontroll med
-arbeidstiden i den forstand at arbeidsgiver kontrollerer at arbeidstaker er tilstede et avtalt antall
-arbeidstimer pr dag og uke, synes som for de
-ledende stillingene å være et vilkår. I motsetning
-til hva som har vært tilfelle i forbindelse med tvister om ledende stilling, fikk arbeidstaker medhold
-i de fleste avgjørelsene knyttet til særlig uavhengig stilling i denne perioden. Mange av sakene
-omhandler overtidsbetaling, og i de fleste tilfellene fikk arbeidstaker medhold i at stillingen ikke
-var særlig uavhengig og at arbeidstaker dermed
-hadde krav på overtidsbetaling.
-Basert på vektleggingen av de momentene
-som nevnes i de fire første strekpunktene, ser det
-1
-2
-
-Ot.prp. nr. 49 (2004–2005).
-Ot.prp. nr. 50 (1993–1994).
-
-Kapittel 12
-
-ut til at domstolene krever at arbeidstaker skal ha
-en reell mulighet for selv å styre når og hvordan
-arbeidet utføres. Vilkårene for å være omfattet av
-unntaket for særlig uavhengige synes dermed i
-praksis å være strengere enn vilkårene for å være
-unntatt som leder.
-
-12.2.3
-
-Rammer for unntaksbestemmelsene:
-arbeidstidsdirektivet artikkel 17 nr. 1
-
-EUs arbeidstidsdirektiv gir rammer for hvilke
-type unntak som kan gjøres i nasjonal lovgivning
-på området arbeidstid. Lovens unntak for ledende
-og særlig uavhengige stillinger har sitt grunnlag i
-arbeidstidsdirektivets artikkel 17. nr. 1.
-Arbeidstidsdirektivet omfatter i utgangspunktet alle arbeidstakere. Artikkel 17 gir imidlertid
-anledning til å gjøre unntak fra de fleste av direktivets bestemmelser når arbeidstidens varighet på
-grunn av særlige trekk ved den aktiviteten som
-utføres, ikke måles og/eller fastsettes på forhånd
-eller kan fastsettes av arbeidstakerne selv.
-Bestemmelsen lister opp en del eksempler på
-arbeidstakere som kan unntas, blant annet ledere
-og andre med uavhengig beslutningsmyndighet.
-Direktivet krever imidlertid at de alminnelige
-prinsippene for vern av arbeidstakernes helse og
-sikkerhet overholdes også i disse tilfellene. Det
-finnes ikke praksis fra EU-domstolen om den nærmere forståelsen av denne artikkelen.
-Direktivets hovedkriterium for å kunne gjøre
-unntak er at arbeidstiden ikke blir målt, ikke fastsettes på forhånd eller kan fastsettes av arbeidstaker selv. At arbeidstiden ikke blir målt, synes å
-innebære at arbeidsgiver ikke kontrollerer at
-arbeidstaker jobber et fastsatt antall timer og til
-fastsatte tidspunkter. Fraværet av arbeidstidskontroll eller mulighet til selv å fastsette arbeidstiden
-må, slik utvalget oppfatter det, skyldes særlige forhold ved arbeidet. Artikkel 17 nr. 1 bokstav a om
-overordnede med lederfunksjoner eller personer
-med uavhengig beslutningsmyndighet er å regne
-som eksempler på tilfeller der dette kravet er oppfylt.
-I loven gjøres det, i likhet med direktivet artikkel 17 nr. 1, unntak både når det gjelder krav til
-hvile og maksimal arbeidstid, men ikke fra det
-generelle forsvarlighetskravet.
-
-12.3 Vesentlige utviklingstrekk
-Norsk arbeidsliv er i endring. I kapittel 10 peker
-utvalget på en rekke sentrale utviklingstrekk som
-det mener bør vektlegges i utformingen av
-
-[Side 196]
-
-196
-
-Kapittel 12
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-arbeidstidsreguleringen. De siste tiårene har sysselsettingen i kunnskapsintensive tjenesteytende
-næringer økt. Over 40 prosent av de sysselsatte
-har i dag høyere utdanning. De har andre yrker
-og utfører oppgaver av en annen natur enn før.
-Bare i løpet av perioden fra år 2000 til 2015 har
-andelen sysselsatte med leder-, akademiker- og
-høyskoleyrker økt fra rundt 40 til 50 prosent av de
-sysselsatte.
-Som en følge av utviklingen mot et stadig mer
-kunnskapsbasert arbeidsliv har mange arbeidstakere fått betydelig selvstendighet i oppgaveutførelsen og arbeidsoppgavene deres er i mindre
-grad bundet til sted og tid. Mange arbeider like
-fullt under tidspress og må forholde seg til tidsfrister. Ved kunnskapsbasert arbeid er en arbeidstaker ikke så lett å erstatte med en annen, ettersom
-arbeidstakerne i vesentlig grad har individuelle
-oppgaver, kunnskaper og ferdigheter. Dette kan i
-enkelte tilfeller styrke arbeidstakers forhandlingsposisjon overfor arbeidsgiver.
-Et annet viktig utviklingstrekk er at bruk av
-teknologi muliggjør fjernarbeid. Kombinert med
-en utvikling i retning av oppgavestyrt snarere enn
-klokkestyrt arbeid har dette gitt flere arbeidstakere mulighet til å jobbe andre steder enn i
-arbeidsgivers lokaler, gjerne hjemmefra.
-Flere har fått muligheten til å innrette arbeidssituasjonen fleksibelt. Andelen arbeidstakere med
-fleksibel arbeidstid har økt over tid. Midt på 80-tallet hadde om lag 20 prosent av arbeidstakerne
-fleksibel arbeidstid. I dag utgjør gruppen som har
-henholdsvis fleksitid, helt fleksibel eller noe fleksibel arbeidstid 77 prosent, jf. omtale i punkt 5.12.
-Fleksibel arbeidstid forstås da som fleksibilitet til
-å variere når det arbeides innenfor et fastsatt timetall. I YS arbeidslivsbarometer 2015 rapporterte ni
-prosent at de kan innrette arbeidstiden helt selvstendig.
-Det er også sterkere forventninger blant
-arbeidstakere om å kunne tilpasse arbeidstiden til
-familieliv og fritidssysler. Den store utbredelsen
-av ulike typer fleksitidsordninger kan tyde på at
-både arbeidsgivere og arbeidstakere har en positiv holdning til slike ordninger. For å imøtekomme arbeidstakernes ønske om mer fleksibilitet og mer innflytelse over egen arbeidstid ble retten til fleksibel arbeidstid lovfestet i arbeidsmiljøloven i 2005, jf. §10-2 tredje ledd.
-Samtidig er det viktig å understreke at mange
-arbeidstakere fortsatt har fast arbeidstid og må
-være tilstede når tjenesten eller produktet produseres. Store deler av tjenesteytende sektor, herunder helse- og omsorgstjenestene, krever at
-arbeidstakerne er fysisk lokalisert der bruker
-
-eller pasient befinner seg. Den sterke økningen i
-sysselsettingen i kunnskapsbasert virksomhet og
-den teknologiske utviklingen bidrar derfor til at
-gapet i selvstendighet og arbeidstakers fleksibilitet mellom ulike yrkesgrupper blir større.
-
-12.4 Unntaksbestemmelsene for særlig
-uavhengig og ledende stilling –
-omfang, bruk og kjennskap
-Det er gjennomført flere intervjuundersøkelser
-for å kartlegge hvor mange arbeidstakere som er
-unntatt fra hovedreglene om arbeidstid med
-grunnlag i bestemmelsene om unntak for særlig
-uavhengig og ledende stillinger (jf. § 10-12 første
-og annet ledd). I de samme undersøkelsene har
-man søkt å kartlegge hvilke kjennetegn disse
-arbeidstakerne har, hvilken kjennskap arbeidsgivere og arbeidstakere har til reglene om unntak
-for person i ledende og særlig uavhengig stilling,
-samt arbeidsgivers begrunnelse for å anse
-arbeidstaker som ledende eller særlig uavhengig.
-Resultatene fra disse undersøkelsene er nærmere
-omtalt i kapittel 4.
-De nyeste tallene fra disse undersøkelsene
-indikerer at rundt 10 prosent av de sysselsatte er
-unntatt fra arbeidsmiljøloven på bakgrunn av
-bestemmelsene om ledende og særlig uavhengige
-stillinger, jf. § 10-12 første og annet ledd. Arbeidsgiverne oppga at 9 prosent av de ansatte var unntatt av denne grunn, mens 11 prosent av de
-ansatte selv mente at de var unntatt fordi de enten
-hadde ledende eller særlig uavhengig stilling. De
-fleste av disse arbeidet i privat sektor.
-Studiene av unntaksbestemmelsene tyder på
-at både arbeidsgivere og arbeidstakere har
-begrenset kunnskap om kriteriene som skal være
-oppfylt for at en stilling skal regnes som
-«ledende» eller «særlig uavhengig». Rambøll
-(2014) finner at 74 prosent kjente til unntaksbestemmelsene, men at andelen var atskillig lavere
-for små virksomheter og virksomheter uten personalmedarbeider på heltid. Rambøll konkluderer
-med at kunnskapen om muligheten til å unnta
-arbeidstakere fra arbeidstidsbestemmelsene har
-økt, men at dybdekunnskapen om hvilke kriterier
-som skal være oppfylt er lav.
-Både Sentios og Rambølls undersøkelser indikerer at unntaksbestemmelsene brukes annerledes og i større utstrekning enn det som var lovgivers intensjon. Det blir pekt på at om lag en fjerdedel av de arbeidstakerne som oppga at de var unntatt, samtidig oppga at de ikke opplevde at de
-hadde en tydelig selvstendighet når det gjaldt å
-
-[Side 197]
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-bestemme når oppgavene skulle gjøres. Om lag
-en fjerdedel oppga at de ikke hadde myndighet til
-å treffe avgjørelser på vegne av virksomheten.
-Dette kan tyde på at arbeidstakerne ikke fylte vilkårene for å være unntatt som særlig uavhengige.
-Det knytter seg imidlertid atskillig usikkerhet
-til tallene fra undersøkelsene om unntaksbestemmelsene. Etter utvalgets syn reiser dette tvil om
-undersøkelsene gir et korrekt bilde av utviklingen
-i bruk av unntakene og omfanget av feilbruk, og
-det er derfor grunn til å være varsom i tolkning og
-bruk av resultatene.
-Mye tyder på at anvendelse av reglene henger
-tett sammen med kjennskap til reglene. Det framgår av undersøkelsene gjennomført av Sentio og
-Rambøll at dagens unntaksbestemmelser oppleves som uklare og vanskelige å bruke. Både for
-arbeidsgivere og arbeidstakere er det vanskelig å
-vite om en bestemt stilling faller innenfor eller
-utenfor unntakene, og det oppleves som vanskelig
-å skille unntakene fra hverandre. Informantene
-etterspør et oppdatert lovverk og konkrete eksempler på hvordan regelverket skal forstås og anvendes, herunder kriterier for hva som skal til for å
-innplassere arbeidstaker i kategoriene ledende og
-særlig uavhengig stilling. Flere av arbeidslivets
-organisasjoner både på arbeidstaker- og arbeidsgiversiden har også tatt opp dette i sine innspill til
-utvalget, og særlig når det gjelder unntaket for
-særlig uavhengig stilling.
-
-12.5 Utvalgets vurderinger og forslag
-12.5.1 Innledning
-Utvalget har drøftet unntaksbestemmelsene for
-ledende og særlig uavhengige stillinger. Utvalget
-har konsentrert seg om to problemstillinger:
-– Er unntaksbestemmelsene utformet hensiktsmessig?
-– Hvilke tiltak kan bidra til økt klargjøring om
-hvilke arbeidstakere bestemmelsene gjelder?
-I et arbeidsforhold er makten i utgangspunktet
-ulikt fordelt. Arbeidsgiver er vanligvis den sterke
-part. Utvalget observerer imidlertid en utvikling i
-retning av mer mangfold i arbeidslivet hvor nye
-yrkesgrupper og arbeidsoppgaver vokser fram.
-Utvalget viser til at dagens arbeidstakere er en
-heterogen gruppe, og at maktbalansen mellom
-arbeidstakere og arbeidsgiver varierer sterkt.
-Arbeidsmiljøloven er en vernelov. Med dette
-som utgangspunkt mener utvalget at flest mulig
-grupper bør omfattes av arbeidstidsreglene og det
-
-197
-
-Kapittel 12
-
-vernet som reglene er ment å gi arbeidstakernes
-helse, sikkerhet og velferd. Utvalget mener likevel
-at det kan være behov for unntaksbestemmelser
-knyttet til arbeidets art. Hvilke grupper som skal
-unntas og hvilke bestemmelser de skal unntas fra,
-må basere seg på en avveiing av flere forhold.
-Blant disse er
-– vernehensyn knyttet til helse, miljø og sikkerhet og hvordan disse best ivaretas
-– velferdshensyn knyttet til for eksempel familieliv og ønske om likestilling
-– arbeidstakernes kompensasjon (lønn)
-– virksomhetens behov
-– hensynet til et klart og enkelt praktiserbart
-regelverk med liten grad av tolkningstvil.
-Samtidig må unntaksbestemmelser som går ut
-over de generelle rammene i EUs arbeidsdirektiv
-ikke være i strid med artikkel 17. Generelle unntak som følger av arbeidets art og som ikke er
-begrenset til særskilte aktiviteter eller sektorer,
-må derfor ikke være i strid med artikkel 17 nr. 1,
-som kun kan benyttes dersom arbeidstidens
-varighet på grunn av særlige trekk ved den aktiviteten som utføres, ikke måles og/eller fastsettes
-på forhånd eller kan fastsettes av arbeidstakerne
-selv. Utvalget har videre drøftet hvordan unntakene skal utformes, herunder hvorvidt de skal
-være betinget av avtale mellom arbeidstaker og
-arbeidsgiver.
-
-12.5.2
-
-Unntak for arbeidstakere med
-ledende stilling
-Utvalget har drøftet unntaket for arbeidstakere
-med ledende stilling, jf. § 10-12 første ledd. Utvalget ser at arbeidsmiljøloven § 10-3 til § 10-11 ikke
-passer for arbeidstakere med ledende stilling.
-Utvalget mener derfor at unntaksbestemmelsen i
-§ 10-12 første ledd bør videreføres.
-Utvalgets vurderinger er basert på en samlet
-avveiing av de forholdene som er omtalt i punkt
-12.5.1. Utvalget legger vekt på at ansatte i ledende
-stilling har en arbeidssituasjon hvor de selv har
-best mulighet til å ivareta egne verne- og velferdshensyn. Utvalget legger videre vekt på at unntaksbestemmelsen ikke unntar ansatte i ledende stilling fra § 10-2 første ledd. Av dette følger at
-arbeidsgiver plikter å sørge for forsvarlige
-arbeidstidsordninger også for ansatte i ledende
-stilling.
-Unntaket for arbeidstakere i ledende stilling er
-i forarbeidene begrunnet med at dette er arbeidstakere som i særlig grad kan treffe selvstendige
-beslutninger og som selv må vurdere og avgjøre
-
-[Side 198]
-
-198
-
-Kapittel 12
-
-NOU 2016: 1
-Arbeidstidsutvalget
-
-behovet for egen arbeidsinnsats.3 Forarbeidene
-viser imidlertid også til at denne typen arbeid krever stor fleksibilitet, at det jevnlig kan være nødvendig å arbeide utover alminnelig arbeidstid, og
-at det er uhensiktsmessig og upraktisk at krav til
-arbeidstidsregler og tidsregistrering skal gjelde.
-Videre har arbeidstakere i denne typen stillinger
-gjerne et lønnsnivå som forutsetter å dekke en
-arbeidsinnsats ut over vanlig arbeidstid. Unntaket
-omfatter ikke arbeidsledere eller andre i ledende
-stillinger som i stor grad følger dem de er satt til å
-lede.
-I rettspraksis fokuseres det først og fremst på
-om arbeidstakeren har klare og reelle lederfunksjoner med ansvar og myndighet deretter. Dette
-manifesterer seg eksempelvis i form av beslutningsmyndighet på vegne av virksomheten,
-arbeidsledelse ovenfor underordnede, budsjettansvar/budsjettfullmakter, resultatansvar og lignende.
-Utvalget mener at de forholdene som løftes
-fram i forarbeidene og rettspraksis fortsatt bør
-være de sentrale vurderingstemaene for om en
-stilling er av ledende art. De betingelsene som følger av arbeidstidsdirektivets artikkel 17 nr. 1 må
-dessuten være oppfylt. Dette betyr at arbeidstiden
-ikke kan måles og/eller fastsettes, eller fastsettes
-av arbeidstakerne selv. Utvalget oppfatter at gjeldende rettspraksis er innenfor betingelsene som
-følger av artikkel 17 nr. 1.
-Basert på undersøkelsene av bruken av unntaksbestemmelsene og rettsavgjørelser er det
-utvalgets inntrykk at begrepet ledende stilling
-synes å være relativt intuitivt for de fleste. Det ser
-med andre ord ut til å eksistere mindre uklarhet
-knyttet til når unntaksbestemmelsen for ledende
-stilling skal benyttes, enn hva som gjelder bruken
-av særlig uavhengig stilling.
-Utvalget har også drøftet andre måter å regulere unntaket på, herunder muligheten for å skille
-mellom øverste ledelse og ledelse på lavere
-nivåer. Utvalget har blant annet drøftet om en
-generell og direkte unntaksbestemmelse for
-ledende stilling kun skal kunne benyttes for virksomhetens øverste leder. Når det gjelder øvrig
-ledelse kunne man se for seg en adgang til å
-avtale unntak fra alle, eller de fleste bestemmelsene, i loven på individuelt nivå. Utvalget mener at
-vernehensyn knyttet til «mindre ledende» ansatte
-isolert sett kunne tale for en slik todeling.
-Utvalget ser at en strengere regulering av
-arbeidstiden for noen ledere kan ha betydning for
-rekrutteringen til lederstillinger. Mindre krav til
-3
-
-Ot.prp. nr. 49 (2004–2005) punkt. 13.12.2.
-
-tilgjengelighet og færre lange arbeidsdager ville
-kunne gjøre det lettere å kombinere lederstillinger med omsorgsansvar. Utvalget finner imidlertid
-at en todeling mellom lederstillinger vil være
-upraktisk og lite hensiktsmessig.
-Utvalget mener at forarbeider, direktivet og
-rettspraksis gir gode holdepunkter for hvilke
-typer stillinger som er å anse som ledende stillinger etter § 10-12 første ledd. Utvalget ser det likevel som hensiktsmessig med tiltak som kan gi økt
-klarhet. Utvalget foreslår to tiltak. For det første
-foreslår utvalget at det innføres et krav om at det
-skal nedfelles i arbeidsavtalen om man er unntatt
-fra arbeidstidreglene etter § 10-12 første ledd, se
-punkt 12.5.5 for nærmere redegjørelse. For det
-andre foreslår utvalget at det bør utarbeides en
-kortfattet veiledning som gir mer utfyllende forklaring av kriteriene som legges til grunn ved
-bruk av unntaksbestemmelsen for ledende stilling, se punkt 12.5.6 for nærmere redegjørelse.
-
-12.5.3
-
-Unntak for arbeidstakere med særlig
-uavhengig stilling
-Utvalget har drøftet unntaket for arbeidstakere
-med særlig uavhengig stilling, jf. § 10-12 andre
-ledd, og foreslår at denne unntaksbestemmelsen
-videreføres med de presiseringene som gjøres
-nedenfor. Utvalgets vurdering er basert på en
-avveiing av de forholdene som det er gjort rede
-for i punkt 12.5.1. Som for ledende stilling legger
-utvalget også vekt på at unntaksbestemmelsen
-ikke medfører unntak fra § 10-2 første ledd.
-Arbeidsgiver plikter derfor å sørge for forsvarlige
-arbeidstidsordninger for ansatte med særlig uavhengig stilling.
-Utvalget ønsker imidlertid å presisere kriteriene som må være oppfylt for at unntaket skal
-kunne benyttes. Slik utvalget ser det, innebærer
-presiseringen ikke en endring av gjeldende rett.
-Det innebærer at tidligere lovforarbeider og rettspraksis fortsatt er relevante. Presiseringen innebærer imidlertid en innstramming i forhold til
-hvordan unntaksbestemmelsen benyttes i dag.
-Utvalget mener en slik presisering er ønskelig
-av flere grunner. For det første vil en presisering
-bidra til at kriteriene for hvem som kan unntas,
-klargjøres. Dette kan forebygge eventuell feilbruk
-eller feiltolkninger. Dette synes spesielt viktig i en
-tid hvor internasjonal konkurranse, teknologisk
-utvikling og endrede arbeidsoppgaver kan tenkes
-å styrke arbeidsgiveres ønske om å kunne benytte
-unntak fra lovens begrensninger. For det andre er
-unntaket i § 10-12 andre ledd et svært vidtrekkende unntak fra lovens vernebestemmelser. Hen-
+Sysselsettingen i Norge har endret seg markant over de siste tiårene. Et vesentlig særtrekk ved denne utviklingen er at helse- og omsorgsektoren har økt til å bli den enkeltnæringen som sysselsetter flest personer. I 1970 var det 112 000 sysselsatte i helse- og omsorgssektoren. I 2000 hadde antallet økt til 412 000. I 2014 var antallet som arbeidet i helse- og omsorgsektoren 562 000. Om lag 24 prosent av alle ansatte i Norge arbeider i en form for skift- eller turnusordning, se nærmere omtale av dette i kapittel 5. Denne andelen har over de siste årene økt noe, blant annet i takt med at det har blitt flere som jobber i helse- og omsorgssektoren. Samlet sett jobber 234 000 av de ansatte i helse- og omsorgssektoren turnus. Dette utgjør om lag 40 prosent av alle som jobber skift eller turnus i Norge.
+
+1.  **13.3.2 Særtrekk ved skift- og turnusarbeid**
+
+For de fleste virksomheter vil det langt på vei være mulig å ha ordinær drift innen lovens normalrammer. Når det gjelder virksomheter som benytter skift- og turnusarbeid, oppfatter imidlertid *utvalget* at dette stiller seg annerledes. Skift- og turnusarbeid kjennetegnes av at arbeidet foregår på ulike tider av døgnet, og ofte alle dager i uken. Denne typen arbeidstidsordninger skiller seg dermed fra det som ofte blir karakterisert som «normalarbeidsdagen», som typisk vil være arbeid på dagtid og ikke på søndag.
+
+Selv om det også er mulig å organisere skift- og turnusarbeid innen lovens hovedregler, blir det av hensyn til både virksomhetenes drift og arbeidstakernes behov likevel sjelden gjort. I praksis er det slik at mange av de skift- og turnusordningene som vanligvis blir benyttet, og som ofte oppfattes som helt ordinære av både arbeidstakerne og virksomhetene, forutsetter en avtale om unntak.
+
+Gjennom skift- og turnusordninger som benytter lovens avtaleadgang kan vakter med svært ulik vaktlengde, delte dagsverk mv. reduseres eller unngås. I enkelte bransjer brukes dette til å konsentrere arbeidstiden, dermed få lengre friperioder, og å unngå oppstykking av enkeltdager, noe mange arbeidstakere trolig ønsker. Dette bidrar også til mer stabil bemanning, noe som vil kunne være en fordel for pasienter og brukere generelt. Ordinære skift- og turnusplaner ivaretar dermed ønsker og behov både hos arbeidstakere, virksomheter og brukere/kunder.
+
+At unntak fra hovedreglene om arbeidstid må skje gjennom avtaler synes å være vel innarbeidet i norsk arbeidsliv, og *utvalget* har inntrykk av at det i all hovedsak fungerer godt. *Utvalget* viser i denne forbindelse til Fafos rapport om omfang og praksis ved inngåelse av lokale arbeidstidsavtaler.[^248] I rapporten oppsummerer Fafo med at de med enkelte unntak, ikke har registrert store problemer knyttet til å inngå lokale avtaler om unntak fra arbeidstidsbestemmelsene, selv om partene i avtaleprosessen kan ha motstridende interesser og fremmer disse. Fafo finner imidlertid at 9 prosent av virksomhetene med mer enn 50 ansatte og som har inngått lokale avtaler med fagforeningene om unntak fra hviletidsbestemmelsene eller avtaler om gjennomsnittsberegning, opplyser at det har vært svært eller ganske vanskelig å få dette til.
+
+Det har kommet innspill til *utvalget* om at mange bedrifter oppfatter reglene for gjennomsnittsberegning som for strenge og kompliserte, og vanskelig å overholde. NHOs medlemsbedrifter opplyser videre at de har erfaring med at Arbeidstilsynet ofte ikke benytter den tildelte kompetansen fullt ut.
+
+Fafo har også pekt på at det innen visse bransjer og sektorer synes problematisk å komme fram til lokale avtaler om unntak fra enkelte bestemmelser. Dette gjelder blant annet innen helse- og omsorgsektoren. I denne sektoren forutsetter som oftest de ordinære skift- og turnusordningene unntak fra lovens regler om gjennomsnittsberegning og daglig arbeidsfri. Virksomhetene er dermed avhengig av en avtale for å få etablert de nødvendige, ordinære arbeidstidsordningene.
+
+1.  **Skift- og turnusarbeid**
+
+Skiftarbeid kjennetegnes ved at ordningen har faste arbeidslag som etter en viss rytme skifter mellom dag-, kvelds- og nattarbeid. Skiftarbeid blir benyttet i virksomheter som har et jevnt bemanningsbehov på alle skift, for eksempel i mange produksjonsvirksomheter.
+
+Turnusarbeid benyttes når bemanningsbehovet varierer gjennom døgnet og uka. Arbeidstakeren tilhører ikke et fast arbeidslag, og arbeidslagets antall/størrelse varierer avhengig av om det er dag, kveld, natt, lørdag eller søndag. Turnus er typisk innen helse- og omsorgssektoren hvor behovet for bemanning er sterkt varierende over døgn og ukedager.
+
+**\[Boks slutt\]**
+
+Hvordan skift- og turnusordningene er satt opp, vil variere ut fra hvilke virksomheter ordningene skal gjelde for. De fleste skift- og turnusordningene som omtales som ordinære, gjør ikke omfattende unntak fra lovens hovedregler. Dette er søkt illustrert i boks 13.2. Innen helse- og omsorgssektoren innebærer ordinære turnusordninger som oftest noe forkortet hvile mellom enkelte vakter, samt gjennomsnittsberegning av arbeidstiden.
+
+1.  **Eksempler på skift- og turnusplaner**
+
+Illustrasjon av hvordan et par typiske arbeidsplaner fra industrien og sykehus kan se ut.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Eksempel på døgnkontinuerlig 3-skiftsplan med lovens arbeidstid på 38 timer per uke
+
+En 3-skiftsplan rullerer regelmessig over tre uker og har tre skiftlag. Hver arbeidstaker arbeider tilnærmet like mange skift formiddag, ettermiddag og natt. Bedrifter som driver døgnkontinuerlig, driver ikke produksjon i søndagsdøgnet, det vil si mellom lørdag klokken 18.00–søndag klokken 22.00.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Eksempel på helkontinuerlig 5-skiftsplan med tariffavtalt arbeidstid på 33,6 timer per uke
+
+En 5-skiftsplan rullerer regelmessig over 5 uker og har 5 skiftlag. Hver arbeidstaker arbeider like mange skift på formiddag, ettermiddag og natt, til sammen 21 skift på 5 uker.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Eksempel på tredelt turnus med tariffavtalt arbeidstid på 35,5 timer per uke
+
+Tredelt turnus har ikke faste regler for utforming og fastsettes individuelt.
+
+Figur 13.1 og 13.2: NOU 2008: 17
+
+**\[Boks slutt\]**
+
+Som det fremgår av eksemplene i boks 13.2 varierer arbeidstiden fra uke til uke. Enkelte uker overstiger den ukentlige arbeidstiden lovens normalramme for skift- og turnusarbeid på henholdsvis 38 og 36 timer, eventuelt det som er vanlig tariffavtalt ukentlig arbeidstid for disse arbeidstidsordningene på 35,5 timer og 33,6 timer, slik at det er nødvendig med gjennomsnittsberegning av arbeidstiden. Noen skift/vakter er også lenger enn 9 timer, som er rammen for alminnelig, daglig arbeidstid. Mellom enkelte skift/vakter er det kortere daglig hvile enn 11 timer, som er lovens hovedregel. For å få etablert slike skift- og turnusordninger som fremgår av eksemplene, er det derfor nødvendig med avtaler om gjennomsnittsberegning av arbeidstiden og/eller avtaler om forkortet daglig arbeidsfri.
+
+1.  **Eksempler på avtaler om gjennomsnittsberegning og forkortet daglig arbeidsfri i helseforetak og kommuner**
+
+Når aktiviteten varierer over døgnet og uka, må virksomhetene etablere arbeidsplaner som sikrer kontinuerlig bemanning. Avtaler som typisk muliggjør dette er:
+
+- Avtale om gjennomsnittsberegning hvor arbeidstiden gjennomsnittsberegnes over en periode på inntil 52 uker, slik at man kan jobbe noe mer enn 35,5 timer én uke og noe mindre uka etter. Det åpnes for at den daglige arbeidstiden kan være 10 timer, mot 9 timer som er lovens hovedregel, for å gi mulighet for tilstrekkelig lange nattevakter.
+
+- Avtale om redusert daglig hvile som åpner for at friperioden mellom to vakter kan være kortere enn 11 timer, for eksempel ved skifte i turnus fra kveldsvakt (klokken 14.45–21.45) til dagvakt (klokken 07.15–15.00). Slike skifter forekommer én til to ganger per uke i vanlige turnuser.
+
+**\[Boks slutt\]**
+
+1.  **Utvalgets vurderinger og forslag**
+
+    1.  **Generelt om avtaler om unntak fra hovedreglene i loven**
+
+Som nevnt i innledningen og drøftet i kapittel 11 gir arbeidsmiljøloven partene en viktig rolle i utformingen av arbeidstidsordningene gjennom adgangen til å avtale unntak. De ulike avtalenivåene og hvilke unntak som kan avtales på det enkelte nivå, gir etter *utvalgets* syn i hovedsak uttrykk for en hensiktsmessig balanse med tanke på styrkeforholdet mellom partene.
+
+Arbeidstidens lengde, perioden for daglig arbeidsfri, arbeidets fordeling over tid, samt arbeidstidens plassering, er av stor betydning for arbeidstakernes helse og velferd. Dette tilsier at avtaler om større unntak fra lovens hovedregler som utgangspunkt bør inngås mellom parter med jevnt styrkeforhold, kompetansenivå og ressurser til å sikre etterlevelse av avtalen. På de fleste områder bidrar gjeldende system til at partene kommer fram til hensiktsmessige løsninger for arbeidstiden.
+
+I virksomheter hvor arbeidet typisk skjer på dagtid, vil normalarbeidsdagen ikke kreve unntak fra lovens hovedregler. I virksomheter hvor arbeidets art krever skift- og turnusordninger stiller dette seg annerledes. Her vil virksomhetene ofte være avhengig av å avtale unntak fra lovens hovedregler eller få dispensasjon fra Arbeidstilsynet. Dette gjelder også arbeidstidsordninger som representerer normalen både for arbeidstakerne og arbeidsgiverne. Disse ordinære skift- og turnusordningene vil som oftest forutsette en avtale om gjennomsnittsberegning og unntak fra hovedregelen om 11 timer daglig arbeidsfri.
+
+1.  **Utfordringer knyttet til daglig arbeidsfri**
+
+Eksempler på utfordringer med daglig arbeidsfri i skift- og turnusordninger:
+
+- En sykepleier kan ikke jobbe kveldsvakt til klokken 22.00 og så gå på ny vakt klokken 07.00 neste morgen uten at arbeidsgiver får til en avtale med lokalt tillitsvalgte (9 timer hvile).
+
+- En lokomotivfører som kjører toget fra Oslo til Bergen med ankomst klokken  22.35 kan ikke føre toget tilbake klokken 07.58 neste morgen uten avtale med lokalt tillitsvalgte (om lag 9,5 timer hvile).
+
+- Ansatte i Avinor kan ikke arbeide med mottak av fly fram til klokken 22.00 og gå på ny vakt klokken 08.00 neste morgen uten avtale med lokalt tillitsvalgte (10 timer hvile).
+
+**\[Boks slutt\]**
+
+1.  **13.4.2 Særlige utfordringer knyttet til avtaler og arbeidsplaner ved skift- og turnusordninger i helse- og omsorgssektoren**
+
+Helse- og omsorgssektoren er avhengig av arbeidstidsordninger som dekker behovet for tjenester hele døgnet. Arbeidsgiver har ansvar for at det er tilstrekkelig bemanning med riktig kompetanse for å dekke brukernes behov. Helse- og omsorgssektoren skal innfri det samfunnsoppdraget som de er tildelt og gi brukerne nødvendig helsehjelp til rett tid. Det betyr at i deler av helse- og omsorgssektoren må de ansatte inngå i en arbeidsplan som dekker alle dagene i uken og hele døgnet.
+
+*Utvalget* viser til at god arbeidsplanlegging er sentralt i alle virksomheter, ikke minst i helse- og omsorgssektoren. God ledelse er avgjørende for å styre ressursinnsatsen aktivt for å sikre at tjenestetilbudet blir best mulig til enhver tid. Målet er å få til en best mulig tjeneste innenfor gitte økonomiske rammer. Samtidig må dette gjøres på en måte som sikrer gode og forsvarlige arbeidstidsordninger og derved ivaretar hensynet til de ansatte. Det handler blant annet om å ha tilstrekkelig bemanning og kompetanse til de oppgavene som til enhver tid skal utføres. Arbeidsplanleggingen forutsettes å være en del av virksomhetens overordnede planverk som gjennomgås med jevne mellomrom for å sikre riktig ressursinnsats, godt tjenestetilbud og hensynet til de ansatte. En slik systematisk tilnærming er også i samsvar med arbeidsmiljølovens krav til et systematisk helse-, miljø og sikkerhetsarbeid.
+
+Utforming av arbeidsplaner er et viktig verktøy i forbindelse med planleggingen av arbeidet, se punkt 13.2. Selve arbeidsplanen fastsettes av arbeidsgiver etter drøftinger med tillitsvalgte, jf. § 10-3. Det betyr at de tillitsvalgte har reell innflytelse og kan påvirke innholdet av planen, men at den endelige beslutning tas av arbeidsgiver. Etter det opplyste har det enkelte steder utviklet seg en «godkjenningspraksis» som innebærer at tillitsvalgte mener å ha kompetanse til å godta eller forkaste et turnusforslag. En slik praksis er ikke i samsvar med kravene i arbeidsmiljøloven. Med mindre det foreligger en tariffavtale som begrenser arbeidsgivers styringsrett når det gjelder fastsettelse av arbeidsplaner, er en slik ordning noe som har utviklet seg uavhengig av lovens system.
+
+Det er opplyst for utvalget at uenigheten om arbeidsplaner ofte gjelder spørsmålet om den enkelte arbeidstaker skal arbeide mer enn hver tredje søndag. Det vil være relevant å drøfte dette spørsmålet i forbindelse med fastsettelsen av arbeidsplanen. Det vises i denne sammenheng til at den ukentlige arbeidsfrie perioden så vidt mulig skal omfatte søndag og at en arbeidstaker som har utført søn- og helgedagsarbeid, skal ha arbeidsfri følgende søn- og helgedagsdøgn, jf. § 10-8 fjerde ledd. Så lenge forslag til arbeidsplan ikke er i strid med denne bestemmelsen og det har funnet sted reelle drøftelser, kan imidlertid arbeidsgiver beslutte å iverksette arbeidsplanen på tross av innvendinger til omfanget av søndagsarbeid. Dette forutsetter at noe annet ikke er avtalt i tariffavtale, at arbeidstidsordningen er forsvarlig og for øvrig i samsvar med arbeidsmiljølovens krav. Det vises i denne sammenheng blant annet til Arbeidsrettens dom av 3. mars 2014 om arbeidstidsordningen ved Akershus universitetssykehus HF. Arbeidsretten konkluderte med at direktørens vedtak om at alle sykepleiere skulle arbeide minst hver tredje helg og med adgang til å pålegge inntil tre helger i tillegg, ikke var tariffstridig.
+
+Den enkelte arbeidsplan må som nevnt ligge innenfor lovens og tariffavtalens rammer. Mange arbeidsplaner har et innhold som gjør det nødvendig at arbeidsgiver inngår avtale med tillitsvalgte om unntak fra arbeidsmiljølovens regler om for eksempel gjennomsnittsberegning og/eller redusert hviletid. Dette innebærer at selv om arbeidsplaner i henhold til loven kun skal drøftes, kan behovet for avtale knyttet til elementer i planene bety at utarbeidelse av arbeidsplanene i realiteten også blir til en forhandlingsarena. Arbeidsgiver i den enkelte virksomhet, kommune eller helseforetak, må ta stilling til hvem som skal forhandle og inngå avtalen på vegne av virksomheten. Utstrakt bruk av delegasjon til enhetsledere innebærer at det blir nødvendig å forhandle om tilsvarende mange avtaler om unntak. Det er videre av betydning hvilken varighet avtalene om unntak har.
+
+Arbeidsgiver og tillitsvalgte har ulike roller, men et felles ansvar for at avtaleinngåelse skjer på en ryddig måte. Arbeidsgiver har til syvende og sist ansvaret for at den arbeidsplanen som iverksettes er forsvarlig. Etter § 7-2 bokstav f skal arbeidsmiljøutvalget behandle helse- og velferdsmessige spørsmål knyttet til arbeidstidsordningen. Dette omfatter blant annet spørsmålet om det er for lite fritid mellom vakter eller om planene har for lange arbeidsperioder.
+
+Dersom partene lokalt ikke blir enige om gjennomsnittsberegning, kan Arbeidstilsynet samtykke til en slik ordning i samsvar med bestemmelsen i § 10-5 tredje ledd. Arbeidstilsynet skal ved sin avgjørelse legge særlig vekt på hensynet til arbeidstakernes helse og velferd.
+
+*Utvalget* erfarer at partene har ulikt syn på hvorvidt dagens praksis for etablering av arbeidsplaner er problematisk.
+
+KS og Spekter har pekt på at i helse- og omsorgssektoren har bemanningen i helgene utviklet seg til å bli et problemområde, som følge av utfordringer knyttet til å få inngått avtaler om unntak fra arbeidstidsbestemmelsene, som sikrer nødvendige arbeidsplaner. *Utvalget* har også fått innspill fra arbeidsgiversiden på at utfordringene rundt utarbeidelsen av arbeidsplaner vanskeliggjør arbeidet med å redusere deltid. Helgearbeid har stor betydning for muligheten til å tilby heltidsstillinger, og når det legges begrensinger på helgearbeidet, blir arbeidet med å etablere en heltidskultur krevende. *Utvalget* merker seg dette innspillet spesielt sett hen til mandatet, som ber *utvalget* vurdere de samlede arbeidstidsreguleringene i lys av behovet for å mobilisere mer arbeidskraft og herunder legge til rette for heltid. Samtidig blir det fra helse- og omsorgssektoren påpekt at deltid innebærer en rekke ulemper også for virksomhetene. Det gir redusert kontinuitet i tjenesten og økt bruk av vikarer og innleid arbeidskraft. Fast heltidsansatte gir mer forutsigbarhet, større kontinuitet, bedre kvalitet og mer fornøyde brukere og pårørende. Sterkere tilknytning til arbeidsplassen gir lavere sykefravær og større tilfredshet.
+
+*Utvalget* oppfatter at arbeidstakersiden mener dagens system for avtaler om unntak fungerer godt. Arbeidstakersiden viser til at arbeidstidsbestemmelsene åpner for stor grad av samvirke mellom lov og avtale og mener dette gir rom for fleksibilitet for begge parter på alle nivåer. Arbeidstakersiden er videre opptatt av at avtalesystemet er viktig for arbeidstakernes medbestemmelse og partenes ansvar. Unio peker på at loven gir de nødvendige mulighetene for fleksibilitet og at reglene stiller krav om fremgangsmåter som sikrer at unntak gjøres etter grundige vurderinger. LO mener eventuelle utfordringer bør løses innenfor gjeldende system.
+
+Arbeidstidsordninger i forbindelse med skift- og turnusarbeid har også vært drøftet i tidligere offentlige utvalg. Blant annet pekte Skift/turnusutvalget på at ufrivillig deltid i stor grad henger sammen med at det i mange virksomheter er vanskelig å kombinere bemanningsbehovene med fulle stillinger for alle som ønsker det.[^249] Utvalget viste til at bemanningsproblemer i helgene var sentralt innen helse- og omsorgssektoren, og at tiltak som ikke griper tak i helgeproblematikken bare i begrenset grad kan bidra til uønsket deltid. Skift/turnusutvalget konkluderte med at:
+
+Etter en samlet vurdering av ulike virkemidler for å få ned deltidsfrekvensen blant turnusarbeidere, mener utvalget at en ikke kan komme utenom en viss økning i helgefrekvensen i mange turnusplaner. I mange tilfeller vil det også være behov for at noen ansatte arbeider hyppigere enn hver tredje helg.
+
+1.  **13.4.3 Behov for endring**
+
+*Utvalget* vil understreke viktigheten av at samarbeidet mellom arbeidsgiver og de tillitsvalgte skjer i gjensidig respekt for hverandres roller og oppgaver. Lovbestemte ordninger som innebærer at unntak fra lovens hovedregler krever avtale, vil ta den tiden som er nødvendig for å få en avtale på plass. Medbestemmelse kan være tidkrevende, men effekten av at arbeidstidsordningen er avtalt må ikke undervurderes. *Utvalget* vil peke på at de tillitsvalgtes rolle ved avtaleinngåelsen er viktig for å medvirke til gode arbeidstidsordninger for arbeidstakerne. Avtaler om arbeidstid har på denne måten en verdi i seg selv.
+
+Det er av avgjørende betydning at virksomhetene innenfor lovens rammer og i samarbeid med arbeidstakerne, gis mulighet til å organisere arbeidstiden på en hensiktsmessig måte. God organisering av arbeidstiden er viktig for best mulig å imøtekomme brukernes, kundenes og medarbeidernes behov. Samtidig er det viktig at dette skjer på en hensiktsmessig måte. Ingen av partene er tjent med at det brukes unødig mye tid og ressurser på arbeidstidsplanleggingen.
+
+Et *flertall i utvalget, medlemmene Ulltveit-Moe, Børkje, Christiansen, Harborg, Holden, Hægeland og Raaum* mener at det er behov for en endring i hvordan samarbeidet om arbeidsplaner fungerer i helse- og omsorgssektoren. De arbeidstidsordninger som krever avtale, er helt ordinære i de aktuelle virksomhetene. Ordningene har vært praktisert i lang tid, og de unntakene som krever avtale, er i stor grad motivert av å gi gode arbeidsplaner for den enkelte arbeidstaker. Behovet for avtale om gjennomsnittsberegning og kortere hvile gir likevel arbeidstakersiden et forhandlingskort, som i mange tilfeller brukes til å gi arbeidstakernes representanter mulighet til reelt sett å forhandle om utarbeidelse av arbeidsplanene. Dette går ut over den lovfestede ordningen hvor arbeidsplanen skal utarbeides i samarbeid med arbeidstakernes tillitsvalgte og drøftes med arbeidstakernes tillitsvalgte før iverksettelsen.
+
+Behovet for avtale om gjennomsnittsberegning og kortere hvile blir benyttet til å stoppe arbeidsplaner som innebærer arbeid noen flere søndager enn hver tredje helg. Dermed blir det vanskeligere for virksomhetene å få dekket behovet for kvalifisert arbeidskraft i helgene. Det fører også til behov for deltidsstillinger for å dekke helgevakter.
+
+*Flertallet* vil peke på at virksomheter i helse- og omsorgssektoren ivaretar viktige samfunnsmessige oppgaver. Konsekvensene av at man eventuelt ikke får etablert nødvendige arbeidsplaner for å dekke driftsmessige behov, går ikke bare utover partene selv, men vil i tillegg kunne gå utover en tredjepart som har begrensede muligheter til å velge andre tjenestetilbydere. Fast ansatte i hele stillinger gjør at brukerne opplever større forutsigbarhet, kjennskap og kontinuitet, som fremmer trygghet og ro. Når kvalifisert personell i en del tilfeller må erstattes med ufaglærte vikarer i helgene, gir det redusert kvalitet og kontinuitet i tjenestene. *Flertallet* viser også til Produktivitetskommisjonens innstilling, hvor det påpekes at i deler av offentlig sektor er bemanningen på kveldstid og i helger vesentlig lavere enn det som er ønskelig, både ut fra et effektivitets- og brukerperspektiv.[^250]
+
+Problemene med å få dekket helgevakter i helse- og omsorgssektoren, og konsekvensene dette kan ha både for bemanningen i helgene og for omfanget av ufrivillig deltid, har vært kjent i mange år. Dette blir blant annet illustrert ved omtalen av dette i Skift/turnusutvalgets rapport i 2008. Likevel har partene ikke vært i stand til å finne fram til noen løsning på problemet. Etter *flertallets* mening taler dette for at man bør vurdere mindre endringer i loven.
+
+Videre mener *flertallet* generelt at det fremstår som lite hensiktsmessig at ordinære skift- og turnusordninger som må benyttes for ordinær drift i ulike typer virksomheter, forutsetter en avtale. Slike ordninger er normalen for en stor del av arbeidslivet og ivaretar ønsker og behov både hos arbeidstakere, virksomheter og brukere/kunder.
+
+På bakgrunn av dette og de utfordringene i spesielt helse- og omsorgssektoren som er beskrevet ovenfor har *flertallet* drøftet muligheten og ønskeligheten av innføring av enkelte særregler for helse- og omsorgssektoren og/eller for virksomheter med skift- eller turnusarbeid mer generelt.
+
+1.  **13.4.4 Særregulering for enkelte sektorer eller for skift- og turnusarbeid?**
+
+For enkelte deler av arbeidslivet, som har arbeidsoppgaver av en spesiell karakter, er det behov for særregulering som er tilpasset dette. For en del sektorer eksisterer det derfor egne regler om arbeidstid. Dette gjelder blant annet for petroleumssektoren, politiet, brannvesenet og deler av Forsvaret. Gjennom denne typen særregulering har man søkt å ta høyde for de særegne forholdene som deler av arbeidslivet kjennetegnes av. Dette kan være forhold som knytter seg til arbeidets art eller virksomhetenes samfunnsoppdrag. De sektorene som i dag har egne regler, har relativt få arbeidstakere og/eller representerer virksomheter med en særegen karakter. I tillegg ivaretar flere av de unntatte sektorene viktige samfunnskritiske oppgaver.
+
+*Særregler for helse- og omsorgssektoren?*
+
+*Flertallet* viser til at det er innen helse- og omsorgssektoren utfordringene knyttet til avtaler om unntak fra arbeidstidsreglene synes størst. I tillegg ivaretar denne sektoren særlig viktige samfunnsmessige, og til dels også samfunnskritiske oppgaver. Det kan dermed få store negative konsekvenser blant annet for kritiske, livsviktige funksjoner dersom det ikke lar seg gjøre å etablere arbeidsplaner som er nødvendige for å dekke driften. Konsekvensene av at man ikke får etablert nødvendige arbeidstidsordninger i helse- og omsorgssektoren går ikke bare utover partene selv, men kan gå utover viktig samspill mellom ulike yrkesgrupper og ha negative konsekvenser for brukere og pasienter.
+
+Helse- og omsorgssektoren favner imidlertid vidt, og omfatter mange typer virksomheter med ulike driftsformer, særtrekk og behov. En del av virksomhetene har utelukkende dagarbeid, mens andre har drift hele døgnet, uka og året. Det er også store forskjeller med hensyn til hvilke type oppgaver disse ulike virksomhetene ivaretar, og også hvor samfunnskritiske de kan anses for å være.
+
+*Flertallet* viser videre til at helse- og omsorgssektoren er en stor og voksende sektor i samfunnet. Blant annet med tanke på behovet for personell i helse- og omsorgssektoren framover, vil en særregulering kunne være uheldig. Innføring av særregulering for denne sektoren vil i tillegg være et lite treffsikkert virkemiddel som også omfatter mange arbeidstakere som ikke arbeider skift/turnus.
+
+*Flertallet* viser endelig til at også andre sektorer enn helse- og omsorgssektoren har utstrakt bruk av skift- og turnusarbeid, og dermed også et mulig behov for enkelte særregler.
+
+*Flertallet* har derfor kommet til at det ikke bør være egne regler om arbeidstid for helse- og omsorgssektoren.
+
+*Særregler for skift- og turnusarbeid?*
+
+Generelt sett mener *flertallet* at en i størst mulig grad bør unngå særregler for deler av arbeidslivet. Lovens utgangspunkt er at normalrammene gjelder for hele arbeidslivet, og at unntak fra dette avtales mellom partene, eventuelt gis ved dispensasjon fra tilsynene. Dette bidrar til et oversiktlig og tilgjengelig regelverk, og det bidrar til likebehandling av arbeidstakere i ulike deler av arbeidslivet.
+
+Det kan imidlertid stilles spørsmål ved om dagens regler i tilstrekkelig grad tar høyde for det som faktisk er normalen i den delen av arbeidslivet hvor arbeidets art krever skift- og turnusordninger. *Flertallet* viser i den sammenheng til at det i arbeidslivet for øvrig stort sett er mulig å ha vanlig drift med utgangspunkt i lovens hovedregler, men for virksomheter med skift- og turnusordninger ville dette gi en lite hensiktsmessig drift både for arbeidstaker og arbeidsgiver. Forskjellene i driftsbehovet taler derfor etter *flertallets* syn for at det er behov for enkelte særregler for skift- og turnusarbeid. *Flertallet* vil i denne sammenheng peke på at loven allerede inneholder enkelte særregler for skift- og turnusarbeid, ved at den alminnelige arbeidstiden for slikt arbeid er kortere enn for annet arbeid.
+
+*Flertallet* mener at det ikke er ønskelig å gjøre generelle endringer i regelverket for å avhjelpe utfordringer som spesifikt gjelder i virksomheter med skift- og turnusarbeid. Dette vil kunne gi mange uønskede og utilsiktete konsekvenser.
+
+På bakgrunn av dette mener derfor *flertallet* at ytterligere særregler i loven for skift- og turnusarbeid kan være en hensiktsmessig løsning på utfordringene med å etablere gode arbeidstidsordninger i helse- og omsorgssektoren.
+
+Det blir i den forbindelse et viktig spørsmål hva som skal defineres som skift- og turnusarbeid og som skal falle innenfor særreglenes område. *Flertallet* antar at en hensiktsmessig løsning vil være å ta utgangspunkt i de grupper som er definert i § 10-4 om kortere arbeidstid for ulike skift- og turnusordninger, men dette må utredes nærmere før en eventuell lovendring.
+
+1.  **13.4.5 Endringer i arbeidsgivers mulighet til å gjennomsnittsberegne arbeidstiden og forkorte daglig arbeidsfri for skift- og turnusordninger**
+
+Arbeidsgivers rett til å organisere arbeidstiden er en viktig del av dennes styringsrett. Den representerer en vesentlig forutsetning for å kunne organisere virksomhetens drift på en hensiktsmessig, effektiv og lønnsom måte. I tillegg er den av betydning for å kunne imøtekomme brukernes og kundenes behov. *Flertallet* mener at dette er forhold som også må reflekteres i utformingen av arbeidstidsbestemmelsene.
+
+*Flertallet* mener at de endringene i arbeidstidsbestemmelsene som Stortinget nylig har vedtatt, ivaretar en del av det behovet for større fleksibilitet som arbeidsgiversiden har etterlyst.[^251] Reglene har ikke virket lenge nok til at det kan sies noe klart om effekten. Men *flertallet* vil peke på at det etter endringene fortsatt er behov for avtaler om gjennomsnittsberegning og kortere daglig arbeidsfri for å kunne gjennomføre ordinære turnuser. Dette taler for at endringene neppe vil løse problemene knyttet til arbeidstidsordninger i helse- og omsorgssektoren. *Flertallet* vil i denne forbindelse peke på at Fafos rapport om brudd på arbeidstidsbestemmelsene dessuten indikerer at adgangen til å avtale unntak fra arbeidstidsbestemmelsene ikke benyttes fullt ut, se nærmere om dette i kapittel 8 og 11.[^252]
+
+Som nevnt er det særlig rammene for gjennomsnittsberegning og daglig arbeidsfri som synes å være til hinder for at arbeidsgiver kan sette opp ordinære skift- og turnusordninger uten avtale. Ved å endre lovens rammer i retning av at arbeidsgiver i noe større grad enn i dag kan styre arbeidstidens lengde og plassering i begrensede perioder, vil det kunne løse mange av utfordringene knyttet til fastsettelsen av ordinære skift- og turnusplaner.
+
+Det er på det rene at forslag som gir arbeidsgiver mulighet til å fastsette arbeidstidsordninger som i dag krever avtale, vil innebære en forskyving av makt fra arbeidstakerne til arbeidsgiver. *Flertallet* peker imidlertid på at en utvidelse av arbeidsgivers styringsrett med hensyn til gjennomsnittsberegning og forkorting av daglig arbeidsfri ikke innebærer en utvidelse av de ytre rammene for arbeidstiden. Disse ligger fast. Arbeidsgiver vil imidlertid få en noe utvidet styring med hensyn til konsentrasjon og fordeling av arbeidstiden.
+
+I lys av de utfordringene som foreligger knyttet til inngåelse av lokale avtaler i enkelte virksomheter, og at dette er utfordringer som har vært kjent i mange år uten å ha funnet sin løsning, er det etter *flertallets* syn grunn til å vurdere nærmere lovens regler om gjennomsnittsberegning og forkorting av den daglige arbeidsfri perioden for skift- og turnusordninger.
+
+Ved den videre vurderingen har *flertallet* lagt stor vekt på at arbeidsmiljølovens bestemmelser om arbeidstid primært skal sikre arbeidstakerne vern. Utforming av unntak fra hovedreglene vil i imidlertid måtte bygge på en avveiing av flere ulike hensyn. Mens en utvidet adgang til unntak vil kunne øke risikoen for negative helseeffekter av lang og ubekvem arbeidstid noe, kan bidraget til økt effektivitet og bedre ressursutnyttelse føre til en samlet samfunnsmessig gevinst. Ofte vil ulemper og fordeler tilfalle forskjellige grupper. En samfunnsmessig vurdering må derfor bygge på en vektlegging av interessene til ulike grupper.
+
+*Flertallet* legger videre vekt på at deres forslag til endringer ikke rokker ved arbeidstakersidens lovfestede rett til medvirkning ved utarbeidelse og drøfting av arbeidsplaner. *Flertallet* understreker viktigheten av at arbeidsgiver legger til rette for reell medvirkning og søker å involvere den enkelte arbeidstaker og de tillitsvalgte for å sikre at det etableres gode arbeidsplaner.
+
+*Flertallet* merker seg at nasjonale og internasjonale undersøkelser indikerer at dagens situasjon preges av at den enkelte arbeidstaker i norsk helse- og omsorgssektor opplever å mangle innflytelse over egen arbeidstid. SSBs arbeidskraftsundersøkelse viser at arbeidstakerne innen helse- og omsorgssektoren i mindre grad enn i andre sektorer opplever at de kan påvirke egen arbeidssituasjon. En internasjonal undersøkelse av helsepersonells arbeidsmiljø[^253] viser at mens norsk helsepersonell er på topp hva angår jobbtilfredshet og i mindre grad er utsatt for anstrengelser og belastninger enn i andre land, er de blant de som oppgir å ha relativt sett minst innflytelse på turnus/vaktplaner. *Flertallets* inntrykk er at utfordringene knyttet til avtaleinngåelse fører til at arbeidsgiverressurser som ellers kunne vært brukt til å forbedre den enkelte arbeidstakers medvirkning, i noen tilfeller heller går med til å takle utfordringene knyttet til inngåelse av avtaler påkrevd for å få arbeidsplaner på plass.
+
+For vurderinger av de samlede effektene av *flertallets* forslag er det viktig om det finnes mekanismer eller tiltak som kan kompensere dem som eventuelt taper på regelendringer. Konkret kan endringer i regulering av skift- og turnusarbeid som eventuelt fører til velferdstap for ansatte kompenseres ved høyere lønn. Det er imidlertid større bekymring knyttet til mulige effekter på helse ettersom de vanskeligere lar seg definere og motvirke. *Flertallet* vil derfor understreke at et viktig utgangspunkt har vært at endringer i regelverket ikke skal gå lenger enn det som er tilstrekkelig for å etablere og organisere ordinære skift- og turnusordninger, spesielt i helse- og omsorgssektoren*. Flertallet* vil videre understreke at det ikke legges til rette for andre ordninger enn de som i dag allerede praktiseres i denne sektoren.
+
+*Endring av reglene om gjennomsnittsberegning for skift/turnus*
+
+*Flertallet* viser til gjennomgangen av reglene om gjennomsnittsberegning av arbeidstiden under punkt 13.2.
+
+I Norge har vi generelt en høyere arbeidsmiljøstandard og et bedre utviklet partssamarbeid enn i mange EU-land. Dette kan henge sammen med at vi har et lovverk og et samarbeidsklima som legger opp til et sterkere vern enn minimumskravene i arbeidstidsdirektivet og som i vesentlig grad beror på avtaler mellom partene. Dette innebærer imidlertid noe strammere rammer i lovverket sammenlignet med direktivet og utfordringer innen for eksempel helse- og omsorgssektoren, hvor ordinære skift- og turnusordninger krever avtale om unntak.
+
+*Flertallet* anser det ikke nødvendigvis ønskelig å utnytte direktivets muligheter for unntak fra hovedreglene fullt ut. *Flertallet* har imidlertid merket seg at det i Sverige er regler som gir arbeidsgiver vesentlig større handlingsrom for å gjennomsnittsberegne arbeidstiden enn i Norge.
+
+I Sverige er den alminnelige arbeidstiden, som i Norge, 40 timer per uke. Når det er nødvendig med hensyn til arbeidets natur eller arbeidsforholdene for øvrig, kan imidlertid arbeidstiden i Sverige gjennomsnittsberegnes over en periode på maksimalt fire uker.[^254] Dette gir arbeidsgiver adgang til å konsentrere arbeidstiden i perioder. Grensen for hvor mye som kan jobbes i en enkelt uke er bare begrenset av kravene til daglig og ukentlig arbeidsfri.
+
+*Flertallet* finner også grunn til å nevne at det i dansk lovgivning ikke er regler som begrenser daglig og ukentlig alminnelige arbeidstid og dermed heller ingen grenser for gjennomsnittsberegning av den alminnelig arbeidstiden. Begrensningene ligger i bestemmelser om daglig og ukentlig hvile og grensen for samlet arbeidstid (alminnelig arbeidstid pluss overtid). Den samlede arbeidstiden skal være maks 48 timer per uke i snitt over en periode på fire måneder. Arbeidstiden i Danmark er i stor grad regulert i tariffavtaler.
+
+*Flertallet* mener at det for skift- og turnusarbeid bør gjøres endringer i regelverket som i noe større grad enn i dag gjør det mulig for arbeidsgiver å gjennomsnittsberegne arbeidstiden uten at det er nødvendig med avtale. Arbeidsgivers mulighet for gjennomsnittsberegning bør likevel være klart snevrere enn det som er tilfelle dersom man benytter avtaleadangen i loven. *Flertallet* understreker at den løsningen som foreslås i begrenset grad benytter det handlingsrommet som ligger i arbeidstidsdirektivet, og reglene vil dermed fortsatt være betydelig strengere enn dansk lov.
+
+En endring av arbeidsgivers rammer kan tenkes gjennomført på ulike måter. *Flertallet* vurderer at en hensiktsmessig løsning kan være at arbeidsgiver i forbindelse med skift- og turnusarbeid, uten avtale med arbeidstaker eller tillitsvalgte, kan bestemme følgende om den alminnelige arbeidstiden og gjennomsnittsberegning av denne:
+
+- Den daglige alminnelige arbeidstiden skal ikke overstige ti timer i løpet av 24 timer.
+
+- Den alminnelige arbeidstiden skal ikke overstige 48 timer i en enkelt uke.
+
+- Den alminnelige arbeidstiden skal i løpet av et periode på høyst fire uker i gjennomsnitt ikke bli lenger enn det som følger av reglene i § 10-4 (det vil si 38 og 36 timer per uke for ulike skift- og turnusordninger).
+
+Forslaget innebærer at rammene for hva arbeidsgiver kan fastsette uten avtale er mer begrenset enn rammene for hva som kan avtales. Mens maksimal lengde på daglig arbeidstid er den samme som for individuell avtale, er den maksimale ukentlige alminnelig arbeidstid to timer kortere. Forslaget om å sette perioden for gjennomsnittsberegning til fire uker innebærer en klar begrensning sammenlignet med hva som i dag kan avtales ved individuell avtale. En såpass kort periode som fire uker vil i betydelig grad redusere muligheten til å konsentrere arbeidstiden over tid, og dermed ivareta vernehensyn. *Flertallet* vil presisere at forslaget om grensen på fire uker ikke regulerer hvor mange uker en arbeidsplan kan dekke, så lenge grensen for den alminnelige arbeidstiden for hver fireukersperiode overholdes.
+
+*Flertallets* forslag vil gjøre det mulig å fastsette ordinære skift- og turnusordninger uten avtale når dette er nødvendig. Behovet for avtale blir dermed mindre effektivt som forhandlingskort, og vil derfor i mindre grad kunne brukes til å begrense omfanget av søndagsarbeid. Det vil gjøre det lettere for virksomhetene å sikre tilstrekkelig bemanning i helgene.
+
+*Flertallet* vil likevel framheve at avtale med arbeidstakersiden vil gi videre rammer for gjennomsnittsberegning. Avtaleveien vil derfor fortsatt være mer attraktiv for arbeidsgiver. Etter *flertallets* mening vil dette sikre at avtale om gjennomsnittsberegning i all hovedsak fortsatt vil ligge til grunn for arbeidsplanene. Dette sikrer medvirkning fra arbeidstakersiden.
+
+Tabell 13.1 og 13.2 gir eksempler på mulig maksimal konsentrasjon av arbeidstiden per dag og per uke ved et forslag om maksgrenser for alminnelig arbeidstid (det vil si ikke med tillegg av overtid) på 10 timer per dag, maksimalt 48 timer i en enkelt uke og ikke mer enn 38 timer i gjennomsnitt i løpet av fire uker. Eksempelet med en alminnelig arbeidstid på 38 timer er valgt fordi dette er vanlig lovfestet arbeidsuke for de fleste i skift- og turnusordninger.
+
+1.   
+
+|               |     |      |     |      |     |     |     |
+|---------------|-----|------|-----|------|-----|-----|-----|
+| Dag           | Man | Tirs | Ons | Tors | Fre | Lør | Søn |
+|               |     |      |     |      |     |     |     |
+| Timer per dag | 10  | 10   | 10  | 10   | 8   | 0   | 0   |
+|               |     |      |     |      |     |     |     |
+
+1.   
+
+|               |     |     |     |     |     |     |     |     |
+|---------------|-----|-----|-----|-----|-----|-----|-----|-----|
+| Uke           | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
+|               |     |     |     |     |     |     |     |     |
+| Timer per uke | 8   | 48  | 48  | 48  | 48  | 48  | 48  | 8   |
+|               |     |     |     |     |     |     |     |     |
+
+*Endring av reglene om unntak fra den daglige arbeidsfrie perioden for skift/turnus*
+
+I henhold til § 10-8 første ledd skal arbeidstaker ha minst 11 timer sammenhengende arbeidsfri i løpet av 24 timer. Det kan inngås avtale med tillitsvalgte i virksomheter bundet av tariffavtale om unntak fra dette, men i hovedsak ikke kortere enn 8 timer i løpet av 24 timer. For å kunne benytte en ordinær skift- og turnusordning i helse- og omsorgsektoren kreves det normalt slik avtale.
+
+Lovens hovedregel om 11 timer daglig arbeidsfri er på linje med hovedregelen i direktivet. Direktivet åpner imidlertid for flere muligheter for unntak enn det som er gjennomført i arbeidsmiljøloven. Direktivet åpner for at det ved lov eller forskrift kan fastsettes kortere daglig hvile for enkelte sektorer/typer av virksomhet, situasjoner og aktiviteter, jf. artikkel 17 nr. 3 og 4. Enkelte av unntakene i direktivet knytter seg eksplisitt til skiftarbeid. Videre er ulike helse- og omsorgsinstitusjoner blant de eksempler som nevnes for sektorer/virksomheter hvor det åpnes for unntak. Når det gjelder muligheten for unntak etter direktivets artikkel 17 nr. 3 og 4 er denne benyttet i begrenset omfang i norsk rett, for eksempel ved at Arbeidstilsynet kan gi samtykke til arbeidstidsordninger som innebærer kortere daglig arbeidsfri når det er lang avstand mellom arbeidsstedet og arbeidstakers bosted, og for helse- og omsorgsarbeid samt vakt- og overvåkningsarbeid der arbeidet helt eller delvis er av passiv karakter, jf. § 10-12 sjette og sjuende ledd.
+
+Som det fremgår av boks 13.2 og 13.3, er det vanlig at skift- og turnusordninger har forkortet arbeidsfri mellom enkelte skift/vakter, for eksempel i forbindelse med overgang fra kveldsskift/-vakt til dagskift/-vakt. *Flertallet* mener det er hensiktsmessig å benytte den unntaksadgangen som ligger i direktivet i noe større grad enn i dag, og vil derfor foreslå å åpne for at arbeidsgiver kan fastsette kortere hvile i en skift- eller turnusordning.
+
+Prosessen i forkant vil være annerledes når det inngås en avtale om dette, enn om arbeidsgiver ensidig skal kunne bestemme en slik forkorting. *Flertallet* vil derfor bemerke at det uansett vil påhvile arbeidsgiver et ansvar for å legge til rette for arbeids- og arbeidsmiljøforhold som bidrar til at et eventuelt økt risikopotensiale ikke realiseres. Det er arbeidsgiver som fullt ut bærer ansvaret for at det legges til rette for et forsvarlig arbeidsmiljø. Det må også være arbeidsgivers ansvar å vurdere forutsetningene for de rammene en legger til grunn for arbeidstiden i virksomheten. *Flertallet* anser det som viktig at virksomheten kan dokumentere vurdering av risikoen den enkelte arbeidsplan innebærer.
+
+Direktivet setter ingen konkret grense for hvor mye den daglige hvilen kan forkortes. Begrensningen i så måte er direktivets krav om at arbeidstakerne skal sikres tilsvarende kompenserende hvile, eventuelt annet passende vern. *Flertallet* finner derfor grunn til å knytte noen generelle bemerkninger til risikoen for skadelige helsevirkninger og feilhandlinger i forbindelse med forkorting av hvilen.
+
+Det finnes solid kunnskap om arbeidstidsordninger og risiko for skadelige helsevirkninger og for feilhandlinger, skader og ulykker. Like fullt er det vanskelig ut i fra denne forskningen å fastsette absolutte grenser for når risikoen blir for stor eller uhåndterbar. Dette skyldes blant annet at betydningen av arbeidstid både kan forverres og modereres i et samspill av faktorer på individ-, samfunn- og virksomhetsnivå. Men tendensen til økt risiko for negative helsevirkninger er tydeligere med økende omfang av lang arbeidstid, nattarbeid og skift- og turnusarbeid.
+
+Kortere hviletid innebærer generelt økt helserisiko. Virkningen avhenger av mange elementer, herunder hva risikonivået var før endringen og hvor stor endringen er. En endring vil også kunne modereres av eksempelvis gode arbeids-, arbeidsorganiserings- og arbeidsmiljøforhold. Enhver endring som innebærer en potensielt forhøyet risiko og de ulemper dette vil kunne medføre, må sees i sammenheng med gevinstene av endringsforslaget.
+
+*Flertallet* er i utgangspunktet positive til at det norske regelverket i enkelte sammenhenger har et strengere vern enn det direktivet åpner for. Arbeidslivet i Norge er velutviklet, godt organisert og effektivt sammenlignet med de fleste land, og legger altoverveiende godt til rette for effektive arbeidsprosesser og gode arbeidsforhold i god balanse med privat- og familieliv. Arbeidsstyrkens sammensetning, med både høy yrkesdeltakelse og høy kvinneandel sammenlignet med de fleste andre land, tyder på et velfungerende arbeidsliv og at regelverket bidrar til dette.
+
+Like fullt kan det være grunn til å vurdere om virksomhetene har behov for større fleksibilitet i noen sammenhenger. En endring kan være aktuell, dersom en noe økt risiko vurderes som håndterbar og forsvarlig, dersom modererende og forebyggende forhold potensielt er realiserbare og positive effekter av tiltaket oppveier for en moderat risikoøkning.
+
+*Flertallet* viser til at redusert hvile ikke er ideelt. Hvor stort unntak fra dagens krav til 11 timer daglig hvile som skal tillates må derfor vurderes nøye, både når det gjelder om risikonivået er akseptabelt og om de ulemper en risikoøkning måtte medføre kan forsvares sett opp mot gevinstpotensialet.
+
+*Flertallet* viser til at dersom arbeidstaker unntas fra kravet til 11 timers daglig arbeidsfri, skal han/hun etter direktivet sikres tilsvarende kompenserende hvile, eventuelt annet passende vern, for å unngå uheldige virkninger av forkortet arbeidsfri. *Flertallet* vil imidlertid understreke at de skift- og turnusordninger som *flertallet* med sitt forslag ønsker å legge til rette for, ikke avviker fra dagens ordinære skift- og turnusordninger. Dette tilsier at det ikke er grunnlag for å forvente noen markant, om noen, risikoøkning.
+
+Endringer i rammene for daglig arbeidsfri kan gjøres på flere måter. I en avveiing mellom ulike alternativer, hvor både hensynet til virksomhetenes behov og hva som er best for arbeidstakerne ut fra et helse- og sikkerhetsmessig perspektiv er viktig, mener *flertallet* at sistnevnte bør veie tungt.
+
+Det er ulike alternativer som kan være aktuelle, for eksempel en forkortelse til åtte eller ni timer. For arbeidstakerne kan imidlertid skillet mellom en forkortelse på åtte eller ni timer være av helsemessig betydning. Dersom det tas høyde for at arbeidstaker blant annet bruker noe tid både på å komme seg hjem etter arbeid, og så på å komme tilbake igjen etter hvilen, vil tiden som står igjen til søvn i mange tilfeller være om lag seks timer dersom hvilen forkortes til åtte timer. Fra et helsemessig perspektiv vil derfor en hviletid på minst ni timer være å foretrekke, ettersom det vil gi arbeidstaker lenger tid til restitusjon og hvile mellom to arbeidsøkter.
+
+Ut fra eksemplene på hvordan ordinære skift- og turnusordninger ofte legges opp, kan det dessuten se ut som at en mulighet for daglig arbeidsfri periode på ni timer langt på vei vil ivareta virksomhetenes behov. *Flertallet* foreslår på bakgrunn av dette at arbeidsgiver i virksomhet med skift- eller turnusordning kan bestemme at den daglige arbeidsfrie perioden kan settes ned til ni timer, men at det settes et tak på antall tilfeller av kortere hvile for den enkelte arbeidstaker i løpet av en gitt periode.
+
+*Om konsekvenser av forslagene*
+
+*Flertallet* oppfatter at det eksisterer utfordringer knyttet til å få etablert ordinære skift- og turnusordninger, spesielt i helse- og omsorgssektoren. Som påpekt over fører behovet for avtale om gjennomsnittsberegning og kortere hvile til at arbeidsplaner som innebærer hyppigere søndagsarbeid enn hver tredje helg blir stoppet.
+
+*Flertallets* forslag vil innebære at de fleste ordinære turnusplaner i helse- og omsorgssektoren kan gjennomføres innenfor de rammer som arbeidsgiver ensidig kan fastsette. Arbeidsplanene skal drøftes med tillitsvalgte, men den endelige beslutning tas av arbeidsgiver. Dette vil gjøre det mulig for arbeidsgivere å fastsette arbeidsplaner med noe hyppigere søndagsarbeid enn det som er tilfelle i dag, noe som vil bidra til å dekke behovet for kvalifisert arbeidskraft i helgene. For lav bemanning i helgene gir et dårligere tilbud til brukerne og en ekstra belastning for de arbeidstakerne som er på jobb. *Flertallets* forslag innebærer at det vil bli mindre behov for deltidsstillinger for å dekke helgevakter. Dette vil gi mulighet til flere heltidsstillinger og dermed bedre fagmiljø, og mindre omfang av uønsket deltid.
+
+*Flertallet* vil peke på at arbeidstidsordninger som innebærer gjennomsnittsberegning og forkorting av daglig hvile, allerede i dag benyttes i stor utstrekning i helse- og omsorgsektoren. Dersom arbeidsgiver i større grad skal kunne fastsette slike ordninger på eget initiativ, vil det pålegge arbeidsgiver et særlig ansvar for å ta hensyn til helse- og velferdsperspektiver. *Flertallet* vil understreke at i henhold til loven skal arbeidsplanene uansett utarbeides i samarbeid med og drøftes med arbeidstakernes tillitsvalgte, noe som sikrer innflytelse fra arbeidstakersiden i utformingen av skift- og turnusplanene.
+
+*Flertallet* vil videre peke på at de foreslåtte rammene for gjennomsnittsberegning fastsatt av arbeidsgiver er strammere enn rammene som gjelder ved individuell og lokal avtale. Dette innebærer at arbeidsgiver fortsatt har et klart motiv for å oppnå en avtale med arbeidstakersiden. *Flertallet* mener derfor gjennomsnittsberegning i all hovedsak fortsatt vil skje gjennom avtale mellom partene.
+
+Totalrammene for alminnelig arbeidstid eller daglig arbeidsfri foreslås ikke endret. Den relativt korte gjennomsnittsberegningsperioden på fire uker som foreslås vil dessuten begrense muligheten til store variasjoner i arbeidstid over tid. Til sammenligning åpner dagens lovgivning for betydelig videre rammer for gjennomsnittsberegning ved individuell avtale mellom arbeidstaker og arbeidsgiver. Ved slik avtale må gjennomsnittlig ukentlig arbeidstid ikke overstige 48 timer over en periode på åtte uker.
+
+*Flertallets* forslag gjelder ikke bare helse- og omsorgssektoren, men virksomheter med skift- og turnusordninger generelt. Det er noe usikkert hvilken betydning forslagene vil ha på skift- og turnusordninger i andre sektorer. Ved utarbeiding av eventuelle lovendringer er det derfor viktig med grundig vurdering av hvilke typer av skift- og turnusordninger som skal omfattes av særreglene.
+
+*Flertallet* viser til at organiseringen av arbeidstiden er regulert i mange tariffavtaler for virksomheter som har skift- og turnusordninger. Selv om *flertallets* forslag åpner for at arbeidsgiver i noen grad kan bestemme gjennomsnittsberegning av arbeidstiden og kortere daglig arbeidsfri periode, er *flertallets* forslag ikke til hinder for at tariffavtalene kan inneholde bestemmelser som begrenser arbeidsgivers muligheter etter forslagene.

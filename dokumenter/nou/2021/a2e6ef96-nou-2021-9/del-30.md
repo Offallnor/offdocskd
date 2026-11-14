@@ -1,847 +1,288 @@
-# NOU 2021: 9, del 30 av 36 (side 322–331)
+# NOU 2021: 9, del 30 av 42
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2021/a2e6ef96-nou-2021-9.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2021-9/id2862895/
 - Original-PDF: https://www.regjeringen.no/contentassets/7b8fb44f93a4402981ed7f279b345dbe/no/pdfs/nou202120210009000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 tabeller, 28 figurer, 239 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 322]
-
-320
-
-NOU 2021: 9
-
-Kapittel 14
-
-Den norske modellen og fremtidens arbeidsliv
-
-plattformarbeidere kan ha behov for bedre vern,
-blant annet ved at det blir obligatorisk for deres
-oppdragsgivere å informere om forhold som
-påvirker arbeidssituasjonen, styrke vernet om
-deres personopplysninger og gi bedre muligheter
-for kollektiv organisering.
-Som omtalt i kapittel 9 er det utviklingstrekk
-som kan innebære økende endringstakt i arbeidslivet fremover. Teknologiendringer skaper muligheter for at mange arbeidsoppgaver kan gjennomføres nærmest hvor som helst, og har potensiale
-til å endre tradisjonelle produksjonskjeder og
-bryte disse opp i mindre deler som en oppdragsgiver kan sette sammen etter egne behov.
-Utvalget er opptatt av å unngå at det skapes
-utydeligheter rundt ansvarsforhold for arbeidsmiljøet i de situasjoner hvor digitale løsninger skaper
-muligheter for å organisere arbeidet på nye måter.
-Det er en sentral målsetting å ivareta et fullt
-forsvarlig og helsefremmende arbeidsmiljø for
-alle som deltar i arbeidslivet, uavhengig av tilknytningsformer og virksomhetsorganisering. Som
-beskrevet over, opplever de fleste i norsk arbeidsliv et godt arbeidsmiljø. Det kan likevel være
-enkelte utfordringer som kan oppstå i situasjoner
-hvor arbeidstakere med ulike arbeidsgivere, og/
-eller selvstendige oppdragstakere, utfører oppgavene sammen, enten det er på samme fysiske
-arbeidssted eller gjennom andre organisatoriske
-tilknytninger.
-Delingsøkonomiutvalget vurderte behovet for
-tilpasninger i regelverket når det gjelder HMSansvar innenfor plattformøkonomien, jf. NOU
-2017: 4 punkt 5.5.3. Av mulige tiltak ble nevnt:
-Enkelte HMS-plikter, for eksempel forebygging, opplæring og risikovurdering, er elementer som man kunne sett for seg at en plattform
-kunne hatt ansvar for også overfor selvstendige oppdragstakere.
-Alternativt kunne det vært aktuelt å gi
-HMS-bestemmelsene utvidet anvendelse, ved
-for eksempel å utvide arbeidsmiljøloven § 2-2
-til å gjelde oppdragstakere som er tilknyttet
-digitalt, dvs. en plikt for plattformen til å sørge
-for at HMS blir ivaretatt for oppdragstakere
-selv om disse ikke oppholder seg fysisk hos
-virksomheten.
-Flertallet i Delingsøkonomiutvalget ønsket ikke å
-foreslå endringer i HMS-reglene i arbeidsmiljøloven, og viste blant annet til at en utfordring «er at
-plattformen kan mangle reell påvirkningsmulighet på den tilknyttede oppdragstakers arbeidsmiljø», og dessuten at det kunne være «tjenestetilby-
-
-dere som heller ikke ønsker at plattformeier skal
-kontrollere hvordan de som selvstendige oppdragstakere utfører sitt arbeid». Mindretallet
-mente på sin side at det kunne være hensiktsmessig å utrede HMS-konsekvenser i delingsøkonomien, for å få oppdatert kunnskap som grunnlag
-for å vurdere om det er behov for endringer eller
-presiseringer i regelverket.
-Hjemmekontor har vært mye benyttet under
-koronapandemien. Kartlegginger tyder på at ulike
-former for fjernarbeid/hjemmearbeid kan bli mye
-benyttet også i tiden etter pandemien, jf. nærmere
-omtale i punkt 4.1.6. Arbeids- og sosialdepartementet har sendt på høring forslag til endringer i
-forskriften om hjemmearbeid. Det pågår for tiden
-en rekke kartlegginger som blant annet vil belyse
-arbeidsmiljøforhold ved hjemmekontor og andre
-former for fjernarbeid. Arbeids- og sosialdepartementet skriver i sitt høringsnotat at de pågående
-kartleggingsprosjektene eventuelt vil kunne synliggjøre behov for ytterligere endringer i reguleringene på lengre sikt.
-Etter utvalgets vurdering kan det, uavhengig
-av spørsmålet om hvordan fjernarbeid/hjemmearbeid skal reguleres i fremtiden, også være grunn
-til å vurdere om arbeidsmiljøloven § 2-2, som gjelder arbeidsgivers ansvar for andre enn egne
-ansatte, i tilstrekkelig grad er tilpasset de ulike
-måtene arbeid utføres på i dag, og dessuten om
-bestemmelsens anvendelsesområde er tydelig
-nok. Utvalget viser til at bestemmelsen er en
-offentligrettslig plikt underlagt Arbeidstilsynets
-tilsynsmyndighet og reaksjonsapparat, og at det
-også av denne grunn er sentralt at rekkevidden av
-bestemmelsen er klar.
-Bestemmelsen i § 2-2 om arbeidsgivers ansvar
-for andre enn egne ansatte, gjelder situasjoner
-hvor arbeidsmiljøforhold som har tilknytning til
-arbeidsgivers aktivitet eller innretning, kan få konsekvenser for andre som utfører arbeid i virksomheten.
-Arbeidslivslovutvalget uttalte følgende om rekkevidden av bestemmelsen, jf. NOU 2004: 5, punkt
-10.7.3:
-Utvalget presiserer at bestemmelsen kun gjelder arbeidsgivers ansvar i forhold til hvordan
-egen virksomhet er innrettet og hvordan egne
-arbeidstakeres arbeid utføres og ordnes.
-Ansvaret gjelder således kun så langt arbeidsgivers egen virksomhet eller ansatte representerer en arbeidsmiljørisiko for arbeidstakere i
-andre virksomheter. Arbeidsgiver har således
-normalt ikke ansvar for hvordan andres
-arbeidstakere utfører sitt arbeid eller hvordan
-
-[Side 323]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-arbeidsmiljøforholdene er i andre virksomheter. Unntak vil bare gjelde der egen virksomhet
-er så integrert med andre arbeidstakeres
-arbeid at den i seg selv representerer en risiko
-for disse. Det typiske eksempelet vil være ordinær arbeidsleie hvor innleide arbeidstakere
-blir underlagt arbeidsgivers direkte styring og
-instruksjon.
-Regelen ble noe endret i arbeidsmiljøloven fra
-2005. Det ble presisert at den skulle omfatte alle
-som faktisk utfører arbeid i tilknytning til arbeidsgivers aktivitet eller innretning. Personkretsen ble
-utvidet ved at også selvstendige ble omfattet, herunder «både enmannsbedrifter/-foretak og selvstendige oppdragstakere», jf. Ot.prp. nr. 49 (2004–
-2005), side 304. Vilkåret om at aktiviteten skulle
-være på «samme arbeidsplass» ble endret til «i tilknytning til arbeidsgivers aktivitet eller innretning». I forarbeidene, jf. Ot.prp. nr. 49 (2004–
-2005), punkt 6.4.4, ble det understreket at vurderingen ikke skulle knyttes til om arbeidsstedet var
-det samme, men om aktiviteten utgjorde en risiko
-for andre arbeidstakere. Det ble pekt på at det
-kunne oppstå slike tilfeller hvor virksomhetenes
-art og fysiske nærhet ville kunne innebære en
-risiko selv om det ikke var på samme sted. Kjøpesenter og kontorfellesskap ble nevnt som eksempler. Videre ble det presisert at dersom en virksomhets innretning og arbeidsutførelse ikke
-representerer noen risiko for andre, utløses heller
-ikke noe utvidet ansvar for andres arbeidstakere,
-uavhengig av hvor nær hverandre virksomhetene
-driver sine aktiviteter. Virksomhetens ansvar etter
-§ 2-2 omfatter således ikke hvordan andre enn
-egne ansatte utfører selve arbeidet.
-Utvalget viser videre til at det kan reises spørsmål om § 2-2 omfatter digital virksomhet.7
-Bestemmelsen er nok primært utformet med
-tanke på det fysiske arbeidsmiljøet på en fysisk
-arbeidsplass.8 Slik ordlyden er i dag forutsetter
-vern etter § 2-2 at personen «utfører arbeidsoppgaver i tilknytning til arbeidsgivers aktivitet eller
-innretning». Begrepet «arbeidsgivers aktivitet
-eller innretning» kan i utgangspunktet tolkes dithen at det har en relativt vid og teknologinøytral
-ordlyd. Forarbeidene til arbeidsmiljøloven fra
-2005 tyder imidlertid på at bestemmelsen ikke er
-utformet med tanke på å være teknologinøytral,
-men tar sikte på HMS-vern knyttet til det fysiske
-
-7
-8
-
-Jf. også Delingsøkonomiutvalget NOU 2017: 4 punkt
-5.2.4.2.
-Se også Hotvedt m.fl. (2020b) side 103.
-
-321
-
-Kapittel 14
-
-arbeidsstedet. I Ot.prp. nr. 49 (2004–2005), side
-303 står det at:
-Begrepene «aktivitet» og «innretning» angir
-det geografiske sted der vareproduksjon, salg,
-husbygging osv. foregår. Dette vil som den alt
-overveiende regel være synonymt med begrepet «arbeidsplass». Begrepet «innretning» er
-tatt med for å presisere at arbeidsgiver har
-ansvaret for maskiner, bygninger, stillas osv.
-også i de tilfeller der det kan være unaturlig å
-tale om en aktivitet.
-Utvalget viser til at arbeidslivet står overfor andre
-arbeidsmiljøutfordringer enn tidligere. Færre
-arbeidstakergrupper står overfor de mer tradisjonelle fysiske og kjemiske arbeidsmiljøeksponeringer og ulykkesrisiko, mens påvirkninger på det
-organisatoriske og psykososiale arbeidsmiljøet
-spiller en større rolle. Kunde-, klient-, pasient- og
-elevrelasjoner preger arbeidshverdagen i mange
-yrker hvor de ansatte opplever emosjonelle krav,
-rollekonflikter og mindre grad av selvbestemmelse (Statens arbeidsmiljøinstitutt, 2018). Digitaliseringen innebærer dessuten at organisering av
-arbeid endrer seg og at arbeid kan utføres andre
-steder enn på den tradisjonelle arbeidsplassen.
-Dette kan aktualisere nye arbeidsmiljøutfordringer for eksempel knyttet til ergonomiske forhold,
-jobbtilhørighet og medvirkning, jf. punkt 14.2.1.
-Flertallet, medlemmene Fougner, Dahle, Kastet,
-Olsen, Salvanes, Stokland, Sverdrup Svendsen og
-Tinnlund, mener at arbeidsgivers HMS-ansvar
-overfor andre enn egne arbeidstakere bør gjelde
-når denne er nærmest til å påvirke forholdene
-som har betydning for arbeidsmiljøet, og også har
-en reell og faktisk mulighet til å påvirke arbeidsmiljøet til de det gjelder. I mange tilfeller vil dette
-fortsatt begrenses til den fysiske arbeidsplassen,
-men flertallet utelukker ikke at en virksomhet
-også kan ha påvirkningsmulighet i arbeidssituasjoner hvor arbeidet utføres ulike steder, herunder digitalt. Flertallet viser for eksempel til at
-digitale plattformer kan ha betydelig påvirkning
-på plattformarbeideres arbeidsmiljøforhold, uavhengig av om de klassifiseres som arbeidstakere
-eller selvstendig oppdragstakere. EU-kommisjonen har utarbeidet et høringsnotat om mulig regulering av arbeidsforhold for plattformarbeidere.
-Her nevnes blant annet at konkurransen om oppdrag og plattformenes systemer for «rating» av
-oppdragstakere kan føre til at det arbeides lenge
-og uten pauser. Dessuten at fravær av organisert
-opplæring kan øke risikoen for at oppdragstakerne utsettes for ulykker. Også personvernet for
-
-[Side 324]
-
-322
-
-NOU 2021: 9
-
-Kapittel 14
-
-Den norske modellen og fremtidens arbeidsliv
-
-oppdragstakerne kan være utsatt når de må tilpasse seg avanserte digitale løsninger for å dokumentere og spore arbeidet som utføres.9 EU-kommisjonens prosess er foreløpig i en tidlig fase hvor
-det hentes inn innspill fra partene på europeisk
-nivå før eventuelle forslag til reguleringer eller
-andre tiltak vil bli nærmere utredet. Høringsnotatet viser til en rekke tiltak som gjennomføres i de
-enkelte landene, og det ses ikke som noen motsetning mellom dette og eventuelle ytterligere tiltak
-på europeisk nivå.
-Flertallet viser til at bestemmelsen i arbeidsmiljøloven § 2-2 har en generell utforming. Forarbeidene til loven knytter imidlertid bestemmelsen til
-det fysiske arbeidsstedet. Disse forarbeidene er
-fra 2005 og fanger ikke opp den utvikling som har
-skjedd siden den gang med hensyn til teknologisk
-utvikling og nye arbeidsformer. Flertallet vurderer at bestemmelsen i arbeidsmiljøloven § 2-2 bør
-utformes slik at den både omfatter den fysiske
-arbeidsplassen og situasjoner hvor arbeidet utføres andre steder, herunder digitalt. Flertallet
-mener derfor at virksomheter uavhengig av hvor
-arbeider finner sted, i visse situasjoner bør pålegges et HMS-ansvar, men at dette begrenses til de
-situasjoner hvor arbeidsgiver både er nærmest til
-å bære ansvaret (eventuelt delt med andre), og
-også har en reell mulighet til påvirke arbeidsmiljøforholdene.
-Flertallet foreslår på denne bakgrunn følgende
-presisering i § 2-2 første ledd:
-(1) Når andre enn arbeidsgivers egne arbeidstakere, herunder innleide arbeidstakere eller
-selvstendige oppdragstakere, utfører arbeidsoppgaver i tilknytning til arbeidsgivers aktivitet
-eller innretning, skal arbeidsgiver, uavhengig
-av hvor arbeidet finner sted:
-a) sørge for at egen virksomhet er innrettet og
-egne arbeidstakeres arbeid er ordnet og
-blir utført på en slik måte at også andre enn
-egne arbeidstakere er sikret et fullt forsvarlig arbeidsmiljø,
-b) samarbeide med andre arbeidsgivere for å
-sikre et fullt forsvarlig arbeidsmiljø,
-c) sørge for at innleid arbeidstakers arbeidstid
-er i samsvar med bestemmelsene i kapittel
-10.
-
-9
-
-EU-kommisjonen (2021). Consultation document. First
-phase consultation of social partners under Article 154
-TFEU on possible actionaddressing the challenges related
-to working conditions in platform work
-
-Mindretallet, medlemmene Almestrand, Brandshaug Dale, Juliussen og Spjelkavik, vil peke på at
-enhver arbeidsgiver har ansvaret for at arbeidsmiljøet er fullt forsvarlig.
-Arbeidsgiveren skal ikke bare sikre et fullt forsvarlig arbeidsmiljø for sine egne ansatte, men i
-tillegg sørge for at virksomheten er innrettet slik
-at også andre enn egne arbeidstakere er sikret et
-fullt forsvarlig arbeidsmiljø. Dette gjelder blant
-annet innleide arbeidstakere og selvstendige oppdragstakere. Hva som omfattes av begrepet
-arbeidsmiljø framgår nærmere av loven, og gjelder alle faktorer som påvirker arbeidet, for eksempel fysiske faktorer, psykososiale forhold og særskilte risikoforhold knyttet til den enkelte virksomhet.
-Mindretallet vil presisere at arbeid formidlet
-via en digital plattform kan ha ulike kjennetegn
-avhengig av hva slags arbeid og hvilke tjenester
-det dreier seg om, og tilknytningen til oppdragsgiveren kan variere innen et bredt spekter. Mindretallet ønsker ikke å foreslå en generell utvidelse
-av pliktene etter § 2-2 nå, siden EU-kommisjonen
-for tiden arbeider med en regulering av arbeidsforhold for plattformarbeidere. Det er hensiktsmessig å avvente denne.
-Mindretallet vil videre peke på at det ikke bør
-etableres en regel som er egnet til å skape uklarhet med hensyn til hvor langt arbeidsgiverens/
-oppdragsgiverens ansvar går, noe som vil være
-betenkelig sett fra et rettssikkerhetsperspektiv.
-Overtredelse av § 2-2 kan sanksjoneres både med
-administrative sanksjoner og straff, og det er uheldig hvis det ikke er entydig hvem som er pliktsubjekt og hvilken rekkevidde ansvaret har.
-
-14.3.3 Utvidelse av ordningen med
-verneombud
-Utvalget viser til at driftsnære, kompetente og synlige verneombud og tillitsvalgte, kan være en viktig suksessfaktor i forebyggende arbeidsmiljøarbeid, og at velfungerende partssamarbeid på
-arbeidsplassen er en motor for det forebyggende
-arbeidet fordi det kan sørge for at tiltak implementeres og at ansatte ansvarliggjøres (Buvik mfl.,
-2018). Det har derfor vært naturlig for utvalget å
-vurdere hvorvidt de kollektive ordningene rundt
-vernetjeneste og arbeidsmiljøarbeid, kan styrkes.
-Verneombudene er gitt en sentral rolle i arbeidsmiljøloven som arbeidstakernes representanter i
-verne- og arbeidsmiljøspørsmål, og skal ivareta
-arbeidstakernes interesser i saker som angår
-arbeidsmiljøet, jf. punkt 8.8.2. Ordningen ble i sin
-tid nedfelt i arbeidervernlovgivningen av 1956, og
-
-[Side 325]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-ble siden styrket i arbeidsmiljøloven av 1977,
-mens den ikke ble endret i den nye arbeidsmiljøloven i 2005 (Trygstad mfl. 2021).
-I utgangspunktet skal det velges verneombud
-i alle virksomheter som kommer inn under
-arbeidsmiljøloven, jf. § 6-1. I virksomheter med
-mindre enn ti ansatte kan det likevel skriftlig avtales at det ikke skal velges verneombud. Verneombudsordningen ble vurdert av Arbeidslivslovutvalget (NOU 2004: 5) og Medvirknings- og medbestemmelsesutvalget (NOU 2010: 1). Arbeidslivslovutvalget viste til at det generelle inntrykket var
-at ordningene med verneombud og arbeidsmiljøutvalg ble opplevd som riktige og positive. Dette
-utvalget mente det var viktig å vitalisere vernearbeidet i virksomhetene og å oppmuntre til lokalt
-tilpassende ordninger som partene føler et eierskap til. Et flertall i Arbeidslivslovutvalget uttalte
-at en klargjøring av verneombudets rolle og
-ansvar i forhold til arbeidsgiver og en mer oversiktlig regulering vil kunne ha en gunstig effekt
-for å vitalisere bruken av verneombud i virksomhetene.
-Medvirknings- og medbestemmelsesutvalget
-uttalte at det var deres erfaring at ordningene
-med verneombud og arbeidsmiljøutvalg er viktige
-for å sikre arbeidstakerne deltakelse og innflytelse på arbeidsmiljøarbeidet på den enkelte
-arbeidsplass. Dette utvalget anbefalte å gjennomføre tiltak for å bedre kunnskapen om ordningene
-og deres effekt og funksjon i arbeidslivet. Dette
-utvalget vurderte også spørsmålet om å utvide
-plikten til å etablere verneombud og arbeidsmiljøutvalg. Et flertall i dette utvalget så ikke det som
-hensiktsmessig og mente at dagens regelverk
-åpner for at ordningene i små og mellomstore
-virksomheter kan tilpasses behovet i den enkelte
-virksomhet. Et mindretall i dette utvalget pekte på
-at et stort antall arbeidstakere arbeider i virksomheter med under ti ansatte, og gikk inn for at terskelen for når virksomhetene kan avtale en annen
-ordning enn verneombud burde senkes fra ti til
-fem arbeidstakere.
-Trygstad mfl. (2021) finner at verneombudsordningen er godt etablert i norsk arbeidsliv. Det
-er noe lavere dekning av verneombud i privat sektor enn i offentlig sektor. Tilfredsheten med ordningen er imidlertid høyere i privat sektor enn i
-offentlig sektor. I en samlet analyse finner Trygstad mfl. at verneombudets og de tillitsvalgtes innflytelse ser ut til å være høyest innen kommunal
-sektor. Som nevnt i punkt 14.2.2 over er det betydelig høyere sannsynlighet for at det er verneombud i virksomheter med tariffavtale. Dette gjelder
-i særlig grad for virksomhetene med under ti
-
-323
-
-Kapittel 14
-
-ansatte, hvor det skriftlig kan avtales å ha en
-annen ordning.
-Utvalget har vurdert om ordningen med verneombud bør utvides. Det er ulike syn på dette i
-utvalget.
-Et flertall i utvalget, medlemmene Fougner,
-Dahle, Kastet, Olsen, Salvanes, Stokland, Sverdrup
-Svendsen og Tinnlund, mener kravet om at det
-skal være verneombud i virksomheten bør være
-uten unntak basert på størrelse. Flertallet viser til
-at verneombudsordningen er veletablert og oppleves å ha en viktig funksjon i virksomhetene. Verneombudsordningen er sentral og har viktige
-funksjoner for å ivareta arbeidstakeres medvirkning i arbeidsmiljøspørsmål. Kartlegginger
-viser at ordningen er lite utbredt i virksomheter
-med under ti ansatte. Dette gjelder særlig for virksomheter som ikke er omfattet av tariffavtaler.
-Etter flertallets syn kan verneombudsordningen
-ha en viktig funksjon også i de mindre virksomhetene for å legge til rette for dialog og samarbeid
-mellom ledelse og ansatte om arbeidsmiljøspørsmål. Arbeidslivet er blitt mer sammensatt, blant
-annet med økende omfang av utenlandske
-arbeidstakere. Det kan øke behovet for verneombud i alle virksomheter. Det vil dessuten virke forenklende dersom virksomhetene ikke trenger å
-forholde seg til terskelkrav om en må ha verneombud eller ikke.
-På denne bakgrunn foreslår flertallet en endring i arbeidsmiljølovens bestemmelser om verneombud.
-Flertallet foreslår følgende ordlyd:
-§ 6-1 første ledd:
-Ved hver virksomhet som går inn under
-loven skal det velges verneombud.
-Flertallet viser til at forslaget vil kunne medføre
-behov for visse tilpasninger i forskrift om organisering, ledelse og medvirkning.
-Mindretallet, medlemmene Almestrand, Brandshaug Dale, Juliussen og Spjelkavik, støtter ikke forslaget om å oppheve den nedre grensen for etablering av verneombud.
-Det er ingen ting i veien for at småbedrifter
-som ønsker det, frivillig kan etablere en verneombudsordning, men mindretallet mener det ikke er
-hensiktsmessig å pålegge små virksomheter med
-helt ned til én ansatt å institusjonalisere HMSarbeidet på en slik måte.
-Underveis i utvalgets arbeid ble det diskutert
-å medregne innleide arbeidstakere og selvstendige oppdragstakere med en forholdsvis tett og
-langvarig tilknytning til virksomheten i bereg-
-
-[Side 326]
-
-324
-
-Kapittel 14
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-ningsgrunnlaget for kravet om å etablere verneombud. Et slikt forslag ble forlatt underveis i
-arbeidet, men framstod for mindretallet som et
-alternativ disse medlemmene kunne sluttet seg til.
-Et slikt forslag ville kommet personer med alternative tilknytningsformer til gode.
-
-14.3.4 Utvidelse av verneombudets oppgaver
-Ordningene med verneombud og arbeidsmiljøutvalg er etter ordlyden i arbeidsmiljølovens kapitler
-6 og 7 forbeholdt virksomhetens egne arbeidstakere. Det følger også av forskrift om organisering,
-ledelse og medvirkning10 at verneombud skal velges blant arbeidstakere som har erfaring og innsikt i virksomhetens arbeidsforhold, og når det
-gjelder arbeidstakerrepresentanter til AMU fremgår det at bare tilsatte i virksomheten kan velges,
-jf. forskriften §§ 3-2 andre ledd og 3-7 fjerde ledd.
-Ordningene omfatter dermed i utgangspunktet
-ikke innleide arbeidstakere eller selvstendige oppdragstakere som utfører arbeid i virksomheten.
-Utvalget antar likevel at særlig innleide i mange tilfeller i praksis anses å være underlagt vernetjenesten i innleievirksomheten.
-Innleide arbeidstakere er ansatt, og har dermed rettigheter knyttet til medvirkning og samarbeid hos egen arbeidsgiver. Det som gjelder selve
-ansettelsesforholdet, vil være et tema mellom
-arbeidstaker og arbeidsgiver. Det stiller seg imidlertid annerledes når det gjelder spørsmål om
-arbeidsmiljø. Ved et innleieforhold, særlig av lengre varighet, vil den innleide i praksis delta på lik
-linje med innleievirksomhetens egne ansatte og
-stå overfor de samme eksponeringer i arbeidsmiljøet. I en kartlegging av oppfølging av sykefravær
-og tilrettelegging for innleide arbeidstakere finner
-Alsos og Steen Jensen (2013b) at få bemanningsforetak gjennomførte slike tiltak. Innleievirksomhetene opplevde at dette lå utenfor deres ansvarsområde. De innleide risikerte dermed å havne
-mellom to stoler.
-En selvstendig oppdragstaker jobber presumptivt mer selvstendig, enn en innleid arbeidstaker.
-Samtidig kan en selvstendig oppdragstaker som
-over lengre tid utfører arbeid i en virksomhet, for
-eksempel som konsulent, være utsatt for den
-samme eksponeringen i forhold til arbeidsmiljøet
-som virksomhetens egne ansatte og innleide.
-Innleide arbeidstakere og selvstendige oppdragstakere som arbeider i en virksomhet over en
-10
-
-Forskrift om organisering, ledelse og medvirkning (2011).
-Hentet fra https://lovdata.no/dokument/SF/forskrift/
-2011-12-06-1355.
-
-viss tidsperiode, kan derfor ha en slik tilknytning
-til virksomheten hvor de utfører arbeidet sitt, at
-det kan være behov for at de i større grad likestilles med arbeidsgivers egne arbeidstakere når det
-gjelder den løpende deltakelsen i spørsmål om
-arbeidsmiljø i oppdragsgivers virksomhet. Dette
-forutsetter at det foreligger en faktisk tilknytning
-til arbeidsmiljøet i virksomheten. Det er naturlig å
-gå ut fra at en slik tilknytning blir sterkere dersom
-et innleieforhold eller et oppdragsforhold for selvstendige varer i en lengre tidsperiode. Etter utvalgets vurdering kan det således være behov for at
-innleide og selvstendige som utfører arbeid i en
-virksomhet over en lengre periode i større grad
-blir koblet på det løpende arbeidsmiljøarbeidet
-som utføres i virksomheten.
-Etter utvalgets vurdering kan en hensiktsmessig løsning være at verneombudet i den virksomheten som innleide og selvstendige arbeider i, ivaretar deres interesser i saker som angår arbeidsmiljøet. Dette vil være mindre aktuelt i kortvarige
-arbeidssituasjoner, men mer aktuelt jo lengre periode en deler det samme arbeidsmiljøet. Utvalget
-foreslår at grensen settes ved en varighet på seks
-måneder eller mer.
-Utvalget mener at reglene bør gjelde for de tilfeller hvor innleide arbeidstakere og selvstendige
-arbeider i nær tilknytning til virksomheten. Rene
-oppdragsavtaler som gjennomføres uten særlig
-samhandling med oppdragsgivers virksomhet faller utenfor. Men dersom arbeidsoppgavene utføres på oppdragsgivers arbeidsplass og/eller side
-om side og i nært samarbeid med oppdragsgivers
-egne ansatte, vil bestemmelsen inntre. I dette ligger ikke nødvendigvis krav om fysisk tilstedeværelse, også digitalt arbeid og fjernarbeid kan
-omfattes, men ikke utover det som gjelder for de
-ansatte. Det presiseres at bestemmelsen ikke vil
-gjelde ved entreprise, hvor arbeidstakere vil være
-knyttet til verneorganisasjonen i egen virksomhet.
-Utvalget ser det ikke som naturlig at de innleide og selvstendige som forslaget vil omfatte,
-skal kunne velges som verneombud i den virksomheten hvor de utfører oppdrag. Bestemmelsen i forskrift om organisering, ledelse og medvirkning om at verneombudet skal velges blant
-virksomhetens egne ansatte bør derfor videreføres.
-Utvalget foreslår følgende ordlyd § 6-2 første
-ledd nytt siste punktum:
-Verneombudet skal ivareta arbeidstakernes
-interesser i saker som angår arbeidsmiljøet.
-Verneombudet skal se til at virksomheten er
-innrettet og vedlikeholdt, og at arbeidet blir
-
-[Side 327]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-utført på en slik måte at hensynet til arbeidstakernes sikkerhet, helse og velferd er ivaretatt i
-samsvar med bestemmelsene i denne lov. Første og andre punktum gjelder tilsvarende for innleide arbeidstakere og selvstendige oppdragstakere som har utført arbeid i nær tilknytning til
-virksomheten de siste seks månedene.
-I sammenheng med forslagene om at innleide og
-selvstendige som er i en virksomhet over lengre
-tid skal omfattes av verneombudets oppgaver kan
-det være naturlig å se på i hvilken grad de samme
-gruppene også bør omfattes av bestemmelsen om
-arbeidstakers medvirkningsplikt i arbeidsmiljøloven § 2-3. Av bestemmelsen følger det blant annet
-at arbeidstakerne i virksomheten har en plikt til å
-medvirke i det systematiske helse-, miljø og sikkerhetsarbeidet, herunder delta i det organiserte
-verne-, og miljøarbeidet i virksomheten og aktivt
-medvirke ved gjennomføringen av tiltak som
-iverksettes for å skape et godt og sikkert arbeidsmiljø, jf. første ledd.
-Videre er det i arbeidsmiljøloven § 3-2 bestemmelser om særskilte forholdsregler en arbeidsgiver skal gjøre for å ivareta sikkerheten på arbeidsplassen. Etter første ledd bokstav a gjelder det en
-plikt for arbeidsgiver til å gjøre arbeidstaker kjent
-med ulykkes- og helsefarer som kan være forbundet med arbeidet, og at arbeidstaker får den opplæring, øvelse og instruksjon som er nødvendig.
-Det kan være aktuelt å vurdere om det bør presiseres i denne bestemmelsen at tilsvarende informasjonsplikt bør gjelde overfor innleide og selvstendige som arbeider i virksomheten over lengre
-tid.
-Utvalget har ikke hatt anledning til å utrede
-disse spørsmålene nærmere, men flertallet, medlemmene Fougner, Dahle, Kastet, Olsen, Salvanes,
-Stokland, Sverdrup Svendsen og Tinnlund, ønsker
-likevel å peke på at det kan være grunn til å vurdere dette nærmere.
-
-14.3.5 Utvidelse av ordningen med
-arbeidsmiljøutvalg (AMU)
-Arbeidsmiljøutvalg (AMU) er et samarbeidsorgan i virksomhetene med lik representasjon fra
-arbeidsgiver og arbeidstaker, jf. punkt 8.8.2.
-Også denne ordningen ble vurdert av Arbeidslivslovutvalget (NOU 2004: 5) og Medvirkningsog medbestemmelsesutvalget (NOU 2010: 1).
-Arbeidslivslovutvalget pekte på at arbeidsmiljøutvalget har rett og plikt til å medvirke til gjennomføring av et fullt forsvarlig arbeidsmiljø i virksomheten. Medvirknings- og medbestemmelsesutval-
-
-325
-
-Kapittel 14
-
-get pekte blant annet på at både verneombudets
-og arbeidsmiljøutvalgets rolle bør synliggjøres og
-fremheves når det gjelder faktorer som har betydning for de sosiale og psykiske sidene av arbeidsmiljøet. Dette utvalget hadde for øvrig en bred
-gjennomgang av arbeidsmiljøutvalgets funksjon
-og oppgaver, jf. punkt 14.3.3 over. Flertallet i dette
-utvalget foreslo ingen endring i terskelen for når
-det skal være plikt til å opprette arbeidsmiljøutvalg. Et mindretall foreslo at det skulle innføres
-plikt til å opprette arbeidsmiljøutvalg i virksomheter med mer enn 20 ansatte.
-Ifølge Trygstad mfl. (2021) finnes ordningen
-med arbeidsmiljøutvalg i om lag to tredjedeler av
-de virksomhetene som etter loven skal ha dette.
-Kartleggingen bygger på svar fra arbeidstakere.
-Det kan derfor ikke utelukkes at ordningen eksisterer i enkelte virksomheter uten at den er kjent
-av de ansatte. På samme måte som for verneombud er det forskjeller mellom næringer. Arbeidstakere innen overnatting og servering er de som i
-minst grad har, eller kjenner til at det finnes
-arbeidsmiljøutvalg i sin virksomhet. Flest arbeidstakere innen offentlig forvaltning, industri og
-finans svarer at de har arbeidsmiljøutvalg. Som
-nevnt i punkt 14.2.2 over er det betydelig høyere
-sannsynlighet for at det er arbeidsmiljøutvalg i
-virksomheter med tariffavtale. Dette gjelder i særlig grad for virksomhetene med under 50 ansatte,
-hvor det ikke er krav om å ha slik ordning.
-Utvalget har vurdert om ordningen med
-arbeidsmiljøutvalg bør utvides. Det er ulike syn på
-spørsmålet i utvalget.
-Flertallet, medlemmene Fougner, Dahle, Kastet,
-Olsen, Salvanes, Stokland, Sverdrup Svendsen og
-Tinnlund, mener terskelen for når det skal være
-plikt til å opprette arbeidsmiljøutvalg bør senkes
-fra dagens nivå på 50 ansatte til å gjelde for virksomheter hvor det jevnlig sysselsettes minst 30
-arbeidstakere. Flertallet viser til sine vurderinger
-når det gjelder utvidelse av ordningen med verneombud. Mange av de samme argumentene gjør
-seg gjeldende i forhold til behovet for å ha
-arbeidsmiljøutvalg i virksomheten. Flertallet
-mener imidlertid at arbeidsmiljøutvalg som samarbeidsorgan først og fremst har en funksjon i
-virksomheter av en viss størrelse. Flertallet har
-kommet til at en grense på 30 arbeidstakere kan
-være en hensiktsmessig avgrensning. Arbeidsmiljøutvalg kan ha en viktig funksjon når det gjelder å
-fremme medvirkning, medbestemmelse og samarbeid i virksomheter som ikke er omfattet av
-tariffavtaler. Kartlegginger viser at det er svært få
-slike virksomheter under 50 ansatte som i dag har
-arbeidsmiljøutvalg.
-
-[Side 328]
-
-326
-
-NOU 2021: 9
-
-Kapittel 14
-
-Den norske modellen og fremtidens arbeidsliv
-
-Flertallet foreslår videre at grensen for når det
-skal opprettes arbeidsmiljøutvalg dersom en av
-partene krever det senkes tilsvarende, fra 30 til 10
-arbeidstakere.
-Flertallet foreslår følgende ordlyd i § 7-1 første
-ledd:
-(1) I virksomhet hvor det jevnlig sysselsettes
-minst 30 arbeidstakere, skal det være arbeidsmiljøutvalg, der arbeidsgiveren, arbeidstakerne
-og bedriftshelsetjenesten er representert.
-Arbeidsmiljøutvalg skal opprettes også i virksomhet med mellom 10 og 30 arbeidstakere,
-når en av partene ved virksomheten krever det.
-Der arbeidsforholdene tilsier det, kan Arbeidstilsynet bestemme at det skal opprettes
-arbeidsmiljøutvalg i virksomhet med færre enn
-30 arbeidstakere.
-Flertallet peker på at det vil medføre behov for tilpasninger i forskrift om organisering, ledelse og
-medvirkning, i tråd med lovforslaget.
-Mindretallet, medlemmene Almestrand, Brandshaug Dale, Juliussen og Spjelkavik, støtter ikke
-flertallets forslag om å senke grensene for etablering av arbeidsmiljøutvalg fra henholdsvis 50 og
-20 til 30 og 10 ansatte.
-Allerede i dag skal arbeidsmiljøutvalg etableres i små virksomheter med 20 ansatte dersom en
-av partene ønsker det. Et arbeidsmiljøutvalg
-utgjør etter mindretallets syn en måte å formalisere HMS-arbeidet på som er best egnet for mellomstore og store virksomheter. Et AMU skal for
-eksempel ha minimum fire medlemmer og hvert
-medlem skal ha en vararepresentant. Mindretallet
-mener det ikke er hensiktsmessig å pålegge virksomheter med helt ned til 10 ansatte å etablere en
-slik ordning. For små virksomheter vil dette være
-uforholdsmessig byråkratisk, og ikke nødvendigvis den beste måten å sikre et godt arbeidsmiljø
-på.
-Underveis i utvalgets arbeid ble det diskutert
-å medregne innleide arbeidstakere og selvstendige oppdragstakere med en forholdsvis tett og
-langvarig tilknytning til virksomheten i beregningsgrunnlaget for plikt til å etablere AMU. Et
-slikt forslag ble forlatt underveis i arbeidet, men
-framsto for mindretallet som et alternativ disse
-medlemmene kunne sluttet seg til. Et slikt forslag
-ville kommet personer med alternative tilknytningsformer til gode.
-
-14.3.6 Drøftings- og informasjonsplikter
-innen konsern og franchise
-14.3.6.1 Konsern
-Gjeldende rett når det gjelder arbeidstakeres
-medvirkning og medbestemmelse i konsern er
-omtalt i punkt 8.8.3. Det gjelder regler i selskapslovgivningen som gir arbeidstakere muligheter
-for representasjon gjennom såkalte konsernordninger, som innebærer at ansatte i datterselskaper
-er valgbare og stemmeberettigede ved valg til
-morselskapets styre, og at de skal regnes som
-ansatt i morselskapet ved beregningen av antall
-ansatte som utløser rett til ansatterepresentasjon.
-Konsernordning kan etableres gjennom avtale
-eller ved at spørsmålet fremmes for Tvisteløsningsnemnda, som kan treffe vedtak om konsernordning, jf. reglene i aksjeloven og allmennaksjeloven § 6-5. Slike ordninger er mest
-utbredt i de større virksomhetene.
-Det gjelder også egne bestemmelser om
-arbeidstakernes innflytelse i grensekryssende selskapsforhold i EU/EØS-området, jf. nærmere
-omtale i punkt 8.8.5.
-Videre gjelder det avtalefestede ordninger om
-informasjon og drøfting i konsern som kan innebære at det velges konserntillitsvalgte og settes
-ned et koordinerende utvalg av tillitsvalgte fra datterselskapene i konsernet.
-Av Hovedavtalen mellom LO og NHO del B
-§ 16-211 fremgår det at partene i et konsern bør
-avtale rammene for samarbeid. Er avtale ikke inngått, skal samarbeidet foregå enten ved at det i
-konsern med bedrifter som nytter felles overenskomst etableres et koordinerende utvalg av tillitsvalgte eller at det opprettes et utvalg i konsernet
-for felles drøftinger eller at en finner andre tilsvarende samarbeidsformer. Av Hovedavtalen mellom LO og NHO § 9-12 fremgår det at hvis det er
-planer om utvidelser, innskrenkninger eller
-omlegginger som også kan få vesentlig betydning
-for sysselsettingen i flere enheter i konsernet,
-skal konsernledelsen så tidlig som mulig drøfte
-disse spørsmål med et koordinerende utvalg av tillitsvalgte, jf. Hovedavtalen § 16-2 tredje ledd.
-Bestemmelsen om konserntillitsvalgte i konsern
-med flere enn 200 ansatte fremgår av Hovedavtalen LO og NHO § 16-3. Den konserntillitsvalgte
-skal ivareta de ansattes interesser overfor kon11
-
-https://www.lo.no/globalassets/hovedavtalen---kommentarer.pdf.
-Hovedavtalen LO-NHO del B omfatter alle arbeidstakere i
-industri- og håndverksbedrifter og det er bare LO og NHO
-som er parter i avtalen.
-
-[Side 329]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-sernledelsen i saker som behandles på konsernnivå og som kan ha betydning for de ansatte i konsernet som helhet. Den konserntillitsvalgtes
-arbeid skal ikke gripe inn i eller erstatte partenes
-rettigheter og plikter på bedriftsnivå.
-Også Spekter har inngått hovedavtale med de
-respektive hovedorganisasjoner på arbeidstakersiden med egne bestemmelser om drøfting i konsern og konsernutvalg, jf. §§ 42 og 43. Her heter
-det at «planer om utvidelser, innskrenkninger
-eller omlegginger som kan få vesentlig betydning
-for sysselsettingen i flere virksomheter innen
-samme konsern, skal konsernledelsen så tidlig
-som mulig drøfte disse spørsmål med de tillitsvalgte, uten hensyn til om virksomhetene er bundet av felles overenskomst».
-Også i Hovedavtalen LO/YS-Virke finnes
-denne type avtaler, jf. § 4-8. De stedlige parter
-med bistand av organisasjonene søker å finne
-fram til hensiktsmessige former for samarbeid
-der det på konsernbasis er behov for å drøfte
-saker, jf. nærmere spesifisering i avtalen §§ 4-6 og
-4-8.1. En slik form for samarbeid skal foregå enten
-ved at det etableres et koordinerende utvalg av tillitsvalgte eller ved at det opprettes et utvalg for
-drøfting av saker mellom representanter for ledelsen og de tillitsvalgte. I tilfeller hvor viktige beslutninger ikke blir truffet av konsernledelsen eller
-den lokale bedriftsledelse, men av et organ mellom disse, f.eks. på divisjonsnivå, skal partene
-finne frem til en ordning, for eksempel ved at de
-stedlige formenn i utvalget av tillitsvalgte på de
-bedrifter som berøres, får drøfte saken med ledelsen i angjeldende organ.
-I Hovedavtalen for kommunesektoren er det
-bestemmelser om drøfting i konsern i del C som
-gjelder for selvstendige rettssubjekter med medlemskap i Samfunnsbedriftene og energiverk
-organisert som kommunale/fylkeskommunale
-foretak etter kommuneloven kapittel 9. Etter § 4-2
-skal det i konsern med flere enn 200 ansatte velges en konserntillitsvalgt og opprettes et konsernutvalg. I konsern med færre enn 200 ansatte kan
-det velges konserntillitsvalgt og opprettes konsernutvalg når partene lokalt er enige om det. I
-følge § 4-5 er partene er enige om at det på konsernbasis kan foreligge behov for å drøfte saker
-som er nevnt i hovedavtalen. I konsern hvor samarbeidet fungerer tilfredsstillende, vil man fortsatt
-bygge på de etablerte samarbeidsformer. I konsern hvor det kan være behov for å bedre samarbeidsforholdene/informasjonsprosedyren, vil partene anbefale at det vurderes på hvilken måte
-dette kan gjøres. Dette kan for eksempel gjøres
-ved at konsernledelsen og tillitsvalgte avholder ett
-
-327
-
-Kapittel 14
-
-eller flere fellesmøter pr. år, hvor man drøfter
-saker av vesentlig betydning for partene.
-Som nevnt i punkt 14.2.2 over er det begrenset
-i hvilken grad dagens reguleringer ivaretar
-arbeidstakeres medvirkning overfor andre rettssubjekter enn egen arbeidsgiver, for eksempel
-innen konsern, virksomheter som driver i franchise, eller andre «løsere» sammenslutninger i
-kjeder, kjøpesentre mv.
-Konsernorganisering er utbredt i norsk
-næringsliv, og at dette kan gjelde alt fra små virksomheter til store bedrifter med omfattende internasjonalt engasjement. Avtaleverket innebærer at
-de større, organiserte bedriftene vil ha etablert
-ordninger som ivaretar hensynet til informasjon til
-arbeidstakere og drøfting med tillitsvalgte på konsernnivå.
-Det er ulike vurderinger i utvalget når det gjelder behovet for lovreguleringer på dette området.
-Et flertall i utvalget, medlemmene Fougner,
-Dahle, Kastet, Olsen, Salvanes, Stokland, Sverdrup
-Svensen og Tinnlund, mener det er behov for å
-supplere de avtalebestemte ordningene med lovregler som, uavhengig av tariffavtale, gir arbeidstakere visse muligheter for informasjon og medvirkning i konsern. Flertallet viser til at enkelte
-kartlegginger tyder på arbeidstakere som arbeider innen konsern eller for utenlandskeide virksomheter opplever å ha mindre innflytelse, jf.
-punkt 14.2.2 over. I tilfeller der beslutninger tas av
-andre enn den som har det formelle arbeidsgiveransvaret, og dette har viktige konsekvenser for
-arbeidstakerne, er det gode grunner til å vurdere
-tiltak for å styrke deres muligheter for informasjon, medvirkning og medbestemmelse før beslutninger tas.
-Flertallet viser til at en økende andel av
-arbeidstakerne arbeider innenfor konsern og at
-en lovregulering av deres muligheter for informasjon og medvirkning vil styrke de grunnleggende
-rettighetene for arbeidstakere i virksomheter i
-konsern som ikke er omfattet av de avtalebestemte ordningene. Formålet med en slik utvidelse av medvirkningsbestemmelsene er å sikre
-informasjonsflyt og medvirknings- og påvirkningsmuligheter der avgjørelser av betydning for de
-ansatte treffes. Etter flertallets vurdering er samarbeid og informasjonsflyt på tvers av konsernstrukturen særlig viktig ved planer, endringer og/
-eller omstillinger som kan ha betydning for
-ansatte i hele konsernet eller i flere virksomheter
-innen samme konsern.
-Flertallets vurdering er at dette enklest og
-mest hensiktsmessig kan gjøres gjennom tilføyelser i allerede eksisterende regler om samarbeid
-
-[Side 330]
-
-328
-
-Kapittel 14
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-og medvirkning i arbeidsmiljøloven. Kapittel 8
-utpeker seg som relevant plassering.
-Som det fremgår av beskrivelsen av gjeldende
-rett i punkt 8.8.2 ovenfor, antas anvendelsesområdet for arbeidsmiljøloven kapittel 8 å være knyttet
-til den enkelte virksomhet, jf. Ot.prp. nr. 49 (2004–
-2005), side 125, hvor det står at reglene bør «ha
-samme anvendelsesområde som arbeidsmiljøloven for øvrig». Kapittel 8 formodes dermed å være
-avgrenset til den enkelte virksomhet, jf. § 1-2, og
-må som utgangspunkt avgrenses mot konsernet
-som sådan. Samtidig vil beslutninger som tas av
-for eksempel morselskapet kunne få betydning for
-arbeidstakere i et datterselskap, med den følge at
-informasjons- og drøftingsplikten etter § 8-1 inntrer for datterselskapet. Plikten, og selve «partssamarbeidet» skjer imidlertid på virksomhetsnivå,
-og ikke konsernnivå. Regelverket gir dermed ikke
-tillitsvalgte i et datterselskap rett til å drøfte
-direkte med konsernledelsen, og oppstiller heller
-ikke rammer for å samarbeide med tillitsvalgte i
-andre deler av konsernet. Etter flertallets vurdering er det nettopp det å etablere hensiktsmessige
-samarbeidsformer på tvers av konsernstrukturen
-som kan bidra til å sikre bedre medvirkningsmuligheter i konsern.
-Flertallet foreslår en ny bestemmelse i
-arbeidsmiljøloven kapittel 8, som særlig regulerer
-informasjon og drøfting i konsernforhold. Etter
-flertallets vurdering er det særlig to forhold som
-kan være aktuelt å regulere. Det ene er etablering
-av en samarbeidsarena på konsernnivå. Hvordan
-dette konkret gjøres i det enkelte konsern, kan
-etter flertallets vurdering overlates til konsernet.
-En slik tilnærming bygger på inspirasjon fra gjeldende avtalebaserte ordninger. Det andre er å
-regulere i hvilke sammenhenger og hvilke spørsmål som bør behandles på konsernnivå. Etter flertallets vurdering kan det være naturlig at de
-samme spørsmål som må drøftes innen konsern
-etter blant annet Hovedavtalen mellom LO og
-NHO Del A, jf. § 9-12, må informeres om og drøftes på konsernnivå når spørsmålet vedrører flere
-virksomheter i konsernet.
-Flertallet har vurdert om det bør være en terskel for når bestemmelsen slår inn. Det vises til
-§ 8-1 om plikt til informasjon og drøfting i den
-enkelte virksomhet. Informasjons- og drøftingsplikten etter denne bestemmelsen inntrer for virksomhet som «jevnlig sysselsetter minst 50
-arbeidstakere», jf. første ledd. Sammenhengen
-mellom informasjons- og drøftingsplikten i § 8-1
-og regelen som foreslås her, taler for at det for
-dette forslaget bør være en tilsvarende terskel
-som i § 8-1.
-
-Flertallet foreslår følgende ordlyd:
-Ny § 8-4 Informasjon og drøfting i konsern
-(1) Når en virksomhet tilhører et konsern
-som jevnlig sysselsetter minst 50 arbeidstakere,
-skal det etableres rammer for samarbeid, informasjon og drøfting mellom konsernet og arbeidstakerne i konsernet. Samarbeidsformen skal
-avtales mellom konsernet og et flertall av dets
-ansatte, eller mellom konsernet og én eller flere
-lokale fagforeninger som representerer et flertall
-av de ansatte i konsernet. Det kan etableres et
-samarbeidsorgan eller en annen tilsvarende
-samarbeidsform.
-(2) Hvis planer om utvidelser, innskrenkninger eller omlegginger også kan få vesentlig betydning for sysselsettingen i flere virksomheter i konsernet, skal konsernledelsen så tidlig som mulig
-informere om og drøfte disse spørsmål med samarbeidsorganet etter første ledd. Konsernledelsen
-kan tilkalle representanter for ledelsen innen de
-virksomheter saken gjelder.
-(3) Første og andre ledd kan fravikes i tariffavtale.
-Mindretallet, medlemmene Almestrand, Brandshaug Dale, Juliussen og Spjelkavik, deler det
-grunnleggende syn at arbeidstakere skal ha
-mulighet for innflytelse på egen arbeidssituasjon,
-og mulighet til å påvirke beslutningstaker før
-beslutning tas. I konsernforhold er dette forsøkt
-hensyntatt i bestemmelser som blant annet
-Hovedavtalen LO NHO § 9-12 «Drøftelser innen
-konsern mv». Den gir uttrykk for en målrettet
-regulering begrenset til tema og virksomheter
-som er berørt.
-De tariffbaserte ordningene i Hovedavtalene
-er fremforhandlet mellom de sentrale partene i
-arbeidslivet. Tariffbestemmelsene flertallet baserer forslaget til ny § 8-4 på, er del av helhetlige
-tariffreguleringer som er utformet med tanke på
-tariffbundne bedrifter med tillitsvalgte, og lar seg
-ikke uten videre overføre til virksomheter som
-ikke har etablert rammer og systemer for partssamarbeid i den enkelte bedrift.
-Mindretallet mener partene i arbeidslivet derfor sammen bør rette innsatsen mot å øke organisasjonsgraden, i det samarbeid og medvirkning
-best ivaretas gjennom tariffavtalesystemer. Selv
-om mindretallet isolert sett støtter tankegangen
-om medvirkningsmuligheter i konsern, er
-mindretallet derfor blitt stående ved at informasjon og drøftelser i felles organer i konsern ikke
-bør lovfestes.
-
-[Side 331]
-
-NOU 2021: 9
-Den norske modellen og fremtidens arbeidsliv
-
-Mindretallet mener flertallets forslag til lovbestemmelse går for langt i å etablere informasjonsog drøftingsplikt på konsernnivå. Forslaget til lovbestemmelse vil omfatte alle konsern som jevnlig
-sysselsetter minst 50 arbeidstakere. En bestemmelse som innfører en lovbestemt plikt til å etablere rammer for samarbeid, informasjon og drøfting på konsernnivå, reiser en rekke problemstillinger, blant annet knyttet til tillitsvalgte (for
-eksempel godtgjørelse, tid til tillitsvalgtarbeid
-mv), valgordninger og mekanismer dersom det
-ikke oppnås enighet om en hensiktsmessig ordning. Etter mindretallets syn viser kompleksiteten
-i samarbeidsregelverk at innretningen på en slik
-mulig bestemmelse uansett må utredes nærmere,
-både når det gjelder uavklarte spørsmål og konsekvensene for konsern som blir berørt.
-Mindretallet vil videre påpeke at en sammenligning av ansattes rett til styrerepresentasjon i
-konsern, der såkalt konsernordning kan etableres, er lite relevant. Konsernordning er regulert i
-et sett av bestemmelser i aksje- og allmennaksjelovene og representasjonsforskriften, og kan etableres ved avtale eller vedtak i Tvisteløsningsnemnda. Slike styreverv er personlige verv. Ansattrepresentantene skal ikke være en forlengelse av tillitsvalgtapparatet, men skal på samme måte som
-andre styremedlemmer ivareta selskapets interesser når de deltar i behandlingen av de ulike
-sakene i styret.
-
-14.3.6.2 Franchise
-I utvalgets mandat er også franchise nevnt som
-eksempel på forretningsmodeller som kan ha konsekvenser for arbeidstakerne. Franchiseorganisering er regulert i kontrakt mellom en franchisegiver og franchisetaker.
-Ødegård mfl. (2021) har kartlagt omfanget av
-franchise, jf. punkt 14.2.2. Et sentralt funn er at
-franchiseavtaler i all hovedsak benyttes innen
-detaljhandelen og er samlet sett av begrenset
-omfang. Sammenlignet med virksomheter som er
-knyttet til konsern er færre arbeidstakere i franchisevirksomheter dekket av tariffavtaler. Denne
-andelen er imidlertid enda lavere blant frittstående virksomheter innen detaljhandelen. Ødegård mfl. vurderer det som usikkert om driftsformen er en avgjørende faktor for lav organisasjonsgrad og manglende medvirkning, og peker på at
-næringsmessige forskjeller, ulike produkter eller
-tjenestemarkeder og arbeidstokkens sammensetning kan være med på å forklare lav organisasjonsgrad.
-
-329
-
-Kapittel 14
-
-Franchise benyttes i all hovedsak innen handelsnæringen. Her er organisasjonsgraden og
-tariffavtaledekningen i utgangspunktet relativt lav.
-Et generelt trekk ved næringen er at det er mange
-unge arbeidstakere, mange som arbeider deltid
-og stor gjennomtrekk av arbeidstakere. Her finner en blant annet mange studenter som arbeider
-deltid ved siden av studiene. Virksomhetene er for
-det meste små, noe som generelt har stor betydning for om virksomheter har tariffavtale eller
-ikke.
-Utvalget peker på at arbeidstakere innen franchisevirksomheter ikke har de samme mulighetene som arbeidstakere i konsern til representasjon og medvirkning overfor andre som har
-påvirkning på rammebetingelsene for virksomheten. På den andre siden er det forskjeller mellom disse driftsformene. Mens konsernorganisering innebærer at morselskap eier og kontrollerer
-datterselskap, er franchise basert på kontrakter
-mellom uavhengige virksomheter.
-Flertallet, medlemmene Fougner, Dahle, Kastet,
-Olsen, Salvanes, Stokland, Sverdrup Svendsen og
-Tinnlund, viser til særmerknad i kapittel 11 hvor
-disse medlemmene peker på at utvalget ikke fullt
-ut har tatt stilling til på hvilken måte nye selskapsstrukturer og avtalerelasjoner mellom virksomheter kan utfordre maktrelasjonen mellom arbeidsgiver og arbeidstakerne, og hvor disse medlemmene anmoder om videre utredning, jf. punkt
-11.3.2.
-Mindretallet, medlemmene Almestrand, Brandshaug Dale, Juliussen og Spjelkavik, mener at det
-ikke er grunn til å foreslå endringer på dette
-området.
-
-14.3.7 Plikt til drøfting med tillitsvalgte
-Arbeidsmiljøloven har i dag flere bestemmelser
-som stiller krav til drøfting med tillitsvalgte:
-– om forhold ved virksomhetens aktiviteter og
-situasjon (kapittel 8)
-– om bruken av deltid (§ 14-1a)
-– midlertidig ansettelse (§ 14-9 andre ledd)
-– innleid arbeidskraft (§ 14-12 tredje ledd)
-– om ulike arbeidstidsordninger, jf. kap. 10
-– om bruken av kontrolltiltak (§ 9-2)
-– drøfting ved masseoppsigelse og virksomhetsoverdragelse (§ 15-2 og 16-5 mv.)
-– om utarbeidelse av rutiner for intern varsling
-(§ 2 A-6)
-Utvalget viser til at de enkelte bestemmelsene til
-dels har ulik bakgrunn og ulikt formål. Bestemmelsene om drøfting med tillitsvalgte i forbindelse
+# Midlertidig ansettelse
+
+## Innledning
+
+Hovedregelen i norsk arbeidsliv er faste ansettelser. Det er bred politisk enighet om at denne hovedregelen gagner både virksomhetene, arbeidstakerne og samfunnet. Arbeidsmiljøloven åpner for at ansettelse likevel kan gjøres midlertidig etter bestemte vilkår. Dette gir virksomhetene muligheter for å løse særskilte bemanningsbehov, for eksempel gjennom ansettelser i vikariater. Andre måter å skaffe til veie arbeidskraft når det foreligger tidsbegrenset behov, er gjennom bruk av innleie, selvstendige oppdragstakere eller tjenestekjøp fra andre virksomheter (entreprise). Disse kontraktsformene behandles i kapittel 10 og 13. I dette kapitlet vil utvalget konsentrere seg om rammeverket for midlertidig ansettelser.
+
+Det store flertallet i norsk arbeidsliv er fast ansatt, og dette har vært stabilt over tid. Omfanget av midlertidige ansettelser har avtatt noe de siste tiårene og er relativt lavt i Norge sammenlignet med andre land i OECD. Bruken av midlertidige ansettelser i Norge er større i offentlig enn i privat sektor.
+
+Reglene om midlertidig ansettelse har tidvis vært gjenstand for stor debatt fra 90-tallet og frem til i dag, og var senest gjenstand for lovendringer i 2015. Regelverket om midlertidige ansettelser er sentralt for temaet som utvalget er bedt om å vurdere, og av de alternative tilknytningsformene er midlertidige ansettelser den som er mest benyttet. Det er bred enighet i utvalget om at fast ansettelse skal være hovedregelen i norsk arbeidsliv, men at det likevel bør være adgang til å inngå midlertidige arbeidsavtaler i nærmere definerte situasjoner.
+
+Det er ulike vurderinger i utvalget når det gjelder hvordan de gjeldende reglene om midlertidige ansettelser fungerer. Utvalget har valgt å konsentrere seg om enkelte sider ved dagens regulering, herunder har utvalget vurdert om det er grunn til å videreføre den generelle adgangen til å ansette midlertidig i ett år i § 14-9 andre ledd bokstav f. Utvalget omtaler videre de særskilte reglene og praksisen for bruk av midlertidige ansettelser i universitets- og høyskolesektoren, og et flertall kommer med noen vurderinger knyttet til dette. Det samme flertallet gir noen betraktninger knyttet til begrepet praksisarbeid i § 14-9 andre ledd bokstav c. Utvalget har også vurdert om det bør innføres en generell adgang for partene i arbeidslivet til å avtale midlertidig ansettelse. I tillegg har utvalget vurdert om det bør gjøres endringer i tre-/fireårsregelen i § 14-9 sjuende ledd.
+
+## Vurdering av tilstanden
+
+### Bruken av midlertidige ansettelser i norsk arbeidsliv
+
+Midlertidige ansettelser er den mest brukte av de alternative tilknytningsformene i arbeidslivet. Kartlegginger tyder på at bruken er relativt stabil og at omfanget er blitt redusert fra om lag 10–12 prosent av de sysselsatte på 1990-tallet til nærmere 8 prosent i dag. Det er imidlertid betydelige variasjoner mellom sektorer og næringer.
+
+I punkt 5.4.2 omtales utviklingstrekk når det gjelder omfang og bruk av midlertidige ansettelser, hovedtrekkene gjengis her. I 2020 var andelen midlertidig ansatte 7,7 prosent ifølge SSB-AKU. Statistikkgrunnlaget har frem til nå bygget på svar fra arbeidstakere i utvalgsundersøkelser. Fra og med 2021 skal arbeidsgivere rapportere i a-ordningen om en ansettelse er fast eller midlertidig. Dette vil gi et bredere grunnlag for statistikk om midlertidig ansettelse.
+
+Norge er ifølge OECDs indeks om stillingsvernsregler, et av landene med strengest regulering av adgangen til midlertidig ansettelse og innleie fra bemanningsforetak, jf. punkt 5.8.1. Her skiller vi oss fra en del andre land, særlig i Sør-Europa, som har strenge stillingsvernsregler for faste ansettelser og relativt liberale regler for midlertidige ansettelser. Slik regulering har i disse landene medvirket til høye andeler midlertidig ansatte, hvor mange har vansker med å komme videre og oppnå fast ansettelse.
+
+Studier av midlertidige ansettelser viser ulike resultater. Flere studier, både fra Norge og andre land, finner at midlertidige ansettelser kan fungere som en vei til fast ansettelse for noen grupper, men i mindre grad for dem som fra før har en svak tilknytning til arbeidsmarkedet. Internasjonale studier tyder på at bruk av midlertidige ansettelser i liten grad påvirker sysselsettingsnivået. OECDs gjennomgang av forskningen på området viser at et midlertidig ansettelsesforhold kan føre til fastere tilknytning til arbeidslivet, men det kan også lede til marginalisering i arbeidsmarkedet dersom arbeidstakere blir værende i en midlertidig ansettelse eller gående mellom arbeidsledighet og kortvarige tilknytningsformer i lengre tid (OECD, 2013).
+
+I norsk arbeidsliv er de fleste midlertidige ansettelser relativt kortvarige. Nærmere halvparten oppnår fast ansettelse i løpet av ett år. Utsatte grupper på arbeidsmarkedet, som innvandrere, personer med nedsatt funksjonsevne og personer med grunnskole som høyeste utdanning, har imidlertid lavere sannsynlighet for å gå fra midlertidig til fast jobb enn gjennomsnittet (Strøm og von Simson, 2020). For mange, for eksempel studenter som har ekstrajobb eller er tilkallingsvikarer, kan en midlertidig ansettelse fungere som et mellomstopp i arbeidsmarkedet (Ingelsrud mfl., 2020). Nærmere to tredjedeler av alle med midlertidig ansettelse oppgir at de ønsker fast stilling, og denne andelen har økt over tid (Nergaard, 2018).
+
+Midlertidige ansettelser er mest vanlig i offentlig sektor, og utgjør ifølge SSB-AKU i overkant av 10 prosent av alle ansatte innen helse- og sosialtjenester og undervisning. Aller høyest er bruken innen deler av universitets- og høyskolesektoren, jf. punkt 12.2.4.
+
+Det er i hovedsak yngre arbeidstakere som har en midlertidig ansettelse, og det er noen flere kvinner enn menn. Andelen midlertidig ansatte har over tid vært noe økende blant de yngste aldersgruppene og blant dem som har grunnskole som høyeste utdanning. Midlertidig ansettelse er mest vanlig blant deltidsansatte, særlig blant dem som kombinerer en deltidsjobb med annen hovedaktivitet, for eksempel studier.
+
+Kartlegginger blant arbeidsgivere viser at de vanligste begrunnelsene for midlertidig ansettelse var å dekke vikariater og fordi virksomheten hadde behov for ekstra kapasitet. Svalund mfl. (2019) finner tegn til at en del virksomheter begrunner sin bruk av midlertidige ansettelser på måter som ligger i en gråsone eller utenfor arbeidsmiljølovens bestemmelser. Det er imidlertid vanskelig å analysere dette uten å vurdere om slike ansettelser kunne være lovlige etter den generelle adgangen i § 14-9 andre ledd bokstav f. Analysen i rapporten innebærer heller ingen rettslig vurdering av om regelverket brytes. Tidligere kartlegginger gir indikasjoner på at virksomhetene benytter midlertidige ansettelser på om lag samme måte selv om lovverket endres, jf. punkt 5.7.1.
+
+### Implikasjoner av midlertidig ansettelse
+
+Svar på SSBs levekårsundersøkelse om arbeidsmiljø 2019 viser at midlertidig ansatte opplever noe svakere tilknytning til arbeidsplassen og noe mindre selvbestemmelse enn fast ansatte. Midlertidig ansatte er imidlertid like motiverte og tilfredse med jobben. De midlertidig ansatte tror oftere enn fast ansatte at de er i en bedre jobb om fem år. Midlertidig ansatte er overrepresentert i yrker og næringer med høyere fysisk risiko, men innenfor samme yrke og næring har ikke midlertidig ansatte dårligere fysiske arbeidsmiljø enn fast ansatte (Ingelsrud mfl., 2020).
+
+Den store majoriteten av midlertidig ansatte befinner seg nederst i inntektsfordelingen, både når det gjelder timelønn og samlet inntekt. Dette er en utvikling som har forsterket seg over tid. En årsak kan være at de som har midlertidige jobber er forholdsvis unge, og mange er også studenter (Strøm og von Simson, 2020).
+
+Organisasjonsgraden blant midlertidig ansatte er 16 prosentpoeng lavere enn blant fast ansatte. Forskjellen er størst i offentlig sektor, hvor 54 prosent av de midlertidige er organisert, mot 82 prosent av de fast ansatte, jf. punkt 5.6.6. Det er færre blant de midlertidig ansatte som har eller kjenner til at det er kollektive ordninger som verneombud og arbeidsmiljøutvalg (AMU) på arbeidsplassen sin, jf. punkt 5.6.7.
+
+Ifølge Svalund mfl. (2019) er det få tilfeller hvor arbeidstakere selv følger opp saken dersom de mener de er midlertidig ansatt på uriktig grunnlag. Der sakene faktisk følges opp skjer det ofte med støtte fra en fagforening. I disse tilfellene forlikes gjerne sakene etter dialog på virksomhetsnivå, og i de fleste tilfeller førte dette til at arbeidstakeren fikk fast ansettelse. De fleste sakene var tilfeller hvor en langvarig midlertidig ansettelse kunne utløse rett til fast ansettelse etter tre-/fireårsregelen.
+
+### Den generelle adgangen til midlertidig ansettelse
+
+I 2015 ble det innført en generell adgang til midlertidig ansettelse i inntil ett år, jf. arbeidsmiljøloven § 14-9 andre ledd bokstav f. Det foreligger ikke tall for den eksakte bruken av denne lovhjemmelen. De kartleggingene som er gjort tyder imidlertid på at bruken av midlertidige ansettelser ikke har økt i tiden etter regelendringen. Sammensetningen av de midlertidig ansatte, det vil si om de er vikarer, ekstrahjelp mv., er omtrent den samme som før endringen.
+
+En undersøkelse som bygde på data fra årene 2015–2016 fant få tegn til at den utvidede adgangen til midlertidige ansettelser som ble innført i 2015 bidro til økt sysselsetting totalt sett, eller at de med svakere tilknytning til arbeidsmarkedet fikk bedret sin situasjon (Strøm mfl., 2018).
+
+I en ny undersøkelse som gjelder tidsrommet 1995–2018 finner Strøm og von Simson (2020), som nevnt over, at mange av de midlertidig ansatte oppnår fast ansettelse i løpet av ett år. De finner imidlertid at utsatte grupper på arbeidsmarkedet, som innvandrere og personer med grunnskole som høyeste utdanning, har lavere sannsynlighet for å gå fra midlertidig til fast jobb. Denne undersøkelsen gjelder alle former for midlertidig ansettelse, ikke bare de som er ansatt etter den generelle adgangen.
+
+En undersøkelse blant arbeidsgivere i kommunesektoren viste at den nye generelle adgangen ble lite benyttet og at den ble oppfattet som komplisert og lite nødvendig ut fra behovene (Alsos mfl., 2017). Mange kommuner har også fattet politiske vedtak om å ikke benytte den generelle adgangen.
+
+En undersøkelse basert på kvalitative intervjuer med arbeidsgivere i mellomstore og større virksomheter i privat sektor gir inntrykk av at en del arbeidsgivere foretrekker andre løsninger som innleie, tilkallingsvikarer, bruk av overtid, merarbeid ved deltid mv. fremfor den generelle adgangen til midlertidige ansettelser. Flere svarte at de allerede eksisterende hjemmelsgrunnlagene for midlertidig ansettelse ble opplevd som tilstrekkelige, og at de opplevde begrensningene knyttet til den generelle regelen som kompliserende. Det ble også vist til at regelen var omstridt og at fagforeninger var negative til bruk av den (Sletvold Øistad mfl., 2019).
+
+### Særlig om midlertidige ansettelser i universitets- og høyskolesektoren
+
+Innen deler av høyere utdanning og forskning er det en omfattende bruk av midlertidige ansettelser som skiller seg fra arbeidslivet for øvrig, jf. punkt 5.4.2.3. Når det gjelder ansettelser ved universiteter og høyskoler gjelder de alminnelige reglene i arbeidsmiljøloven og statsansatteloven, for henholdsvis private og statlige institusjoner, med de særregler som følger av universitets- og høyskoleloven, jf. universitets- og høyskoleloven § 6-1.
+
+Det gjelder noe andre regler for midlertidige ansettelser etter statsansatteloven og universitets- og høyskoleloven enn etter arbeidsmiljøloven, jf. punkt 8.4.11 og 8.4.12. Reglene for statsansatte ga tidligere noe større adgang til å benytte midlertidige ansettelser i situasjoner der det var usikkerhet om bemanningsbehovet. Etter at tjenestemannsloven av 1983 ble avløst av ny lov om statens ansatte mv. i 2017 er reglene mer like reglene i arbeidsmiljøloven. Statsansatteloven åpner for midlertidig ansettelse når arbeidet er av midlertidig karakter, i vikariat og for en periode på inntil seks måneder når det har oppstått et uforutsett behov. Disse grunnlagene gir rett til fast ansettelse når vedkommende har vært sammenhengende ansatt i virksomheten i mer enn tre år. Dessuten er det etter loven gitt særskilte bestemmelser om midlertidig ansettelse i praksisarbeid og utdanningsstillinger samt i åremålsstillinger.
+
+En evaluering av regelendringene tyder på at bruken av midlertidig ansettelse i staten er blitt redusert, men at dette skyldes generelle føringer og økonomiske innsparinger i vel så stor grad som nytt regelverk. Eksempler fra virksomheter tyder på at en mer restriktiv adgang til bruk av midlertidige ansettelser ikke bare kan skape flere faste stillinger, men også føre til et større press på eksisterende, faste ansatte og mulig økt bruk av oppsigelser også innen staten (Underthun mfl., 2019).
+
+En viktig endring i statsansatteloven var at retten til fast ansettelse inntrer etter tre års sammenhengende midlertidig ansettelse, mot fire år tidligere. Ifølge Underthun mfl. (2019) har endringen ført til økt oppmerksomhet og strengere praksis knyttet til lengden på midlertidige engasjementer, og at enkelte statlige virksomheter vurderer at faste ansettelser blir mer aktuelt enn tidligere. Hovedbildet er likevel at en reduksjon i bruken av midlertidige ansettelser allerede var i gang før lovendringene.
+
+I universitets- og høyskoleloven er regler for ansettelser ved åremål og midlertidige ansettelser gitt i §§ 6-4–6-6, jf. punkt 8.4.12. Særreguleringen skal sikre like vilkår for ansatte ved alle utdanningsinstitusjonene, og lik mulighet for fleksibilitet og omstilling for institusjonene, uavhengig av eierform.
+
+I 2020 var det, ifølge NSDs Database for statistikk om høgre utdanning, samlet sett 31,4 prosent i universitets- og høyskolesektoren som var midlertidig ansatt, jf. punkt 5.4.2.3. Dersom en bare ser på undervisnings- og forskerstillinger, unntatt personer ansatt i åremålsstillinger (inkludert rekrutteringsstillinger som stipendiat, postdoktor, spesialistkandidat og vitenskapelig assistent) var det ifølge NSD en andel på 13,2 prosent midlertidig ansatte i 2020. Ifølge NSD ligger bruken av midlertidige ansettelser noe lavere i de privateide institusjonene sammenlignet med de statlige. De private utgjør imidlertid ikke mer enn om lag 6 prosent av de samlede årsverkene i sektoren.
+
+Statistikken om midlertidige ansettelser i universitets- og høyskolesektoren kan tolkes på ulike måter. Dersom enkelte av de vitenskapelige stillingene på åremål tas med i beregningene, er andelen midlertidig ansatte i sektoren om lag 24 prosent i vitenskapelige stillinger. Utdanningsstillinger som stipendiat, spesialistkandidat og vitenskapelig assistent er da ikke med i beregningen.
+
+Åremålsstillinger opphører uten oppsigelse ved åremålsperiodens utløp, oftest etter fire eller seks år. Enkelte ganger er det mulighet til å fornye åremålet. Ifølge NOU 2020: 3, punkt 28.5.7 er åremål for lederstillinger begrunnet med at enkeltpersoner ikke skal sitte for lenge i slike posisjoner, mens begrunnelsen for å bruke åremål for utdanningsstillinger er at kvalifiseringen skjer over en viss periode og at den ansatte deretter skal over i en annen stillingskategori eller annen sektor.
+
+Rene forskerstillinger har ofte vært midlertidige fordi de har vært koblet til tidsavgrensede og bidragsavhengige forskningsprosjekter. Det har også vært en høy andel midlertidige undervisningsstillinger mv. i sektoren.
+
+Reguleringene og bruken av midlertidig ansettelse i universitets- og høyskolesektoren er blitt vurdert av Universitets- og høyskolelovutvalget som har lagt frem forslag til ny universitets- og høyskolelov (NOU 2020: 3). Det uttales i utredningen at midlertidige ansettelser i sektoren grovt kan deles inn i tre grupper. De to første gruppene, åremålsstillingene for henholdsvis leder- og utdanningsstillinger, kan ifølge utvalget sies å være ønsket i sektoren, jf. NOU 2020: 3, punkt 28.5.6. Universitets- og høyskolelovutvalget viser imidlertid til at det er mer problematisk med midlertidige ansettelser som, på bakgrunn av midlertidig finansiering, hjemles i statsansatteloven § 9 første ledd bokstav a som hjemler midlertidig ansettelse «når arbeidet er av midlertidig karakter». De viser videre til at de er kjent med at det i slike tilfeller noen ganger feilaktig blir henvist til forskrift til statsansatteloven[^141] § 3 tredje ledd som hjemmel for å ansette midlertidig. Det presiseres av Universitets- og høyskolelovutvalget at denne bestemmelsen ikke regulerer midlertidige ansettelser, men hjemler en forenklet ansettelsesprosess der vilkårene for å ansette midlertidig etter statsansatteloven er oppfylt.
+
+Ifølge Universitets- og høyskolelovutvalget indikerer den høye andelen midlertidig ansatte i sektoren at «institusjonene ansetter i midlertidige stillinger utover det som er nødvendig, og bruker de rettslige grunnlagene for midlertidige stillinger i større grad enn det er faktisk grunnlag for», jf. NOU 2020: 3, punkt 28.5.6.
+
+Utover et forslag om at det ikke skal være adgang til å gi ansettelse for mer enn én periode som postdoktor, fremmet ikke utvalget egne forslag til regelendringer i disse reglene, men viste til den nye statsansatteloven. I innstillingen punkt 28.5.6 heter det:
+
+Utvalget oppfordrer derfor sektoren selv, og hver enkelt institusjon, til å arbeide systematisk med å etablere en god kultur og hensiktsmessige rutiner ved ansettelser. Målet er å sikre at hovedregelen om fast ansettelse følges uavhengig av finansieringskilde, og at hjemlene for å ansette midlertidig anvendes korrekt.
+
+I proposisjonen som er fremmet av Kunnskapsdepartementet, som oppfølging av Universitets- og høyskolelovutvalgets arbeid, bekreftes utvalgets oppfattelse om bruken av midlertidig ansettelse i sektoren. Det beskrives under et avsnitt om anvendelse av statsansatteloven § 9 bokstav a at:
+
+Inntrykket er at det er kultur og praksis i sektoren for å benytte bestemmelsen som grunnlag for å ansette midlertidig når arbeidet er eksternt finansiert, og at bestemmelsen brukes i større omfang enn den egentlig åpner for.[^142]
+
+Forskriften til statsansatteloven § 3 tredje ledd blir ifølge departementet feilaktig tolket på enkelte institusjoner og også ofte benyttet som hjemmel for å ansette midlertidig dersom en stilling er eksternt finansiert. Ifølge departementet har det i utgangspunktet ikke betydning for rettigheter og plikter i et arbeidsforhold hvordan en stilling er finansiert. Det presiseres imidlertid at mange oppdrag som er eksternt finansiert er arbeid av midlertidig karakter, og at vilkåret for å ansette midlertidig med hjemmel i statsansatteloven § 9 i så fall kan være oppfylt.
+
+Generelt uttaler departementet på samme sted at:
+
+Etter at det i en periode har vært søkelys på problemstillingen om midlertidige ansettelser, og regelverket er tydelig formidlet til sektoren, ser det ut til at institusjonene gradvis er i ferd med å endre praksis. Det foretas nå i økt utstrekning vurderinger av hvorvidt et arbeid er av midlertidig karakter, eller om det kan ansettes fast i slike tilfelle.
+
+Det påpekes videre at institusjonene i sektoren, etter departementets syn, bør vurdere tiltak som kan bidra til å øke kompetansen på det arbeidsrettslige området.
+
+Utvalget vil i det følgende ikke gå nærmere inn på de særlige reglene for midlertidig ansettelse innenfor staten generelt, eller universitet og høyskole spesielt. Det forutsettes at også denne sektoren anvender hjemlene for midlertidig ansettelse korrekt. Uavhengig av bransje og sektor, så er det uheldig for arbeidstakere å oppleve gjentatte perioder med midlertidighet, med den usikkerhet det kan innebære for inntekter, etableringsmuligheter mv.
+
+*Flertallet, medlemmene Fougner, Dahle, Kastet, Olsen, Salvanes, Stokland, Sverdrup Svendsen og Tinnlund,* viser til at andelen midlertidige i universitets- og høyskolesektoren er høy sammenlignet med resten av arbeidslivet. Særskilte behov for utdanningsstillinger begrunner dette delvis, men ikke fullt ut. Gjennomgang av sektorens praksis har gjentatte ganger konkludert med at sektoren preges av en uklar praksis når det gjelder koblingen mellom ekstern finansiering og midlertidig tilsetting, senest Universitets- og høyskolelovutvalget. *Disse medlemmene* konkluderer, med utgangspunkt i sektorens omfattende bruk av midlertidig tilsetting, at det er behov for en gjennomgang av de særlige ansettelsesforskriftene. *Disse medlemmene* mener det også er behov for å vurdere om regelverket kan tydeliggjøres for å begrense uklar praksis knyttet til ekstern finansiering og midlertidig tilsetting.
+
+### Særlig om begrepet praksisarbeid i § 14-9 andre ledd bokstav c
+
+Etter § 14-9 andre ledd bokstav c kan avtale om midlertidig ansettelse inngås for «praksisarbeid», jf. omtale i punkt 8.4.3. *Flertallet, medlemmene Fougner, Dahle, Kastet, Olsen, Salvanes, Stokland, Sverdrup Svendsen og Tinnlund* ønsker å knytte noen kommentarer til begrepet «praksisarbeid».
+
+Muligheten for praksisarbeid er viktig for gjennomføring av en rekke utdanningsløp, for eksempel lærlingeordningen.
+
+Utover ordlyden gir loven ingen holdepunkter for forståelsen av begrepet «praksisarbeid». I forarbeider til bestemmelsen vises det til at praksisarbeid normalt skjer i forbindelse med opplæring eller kvalifisering innenfor et fagområde, og ofte vil være et utgangspunkt for videre utdanning, jf. Ot.prp. nr. 50 (1993–94), side 165. Av Ot.prp. nr. 49 (2004–2005), side 331, følger at praksisarbeid som ikke inngår som et ledd i et fastsatt utdanningsløp, men som for eksempel tas med sikte på å oppnå poengkrav for inntak til høyere utdanning, faller utenfor bestemmelsen.
+
+I rettspraksis er det på bakgrunn av forarbeider og teori utledet en del utgangspunkter for hvordan begrepet «praksisarbeid» skal forstås. I Rt. 2013 side 1392 er det lagt til grunn at begrepet favner både det å anvende eller praktisere teoretiske kunnskaper man har fra før og det å erverve nye kunnskaper gjennom utførelse av arbeidsoppgaver. I Rt. 2009 side 578 uttales det:
+
+Det kreves ikke at utdannelseselementet utgjør en overveiende og nødvendig del av stillingens arbeidsområde. Et midlertidig arbeid vil kunne være praksisarbeid i lovens forstand selv om det ikke er knyttet en organisert veiledningsfunksjon til stillingen, selv om hovedformålet med stillingen ikke er at arbeidstakeren skal lære seg noe genuint nytt, men at han eller hun skal praktisere sine teoretiske kunnskaper, og selv om arbeidstakeren utfører arbeid som tilsvarer det fast ansatte utfører og på denne måten fyller et arbeidskraftsbehov. Men de nevnte forhold vil kunne ha betydning i en helhetsvurdering av stillingens karakter.
+
+Også arbeid med sikte på å gi opplæring eller kvalifisering innenfor et fagområde som utføres etter endt grunnutdanning, vil kunne være praksisarbeid i lovens forstand. Særlig gjelder det dersom arbeidet skjer som en integrert del av et utdanningsløp i regi av en utdanningsinstitusjon med sikte på formell kompetanse, og ganske særlig dersom arbeidet skjer i en øremerket praksisstilling. Dersom en arbeidstaker derimot gis permisjon fra sitt daglige virke for å delta på et kurs eller annen teoretisk utdanning, vil ikke stillingen av den grunn få karakter av praksisstilling selv om arbeidstakeren vil kunne praktisere sin nyvunne kunnskap når han eller hun er tilbake på jobb. Det vil heller ikke uten videre bli praksisarbeid om arbeidsgiveren sender arbeidstakeren på kurs i deler av arbeidstiden for å dyktiggjøre seg i arbeidet.
+
+*Flertallet* mener at forarbeidene og rettspraksis gir uklare holdepunkter for avgrensing av begrepet «praksisarbeid», og at senere dommer aktualiserer behovet for avgrensning. Den klare hovedregel i norsk arbeidsliv er fast ansettelse. For å unngå at hovedregelen uthules er det viktig at unntaksbestemmelsene avgrenses så tydelig som mulig. De aller fleste arbeidstakere i norsk arbeidsliv vil også etter endt utdanning forventes å oppdatere og videreutvikle sin kompetanse. Utviklingen tilsier at dette vil gjelde i økende grad, se punkt 4.7 om kompetanse i arbeidslivet. *Flertallet* mener derfor at forståelsen av begrepet praksisarbeid i § 14-9 andre ledd bokstav c bør klargjøres.
+
+### Oppsummering
+
+- Omfanget av midlertidige ansettelser er noe redusert. Mange er unge arbeidstakere på vei inn i arbeidslivet, og mange er i vikariater. De fleste ønsker å bli fast ansatt.
+
+- Nærmere halvparten av de som ansettes midlertidig går over i fast stilling i løpet av ett år, men utsatte grupper på arbeidsmarkedet har lavere sannsynlighet for å gå fra midlertidig til fast jobb.
+
+- Det er markant lavere organisasjonsgrad blant midlertidig ansatte sammenlignet med fast ansatte.
+
+- De midlertidig ansatte har lavere inntektsnivå enn fast ansatte og andre grupper med alternative tilknytningsformer.
+
+- Midlertidig ansatte opplever noe svakere tilknytning til arbeidsplassen og noe mindre selvbestemmelse enn fast ansatte. De er imidlertid like motiverte og tilfredse med jobben som fast ansatte.
+
+- Den generelle adgangen til midlertidig ansettelse ser ut til å ha blitt lite benyttet og ikke ha ført til endringer i måten virksomhetene benytter midlertidige ansettelser på.
+
+- Universitets- og høyskolesektoren skiller seg ut med en vesentlig høyere andel midlertidige ansatte enn arbeidslivet for øvrig.
+
+- Omfanget av midlertidige ansettelser er høyest innen offentlig sektor, særlig innen helse- og sosialtjenester og undervisning. I staten har blant annet nytt regelverk bidratt til noe reduksjon i omfanget.
+
+## Utvalgets vurderinger og forslag
+
+### Utvalgets generelle vurdering
+
+Regelverket for midlertidige ansettelser har vært gjenstand for mye diskusjon gjennom lang tid. På den ene siden legges det gjerne vekt på virksomhetenes behov for fleksibilitet, for eksempel ved sykefravær, ulike permisjoner, i en oppstartsfase, eller ved omlegging av drift for tilpasning til ny markedssituasjon hvor det vil være usikkerhet om det vil være grunnlag for en permanent fast ansettelse. Det er også blitt lagt vekt på betydningen av midlertidige ansettelser som et springbrett inn i arbeidslivet. På den andre siden er det pekt på at midlertidige ansettelser innebærer økt usikkerhet for den enkelte, både når det gjelder arbeidssituasjon og fremtidige jobbutsikter, tilgang til forsikrings- og pensjonsordninger og manglende økonomisk sikkerhet for å kunne ta opp lån og etablere seg i boligmarkedet. Det er også vektlagt at omfattende bruk av midlertidige ansettelser kan føre til en todeling av arbeidsmarkedet, og at utsatte arbeidstakere kan risikere å bli gående inn og ut av midlertidige ansettelser i lengre tid.
+
+Sysselsettingsutvalget (NOU 2021: 2) har nylig vurdert tiltak for å gjøre det lettere å få innpass i arbeidslivet for grupper som stiller svakere i arbeidsmarkedet. De viser til at midlertidige ansettelser og formidling av arbeid gjennom vikarbyråer kan gi enkelte arbeidstakere mulighet til å oppnå fast ansettelse. Samtidig kan midlertidige ansettelser og vikarbyråer innebære visse ulemper sammenlignet med fast ansettelse. Sysselsettingsutvalget uttaler at en prøvetidsperiode som oppleves som mer reell enn i dag vil kunne bidra til å redusere risikoen for arbeidsgiver, og legge til rette for at unge og personer fra utsatte grupper kan styrke sine muligheter til å komme inn på arbeidsmarkedet. Det vil også kunne begrense behovet for midlertidige ansettelser. Sysselsettingsutvalget mener det er behov for å se nærmere på handlingsrommet arbeidsgivere har i prøvetiden, og klargjøre og eksemplifisere hva regelverket skal innebære, slik at prøvetiden oppleves som mer reell enn i dag. For å styrke utsatte gruppers mulighet til å oppnå fast ansettelse og samtidig redusere arbeidsgivers risiko ved faste ansettelser, foreslår Sysselsettingsutvalget å utrede mulighetene til å forlenge prøvetiden der det for eksempel foreligger store inkluderingsutfordringer, store helseproblemer eller manglende kompetanse, og det er i arbeidstakers interesse at prøvetiden forlenges. De foreslår også å utrede muligheten for en mer automatisk forlengelse av prøvetiden ved sykdomsfravær slik at arbeidstaker og arbeidsgiver skal ha mer tid til tilrettelegging og utprøving av arbeidstakers tilpasning til arbeidet i prøvetiden. Sysselsettingsutvalget peker på at forslagene må utredes nærmere og ligge innenfor rammen av det som følger av EU/EØS-retten, jf. NOU 2021: 2, punkt 7.5.
+
+*Utvalget* viser her til Sysselsettingsutvalgets vurderinger og går ikke nærmere inn på spørsmål knyttet til prøvetid i denne sammenheng.
+
+Det kan være grunn til å følge med på utviklingen etter koronapandemien og om denne situasjonen skulle medføre økende bruk av midlertidige ansettelser, jf. utvalgets vurderinger i punkt 9.6.2. Derfor er det viktig at arbeidslivets parter og myndighetene samarbeider om å ha et oppdatert kunnskapsbilde om bruken av midlertidige ansettelser og andre alternative tilknytningsformer.
+
+Utvalget peker på at det er politisk omstridt hvordan midlertidige ansettelser skal reguleres. Et eksempel på dette er spørsmålet om hvorvidt det skal være en generell adgang til midlertidige ansettelser. I 2005 vedtok Stortinget den nye arbeidsmiljøloven, som inneholdt en generell adgang til midlertidig ansettelse. Etter stortingsvalget og det påfølgende regjeringsskiftet i 2005 ble vedtaket reversert, slik at arbeidsmiljøloven ikke åpnet for en generell adgang til midlertidig ansettelse da den trådte i kraft fra 2006. Etter stortingsvalget i 2013 ble det på nytt flertall for en slik generell adgang. På bakgrunn av forslag fra regjeringen Solberg vedtok stortingsflertallet en regelendring som trådte i kraft i 2015, jf. Prop. 39 L (2014–2015) og Innst. 208 L (2014–2015).
+
+I forbindelse med lovendringen i 2015 ba stortingsflertallet regjeringen om å evaluere ordningen med midlertidig ansettelse i samarbeid med partene i arbeidslivet. Evalueringen skulle særlig se på om hensikten med lovendringen ble oppnådd, og om det har oppstått eventuelle negative virkninger, slik som økt bruk av midlertidighet på bekostning av faste stillinger, eller at enkelte grupper «fanges» i midlertidige stillinger selv om det bør finnes faste stillinger til dem. Arbeids- og sosialdepartementet har i dialog med partene i arbeidslivet gjennomført flere kartleggingsprosjekter, jf. omtale over. Et pågående prosjekt i regi av Institutt for samfunnsforskning vil bli avsluttet i 2022.
+
+Studiene som er gjort av midlertidige ansettelser viser ulike resultater. I en del tilfeller kan midlertidig ansettelse fungere som en vei til fast ansettelse, men det kan også lede til marginalisering i arbeidsmarkedet. Utvalget finner ikke grunn til å gjenta de brede diskusjonene som har vært om hvilken rolle midlertidige ansettelser skal ha i arbeidsmarkedet, men velger å rette oppmerksomheten mot enkelte sider ved dagens reguleringer.
+
+Det er bred enighet om at hovedregelen i norsk arbeidsliv skal være faste ansettelser. Denne hovedregelen danner etter *utvalgets* mening det beste utgangspunktet for trygghet, stabilitet og godt arbeidsmiljø. I tillegg er det behov for at virksomhetene som et unntak fra hovedregelen kan benytte midlertidig ansettelse på bestemte vilkår, blant annet for å bidra til at virksomhetene skal kunne drive effektivt og konkurransedyktig. Virksomhetenes adgang til bruk av vikariater er også viktig for å sikre at gode permisjonsrettigheter, rettigheter ved sykefravær mv. kan opprettholdes. Disse fordelene må avveies mot de negative konsekvensene midlertidig ansettelse kan ha for arbeidstakerne.
+
+Det er ulike vurderinger i utvalget av hvordan dagens regulering av midlertidige ansettelser fungerer. Utvalget har vurdert om det kan være behov for å gjøre visse tilpasninger av reglene. Ved endring av reglene mener *utvalget* at det er viktig at forslagene sett under ett, på en hensiktsmessig måte, balanserer hensynet til vern av arbeidstakerne og virksomhetenes mulighet til å benytte midlertidige ansettelser når det er reelt behov for det. Det er også viktig at reglene er brukervennlige og enkle å forstå både for virksomheter og arbeidstakere.
+
+Når det gjelder grunnlag og vilkår for midlertidig ansettelse, har utvalget særlig vurdert om den generelle adgangen til midlertidige ansettelser i arbeidsmiljøloven § 14-9 andre ledd bokstav f bør videreføres. Utvalget har videre vurdert om det bør innføres en tariffavtaleadgang for midlertidige ansettelser. Utvalget har også vurdert om det bør gjøres endringer i lovens tre-/fireårsregel i § 14-9 sjuende ledd.
+
+### Generell adgang til midlertidig ansettelse i § 14-9 andre ledd bokstav f
+
+Med virkning fra 1. juli 2015 ble det innført en generell adgang til å ansette midlertidig i tolv måneder i § 14-9 andre ledd bokstav f.[^143] Bestemmelsen åpner for midlertidig ansettelse uten at det foreligger særlig grunn. Arbeidsforholdet må avsluttes senest tolv måneder etter tiltredelse, eller videreføres som fast eller midlertidig ansettelse på annet grunnlag. Dersom en arbeidstaker som er midlertidig ansatt på generelt grunnlag ikke får videre ansettelse ved avtaleperiodens utløp, inntrer en karanteneperiode på tolv måneder. Arbeidsgiveren kan i karanteneperioden ikke foreta nye ansettelser med samme hjemmel for arbeidsoppgaver av samme art innenfor virksomheten, jf. § 14-9 åttende ledd. Avtaler på generelt grunnlag kan omfatte inntil 15 prosent av arbeidstakerne i virksomheten avrundet oppover, men kan likevel inngås med minst én arbeidstaker, jf. § 14-9 andre ledd bokstav f.
+
+Lovendringen ble særlig begrunnet med at en utvidet adgang til midlertidige ansettelser ville kunne fungere som et springbrett for personer i situasjoner hvor arbeidsgiver kan oppleve at det er risiko knyttet til ansettelsen. Formålet var altså at en slik adgang ville gjøre det lettere for flere å få arbeid. Dette ble blant annet beskrevet slik i punkt 5.1.1 i Prop. 39 L (2014–2015):
+
+Personer som av ulike årsaker har redusert arbeidsevne og usikker produktivitet opplever at det kan være vanskelig å oppnå ansettelse. En av grunnene til dette kan være at arbeidsgivere er bekymret for kostnader ved eventuell feilansettelse og eventuell oppsigelse. Det tilsier at det er behov for virkemidler som kan bidra til å redusere arbeidsgivernes usikkerhet ved ansettelser.
+
+Regelendringen var også ment å bidra til et mer velfungerende arbeidsmarked og å gi virksomheter noe mer fleksibilitet, for eksempel i oppstartfasen og ved omorganisering. Departementet omtalte dette blant annet slik i punkt 1.1 i Prop. 39 L (2014–2015):
+
+Økt adgang til midlertidig ansettelse vil bidra til et mer velfungerende arbeidsmarked. Med økt fleksibilitet vil arbeidsgivere raskere kunne tilpasse seg endringer i etterspørselen. En utvidet adgang til midlertidige ansettelser kan bidra til å redusere arbeidsgivers opplevde risiko, både når det gjelder ansettelser av personer med usikker produktivitet, over konjunkturer, ved oppstart eller omstrukturering. Det kan gjøre det lettere å øke tilbudet av jobber i en begynnende oppgang eller ved en usikker og kanskje midlertidig økning i arbeidskraftsbehovet.
+
+Utvalget viser til omtale i punkt 12.2.3. Kartleggingene som er gjort så langt er ikke fullstendige, men gir indikasjoner på at regelendringen ikke har hatt den ønskede effekt i forhold til de uttalte målene. Undersøkelsene tyder på at bestemmelsen er blitt lite benyttet og ikke ser ut til å ha lettet adgangen til arbeidsmarkedet for personer som tilhører grupper hvor arbeidsgiver kan oppleve at det er risiko knyttet til ansettelsen. Analysene viser videre at utsatte grupper på arbeidsmarkedet, som innvandrere og personer med grunnskole som høyeste utdanning, har lavere sannsynlighet for å gå fra midlertidig til fast jobb enn gjennomsnittet. Dette gjelder både før og etter regelendringen.
+
+Regelendringen var også ment å skulle bidra til et mer velfungerende arbeidsmarked og å gi virksomheter noe mer fleksibilitet, for eksempel i oppstartfasen og ved omorganisering. Kartlegginger tyder på at det har skjedd få endringer i bruken av midlertidige ansettelser sammenlignet med situasjonen før endringen. Videre viser undersøkelser at mange arbeidsgivere opplever den nye bestemmelsen som komplisert og lite nødvendig ut fra behovene. Samtidig er det heller ikke noe som tilsier at bestemmelsen har hatt en negativ betydning for sysselsettingen eller ført til en dreining fra faste til midlertidige ansettelser, slik flere høringsinstanser fryktet før regelen ble innført.
+
+Selv om den generelle adgangen til midlertidig ansettelse har en tidsbegrensning på ett år, kan den benyttes der arbeidskraftsbehovet er av mer varig karakter. Bestemmelsen bryter slik sett med lovens systematikk om at midlertidige ansettelser i utgangspunktet skal dekke midlertidige arbeidskraftsbehov.
+
+Spørsmålet blir så om regelen bør beholdes eller oppheves. Det at bestemmelsen har blitt lite benyttet, kan brukes som argument i begge retninger. På den ene siden kan det argumenteres med at den bør oppheves fordi den ikke er blitt benyttet eller oppfyller de intensjonene bestemmelsen hadde som siktemål. På den andre siden kan det anføres at ettersom den er lite benyttet, er det heller ikke behov for å fjerne den. *Utvalget* utelukker ikke at bestemmelsen kan dekke et reelt behov i visse situasjoner. Det vises til at det i noen tilfeller kan være vanskelig å vurdere om vilkårene i § 14-9 andre ledd bokstav a til e, og da særlig vilkårene etter bokstav a er oppfylt. Dette kan for eksempel gjelde for virksomheter i en oppstartsfase eller i forbindelse med en oppbemanning eller omorganisering hvor det foreligger et uavklart arbeidskraftsbehov.
+
+*Flertallet, medlemmene Fougner, Dahle, Kastet, Olsen, Salvanes, Stokland, Sverdrup Svendsen og Tinnlund*, mener at bestemmelsen i § 14-9 andre ledd bokstav f bør oppheves. Det vises særlig til at bestemmelsen bryter med lovens systematikk om at midlertidige ansettelser i utgangspunktet skal dekke midlertidige arbeidskraftsbehov. Bestemmelsen synes heller ikke å fungere etter sin hensikt. Den er lite brukt og det ser ut til at virksomhetenes behov i all hovedsak ivaretas gjennom de andre hjemlene for midlertidige ansettelser. Videre ser bestemmelsen heller ikke ut til å ha gitt ønsket springbretteffekt for personer i situasjoner hvor arbeidsgiver kan oppleve at det er risiko knyttet til ansettelsen ettersom utsatte grupper på arbeidsmarkedet fortsatt har lavere sannsynlighet for å gå fra midlertidig til fast jobb enn gjennomsnittet. De kartlegginger som er gjort tyder dessuten på at midlertidige ansettelser i mindre grad ser ut til å fungere som et springbrett inn i arbeidsmarkedet for disse gruppene. Det er etter *flertallets* mening derfor heller ikke grunn til å vurdere å endre bestemmelsen slik at den blir enklere for virksomhetene å anvende.
+
+*Flertallet* foreslår etter dette at § 14-9 andre ledd bokstav f, femte ledd siste punktum og åttende ledd oppheves.
+
+Flertallet viser til at § 10-5 første ledd siste punktum i så fall også må oppheves, samt at henvisningen til § 14-9 andre ledd bokstav f andre punktum i § 18-6 første ledd skal fjernes.
+
+*Mindretallet, medlemmene Almestrand, Brandshaug Dale, Juliussen og Spjelkavik* mener bestemmelsen i § 14-9 andre ledd bokstav f bør beholdes som i dag. *Mindretallet* er av den oppfatning at fast ansettelse fortsatt skal være hovedregelen og at det også klart er situasjonen i dagens arbeidsliv. Bruken av midlertidige ansettelser er lav i Norge. Undersøkelser viser at innføringen av bestemmelsen i bokstav f ikke har endret dette bildet.
+
+Da bestemmelsen trådte i kraft i 2015, hadde den et todelt mål – øke mulighet for innpass i arbeidslivet for grupper som hadde utfordringer med å komme i arbeid, og å gjøre det enklere for virksomheter å ta ansettelsesrisiko.
+
+Bokstav f utgjør fortsatt en mulighet for enkelte grupper som erfaringsvis har problemer med å komme seg inn i arbeidslivet. Det at den foreløpig i begrenset grad er benyttet til dette, tilsier ikke at den skal fjernes. Dersom bestemmelsen førte til at arbeidstakere som ellers ville vært fast ansatt, ble ansatt på midlertidige kontrakter, kunne det være grunn til å revurdere bestemmelsen. Kunnskapsgrunnlaget har ikke avdekket en slik effekt. *Mindretallet* kan derfor ikke se gode argumenter for å fjerne bestemmelsen, og mener at det er viktig å bevare alle virkemidler som kan øke yrkesdeltakelsen i befolkningen.
+
+Bestemmelsen har også en funksjon i forbindelse med nyetableringer, endringer i virksomhetens satsningsområder og innovasjonsprosjekter der bedriften ikke har grunnlag for midlertidig ansettelse i andre av lovens bestemmelser. Alternativet i slike situasjoner vil ofte ikke være fast ansettelse, men ingen ansettelse. En av Gründerrådets anbefalinger (2012)[^144] var nettopp en utvidet mulighet for midlertidige ansettelser slik bokstav f representerer. Dagens generelle adgang til midlertidig ansettelse, imøtekommer i noen grad behovet hos virksomheter i slike situasjoner. Samtidig verner den om fast ansettelse som den klare hovedregelen, siden bestemmelsen inneholder strenge begrensninger.
+
+En generell, men tidsbegrenset adgang som dagens bestemmelse representerer, vil være særlig viktig når mange sterkt rammede virksomheter nå etter korona igjen skal våge å satse. Bokstav f vil også kunne gi en økt mulighet for de mange arbeidsledige det siste året.
+
+*Mindretallet* mener det er riktig å opprettholde denne muligheten
+
+### Generell adgang til å inngå tariffavtale om midlertidig ansettelse
+
+*Utvalget* mener i utgangspunktet at midlertidige ansettelser skal dekke midlertidige arbeidskraftsbehov. Det kan likevel oppstå situasjoner hvor det kan være vanskelig for virksomhetene å vite om et arbeidskraftsbehov er varig eller midlertidig. Utvalget har derfor vurdert om det er behov for en regel som gir virksomheter noe fleksibilitet utover det som følger av de ordinære grunnlagene for midlertidige ansettelser i § 14-9 andre ledd bokstav a til e. Slik fleksibilitet følger i dag av bokstav f, men som det fremgår av punkt 12.3.2 mener utvalgets flertall at denne bestemmelsen bør oppheves. Utvalget har etter dette vurdert om det bør innføres en generell adgang til å inngå tariffavtale om midlertidige ansettelser.
+
+Det er i dag adgang til å inngå tariffavtale om midlertidig ansettelse mellom landsomfattende arbeidstakerorganisasjon og arbeidsgiver eller arbeidsgiverforening, men denne avtaleadgangen er begrenset til arbeidstakergrupper innenfor kunstnerisk arbeid, forskningsarbeid og arbeid i forbindelse med idrett, jf. § 14-9 fjerde ledd, jf. punkt 8.4.5.
+
+En generell avtaleadgang for midlertidige ansettelser har vært diskutert flere ganger tidligere. Arbeidslivslovutvalget (NOU 2004: 5) foreslo at adgangen i daværende § 58 A nr. 1 (nåværende § 14-9 fjerde ledd) skulle gjøres generell. Forslaget ble blant annet begrunnet med at behovet for tidsavgrensede ansettelser kunne variere over tid og mellom ulike næringer, bransjer og sektorer, og at en tariffavtaleadgang ville gjøre det mulig å imøtekomme reelle behov uten å åpne for midlertidig ansettelse der det ikke er nødvendig. Det ble videre trukket frem at dette området, etter Arbeidslivslovutvalgets syn, egner seg for avtaleadgang og at avtaler ville kunne balansere hensynene til arbeidstakers og arbeidsgivers interesser og kunne tilpasses virksomhetenes behov i større grad enn de generelle reglene om midlertidig ansettelse. Det ble også uttalt at Arbeidslivslovutvalget la betydelig vekt på at partene i arbeidslivet er gitt en slik avtalekompetanse i EU-direktivet om midlertidig ansettelse[^145], jf. NOU 2004: 5, punkt 15.3.7.
+
+Arbeidslivslovutvalgets forslag ble fulgt opp i Ot.prp. nr. 49 (2004–2005) og vedtatt som en del av arbeidsmiljøloven i 2005, men reversert etter regjeringsskiftet i 2005 før arbeidsmiljøloven trådte i kraft, jf. Ot.prp. nr. 24 (2005–2006). Reverseringen ble begrunnet med at tariffavtaleadgangen fortsatt burde være begrenset med hensyn til hva slags arbeid det dreier seg om.
+
+*Utvalget* har vurdert argumenter både for og mot å innføre en generell tariffavtaleadgang for midlertidige ansettelser, men har etter en vurdering av argumentene kommet til at det ikke ønsker å foreslå lovendring. Nedenfor følger en kort oppsummering av en del av momentene som er vurdert av utvalget.
+
+På den ene siden er det trukket frem at en tariffavtaleadgang vil kunne gi en mer fleksibel og treffsikker løsning der det er reelt behov for midlertidige ansettelser, enn det som er mulig etter de ordinære grunnlagene i § 14-9 andre ledd bokstav a til e. Det er også blitt pekt på at partene i arbeidslivet i fellesskap vil ha gode forutsetninger for å komme frem til en løsning som balanserer arbeidstakerens behov for trygghet og virksomhetens behov for fleksibilitet. Et annet argument for tariffavtaleadgang er at en slik regulering vil gjøre innleiereglene og reglene for midlertidig ansettelse mer like. Det er også blitt fremhevet at reguleringer som gir organiserte en fordel gjennom økt fleksibilitet vil kunne bidra til å styrke det organiserte arbeidslivet, og dermed bidra til å ivareta den norske modellen. Ifølge OECDs indeks er Norge et av landene med strengest regulering av adgangen til midlertidig ansettelse, jf. punkt 5.8.1. Dette har vært trukket frem som et moment i vurderingen av om det av hensyn til arbeidsgivernes fleksibilitet vil være riktig å åpne for en tariffavtaleadgang. Det er også vist til at Arbeidslivslovutvalget la betydelig vekt på at partene i arbeidslivet er gitt en slik avtalekompetanse i EU-direktivet om midlertidig ansettelse, men ikke alle utvalgsmedlemmene er enige i denne tolkningen av direktivet.
+
+På den andre siden er det argumentert med at en tariffavtaleadgang vil kunne åpne for midlertidig ansettelser der det ikke foreligger et midlertidig behov og at dette vil kunne svekke de ansattes stillingsvern. Det er videre brukt som argument mot innføring av en tariffavtaleadgang at det vil kunne føre til flere midlertidige ansettelser, potensielt på bekostning av faste ansettelser. Det er også lagt vekt på at dagens tariffavtaleadgang i § 14-9, etter det utvalget erfarer, ikke er brukt i stor utstrekning og at det derfor kan reises tvil ved om en tariffavtaleadgang faktisk vil bli brukt dersom den innføres.
+
+*Utvalget* har, som nevnt ovenfor, etter en vurdering av argumentene for og mot innføring av en tariffavtaleadgang kommet til at det ikke ønsker å foreslå lovendring på dette punktet. I denne vurderingen har flere utvalgsmedlemmer lagt vekt på at en slik bestemmelse vil bryte med prinsippet om at midlertidig ansettelse kun skal benyttes når det foreligger midlertidig arbeidskraftsbehov. Andre utvalgsmedlemmer har vektlagt at det er tvilsomt om en slik bestemmelse vil bli brukt.
+
+### Fast ansettelse etter tre eller fire år
+
+Det følger av arbeidsmiljøloven § 14-9 sjuende ledd at arbeidstakere som har vært sammenhengende midlertidig ansatt i mer enn fire år for å utføre arbeid av midlertidig karakter (andre ledd bokstav a) eller i mer enn tre år i vikariat (andre ledd bokstav b) og på generelt grunnlag (andre ledd bokstav f), skal anses som fast ansatt. Det er fra 1. januar 2019 presisert i loven at også en kombinasjon av flere av grunnlagene, gir rett til fast ansettelse etter tre år.
+
+Frem til 1. juli 2015 gjaldt fireårsregelen for midlertidig ansettelse etter både bokstav a og b. Fireårsregelen ble tatt inn i arbeidsmiljøloven etter forslag fra Arbeidslivslovutvalget, jf. NOU 2004: 5, jf. Ot.prp. nr. 49 (2004–2005), punkt 16.4.3. Innføringen av regelen ble begrunnet med at midlertidige ansettelser verken burde vare over et for langt tidsrom eller gjenopptas i for stor utstrekning. Det ble også vist til direktivet om midlertidige ansettelser som pålegger landene å treffe tiltak for å hindre misbruk ved gjentatte midlertidige ansettelser. Videre ble regelen begrunnet med en harmonisering med tjenestemannsloven som den gang hadde en slik fireårsregel.
+
+Om valget av innslagstidspunktet på fire år skrev departementet:
+
+Etter departementets oppfatning er fire år en hensiktsmessig grense for hva som er akseptabel maksimal lengde på midlertidig ansettelse og som sikrer tilstrekkelig fleksibilitet i de fleste tilfeller. Dersom en arbeidstaker har vært ansatt i en og samme virksomhet i over fire år, indikerer dette normalt et stabilt behov for arbeidskraft og det er rimelig at arbeidstaker i et slikt tilfelle omfattes av lovens krav til saklig grunn for oppsigelse.
+
+I de samme forarbeidene uttales det videre at:
+
+En øvre grense for varigheten av en midlertidig ansettelse kan bidra til å tydeliggjøre lovens intensjon om at midlertidig ansettelse i hovedsak skal benyttes ved midlertidige behov og underbygger prinsippet om at fast ansettelse er lovens hovedregel.
+
+*Utvalget* er enig i dette. Lovens hovedregel om fast ansettelse underbygges både av at det er vilkår for når det er lov å benytte midlertidig ansettelse, og regler for hvor lenge en midlertidig ansettelse kan vare. Det er etter *utvalgets* syn fornuftig med en regel som begrenser varigheten av midlertidige ansettelser. Utvalget har likevel vurdert om det er behov for endring for å skape en enklere regel og for å styrke vernet av midlertidig ansatte.
+
+Under stortingsbehandlingen av utvidelsen av adgangen til midlertidig ansettelse i 2015, ble bestemmelsen endret. Fireårsregelen ble opprettholdt for midlertidige ansettelser når arbeidet er av midlertidig karakter (bokstav a). For midlertidige ansettelser begrunnet i behovet for vikar (bokstav b) og den generelle adgangen (bokstav f) ble innslagstidspunktet endret til tre år. Det samme gjaldt sammenhengende midlertidige ansettelser som er en kombinasjon av midlertidige ansettelser etter de tre nevnte grunnlagene (bokstav a, b og f). Bestemmelsen oppstiller dermed to ulike innslagstidspunkter for når retten til fast ansettelse inntrer.
+
+Det er ulike synspunkter i utvalget på om det i praksis oppleves som vanskelig å forholde seg til regelen med to ulike innslagstidspunkter. Noen utvalgsmedlemmer mener at regelverket oppleves komplisert og vanskelig. Andre utvalgsmedlemmer beskriver at regelverket fungerer godt og sjelden skaper problemer.
+
+Utvalget har etter dette vurdert om regelen bør tilbakeføres til en ren fireårsregel, om den bør omgjøres til en ren treårsregel, eller om regelen bør beholdes slik den er i dag.
+
+Utviklingen av regelen har gått i retning av å styrke de midlertidige ansattes stilling. Allerede mindretallet i arbeidsmiljølovutvalget i 1992 foreslo at rett til fast ansettelse skulle oppnås etter tre års sammenhengende tjeneste. Da fireårsregelen ble innført i 2005 viste departementet i hovedsak til at det var naturlig å harmonisere med tjenestemannslovens fireårsregel, jf. Ot.prp. nr. 49 (2004–2005). Det ble ikke ut over dette ført argumenter for hvorfor akkurat fire år ble ansett som en passende varighet.
+
+I forbindelse med revisjonen av tjenestemannsregelverket ble regelen i tjenestemannsloven endret til tre år. Det ble argumentert med en utvikling i retning av å styrke midlertidig ansattes stilling ved at de får oppsigelsesvern etter kortere tid. Det ble videre vist til regelen i arbeidsmiljøloven som inneholder både en treårsregel og en fireårsregel, avhengig av grunnlaget for den midlertidige ansettelsen. Departementet konkluderte med at ulike innslagstidspunkter for når den ansatte ville oppnå slikt vern lett ville føre til en komplisert regel, jf. Prop. 94 L (2016–2017), punkt 13.4.4.
+
+En evaluering av statsansatteloven tyder på at virksomhetene som ble intervjuet tilpasset seg lovendringen blant annet med mer kortvarige midlertidige ansettelser, og vurdering av flere faste ansettelser ved behov for jobb utover tre år (jf. Underthun mfl., 2019). Terskelen for å si opp en ansatt etter statsansatteloven er høy, jf. Prop. 94 L (2016–2017), kapittel 29, og gir generelt et noe sterkere vern mot oppsigelser sammenlignet med arbeidsmiljøloven. Kartlegginger viser at det er mer utstrakt bruk av midlertidige ansettelser i staten enn i det private.
+
+*Utvalget* er enige om at en sammenhengende midlertidig ansettelse etter en viss tid skal gi rett til fast ansettelse. *Utvalget* er imidlertid delt i synet på innslagstidspunket og om dagens regulering bør endres.
+
+*Utvalgets flertall, medlemmene Fougner, Dahle, Kastet, Olsen, Salvanes, Stokland, Sverdrup Svendsen og Tinnlund* mener at arbeidsmiljølovens brede brukergruppe trekker i retning av at reglene bør tilstrebes å være enklest mulig. Det å ha ett innslagstidspunkt er en måte å skape slik forenkling. *Flertallet* kan ikke se at det foreligger tungtveiende grunner som tilsier at det bør være ulike regler for staten på den ene siden og kommunene og de private på den andre siden, når det gjelder tidspunktet for når en midlertidig ansettelse bør anses som fast. Harmoniseringshensyn trekker etter *flertallets* mening derfor sterkt i retning av å ha samme terskel for når vern som fast ansatt inntrer etter arbeidsmiljøloven og statsansatteloven.
+
+Ettersom utvalgets flertall har foreslått å oppheve § 14-9 andre ledd bokstav f er det i praksis snakk om å innføre likt innslagstidspunkt for bokstav a og b. *Flertallet* kjenner ikke til tungtveiende argumenter som kan begrunne opprettholdelsen av en fireårsregel for arbeid av midlertidig karakter når det gjelder en treårsregel for vikariater. Etter *flertallets* syn vil tre års sammenhengende arbeidskraftsbehov i utgangspunktet vise et tilstrekkelig stabilt behov hos arbeidsgiver til at arbeidstaker bør kunne omfattes av lovens krav til saklig grunn for oppsigelse, uavhengig av om grunnlaget er et vikariat eller at arbeidet er av midlertidig karakter.
+
+*Utvalgets flertall* utelukker ikke at det kan være situasjoner hvor det saklig sett kan være behov for midlertidig ansettelse utover tre år, og at dette kan gjelde midlertidige ansettelser etter både bokstav a og b. Eksempelvis kan ulike politiske verv eller doktorgradsstipendiater typisk ha en varighet på fire år. Ved bruk av vikar ved permisjoner i slike tilfeller, kan det oppstå en overtallighetssituasjon når arbeidstakeren som har hatt permisjon returnerer. *Flertallet* viser til at vikariater etter § 14-9 andre ledd bokstav b på tross av dette allerede er underlagt treårsregelen. Dette hensynet kan derfor ikke begrunne å opprettholde ulikt innslagstidspunkt for at arbeidstaker skal anses fast etter bokstav a og b. Ved en eventuell overtallighetssituasjon i slike tilfeller vil de ordinære oppsigelsesregler eventuelt måtte tas i bruk.
+
+*Flertallet* viser videre til at SSB-AKU viser at det er et begrenset antall arbeidstakere som er midlertidig ansatt med varighet mellom tre og fem år, uavhengig av grunnlag for den midlertidige ansettelsen. Ifølge SSB-AKU dreier det seg om åtte prosent av de midlertidig ansatte, jf. tabell 5.4. En endring i regelen kan dermed ikke forventes å få store konsekvenser for virksomhetene.
+
+*Utvalgets flertall* foreslår etter dette at § 14-9 sjuende ledd endres slik at også arbeidstaker som er midlertidig ansatt etter § 14-9 andre ledd bokstav a skal anses som fast ansatt etter tre år.
+
+Etter dette foreslår *utvalgets flertall* at § 14-9 sjuende ledd skal lyde:
+
+Arbeidstaker som har vært sammenhengende midlertidig ansatt i mer enn *tre* år etter andre ledd bokstav a *eller b, eller disse i kombinasjon*, skal anses som fast ansatt slik at reglene om oppsigelse av arbeidsforhold kommer til *anvendelse*. *Ved* beregning av ansettelsestid skal det ikke gjøres fradrag for arbeidstakers fravær.
+
+*Utvalgets mindretall, medlemmene Almestrand, Brandshaug Dale, Juliussen og Spjelkavik*, vil beholde dagens regelverk med både en tre- og fireårsregel.
+
+*Mindretallet* er av den oppfatning at faste ansettelse fortsatt skal være hovedregelen og at det også klart er situasjonen i dagens arbeidsliv. Andelen midlertidig ansettelser er lav og stabil i Norge (i underkant av åtte prosent). *Mindretallet* mener det derfor ikke er funn i kunnskapsgrunnlaget som tilsier en innstramming til en ren treårsregel.
+
+Det er kun ved sammenhengende ansettelse etter bare bokstav a i hele perioden det gjelder en fireårsregel.
+
+Hensynet til forenkling til samme lovbestemte varighet for alle grunnlag, er ikke i seg selv nok for å stramme inn bestemmelsen da den ikke er vanskelig å forstå.
+
+Det gjelder en treårsregel for vikariater etter bokstav b og i tilfellene der bokstav a, b og f brukes i kombinasjon. Dette mener *mindretallet* er tilstrekkelig for å imøtekomme behovet for fast stilling etter en viss periode med midlertidige ansettelser.
+
+## Lovforslag
+
+### Flertallets forslag
+
+*Flertallet, medlemmene Fougner, Dahle, Kastet, Olsen, Salvanes, Stokland, Sverdrup Svendsen og Tinnlund*, foreslår at § 14-9 sjuende ledd skal lyde:
+
+Arbeidstaker som har vært sammenhengende midlertidig ansatt i mer enn *tre* år etter andre ledd bokstav a *eller b, eller disse i kombinasjon*, skal anses som fast ansatt slik at reglene om oppsigelse av arbeidsforhold kommer til *anvendelse*. *Ved* beregning av ansettelsestid skal det ikke gjøres fradrag for arbeidstakers fravær.
+
+§ 14-9 andre ledd bokstav f, femte ledd siste punktum og åttende ledd oppheves.
+
+§ 10-5 første ledd siste punktum oppheves.
+
+Henvisningen til § 14-9 andre ledd bokstav f andre punktum i § 18-6 første ledd fjernes.

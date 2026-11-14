@@ -1,1000 +1,236 @@
-# NOU 2017: 2, del 10 av 20 (side 123–132)
+# NOU 2017: 2, del 10 av 19
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/a12ffa1f-nou-2017-2.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-2/id2536701/
 - Original-PDF: https://www.regjeringen.no/contentassets/c072f7f37da747539d2a0b0fef22957f/no/pdfs/nou201720170002000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 36 tabeller, 78 figurer, 558 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 123]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-123
-
-Kapittel 7
-
-Kapittel 7
-
-Levekår – inntekt, inkludering og deltakelse
-7.1
-
-Innledning
-
-Utvalget er bedt om å
-[…] vurdere […] i hvilken grad innvandring
-kan føre til større økonomisk, sosial, kulturell
-og verdimessig ulikhet, og hvilken betydning
-dette i så fall kan ha for samfunnet på sikt og
-forholdet mellom ulike befolkningsgrupper.
-Spørsmålet om økt økonomisk og sosial ulikhet
-peker direkte mot spørsmålet om ulikhet i levekår. Levekårsforskjeller eksisterer i alle samfunn,
-også det moderne norske, men i den grad personer med innvandrerbakgrunn gjennomgående
-opplever dårligere levekår enn andre, vil dette potensielt være en utfordring for samfunnsutviklingen på sikt. Det å ha dårlige levekår kan skape eller forsterke en opplevelse av marginalisering, og
-det kan svekke livssjansene til barn og unge som
-vokser opp i utsatte familier. I dette kapitlet gjennomgås sentrale deler av den foreliggende kunnskapen om levekårene til innvandrere og deres etterkommere i Norge.
-Forskjeller i levekår kan skyldes individuelle
-ressurser (bl.a. utdanning, sosial bakgrunn, sosiale
-relasjoner, helse, alder), strukturelle forutsetninger
-(arbeidsmarkedsforhold, insentivstrukturer, diskriminering) og valg og verdier (kulturelle føringer, livsstilspreferanser).1 Mønstre av ulikhet
-skyldes gjerne et samspill mellom disse faktorene. I nordisk levekårsforskning diskuteres levekår som et forhold mellom ressurser og arenaer,
-altså det å ha et sett av ressurser som kan settes
-inn på de arenaene man har tilgang til. Tilgang til
-arenaer tilsvarer det som kan kalles strukturelle
-forutsetninger, mens individuelle ressurser og
-valg og verdier sier noe om hvilke muligheter
-man har, og i hvilken grad man velger å tre inn på
-de aktuelle arenaene.
-
-Levekår er tilbake på den politiske dagsordenen i mange land, om enn ikke i den helt klassiske
-betydningen. Flere har tatt til orde for at man trenger flere og mer sammensatte mål på samfunnsmessig utvikling enn BNP.2 Helsedirektoratet har
-utarbeidet en rapport der begrepet «levekår» diskuteres i sin fulle bredde.3 Dokumentet illustrerer
-hvor kompleks den nye levekårsdiskusjonen er.
-Spørsmålet som stilles, er intet mindre enn «hva
-er det gode liv?», og i forsøket på å besvare dette
-kommer man innom de fleste sentrale bidragene i
-vestlig filosofi, i tillegg til mer moderne studier av
-hva som skaper tilfredshet. En viktig lærdom fra
-denne diskusjonen er at det finnes svært mange
-forestillinger om hva som utgjør «det gode liv».
-Ulike mennesker vil ulike ting, basert på preferanser, erfaringer og ideologiske/religiøse overbevisninger, og til syvende og sist kan ingen bestemme
-hva som er det gode liv for andre. Å gå inn i disse
-diskusjonene ligger likevel langt utenfor mandatet
-for denne utredningen. Utgangspunktet for diskusjonen her er at store forskjeller i materielle levekår er en utfordring, både på kort og på lang sikt,
-for opplevelsen av samhold og tillit i et samfunn.
-Det er neppe et problem i seg selv at mennesker
-har ulike idealer og preferanser, men mangel på
-tilgang til felles arenaer, og systematisk ulikhet i
-mulighetene til å oppnå det man opplever som et
-godt liv, kan skape frustrasjon og undergrave fellesskapsfølelsen.
-De senere årene har det vært stadig større
-oppmerksomhet om økende inntektsforskjeller i
-Europa og resten av verden.4 Det meste av debat2
-
-3
-4
-
-1
-
-NOU 2011: 7 Velferd og migrasjon, NOU 2011: 14 Bedre integrering.
-
-EU Roadmap (COM/2009/0433 final). Report by the
-Commission on the Measurement of Economic Performance and Social Progress Tilgjengelig på
-http://www.insee.fr/fr/publications-et-services/
-dossiers_web/stiglitz/doc-commission/
-RAPPORT_anglais.pdf; OECD Better Life Index,
-http://www.oecdbetterlifeindex.org.
-Helsedirektoratet (2016). Gode liv i Norge. Utredning om
-måling av befolkningens livskvalitet. Utgitt 6/2016.
-En viktig referanse i denne diskusjonen er Piketty, T.
-(2014). Capital in the Twenty-First Century. Cambridge:
-Harvard University Press.
-
-[Side 124]
-
-124
-
-NOU 2017: 2
-
-Kapittel 7
-
-Integrasjon og tillit
-
-ten om inntektsfordeling etter andre verdenskrig
-har handlet om fordeling rundt midten – «for folk
-flest» – eller om å bekjempe fattigdom. Den nye
-debatten dreier seg i større grad om de aller rikeste, som har store deler av inntekten sin fra kapitalavkastning. Disse antas i økende grad å utgjøre en global elite som på mange måter evner å
-frikople seg fra de omfordelende mekanismene på
-nasjonalt nivå. Samtidig har flere år med svak
-vekst i økonomiene ført til beskjeden inntektsvekst for store grupper. Denne utviklingen berører Norge i mindre grad enn mange andre land,5
-men internasjonalt oppfatter mange den økende
-polariseringen som en viktig drivkraft for politisk
-uro og oppslutning om populistiske bevegelser.
-Dette utvalget går ikke dypere inn i disse problemstillingene, utover å notere at kombinasjonen
-av økonomisk polarisering og høy innvandring
-kan gjøre det vanskelig å opprettholde en situasjon med gode levekår for flertallet, og det kan
-også bidra til politisk polarisering.
-Dette kapitlet beskriver ulikhet i materielle levekår og muligheter til deltakelse. De mest sentrale levekårsindikatorene gjennomgås: lavinntekt
-og materielle levekår, boligforhold, bosettingsmønster, helse, diskriminering, sosial og politisk
-deltakelse. Gjennomgangen er stort sett deskriptiv, men til grunn for beskrivelsen ligger en bekymring for at store og vedvarende forskjeller i levekår mellom innvandrere og andre kan forstås
-både som en indikator på at integreringspolitikken ikke fungerer godt nok, og som et varsel om
-uheldige samfunnsmessige virkninger på sikt.
-
-7.2
-
-50
-45
-40
-35
-30
-25
-20
-15
-10
-5
-0
-3–4 år
-
-Aaberge, R. (2016). Inntektsulikhet i Norge i lys av Pikettydebatten. Samfunnsspeilet 1/ 2016.
-
-5–9 år
-
-10–14 år
-
-15 år
-eller lenger
-
-Landgruppe 1
-Landgruppe 2
-
-Lavinntekt og materiell
-levestandard
-
-7.2.1 Utviklingen i lavinntekt
-Innvandrere som gruppe har lavere yrkesaktivitet
-og lavere inntekter enn majoritetsbefolkningen,
-men det er svært store forskjeller etter landbakgrunn og oppholdsgrunnlag, og også i noen grad
-etter botid (se kap. 5 og 6). I et levekårsperspektiv
-kan det imidlertid være særlig interessant å se på
-innvandrere med lavinntekt. Lavinntekt oppfattes i
-rike land som et relativt mål i den forstand at man
-ikke nødvendigvis lever på eksistensminimum om
-man har inntekter under dette nivået, men at man
-ikke har nok midler til å delta fullt ut i samfunnet
-man lever i. Det kan også føyes til at de fleste offentlige tjenester i Norge er gratis eller sterkt sub5
-
-sidierte, og dermed tilgjengelige også for lavinntektsfamilier. Dette kan bidra til å bedre levestandarden i familiene på måter som ikke synes i statistikken.
-De gjennomgående lavere sysselsettingsratene blant innvandrere speiles i analysene av lavinntektsgruppen. Lavinntekt er her definert som
-vedvarende lavinntekt i en treårsperiode,6 som er
-et mer robust mål enn årlige inntekter. 28 pst. av
-innvandrere og deres etterkommere hadde vedvarende lavinntekt i treårsperioden 2012–2014, mot
-10 pst. i befolkningen som helhet.7 Blant innvandrere med bakgrunn fra Asia, Afrika mfl.(landgruppe 3) var andelen 35 pst. Figur 7.1 viser at andelen med vedvarende lavinntekt er høy for dem
-
-Landgruppe 3
-Befolkningen 20-66 år eksklusive innvandrere
-
-Figur 7.1 Andel personer 20–66 år med vedvarende lavinntekt, etter landbakgrunn og botid.
-2012–2014. Prosent
-Kilde: Statistisk sentralbyrå, Inntekts- og formuesstatistikk for
-husholdninger. EUs lavinntektsdefinisjon.
-
-6
-
-7
-
-Presist uttrykt: Gjennomsnittlig inntekt etter skatt per forbruksenhet i en treårsperiode under 60 pst. av mediangjennomsnittet i samme treårsperiode. Lavinntektsgrensen for
-en enslig person var 207 400 kroner etter skatt. En redegjørelse om definisjoner og beregningsmåter finnes i kapittel 2
-i Omholt, E.L. (2016), Økonomi og levekår for ulike lavinntektsgrupper 2016. Rapporter 2016/30, Statistisk sentralbyrå.
-Epland. J. & Revold, M.K. (2016). Vedvarende lavinntekt. I
-E.O. Omholt (red.). Økonomi og levekår for ulike lavinntektsgrupper 2016. Rapporter 2016/30, Statistisk sentralbyrå.
-
-[Side 125]
-
-125
-
-NOU 2017: 2
-Integrasjon og tillit
-
-Kapittel 7
-
-90
-80
-70
-60
-50
-40
-30
-20
-10
-0
-2006
-
-2007
-
-2008
-
-2009
-
-2010
-
-2011
-
-Øvrige barn
-
-Barn med innvandrerbakgrunn
-
-2012
-
-2013
-
-Figur 7.2 Barn i familier med vedvarende lavinntekt, etter innvandrerbakgrunn. Antall i 1 000 personer
-Kilde: Statistisk sentralbyrå, statistikkbanken. 3-årige inntektsintervaller, EUs fattigdomsdefinisjon
-
-med kortest botid i alle de tre landgruppene sammenliknet med befolkningen uten innvandrerbakgrunn.8 Med lengre botid reduseres andelene,
-særlig for dem med bakgrunn fra Vest-Europa,
-Nord-Amerika mfl. (landgruppe 1) og EU-land i
-Sentral- og Øst-Europa (landgruppe 2). I landgruppe 1 er andelen om lag på nivå med befolkningen ellers etter 15 års botid. For landgruppe 2
-er forskjellen 5 prosentenheter. Andelen blant
-landgruppe 3 reduseres betydelig fra 3–4 års botid til 5–9 års botid, men det er deretter ingen
-nedgang før botiden passerer 15 år. Etter 15 år i
-Norge har 21 pst. av innvandrerne fra landgruppe
-3 vedvarende lavinntekt, noe som er om lag 15
-prosentenheter høyere enn i befolkningen ellers.
-SSB presenterer regelmessig tall for utviklingen i vedvarende lavinntekt blant barnefamilier.
-«Barnefattigdom» er særlig urovekkende fordi
-man antar at det å vokse opp i en lavinntektsfamilie gir barn et dårlig utgangspunkt. Studier, også
-fra Norge, tyder på at barn som vokser opp i familier med vedvarende lavinntekt, selv skårer dårligere på sentrale levekårsindikatorer når de blir
-voksne.9 En opphoping av lavinntekt nettopp blant
-8
-
-9
-
-Ettersom man ikke følger de samme kohortene over tid, vil
-disse tallene kunne være påvirket av sammensetnings- og
-kohorteffekter.
-Wiborg, Ø. & Hansen, M.N. (2009). Change over Time in
-the Intergenerational Transmission of Social Disadvantage.
-European Sociological Review 25(3), 379–394. Lorentzen, T.
-& Nielsen, R. (2009) Går fattigdom i arv? I T. Fløtten (red.)
-Barnefattigdom. Oslo: Gyldendal.
-
-familier med innvandrerbakgrunn kan derfor bidra til å hemme langsiktig integrering. Figur 7.2
-viser utviklingen i antall barn i lavinntektsfamilier
-(treårsperioder) fra perioden 2004–2006 til perioden 2011–2013, fordelt på barn med innvandrerbakgrunn og andre barn. Figuren viser at barn
-med innvandrerforeldre utgjør en stadig økende
-andel av de fattige barna i Norge, og økningen i
-barnefattigdom i Norge skjer hovedsakelig blant
-barn med slik bakgrunn.
-Treårsperioden 2011–2013 er den første perioden der det i absolutte tall er registrert flere barn
-med innvandrerbakgrunn i familier med lavinntekt enn barn fra majoritetsbefolkningen i denne
-situasjonen. Gitt at bare 13 pst. av alle barn bosatt
-i Norge har innvandrerbakgrunn, er dette en betydelig overrepresentasjon. Økningen i absolutte
-tall skyldes likevel ikke at innvandrere som
-gruppe får det dårligere i Norge, men at det i absolutte tall blir flere innvandrere. Andelen barn i
-familier med lavinntekt, som andel av alle barn
-med innvanderbakgrunn, var 36,4 pst. i 2006–
-2008 og 36,8 pst. i perioden 2011–2013.10 En ny
-studie viser også at perioden med lavinntekt oftere blir langvarig for barn med innvandrerbakgrunn enn for andre barn. Nærmere 54 pst. av
-barna som tilhørte en lavinntektshusholdning i
-åtte sammenhengende år (2007–2014) hadde bakgrunn fra land i Asia, Afrika mfl.11
-10
-
-Tall fra SSBs Statistikkbanken, figuren er ikke vist.
-
-[Side 126]
-
-126
-
-NOU 2017: 2
-
-Kapittel 7
-
-Integrasjon og tillit
-
-domsrater, mens om lag 70 pst. av familiene fra
-Somalia fortsatt har registrert lavinntekt etter mer
-enn ti år i Norge.
-
-70
-60
-
-7.2.2
-
-50
-40
-30
-20
-10
-0
-3–4 år
-
-5–9 år
-
-10–14 år
-
-15 år
-eller lenger
-
-Landgruppe 1
-Landgruppe 2
-Landgruppe 3
-Befolkningen 0-18 år eksklusive innvandrere
-
-Figur 7.3 Andel personer 0–18 år med vedvarende lavinntekt, etter landbakgrunn og botid.
-2012–2014. Prosent
-Kilde: Statistisk sentralbyrå. 3-årige inntektsintervaller, EUs
-lavinntektsdefinisjon.
-
-Blant barn med innvandrerbakgrunn er det
-store forskjeller etter landbakgrunn og botid, jf.
-figur 7.3.
-Figur 7.3 viser at barnefamilier som innvandrer til Norge, starter med relativt høye lavinntektsrater, men at disse faller over tid. Barnefamilier med botid på 15 år eller mer fra landgruppe 1
-og 2 har ikke høyere fattigdomsrater enn barnefamilier uten innvandrerbakgrunn. Særlig barnefamilier fra landgruppe 2 har raskt fallende fattigdomsrater, slik at disse er omtrent på majoritetsbefolkningens nivå allerede etter ti år i Norge.
-Barnefamilier fra landgruppe 3 har som gruppe
-en langt mindre positiv utvikling, og selv etter 15
-år i Norge er fattigdomsratene i denne gruppen på
-44 pst. Det er imidlertid store forskjeller også
-innenfor landgruppe 3.12 Barnefamilier fra Sri
-Lanka, Iran og Vietnam har raskt fallende fattig-
-
-Bolig og materielle goder
-
-Inntektsfordelingen i samfunnet og andelen med
-lavinntekt sier noe om forbruksmuligheter i ulike
-grupper. Innsiktene fra studiene av inntekt kan
-suppleres av studier som kartlegger forbruk direkte. En slik studie er levekårsundersøkelsen
-EU-SILC, som gjennomføres i alle EU-landene og
-en del andre europeiske land, bl.a. Norge. I EUSILC spørres respondentene blant annet om
-hvilke forbruksgoder de har tilgang til, og om
-eventuell mangel på gitte goder skyldes at de ikke
-har råd til å skaffe disse. Det kan påpekes at på
-samme måte som lavinntekt forstås som et relasjonelt mål, er forståelsen av hva som er «sentrale
-materielle goder» også kontekstuell. Mange goder som oppfattes som standard i EU-området, vil
-framstå som luksusgoder i andre kontekster. Siden EU-SILC er en utvalgsundersøkelse, lider den
-under de samme svakhetene som de fleste andre
-utvalgsundersøkelser som retter seg mot befolkningen som helhet, ved at utvalget av innvandrere
-blir relativt lite. Innvandrere kan også være underrepresentert i slike studier pga. lav svarprosent.13
-EU-SILC er likevel den beste kilden vi har til oppdaterte tall om levekårssituasjonen i ulike grupper.
-I figur 7.4 og 7.5 presenteres tall for befolkningen uten innvandrerbakgrunn, for innvandrere i
-Norge fra land i EU, Nord-Amerika mfl., og for
-innvandrere med bakgrunn fra landgruppe 3.14 Figur 7.4 viser andelene som mangler sentrale forbruksgoder (bil, PC, varme i boligen, kjøtt eller
-fisk annenhver dag, en ukes ferie per år) fordi de
-ikke har råd. Figur 7.5 viser hvor mange i ulike
-grupper som opplever det som lett/vanskelig å «få
-endene til å møtes».
-De to figurene viser, for det første, at de fleste
-har svært gode materielle levekår i Norge. Andelen som må avstå fra sentrale forbruksgoder på
-grunn av dårlig økonomi, er liten, og det er også
-andelene som opplever det som vanskelig eller
-svært vanskelig å «få endene til å møtes». Det andre hovedpoenget de to figurene viser, er at ande-
-
-11
-
-Epland, J. (2016). Inntektsmobilitet blant barnefamilier med
-lav inntekt: 2007–2014. Rapporter 2016/35, Statistisk sentralbyrå.
-12 Epland, J. & Kirkeberg, M.I. (2014). Barn i lavinntektshusholdninger. Flere innvandrerbarnefamilier med lavinntekt.
-Tilgjengelig på https://www.ssb.no/inntekt-og-forbruk/
-artikler-og-publikasjoner/flere-innvandrerbarnefamiliermed-lavinntekt.
-
-13
-
-14
-
-Djuve, A.B., Gulløy, E., Kavli, H. & Berglund, F. (2009).
-Datafangst når minoritetsbefolkningen er målgruppe. Faforapport 24/2009.
-Thorsen, L.R. (2014). Innvandreres økonomi. Mange innvandrere er økonomisk sårbare. Tilgjengelig på
-http://www.ssb.no/inntekt-og-forbruk/artikler-ogpublikasjoner/mange-innvandrere-er-okonomisk-sarbare.
-
-[Side 127]
-
-127
-
-NOU 2017: 2
-Integrasjon og tillit
-
-Kapittel 7
-
-100
-Disponerer ikke privatbil
-pga. økonomi
-
-90
-80
-
-Disponerer ikke PC
-pga. økonomi
-
-70
-60
-
-Ikke råd til å holde
-boligen varm
-
-50
-Ikke råd til å spise kjøtt
-eller fisk annenhver dag
-
-40
-30
-
-Ikke råd til en ukes ferie
-
-20
-0
-
-5
-
-10
-
-15
-
-20
-
-25
-
-30
-
-35
-
-10
-
-Den øvrige befolkningen
-Afrika, Asia mfl.
-EU, Nord-Amerika mfl.
-
-0
-EU,
-Nord-Amerika mfl.
-
-Afrika,
-Asia mfl.
-
-Den øvrige
-befolkningen
-
-Figur 7.4 Mangel på forbruksgoder, etter landbakgrunn. Prosent.
-
-Svært vanskelig å få endene til å møtes
-
-Kilde: Thorsen, L. (2014), basert på EU-SILC 2013
-
-Vanskelig å få endene til å møtes
-Forholdsvis lett / forholdsvis vanskelig å få
-endene til å møtes
-
-lene som har dårlige levekår, er langt høyere blant
-innvandrere fra Asia, Afrika mfl. enn i andre grupper i befolkningen. Innvandrere fra EU, NordAmerika mfl. likner mer på den øvrige befolkningen, enn på innvandrere fra andre deler av verden
-på de fleste av disse indikatorene.
-Boligen er et sentral levekårsgode og også et
-viktig investeringsobjekt. Det er vanskelig å skape
-et godt liv og å bli integrert på en god måte, om
-man ikke har et tilfredsstillende og stabilt sted å
-bo.15 De siste tallene fra EUs levekårsundersøkelse EU-SILC viser at 84 pst. av befolkningen i
-Norge bor i en bolig de selv eier. Dette er det høyeste av alle de vesteuropeiske landene som deltar
-i undersøkelsen.16 Figur 7.6 viser andelen i ulike
-grupper som eier sin egen bolig, og andelen som
-leier.
-Figuren bekrefter bildet av Norge som et land
-av boligeiere, i og med at 86 pst. av befolkningen
-uten innvandrerbakgrunn eier sin egen bolig, enten de er selveiere eller har aksje- eller andelsbolig. Andelen selveiere er noe høyere blant innvandrere fra EU, Nord-Amerika mfl. enn blant innvandrere fra Asia, Afrika mfl., men andelen eiere to15
-
-Grødem, A.S. & Hansen, I.L.S. (2015). Integrating in
-Homeownerland. The Norwegian housing regime and why
-it matters for immigrants’ social inclusion. Nordic Journal of
-Migration Research, 5(3), 117–125.
-16
-Eurostat (2016). Distribution of population by tenure status, type of household and income group – EU-SILC survey. Sist oppdatert 16.8.2016. http://ec.europa.eu/eurostat.
-
-Lett eller svært lett å få endene til å møtes
-
-Figur 7.5 Andel som opplever det som lett / vanskelig å få endene til å møtes, etter landbakgrunn1. Prosent
-1
-
-Mellomalternativene «forholdsvis lett / forholdsvis vanskelig» er ikke oppgitt i publikasjonen fra SSB, og er lagt inn
-her med antatte tall som får kolonnene til å utgjøre 100 til
-sammen.
-Kilde: Thorsen, L. (2014), basert på EU-SILC 2013
-
-talt er litt høyere blant innvandrere fra Asia, Afrika
-mfl. fordi andelen aksje-/andelsboligeiere er relativt høy i denne gruppa. Andelen boligeiere må
-ses i sammenheng med botid og tidsperspektiv på
-oppholdet i Norge. Nyankomne innvandrere og
-innvandrere som antar at oppholdet i Norge blir
-midlertidig, vil i liten grad eie bolig. Eierskap til
-bolig er et spørsmål om ressurser, all den tid det
-er vanskelig å få boliglån hvis man ikke har en stabil, tilstrekkelig inntekt. Men det kan også være et
-spørsmål om valg og verdier, noe som særlig kan
-være relevant for en del muslimer som forholder
-seg strengt til det religiøse forbudet mot å ta opp
-rentebærende lån.17
-Registerdata om boforhold inneholder lite informasjon om bokvalitet, men presenterer data
-17
-
-Open Societies Foundation (2013). Somalis in Oslo. Tilgjengelig på https://www.opensocietyfoundations.org/
-sites/default/files/somalis-oslo-20131210_0.pdf.
-
-[Side 128]
-
-128
-
-NOU 2017: 2
-
-Kapittel 7
-
-Integrasjon og tillit
-
-trangt, og kanskje også hvorfor flere opplever andre boligproblemer.
-
-100
-90
-80
-
-7.3
-
-70
-60
-50
-40
-30
-20
-10
-0
-
-Den øvrige
-befolkningen
-
-EU,
-Nord-Amerika mfl.
-
-Asia,
-Afrika mfl.
-
-Leier
-Andelseier / aksjeeier
-Selveier
-
-Figur 7.6 Innvandrere og etterkommere i Norge
-etter landbakgrunn og eie-/leieform til boligen.
-2015. Prosent
-Kilde: Statistisk sentralbyrå, Boforhold (registerbasert) 2015
-
-om trangboddhet. 9 pst. av den øvrige befolkningen bor trangt, sammenliknet med 19 pst. av innvandrerne fra EU, Nord-Amerika mfl. og 31 pst. av
-innvandrerne fra Asia, Afrika mfl. At mange med
-innvandrerbakgrunn opplever boligproblemer,
-ble også dokumentert i levekårsundersøkelsen
-blant innvandrere 2005/2006. I denne undersøkelsen fikk respondentene følgende spørsmål: (1)
-Hvordan passer størrelsen på boligen for deg/
-dere? (2) Er noen av beboelsesrommene trekkfulle? (3) Har noen av beboelsesrommene råte-,
-mugg- eller soppskader? (4) Er du vanligvis utsatt
-for støy fra gate eller vei når du oppholder deg
-inne i boligen? 53 pst. av innvandrerne som deltok
-i undersøkelsen, oppga at de ikke opplevde noen
-av disse problemene, 29 pst. opplevde ett av dem,
-og 18 pst. opplevde to eller flere.18 Denne undersøkelsen er mer enn ti år gammel, men det er
-neppe grunn til å tro at hovedbildet er svært endret. Innvandrere kombinerer ofte lav husholdningsinntekt med store familier og bor også i
-større grad enn andre i de store byene der tilbudet av store boliger er mindre. Dette må antas å
-være hovedforklaringer på hvorfor flere bor
-18
-
-Grødem, A. (2011). Innvandrerbarn og bolig. Hva betyr
-boligen og bomiljøet for integrering? Fafo-rapport 32/2011.
-
-Bosettingsmønster
-
-Ved inngangen til 2016 hadde hver tredje innbygger i Oslo innvandrerbakgrunn. 23 pst. av alle
-med innvandrerbakgrunn i Norge bodde i byen.19
-I Oslo bor det innvandrere i alle bydelene, men
-det er store forskjeller i hvor stor andel de utgjør
-av befolkningen. Bydelene med størst andel innvandrere og etterkommere er Stovner, Søndre
-Nordstrand og Alna, hvor andelen med innvandrerbakgrunn var over 50 pst. Andelen var minst i
-Nordstrand, Vestre Aker og Nordre Aker, med
-17 pst. hver.20 Andelen innvandrere med bakgrunn fra Asia, Afrika mfl. har særlig økt i Søndre
-Nordstrand og Groruddalen.21 En studie basert
-på et internasjonalt anerkjent mål på bostedssegregering finner imidlertid at segregeringen i
-Oslo for personer med bakgrunn fra land i Asia,
-Afrika mfl. ikke har økt i løpet av 2000-tallet.22 Innvandrere fra enkelte land bor imidlertid mer segregert enn andre, f.eks. personer med srilankisk,
-pakistansk og tyrkisk bakgrunn.
-Innvandreres tilpasninger på boligmarkedet
-henger sammen med hvordan boligmarkedet faktisk fungerer. Mens Norge er et land av boligeiere, gir de andre nordiske landene andre rammebetingelser. En sammenliknende studie av segregering i fire nordiske hovedsteder viser at jo flere
-innvandrere det er i et land, jo sterkere er tendensen til segregering i hovedstedene.23 I de nordiske hovedstedene var bostedssegregering blant
-voksne innvandrere sterkest i Stockholm og la19
-
-20
-21
-22
-
-Østby, L. (2016). Innvandrernes demografi. Stadig mest
-innvandring fra Polen. Tilgjengelig på http://www.ssb.no/
-sosiale-forhold-og-kriminalitet/artikler-og-publikasjoner/
-stadig-mest-innvandring-fra-polen.
-https://www.ssb.no/befolkning/statistikker/innvbef/aar/
-2016-03-03#content.
-Blom, S. (2012). Etnisk segregasjon i Oslo over to tiår. Tidsskrift for velferdsforskning 15 (4), 275–291.
-Segregasjon kan måles gjennom den såkalte dissimilaritetsindeksen, eller D-indeksen. Kort fortalt måler D-indeksen grad av likhet i fordelingen av to befolkninger over et
-antall geografiske områder, f.eks. bydeler eller grunnkretser. En slik indeks vil kunne gi uttrykk for hvor skjevt eller
-avvikende en gruppe personer bor i forhold til andre grupper. Verdien 0 betyr at de to befolkningsgruppene er helt
-likt fordelt, mens 100 betyr at de bor helt atskilt i hver sine
-områder. I amerikanske studier blir D-verdier under 30 regnet som lave. Verdier mellom 30 og 60 blir regnet som
-moderate, mens verdier over 60 blir regnet som høye.
-Andre amerikanske studier regner D-verdier over 70 som
-høye, dvs. med stor grad av segregerte bomønstre, se bl.a.
-Blom, S. (2012). Ibid.
-
-[Side 129]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-vest i Helsingfors. Bosettingsmønstre har imidlertid også en sammenheng med tilgang på boliger.
-Stockholm og København har store områder med
-utleieboliger sammenliknet med Oslo og Helsingfors, og særlig er kommunale (ikke-kommersielle) utleieboliger ujevnt fordelt. Innslaget av slike
-boliger er lavere i Oslo, og Oslo har en mye høyere andel av befolkningen bosatt i selveier- og andelsboliger enn de tre andre byene. Dette gjelder
-også innvandrere. Ser man på innvandreres mobilitet i de samme byene, finner man at innvandrere
-i større grad forblir boende i bydeler med høy andel personer med innvandrerbakgrunn i Oslo enn
-de gjør i Stockholm og København.24 Forskerne
-antar dette har sammenheng med at boligtilbudet
-i bydelene er mer sammensatt i Oslo enn i de to
-andre byene, slik at det i større grad er mulig å
-kjøpe seg opp i boligstandard innenfor samme bydel. Dette kan i så fall være et bedre utgangspunkt
-for inkludering, ved at innvandrere som lykkes i
-Norge, i den forstand at de blir i stand til å kjøpe
-en (bedre) bolig, kan bli boende i samme bydel
-som innvandrere som fortsatt strever. Dette kan i
-noen grad hindre at etnisk segregering også blir
-sosial segregering.
-Man kan anta at tendensene til segregering
-skjer delvis fordi boliger relativt sett er rimeligere
-i noen områder enn i andre, og at mange innvandrere har lavere inntekt enn majoriteten.25 Innvandrere vil dermed oftere enn andre bo i områder der en større andel av befolkningen enn ellers
-har relativt sett dårlige levekår og boforhold, lavere utdanning, en mer usikker tilknytning til arbeidsliv og boligmarked og i større grad er avhengig av offentlige overføringer til livsoppholdet.26
-NOU 2011: 14 (Integreringsutvalget) diskuterte
-problematikken rundt bosettingsmønster og segregeringstendenser. En hovedproblemstilling for
-Integreringsutvalget var om konsentrasjonen av
-innvandrere i enkelte boligområder innebærer at
-integreringsutfordringer forsterkes. Dokumentasjonen viste da ingen eller usikker mereffekt av
-
-slik konsentrasjon, men det ble påpekt at det kan
-være mer utfordrende å drive idrettslag, borettslag etc. i områder med høy andel innvandrere fra
-land i Asia, Afrika mfl. Utredningen viser til at det
-er andre årsaker enn høy andel beboere med innvandrerbakgrunn som særlig skaper utfordringer,
-bl.a. lav sysselsetting og lav inntekt.27
-En del forskning finner at det er en fordel for
-minoritetselever å gå på skole med høy minoritetsandel, men at det kan være en ulempe for majoritetselever dersom andelen kommer over 20–
-30 pst.28 Norske studier som har sett på elevenes
-sosioøkonomiske bakgrunn og foreldrenes utdanningsnivå i tillegg til etnisk bakgrunn, finner ingen, eller bare svake, sammenhenger mellom minoritetsandel og skoleprestasjoner.29 Det er dermed plausibelt å anta at eventuelle problemer
-knyttet til skoleprestasjoner i mindre grad er knyttet til innvandrerbakgrunn som sådan enn til sosioøkonomiske forhold og ressurser i hjemmet.
-Generelt er det sammenhenger mellom årsaker til innvandring, ulike innvandrergruppers bosettingsmønster, deres levekår og deltakelse i
-samfunnslivet. Årsaken til innvandring vil ha betydning for hvor innvandrere bosetter seg, og i
-hvilken grad myndighetene kan påvirke bosettingen. For de fleste som kommer til Norge, er det
-ingen direkte offentlig styring av bosettingen. Arbeidsinnvandrere drar dit de finner en jobb, familieinnvandrere dit familiemedlemmer bor, og studenter til lærestedet de har fått plass ved. Bare
-flyktninger får tildelt en bosettingskommune etter
-at de har fått oppholdstillatelse, med medfølgende
-rett til introduksjonsprogram (se kap. 4.4.3).
-Den styrte bosettingen av flyktninger innebærer at hele landet tas i bruk, og at konsentrasjon av innvandrere motvirkes, iallfall de første to
-årene etter bosetting (se kap. 3.3.4). Det foregår
-27
-28
-
-23
-
-Skifter Andersen, H., Andersson, R., Wessel, T., & Vilkama,
-K. (2015). The impact of housing policies and housing
-markets on ethnic spatial segregation: comparing the capital cities of four Nordic welfare states. International Journal
-of Housing Policy 16 (1), 1–30.
-24
-Wessel, T., Andersson, R., Kauppinen, T. & Skifter Andersen, H. (2013). Spatial integration of immigrants in Nordic
-cities: the relevance of spatial assimilation theory in a welfare state context. Urban Affairs Review DOI: 10.1177/
-1078087416638448.
-25
-Se også NOU 2011: 14 Bedre integrering.
-26
-Berntsen, K. (2013). Fortsatt store forskjeller i levealder i
-Oslo, Samfunnsspeilet 4/2013, Statistisk sentralbyrå, og
-www.ssb.no/kostra.
-
-129
-
-Kapittel 7
-
-29
-
-NOU 2011: 14. Ibid.
-Grøgaard, J.B. (2012). Hva kjennetegner barneskoler som
-oppnår høy skår på nasjonale prøver? Rapport 38/2012
-NIFU, Åslund, O., Edin, P.A. & Fredriksson, P. (2011).
-Peers, neighborhoods, and immigrant student achievement: Evidence from a placement policy. American Economic Journal: Applied Economics, 3 (2), 67–95.
-Se bl.a. Birkelund, G.E., Hermansen, A.S. & Evensen, Ø.
-(2010). Skolesegregering – et problem? Elevsammensetning,
-frafall og karakterer i Oslo-skolen. Tilgjengelig på
-https://www.sv.uio.no/iss/forskning/prosjekter/
-segregering-i-osloskolen/publikasjoner/
-skolesegregering.pdf (De finner dog en negativ effekt av
-veldig høy minoritetsandel (40 pst.) i videregående på studiespesialisering.); Hermansen, A.S. & Birkelund, G.E.
-(2015). The Impact of Immigrant Classmates on Educational Outcomes. Social Forces, 94 (2), 615–646, og Hardoy, I.
-& Schøne, P. (2013). Does the Clustering of Immigrant
-Peers Affect the School Performance of Natives? Journal of
-Human Capital 7 (1), 1–25.
-
-[Side 130]
-
-130
-
-NOU 2017: 2
-
-Kapittel 7
-
-Integrasjon og tillit
-
-imidlertid betydelig sekundærflytting blant flyktninger, dvs. flytting fra den opprinnelige bosettingskommunen. Hovedbildet for Norge er, ifølge
-SSBs monitor for sekundærflytting, at flyktninger
-flytter fra små, mindre sentrale kommuner til
-større, mer sentrale kommuner.30 Denne monitoren inneholder ikke analyser av forhold mellom
-arbeidsmarkedsbetingelser og sekundærflytting,
-men annen forskning viser at flyktninger i Norge i
-stor grad flytter i samsvar med sysselsettingsutviklingen og/eller til regioner der flyktninger allerede utgjør en større andel av sysselsettingen fra
-før av.31 Forskningen fra Sverige og Danmark avdekker mange av de samme mønstrene i sekundærflytting blant flyktninger som først blir bosatt
-gjennom et bosettingsprogram.32 I Sverige og
-Danmark var det lavere sannsynlighet for sekundærflytting når flyktningene ble bosatt i en kommune med større andel av befolkningen fra
-samme opprinnelsesland, større befolkning generelt og lav arbeidsledighet. Tilflytting skjedde til
-større kommuner, kommuner med større andel
-personer med samme landbakgrunn og områder
-med lavere ledighet.
-Monitoren for sekundærflytting dokumenterer en nedgang i sekundærflytting siden 2003, da
-monitoren startet. Tidligere flyttet de fleste ett til
-to år etter bosetting. I de senere årene flytter flest
-fire til fem år etter bosetting. Det vil si at de flytter
-i de første årene etter avsluttet introduksjonsprogram. Blant deltakerne i introduksjonsprogram
-som ble avsluttet i perioden 2007 til 2011, flyttet
-19 pst. til en annen kommune innen ett år etter
-endt introduksjonsprogram, mens 24 pst. flyttet
-innen to år.33
-
-7.4
-
-Helse
-
-Helsetilstand påvirker mulighetene for samfunnsdeltakelse. Innvandrere med god helse kan delta
-mer aktivt i arbeids- og samfunnsliv for øvrig. Sam30
-
-SSBs monitorer for sekundærflytting:
-https://www.ssb.no/befolkning/artikler-og-publikasjoner/
-monitor-for-sekundaerflytting--41634.
-31
-Stambøl, L. (2016). Sysselsetting og flytting blant innvandrere
-belyst med regional arbeidsmarkedsmobilitet. Rapporter 06/
-2016, Statistisk sentralbyrå.
-32
-Åslund, O. (2005). Now and forever? Initial and subsequent
-location choices of immigrants. Regional Science and Urban
-Economics, 35 (2), 141–165. Damm, A.P. (2009). Determinants of recent immigrants’ location choices: quasi-experimental evidence. Journal of Population Economics, 22 (1),
-145–174.
-33
-Blom, S. & Enes, A. (2015). Introduksjonsordningen – en
-resultatstudie. Rapporter 36/2015, Statistisk sentralbyrå.
-
-tidig vil aktiv samfunnsdeltakelse kunne bidra til
-at innvandrere får bedre helse. Kjønn, alder, biologisk arv, risikoatferd (røyking, bruk av rusmidler)
-og bo- og arbeidsforhold er viktige faktorer som
-påvirker helsesituasjonen til den enkelte. Det blir
-gjerne antatt at migranter må ha relativt god helse
-for å reise til et annet land. Migranter som reiser
-frivillig, antas derfor ofte å ha bedre helse enn
-gjennomsnittet både i landet de reiser fra, og i landet de kommer til. Tilsvarende seleksjonseffekter
-er mindre sannsynlige der migrasjonen er påtvunget, som i fluktsituasjoner. Det å flykte kan også
-være starten på en migrasjonsprosess som i seg
-selv er en betydelig belastning både for fysisk og
-psykisk helse. Antakelsen om sunne migranter
-må derfor anses å gjelde sterkest for arbeidsinnvandrere og sannsynligvis avta med botid i landet.34
-Studier av innvandrere i Norge bekrefter et
-stykke på vei disse hypotesene. En fersk studie av
-innvandreres sykehusinnleggelser viser f.eks. at
-arbeidsinnvandrere sjeldnere legges inn på sykehus enn personer i majoritetsbefolkningen, mens
-flyktninger legges inn langt oftere.35 Familieinnvandrere som gruppe hadde omtrent samme forbruk av sykehustjenester som personer i majoritetsbefolkningen. Forskjellene mellom gruppene
-jevnet seg ut med økende botid – over tid ble altså
-innvandrerne mer like majoritetsbefolkningen
-med tanke på sykehusinnleggelser. Alle resultatene var standardisert etter alder og kjønn. En studie av dødelighet viste samme tendenser, at innvandrere som gruppe har lavere dødelighet i yngre alder enn majoritetsbefolkningen, men forskjellen ble mindre jo lenger innvandrerne hadde
-bodd i Norge. Studien finner i liten grad forskjeller mellom arbeidsinnvandrere og personer som
-har innvandret av humanitære grunner, og dette
-er heller ikke et hovedpoeng i studien.36 Det er
-uansett verdt å påpeke at innvandrere i Norge
-fortsatt i liten grad har nådd den alderen der bruken av sykehustjenester og dødelighet er høyest,
-og at mønstrene kan endre seg etter hvert som
-innvandrerne blir eldre.
-34
-35
-
-36
-
-OECD (2015). Indicators of Immigrant Integration 2015.
-Settling In.
-Elstad, J.I. (2016). Register study of migrants’ hospitalization in Norway: world region origin, reason for migration,
-and length of stay. BMC Health Services Research, doi:
-10.1186/s12913-016-1561-9.
-Syse, A., Strand, B.H., Naess, O., Steingrímsdóttir, Ó.A. &
-Kumar, B.N. (2016). Differences in all-cause mortality: A
-comparison between immigrants and the host population in
-Norway 1990–2012. Demographic Research, DOI: 10.4054/
-DemRes.2016.34.22.
-
-[Side 131]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-En relativt ny rapport fra NOVA gjennomgår
-innvandreres bruk av helsetjenester i Norge.37
-Rapporten viser et sammensatt bilde. Innvandrere
-som gruppe har lavere forbruk av spesialisthelsetjenester, men noen grupper har høyere forbruk
-av helsetjenester for noen typer tilstander. Innvandrere fra de nye EU-landene i Sentral- og Øst-Europa har et svært lavt forbruk av spesialisthelsetjenester, både psykiske og somatiske, mens innvandrere fra andre EU-land etterspør slike tjenester i omtrent samme omfang som majoritetsbefolkningen. Innvandrerkvinner fra land i Asia og
-Afrika har vesentlig flere innleggelser på somatiske sykehus enn kvinner i majoritetsbefolkningen, noe som hovedsakelig har sammenheng med
-at de gjennomgår flere svangerskap. For øvrig er
-forskjellene mellom innvandrergruppene og majoritetsbefolkningen relativt små og usystematiske
-og varierer mer med kjønn enn med landbakgrunn.
-Bruk av helsetjenester og dødelighet er forhold som registreres, noe som gir god tilgang til
-pålitelige data. Dødelighetsmålet er imidlertid påvirket av alderssammensetningen i befolkningen,
-og bruken av helsetjenester indikerer ikke bare
-sykelighet, men også hvor tilbøyelig man er til å
-oppsøke helsevesenet med ulike plager. Den
-svært lave bruken av f.eks. psykisk helsevern i en
-del innvandrergrupper, gjenspeiler sannsynligvis
-også stigmaet forbundet med å ha psykiske plager, og kanskje mangel på tillit til at disse tjenestene faktisk kan hjelpe. Innvandrere oppsøker primærhelsetjenesten, inkludert fastlegen, sjeldnere
-enn majoritetsbefolkningen, noe som kan tyde på
-«høy terskel», kanskje i samspill med mangel på
-forståelse for hvordan tjenestene fungerer.38 Folkehelseinstituttet (FHI) rapporterer regelmessig
-om helsetilstanden i befolkningen, inkludert innvandreres helse, basert på utvalgsundersøkelser.39 FHI understreker likevel i de siste rapporteringene at de foreliggende undersøkelsene er
-flere år gamle; den nyeste som ble brukt i 2015,
-var levekårsundersøkelsen blant innvandrere
-2005/2006. Denne undersøkelsen var da ti år gammel, og omfattet ikke innvandrerne fra EU-land.
-
-Videre er disse undersøkelsene, som andre utvalgsundersøkelser, sannsynligvis heftet med selektivt frafall. Med disse forbeholdene viser utvalgsundersøkelsene at færre innvandrere enn
-personer i den øvrige befolkningen oppfattet sin
-egen helse som god eller svært god. 86 pst. i den
-øvrige befolkningen sa at de hadde svært god
-helse, mot 67 pst. av respondentene med innvandrerbakgrunn. Utvalgsundersøkelsene viste også
-høyere forekomst av hjerte- og karproblemer
-blant innvandrere enn blant norskfødte og høyere
-forekomst av muskel- og skjelettplager blant kvinner med innvandrerbakgrunn enn blant norskfødte kvinner. Diabetes er også vesentlig mer utbredt i mange innvandrergrupper enn blant befolkningen forøvrig.40
-Personer med flyktningbakgrunn,41 og i noen
-grad personer med innvandrerbakgrunn generelt,42 har gjennomgående dårligere psykisk helse
-enn befolkningen for øvrig. Dette er godt dokumentert i internasjonale studier, og det er neppe
-grunn til å anta at situasjonen er annerledes i
-Norge. I levekårsundersøkelsen blant innvandrere 2005–2006 finnes høyest forekomst av psykiske plager blant innvandrere fra Iran, Irak og
-Tyrkia, og lavest blant innvandrere fra Sri Lanka
-og Somalia.43 Flyktninger dominerer blant innvandrere fra både Iran, Irak, Sri Lanka og Somalia, så
-det er uklart hva som ligger bak de store forskjellene – men i og med at tallene er basert på egenrapportering, kan funnene ha sammenheng med
-ulik aksept i ulike kulturer for å snakke om psykiske lidelser.
-40
-
-41
-
-37
-
-Elstad, J.I., Finnvold, J.E. & Texmon, I. (2015). Bruk av
-sykehus og spesialisthelsetjenester blant innbyggere med norsk
-og utenlandsk bakgrunn. Nova-rapport 10/2015.
-38
-Diaz E, Calderón-Larrañaga A, Prado-Torres A, PobladorPlou, B. & Gimeno-Feliu L.A. (2015). How do immigrants
-use primary health care services? A register-based study in
-Norway. European Journal of Public Health, 25 (1),72–8.
-39
-Helsetilstanden i Norge (Folkehelserapporten). Nettpublikasjon, tilgjengelig på https://www.fhi.no/nettpub/hin/.
-Informasjonen i resten av dette kapitlet er basert på denne.
-
-131
-
-Kapittel 7
-
-42
-
-43
-
-Jenum A.K., Diep L.M., Holmboe-Ottesen G., Holme
-I.M.K., Kumar B.N. & Birkeland K.I. (2012). Diabetes
-susceptibility in ethnic minority groups from Turkey, Vietnam, Sri Lanka and Pakistan compared with Norwegians –
-the association with adiposity is strongest for ethnic minority women. BMC Public Health, doi: 10.1186/1471-245812-150.
-Fazel, M., Wheeler, J. & Danesh, J. (2005). Prevalence of
-serious mental disorder in 7000 refugees resettled in western countries: a systematic review. Lancet 365 (9467),
-1309–14; Slewa-Younan, S., Uribe Guajardo, M.G., Heriseanu, A. et al. (2015), A Systematic Review of Post-traumatic
-Stress Disorder and Depression Amongst Iraqi Refugees
-Located in Western Countries. Journal of Immigrant and
-Minority Health 17: 1231; Jakobsen, M., Meyer DeMott,
-M.A., & Heir, T. (2014). Prevalence of psychiatric disorders
-among unaccompanied asylumseeking adolescents in Norway. Clinical Practice and Epidemiology in Mental Health,
-10 (1), 53–58.
-Noam, G., Oppedal, B., Idsoe, T. & Panjwani, N. (2014).
-Mental Health Problems and School Outcomes Among
-Immigrant and Non-immigrant Early Adolescents in Norway. School Mental Health 6: 279–293.
-Blom, S. (2008). Innvandreres helse 2005/2006. Rapporter
-35/2008, Statistisk sentralbyrå.
-
-[Side 132]
-
-132
-
-NOU 2017: 2
-
-Kapittel 7
-
-Integrasjon og tillit
-
-Innvandrernes høye forbruk av uførepensjon,
-som ble dokumentert i kapittel 6, speiles ikke i
-høyere dødelighet (kontrollert for alder) eller
-kontakt med helsetjenestene. Innvandrere rapporterer imidlertid oftere om dårlig helse enn personer i majoritetsbefolkningen i spørreundersøkelser. Forskningen som foreligger, kan ikke gi presise forklaringer på denne overraskende kombinasjonen av høyt forbruk av uførepensjon, dårlig
-egenrapportert helse, lavt forbruk av tjenester og
-lav dødelighet blant innvandrere i Norge.
-
-7.5
-
-Diskriminering og strukturelle
-hindre
-
-Diskriminering kan være et strukturelt hinder for
-folks levekår, inngang til arbeidslivet og utbytte av
-opplæring, og det vil kunne påvirke forholdet mellom ulike befolkningsgrupper. Diskriminering
-kan også føre til svekket tilhørighet til fellesskapet
-og mindre tillit både til samfunnet og til andre
-mennesker. Utsatthet for diskriminering er dermed en potensielt viktig levekårsdimensjon.
-Å kartlegge omfanget av diskriminering er
-imidlertid komplisert. Opplevd diskriminering er
-subjektivt. Selvrapportert diskriminering – gjerne
-innhentet gjennom spørreundersøkelser – må
-derfor behandles med varsomhet. Det finnes også
-i liten grad sammenliknbare mål for hele befolkningen. Det er dermed vanskelig å vurdere opplevd diskriminering på basis av nasjonalitet, etnisitet eller religion opp mot andre potensielle diskrimineringsgrunnlag, som kjønn, alder, nedsatt
-funksjonsevne og seksuell orientering. Det er
-også betydelig usikkerhet knyttet til resultater fra
-undersøkelser av selvopplevd diskriminering,
-fordi andelen med minoritetsbakgrunn kan være
-lav, svarprosenten kan være lav, og spørsmålene
-kan være lite presise. Den beste undersøkelsen
-som finnes i Norge, er sannsynligvis levekårsundersøkelsen blant innvandrere 2005/2006. Denne
-viste at opplevelsen av diskriminering varierte
-sterkt både mellom ulike arenaer (arbeidsmarkedet, boligmarkedet, helsevesenet, uteliv) og etter
-landbakgrunn.44 Samlet oppga 74 pst. av innvandrerne fra Sri Lanka at de ikke hadde opplevd diskriminering på noe område, mens bare 34 pst. av
-innvandrerne fra Somalia sa det samme.
-Et alternativ til å bruke opplevd diskriminering som mål er felteksperimenter som ser på i
-44
-
-Tronstad, K.R. (2008). Opplevd diskriminering. I Blom, S.
-& Henriksen, K. (red), Levekår blant innvandrere i Norge
-2005/2006. Rapporter 5/2008, Statistisk sentralbyrå.
-
-hvilken grad diskriminering faktisk skjer på sentrale arenaer, som arbeidsmarkedet og boligmarkedet. I det følgende oppsummeres sentrale felteksperimenter fra Norge.
-
-7.5.1 Diskriminering i arbeidslivet
-De siste årene er det gjennomført to felteksperimenter i Norge med formål å dokumentere forekomsten av diskriminering i arbeidslivet. Begge
-undersøkelsene ble gjennomført ved at forskerne
-sendte likelydende søknader til ulike utlyste jobber i gitte geografiske områder. Den første og
-mest omtalte av disse studiene ble gjennomført på
-det sentrale Østlandet (Oslo, Drammen, Lørenskog, Moss).45 Søknadene ble fordelt på et bredt
-spekter av jobber i offentlig og privat sektor: sykepleier og hjelpepleier innen helse- og omsorgssektoren, grunnskolelærer og pedagogisk leder i barnehage innen undervisningssektoren, rådgivere
-innen offentlig forvaltning, høyere økonomistillinger (som forsikringsrådgiver, regnskapsrådgiver
-og revisor) innen forsikring og finans, dataingeniør og informasjonsmedarbeider innen informasjon/kommunikasjon, og sjåfør og lagermedarbeider innen lager og transport. Studien opererte
-videre med to jobbsøkerpar, et kvinnelig og et
-mannlig, der søkerne hadde henholdsvis «norskklingende» og «utenlandskklingende» navn. Alle
-søkerne fylte de formelle kvalifikasjonskravene til
-stillingen, og alle hadde utdanning fra Norge.
-Hovedfunnet i studien var at sannsynligheten
-for å bli innkalt til et jobbintervju reduseres i gjennomsnitt med om lag 25 pst. dersom søkeren har
-et utenlandskklingende navn sammenliknet med
-identisk kvalifiserte søkere med norskklingende
-navn. Forskerne presiserer imidlertid at den vanligste responsen var likebehandling: enten fikk
-begge de to fiktive søkerne avslag, eller så ble
-begge innkalt til intervju. Anslaget over omfanget
-av diskriminering skapes av at i de tilfellene der
-bare én søker ble innkalt, var dette i overveiende
-grad søkeren med norskklingende navn. Det var
-videre relativt store forskjeller både etter kjønn og
-jobbtype. For kvinner reduserte det å ha et utenlandskklingende navn sannsynligheten for å bli
-innkalt til intervju med 16 pst., for menn med
-37,4 pst.46 Det er likevel uklart om dette skyldes
-at kvinner reelt møter mindre diskriminering enn
-45
-
-46
-
-Rogstad, J. & Midtbøen, A. (2012). Diskrimineringens
-omfang og årsaker. Etniske minoriteters tilgang til norsk
-arbeidsliv, Rapporter 2012:001, Institutt for samfunnsforskning.
-Rogstad, J. & Midtbøen, A. (2012). Ibid. s. 81
+Verdien av ressurser som er uavhengige av befolkningens størrelse, kan være en kilde til inntektsoverføringer mellom den eksisterende befolkningen og innvandrere. For Norges del er petroleumsformuen særlig viktig, både den som ligger under havbunnen, og den som er spart i Statens pensjonsfond utland. Staten eier og forvalter denne formuen på vegne av alle innbyggerne. I 2016 finansierte bruken av oljepenger tilnærmet en sjudel av offentlige utgifter.[^305] Innvandring innebærer at oljepengene deles på flere innbyggere. For land med offentlig nettogjeld er virkningen motsatt; byrden deles på flere.
+
+En annen kilde til inntektsoverføring er om norske arbeidstakere mister lønn og trygge arbeidsplasser i konkurranse med innvandrere. Denne problemstillingen er mer aktuell for arbeidsinnvandring enn for flyktninginnvandring. Anslagsvis to tredeler av sysselsettingsveksten etter 2004 har kommet fra utlandet, særlig nye EU-land i Sentral- og Øst-Europa, uten å skape ledighetsproblemer for den øvrige befolkningen. Det har gitt klare fordeler for både innvandrerne og det store flertallet av de øvrige innbyggerne (utdypes i kap. 8.4). Spørsmålet er om dette vil fortsette hvis norsk økonomi går inn i en fase med lavere vekst i etterspørselen etter arbeidskraft. Arbeidsinnvandringen har falt de siste årene, noe som må ses i sammenheng med svakere utvikling i norsk økonomi.[^306]
+
+Det norske velferdssamfunnet er avhengig av at forholdet mellom antall år vi i snitt bidrar økonomisk til fellesskapet og antall år vi i snitt mottar inntekter og andre ytelser fra det offentlige, ikke blir for skjevt. Den forventede økningen i den demografiske forsørgerbyrden, det vil si forholdet mellom eldre og befolkningen i yrkesaktiv alder, innebærer statsfinansielle utfordringer. Siden innvandrere i gjennomsnitt er relativt unge, vil høy innvandring isolert sett kunne lette denne demografiske forsørgerbyrden. Det avgjørende er imidlertid ikke alder, men innvandrernes bidrag til offentlige inntekter og utgifter, som i hovedsak bestemmes av deres arbeidsinntekt. Selv om nettoeffekten av disse bidragene er den samme som for den eksisterende befolkningen, vil et slikt tilskudd av unge snarere være en utsettelse av problemet enn en løsning. Innvandringen må også være meget høy for å ha merkbar effekt på alderssammensetningen.
+
+En analyse av konsekvensene av høy innvandring bør gå lenger enn å se på hvordan endringer i befolkningens sammensetning påvirker nasjonale gjennomsnittstall for økonomiske hovedstørrelser. Den bør også vurdere hvordan fordeler og ulemper fordeler seg på henholdsvis den eksisterende befolkningen og nye innvandrere. Dette er en stor oppgave, og foreliggende forskning/utredning gir ikke alle svar som ønskes. Det gjelder særlig tallfesting av effektene. Utvalget har ikke hatt mulighet til å endre denne kunnskapsstatusen vesentlig.[^307]
+
+1.  **Kortsiktige virkninger**
+
+På kort sikt vil de økonomiske virkningene av innvandring kunne avhenge av konjunktursituasjonen. I en lavkonjunktur med arbeidsledighet over det normale, vil mulighetene for innvandrere til å få jobb naturlig nok være dårligere enn i perioder med sterk etterspørsel etter arbeidskraft. Den sterke arbeidsinnvandringen fra EØS-området til Norge etter 2004 og fram til finanskrisen i 2008 falt sammen med, og var trolig også drevet av, sterk vekst i samlet etterspørsel, ikke minst som følge av høy aktivitet i petroleumsrelatert virksomhet. I denne perioden ga høy arbeidsinnvandring muligheter for kraftig økt produksjon innenlands, og dermed større inntekter i både privat og offentlig sektor. Også blant flyktninger og andre grupper med svak tilknytning til arbeidsmarkedet er det enklere å finne arbeid i en høykonjunktur enn i en lavkonjunktur. Med lavere oljepriser og svakere arbeidsmarked har arbeidsinnvandringen avtatt de siste par årene, mens tilstrømningen av flykninger i liten grad påvirkes av konjunkturene innenlands.
+
+Innvandrere synes å miste jobben lettere enn den eksisterende befolkningen i nedgangskonjunkturer.[^308] Dette trenger ikke nødvendigvis ha noe med landbakgrunn i seg selv å gjøre. Mønsteret kan skyldes at de som sist ble ansatt, er de første som må gå i nedbemanningstider, og at det er arbeidsinnvandrerne som har kortest ansettelsestid. Mange innvandrere er dessuten ansatt på midlertidige kontrakter. Et annet mønster er at innvandrere som blir arbeidsledige, har lavere sannsynlighet for å komme i arbeid igjen når konjunkturene snur. Det tilsier at arbeidsledighet har lettere for å bli varig for innvandrere enn for norskfødte.
+
+Selv om det er vanskeligere å håndtere innvandring i en lavkonjunktur enn i en høykonjunktur, kan kostnadene på kort sikt i en lavkonjunktur være mindre synlige for resten av befolkningen. I gode tider må f.eks. økte flyktningutgifter innenlands dekkes inn med innstramminger andre steder i budsjettet så ikke det samlede budsjettet blir for ekspansivt. I en lavkonjunktur er ikke dette innstrammingsbehovet like stort. Dersom de økte kostnadene får slå ut i økt samlet pengebruk på offentlige budsjetter, vil færre blir berørt på kort sikt. Økningen i offentlige utgifter til å behandle asylsøknader og gi asylsøkerne mat, klær og tak over hodet vil da representere en form for ekspansiv finanspolitikk. Det samme vil være tilfellet etter bosetting når flyktningene skal gjennom introduksjonsprogrammet og får introduksjonsstønad til å finansiere livsoppholdet. Kort sagt vil flere innvandrerne bety flere forbrukere. I en situasjon med arbeidsledighet og ledig kapasitet i økonomien vil økt etterspørsel fra asylsøkere og innvandrere i stor grad skape økt aktivitet og i liten grad fortrenge annen etterspørsel. Slike aktivitetsvirkninger har en lav realøkonomisk kostnad for den eksisterende befolkningen. I den grad økt økonomisk aktivitet også øker skatteinngangen, reduseres også det offentliges nettoutgifter av tiltakene. Eksempler på analyser av norsk økonomi som vektlegger slike kortsiktige effekter er Statistisk sentralbyrå (2015) og Eika (2016).[^309] Disse analysene for Norge er i hovedsak i tråd med tilsvarende analyser for andre land (se boks 8.1).
+
+1.  **Internasjonale studier: Beregninger av økonomiske konsekvenser av økt tilstrømning av flyktninger**
+
+Det foreligger flere internasjonale studier som ser på økonomiske konsekvenser av økt asyl- og flyktninginnvandring. Gjennomgående viser disse studiene forholdsvis begrensede effekter for økonomien og offentlige budsjetter sammenliknet med de utfordringene man ellers står overfor. Det må ses i sammenheng med at studiene ser på en situasjon med et begrenset, men historisk sett høyt, antall asylsøkere og flyktninger over noen få år, slik at den samlede tilstrømningen av flyktninger bare utgjør noen tidels prosent av befolkningen i mottakerlandene.
+
+IMF, OECD og EU-kommisjonen tar i sine beregninger utgangspunkt i den økte tilstrømningen av asylsøkere og flyktninger til Europa i 2015 og ser først og fremst på de kortsiktige konsekvensene. Alle de tre institusjonene anslår en budsjettmessig kostnad for landene i intervallet 0,1–0,5 pst. av BNP samlet sett over to til tre år. Økt offentlig pengebruk vil isolert sett kunne øke BNP med anslagsvis 0,2 pst. som følge av høyere sysselsetting i mottakerapparatet og i andre aktiviteter knyttet til økt antall asylsøkere og flyktninger. Utslaget vil avhenge av hvilke tilpasninger som gjøres i offentlige budsjetter. Utslaget vil bli mindre hvis økningen i utgifter helt eller delvis dekkes inn gjennom økte skatter eller utgiftskutt på andre områder. Det er også en del forskjeller mellom land, både når det gjelder den anslåtte budsjettmessige kostnaden, og når det gjelder de makroøkonomiske effektene.
+
+På lengre sikt vil utslaget i økonomien avhenge av i hvilken grad flyktningene kommer i arbeid. Ved deltakelse i arbeidsmarkedet vil flyktningene bidra til verdiskaping og til å øke skatteinntektene til det offentlige og avlaste trygdebudsjettene. Personer utenfor arbeidsmarkedet vil i større grad være netto mottakere av diverse offentlige velferdsordninger. Hvorvidt flyktningene lykkes i arbeidsmarkedet, avhenger blant annet av kompetanse, alder og situasjonen i arbeidsmarkedet – forhold som for så vidt også gjelder for alle andre i befolkningen. I tillegg avhenger yrkesdeltakelsen av hvor vellykket integreringspolitikken er.
+
+Alt i alt viser studiene at økningen i BNP i mottakerlandet er mindre enn veksten i befolkningen som følge av den økte innvandringen. BNP per innbygger blir derfor trolig lavere enn i en situasjon uten tilstrømning av flyktninger. Det vil vedvare så lenge de nyankomne har svakere tilknytning til arbeidsmarkedet enn den øvrige befolkningen, eller har lavere produktivitet når de kommer i arbeid.
+
+Aiyar, S., Barkbu, B., Batini, N., Berger, H., Detragiache, E. & Dizioli, A., et.al (2016). The Refugee Surge in Europe. *IMF Staff Discussion Note*; OECD (2015). How will the refugee surge affect the European economy? *Migration Policy Debates no 8, 2015;* European Commission (2016). An Economic Take on the Refugee Crisis. A Macroeconomic Assessment of the EU. *Institutional Paper 033*.
+
+**\[Boks slutt\]**
+
+Utvalget har valgt å konsentrere seg om de langsiktige virkningene av innvandring. Særlig vil økte utgifter til asylsøker- og flyktningformål ha helt andre begrunnelser enn hensynet til å stabilisere den økonomiske utviklingen på kort sikt. Det må også legges til grunn at asyl- og flyktningutgifter innpasses, sammen med andre utgifter på statsbudsjettet, i en samlet budsjettramme som er tilpasset den økonomiske situasjonen.
+
+1.  **Nærmere om inntektsvirkninger**
+
+De som trolig har klarest fordel av innvandringen, er innvandrerne selv. Flytting til Norge vil for mange øke levestandarden mye og raskt. Det gjelder både for arbeidsinnvandrere og flyktninger, selv om flyktninger per definisjon kommer for å få beskyttelse.
+
+For den eksisterende befolkningen er virkningene av innvandring mer sammensatte. Arbeidsgivere vil ofte ha en ubetinget fordel av arbeidsinnvandring. Den gir dem en mer mangfoldig befolkning å ansette fra. Innvandrerne har ofte lavere krav til lønn og arbeidsmiljø enn norske arbeidstakere. Det er derfor vanskelig å tenke seg at ikke arbeidsinnvandring vil bidra til å presse lønnskostnadene ned på kort og mellomlang sikt. I tillegg vil økt innvandring øke etterspørselen rettet mot den enkelte bedriften, så lenge ikke innvandringen leder til at også antall konkurrerende bedrifter øker.
+
+For de fleste innbyggere i yrkesaktiv alder er det realinntekt etter skatt som bestemmer levestandarden. Innvandring påvirker realinntekten først og fremst gjennom tre kanaler:
+
+- Priser på det man kjøper for inntekten.
+
+- Timelønn før skatt og sannsynligheten for å få arbeid.
+
+- Skattebyrden.
+
+Priser
+
+Økt arbeidsinnvandring gir økt konkurranse i deler av arbeidsmarkedet og i mange tjenestemarkeder og kan bidra til lavere vekst i lønninger og priser. I rollen som forbruker har alle åpenbart fordel av at prisene øker mindre enn de ellers ville ha gjort. Innvandring har i realiteten ført til at tjenesteprodusenter som før var skjermet for utenlandsk konkurranse, nå er blitt mer konkurranseutsatt. Dette gjelder blant annet innenfor renhold, hotell- og restaurantdrift, transport og bygge- og anleggsvirksomhet.
+
+Virkningen på pris av at innvandrere selger tjenester i Norge langt billigere enn norske produsenter, er av samme type som den forbrukerne opplever når billige varer fra utlandet blir tilgjengelige. Den har to komponenter. For det første kan prisen falle for en gitt vare/tjeneste, i den grad man ikke har skjermet tjenesteproduksjonen fra slike effekter gjennom tariffavtaler. For det andre vil normalt tilbudet av kvalitativt ulike varer og tjenester bli bredere og mer mangfoldig, slik at forbrukeren opplever å få mer for pengene. Det er grunn til å tro at den høye arbeidsinnvandringen til Norge etter 2004 kan ha påvirket prisene i tjenestesektoren, men det er få studier om dette.
+
+Lønn og sannsynlighet for å få arbeid
+
+Den samlede fordelen av lavere priser blir mer uklar og mer ujevnt fordelt når man tar hensyn til at lavere priser skyldes lavere lønnskostnader. Jo lettere den eksisterende befolkningen kan erstattes av innvandrere, desto mer utsatt er de for press nedover på lønn og arbeidsmiljø.[^310] Noen kan også oppleve å bli konkurrert ut av markedet i den forstand at de vurderer alternative jobber, eventuelt med en ledighetsperiode med dagpenger, som bedre enn å fortsette til lavere lønn. En studie for Norge viser at arbeidsinnvandringen har redusert lønnsveksten i deler av privat sektor, både gjennom at innvandrerne selv har lavere lønn enn den øvrige befolkningen, og gjennom økt lavlønnskonkurranse.[^311] Blant yrker i bygg- og anleggsnæringen med stor vekst i andel arbeidstakere med innvandrerbakgrunn, var lønnsfallet sterkest for arbeidstakere som ikke hadde fullført videregående skole, og for tidligere ankomne innvandrere.[^312] Empiri tyder på at arbeidsinnvandring påvirker lønnen til andre innvandrere mer enn resten av befolkningen, og at lønnen til arbeidstakere uten innvanderbakgrunn påvirkes mest av innvandrere fra andre nordiske land.[^313] Norskfødte ungdommer ser ut til å ha vært utsatt for fortrengning pga. innvandrere fra Sverige.[^314]
+
+Også denne effekten er velkjent fra standardresonnementene innenfor internasjonal handelsteori. Mens det store flertallet i forbrukerrollen har fordel av at varer kan være billigere hvis de kjøpes fra utenlandske framfor norske tilbydere, må utkonkurrerte norske bedrifter legges ned og de ansatte finne annet arbeid. Deres tap er større jo vanskeligere det er å finne annet arbeid. Innvandring vil kunne gi økt konkurranse i alle lavlønnsyrker samtidig, og de som ikke har ferdigheter som utfyller innvandrernes vil dermed ikke så lett kunne unnslippe de negative effektene. På den måten kan omstillingsproblemene som følge av innvandring ramme bredere og vare lenger enn det som er det typiske ved økt internasjonal handel, som normalt treffer enkeltnæringer.
+
+Når tidsperspektivet utvides til det mer langsiktige, endrer disse effektene karakter fra omstillingskostnader til overflyttingsgevinster i økonomisk teori. Overflyttingsgevinster krever at de arbeidstakerne som slutter i én type jobb, går over i annet arbeid og får høyere lønn i den jobben de går til. Slike omstillinger bidrar til at arbeidskraften kaster mer av seg, både for den enkelte og for samfunnet. Forskning fra både USA,[^315] Danmark[^316] og flere land i Europa[^317] viser f.eks. hvordan arbeidstakere flytter til andre typer stillinger, andre yrker eller andre næringer, og dermed oppnår høyere lønn som følge av innvandring. Dersom arbeidsinnvandring medfører varig redusert sysselsetting i den innfødte befolkningen, vil det i seg selv representere et samfunnsøkonomisk tap.
+
+Når tapene kommer umiddelbart og gevinstene senere i omstillingsprosessen, vil gjerne tapene få mest oppmerksomhet. De som taper, har så langt vært i mindretall, men opplever enkeltvis et konkret og betydelig tap. De som vinner er mange, men gevinstene for den enkelte blir liten og uopplevd. Insentivene for de som taper til å kjempe for sine interesser, er dermed langt sterkere enn for de som vinner. Arbeidsinnvandring kan medføre en endret maktbalanse mellom arbeidsgivere og arbeidstakere i enkelte bransjer, og dette kan også påvirke hvor store gevinstene blir, og hvem de eventuelt tilfaller. I Norge har imidlertid verdiskapingen i samfunnet alt i alt blitt forholdsvis jevnt fordelt mellom arbeidstakerne og bedriftseierne. Lønnsandelen har holdt seg om lag uendret siden 1970 (se figur 8.1). Høy organiseringsgrad og stort innslag av kollektive forhandlinger kan ha bidratt til dette. I tillegg fungerer den norske konkurranseloven i all hovedsak godt.[^318]
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Lønnsandel i prosent av samlet faktorinntekt i Fastlands-Norge
+
+Statistisk sentralbyrå
+
+Overflyttingsgevinstene som er omtalt over, kan komme i stand ved at innvandringen påvirker sammensetningen av utdanning og kompetanse i den opprinnelige befolkningen og dermed legger grunnlaget for høyere lønn og sikrere arbeidsplasser. En norsk studie viser hvordan rekruttering til videregående opplæring innenfor bygg og anlegg i Norge har endret seg som følge av den store økningen i innvandring til denne næringen siden utvidelsen av EØS i 2004.[^319] Det er tegn til at elever med gode karakterer velger bort bygg- og anleggsfag som følge av innvandring. Andre studier fra USA viser hvordan innvandring av personer med lav utdanning (lavere enn fullført videregående) kan øke andelen elever som fullfører videregående[^320] og som begynner på høyere utdanning.[^321] En analyse viser dessuten at innstrømningen av lavt kvalifiserte innvandrere har ført til at amerikanske elever tar lengre utdanninger, oppnår bedre skoleprestasjoner og velger andre yrker med høyere krav til f.eks. språkferdigheter.[^322]
+
+Bedrifter som produserer for eksport kan ikke velte økte kostnader over på pris uten å miste kunder. Hvis arbeidstakerne består av grupper med ulik kompetanse, vil utskifting av norskfødte med innvandrere i noen grupper kunne senke de samlede lønnskostnadene. Bedriftenes overskudd vil øke, eller man unngår underskudd hvis prisene internasjonalt presses ned. Samtidig har den norske modellen for lønnsdannelse så langt bidratt til den relativt stabile utviklingen i fordelingen av verdiskapingen mellom arbeidskraft og kapital som vises i figur 8.1. Sammen kan disse forholdene både gjøre bedriftene mer levedyktige, og bidra til at de gjenværende norske arbeidsplassene med høyt kompetansekrav blir sikrere og får bedre vilkår enn uten ansettelsen av innvandrere. Gevinstene for norskfødte blir større jo mer kvalitativt forskjellige de er fra innvandrergruppene.[^323] De norskfødte som ikke klarer å tilpasse sin kompetanse, risikerer varig lav lønn (se kap. 8.5). Vedvarende høy innvandring vil i tråd med drøftingen i NOU 2016: 15 kunne utfordre de stabiliserende mekanismene i den norske lønnsmodellen.[^324]
+
+Tariffavtalene har stor betydning for lønnsdannelsen i Norge. De inngås mellom en fagforening eller sammenslutning av slike foreninger og en arbeidsgiver eller arbeidsgiverforening og er bindende for avtalens parter og deres medlemmer. Allmenngjøring av tariffavtaler innebærer blant annet at det settes et gulv for hvor lavt arbeidstakere i den aktuelle bransjen kan lønnes, og det minsker bedriftenes mulige gevinst ved å stå utenfor overenskomstene for å betale lavere lønn. Allmenngjøringsinstituttet har på denne måten bidratt til å opprettholde koordineringen i lønnsdannelsen i en periode med høy arbeidsinnvandring. (Se mer om organisasjonsgrad blant innvandrere i kap. 5.5.4).
+
+Skattebyrde
+
+Til slutt vil levestandarden uttrykt ved realinntekten etter skatt påvirkes av skattebyrden. Som beskrevet i kapittel 8.6.3 følger det framtidige behovet for økt skattebyrde først og fremst av at befolkningen blir eldre, og at finansieringsbidraget fra petroleumsinntektene blir mindre viktig. I den grad innvandring svekker offentlige finanser ytterligere, innebærer det isolert sett et fall i levestandarden for dem som allerede bor i Norge, fordi skattene må økes og/eller offentlig velferd slankes på sikt. Erfaringsmessig har innvandrere fra Asia, Afrika mfl. i gjennomsnitt bidratt mer til offentlige utgifter og klart mindre til offentlige inntekter enn andre, fordi arbeidsinnsatsen og lønnen er lavere. Denne typen innvandring må imidlertid bli meget høy for at den i seg selv skal øke de statsfinansielle utfordringene mye. Men den vil kunne forsterke det sterke og voksende statsfinansielle presset på offentlige finanser som aldringen av befolkningen vil skape i tiårene framover, dersom en ikke lykkes bedre enn hittil med å få disse gruppene i arbeid.
+
+1.  **Inntektsulikhet**
+
+Ikke alle har på samme måte fått tatt del i den globale økonomiske veksten de siste tiårene, og innad i mange OECD-land har inntektsforskjellene økt (se figur 8.2). Figuren viser nivået på og endringen i Gini-koeffisienten[^325] for disponibel inntekt (etter skatt og overføringer) fra midten av 1980-årene fram mot i dag for en rekke OECD-land. I Norge har den økonomiske veksten i større grad enn i andre land kommet hele befolkningen til gode, men også her har ulikheten økt noe. Teknologisk endring og globaliseringen er viktige drivkrefter for økte forskjeller, også i Norge. Økt arbeidsinnvandring er en konsekvens av globaliseringen i mange vestlige land. I Norge har denne først og fremst kommet til tjenesteytende næringer med lav produktivitet. Dette har lagt press på lønningene i enkelte sektorer (se kap. 8.4). Isolert sett har derfor arbeidsinnvandringen bidratt til økte inntektsforskjeller i Norge. Den forholdsvis jevne fordelingen i Norge kan blant annet ses i sammenheng med omfattende, og i hovedsak offentlige finansierte, tjenester innenfor utdanning og helse, som både virker omfordelende og bidrar til høy produktivitet og vekst. I tillegg sikrer godt samarbeid om lønnsdannelsen både fleksibilitet og omstillingsevne for norsk næringsliv samt høy yrkesdeltakelse og at lønnsforskjellene i Norge er relativt små.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Ulikhet i disponibel inntekt (etter overføringer og skatt) målt med Gini i 1985<sup>1 </sup>og 2013 eller siste tilgjengelige år
+
+<sup>1 </sup>For en del land er Gini-koeffisienten fra et nærliggende år til 1985. For enkelte land er verdien fra et noe senere tidspunkt: Tsjekkia (1992), Ungarn (1991) og Australia (1995).
+
+Statistisk sentralbyrå, OECD Income Distribution Database og OECD (2015). *In It Together? Why Less Ineqaility Benefits All.* OECD Publishing
+
+Endringer i økonomisk ulikhet, særlig antallet i lavinntektsgruppen, har stor samfunnsmessig betydning utover effekter som skaper inntektsoverføringer fra eller til den eksisterende befolkningen. Spørsmål knyttet til de økende inntektsulikhetene i de aller fleste OECD-landene de siste 30–35 årene har fått økt oppmerksomhet, særlig de siste årene.[^326] For det første har myndigheter og samfunnsmedlemmer oppfatninger om hva som bør være en nedre grense for materiell levestandard. Spørsmålet om lav inntekt har derfor en samfunnsmessig dimensjon utover det som angår den enkelte. For det andre leder store inntektsforskjeller erfaringsmessig til spenninger og noen ganger sosial uro. For det tredje kan store inntektsforskjeller gi enkeltpersoner makt og innflytelse som strider mot demokratiske idealer. Relativt høy grad av inntektsutjevning har vært et mål med bred politisk oppslutning i etterkrigstiden i Norge og andre nordiske land, og det er et nøkkelelement i den såkalte «norske (nordiske) modellen». Dette gjelder ikke bare mulighetslikhet, men også resultatlikhet.
+
+Høy innvandring av personer med relativt lav kompetanse gjør det isolert sett vanskeligere å nå gitte mål for inntektsutjevning. Selv med en sjenerøs velferdsstat som den norske vil mange av disse havne i gruppen med varig lavinntekt. **De som ikke får en stabil tilknytning til arbeidsmarkedet, vil havne nederst på inntektsskalaen. For de aller fleste er lønnet arbeid den eneste veien ut av lavinntektsgruppen. De som kommer i lønnet arbeid, vil kunne unnslippe lavinntektsgruppen, men vil likevel i hovedsak få en inntekt som er forholdsvis lav. Innvandring kan derfor forventes å gi en direkte økning i ulikheten i Norge, som vil kunne komme i strid med det politiske målet om å bevare et samfunn med små forskjeller. Det gjelder selv om innvandrerne selv opplever store økonomiske gevinster av å komme til Norge.
+
+Et viktig forhold i denne sammenheng er også den inntektsulikheten som vil komme mellom alderspensjonister. Forutsetningene bak beregningene i kapittel 8.6 innebærer at innvandrerne fra lavinntektsland i langt større grad enn andre grupper vil ha forholdsvis lav opptjening av rettigheter og dermed være blant dem som får lavest alderspensjon.
+
+I tillegg til den direkte effekten på ulikhet ved at mange innvandrere havner nederst på inntektsskalaen, kan innvandring ha en indirekte effekt på ulikheten ved å øke ulikheten blant den eksisterende befolkningen. Det er fordi økt konkurranse i lavlønnsyrker gir generelle gevinster til hele befolkningen gjennom lavere priser på tjenester, men konsentrerte kostnader for dem som blir utsatt for økt konkurranse. Dette vil særlig gjelde for arbeidsinnvandring. Flyktninger har lavere yrkesdeltakelse og er mindre konsentrert om enkeltbransjer (se kap. 5.5.1). De har dessuten tilgang til inntektssikringsordninger som gjør at svært lave lønninger vil være mindre attraktive enn for arbeidsinnvandrere, som ikke uten videre har tilgang til sosialhjelp i Norge. Som beskrevet over vil enkelte av dem som utsettes for økt konkurranse, på sikt tilpasse seg og få økt inntekt, men de som ikke klarer å tilpasse seg risikerer å få varig lavere lønn og svakere tilknytning til arbeidslivet. En økning i denne gruppen vil bidra til økt ulikhet.
+
+Innvandrere fra lavinntektsland er overrepresentert blant arbeidsledige. Høy og varig arbeidsledighet er en hovedkilde til lav inntekt. I tredje kvartal 2016 var summen av den registrerte ledighetsraten og andelen på arbeidsmarkedstiltak 7,5 pst. for innvandrere mot 2,3 pst. for den øvrige befolkningen (se også kap. 5.2.2).
+
+Uføretrygdede har i gjennomsnitt lav inntekt. Studier av forløpet for flyktningers yrkesaktivitet viser at prosessen som starter med tidlig avgang og ender i uføretrygd, begynner etter bare sju års botid for flyktninger.[^327] For andre innvandrergrupper begynner denne overgangen etter ti–elleve års botid.[^328] Også dette er langt tidligere enn den tilsvarende overgangen for norskfødte. Denne overgangsprosessen går via arbeidsledighet, sykepenger og ulike kvalifiseringsprogrammer. Men uføretrygd er det eneste alternativet til arbeid som gir varig inntektssikring før alderspensjonering. En annen studie ser på tidsutviklingen for selvforsørgelsesgraden blant innvandrerne som ankom i 2000.[^329] Utviklingen for kun dette innvandrerkullet gir ikke mulighet til å skille mellom botidseffekter og effekter av andre forhold, spesielt finanskrisen. Funnene er imidlertid i hovedsak konsistente med sysselsettingsforløpene for de ulike innvandrerkohortene som følges i Bratsberg mfl.[^330]
+
+Hovedårsaken til høy ledighet blant innvandrerne er at arbeidsgivere i Norge vurderer deres produktivitet som lavere enn lønnskostnaden. Det kan være på grunn av faktisk lavere produktivitet, men også fordi innvandrere ikke har utdanning og erfaring som signaliserer til arbeidsgivere at de har tilstrekkelig produktivitet. Ledighet blant innvandrere kan også ha sammenheng med etnisk diskriminering (se kap. 7.5).
+
+Utdanning og kvalifisering er de viktigste tiltakene for å styrke mulighetene til svake innvandrergrupper i arbeidsmarkedet. Introduksjonsprogrammet for flyktninger er det tiltaket norske myndigheter har utviklet for å møte behovene til flyktninger som trenger grunnleggende kvalifisering (se kap. 4.4.). Forskning på innvandrernes barn tyder på at det norske utdanningssystemet er godt egnet til å integrere barn og ungdom, men for godt voksne innvandrere er effekten av mer utdanning mer usikker. Tiltak for å bedre integreringen diskuteres i kapittel 10.
+
+Blant annet som følge av det høye norske lønnskostnadsnivået er det neppe realistisk å få sysselsettingen blant voksne innvandrere med lav produktivitet opp mot det samme nivået nivå som den øvrige befolkningen. I kapittel 4.7 gir utvalget en samfunnsøkonomisk analyse av satsing på utdanning og kvalifisering av innvandrere og etterkommere.
+
+Den norske velferdsstaten finansierer gjennom skatteinntekter et stort omfang av offentlige tjenester og stønader som bidrar til høy levestandard og livskvalitet for landets innbyggere. Dette systemet forutsetter høy arbeidsinnsats fra en stor andel av yrkesbefolkningen, herunder innvandrere. Selv for personer som selv kan velge sin arbeidstid (deltidsbrøk og ferie) ved en avveining mellom godene fritid og materielt forbruk, vil det være en stor gevinst for samfunnet dersom disse jobber mer enn det de selv velger. Dette skyldes skatt på arbeid i form av direkte inntektsskatt på lønn og arbeidsgiveravgift og indirekte skatter og avgifter på de varer og tjenester som lønnsinntekten brukes på. I Norge innebærer den samlede effekten av disse skattene at en arbeidstime skaper en inntekt for samfunnet som er rundt det dobbelte av det den enkelte sitter igjen med av kjøpekraft. For dem som av ulike grunner arbeider mindre enn de selv ønsker, er fritiden mindre verdt enn for dem som kan jobbe så mye de selv vil. Det betyr at den samfunnsøkonomiske lønnsomheten av økt arbeidsinnsats er enda større for ufrivillig arbeidsledige enn for yrkesaktive, fordi den økte arbeidsinnsatsen ikke går på bekostning av ønsket om fritid.
+
+1.  **Konsekvenser for offentlige finanser av høy innvandring**
+
+    1.  **Innledning**
+
+I NOU 2011: 7 *Velferd og migrasjon. Den norske modellens framtid* var mandatet å vurdere hvordan migrasjon påvirker våre velferdsordninger. Den gang ble det lagt særlig vekt på arbeidsinnvandring, og det ble satt ut et utredningsoppdrag til SSB, som utviklet en økonomisk modell for å studere langsiktige virkninger av migrasjon på norsk økonomi, med vekt på offentlige finanser.[^331] Beregningene viste at konsekvensene av innvandring for samlet verdiskaping og offentlige finanser først og fremst avhenger av i hvilken grad innvandrerne blir sysselsatt, og at potensialet for å øke sysselsettingen er særlig stort blant innvandrere fra utviklingsland.
+
+I forbindelse med dette utvalgets arbeid har SSB oppdatert og videreutviklet beregningene og analysene fra 2011. Beregningene er også utvidet med sikte på å illustrere konsekvensene av flyktninginnvandring og å vurdere de økonomiske konsekvensene av innvandring opp mot de utfordringene aldringen av befolkningen gir for finansieringen av offentlige velferdsordninger fram mot 2060. Det vises til egne rapporter for utfyllende dokumentasjon av metode og resultater.[^332] Beregningene har et langsiktig perspektiv. Det innebærer at de ser bort fra kortsiktige aktivitetseffekter beskrevet i kapittel 8.3.
+
+Det bør understrekes at de langsiktige framskrivingene ikke skal tolkes som spådommer om den mest sannsynlige utviklingen. Det er gjort forutsetninger om utviklingen i størrelser som er meget usikre, og som man har begrenset eller ingen kontroll på. Dette gjelder blant annet befolkningsutvikling, produktivitetsvekst, rente, oljepris og andre verdensmarkedspriser. Størrelser som i hovedsak er bestemt direkte eller indirekte av politiske beslutninger, er videreført på «dagens nivå». Dette gjelder blant annet skattesystem, trygderegler, bruken av skattefinansierte kontantytelser og tjenester. Framskrivingene er altså betinget av at dagens politikk, herunder velferdsordningene, videreføres slik de er utformet i dag. Det vil selvsagt skje endringer i politikken på mange områder, nettopp for å møte utfordringer vi i dag kan se konturene av. Poenget med framskrivingene er nettopp å synliggjøre behovet for endringer i politikken.
+
+Det økonomiske forholdet mellom den enkelte og det offentlige tar i beregningene utgangspunkt i inntektsstatistikken fra SSB for 2013 (se vedlegg 3). Befolkningen deles inn i et relativt stort antall grupper etter kjennetegnene *alder, kjønn, landbakgrunn, botid og hovedinntektskilde*. Et eksempel på en gruppering er 50 år gamle menn, innvandret fra land i Asia, Afrika mfl. (landgruppe 3) for mer enn 10 år siden, som har inntekt fra arbeid som hovedinntekt. For hver gruppe brukes tall fra inntektsstatistikken, der de sentrale elementene er arbeidsinntekt og bruk av skattefinansierte kontantytelser og tjenester. En avgjørende forutsetning i beregningene er at aldersforskjellene for en variabel slik dette framkommer i 2013, også forteller hvordan disse beløpene utvikler seg over livsløpet. Et eksempel: Man observerer arbeidsinntekten i 2013 for menn fra landgruppe 3 som er henholdsvis 30 og 31 år gamle. Da antas det at de mennene som er 31 år i 2014, har den samme arbeidsinntekten som 31-åringene hadde i 2013, før det korrigeres for generell lønnsvekst.
+
+Denne metoden gir et dekkende bilde av dynamikken over et gjennomsnittlig livsløp når kohortene er like, det vil si at viktige kjennetegn og relevant atferd i gruppene ikke endres mye over tid. Denne forutsetningen vil i praksis aldri være oppfylt. Aldersprofilene kan gi likevel en tilstrekkelig god beskrivelse av livsløp, fordi usikkerheten – som alltid er forbundet med framskrivinger – ikke gjør framskrivingene opplagt optimistiske eller pessimistiske. Det kan f.eks. tenkes at nye eller framtidige innvandrere fra såkalte lavinntektsland har bedre forutsetninger for å lykkes i det norske arbeidsmarkedet framover enn det historien har vist. Mange av dem er bedre utdannet, og integreringspolitikken har i økende grad lagt vekt på kvalifisering og tilrettelegging for deltakelse i arbeidslivet. Det motsatte kan imidlertid også være tilfellet, f.eks. hvis det blir vanskeligere enn tidligere for innvandrere med forholdsvis lav kompetanse å få innpass i framtidens arbeidsmarked. Senere i dette kapitlet undersøkes det hvordan ulike forløp for integrering av flyktninger kan påvirke bidragene til offentlige inntekter og utgifter.
+
+Dette kapitlet beskriver noen hovedresultater fra SSBs beregninger. Alt i alt tegner analysen tilnærmet det samme bildet som i 2011 – konsekvensene for norsk økonomi og offentlige finanser av økt innvandring avhenger først og fremst av hvor godt en lykkes med å få innvandrere i arbeid. Det er en utfordring at en stor andel flyktninger har svak tilknytning til arbeidsmarkedet og er avhengige av støtte fra det offentlige til livsoppholdet.
+
+Den demografiske utviklingen vil ha konsekvenser for økonomien og statsfinansene særlig gjennom endringer i alderssammensetning og endringer i befolkningsandelene for forskjellige innvandrergrupper. Yrkesinntekt, mottak av offentlige overføringer og bruk av skattefinansierte tjenester varierer både med alder og mellom forskjellige befolkningsgrupper. Kapittel 8.6.2 beskriver befolkningsutviklingen under ulike antakelser om framtidig innvandring. Kapittel 8.6.3 viser at aldringen av befolkningen er hovedutfordringen for offentlige finanser, og at omfanget av denne hovedutfordringen vil avhenge av hva som forutsettes om innvandring. Kapittel 8.6.4 belyser nærmere hvordan den økonomiske atferden historisk har variert mellom ulike grupper i befolkningen, og hvilke konsekvenser et slikt mønster kan få framover.
+
+1.  **Befolkningsutviklingen**
+
+Når modellen som brukes i beregningene deler befolkningen inn i forskjellige grupper landbakgrunn (se nærmere omtale av de ulike landgruppene i kap. 2.4), er det for å fange opp viktige forskjeller mellom gruppene med hensyn til gjennomsnittspersonenes bidrag til offentlige inntekter og bruk av skattefinansiert velferd (se vedlegg 3). Beregningene bygger på hovedalternativet i SSBs befolkningsframskrivinger fra 2016. Her øker Norges samlede folketallet fra 5,3 mill. i 2016 til 7,3 mill. i 2060, og videre til nær 8,5 mill. i 2100 (se figur 8.3). Den samlede årlige innvandringen ligger mellom 60 000 og 70 000 personer i det meste av dette århundret. Det er særlig innvandringen fra landgruppe 3 som øker, fra 0,39 mill. ved inngangen til 2016 til 1,6 mill. i 2100. Innvandringen fra landgruppene 1 og 2 endres forholdsvis lite. Den norskfødte befolkningen vokser fra 4,45 mill. i 2016 til 5,4 mill. i 2100. En betydelig del av veksten i den norskfødte befolkningen består av barn som har utenlandsfødt far *eller* mor.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Norges befolkning i hovedalternativet 2016–2100 etter landbakgrunn. Millioner personer. Antall i 2100 er angitt
+
+Statistisk sentralbyrå
+
+Etter en nedgang siden 1990 ligger det an til at andelen eldre dobles fram mot slutten av århundret (se figur 8.4). Mens det i dag er godt over fire yrkesaktive per person over 67 år, vil det i 2100 kun være om lag to yrkesaktive per person over 67 år. Forholdstallet mellom antall eldre og antall personer i yrkesaktiv alder omtales gjerne som demografisk forsørgerbyrde. Økningen i forsørgerbyrden bærer bud om utfordringer for offentlige finanser (se kap. 8.6.3).
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Forholdet mellom antall personer som er 67 år og eldre, og antall mellom 20 og 66 år. Framskrivinger basert på SSBs hovedalternativ. Prosent
+
+Statistisk sentralbyrå
+
+1.  **Konsekvensene for offentlige finanser av aldring og innvandring**
+
+Velferdsstaten innebærer en betydelig omfordeling over livsløpet. Barn, ungdom og eldre er netto mottakere av offentlig finansierte tjenester og overføringer. Befolkningen i yrkesaktiv alder står for størsteparten av innbetalingene av skatt og er netto bidragsytere. Dette mønsteret betyr at offentlige finanser i vesentlig grad påvirkes av endringer i sammensetningen av befolkningen. En økning i andelen eldre i befolkningen vil isolert sett trekke opp utgifter til helse- og omsorgstjenester og pensjoner og svekke sysselsettingen og dermed grunnlaget for skatteinntekter.
+
+Med utgangspunkt i hovedalternativet i SSBs befolkningsframskrivinger fra 2016, viser Holmøy mfl. (2017b) hvordan offentlige utgifter ligger an til å øke raskere enn offentlige inntekter framover.[^333] En slik utvikling i offentlige utgifter og inntekter vil gi et økende finansieringsbehov, som tilsvarer den skattebyrden som over tid er nødvendig for å balansere offentlige budsjetter gitt handlingsregelen for bruk av oljepenger. Det økende finansieringsbehovet skyldes både at det blir flere eldre i forhold til yrkesaktive, og at finansieringsbidraget fra Statens pensjonsfond til offentlige budsjetter etter hvert avtar sett i forhold til en voksende økonomi. Finansieringsbehovet øker til 4 pst. av BNP for Fastlands-Norge i 2060. I 2015 tilsvarte 4 pst. av BNP for Fastlands-Norge 104 mrd. kroner.
+
+Analysene viser hvordan endrede forutsetninger for innvandring vil påvirke økonomien og statsfinansene. Størrelsen på norsk økonomi vil naturlig nok avhenge av folketallet. En endring i folketallet vil innebære en endring i sammensetningen av arbeidstilbydere og konsumenter, skattebetalere og mottakere av offentlig velferd. For å isolere de effektene migrasjon har på offentlige finanser, studeres et alternativ der det verken skjer inn- eller utvandring fra og med 2016. I dette hypotetiske alternativet vil befolkningen telle 5,2 mill. i 2060, om lag 2 mill. færre enn i hovedalternativet. Det udekkede finansieringsbehovet blir i 2060 1,6 pst. av fastlands-BNP, sammenliknet med 4 pst. i hovedalternativet. Hovedårsaken til denne styrkingen av offentlige finanser er at avkastningen av oljeformuen deles på færre.
+
+SSBs alternativ med høy innvandring gir en befolkning på 8,2 mill. i 2060, som er 1 mill. mer enn i hovedalternativet. Innvandring fra landgruppe 3 bidrar klart mest til befolkningsveksten. Høyere innvandring betyr at oljeformuen må deles på flere personer. Høy innvandring fra landgruppe 3 øker befolkningsandelen i yrkesaktiv alder. Denne effekten motvirker i stor grad effekten av lavere aldersspesifikk sysselsettingsgrad. Det udekkede finansieringsbehovet for offentlige utgifter i alternativet med høy innvandring anslås til 5,1 pst. av fastlands-BNP. Sett i forhold til de store utslagene endrede forutsetninger om innvandring har for befolkningsantallet, framstår utslagene på finansieringsbehovet for offentlige finanser som forholdsvis beskjedne.
+
+1.  **Nærmere om innvandringens konsekvenser for offentlige finanser**
+
+Dette kapitlet ser mer detaljert på hvordan isolerte endringer i innvandringen fra ulike landgrupper kan påvirke offentlige finanser, gitt de forutsetningene som beskrives i kapittel 8.6.1. Mens de makroøkonomiske framskrivingene i kapittel 8.6.3 ivaretar virkningene av etterkommere, vil et såkalt *livsløpsperspektiv* belyse hvordan én innvandrer, under gitte forutsetninger om inntekt, yrkesdeltakelse og bruk av statsfinansierte tjenester, bidrar til offentlige inntekter og utgifter i løpet av sitt liv i Norge. Det legges til grunn at innvandrerne kommer i 2016, og resultatene presenteres som nåverdien av bidragene til offentlige nettoutgifter. Beregningene er gjort ved hjelp av samme modell som ble brukt i makroberegningene.
+
+Livsløpsberegningene rendyrker hvordan «innvandreratferd» påvirker offentlige finanser i forhold til norskfødtes atferd. Dette har særlig relevans når man studerer flyktninger og andre grupper som har problemer med å bli integrert i arbeidsmarkedet etter ankomsten. Integreringsfasen har svært stor innvirkning på hvor mye en innvandrer senere bidrar til skatteinntektene og bruker av skattefinansiert offentlig velferd. Beregningene gir grunnlag for å se på effekter av forskjellige forutsetninger om integrering av flyktninger (omtale til slutt i dette kapitlet). Livsløpsberegninger skiller seg fra såkalte slektsberegninger, som var grunnlaget for analysene i NOU 2011: 7. Disse beregningene er omtalt i boks 8.2.
+
+Det gjøres sammenlikninger mellom et individ fra den norskfødte befolkningen og et individ fra landgruppe 3 som innvandrer til Norge som 25-åring. Landgruppe 3 vil være sammensatt av flyktninger, arbeidsinnvandrere og innvandrere som har familiegjenforening som innvandringsgrunn. Det ses i første omgang bort fra spesifikke flyktningkostnader knyttet til asylmottak og introduksjonsordningen, men landgruppe 3-innvandrernes gjennomsnittlige mottak av introduksjonsstønad er inkludert. Det ses også bort fra gjenutvandring og at innvandreren «tiltrekker seg» sekundærinnvandring gjennom familieinnvandring.
+
+Det kan være lettere å tolke årlige beløp enn summer over et helt livsløp, noe som kan oppnås ved å dividere nåverdiene for hele livet på antall forventede leveår for nyfødte. Ifølge SSBs hovedalternativ er disse 93 år for kvinner og 91 år for menn. Siden innvandrerne forutsettes å komme når de er 25 år, kan det være hensiktsmessig å dividere nåverdien på antall forventede gjenværende leveår etter 25 år, som er 66 og 64 år for henholdsvis kvinner og menn.
+
+Beregningene viser at nettobidraget til det offentlige som kan knyttes til en norskfødt mann fra han er 25 år og ut livet i gjennomsnitt utgjør om lag 54 000 kr per år (tabell 8.1). Tilsvarende tall for en mann fra landgruppe 3 er minus 94 000 kr. Forskjellen kan bl.a. ses i sammenheng med at man i hovedsak utelater investeringen i utdanning fra regnestykket for den norskfødte ved å starte på 25 år, mens avkastningen i form av høyere sysselsetting og lønn enn innvandreren tas med. For personen fra landgruppe 3 kan det på den annen side påløpe store kostnader knyttet til kompetanseheving og arbeidsmarkedstiltak i årene etter at han ankommer som 25-åring. Hvis beregningene for den norskfødte i stedet hadde startet ved 0 år, slik at de også fikk med seg barne- og ungdomsårene, ville det gjennomsnittlige nettobidraget til det offentlige vært minus 23 000 kr per år.
+
+1.  Bidrag til offentlige finanser over menns livsløp fra ankomst i 2016 som 25-åring (og fra fødsel for norskfødte). 1000 2013-kroner per mann per år.<sup>1</sup>
+
+|  |  |  |  |  |  |  |  |
+|----|----|----|----|----|----|----|----|
+|  | Norskfødte |  | Landgruppe 3 |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  | Inntekt | Utgift | Nettoutgift |  | Inntekt | Utgift | Nettoutgift |
+|  |  |  |  |  |  |  |  |
+| Per gjenstående leveår fra fødsel | 208 | 231 | 23 |  |  |  |  |
+| Per gjenstående leveår fra 25 år | 298 | 244 | -54 |  | 149 | 243 | 94 |
+|  |  |  |  |  |  |  |  |
+
+<sup>1</sup> Beløpene i ulike år er neddiskontert til 2013-kroner med rente lik 3 prosentvekst. Summen av beløpene er dividert på gjenstående leveår.
+
+Holmøy, E. mfl. (2017a)
+
+Bidraget til offentlige finanser fra en norskfødt kvinne fra hun er 25 år og ut livet utgjør i gjennomsnitt om lag minus 99 000 kr per år, se tabell 8.2. For en kvinne fra landgruppe 3 er det tilsvarende tallet minus 170 000 kr per år. Forskjellen mellom kvinner og menn må ses i lys av at kvinner føder barn og lever lenger (flere år med negative nettooverføringer), og at de fleste barnerelaterte stønader, herunder dekning av lønn i fødselsrelatert permisjon, utbetales til kvinner. I tillegg har kvinner i gjennomsnitt lavere lønn i arbeidslivet og lavere yrkesaktivitet enn menn, også når det korrigeres for barnefødsler. Regnet fra fødselen vil bidraget til offentlige finanser fra en norskfødt kvinne i gjennomsnitt utgjøre om lag minus 136 000 kr per år.
+
+1.  Bidrag til offentlige finanser over kvinners livsløp fra ankomst i 2016 som 25-åring (og fra fødsel for norskfødte). 1000 2013-kroner per kvinne per år.<sup>1</sup>
+
+|  |  |  |  |  |  |  |  |
+|----|----|----|----|----|----|----|----|
+|  | Norskfødte |  | Landgruppe 3 |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  | Inntekt | Utgift | Nettoutgift |  | Inntekt | Utgift | Nettoutgift |
+|  |  |  |  |  |  |  |  |
+| Per gjenstående leveår fra fødsel | 113 | 249 | 136 |  |  |  |  |
+| Per gjenstående leveår fra 25 år | 165 | 264 | 99 |  | 80 | 256 | 170 |
+|  |  |  |  |  |  |  |  |
+
+<sup>1</sup> Beløpene i ulike år er neddiskontert til 2013-kroner med rente lik 3 prosentvekst. Summen av beløpene er dividert på gjenstående leveår.
+
+Holmøy, E. mfl. (2017a)
+
+Landgruppeinndelingen til SSB gir ikke grunnlag for å studere konsekvenser for offentlige finanser av flere flyktninger spesielt. Flyktninger vil typisk tilhøre landgruppe 3, men de er ikke skilt ut. I beregningene er det konstruert ulike typologier, det vil si tenkte økonomiske livsløp for flyktningen under ulike forutsetninger om integrering i arbeidsmarkedet.[^334] Her vises effektene av ulike typer mannlige flyktninger som er 25 år ved ankomst og som ikke utvandrer. Det ses bort fra effekter som knytter seg til innvandrerens barn, barnebarn osv. Forløpene er (tilnærmet) identiske de første tre årene i Norge: 365 dager tilbringes i asylmottak før opphold og bosetting. De følger så introduksjonsprogrammet i de to følgende årene. Deretter beregnes bidragene til offentlige inntekter og utgifter av fire forløp:
+
+1.  *Maksimal økonomisk integrering*: Den økonomiske atferden er den samme som for en innvandrer fra landgruppe 2. Dette betraktes som det maksimale man kan regne med for en forholdsvis bred gruppe av flyktninger fra lavinntektsland.
+
+<!-- -->
+
+1.  *Minimal økonomisk integrering*: Flyktningene kommer ikke i jobb som gir nevneverdig inntekt. De forsørges i stedet av offentlige overføringer, som ganske raskt blir uføretrygd lik 2,48 G fram til alderspensjon som blir lik garantipensjonen.
+
+2.  *Vellykket, men ufullkommen økonomisk integrering*: Yrkesinntekten per person øker til et uveid gjennomsnitt av gjennomsnittene for innvandrere fra landgruppe 2 og 3. Det samme gjelder forløpet for samlede offentlige overføringer.
+
+3.  *Videreføring av forløpet som har vært vanlig hittil*: [^335] Dette innebærer blant annet at sysselsettingsandelen øker fra 0 til 65 pst. i løpet av sju år, for deretter å avta, slik de typiske forløpene for mannlige flyktninger har gjort. Yrkesinntekten per sysselsatt antas lik gjennomsnittet av yrkesinntekten for dem i landgruppe 2 og 3 som har yrkesinntekt som hovedinntekt. Andelen som mottar helserelaterte ytelser øker med 2 prosentenheter hvert år etter bosetting.
+
+Figur 8.5 viser hvordan offentlige nettoutgifter utvikler seg i de fire alternativene. For sammenlikningens skyld viser figuren også tilsvarende livsløpsberegninger for gjennomsnittet av mannlige innvandrere fra landgruppe 2 og 3 som er 25 år ved ankomst. Nesten hele forskjellen i yrkesaktiv alder kommer fra bidraget til skatteinntekter. Etter alderspensjonering er forskjellene ganske små, og utgiftene til helse og omsorg er da de samme. Alderspensjonssystemet sørger fortsatt for betydelig utjevning, og aldersspesifikk dødelighet er lik for alle grupper. I 2031, når flyktningene er 40 år gamle, gir de maksimalt integrerte et nettobidrag på 240 000 2013-kroner til offentlige finanser, mens de ikke-integrerte bidrar med minus 258 000 2013-kroner, altså en forskjell i dette ene året på nesten en halv million kroner, målt i dagens kroneverdi.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Bidrag til offentlige netto utgifter per ny mannlig flyktning som ankommer som 25-åring i 2016. 1 000 2013-kroner.
+
+Holmøy, E. mfl. (2017a)
+
+1.  **Hvor mye betyr det for offentlige finanser at innvandrere har etterkommere?**
+
+Slektsberegningene skiller seg fra livsløpsberegningene på tre måter. For det første inkluderer de ikke bare bidragene til offentlige inntekter og utgifter fra innvandrerne selv, men også bidragene fra de norskfødte etterkommerne. Det forutsettes at etterkommerne har samme økonomiske atferd som andre norskfødte. For det andre studerer de ikke en bestemt innvandrertypologi, men en gruppe på 10 000 innvandrere som ankommer i 2016. Gruppen er fordelt på kjønn og alder i tråd med observasjoner for de siste årene. Virkningene sammenliknes med 10 000 flere norskfødte uten innvandrerbakgrunn i 2016. Virkningene divideres på 10 000 for å få gjennomsnittsvirkninger per ekstra innbygger. For det tredje tas det hensyn til gjenutvandring.
+
+De økonomiske virkningene av en gitt økning i innbyggertallet i 2016 avhenger av hvor de ekstra innbyggerne kommer fra, både fordi individene i de fire landgruppene har ulik alder for gitt kjønn, og fordi det befolkningstilskuddet som over tid genereres av den ekstra innvandringen, utvikler seg ulikt. Befolkningstilskuddet reduseres forholdsvis raskt når innvandrerne kommer fra landgruppe 1 og 2, i første rekke på grunn av gjenutvandring. Tilskuddet holder seg høyere ved innvandring fra landgruppe 3 som følge av lavere gjenutvandring og flere ekstra fødsler. Befolkningstilskuddet blir klart størst ved flere norske fødsler, fordi lav utvandring i denne gruppen betyr langt flere kvinner i fruktbar alder 20–40 år senere.

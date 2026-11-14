@@ -1,1052 +1,216 @@
-# Meld. St. 17 (2023–2024), del 4 av 16 (side 39–49)
+# Meld. St. 17 (2023–2024), del 4 av 17
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/meldinger/2024/a527c25f-meld-st-17-20232024.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/meld.-st.-17-20232024/id3030469/
 - Original-PDF: https://www.regjeringen.no/contentassets/0b74b84e746a452eb0b64a88c873a6fe/no/pdfs/stm202320240017000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller, 25 figurer, 176 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 39]
-
-2023–2024
-
-Meld. St.17
-Om integreringspolitikken: Stille krav og stille opp
-
-For dem som ikke går i introduksjonsprogram,
-eller kan ivareta sitt livsopphold gjennom arbeid
-eller ved å gjøre gjeldende andre økonomiske rettigheter, vil dette normalt være eneste mulighet.
-Økonomisk sosialhjelp kan også gis som et supplement til introduksjonsstønaden, dersom vilkårene for dette er oppfylt. Barnefamilier mottar barnetrygd etter ett år. Barn har rett og plikt til
-grunnskoleopplæring, og ungdommer har rett til
-videregående opplæring etter søknad. Rett til barnehageplass inntrer etter bosetting og etter søknad. Flyktninger i mottak mottar en basisytelse
-som skal dekke en beboers personlige utgifter.
-Ytelsen er nøktern og varierer med alder og livssituasjon, og for beboere i mottak med og uten kantine.
-
-3.3.3 Samordning og koordinering
-De høye ankomstene har gitt behov for styrket
-samordning og koordinering mellom ulike aktører både i staten og kommunesektoren. Nasjonalt
-utvalg for mottak og bosetting av flyktninger har
-gjennom ordinære og ekstraordinære møter hatt
-en viktig rolle for å bidra til at stat og kommune
-kunne få en felles situasjons- og problemforståelse. Utvalget har vedtatt nye måltall for bosettingsbehov, formidlet utfordringsbildet i kommunene til regjeringen og fremmet forslag til tiltak
-for å håndtere situasjonen. Nasjonalt utvalg er forankret i samarbeidsavtalen mellom kommunesektoren ved KS og staten. Dette har gitt utvalget en
-god plattform for å etablere felles forståelse og felles ansvar for situasjonen.
-Det er i tillegg etablert særlig tre strukturer
-som skal bidra til styrket samordning og koordinering. For det første inviterer arbeids- og inkluderingsministeren til jevnlige felles møter for
-kommuner, fylkeskommuner og statsforvaltere
-mv. Møtene gir en plattform for informasjons- og
-kunnskapsdeling om ankomstene og bosettingen,
-og om erfaringer og utfordringer i arbeidet. Temaene har handlet om alt fra boligframskaffelse og
-rask arbeidsmarkedsintegrering til tilrettelegging
-av tilbud for barn og unge og den sikkerhetspolitiske situasjonen.
-For det andre er det etablert et tverrdepartementalt møte i regi av AID og JD for informasjonsutveksling mellom relevante departementer og
-etater. Møtet skal både gi et felles informasjonsgrunnlag om ankomst- og bosettingssituasjonen
-og et oppsamlingspunkt for utfordringer i de ulike
-sektorene. I tillegg har Direktoratet for samfunnssikkerhet og beredskap (DSB) videreført beredskapsforumet med statsforvalterne fra pande-
-
-37
-
-mien, med mottak og ankomst av flyktninger som
-fast tema. UDI, Politiets utlendingsenhet, Helsedirektoratet og IMDi har hatt jevnlige koordineringsmøter i denne forbindelse.
-For det tredje er det etablert en scenariogruppe under UDI som jevnlig utarbeider et realistisk scenario for ankomster av fordrevne fra
-Ukraina. Gruppen gir et felles planleggingsgrunnlag på tvers av både statlig og kommunal sektor,
-se boks 3.2.
-
-3.3.4 Rask bosetting i hele landet
-For å håndtere høye ankomster fra Ukraina ble
-alle landets kommuner allerede 18. mars 2022
-anmodet om å bosette til sammen 35 000 flyktninger. Det satte kommunene i en ekstraordinær situasjon. Siden 2016 hadde ankomstene av asylsøkere vært lave, og mange kommuner hadde i 2022
-ikke bosatt siden da. Kommuner som var vant til å
-bosette flyktninger, måtte oppskalere eksisterende tjenester. Mindre distriktskommuner
-uten eller med svært begrenset erfaring med
-bosetting, måtte bygge opp tjenesteapparatet på
-nytt for å møte bosettingsbehovet.
-
-Boks 3.2 Scenarioarbeidet for
-ankomster av fordrevne fra Ukraina
-Det ble etablert to arbeidsgrupper i scenarioarbeidet. Den ene arbeidsgruppen vurderte
-scenarioer for ankomster av flyktninger til
-Norge, og besto av UDI, Politiets utlendingsenhet, Kripos og Landinfo. Her deltok også to forskere, som eksperter innen migrasjon.1 Den
-andre arbeidsgruppen vurderte konsekvenser
-knyttet til behov for mottaksplasser og bosetting, og besto av UDI, IMDi og DSB.
-I utviklingen av scenarioene ble det vektlagt følgende faktorer:
-– Situasjonen i Ukraina; den humanitære
-situasjonen, hvordan krigen utvikler seg og
-muligheter for å reise ut av Ukraina
-– Situasjonen i land som grenser til Ukraina;
-muligheter for arbeid, bolig og skolegang
-– EUs håndtering av flyktningene; grad av
-myndighetsstyrt
-sekundærflyttinger,
-muligheter for arbeid, bolig og skolegang
-– Hvor stor andel av flyktningene som velger
-å reise til Norge
-1
-
-Guri Tyldum (Fafo) og Jan Paul Brekke (Institutt for
-samfunnsforskning)
-
-[Side 40]
-
-38
-
-Meld. St.17
-Om integreringspolitikken: Stille krav og stille opp
-
-2023–2024
-
-Boks 3.3 Midlertidige lovendringer for boligframskaffelse i kommunene
-Det er innført midlertidige lovendringer i plangjelder likevel fullt ut for nye boliger. Hovedutog bygningsloven og husleieloven som skal
-fordringen for oppføring av nye boliger vil
-bidra til å framskaffe flere utleieboliger ved
-gjerne være forholdet til arealplaner. Beredboligmangel som følge av at det kommer mange
-skapsbestemmelsen åpner for å kunne sette til
-fordrevne fra Ukraina. I plan- og bygningsloven
-side både arealformål og planbestemmelser,
-er det innført en midlertidig unntaksregel som
-men det kan ikke gis unntak dersom det kan
-gjør det lettere blant annet å ta i bruk en fritidsvanskeliggjøre gjennomføring av planer.
-bolig som bolig. Selv om beredskapsbestemmelI husleieloven er det innført et unntak fra
-hovedregelen om å leie ut i minst tre år. Unntasen i første rekke er ment for midlertidige tiltak,
-ket betyr at avtale om utleie av fritidsbolig som
-åpner bestemmelsen for at kommunene kan gi
-bolig kan inngås med minstetid på ett år, så
-unntak for å oppføre nye, varige boliger. Adganlenge fritidsboligen er godkjent til bruk som
-gen er kun ment som en sikkerhetsventil som
-bolig etter plan- og bygningsloven. Direktoratet
-kommunene kan ta i bruk dersom det ikke er
-for byggkvalitet har i samarbeid med Husleietmulig å framskaffe nok boliger på annen måte.
-Eventuelle nye boliger som oppføres, vil trolig i
-vistutvalget og Kommunal- og distriktsdeparteførste rekke være standardiserte bygningstyper,
-mentet også laget nettsiden Boligdugnaden.no,
-slik at de kan oppføres raskt og til lavere kostnase omtale under pkt. 15.1.3.
-der. Minimumskravene i byggteknisk forskrift
-
-Til tross for at de høye ankomstene har vedvart over lang tid, og situasjon i mange kommuner
-har vært presset, har det vært stor vilje og evne til
-bosetting. I 2022 ble det bosatt 31 258 flyktninger
-og fordrevne, dobbelt så mange som i det tidligere
-rekordåret 2016. 87 prosent var fordrevne fra
-Ukraina. 2023 overgikk 2022, med 33 701 bosettinger gjennom året, 88 prosent fordrevne fra
-Ukraina. Til sammenlikning ble det bosatt om lag
-4 400 flyktninger i 2021 og 2 800 i 2020.
-Samtidig som det ble bosatt ekstraordinært
-mange flyktninger i hele landet, gikk bosettingen
-raskere enn noen gang. Den gjennomsnittlige
-ventetiden fra vedtak om opphold til bosetting i
-kommunene var på om lag 2,5 måneder både i
-2022 og 2023. Den raske bosettingen skyldtes
-blant annet en enorm vilje i kommunene til å
-bosette. Mindre kommuner og distriktskommuner har bosatt klart flest relativt til befolkningsstørrelse, se også omtale under pkt. 7.2.
-
-3.3.5
-
-Press på bosettingen og tiltak for økt
-arbeidsretting
-
-Krigen mot Ukraina gikk inn i sitt andre år i 2023.
-Den humanitære og sikkerhetsmessige situasjonen i deler av Ukraina var fortsatt svært krevende.
-Arbeidslivet var også hardt rammet, og antallet
-som levde under fattigdomsgrensen, hadde økt
-drastisk. Det ble klart at flyktningsituasjonen ville
-bli mer langvarig enn man først hadde tatt høyde
-
-for. En mer langvarig situasjon med svært høye
-ankomster av flyktninger utfordrer kapasiteten i
-kommunene. For å møte denne situasjonen foreslo regjeringen våren 2023 både å forlenge de
-midlertidige
-lovendringene
-med
-enkelte
-endringer, i tillegg til en rekke tiltak for å understøtte bosetting og integrering, jf. Prop. 90 L
-(2022–2023) og Prop. 118 S (2022–2023).
-For å støtte kommunene i å bygge opp kapasiteten og øke bosettingen, ble det våren 2023 innført et tilskudd på 50 000 kroner for hver flyktning
-kommunen bosetter utover det antallet den opprinnelig ble anmodet om fra IMDi. For å støtte opp
-under kommunenes bosetting av personer med
-alvorlig nedsatt funksjonsevne eller atferdsvansker ble også maksbeløpet økt for ekstratilskudd ved bosetting av personer fra to av UDIs
-særskilte boløsninger. Samtidig ble tilskudd til
-utleieboliger under Husbanken midlertidig gjeninnført med en ramme på 400 mill. kroner, blant
-annet for å bidra til rask bosetting av ukrainske
-flyktninger i kommunene.
-Erfaringene med de første som ble bosatt i
-2022, tilsa at engelskkunnskapene blant de fordrevne var mer begrenset enn først forutsatt. Det
-store flertallet behersket ikke tilstrekkelig
-engelsk til å kunne klare seg på det norske
-arbeidsmarkedet.6
-6
-
-Hernes mfl., 2022.
-
-[Side 41]
-
-2023–2024
-
-Meld. St.17
-Om integreringspolitikken: Stille krav og stille opp
-
-For å gi økt mulighet for språkopplæring, ble
-derfor tilskuddet til opplæring i norsk utvidet, slik
-at kommunene skulle få mulighet til å gi opplæring i norsk ut over ett år til fordrevne fra Ukraina
-som har behov for det. Majoriteten av de fordrevne fra Ukraina har minst videregående utdanning og har i tråd med dette rett på introduksjonsprogram i seks måneder, som ved behov kan utvides med ytterligere seks måneder. Over fire av
-fem fordrevne fulgte introduksjonsprogram og
-norskopplæring. Mange skulle derfor fra sensommeren 2023 gå ut av introduksjonsprogrammet og være klare for arbeid.
-Regjeringen satte i mai 2023 ned en hurtigarbeidende gruppe for å få innspill og forslag til tiltak som kunne bidra til å styrke arbeidet med å få
-fordrevne fra Ukraina ut i arbeid, se nærmere
-omtale i pkt. 3.6.5. I lys av både rapporten til den
-hurtigarbeidende gruppen og av økende ankomster av fordrevne fra Ukraina sommeren og høsten 2023, besluttet regjeringen flere tilpasninger i
-integreringsregelverket for å bidra til raskere
-overgang til arbeid for ukrainere. Introduksjonsprogrammet ble spisset gjennom tydeligere
-arbeidsretting gjennom krav til arbeidsrettet innhold etter tre måneder, og det ble stilt strengere
-krav til arbeid eller arbeidspraksis for å få forlengelse. Regjeringen fikk også gjennom behandlingen av statsbudsjettet for 2024 støtte i Stortinget
-for midler til et nasjonalt digitalt lærerstyrt tilbud
-om norskopplæring. Målet er at norskopplæringen skal bli mer fleksibel og lettere å kombinere
-med jobb.7
-
-3.3.6
-
-Tiltak for en mer bærekraftig
-innvandring
-
-I den tidlige fasen kom det flere fordrevne til våre
-naboland enn til Norge. Per 21. april 2022 hadde
-Sverige registrert 28 000 fordrevne fra Ukraina,
-mens Danmark og Finland hadde registrert henholdsvis 23 000 og 19 000. I tilsvarende periode
-hadde man i Norge registrert om lag 15 000 søknader om beskyttelse fra fordrevne fra Ukraina.
-Dette bildet endret seg fra sensommeren 2022, da
-ankomstene til Norge økte, mens de gikk ned i
-Danmark og Sverige.
-Gjennom hele 2023 mottok Norge en høy
-andel av de fordrevne til Norden. I slutten av
-7
-
-Ukrainere med videregående opplæring fra før får tilbud
-om minst 15 timer arbeidsrettede elementer i uken som del
-av introduksjonsprogrammet, eller at arbeidsrettede elementer må utgjøre 50 prosent av programtiden. I tillegg ble
-det innført et tilskudd til å etablere et digitalt system for
-norskopplæring.
-
-39
-
-august 2023 økte Norges andel fra om lag 40 til 60
-prosent. Dette skyldtes i hovedsak økte ankomster til Norge som ikke ble speilet i øvrige nordiske land, men også en nedgang i ankomstene,
-særlig til Finland.
-De høye ankomstene høsten 2023 skapte
-bekymring for at et vedvarende høyt, og kanskje
-økende, ankomstnivå over tid ville gi store utfordringer i kommunene og i ankomst- og mottakssystemet. Særlig i en situasjon der kommunene
-allerede hadde en lang periode med svært høy
-bosetting bak seg, var det bekymring for om det
-ville være mulig å opprettholde samme tempo i
-bosettingen som før.
-Regjeringen er opptatt av at vi fortsatt skal ha
-kontroll på innvandringen og integreringen. For å
-fortsette å ta imot fordrevne fra Ukraina på en
-kontrollert måte, og sikre et forsvarlig tjenestetilbud i kommunene, har regjeringen kommet med
-en rekke forslag som skal bidra til å bringe
-ankomstene til Norge nærmere nivåene i våre
-naboland:
-– Det er strammet inn på anledningen til å reise
-fram og tilbake mellom Ukraina og Norge.
-– Det tilbys ikke lenger innkvartering eller transport til ukrainere som reiser til andre steder
-enn Nasjonalt ankomstsenter i Råde kommune.
-– Forslag om å kutte ordningen med etterbetaling av barnetrygd har vært på høring.
-– Det informeres aktivt om at det er krav om
-botid i Norge for å få tilgang til en rekke ytelser
-gjennom folketrygden.
-– Ukrainere vil ikke lenger få økonomisk støtte
-dersom de velger å bo privat i stedet for i asylmottak.
-– Staten vil ikke lenger dekke kostnader for kjæledyr for nyankomne i asylmottak. I praksis vil
-det ikke være anledning til å bo i asylmottak
-med kjæledyr for nyankomne.
-– Regjeringen vil innføre et krav om fem års
-botid for retten til delvis vederlagsfri tannhelsehjelp til personer mellom 19 og 24 år.
-– Regjeringen vil innføre et botidskrav på 12
-måneder for rett til engangsstønad.
-– Regjeringen vil innføre krav om lengre botid i
-Norge for å motta grunn- og hjelpestønad. I dag
-er det ingen botidskrav for disse ytelsene.
-– Regjeringen vil kutte i introduksjonsstønaden
-for ektefeller og samboere uten barn med totalt
-om lag 6 000 kroner i måneden.
-Endringene knyttet til botid, tannhelse og introduksjonsstønad er sendt på høring. Regjeringen
-følger situasjonen tett og er forberedt på å kunne
-
-[Side 42]
-
-40
-
-Meld. St.17
-Om integreringspolitikken: Stille krav og stille opp
-
-2023–2024
-
-Boks 3.4 Medevac-ordningen (medisinsk evakuering)
-gjennom medevac-ordningen. Av disse kom det
-Norge har siden 2022 tilbudt faste flygninger til
-om lag 140 pasienter i 2022.
-europeiske land for medisinsk evakuering av
-pasienter fra Ukraina. Det er forventet at behoMedevac-pasienter innvilges midlertidig kolvet for medisinsk evakuering av ukrainske pasilektiv beskyttelse og har samme rettigheter som
-øvrige fordrevne fra Ukraina. Erfaringer viser at
-enter vil vedvare. Norge har etter anmodning fra
-medevac-pasienter ofte blir værende i Norge
-EU forpliktet seg til å tilby transportkapasitet for
-etter at de er skrevet ut fra sykehus. Dette kan
-medisinsk evakuering til og med november
-blant annet henge sammen med at de fortsatt
-2024.
-har behov for behandling i spesialisthelseSykehusene skal få dekket kostnadene til
-tjenesten (poliklinikk, rehabilitering mv.) eller i
-medevac-pasienter. Ved utgangen av november
-den kommunale helse- og omsorgstjenesten.
-2023 har Norge tatt imot om lag 340 pasienter
-
-komme raskt tilbake med ytterligere tiltak dersom situasjonen tilsier det.
-
-3.4
-
-Status for bosetting og integrering
-av de fordrevne
-
-3.4.1 Situasjonen i kommunene
-Selv om bosettingsviljen i kommunene fortsatt er
-sterk, melder flere kommuner nå om sammensatte utfordringer. Tilgangen på boliger er den
-største bekymringen. Samtidig er også kapasiteten i tjenestene strukket i mange kommuner, ikke
-minst i helsetjenestene og i barnehager og skoler.
-Behovet for kollektivtransport, og da særlig transport i distriktskommuner for å komme seg til
-skole, opplæringstilbud og arbeid, trekkes også
-fram. Videre vises det til mangel på kompetanse
-og utfordringer med å få tak i kompetent personell, samt en bekymring om hvordan bosatte flyktninger skal komme raskere ut i jobb. Det er usikkerhet i kommunene om utviklingen framover, og
-de melder om et stort informasjonsbehov når det
-gjelder mottak og bosetting av flyktninger.
-Regjeringen er opptatt av å bidra til å avhjelpe
-situasjonen, og er derfor innstilt på å videreføre
-og videreutvikle de midlertidige lovendringene
-som har vært gjeldende siden sommeren 2022. Et
-forslag har vært på høring og vil fremmes for Stortinget i løpet av våren. Samtidig har regjeringen
-kommet med forslag som skal bidra til å redusere
-ankomstene til Norge, se nærmere omtale i pkt.
-3.3.6.
-I en undersøkelse av hvordan de fordrevne fra
-Ukraina har opplevd møtet med Norge, pekes det
-på oppdatert og forståelig informasjon som en
-
-hovedutfordring. Samtidig er de fordrevne i all
-hovedsak fornøyd med hvordan de har blitt mottatt i Norge.8 Andre utfordringer som framheves,
-er usikkerhet knyttet til når og hvor de vil bli
-bosatt, samt til ulike lokale praksiser for finansiell
-støtte i kommunene.
-Det mangler systematisk informasjon om
-behovet for helsetjenester for flyktninger fra
-Ukraina, som kan skille seg fra behovene til andre
-flyktninggrupper. I en undersøkelse fra Folkehelseinstituttet rapporterte de ukrainske flyktningene dårligere helse på en rekke områder sammenlignet med den norske befolkningen.9 Basert
-på informasjon fra ankomstsenteret på Råde er
-helseutfordringene blant ukrainerne om lag som i
-den norske befolkningen. De høye ankomstene
-fra Ukraina gir likevel mange personer med særskilte tilretteleggingsbehov og store helsemessige utfordringer, og mange kommuner har bosatt
-personer med slike behov. Det har for eksempel
-kommet personer med multifunksjonshemminger, alvorlige somatiske og psykiske sykdommer
-eller krigsskader. Dette har også sammenheng
-med at Norge har tatt imot et betydelig antall gjennom ordningen for medisinsk evakuering, se boks
-3.4.
-Selv om andelen enslige mindreårige har vært
-lav sammenlignet med øvrige asylsøkere, har det
-totale antallet vært høyt. Dette gir også et økt
-press i kommunene og i mottaksapparatet. Så
-langt har likevel de fleste kommet med følgeperson. Andelen eldre har også vært høyere enn normalt.
-8
-9
-
-Hernes mfl., 2022.
-Labberton mfl., 2023.
-
-[Side 43]
-
-2023–2024
-
-41
-
-Meld. St.17
-Om integreringspolitikken: Stille krav og stille opp
-
-8000
-
-25
-
-7000
-20
-6000
-5000
-
-15
-
-4000
-10
-
-3000
-2000
-
-5
-1000
-0
-
-Antall i jobb
-
-des.23
-
-nov.23
-
-okt.23
-
-sep.23
-
-aug.23
-
-jul.23
-
-jun.23
-
-mai.23
-
-apr.23
-
-mar.23
-
-feb.23
-
-jan.23
-
-des.22
-
-nov.22
-
-okt.22
-
-sep.22
-
-aug.22
-
-jul.22
-
-jun.22
-
-mai.22
-
-apr.22
-
-0
-
-Andel i jobb
-
-Figur 3.2 Antall og andel fordrevne ukrainere i jobb 20–66 år.
-Kilde: Berge & Skjæveland, 26. januar 2023. Jobbtallene omfatter ikke selvstendig næringsdrivende.
-
-3.4.2 Integreringsresultater så langt
-Forventningene til at de fordrevne fra Ukraina
-skal komme raskt i arbeid, har vært store. Retten
-til å arbeide inntrer fra det tidspunktet personen
-innvilges midlertidig kollektiv beskyttelse. Erfaringer så langt viser at flertallet av de fordrevne
-ønsker å delta i introduksjonsprogram og språkopplæring først.
-Figur 3.2 viser utviklingen i sysselsettingen av
-fordrevne ukrainere mellom 20 og 66 år som er
-bosatt i Norge. Omtrent en av fem av de om lag
-36 000 ukrainere som var bosatt i desember 2023,
-hadde et arbeidsforhold i Norge. Andelen i jobb
-var svært lav i månedene etter februar 2022, men
-økte gradvis til om lag 10–12 prosent i perioden
-juli 2022 til april 2023. Deretter har andelen i jobb
-ligget rundt 18 til 19 prosent i perioden juli til
-desember 2023. I samme periode har antall
-bosatte i aldersgruppen økt fra 26 900 i juli til
-omtrent 36 000 i desember 2023.
-Rundt 60 prosent av dem som er i jobb, er
-kvinner, og om lag to av tre er under 40 år. Drøyt
-fire prosent er over 55 år. Omtrent en av fem jobber innen overnattings- og serveringsvirksomhet.
-Deretter følger forretningsmessig tjenesteyting,
-industri, helse- og sosialtjenester, primærnæringene og varehandel. Tall fra Arbeids- og velferdsdirektoratet per januar 2024 viser at Troms og
-Finnmark og Nordland har den høyeste andelen
-sysselsatte, med henholdsvis 23 og 19 prosent.
-Lavest andel er det i Vestfold og Telemark og i
-
-Agder med 13 prosent. Videre viser tallene at
-omtrent to av tre ukrainere som er i arbeid, har
-avtalt arbeidstid på minst 30 timer i uken. Det er
-registrert drøye 9 100 ukrainske fordrevne hos
-Arbeids- og velferdsetaten, hvorav over 3 200 er
-registrert i et arbeidsmarkedstiltak og 3 200 er
-registrert som helt ledige.
-Ser vi på sysselsettingen blant flyktninger i
-alderen 20–66 år med mindre enn ett års botid,
-har den ligget på mellom 2,5 og 5,1 prosent i
-fjerde kvartal i perioden 2017 til 2021, se figur 3.3.
-For 2022 er det to søyler. For alle flyktningene
-med under 1 års botid i 2022 var sysselsettingen
-på 6,8 prosent. Blant de ukrainske fordrevne som
-kom i 2022 var 9,2 prosent i arbeid, til tross for at
-de fleste ble bosatt relativt sent på året. Men også
-for flyktninger med kort botid er det store forskjeller mellom ulike grupper.10
-Sammenlignet med noen europeiske land er
-det relativt få personer blant de fordrevne som er
-sysselsatt i Norge så langt. Det har trolig sammenheng med hva som tilbys ukrainske fordrevne i
-Norge sammenlignet med andre land, slik som
-norskopplæring, kvalifisering, arbeidsmarkedstiltak mv. For eksempel har ukrainske fordrevne
-mellom 18 og 55 år rett til å delta i introduksjonsprogram i Norge. Dette er med på å forklare den
-relativt lave andelen i arbeid. Per januar 2024 deltok i underkant av 15 000 ukrainske fordrevne i
-introduksjonsprogrammet. Andelen ukrainere i
-10
-
-SSB statistikkbanken, tabell 12694 og 11609.
-
-[Side 44]
-
-42
-
-2023–2024
-
-Meld. St.17
-Om integreringspolitikken: Stille krav og stille opp
-
-10,0
-9,0
-8,0
-7,0
-6,0
-5,0
-4,0
-3,0
-2,0
-1,0
-0,0
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022 Alle
-
-2022
-Ukrainere
-
-Sysselsatte innvandrere, 20–66 år, i prosent av personer i alt i hver gruppe
-
-Figur 3.3 Sysselsatte flyktninger med botid under 1 år, 2018–2021 og sysselsetting blant ukrainere ved
-utgangen av 2022.
-Kilde: SSB Olsen, 9. mars 2023 og SSB statistikkbanken tabell 12694 og 11609.
-
-program økte noe fra sommeren 2023 og utover
-høsten. Av de fordrevne som hadde vært bosatt i
-minst tre måneder i januar 2024, deltok omtrent
-86 prosent i program. Ni av ti ukrainere har kort
-programtid.
-Ved utgangen av januar 2024 var 33 500 ukrainske fordrevne i alderen 18 til 55 år bosatt. 26 prosent av disse hadde da gjennomført og avsluttet
-introduksjonsprogrammet. Nærmere ni av ti gikk
-direkte over til arbeid eller utdanning (49 pst.)
-eller videre kvalifiseringstiltak i regi av Arbeidsog velferdsetaten eller kommunene (38 pst.).
-I politiets trusselvurdering for 2024 framheves
-det at fordrevne fra Ukraina befinner seg i en sårbar situasjon for å bli utnyttet, også til særlig alvorlige forhold som menneskehandel, tvangsarbeid
-og prostitusjon.11 Arbeidstilsynet fører tilsyn med
-bransjer hvor de vurderer det er risiko for at utenlandske arbeidstakere kan bli utnyttet. Dette er
-arbeidsintensive bransjer med relativt lave krav til
-formalkompetanse. Arbeidstilsynet viser til at de i
-noen tilfeller har påtruffet ukrainere i tilsyn med
-virksomheter innen landbruket, renholdsbransjen, og overnattings- og serveringsbransjen.
-Erfaringene er at de i hovedsak har gode arbeidsforhold og god kunnskap om rettigheter og plikter i arbeidslivet i Norge. I stort vurderer tilsynet
-at ukrainske fordrevne så langt i liten grad er
-utsatt for sosial dumping. Når krigen er blitt mer
-
-langvarig og flere kommer til Norge, forventer
-Arbeidstilsynet at de i større grad vil påtreffe
-ukrainske arbeidstakere i tilsynene framover.
-
-11
-
-12
-
-Politiet, 2023, s. 22.
-
-3.4.3 Prognoser framover
-Det er stor usikkerhet knyttet til utviklingen av
-krigen og hvilke konsekvenser det vil ha på hvor
-mange som vil komme til Norge. Samtidig kommer det også flyktninger fra andre land til Norge.
-Ankomstnivået til Europa fra andre land er høyt,
-og pågående konfliktsituasjoner kan bidra til ytterligere økte ankomster. UDIs scenariorapport av
-januar 2024 skisserer følgende tre scenarioer for
-ankomster i 2024:12
-– Lavt scenario: 8 000 til 20 000
-– Mellomscenario: 20 000 til 40 000
-– Høyt scenario: 80 000 til 120 000
-Behovet for bosetting i 2024 er ved utgangen av
-2023 anslått til om lag 37 000 personer. Bosettingsbehovet inkluderer både flyktninger og fordrevne
-som ikke ble bosatt i 2023, nye ankomster i 2024
-og overføringsflyktninger.
-Det er knyttet usikkerhet til hvor lenge de fordrevne fra Ukraina vil ha behov for å være i
-Norge, og når de eventuelt vil returnere til
-Ukraina. På kort sikt vil flere fordrevne fra
-Ukraina bidra til å trekke ned andelen yrkesaktive
-Utlendingsdirektoratet, 2023a.
-
-[Side 45]
-
-2023–2024
-
-Meld. St.17
-Om integreringspolitikken: Stille krav og stille opp
-
-43
-
-Boks 3.5 Rettigheter og tilbud til fordrevne fra Ukraina i andre nordiske land
-og arbeidsrettede tilbud, inkl. tilbud om arbeidsFordrevne fra Ukraina er gitt midlertidig oppholdstillatelse med rett til å arbeide i alle de norpraksis og arbeid med lønnstilskudd. Hovedmådiske landene, i tråd med EUs direktiv om midlet er rask selvforsørgelse og arbeid innen ett år.
-Programmet tilpasses eventuell arbeidsdeltalertidige beskyttelse, som setter minstestandard
-for rettigheter til denne gruppen. De nordiske
-kelse. De fordrevne kan motta en selvforsørgellandene har valgt ulik politikk når det gjelder
-ses- og returytelse hvis de ikke kan forsørge seg
-gruppens status som asylsøker eller flyktning,
-selv. Ytelsen er for de fleste mellom NOK
-og mulighet for bosetting og tilhørende rettighe115 000 og 230 350, avhengig av om personen er
-forsørger eller ikke. Kommunen har plikt til å
-ter. Rettighetene til fordrevne fra Norge er
-skaffe midlertidig bolig, men de fordrevne har
-omtalt under pkt. 3.3.2.
-en egenandel for leie- og forbruksutgifter. Finner de fordrevne bolig på egen hånd, kan de ha
-Sverige
-krav på bostøtte. Programmet og ytelsen varer i
-inntil fem år. Den fordrevne overføres så til den
-I Sverige har fordrevne samme rettigheter som
-ordinære arbeidsinnsatsen og kan fortsette på
-asylsøkere. De har rett til økonomisk bistand til
-sosiale ytelser.
-mat, klær og personlige utgifter på inntil 71 SEK
-per dag (NOK 25 400 per år). Migrationsverket
-og kommunen skaffer bolig og dekker bokostFinland
-nader for fordrevne uten inntekt eller med inntekt under «riksnormen för försörjningsstöd».
-I Finland har fordrevne samme rettigheter som
-Det gis i utgangspunktet ikke andre stønader
-asylsøkere første året, inkludert rett til å jobbe.
-eller ytelser utover dette. Fordrevne kan motta
-Første året dekkes bokostnader inkludert mat i
-noen arbeidsrettede tjenester, men får ikke
-asylmottak, samt økonomisk bistand til klær,
-introduksjonsprogram eller opplæring i språk
-nødvendig helsehjelp, lokal transport og telefon
-eller samfunnskunnskap. Regjeringen har fra 1.
-på inntil NOK 47 800 per år. I mottak er det oblijuni 2023 gitt kommunene mulighet til å gi forgatorisk språkkurs. Fordrevne kan motta
-drevne språkopplæring. Det er foreslått en
-arbeidsrettede tjenester. Etter ett år kan forøkning i tilskuddet til kommunal voksenopplædrevne søke om registrering og bosetting i en
-ring i budsjettforslaget for 2024.
-kommune. Ansvaret for tjenester overføres da til
-kommunene. De som tilbyr utvidet tilgang til
-sosiale tjenester, slik som behovsprøvet sosialDanmark
-hjelp og bostøtte, som til befolkningen for øvrig.
-Fordrevne kan delta i introduksjonsprogram,
-I Danmark bosettes fordrevne direkte i en kommen i motsetning til ordinære flyktninger har de
-mune etter oppholdstillatelse. De har i hovedsak
-ikke rett på introduksjonsstønad. I praksis er det
-tilsvarende rettigheter som flyktninger. Kommuderfor få som går på introduksjonsprogram og
-nene tilbyr et «Selvforsørgelses- og hjemrejsemange forblir i den statlige mottaksordningen.
-program» etter bosetting med danskopplæring
-
-i befolkningen, siden det erfaringsvis tar noe tid
-før sysselsettingen blant flyktninger kommer opp
-på et høyt nivå. På lengre sikt vil flere ukrainere
-bidra til å øke arbeidsstyrken. Fordrevne som vender tilbake fra Norge, vil ha med seg kompetanse
-og erfaringer som vil kunne være viktig i gjenoppbyggingen av samfunnet, herunder institusjoner
-og arbeidslivet i Ukraina.
-
-3.5
-
-Historiske erfaringer
-
-Norge har to ganger på 1990-tallet gitt fordrevne
-fra krig en form for midlertidig kollektiv beskyttelse. Først gjaldt det om lag 14 000 personer fra
-Bosnia-Hercegovina og få år senere om lag 8 300
-fra Kosovo. I begge disse tilfellene ble bruken av
-midlertidig kollektiv beskyttelse koblet til tiltak
-for å legge til rette for tilbakevending.
-Utvikling av ordningen med midlertidig kollektiv beskyttelse og bruken av slikt regelverk på
-1990-tallet var del av en ny, helhetlig flyktningpoli-
-
-[Side 46]
-
-44
-
-Meld. St.17
-Om integreringspolitikken: Stille krav og stille opp
-
-tikk som ble utviklet i denne perioden. Det
-skjedde i Norge og i flere andre land, klart inspirert av historiske begivenheter i perioden og diskusjoner i internasjonale fora. Tiltak med sikte på
-å legge til rette for tilbakevending i trygghet var et
-viktig element i den nye politikken. Støtte til tilbakevending ble dessuten koblet til innsats for
-humanitær bistand, gjenoppbygging, forsoning og
-langsiktig økonomisk og politisk utvikling i aktuelle land.13 Tilsvarende ligger til grunn i dagens
-situasjon, se også omtale i boks 3.6.
-I Bosnia-Hercegovina trakk krigen og urolighetene ut i tid, og allerede før de tre årene med
-kollektiv beskyttelse ville ha utløpt, fikk alle bosnierne mulighet til varig opphold. Både de som
-hadde kommet som asylsøkere og som overføringsflyktninger, ble etter en periode i mottak
-bosatt i kommuner over hele Norge. For første
-gang ble det bosatt over 10 000 flyktninger i løpet
-av ett år.14 Om lag 2 000 av alle som hadde hatt
-kollektiv beskyttelse i Norge, vendte tilbake til
-Bosnia-Hercegovina i perioden 1995 til 2000.15
-Ulike europeiske land håndterte dem som flyktet
-fra krigen i Bosnia-Hercegovina, på forskjellige
-måter med tanke på oppholdsgrunnlag, sosiale
-rettigheter og opplegg for retur eller tilbakevending. Dette fikk også konsekvenser for hvor store
-andeler som ble returnert eller vendte frivillig tilbake da krigshandlingene var avsluttet.16
-I Kosovo opphørte krigshandlingene bare
-noen uker etter at Norge våren 1999 hadde tatt
-imot 6 000 evakuerte og dessuten en del asylsøkere som kom på egenhånd i denne perioden. Tilbakevendingen kunne starte før planlagt bosetting i kommunene hadde kommet i gang. Om lag
-5 000 av de 8 300 som hadde fått kollektiv beskyttelse i Norge, vendte tilbake eller ble tvangsreturnert til Kosovo i perioden 1999 til 2002.17 Slik
-denne situasjonen utviklet seg, har den liten
-direkte overføringsverdi når det gjelder flyktningene fra Ukraina, hvor tidspunktet for eventuell
-tilbakevending er høyst usikkert.
-Ett av hovedpremissene for det som etter
-hvert har blitt kalt et «tosporet løp» i norsk flyktningpolitikk, var at bosetting og dermed muligheter for aktiv deltakelse på ulike arenaer i det norske samfunnet, ville gjøre flyktninger best rustet
-13
-
-St.meld. nr. 17 (2000–2001) Asyl- og flyktningpolitikken i
-Noreg.
-14
-Se UDIs årsmelding 1994.
-15
-Se tab. 10.1 i St.meld. nr. 17 (2000–2001) Asyl- og flyktningpolitikken i Noreg.
-16
-Barslund mfl., 2017, s. 258.
-17
-Brekke, 2002.
-
-2023–2024
-
-for tilbakevending til hjemlandet når det kunne
-skje i trygghet.18
-Den tosporete tilnærmingen på 1990-tallet
-innebar at det i tillegg til bosetting og tilhørende
-integreringsordninger, ble iverksatt konkrete tiltak for å forberede flyktningene på tilbakevending. Det dreide seg blant annet om et forsøk med
-«bosnisk gymnas» for ungdom, ulike informasjonstiltak om situasjonen i Bosnia-Hercegovina,
-inkludert besøksreiser for å se på forholdene på
-hjemstedet etter krigen, og om nye former for
-økonomisk
-tilbakevendingsstøtte.
-Mange
-bosniske flyktninger var positive til tiltak som
-understreket at tilbakevending i trygghet kan
-være den beste langsiktige løsningen for dem. På
-den annen side kunne det ofte være utfordrende
-for dem som jobbet tettest på flyktningene i kommunene, å iverksette tiltak og virkemidler som
-skulle støtte opp under en politikk med både et
-integreringsperspektiv og et tilbakevendingsperspektiv.19
-Hovedprinsippene som regjeringen la til
-grunn da Norge våren 2022 på kort tid måtte
-håndtere flere flyktninger enn noen gang tidligere, bygger i noen grad videre på politikken som
-ble utviklet på 1990-tallet. Derfor kan erfaringene
-med flyktningene fra Bosnia-Hercegovina ha en
-viss overføringsverdi. Det gjelder blant annet hva
-som er realistisk og mulig å gjennomføre for å
-legge til rette for tilbakevending når det en gang
-blir mulig.
-Forskere har understreket at erfaringen fra
-1990-tallet når det gjelder ordningen med midlertidig beskyttelse på kollektivt grunnlag, er «tidsskjør».20 Jo lenger oppholdet i Norge varer, jo
-vanskeligere blir det å få til storstilt tilbakevending eller retur. Mange flyktninger kan ha et mål
-om å vende tilbake i den første tiden på flukt.
-Gradvis kan dette endre seg i takt med sterkere
-tilknytning til landet de bor i. At en stor andel av
-de fordrevne fra Ukraina er barn som tilbringer
-en del av oppveksten sin i Norge, vil forsterke
-slike bånd og gjøre tilbakevending mindre
-attraktivt. For andre kan det trekke i motsatt retning dersom ektemenn, fedre og voksne sønner
-fortsatt befinner seg i Ukraina. Generelt er det
-grunn til å tro at det å opprettholde nærhet til
-hjemlandet gjennom å ivareta kontakt og nettverk, kan bidra til å legge til rette for framtidig
-tilbakevending.
-18
-19
-20
-
-Brekke, 2001.
-Dette drøftes blant annet i Berg, 1999.
-Brekke, 2001.
-
-[Side 47]
-
-2023–2024
-
-Meld. St.17
-Om integreringspolitikken: Stille krav og stille opp
-
-I perioden fra 2014 til og med 2017 kom om
-lag 14 000 asylsøkere fra Syria, med en markert
-topp på nærmere 10 500 i 2015. Om lag 70 prosent av syriske asylsøkere var menn. Spørsmålet
-om bruk av ordningen med midlertidig kollektiv
-beskyttelse ble vurdert i forbindelse med det
-store antallet flyktninger fra Syria denne perioden, men ble ikke sett på som et aktuelt alternativ, verken i Norge eller andre europeiske stater
-som det er nærliggende å sammenlikne seg med,
-unntatt i Danmark.21 Asylsøknadene ble behandlet individuelt på vanlig måte, og omtrent alle
-som fikk søknaden sin realitetsbehandlet de
-aktuelle årene, fikk flyktningstatus og opphold i
-Norge. I tillegg ankom det om lag 8 000 syriske
-overføringsflyktninger i samme periode, med en
-topp på 2 900 i 2016. En stor andel av overføringsflyktningene fra Syria har vært barnefamilier.
-Kommuner og sivilsamfunn ble igjen oppfordret til «bosettingsdugnad».22 I 2016 ble i overkant av 15 000 flyktninger bosatt i vel 400 kommuner over hele landet.23 Som med bosnierne midt
-på 1990-tallet, gikk bosettingen av syrere,
-sammen med en del andre flyktninggrupper, raskere enn ellers.
-
-3.6
-
-Lærdommer
-
-Denne meldingen ferdigstilles i mars 2024. Russlands angrepskrig i Ukraina fortsetter, og det
-kommer fortsatt betydelige antall fordrevne fra
-Ukraina til Norge. Det er ikke nå utsikter til at
-denne situasjonen vil endre seg i nær framtid.
-Regjeringen er likevel opptatt av å oppsummere
-noen lærdommer av håndteringen til nå. Regjeringen har fra starten fulgt situasjonen tett, blant
-annet gjennom følgeevalueringer, og vil legge
-opp til at vi evaluerer håndteringen samlet når
-situasjonen tilsier det. Siden ankomstene stadig
-er høye og mange har vært i Norge i kort tid, vil
-vurderingene her med nødvendighet bli foreløpige. Enkelte av lærdommene under drøftes
-mer inngående i de tematiske kapitlene i meldingen.
-
-21
-
-Rytter mfl., 2023.
-Søholt mfl., 2018.
-23
-Dette var før kommunesammenslåingene siden 2017 som
-har redusert antall kommuner fra 428 til 356.
-22
-
-45
-
-3.6.1 Ankomst, mottak og bosetting
-Ekstraordinære tiltak har gjort at Norge har håndtert ankomsten av flyktninger fra Ukraina godt.
-Ordningen med midlertidig kollektiv beskyttelse
-har avlastet saksbehandlingen i UDI og mottakssystemet, ved at fordrevne fra Ukraina i all hovedsak har fått vedtak om oppholdstillatelse og blitt
-bosatt svært raskt. Norge hadde allerede beredskap i lovverket gjennom en bestemmelse som
-åpnet for å gi for midlertidig kollektiv beskyttelse
-i en massefluktsituasjon. At en raskt kunne aktivere denne ordningen, var svært viktig.
-De høye ankomstene av flyktninger har satt
-ankomst, mottaks- og bosettingsapparatet på
-prøve. Dette speilet på en del områder situasjonen
-i 2015–2016. Overordnet sett har dagens systemer
-og ordninger fungert godt. Kommunene har spilt
-en avgjørende rolle for at bosettingen fortsatt har
-kunnet gå raskt. At flyktninger bosettes i mange
-kommuner over hele landet, har vært viktig for å
-møte situasjonen med at mange skulle bosettes.
-Kommunene har vist stor evne og vilje til å ta imot
-flyktninger. Samtidig som flere enn noen gang har
-blitt bosatt, har bosettingen gått raskt, også for
-flyktninger fra andre land. Samtidig har det vært
-krevende å få til treffsikker bosetting når bosettingen har skjedd raskt, personer er bosatt spredt i
-hele landet og bosettingen har måttet tilpasse seg
-kommunenes kapasitet gjennom året.
-Erfaringene fra bosettingen av flyktninger og
-fordrevne i denne perioden illustrerer også fleksibiliteten i det norske leiemarkedet. Fleksibiliteten
-skyldes først og fremst at det er mange småskalautleiere som gjør at et stort antall boliger kan
-trekkes inn og ut av markedet, og som gir variasjon i boligtilbudet. Private utleieres vilje til å tilgjengeliggjøre boliger i en akutt situasjon, har
-vært vesentlig.
-De permanente systemene for registrering,
-asylmottak og bosetting av flyktninger må være
-fleksible og tåle uforutsigbarhet og svingninger,
-og lett la seg skalere opp og ned. Det er viktig å
-sikre rask og effektiv saksbehandling i alle ledd
-og rutiner for tidlig og god informasjon. Forenklet kartlegging i den tidlige fasen var avgjørende for å håndtere de høye ankomstene. Samtidig er det en risiko for at forenklet kartlegging i
-for liten grad legger til rette for at bosettingen
-blir treffsikker og at viktig informasjon om den
-enkelte først blir avdekket i kommunen etter
-bosetting. Mens en i den innledende fasen var
-tvunget til å begrense kartleggingen sterkt, har
-en over tid tatt inn enkelte tilleggselementer.
-Generelt må kartleggingen gi nok og nødvendig
-
-[Side 48]
-
-46
-
-Meld. St.17
-Om integreringspolitikken: Stille krav og stille opp
-
-2023–2024
-
-Boks 3.6 Nansen-programmet for Ukraina
-Nansen-programmet er et flerårig støtteprogram
-støtte tilbakevending og retur og legge til rette
-for militær, sivil og humanitær bistand til
-for en framtid i Ukraina for ukrainere som venUkraina og naboland. Programmet er på 75 milder hjem. Fordrevne fra Ukraina som vender tilliarder kroner for perioden 2023–2027, og er
-bake når forholdene ligger til rette for det, vil
-basert på en politisk avtale av 16. februar 2023.
-være en viktig ressurs for Ukrainas gjenoppbygNorges forpliktelse til å støtte Ukraina over en
-ging og demokratiske utvikling.
-femårsperiode. Den tverrpolitiske enigheten i
-Studier viser en positiv sammenheng melStortinget bekrefter for det ukrainske folk og
-lom integrering og deltakelse i vertslandet og
-det internasjonale samfunnet at Norge står ved
-bidrag til utvikling i opprinnelseslandet. KompeUkrainas forsvarskamp og landets suverenitet i
-tansen og nettverk som ukrainske flyktninger i
-det lange løp.
-Norge tilegner seg gjennom arbeid, utdanning,
-frivillighet og annen deltakelse i det norske samKonsekvensene av Russlands krigføring er
-funnet, kan bidra positivt ved en eventuell tilbaså omfattende at det vil ta mange år å gjenoppbygge landet. Ukraina vil derfor ha behov for
-kevending eller retur til Ukraina. God integrering i Norge fremmer verdier som demokrati,
-internasjonal støtte i lang tid framover. Norsk
-likestilling, menneskerettigheter, sivilsamfunnsstøtte tar utgangspunkt i Ukrainas behov.
-Regjeringen fremmet 2. februar 2024 Meld.
-deltakelse og tillit. Det bør vurderes hvordan
-St. 8 (2023–2024) Nansen-programmet for
-denne kompetansen kan komme til nytte i gjenUkraina. Meldingen omtaler også ukrainske
-oppbyggingen av landet. Dette er relevant også
-flyktninger i Norge. Nansen-programmet legfor Ukrainas tilnærming til EU, og i tråd med
-den sivile støtten i Nansen-programmet.
-ger opp til en omfattende satsing på gjenoppbygging av Ukraina. Dette bidrar også til å under-
-
-informasjon om flyktningers kompetanse og tilretteleggingsbehov til å bidra til effektiv og treffsikker bosetting. Kartleggingsbehovet kan også
-være annerledes i en situasjon der svært mange
-skal bosettes. For eksempel har informasjon om
-førerkort vært viktig for å kunne ta i bruk boliger i enkelte kommuner. Gode digitale systemer
-for å dele informasjonen, er også viktig for at den
-informasjonen som samles inn, kan komme til
-nytte.
-
-3.6.2 Behovet for beredskapshjemler
-Det finnes en rekke lover som inneholder ulike
-beredskapshjemler for den enkelte sektor i tilfelle av kriser, katastrofer eller andre alvorlige
-situasjoner. Dette regelverket er ikke utarbeidet
-særskilt med tanke på å håndtere høye asylsøkertall. Et høyt antall asylsøkere skaper utfordringer både for vertskommuner for mottak og
-bosettingskommuner. Først blir det press på
-arbeidet med registrering av søknader, innkvartering i mottak og kartlegging av asylsøkere i
-påvente av bosetting. Deretter blir det press på
-arbeidet med bosetting i kommunene og framskaffelse av boliger, og på grunnleggende velferdstjenester som barnehage, skole og helse-
-
-tjenester i både vertskommuner og bosettingskommuner.
-For å kunne håndtere de høye ankomstene av
-fordrevne fra Ukraina er det gjort midlertidige
-endringer i ti lover. Våren 2022 fikk Proba Samfunnsanalyse og Advokatfirmaet Lund & Co i oppdrag å følgeevaluere de midlertidige endringene i
-lovverket, samlet og for hver sektor. De foreløpige
-funnene fra følgeevalueringen viser at de viktigste
-barrierene for kommunenes bosettingskapasitet
-er mangel på boliger og knapphet på kvalifisert
-arbeidskraft i tjenesteproduksjonen. Det er særlig
-utfordringer i helsesektoren.
-Regjeringen vil framover vurdere behovene
-for permanente beredskapshjemler for å håndtere en framtidig situasjon med store asylankomster.
-
-3.6.3
-
-Avveining mellom innsats for
-integrering og midlertidighet
-
-Norge har i 2022 tatt i bruk det eksisterende
-regelverket for midlertidig kollektiv beskyttelse
-for første gang siden 1999 og for andre gang noensinne. Målet var raskt og effektivt å gi beskyttelse
-inntil det ville være mulig å vende tilbake til
-trygge forhold i Ukraina. I en situasjon hvor målet
-
-[Side 49]
-
-2023–2024
-
-Meld. St.17
-Om integreringspolitikken: Stille krav og stille opp
-
-er at de som kommer, skal tilbys midlertidig opphold og på sikt vende tilbake, må det tas stilling til
-i hvilken grad det skal gjøres justeringer og tilpasninger, sammenlignet med det ordinære
-systemet for flyktninger.24
-Den tosporede tilnærmingen som ble utviklet
-på 1990-tallet, se kap. 3.5, innebærer at landene tar
-høyde for at det er usikkert hva som vil skje på
-sikt. Målet for en slik politikk er integrering, deltakelse og tilsvarende rettigheter for dem som blir i
-tilfluktslandet. Samtidig er ideen at det satses på
-tiltak som legger til rette for tilbakevending og
-aktiv deltakelse i gjenoppbygging og samfunnsutvikling i hjemlandet. Hvordan en slik politikk skal
-innrettes, innebærer i praksis en svært krevende
-balanse mellom innsats for integrering i norsk
-arbeids- og samfunnsliv og hjemlandets behov, og
-mellom investeringer i dag og muligheten for
-høye kostnader i framtiden.
-På den ene siden er det vanskelig å forsvare
-høy innsats for å kvalifisere og gi opplæring til personer som i utgangspunktet bare skal være i Norge
-i kort tid. På den andre siden må vi ta høyde for at
-mange av dem som kommer, kan ende opp med å
-bli værende i relativt lang tid. Dette er det vanskelig
-å foregripe når en massefluktsituasjon oppstår. Gitt
-at oppholdet blir langvarig, kan for lav innsats for
-integrering bli svært kostbart, hvis en større andel
-av de fordrevne ikke kommer i arbeid og kan forsørge seg selv, men i stedet blir varig avhengige av
-ytelser og stønader fra det offentlige. Regjeringen
-ønsker også å bidra til at de fordrevne en dag kan
-vende tilbake til Ukraina med gode kvalifikasjoner
-og erfaringer. Ressursene de tar med seg tilbake,
-kan være viktige bidrag i gjenoppbyggingen av
-Ukraina. Mulighet for utdanning og erfaringer fra
-arbeidslivet i Norge, vil kunne gi viktige grunnlag
-den dagen de skal vende tilbake.
-I all hovedsak har regjeringen valgt å ta i bruk
-det ordinære systemet for mottak, bosetting, integrering og generelle ordninger. Regjeringen har
-dermed lagt vekt på å sikre at de fordrevne så
-raskt som mulig kommer ut av mottak og blir
-bosatt i en kommune. Likevel har det i noen sammenhenger blitt trukket fram at det er utfordrende for kommunene og lokalsamfunnene å forholde seg til en gruppe som i større grad enn
-andre flyktninger forventes å vende tilbake til sine
-hjemland etter noe tid.
-Det kan være motsetninger mellom innsatsen
-som tar sikte på å forberede tilbakevending, og
-innsatsen som innrettes med sikte på integrering i
-Norge. Et ønske om en sterkere orientering mot
-
-tilbakevending vil kunne støte på betydelige utfordringer i praksis dersom de tilbudene som er tilgjengelige i kommuner, mottak og voksenopplæring, ikke i utgangspunktet er tilpasset en slik innretning. Særlig i en situasjon med svært høye og
-plutselige ankomster av asylsøkere og fordrevne,
-vil det ikke være realistisk å utvikle og iverksette
-nye kvalifiserings- og integreringsopplegg. Et
-integreringsløp med sikte på tilbakevending forutsetter derfor i noen grad at de ordinære
-systemene allerede er tilrettelagt med tanke på en
-slik situasjon.
-
-3.6.4
-
-OECD, 2023b.
-
-Erfaringer med frivillighetens innsats
-for ukrainere
-
-Frivillige organisasjoner har vist et sterkt og viktig engasjement i møte med fordrevne fra
-Ukraina. Mange av organisasjonene satte raskt i
-gang hjelpetiltak. Kombinert med stort engasjement i befolkningen, var frivillighetens innsats
-viktig for at mange fordrevne fra Ukraina følte seg
-velkommen og ble ivaretatt på en god måte.25
-For å støtte opp om innsatsen ble det i mai
-2022 lyst ut ekstraordinære tilskudd til frivilligheten. Ekstrautlysningen førte til rekord i antall søknader. Flere søkte om å oppskalere etablerte tilbud, mens mindre lokale organisasjoner primært
-ønsket å tilby nye aktiviteter. IMDi ga støtte til 151
-nasjonale og lokale prosjekter og tiltak over hele
-landet, blant annet til ukrainske organisasjoner.
-Eksempler på tiltak og aktiviteter som har fått
-støtte, er idrettsaktiviteter, sosiale aktiviteter for
-familier, turer i nærmiljø, sangkor og leirskoler.
-IMDi ga også støtte til 33 prosjekter for å bidra til
-at fordrevne fra Ukraina fikk tilbud om norsk- og
-engelsktrening. Språktreningen har i hovedsak
-skjedd gjennom fysiske tilbud som språkkafe, fellesturer og samtalegrupper. Flere språktreningstilbud er gitt i kombinasjon med andre aktiviteter,
-for eksempel informasjon om norsk samfunnsliv
-eller sosiale aktiviteter. Frivilligheten videreførte
-og utvidet mange av disse tiltakene i 2023.
-Frivilligheten i Norge har stor kapasitet og evne
-til å mobilisere befolkingen. Dette ble særlig synlig
-under de store ankomstene av asylsøkere i 2015,
-under pandemien i 2020–2022 og med de høye
-ankomstene av fordrevne fra Ukraina siden 2022.
-Frivillige organisasjoner og nettverk har blitt
-omtalt som «en sosial beredskapsinfrastruktur».26
-Gjennom denne infrastrukturen, kan brede lag av
-befolkningen mobiliseres når situasjonen krever
-25
-
-24
-
-47
-
-26
-
-Engset & Jafari, 2023.
-Fladmoe & Enjolras, 2022.
+# Innledning
+
+Den første tiden i nytt land må innvandrere navigere i et nytt samfunn med et annet språk og andre samfunnsstrukturer og tradisjoner. Å finne seg til rette og komme på plass i alt det nye, kan kreve mye av den enkelte.
+
+Regjeringen er opptatt av at alle innvandrere som får innvilget opphold, raskt skal bli en del av samfunnet og komme i gang med livet i Norge. Ukjente regler, normer og ordninger kan være krevende å forstå. Dette gjelder alle grupper av innvandrere. Tilgang til god informasjon både om plikter og forventninger og om de rettighetene hver person har, er grunnleggende for deltakelse i samfunnet. Uten god informasjon kan innvandrerne bli sårbare for utnytting og havne i det useriøse arbeidslivet.
+
+Årsaken til at den enkelte kommer påvirker hvordan den første tiden i Norge blir og hvilke rettigheter og tilbud den enkelte får. Familieinnvandrere og arbeidsinnvandrere blir som hovedregel ikke bosatt med offentlig hjelp. Mange arbeidsinnvandrere blir i praksis lenge i Norge. Likevel blir for mange stående utenfor viktige deler av samfunnet, og for mange havner i useriøse deler av arbeidslivet. Regjeringen er opptatt av at informasjon om plikter og rettigheter i Norge skal være lett tilgjengelig og forståelig, og vil jobbe for en integreringspolitikk som bidrar til at også arbeidsinnvandrere over tid kommer inn i og tar del i det norske samfunnet.
+
+De som kommer som asylsøkere, må den første tiden gå gjennom en prosess med registrering, søknadsbehandling og avklaring av opphold. For mange tar det tid før asylsøknaden er behandlet. I denne fasen tilbyr staten innkvartering i mottak. De fleste som får oppholdstillatelse, blir deretter bosatt i en kommune. Overføringsflyktninger blir som hovedregel bosatt direkte i en kommune etter ankomst.
+
+Hvilken kommune flyktninger bosettes i, kan ha betydning for hvilke muligheter de får. Det gjelder både mulighetene til opplæring og kvalifisering, til nødvendige tjenester fra kommunen, og hvilke muligheter som finnes i det lokale arbeidsmarkedet. Balansen mellom ulike hensyn er krevende, og må tilpasses hvor mange som kommer, og hvilke forutsetninger og behov de som skal bosettes har. Regjeringen er opptatt av at bosettingen skal være treffsikker, og vil at muligheter til arbeid og utdanning skal tillegges større vekt i fordeling av flyktninger til bosettingskommune. Målet er at flest mulig skal komme i arbeid og bli selvforsørget. Bosettingen må derfor gi gode muligheter for nødvendig språkopplæring og kvalifisering, og for rask overgang til arbeid. Samtidig må det i bosettingsarbeidet tas hensyn både til behovet for at den enkelte skal komme raskt på plass i en kommune, og hvordan de ulike kommunene kan svare på de ulike behovene som hver enkelt flyktning og flyktningfamilie kan ha.
+
+For at bosettingen av flyktninger skal være styrt, spredt, rask og treffsikker, må hele landet tas i bruk. Det er viktig både for å unngå at flyktninger blir bosatt i områder med opphoping av levekårsproblemer og høy andel innvandrere, og fordi bosettingskommunene er ulike og kan treffe behovene til dem som bosettes på ulike måter. Spredt bosetting er også en forutsetning for god bosettingskapasitet, som gjør det mulig å bosette raskt også når det kommer ekstraordinært mange, slik det har gjort de siste to årene.
+
+I del I av denne meldingen setter regjeringen søkelyset på politikken for dem som nylig har kommet til landet, med særlig oppmerksomhet om flyktninger og fordrevne. Kapittel 5 ser på situasjonen for arbeidsinnvandrere, mens kapittel 6 ser på situasjonen for dem med fluktbakgrunn. Kapittel 7 presenterer politikken for bosetting av flyktninger og fordrevne.
+
+# Arbeidsinnvandreres første tid i Norge
+
+## Arbeidsinnvandringen til Norge
+
+EØS-avtalen i 1994 åpnet i prinsippet for en sterk økning i arbeidsinnvandringen fra EU-land til Norge, men det var først med EU-utvidelsene østover i 2004 at den store endringen kom. Det norske arbeidsmarkedet ble med ett åpnet for arbeidsinnvandrere fra en rekke nye land i Europa. Fra 2006 har arbeidsinnvandrere vært den største gruppen av innvandrere som kommer til Norge. Med unntak av de store gruppene asylsøkere som kom i 2015, har denne situasjonen vært stabil fram til 2022, da Russland angrep Ukraina.[^89] Mellom 2004 og 2020 har det kommet om lag 100 000 arbeidsinnvandrere fra Polen til Norge. Dette utgjør den desidert største gruppen, med 34 prosent av alle arbeidsinnvandrerne som kom til Norge i denne perioden. Den nest største gruppen som har kommet til landet i disse årene, er arbeidsinnvandrere fra Litauen, etterfulgt av arbeidsinnvandrere fra Romania, Latvia og Bulgaria.
+
+De nye arbeidsinnvandrerne fordeler seg over et stort antall yrkesgrupper i Norge, men hovedbildet er at bosatte, folkeregistrerte arbeidsinnvandrere fra EØS er konsentrert i bygg og anlegg, industri og forretningsmessig tjenesteyting, mens bosatte tredjelandsborgere langt oftere har høyere utdanning og typisk jobber i informasjon og kommunikasjon, helse og undervisning. Når det gjelder arbeidsinnvandrere som kommer på korttidsopphold, er fortsatt EØS-borgerne konsentrert blant annet i bygg og anlegg og i industri, mens tredjelandsborgerne gjerne jobber i primærnæringene, i transport og lagring og innen overnattings- og serveringsvirksomhet.
+
+Mens arbeidsinnvandringen tidligere rettet seg primært mot de store byene og sentrale strøk, bosatte arbeidsinnvandrerne som kom etter 2004 seg raskt i alle landets fylker. Arbeidsinnvandringen er nå vel så mye et *ruralt* som et *urbant* fenomen.
+
+Arbeidsinnvandrerutvalget argumenterer for at det er behov for et nytt perspektiv på arbeidsinnvandring til Norge, som flytter fokus fra arbeidsinnvandrerne som arbeidskraft og løfter fram de gradvise integreringsprosessene som foregår i lokalmiljøene der mange arbeidsinnvandrere etter hvert slår seg ned for godt.[^90] Se omtale under punkt 2.5.
+
+## Registrering og informasjon
+
+Personer som skal bo i Norge i minst seks måneder, har plikt til å melde flytting til Norge. Dersom personen fyller vilkårene for å bli registrert som bosatt i Norge, vil personen bli tildelt et fødselsnummer. Personen må selv sannsynliggjøre at vilkårene i folkeregisterloven er oppfylt, for eksempel gjennom dokumentasjon på bolig og arbeid i Norge for en seks måneders periode. Folkeregistermyndighetene skal foreta en konkret helhetsvurdering av om det foreligger en registreringspliktig flytting. Vurderingen innebærer en viss grad av skjønn. For å sikre likebehandling og forutberegnelighet har Skatteetaten utarbeidet retningslinjer for vurderingen.
+
+EØS-borgere som skal oppholde seg i Norge i mer enn tre måneder, skal registrere seg hos politiet innen tre måneder fra innreisedato og bestille time for personlig oppmøte, slik at de kan få et registreringsbevis. De må også bestille time for oppmøte hos Skatteetaten for å søke om identitetsnummer (personnummer/d-nummer) og skattekort.
+
+Arbeidsinnvandrere fra tredjeland skal først registreres som bosatt hvis det er gitt oppholdstillatelse med minst seks måneders varighet. De vil da få utstedt et oppholdskort som dokumenterer at de har gyldig oppholdstillatelse i Norge. Tidligere måtte arbeidsinnvandrere også møte personlig hos Skatteetaten for å søke om skattekort, få identitetsnummer og registrere seg som bosatt, men siden 2019 er det nok med registrering og ID-kontroll hos utlendingsmyndighetene. Etter at oppholdstillatelsen er innvilget sender UDI nødvendige opplysninger elektronisk til Skatteetaten, som registrerer den enkelte som bosatt. Etter at man er registrert bosatt, sender Skatteetaten fødselsnummer i posten og arbeidsgiveren eller arbeidstakeren kan bestille skattekort digitalt. EØS-borgere må altså registrere seg hos politiet og Skatteetaten, mens tredjelandsborgere kun må registrere seg hos utlendingsmyndighetene.
+
+Personer som skal oppholde seg i Norge kortere enn seks måneder, kan tildeles et d-nummer. D-nummeret bestilles av den offentlige myndigheten, virksomheten eller finansforetaket som har behov for at en person har et d-nummer. Det kan for eksempel være tilfelle når personen skal få utstedt skattekort eller åpne bankkonto i Norge. I høringen til NOU 2022: 18 spilte blant annet Frelsesarmeens migrasjonssenter inn at de mener det stilles for strenge krav til dokumentasjon for at arbeidsinnvandrere kan registrere seg som bosatt i Norge. De mener mange sliter med å oppfylle kravene som stilles for å bli folkeregistrert, samtidig som mangel på informasjon fører til at mange heller ikke gjør forsøk på å registrere seg som bosatt. I 2022 hadde 170 000 arbeidsinnvandrere som betalte skatt, d-nummer. 19 000 av dem hadde hatt d-nummer i minst fem år.
+
+Om en person er registrert som bosatt og har fødselsnummer, eller ikke blir registrert som bosatt og får d-nummer, kan ha betydning for rettigheter og plikter i Norge. Et eksempel på dette er retten til fastlege, som primært er knyttet til bostedsregistrering og fødselsnummer. Det er nødvendig med mer kunnskap om årsakene til at såpass mange med d-nummer har hatt det i over fem år. Regjeringen vil derfor gjennomføre en kartlegging av art, omfang og konsekvenser av at en større andel innvandrere oppholder seg i Norge over lengre tid og betaler skatt, uten at de er registrert som bosatt. På bakgrunn av kartleggingen skal det vurderes om det er behov for å gjøre endringer eller tilpasninger for å bidra til at de som faktisk skal være registrert som bosatt i Norge, blir det.
+
+I forbindelse med EU-utvidelsen østover i 2004 ble det innført overgangsordninger for åtte av de nye medlemslandene, og tilsvarende da Romania og Bulgaria ble medlemmer i 2007. Overgangsordningene ble etablert på bakgrunn av store forskjeller i lønnsnivå mellom Norge og de nye medlemslandene og frykt for sosial dumping. I overgangsperioden ble det innført krav om oppholdstillatelse før arbeidsinnvandrerne kunne begynne å jobbe, i tillegg til krav om norske lønns- og arbeidsvilkår og som hovedregel heltidsstilling.[^91] En stor del av arbeidsinnvandrere er i dag likevel konsentrert i enkeltnæringer preget av lav organisasjonsgrad, og dårlige lønns- og arbeidsvilkår. For en nærmere omtale av utfordringene med sosial dumping, se kapittel 13.
+
+Kunnskap om muligheter, rettigheter og plikter i Norge er en forutsetning for å kunne orientere seg i norsk arbeids- og samfunnsliv. Mangelfulle norskferdigheter og begrenset informasjon om rettigheter i det norske arbeidslivet kan gjøre det lettere for useriøse arbeidsgivere å utnytte nyankomne arbeidsinnvandrere. Arbeidsinnvandrerutvalgets vurdering er at det er behov for en styrket politikk for å bedre integreringen av arbeidsinnvandrere i Norge. I den første fasen etter ankomst mener utvalget at det er nødvendig at nyankomne arbeidsinnvandrere og deres familier får tilgang til korrekt, klar og lett tilgjengelig informasjon om blant annet rettigheter og plikter i det norske arbeidslivet og hvordan en registrerer seg for å jobbe i Norge, for å få personnummer og skattekort og for å opprette bankkonto.
+
+I de største byene i Norge, i tillegg til Kirkenes, er det opprettet egne *Servicesentre for utenlandske arbeidstakere* (SUA). Sentrene er etablert i et samarbeid mellom Arbeidstilsynet, politiet, Skatteetaten og UDI. På SUA skal arbeidsinnvandrere og deres familier kunne ordne alt de trenger for å jobbe i Norge. Målgruppen er utenlandske arbeidstakere, selvstendig næringsdrivende, familier til utenlandske arbeidstakere og arbeidsgivere til utenlandske arbeidstakere. Målet er å gi rask saksbehandling og veiledning på flere språk. SUA gir i tillegg informasjon om hvordan arbeidsgiver kan være en god støttespiller for sine utenlandske ansatte. For dem som bor for langt unna til at det er hensiktsmessig å bruke SUA-kontorene, er det rundt 40 skattekontorer og 25 politikontorer hvor EØS-borgere kan melde flytting til Norge med ID-kontroll og få registreringsbevis. De som bor i og ved de større byene har kort reisevei, men ventetiden kan være lang. Andre steder i landet er ventetiden kort, men reiseavstanden lang, særlig i mange distriktskommuner.
+
+Flere steder er også velkomst- eller introduksjonstilbud på plass.[^92] Et eksempel på et velkomsttilbud er *Gjøvikregionen utvikling*, som har opprettet et velkomst- og vertskapssenter for kompetansearbeidskraft. Senteret er del av det nasjonale nettverket *International Network of Norway*, som jobber for at regionen skal ha et godt tilbud for integrering av dem som er rekruttert fra utlandet.
+
+Arbeidsinnvandrerutvalget anbefalte at fylkeskommunene gis et ansvar for å koordinere velkomsttilbud til arbeidsinnvandrere i fylkets kommuner, i tett dialog med kommunene selv, regionale statlige aktører som politi, Skatteetaten og arbeids- og velferdsforvaltningen, og med partene i arbeidslivet, næringslivsaktører og frivillige organisasjoner. Utvalget anbefalte også at det utvikles en nasjonal veileder rettet mot kommuner, arbeidsgivere og andre aktører. Veilederen skal vise fram gode grep og løsninger for hvordan man kan ta imot arbeidsinnvandrere og deres familier på en god måte.
+
+Fra 2024 innføres et nytt delmål i tilskuddsordningen *Utvikling av kommunale kvalifiserings- og integreringstiltak* som gir fylkeskommunene mulighet til å søke om midler for å etablere kommunale, interkommunale eller regionale velkomsttilbud.
+
+Det finnes flere nettbaserte informasjonstilbud rettet mot ulike innvandrergrupper. Flere offentlige etater har lagt ut informasjon rettet mot arbeidsinnvandrere på sine nettsider. *Workinnorway.no* er et eksempel på en felles nettside med informasjon til dem som ønsker å jobbe i Norge og trenger råd og informasjon om jobbsøking, arbeidsliv og flytting. Likevel er det et behov for å gi bedre, mer samordnet og mer målrettet informasjon til nyankomne innvandrere.[^93]
+
+Arbeidsinnvandrerutvalget anbefalte derfor at det gjennomføres en helhetlig digital satsing for å nå ut til nyankomne innvandrere med nødvendig og relevant informasjon for å delta i norsk arbeids- og samfunnsliv. På oppdrag fra departementet samarbeider IMDi med blant annet Utlendingsdirektoratet, Helsedirektoratet, Arbeids- og velferdsdirektoratet og Skatteetaten om å utvikle en egen nettside. En første versjon av nettsiden *nyinorge.no* som retter seg mot personer med midlertidig kollektiv beskyttelse, ble publisert 1. juni 2023. Behovet for samlet helhetlig informasjon er ikke et nytt behov eller noe som begrenser seg til voksne personer med midlertidig kollektiv beskyttelse. Nettsiden skal videreutvikles og på sikt utvides til å gjelde for alle nyankomne flyktninger og innvandrere som kommer til Norge. Se boks 6.1 for mer informasjon om *nyinorge.no.* Mange av behovene for informasjon som Arbeidsinnvandrerutvalget har pekt på, samsvarer også godt med informasjonsbehovet for voksne med midlertidig kollektiv beskyttelse.
+
+Regjeringen vil
+
+- gjennomføre en kartlegging av omfang og konsekvenser av at en større andel innvandrere oppholder seg i Norge over lengre tid og betaler skatt, uten at de er registrert som bosatt.
+
+- legge til rette for at det utvikles gode regionale velkomsttilbud til nyankomne arbeidsinnvandrere og andre innvandrergrupper som ikke omfattes av tilbudet som gis til asylsøkere og flyktninger.
+
+- få utarbeidet en veileder rettet mot kommuner, arbeidsgivere og andre aktører med forslag til og løsninger for hvordan man kan ta imot arbeidsinnvandrere og deres familier på en god måte.
+
+- legge til rette for at nettstedet *Ny i Norge* skal være informasjonskanalen for nettbasert informasjon til utenlandske arbeidstakere og arbeidsgivere.
+
+# Personer med fluktbakgrunn og den første tiden i Norge
+
+I ankomstfasen er det viktig å legge til rette for en rask og effektiv saksbehandling og å nå ut med nødvendig og relevant informasjon til asylsøkere.
+
+Asylmottakene utgjør rammen for de fleste asylsøkeres første tid i Norge. Tilbudet i asylmottak skal sikre beboernes grunnleggende behov og den enkeltes behov for trygghet. Barn som bor i asylmottak, skal gå på skole og ha tilbud om aktiviteter.
+
+Hvor mange som bor i asylmottak, er i hovedsak avhengig av tallet på asylsøkere, saksbehandlingstid, andel i alternativ til mottak/privatboende, bosettingstakt og mulighet for retur eller tilbakevending. Antallet beboere i asylmottak har variert fra år til år, se figur 6.1.
+
+Beboere i mottak pr. 31. desember hvert år.
+
+Kilde: Utlendingsdirektoratet
+
+## Registrering, søknadsbehandling og avklaring av identitet
+
+Politiets utlendingsenhet (PU) registrerer alle asylsøkere som kommer til Norge for å søke om beskyttelse (asyl). Asylsøkere blir primært registrert ved Nasjonalt ankomstsenter i Råde. Etter et kort opphold på senteret overføres de fleste til asylmottak fram til bosetting eller retur.
+
+Det totale antallet ankomster er én av flere faktorer som påvirker politiets registreringskapasitet. Hvor raskt ankomstene skjer, hvor stor andel det er mulig å fastslå identiteten til og andel mindreårige, er noen eksempler på faktorer som vil påvirke kapasiteten. Asylsøkere skal gjennomføre et asylintervju hvor de blant annet må fortelle om hvorfor de har behov for beskyttelse i Norge. Det skal være med en tolk under intervjuet. Som et grunnlag for å fatte riktige vedtak, er det viktig å avklare søkeres identitet. Etter asylintervjuet behandler utlendingsmyndighetene søknaden og fatter et endelig vedtak.
+
+## Informasjon
+
+Asylsøkere og andre beboere i asylmottak skal så tidlig som mulig få nødvendig informasjon og grunnleggende kunnskap om det norske samfunnet og verdiene det bygger på. Alle asylmottak skal ha et informasjonsprogram om dette. Informasjonsarbeidet skal bidra til at beboerne kan ivareta sin egen livssituasjon, kjenne rettighetene og pliktene sine, ta informerte valg og bli best mulig forberedt til bosetting eller retur. Nettressursen *Ny i Norge* vil være viktig for å gjøre nyankomne innvandrere kjent med rettigheter og plikter, se boks 6.1.
+
+Noe informasjon er målrettet mot ukrainere i Norge. Integrerings- og mangfoldsdirektoratet har siden våren 2022 fortløpende lagt ut informasjon på nettsidene oversatt til ukrainsk, engelsk og russisk. Informasjonen gjelder beskyttelse og opphold i Norge og arbeid og kvalifisering. Arbeids- og velferdsdirektoratet har lagt ut informasjon om arbeids- og velferdsforvaltningens tjenester og ytelser rettet mot fordrevne på sine nettsider. Informasjonen er oversatt til ukrainsk og russisk. Det er også opprettet en egen nettside på nav.no med informasjon til arbeidsgivere. Utdanningsdirektoratet har utviklet informasjon myntet på nyankomne om det norske barnehage- og skolesystemet på en rekke språk, inkludert russisk og ukrainsk. Direktoratet vurderer også fortløpende om det er behov for mer informasjon på ulike språk. I forbindelse med søknadsfristen i 2023 til videregående opplæring og for barnehageopptaket, ble det utviklet informasjon på ukrainsk som ble formidlet i ulike kanaler.
+
+De fleste overføringsflyktninger deltar på kulturorientering før de kommer til Norge. Kurset holdes vanligvis i det landet flyktningene er i før ankomst til Norge. Kurset inneholder informasjon om utdanning, arbeid og kvalifisering, helse, skikker og normer, lover og regler. IOM Norge gjennomfører programmet på oppdrag fra IMDi. Kursene holdes på flyktningenes morsmål eller et annet språk som flyktningene forstår godt. Kulturorienteringsprogrammet er et tilbud til personer som er åtte år eller eldre.
+
+Ny i Norge
+
+Ny i Norge er en nettressurs som samler informasjon fra offentlige myndigheter som kan hjelpe nyankomne asylsøkere, flyktninger og andre innvandrere i den nye hverdagen i Norge. Ressursen gjør den enkelte kjent med rettigheter og plikter.
+
+Ny i Norge ble publisert 1. juni 2023 med informasjon til voksne personer som har søkt eller skal søke beskyttelse i Norge som følge av krigen i Ukraina. Nettsiden oppdateres fortløpende og utvides med informasjon fra flere offentlige aktører om temaer som er relevante for personer med kort botid i Norge.
+
+Ny i Norge vil bli utvidet med informasjon til andre nyankomne flyktninger og innvandrere de kommende årene. Nettstedet eies og driftes av Integrerings- og mangfoldsdirektoratet, og innholdet utvikles og oppdateres i samarbeid med andre offentlige aktører.
+
+Rammeslutt
+
+## Asylmottak
+
+Det primære formålet med mottakssystemet er å sikre innkvartering for de som søker om beskyttelse mens de har en søknad til behandling. Innkvartering i asylmottak og omsorgssentre er frivillig og skal være et midlertidig tilbud. Justis- og beredskapsdepartementet har delegert det operative ansvaret for innkvartering av asylsøkere til UDI. UDI skal sørge for et nøkternt, men forsvarlig innkvarteringstilbud for den enkelte.
+
+Etter den første fasen på et ankomstsenter bor noen asylsøkere på et *transittmottak* før de reiser videre til et ordinært asylmottak, et privat boforhold eller ut av landet. De fleste asylsøkere bor på *ordinære asylmottak* mens søknaden deres blir behandlet, og de bor der fram til de er bosatt eller har fått endelig avslag på søknaden. *Akuttinnkvartering* er et tilbud som brukes i perioder med store og/eller raske ankomster, og når det ikke er mulig å få på plass tilstrekkelig mottakskapasitet raskt nok.
+
+Overføringsflyktninger skal bare unntaksvis innkvarteres på asylmottak i påvente av bosetting.
+
+UDI har tilrettelagte avdelinger som er tilpasset asylsøkere med fysiske og/eller psykiske hjelpebehov eller som trenger hjelp til å mestre hverdagen. UDI har også særskilte bo- og omsorgsløsninger (særbol) for beboere med særskilte behov og som har hatt episoder med trusler og utagerende oppførsel i ordinære mottak. I tillegg har UDI særskilte pleie- og omsorgsløsninger (særpleie) for beboere som på grunn av omfattende pleie- og omsorgsbehov ikke kan ivaretas i de andre mottakstypene. Målgruppen er i all hovedsak voksne.[^94]
+
+Både kommunale, private og ideelle aktører drifter asylmottak på vegne av UDI. Asylmottakene er lokalisert i hele landet. Vertskommunene for asylmottak mottar et årlig tilskudd fra staten som skal dekke de gjennomsnittlige utgiftene til helsetjenester, barnevern, tolketjenester og administrasjon av slike tjenester i kommunen.[^95] Vertskommunene får også tilskudd for elever i grunnskolealder som bor i asylmottak, og for å utføre kompetansekartlegging av beboere i mottak, se punkt 7.3.2.
+
+Selv om asylmottak i utgangspunktet skal være et innkvarteringstilbud en kort periode, kan oppholdstiden bli lengre enn ønsket. Det er forskjeller i ventetid blant beboere i asylmottak. Noen utslagsgivende faktorer er nasjonalitet, familietype og om personer har spesielle behov.[^96] Lang ventetid kan være svært belastende og kan føre til at den enkelte blir passivisert, demotivert og får økte eller nye helseplager. Samtidig lærer mange som bor lenge i mottak norsk og samfunnskunnskap, og noen etablerer sosiale nettverk. Det kan fremme mulighetene til å komme i jobb eller ta utdanning.
+
+Det er til barn og unges beste at tiden i mottak begrenses, og at de så raskt som mulig blir bosatt i en kommune. Rapporter har vist at beboere opplever å bli flyttet mellom flere mottak.[^97] Samtidig har barn og unge behov for å oppleve trygghet og stabilitet for å kunne utvikle seg og lære best mulig. Det er godt dokumentert at det er en generell sammenheng mellom psykisk helse og læring for alle elever.[^98] Dersom barn og unge likevel må oppholde seg lengre tid i mottak, vil noen avbøtende tiltak kunne være nødvendig for å redusere de negative konsekvensene for barn og unge.
+
+### Tilbudet i asylmottak
+
+For at innvandrere skal bli en del av det norske samfunnet, bør de få tilbud om informasjon og opplæring så tidlig som mulig.
+
+Asylsøkere i asylmottak som er over 18 år, har plikt til å delta i 175 timer opplæring i norsk og 25 timer opplæring i samfunnskunnskap.[^99] Opplæringen i samfunnskunnskap skal bidra til å bygge opp under holdninger og verdier som toleranse, likeverd og respekt. I deltakernes møte med et nytt land er formålet med opplæringen å bidra med nødvendig kunnskap om det nye samfunnet de skal være en del av, og på den måten bidra til å skape en felles referanseramme.
+
+Mottaksbeboere som har fått innvilget opphold i Norge, trer inn i målgruppa for opplæring i norsk og samfunnskunnskap etter integreringsloven. Kommunen der asylmottaket ligger skal sørge for opplæring så snart som mulig etter at personen har folkeregistrert seg. Personer som med stor sannsynlighet vil få innvilget oppholdstillatelse, eller som venter på å bli bosatt i en kommune, kan få tilbud om innkvartering i et *integreringsmottak* (boks 6.1).
+
+Integreringsmottak
+
+Integreringsmottak skiller seg fra ordinære asylmottak ved at beboere over 18 år får tilbud om og er forpliktet til å delta i et fulltidsprogram. Formålet med fulltidsprogrammet er å gjøre det lettere å komme raskere i arbeid og bidra i samfunnet. Tilbudet skal omfatte opplæring i norsk og samfunnskunnskap, arbeidsrettede aktiviteter, kompetansekartlegging og karriereveiledning. Målgruppen er personer som har fått, eller sannsynligvis vil få, oppholdstillatelse i Norge. Integreringsmottak tilbyr tjenester til beboerne sammen med kommunen, det lokale karrieresenteret og NAV-kontoret. Tjenestene er en del av et fulltidsprogram som beboerne forplikter seg til å delta i. I dag finnes det integreringsmottak i Steinkjer og Kristiansand. Integrerings- og mangfoldsdirektoratet (IMDi) koordinerer den statlige innsatsen med integreringsmottak.
+
+Rammeslutt
+
+Kommunen der asylmottak ligger kan tilby standardiserte elementer fra introduksjonsprogrammet og andre integreringsfremmende tiltak til personer som bor i asylmottak og har fått innvilget en oppholdstillatelse. Integreringsfremmende tiltak motvirker passivitet og bidrar til å starte kvalifiseringen tidlig. Eksempler på slike tiltak kan være foreldreveiledning, livsmestring, realkompetansevurdering, godkjenning av medbrakt høyere utdanning og karriereveiledning i samarbeid med fylkeskommunen. Personer som er i målgruppen for ordningen med midlertidig kollektiv beskyttelse, har ikke plikt til å delta i opplæringen i asylmottak. Botiden i asylmottak for denne gruppen har til nå vært svært kort.
+
+Tall fra IMDi viser at 50 prosent av asylsøkerne som hadde plikt til opplæring i norsk i mottak, deltok i slik opplæring i 2022. Det var en nedgang på 18 prosentpoeng siden året før. Tilsvarende andel for deltakelse i opplæring i samfunnskunnskap var 21 prosent, noe som utgjorde en nedgang på 23 prosentpoeng siden året før.[^100] Nedgangen kan ifølge IMDi ha sammenheng med at de kommunale voksenopplæringene har hatt problemer med å bygge opp kapasitet i tråd med behovet. Andelen asylsøkere som deltok i slik opplæring, kan også være påvirket av at botiden i mottak var kort i 2022. Dette er uansett lave tall på deltakelse, og regjeringen vil jobbe for at flere starter opplæring og kvalifisering for arbeid allerede i asylmottak.
+
+Frivillige organisasjoner spiller en viktig rolle for beboere i asylmottak. IMDi forvalter en tilskuddsordning til frivillige organisasjoner. Tilskuddet skal stimulere til aktiviteter som bidrar til at beboere i mottak får en meningsfull hverdag og bedre muligheter for deltakelse i arbeid eller utdanning, blant annet gjennom norsktrening og arbeidsrettede tiltak. Aktivitetene skal bidra til å øke kunnskapen om det norske samfunnet og gi informasjon om rettigheter og plikter. Videre skal de bidra til økt deltakelse i lokale lag og foreninger. Målgruppen er primært beboere over 18 år, men familieaktiviteter kan inngå.
+
+Fritidsaktiviteter er viktig for barns deltakelse og inkludering. UDI forvalter en tilskuddsordning til aktivitetstilbud for barn i asylmottak. Formålet er gi barn i asylmottak en meningsfull hverdag gjennom et aktivitetstilbud tilpasset barnets alder, utviklingsmessige behov og interesser. Enkeltpersoner, frivillige organisasjoner og ikke-fortjenestebaserte virksomheter kan søke. Det kan være fysiske aktiviteter, kulturelle opplevelser, hobbyvirksomheter, utflukter og opplæring i praktiske ferdigheter som kan komme til nytte i Norge eller hjemlandet.
+
+Stord petanqueklubb
+
+Frivillige organisasjoner og idretten spiller en viktig rolle i integreringsarbeidet, også for beboere i asylmottak. Organisasjoner legger til rette for norsktrening, idrett og fritidsaktiviteter. Et eksempel er Stord Petanqueklubb, som har etablert et prosjekt ved Stord asylmottak. Mottaksbeboere er med i de faste petanque-aktivitetene, der det spilles med stålkuler på grus. Tilbudet engasjerer mange beboere og fungerer som en møteplass for lokalbefolkning og beboere på asylmottaket.
+
+Rammeslutt
+
+Barn i asylmottak skal, fra de er to år til grunnskolealder, ha et tilrettelagt tilbud på minimum tre timer per dag, mandag til fredag. Tilbudet kan gis gjennom egen barnebase på asylmottaket eller ved kjøp av barnehagetilbud eller lignende. Barn under grunnskolealder som bor i asylmottak, har ikke rett til barnehage. En slik rett inntrer først etter at barn og foreldre er innvilget opphold og er bosatt i en kommune. Barn i asylmottak kan likevel tilbys heldags barnehageplass etter søknad fra asylmottakene. Fra 2021 er det gitt tilskudd til heldagsplass i barnehage for barn i asylmottak fra ett år og oppover. Tilskuddet inkluderer foreldrebetaling og kostpenger.
+
+Alle barn i grunnskolealder har rett på opplæring så raskt som mulig. Den absolutte fristen for å gi et fullverdig opplæringstilbud er midlertidig endret fra en til tre måneder. Retten til grunnskoleopplæring gjelder når det er sannsynlig at barnet skal være i landet i mer enn tre måneder. Dette omfatter også barn som har søkt asyl. Kommuner som har asylmottak, må planlegge for at det kan komme barn som raskt skal inn i et opplæringstilbud. Unge asylsøkere mellom 16 og 18 år har rett til videregående opplæring for ungdom eller grunnskoleopplæring for voksne når det er sannsynlig at den enkelte skal være i Norge i mer enn tre måneder. For ungdommer som bor i asylmottak, er det den fylkeskommunen hvor mottaket ligger, som har ansvaret for å oppfylle retten til opplæring. En barriere for deltakelse kan være store avstander mellom mottaket og den videregående skolen.
+
+Forskning viser at den første tiden i et nytt land er viktig. Barnehage, skole og fritidsaktiviteter bidrar til å skape normalitet og forutsigbarhet i hverdagen til barn og unge på flukt.[^101] Barnehage og skole legger til rette for vennskap med jevnaldrende og relasjoner til trygge voksenpersoner. Dette bidrar til å få tankene vekk fra det som er vanskelig. For mange vil skole og utdanning representere håp om en bedre framtid.
+
+### Enslige mindreårige asylsøkere
+
+Enslige mindreårige asylsøkere er barn og unge som kommer til Norge uten foreldre eller andre med foreldreansvar, og som søker beskyttelse. Barna trenger mye og helhetlig oppfølging og bistand i overgangen fra å være mindreårige til å bli voksne. Enslige mindreårige skal derfor prioriteres i saksbehandlingen og bosettingen og ha kortest mulig opphold i asylmottak.
+
+Enslige mindreårige asylsøkere under 15 år får i dag tilbud om opphold i et omsorgssenter. Barne-, ungdoms- og familieetaten (Bufetat) har ansvar for å gi et bo- og omsorgstilbud på et omsorgssenter i statlig eller privat regi fram til barnet blir bosatt i en kommune eller forlater landet etter avslått søknad. Bufetat har også ansvaret for å bosette barn som har fått vedtak om opphold i en kommune. Omsorgssentrene skal gi barnet god omsorg og trygghet og bidra til at det får den individuelle oppfølgingen og behandlingen det har behov for. Det gjelder de samme kvalitetskravene for omsorgssentre som for andre barnevernsinstitusjoner. Statsforvalteren fører tilsyn med at omsorgssentre blir drevet i samsvar med gjeldende regelverk, og at barna som bor der, får forsvarlig omsorg og behandling.
+
+Enslige mindreårige asylsøkere over 15 år får tilbud om innkvartering i egne asylmottak under hele mottaksoppholdet, under UDIs ansvar.[^102] Den praktiske utøvelsen av omsorgsansvaret delegeres til driftsoperatøren ved innkvarteringsstedet. For å sikre at rettighetene til enslige mindreårige i mottak blir ivaretatt, ble det i 2022 innført en uavhengig tilsynsordning der statsforvalteren skal føre tilsyn med omsorgen for enslige mindreårige som bor i asylmottak. Tilsynsordningen omfatter enslige mindreårige asylsøkere med følgeperson som bor på ordinære asylmottak.
+
+Statsforvalteren har også ansvar for å oppnevne en representant for enslige mindreårige asylsøkere og verge etter at oppholdsstatus er avklart. Representant/verge er en voksen person som skal ivareta barnets juridiske og økonomiske rettigheter i Norge i foreldrenes fravær.
+
+I 2022 og 2023 har det kommet flere enslige mindreårige med følgeperson enn årene før. Følgepersoner kan være slektninger eller andre voksne som ivaretar barnet, men hvor den voksne ikke har et formelt foreldreansvar. Andelen som kommer sammen med følgepersoner, er høyere blant enslige mindreårige fra Ukraina enn blant enslige mindreårige fra andre grupper. Enslige mindreårige som registrerer seg hos politiet sammen med følgepersoner, vil som hovedregel få tilbud om plass på et ordinært asylmottak. De får dermed ikke de samme omfattende tiltakene som de som kommer uten følgeperson, som egne bo- og omsorgsløsninger.
+
+Det kan oppstå problematiske situasjoner der følgepersonens relasjon til barnet og vedkommendes omsorgsansvar ikke er avklart. I noen tilfeller er derfor barn og voksen blitt skilt og barnet plassert i innkvartering for enslige mindreårige.
+
+Noen enslige mindreårige og følgepersoner flytter privat allerede ved ankomst. I oktober 2023 sendte Barne- ungdoms- og familiedirektoratet (Bufdir) ut et brev til alle landets kommuner for å klargjøre barnevernets ansvar. Barnevernsloven gjelder for alle barn, også for dem som ikke er formelt bosatt. Dersom barnevernstjenesten får informasjon om et barn som flytter privat, må den vurdere informasjonen. Enhver henvendelse til barnevernet om et barn vil i prinsippet være å anse som en bekymringsmelding i lovens forstand. Alle har en plikt til å melde fra til barnevernet ved bekymring for et barn. Barnevernet vil foreta en undersøkelse og, dersom det er ansett nødvendig, sette inn tiltak. Barnevernet har ikke en generell plikt til å åpne undersøkelsessak og vurdere barnets omsorgssituasjon dersom et barn bor privat hos andre enn foreldrene. Dersom barnevernstjenesten vurderer at det foreligger forhold som kan gi grunnlag for å iverksette tiltak etter loven, bør barnevernstjenesten forsøke å motivere barnet til å flytte til et omsorgssenter (under 15 år) eller et mottak for enslige mindreårige (over 15 år). Dersom barnet ikke vil, må barnevernstjenesten vurdere å iverksette barnevernstiltak.
+
+Erfaring og forskning viser at mange enslige mindreårige asylsøkere som kommer til Norge, har omfattende omsorgsbehov.[^103] Det gjelder både de som kommer med og uten følgeperson. Flere har blitt adskilt fra og mistet muligheten til kontakt med familiemedlemmer, og mange vet ikke om familien fremdeles er i live. Mange av barna har vært utsatt for vold og overgrep, mistet nære personer og vært redde for eget liv under flukten til Norge. Dette dokumenteres i kartleggingsrapportene fra omsorgssentrene og i etterfølgende vedtak om oppfølging. En studie har vist at et flertall av enslige mindreårige asylsøkere har opplevd traumatiserende livshendelser, og at de viste psykologiske symptomer som posttraumatisk stresslidelse, angstsymptomer og depresjon seks måneder etter ankomst.[^104] Oppfølging etter fem år viste betydelig reduksjon i depresjon, men ikke i angst, PTSD og ytre symptomer.[^105]
+
+De senere årene har det kommet stadig yngre barn blant enslige mindreårige asylsøkere. I løpet av 2022 har det vært barn i omsorgssentrene helt ned til seks år. Av de totalt 216 barna under 15 år som kom i 2022, var 38 barn 12 år eller yngre. De yngste barna trenger mindre og tilrettelagte avdelinger med høyere voksentetthet. Bosettingsprosessen rundt de yngste barna krever også mer fra omsorgssentrene. Ofte er det anbefalt fosterhjem for denne gruppen. Det er en prosess som krever grundig kartlegging og vurdering av behov, og samarbeid med andre instanser som bosettingskommune og fosterhjemstjenesten.
+
+De siste årene er det også registrert flere barn som har slekt i Norge. Dette stiller nye krav til hvordan omsorgssentrene jobber for å kvalitetssikre relasjoner til slekt, tilrettelegge for besøk og samvær, og for det bosettingsforberedende arbeidet. For de mest traumatiserte barna med omfattende omsorgsbehov er det i perioder nødvendig med forsterkede tiltak.
+
+Presset på kommunale tjenester og tilbud i vertskommuner for mottak og omsorgssentre påvirker også enslige mindreårige. Det kan føre til forsinkede og manglende helseundersøkelser og at skoletilbudet ikke tilstrekkelig ivaretar barnas rettigheter og behov for tilpasninger.
+
+Erfaringer de siste årene har vist at det er viktig å opprettholde en basiskapasitet og kompetanse på feltet, også i perioder med få ankomster. Tilbudet i omsorgssentre må være fleksibelt for å kunne håndtere en rask og uventet økning i antall enslige mindreårige asylsøkere.
+
+Regjeringen er opptatt av å ivareta enslige mindreårige og vil fortsette å prioritere denne gruppen i saksbehandlingen.
+
+Privatboende og beboere i alternativ til mottak
+
+Det er frivillig for asylsøkere om de vil bo i asylmottak mens de venter på at asylsøknaden blir behandlet. Som hovedregel må personer som velger å bo privat, klare seg selv økonomisk.
+
+Alternativ mottaksplass (AMOT) er en ordning for asylsøkere og andre som har rett til å bo i asylmottak. Ordningen innebærer at en kommune påtar seg ansvaret for å gi et botilbud og til å følge opp personen, mot et økonomisk tilskudd. Det er frivillig for kommunen å ta imot en person på alternativ mottaksplass.
+
+For å få til effektiv innkvartering i forbindelse med økte ankomster fra Ukraina, ble ordningen midlertidig utvidet til også å gjelde for fordrevne fra Ukraina som søker om midlertidig kollektiv beskyttelse (MAMOT). Mange fordrevne fra Ukraina har familie eller annet nettverk i Norge som de ønsker å bo hos. Den midlertidige ordningen ble særlig brukt i 2022 da om lag 30 prosent av de som ble bosatt, hadde bodd privat. Andelen i 2023 var 15 prosent. Tilsvarende andel var på 6 prosent i 2021. 98 prosent av dem som oppholdt seg utenfor mottakssystemet før bosetting, var fordrevne fra Ukraina. Ved årsskiftet 2023/2024 hadde andelen fordrevne fra Ukraina som søkte om MAMOT, sunket til rundt tre prosent. Ordningen ble besluttet avviklet fra februar 2024. MAMOT-ordningen blir etter planen evaluert i 2024.
+
+Rammeslutt
+
+## Tilbakevending og retur
+
+Norge har en ordning for frivillig tilbakevending for flyktninger og fordrevne hvor de som omfattes får dekket flybilletten til hjemlandet og et støttebeløp på 15 000 kroner per person. Det har generelt vært lite interesse for ordningen, men det har vært en økning blant ukrainere som ønsker å vende hjem.
+
+Videre er det slik at utlendinger uten lovlig opphold i Norge, herunder personer med endelig avslag på søknad om asyl, er forpliktet til å forlate landet. Det er ønskelig at returen skjer frivillig. Hvis det ikke skjer, kan personen bli sendt ut med tvang av politiet. For å oppmuntre til retur uten bruk av tvang, forvalter UDI en individuell og søknadsbasert tilskuddsordning for privatpersoner om assistert retur. Støtte kan gis i form av dekning av reiseutgifter og støtte til reintegrering i hjemlandet. Rask retur er viktig for å nå det overordnede målet om kontrollert og bærekraftig innvandring. Det er også viktig for å bevare tilliten til asylinstituttet, motarbeide kriminalitet og å redusere offentlige utgifter.
+
+Regjeringen har en returstrategi for perioden 2023–2029. Regjeringen legger opp til at returer skal gjennomføres effektivt og med god rettssikkerhet, og at returarbeidet nasjonalt skal være samordnet med alle relevante aktører. Returarbeidet til Norge bygger på samarbeid med sentrale opphavsland og på det europeiske samarbeidet.
+
+Regjeringen legger vekt på at returer skal være bærekraftige både for personene som blir returnerte og for opprinnelseslandet.
+
+Regjeringen vil
+
+- jobbe for å starte kvalifisering for arbeid allerede i asylmottak.
+
+- fortsette å prioritere enslige mindreårige i saksbehandlingen.
+
+- opprettholde tilliten til asylordningen gjennom et effektivt returarbeid.

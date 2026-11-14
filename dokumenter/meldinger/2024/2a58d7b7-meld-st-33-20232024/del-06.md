@@ -1,1017 +1,272 @@
-# Meld. St. 33 (2023–2024), del 6 av 15 (side 65–75)
+# Meld. St. 33 (2023–2024), del 6 av 15
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/meldinger/2024/2a58d7b7-meld-st-33-20232024.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/meld.-st.-33-20232024/id3052167/
 - Original-PDF: https://www.regjeringen.no/contentassets/6c89bf4309654a0aaa24a5c6b123b7f1/no/pdfs/stm202320240033000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 tabeller, 44 figurer, 136 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 65]
+## Tiltak for å styrke den enkeltes helse og muligheter for deltakelse i arbeid
 
-2023–2024
+Personer som helt eller delvis står uten arbeid som følge av helseutfordringer er en stor og viktig målgruppe i arbeids- og velferdsforvaltningen. Det er et mål at flere i denne gruppen kan utnytte og styrke sin arbeidsevne og delta i arbeidslivet.
 
-Meld. St. 33
+Arbeids- og velferdsforvaltningen skal foreta en arbeidsevnevurdering dersom det er grunn til å tro at en persons arbeidsevne er nedsatt. Nedsatt arbeidsevne innebærer at en på grunn av sykdom, skade eller andre hindringer (sosiale, språklige mv.) trenger mer omfattende oppfølging og bistand enn det som tilbys ordinære arbeidssøkere for å komme i arbeid.
 
-En forsterket arbeidslinje
+I 2023 var det i gjennomsnitt over 212 000 personer som var registrert med nedsatt arbeidsevne, noe som utgjør 6,1 prosent av befolkningen i alderen fra 18 til 66 år. Rundt to tredeler av disse mottok arbeidsavklaringspenger (AAP), som er en helserelatert ytelse.
 
-kvalifiseres til ledige jobber og får en mer stabil
-tilknytning til arbeidslivet.
-Samtidig med endringene i opplæringstiltaket
-ble mulighetene for å gjennomføre utdanning,
-opplæring og læretid innenfor det kommunale
-kvalifiseringsprogrammet utvidet. Se nærmere
-omtale av kvalifiseringsprogrammet i avsnitt 4.6.1.
-I 2021 ble det iverksatt endringer i dagpengeregelverket som gir bedre mulighet til å kombinere dagpenger med opplæring og utdanning i
-ledighetsperioden. Endringene kom etter at flere
-offentlige utvalg hadde pekt på behovet for mer
-fleksibilitet i mulighetene for å ta utdanning mens
-man mottar ytelser.4 Regelverket legger særlig til
-rette for at arbeidsledige og permitterte kan fullføre grunnskole, videregående opplæring og høyere yrkesfaglig utdanning i dagpengeperioden,
-men det er også muligheter for å gjennomføre
-høyere utdanning i en viss utstrekning.
-I de senere årene har Lånekassens ordninger
-blitt bedre tilpasset behovene til voksne. Den
-nedre grensen på 50 prosent av fulltidsutdanning
-for at utdanninger kan bli godkjent for utdanningsstøtte, ble avviklet i 2020. Personer som
-kombinerer dagpenger med opplæring og utdanning, kan også ha rett til utdanningsstøtte fra
-Lånekassen i den samme perioden. Fra høsten
-2024 er begrensninger i tilgangen til utdanningsstøtte fra Lånekassen til personer som deltar i opplæring som er satt i gang av, eller som foregår i
-samarbeid med Arbeids- og velferdsetaten, avviklet. Det innebærer at videregående opplæring for
-voksne gir rett til lån og stipend uavhengig av
-hvordan opplæringen er organisert. Samtidig styrkes tilgangen til utdanningsfinansiering for unge
-voksne mellom 19 og 25 år som mangler videregående opplæring.
-Ansvarsfordelingen mellom arbeidsmarkedspolitikken og utdanningspolitikken påvirkes også
-av reformer i utdanningssektoren, se blant annet
-Meld. St. 21 (2020–2021) Fullføringsreformen –
-med åpne dører til verden og fremtiden, og ny opplæringslov som ble iverksatt fra 1. august 2024.
-Regjeringens mål er at alle skal kunne fullføre
-videregående opplæring. Dette målet omfatter
-også personer med manglende kvalifikasjoner
-som står utenfor arbeidslivet. Med ny opplæringslov vil både ungdom og voksne ha rett til opplæring fram til fullført studie- eller yrkeskompe4
+Felles for mange av dem som står utenfor arbeidslivet på grunn av helseutfordringer, er at de har behov for bistand både fra arbeids- og velferdsforvaltningen og helse- og omsorgstjenesten for å komme i jobb. Noen trenger også bistand fra andre sektorer, som utdanningssektoren.
 
-NOU 2018: 13 Voksne i grunnskole- og videregående opplæring – Finansiering av livsopphold. NOU 2019: 7 Arbeid og
-inntektssikring – Tiltak for økt sysselsetting. NOU 2019: 12
-Lærekraftig utvikling – Livslang læring for omstilling og konkurranseevne. NOU 2021: 2 Kompetanse, aktivitet og inntektssikring – Tiltak for økt sysselsetting.
+### Personer som trenger både arbeidsrettet bistand og helsetjenester
 
-63
+Personer med nedsatt arbeidsevne grunnet helseutfordringer er en sammensatt gruppe. Mange kan være i jobb med noe arbeidsrettet bistand. Andre har helseutfordringer som tidvis lar seg kombinere med arbeid, og noen har medisinske tilstander som er uforenlige med arbeid. Slike tilstander kan være midlertidige eller varige.
 
-tanse. For de som har studie- eller yrkeskompetanse fra før er det innført en yrkesfaglig rekvalifiseringsrett. Det gir nye muligheter også for
-arbeids- og velferdsforvaltningens brukere. Samtidig vil det fortsatt være brukergrupper med
-behov for ekstra oppfølging og tilrettelegging,
-hvor det kan være aktuelt at arbeids- og velferdsforvaltningen bidrar i finansieringen og tilretteleggingen av opplæringstilbudet.
-Sammen med utvidede rettigheter i ny opplæringslov er modulstrukturert opplæring innført
-som hovedmodell for opplæring for voksne, både
-på nivået under videregående opplæring5 og i
-utvalgte lærefag i videregående opplæring. Det vil
-også være mulig å tilby opplæringsløp som kombinerer moduler fra ulike nivåer. At opplæringen
-deles inn i moduler skal gjøre den mer tilpasset
-den enkeltes behov og livssituasjon, og gjøre terskelen lavere for å begynne på og fullføre et opplæringsløp og ta i bruk nye og utvidede rettigheter i opplæringsloven. Evalueringen av forsøk med
-modulstrukturert opplæring viser at modulisert
-fag- og yrkesopplæring for voksne når flere, også
-Arbeids- og velferdsetatens brukere, og at flere
-oppnår et fag- eller svennebrev.6
-Samlet sett innebærer endringene at både
-samarbeidsflatene og grenseflatene mellom
-arbeidsmarkeds- og utdanningspolitikken er blitt
-større. Utdanningstilbudet og utdanningsstøtteordningen er blitt mer fleksibel og bedre tilrettelagt for ulike grupper. Flere får rett til å fullføre
-videregående opplæring enn tidligere. Arbeidsmarkedsmyndighetene har på sin side tatt et
-større ansvar for å gi tilbud til personer som står
-utenfor arbeid og utdanning, og som har behov
-for formell kompetanse for å komme i arbeid.
-Regjeringen mener dette gir et bedre tilbud til
-flere, og vil støtte opp under og videreutvikle samarbeidet mellom Arbeids- og velferdsetaten og
-utdanningsmyndighetene. Konsekvenser av regelverksendringer og nye satsinger vil evalueres og
-vurderes. Se nærmere omtale i avsnitt 4.1.5.
+Det kan være vanskelig å anslå presist i hvilken grad en helseutfordring begrenser muligheten til å delta i arbeidslivet, og hva som bør være det rette innholdet i hjelpetilbudet og tidspunktet for arbeidsrettet bistand. Slike vurderinger forutsetter gjerne tett samarbeid og god informasjonsflyt mellom NAV-kontoret, helsetjenesten og brukeren selv. Her kan også de rådgivende legene i Arbeids- og velferdsetaten spille en viktig rolle. Mulighetene til å delta i arbeidslivet avhenger også i stor grad av tilrettelegging, fleksibilitet og inkluderingsevne hos arbeidsgiverne. Her vil blant annet muligheter for å jobbe deltid, fleksibel arbeidstid og andre former for tilpasninger kunne være avgjørende. Ulike tilretteleggingsordninger og arbeidsmarkedstiltak som skal bidra til økt inkludering i arbeidslivet beskrives nærmere i kapittel 5.
 
-4.1.2
+Personer med helseutfordringer som har problemer med å delta i arbeidslivet kan motta helserelaterte ytelser fra Arbeids- og velferdsetaten. Blant mottakere av både sykepenger, arbeidsavklaringspenger og uføretrygd er psykiske lidelser og muskel- og skjelettlidelser de to største diagnosegruppene, se også kapittel 2. I 2023 utgjorde andelen med psykiske lidelser over 40 prosent av alle som mottok arbeidsavklaringspenger og om lag 70 prosent blant mottakere under 30 år. Også blant nye mottakere av uføretrygd, utgjør personer med psykiske lidelser en stadig større andel sammenliknet med andre diagnosegrupper. Særlig gir utviklingen blant unge med psykiske plager og lidelser grunn til bekymring, og følges nøye både gjennom forskning og tiltak på flere områder.
 
-Utfordringer ved bruk av
-opplæringstiltak
-Det har av ulike grunner vært en svak utvikling i
-bruk av opplæringstiltak de siste årene. Antall del5
-6
+Muskel- og skjelettplager er også en viktig årsak til nedsatt helse- og livskvalitet. Muskel- og skjelettlidelser sto for 33 prosent av alle tapte dagsverk knyttet til legemeldt sykefravær i 2023. Over tid er det registrert en viss nedgang i denne andelen. I 2023 var om lag 30 prosent av alle mottakere av arbeidsavklaringspenger registrert med muskel- og skjelettlidelser. Blant uføretrygdede viser utviklingen fra 2000 til 2017 at andelen med muskel- og skjelettsykdommer har gått noe ned i perioden.
 
-Grunnskole for voksne er i ny opplæringslov omtalt som
-forberedende opplæring for voksne.
-Dahle, M., Nordhagen, I.C., Jones, H. og Monsen, M.
-(2024). Fag- og yrkesopplæring på voksnes premisser. Sluttrapport ra følgeevaluering av forsøk med modulstrukturert
-fag- og yrkesopplæring. Rapport 2024:1. Bergen: Ideas2evidence.
+Generelt mottar flere kvinner enn menn helserelaterte ytelser. I NOU 2023: 5 *Den store forskjellen – Om kvinners helse og betydningen av kjønn for helse* framkommer det at en lavere andel kvinner er sysselsatte og at flere er i deltidsarbeid. Kvinner har også høyere deltakelse i lavlønnsyrker, høyere sykefravær og er oftere uføretrygdede. Kvinner og menn har ulik biologi og helse, og velger yrker som gir ulik belastning. Kvinnehelseutvalget påpeker at det er for lite kunnskap om hvordan disse forholdene påvirker kjønnsforskjeller i arbeidslivet og betydning for folkehelse og levekår. Regjeringen har fulgt opp kvinnehelseutvalgets forslag og nedsatt et utvalg som skal utrede kvinners vilkår for deltakelse i arbeidslivet, arbeidshelse og sykefravær. Utvalget skal blant annet vurdere betydningen arbeidsforhold og arbeidsmiljø har for helse gjennom ulike livsfaser, og vurdere mulige tiltak.
 
-[Side 66]
+Blant personer som mottar helserelaterte ytelser, vil mange trenge oppfølging fra både arbeids- og velferdsforvaltningen og helsetjenestene for å øke deltakelsen i arbeidslivet og bedre helsen. Det er godt dokumentert at deltakelse i arbeidslivet kan virke helsefremmende.[^48] Over tid er det etablert et godt samarbeid på flere nivåer mellom sektorene for arbeid og helse, og dette har gitt seg utslag i bedre tjenester til målgruppene. Likevel er det fortsatt potensial for å få til et tettere samarbeid med sikte på at flere med helseutfordringer kan komme over i arbeid og aktivitet.
 
-64
+### Arbeids- og velferdsetatens samarbeid med helsesektoren
 
-takere i opplæringstiltaket har gått ned siden
-2011, både i absolutt antall og som andel av totalt
-antall tiltaksdeltakere, se figur 4.1. Det har vært
-nedgang både blant arbeidsledige og personer
-med nedsatt arbeidsevne. Nedgangen har vært
-særlig stor i den delen av opplæringstiltaket som
-har vært knyttet til ordinær utdanning, men det
-har også vært nedgang i AMO-kurs, se figur 4.2.
-Siden 2020 har antall tiltaksdeltakere på opplæring gått opp igjen, særlig for personer med nedsatt arbeidsevne.
-Funn fra en undersøkelse av Nicolaisen og
-Kann (2019) om praksis for bruk av opplæring og
-utdanning overfor unge tyder på at regelverksendringer i forbindelse med innføringen av
-arbeidsavklaringspenger i 2010 ga mindre rom for
-å innvilge formell utdanning.7 Svak utvikling i
-bruk av opplæringstiltak forklares også delvis
-med at kortvarige tiltak prioriteres og at mål om
-«arbeid først» er blitt hengende igjen i Arbeids- og
-velferdsetaten. Det kan også skyldes mangelfull
-kompetanse om utdanningssystemet.
-Veilederne i undersøkelsen opplevde også
-andre barrierer. Mange brukere har lav motivasjon for utdanning. I tillegg kan helsemessige og
-sosiale utfordringer gjøre det vanskelig for mange
-å gå på skole. Det kan føre til at brukere ikke
-ønsker å ta fatt på et lengre utdanningsløp. Det
-7
+Samtidige tilbud om behandling og/eller rehabilitering og arbeidsstøtte kan gi gode resultater. I en artikkel av Cullen m.fl. (2018) går det fram at innsats rettet mot helse, arbeidsplass og/eller koordinering av tjenester bidrar til å redusere tid utenfor arbeidslivet for personer med muskel- og skjelettplager, smertetilstander og psykiske helseplager.[^49] Innsats som innebærer samtidig helsemessig- og arbeidsrettet oppfølging av personer med psykiske lidelser, som i Individuell jobbstøtte (se boks 4.8), har vist seg å øke sannsynligheten for ordinær arbeidsdeltakelse.[^50] Det er derfor en viktig ambisjon å sikre tettere samhandling mellom Arbeids- og velferdsetaten og helsetjenesten, slik at oppfølgingen i større grad foregår parallelt.
 
-2023–2024
+I oppdragsdokumenter til de regionale helseforetakene understrekes den positive betydningen arbeid og aktivitet kan ha på helsen og som et bidrag til inkludering. De regionale helseforetakene skal bidra til at pasienter i spesialisthelsetjenesten tilbys samtidige helse- og arbeidsrettede tilbud i samarbeid med arbeids- og velferdsforvaltningen, for å inkludere flere i arbeidsliv eller utdanning.
 
-Meld. St. 33
+Regjeringen ønsker at det skal bli lettere for personer med helseutfordringer å bruke sin arbeidsevne og delta i arbeidslivet. I Meld. St. 9 (2023–2024) *Nasjonal helse- og samhandlingsplan 2024–2027 – Vår felles helsetjeneste* går regjeringen inn for å inkludere flere med helseutfordringer i arbeid, styrke arbeidsrettet rehabilitering og bidra til et bedre arbeidsmiljø gjennom
 
-En forsterket arbeidslinje
+- et forsterket samarbeid mellom helsesektoren og arbeids- og velferdssektoren,
 
-gjelder særlig de yngste brukerne. Evne og motivasjon til utdanning ser ut til å øke noe med alder.
-En annen gruppe som har svake forutsetninger for å kunne benytte seg av opplæringstiltak og
-andre kvalifiseringstilbud er innvandrere med
-svake grunnleggende kvalifikasjoner, lave norskferdigheter og lite relevant arbeidserfaring. Ideas2evidence (2023) har kartlagt ulike tilbud til
-denne målgruppen.8 De finner at eksisterende tilbud i liten grad dekker behovene til målgruppen,
-særlig ikke for dem med svake norskferdigheter.
-Det handler både om manglende tilbud og at
-utforming og innhold i tilbudene ikke er i tråd
-med behovene til målgruppen. Lavterskeltilbud
-som kombinerer arbeidspraksis, grunnskole eller
-annen formell kvalifisering, og norskopplæring, er
-lite utbredt. Utredningen peker på behov for
-bedre bruk av arbeidslivet som opplærings- og
-kvalifiseringsarena. For deltakere som ikke har
-forutsetninger for å kunne følge et lengre opplæringsløp, er det behov for tiltak som i større grad
-åpner for å kombinere relevant arbeidspraksis,
-yrkesrettet opplæring og arbeidslivskunnskap, se
-omtale i avsnitt 4.4.3.
-Dersom flere skal få tilgang på opplæring og
-utdanning som kan kvalifisere for ledige jobber,
-8
+- satsing på effektive samhandlingsmodeller og utprøving av nye modeller for tjenestesamhandling,
 
-Nicolaisen, H. og Kann, I.C. (2019). Hvem får hva og hvorfor? Utdanning, opplæring og unge NAV-brukere. Arbeid og
-velferd, 2019:1.
+- at arbeidsinkludering i større grad inkluderes som behandlings- og/eller rehabiliteringsmål i helse- og omsorgstjenesten,
 
-Hageberg, E., Svanæs, S., Kristoffersen, E. og Skyberg H.
-(2023). Kompetanse for fremtiden – utredning av behovet for
-et nytt arbeidsrettet kvalifiseringstilbud for innvandrere med
-lave norskferdigheter og lite formell kompetanse. Rapport
-2023:4. Oslo og Bergen: Ideas2evidence.
+- å styrke og samordne kompetanse og kvalitet innenfor arbeid og helse og
 
-25 000
+- å styrke det strategiske samarbeidet mellom arbeidsmiljø- og helsemyndighetene.
 
-40
-35
+Samarbeidet mellom arbeids- og velferdsforvaltningen og helse- og omsorgstjenestene løftes også fram i Meld. St. 23 (2022–2023) *Opptrappingsplan for psykisk helse (2023–2033)*. Planen understreker at psykisk helse er ett av regjeringens viktigste satsingsområder. Det trengs en sterkere innsats for å forebygge psykiske plager og lidelser, og terskelen for å få hjelp må bli lavere. Planen har tre innsatsområder: Helsefremmende og forebyggende psykisk helsearbeid, gode tjenester der folk bor og tilbudet til personer med langvarige og sammensatte behov. Ett av resultatmålene i opptrappingsplan for psykisk helse er knyttet til å redusere andelen unge som blir uføre med bakgrunn i psykiske plager og lidelser. Innsatsen for å få flere unge i arbeid, aktivitet og utdanning framheves.
 
-20 000
-30
-25
+Det er viktig å legge til rette for at helse- og omsorgstjenestene og arbeids- og velferdsforvaltningen kan samarbeide bedre for å møte brukernes behov for tjenester. Arbeids- og velferdsdirektoratet og Helsedirektoratet har utarbeidet en egen strategi for fagfeltet arbeid og helse (2021), hvor siktemålet er å få til et mer strukturert samarbeid om helhetlige og integrerte tjenester. Mer og tidlig innsats er viktige elementer. Strategien tar videre for seg temaer som kompetansebygging og kunnskapsutvikling, forebygging før behandling og rehabilitering, sterkere involvering av førstelinjen, bedre samhandling mellom tjenestene og bedre utnyttelse av digitale verktøy. Målene og virkemidlene i strategien skal være førende for fagfeltet arbeid og helse.
 
-15 000
+Samhandlingsmodeller skal gi bedre tjenester
 
-20
-10 000
+Gjennom samarbeid mellom helse- og omsorgssektoren og arbeids- og velferdssektoren er det utviklet samhandlingsmodeller som skal sikre en bedre samordning av tiltak og tjenester overfor bestemte målgrupper med helseutfordringer, hvor målet er ordinært lønnet arbeid.
 
-15
-10
+Én av modellene, *Individuell jobbstøtte* (IPS), gir et viktig, integrert tilbud som skal hjelpe flere med psykiske lidelser og/eller rusmiddelproblemer til å komme over i inntektsgivende arbeid, se boks 4.8 for nærmere omtale.
 
-5 000
-5
-0
+Individuell jobbstøtte (IPS)
 
-0
-2011
+IPS er en rehabiliteringsmodell hvor kjernen er et forpliktende samarbeid om samtidig helsemessig og arbeidsrettet oppfølging. IPS er en forkortelse for Individual Placement and Support.
 
-2012
+IPS er også regulert som et oppfølgingstiltak i Arbeids- og velferdsetatens egenregi. Målgruppen er personer med moderate til alvorlige psykiske lidelser og/eller rusmiddelproblemer som får behandling i helse- og omsorgstjenesten, og som trenger tett oppfølging fra en jobbspesialist.
 
-2013
+Jobbspesialistene har ansvar for den arbeidsrettede oppfølgingen og skal inngå som en integrert del av behandlingsteamene i helse- og omsorgstjenesten.
 
-Arbeidsledige
+Jobbspesialisten følger deltakeren fra arbeidssøking til formidling, og underveis i arbeidsforholdet. Deltakeren kan også få oppfølging under opplæring og utdanning. I tillegg kan jobbspesialisten tilby nødvendig oppfølging til arbeidsgivere som tilsetter deltakere gjennom Individuell jobbstøtte.
 
-2014
+IPS-tiltaket har en varighet på inntil ett år for arbeidsledige. For personer med nedsatt arbeidsevne kan tiltaket ha en varighet på inntil tre år.
 
-2015
+\[Boks slutt\]
 
-2016
+I 2021 ble det etablert et forsøk rettet mot personer mellom 16 og 30 år med sammensatte psykiske utfordringer og/eller rusmiddelproblemer, *IPS ung*. Målet er å få flere unge til å gjennomføre utdannings- eller lærlingløp med sikte på deltakelse i arbeid. IPS ung er iverksatt i alle fylker. For personer i IPS ung som deltar i opplæring eller utdanning, kan tiltaket forlenges med inntil ett år, slik at samlet varighet kan være inntil to år, eller fire år for personer med nedsatt arbeidsevne.
 
-2017
+I de senere årene har deltakelsen i IPS og IPS ung økt, se tabell 4.1.
 
-Personer med nedsatt arbeidsevne
+Utvikling i gjennomsnittlig antall deltakere i måneden i IPS og IPS ung. 2019–2023. Årsgjennomsnitt
 
-2018
+06J1xt2
 
-2019
+|         |      |       |       |       |       |
+|---------|------|-------|-------|-------|-------|
+|         | 2019 | 2020  | 2021  | 2022  | 2023  |
+| IPS     | 783  | 1 351 | 1 657 | 1 892 | 2 284 |
+| IPS ung | \-   | \-    | 40    | 595   | 900   |
 
-2020
+Tabellen viser kun deltakere i IPS og IPS ung som ikke kombinerer tiltaket med andre arbeidsmarkedstiltak. Deltakere som er registrert gjennom systemer i helsetjenesten er ikke en del av tallgrunnlaget i tabellen.
 
-2021
-
-2022
-
-2023
-
-Andel av totalt antall tiltaksdeltakere
-
-Figur 4.1 Utvikling i antall deltakere i opplæringstiltak (venstre akse) og som prosent av totalt antall
-tiltaksdeltakere (høyre akse). Gjennomsnitt per måned og prosent. 2011–2023
 Kilde: Arbeids- og velferdsdirektoratet
 
-[Side 67]
+En systematisk oversikt over evalueringer av IPS hovedsakelig i USA og Europa, gjennomført av Folkehelseinstituttet i 2023, viser at den tverrsektorielle oppfølgingen i IPS har god effekt på å få personer med moderate til alvorlige psykiske lidelser over i arbeid.[^51] Liknende funn ser man også i studier gjennomført i Sverige.[^52] I Norge har flere undersøkelser bekreftet gode resultater av IPS, blant annet finner Reme m.fl. (2016) at IPS har positiv effekt på sysselsetting både for personer med moderate og alvorlige psykiske lidelser.[^53]
 
-2023–2024
+I en evaluering av IPS ung går det fram at arbeidsdeltakelsen øker med deltakelse i tiltaket.[^54] Undersøkelsen viser videre at det er få som er lærlinger samtidig som de deltar i IPS ung, og at flertallet er i jobb.
 
-65
+Selv om IPS-tilbud finnes i alle fylker, er det store variasjoner i tilbudet innad i fylkene. Regjeringen vil, i tråd med Opptrappingsplan for psykisk helse, videreføre og bygge ut tilbudet om Individuell jobbstøtte (IPS).
 
-Meld. St. 33
+Arbeids- og velferdsetatens bidrag til arbeidsrettet oppfølging er viktig også i andre integrerte tjenestetilbud, for eksempel i ambulante tjenester som *ACT* eller *FACT*.[^55]
 
-En forsterket arbeidslinje
+*HelseIArbeid* er en helsefremmende og forebyggende modell som leveres i tett samarbeid mellom spesialisthelsetjenesten og Arbeids- og velferdsetaten. Se nærmere omtale av HelseIArbeid i boks 4.9.
 
-18 000
+HelseIArbeid
 
-25
+HelseIArbeid består av to varianter, et bedriftstiltak og et individtiltak.
 
-16 000
-20
+I bedriftstiltaket tilbys virksomheter kunnskapsformidling og hjelp til å relatere fagstoffet til hverdagen på egen arbeidsplass. Målet er at alle på arbeidsplassen får økt forståelse for hvordan vanlige muskel- og skjelettplager og psykiske helseplager arter seg, og betydningen av et godt inkluderende arbeidsmiljø. Det kan føre til at flere fungerer bedre i arbeidslivet med plager, og et arbeidsmiljø der alle på arbeidsplassen blir støttet og inkludert.
 
-14 000
-12 000
+Individtiltaket er et tilbud til pasienter med sammensatt problematikk som kan ha behov for rask tverrfaglig medisinsk og arbeidsrettet utredning, når den kommunale helse- og omsorgstjenesten og Arbeids- og velferdsetaten hver for seg ikke har et tilstrekkelig tilbud. Målet med individtiltaket er å gjøre den enkelte i stand til å håndtere sine plager bedre både på jobben og i privatlivet, gjennom å gi pasienten rask utredning og råd som kan øke deres mestringstro.
 
-15
+HelseIArbeid er et virkemiddel i Intensjonsavtalen om et mer inkluderende arbeidsliv (IA-avtalen) 2018–2024, og har i løpet av avtaleperioden blitt tilgjengelig i større deler av landet.
 
-10 000
-8 000
+Det gjennomføres evalueringer av begge tiltakene.
 
-10
+\[Boks slutt\]
 
-6 000
-4 000
+Arbeids- og velferdsdirektoratet og Helsedirektoratet har i 2024 fått i oppdrag å utvikle og prøve ut to nye modeller for systematisk tjenestesamhandling mellom Arbeids- og velferdsetaten og kommunehelsetjenesten rettet mot personer med milde til moderate psykiske lidelser og/eller rusmiddelproblemer, eventuelt også muskel- og skjelettplager. Målet med modellene er å styrke samhandlingen mellom arbeids- og velferdstjenestene og helse- og omsorgstjenestene om personer med slike lidelser. Innsatsen forventes å bidra til bedret helsetilstand og mestringsevne, raskere retur til arbeid og redusert overgang til arbeidsavklaringspenger og uføretrygd.
 
-5
+Den ene modellen innebærer en utprøving av et systematisk samarbeid mellom ansatte fra Arbeids- og velferdsetaten og Rask psykisk helsehjelp om oppfølgingen av felles brukere. Rask psykisk helsehjelp er kommunale tilbud til personer over 16 år med angstlidelser, depresjon eller søvnproblemer. Tilbudet skal være lavterskel ved at det blant annet er gratis og ikke krever henvisning fra lege. Den andre modellen innebærer at ansatte i Arbeids- og velferdsetaten inngår i et samarbeid med fastlegekontor, der behandlingstilbudet styrkes med en jobbfokusert, kognitiv terapeut. Det innebærer at veileder fra NAV-kontor, terapeut og fastlege skal samarbeide om oppfølgingen av felles brukere.
 
-2 000
-0
+Utprøvingen av de to modellene starter i 2024 og skal følgeevalueres.
 
-0
-2011
+### Utfordringer ved kombinerte tjenestetilbud
 
-2012
+Samarbeidet mellom arbeids- og velferdsforvaltningen og helse- og omsorgstjenestene er utviklet over år og fungerer godt mange steder. Likevel kan det oppstå utfordringer i samhandlingen mellom tjenestene.
 
-2013
+Mens målet for arbeidsrettet oppfølging i arbeids- og velferdsforvaltningen er overgang til arbeid, er arbeidsretting ikke et primærmål i helse- og omsorgstjenesten. Kommunene skal tilby helse- og omsorgstjenester i tråd med lov om kommunale helse- og omsorgstjenester. Staten ved de regionale helseforetakene skal sørge for spesialisthelsetjenester i samsvar med lov om spesialisthelsetjenesten, men det er ikke et krav i regelverket at tjenestene skal være arbeidsrettede. Samtidig kan det å vektlegge bistand med sikte på arbeidsdeltakelse være helsefremmende og bidra til raskere bedring.
 
-Tiltaksdeltakere AMO
+I en evaluering av samarbeidet mellom Arbeids- og velferdsetaten og helse- og omsorgstjenestene om tiltaket Individuell jobbstøtte, belyses flere faktorer som hemmer og fremmer det tverrsektorielle samarbeidet. Av undersøkelsen går det blant annet fram at rammene for samarbeidet kan gi noen utfordringer og skape «formelle hindre». Taushetsplikt, manglende tilgang til informasjon gjennom journalsystemer og manglende samlokalisering er faktorer som kan vanskeliggjøre et integrert samarbeid.[^56] Hensyn til personvern og begrenset mulighet for helsetjenesten til å dele helseinformasjon med NAV-ansatte kan i noen tilfeller gjøre det utfordrende å planlegge, drøfte og tilpasse tilbudet til IPS-deltakerne. Profesjonsmotsetninger og manglende felles forståelse kan også gjøre samhandlingen krevende. Samtidig peker Fyhn m.fl. (2021) på at samarbeidet gjerne finner sin form over tid.
 
-2014
+Også i forsøk med IPS ung er det identifisert utfordringer som gjelder integrasjonen mellom Arbeids- og velferdsetaten og helse- og omsorgstjenestene. Det kan i enkelte sammenhenger også være utfordrende at det for unge under 18 år kreves samtykke fra begge foreldre ved deltakelse i et arbeidsmarkedstiltak, mens personene helserettslig anses myndige fra de er 16 år.
 
-2015
+De siste årene er det foretatt presiseringer om tolkninger av regelverket som er særlig relevante for IPS. I samarbeid mellom Helse- og omsorgsdepartementet og Arbeids- og inkluderingsdepartementet, legges det til grunn at IPS-jobbspesialistens oppgaver knyttet til arbeidsrettet oppfølging ikke er å anse som helsehjelp etter helselovgivningen og at IPS-jobbspesialister bør ansettes i og finansieres fra Arbeids- og velferdsetaten. Det innebærer at jobbspesialistenes arbeid kan inngå som en fullt integrert del av behandlingstilbudet når pasienten samtykker til informasjonsdeling.
 
-2016
+Kompetansebygging og veiledning til tjenesteutøverne i begge sektorene om handlingsrommet for samarbeid og prioritering av samtidig helsehjelp og arbeidsrettede intervensjoner kan være viktig for å løse utfordringer ved kombinerte tjenestetilbud. Det må arbeides på ulike nivåer i arbeids- og helsesektoren for å fjerne hindringer i samarbeidet og utvikle mer forutsigbare rammer for samhandlingen. Et samarbeid mellom Helsedirektoratet og Arbeids- og velferdsdirektoratet om retningslinjer og faglige anbefalinger for tjenesteutøvere for IPS og HelseIArbeid, som skal leveres i løpet av 2024, er sentralt i dette. Utvikling av kunnskap om hva som virker for hvem er viktig for at innsatsen skal bli mest mulig målrettet og effektiv. Det gjelder også for samhandling og bruk av virkemidler på tvers av sektorer. Målet er at veiledning og råd om betydningen av arbeidsinkludering også innarbeides i andre veiledende dokumenter.
 
-2017
+Arbeids- og inkluderingsdepartementet og Helse- og omsorgsdepartementet har gitt et felles oppdrag til Arbeids- og velferdsdirektoratet og Helsedirektoratet om å utrede en modell for å styrke og samordne kompetanse og kvalitet innen arbeid og helse, på lokalt, regionalt og nasjonalt nivå. Målet er å etablere en struktur med forankring i de respektive sektorene og sørge for å samle kunnskap og drive god formidling til fagfolk i begge sektorer. En slik struktur vil kunne bidra til å samle fagfeltet, formidle aktuell forskning, drive utvikling av fagfeltet samt støtte implementeringen av tiltak som har vist effekt.
 
-Tiltaksdeltakere utdanning
+Regjeringen vil styrke samarbeidet mellom arbeids- og helseområdet. Det innebærer å legge til rette for at arbeidsinkludering og jobbmestring i større grad inkluderes som behandlings- og/eller rehabiliteringsmål i ordinære helse- og omsorgstjenester og i ulike pasientforløp. Helsepersonell bør systematisk etterspørre og følge opp tilknytning til arbeidslivet i konsultasjoner og i annen kontakt med personer i yrkesaktiv alder.
 
-2018
+Det innebærer også at veiledende dokumenter i større grad tydeliggjør handlingsrommet som helse- og omsorgstjenesten og Arbeids- og velferdsetaten har for forsterket samarbeid og prioritering av arbeidsrettede innsatser og samtidige helse- og arbeidstilbud.
 
-2019
-Andel AMO
+### Tidligere innsats overfor personer i et helseløp
 
-2020
+Ventetid på medisinsk behandling kan være krevende for personer med helseutfordringer. Lang ventetid kan bidra til at avklarings- og behandlingsløp blir lengre enn de hadde trengt å være. Det kan også være betydelig ventetid på arbeidsmarkedstiltak, oppfølging og tilrettelegging som Arbeids- og velferdsetaten selv har ansvar for. Det kan skyldes knapphet på ressurser, manglende arbeidsrettet avklaring mv.
 
-2021
-
-2022
-
-2023
-
-Andel utdanning
+Sysselsettingsutvalgets ekspertgruppe mente at arbeidsrettede tiltak bør starte så tidlig som mulig når det er behov for det, og at det i mange tilfeller tar for lang tid å avklare om den sykmeldte trenger arbeidsrettede tiltak for å komme tilbake i arbeid (NOU 2019: 7 *Arbeid og inntektssikring – Tiltak for økt sysselsetting*). Etter ekspertgruppens mening er det viktig at Arbeids- og velferdsetaten identifiserer den gruppen som trenger ekstra oppfølging. Også i fase to av Sysselsettingsutvalgets arbeid ble det pekt på betydningen av å komme tidlig i gang med arbeidsrettet bistand, når bedriftsinterne tiltak og tilrettelegging ikke fører fram. Utvalget pekte på at risikoen for å falle varig ut av arbeidsmarkedet øker med lengden på fraværet (NOU 2021: 2 *Kompetanse, aktivitet og inntektssikring*).
 
-Figur 4.2 Utvikling i antall deltakere i ulike opplæringstiltak (venstre akse) og som prosent av totalt antall
-tiltaksdeltakere (høyre akse). Gjennomsnitt per måned og prosent. 2011–2023
-Kilde: Arbeids- og velferdsdirektoratet
-
-bør det gjøres ytterligere endringer i opplæringstiltaket, slik at det blir bedre tilpasset personer
-som har svake forutsetninger for å starte på et
-opplæringsløp.
-Mangel på informasjon om utdanningstilbud
-og livsopphold under utdanning
-Mangel på kunnskap om utdanningstilbud blant
-veiledere i arbeids- og velferdsforvaltningen kan
-være en årsak til lite bruk av opplæringstiltak som
-gir formell kompetanse.9 Områdegjennomgangen av arbeidsmarkedstiltakene viser at veilederne i hovedsak har god kunnskap om innholdet
-i arbeidsmarkedstiltakene, men det er et unntak
-når det gjelder mulighetene for bruk av ordinær
-utdanning som opplæringstiltak.10
-Perioder uten tilstrekkelig dekning av livsopphold kan også være en barriere, særlig for voksne
-som ønsker å ta utdanning. Områdegjennomgangen av arbeidsmarkedstiltakene viser at det også
-er noe usikkerhet blant veiledere om hvilke rettigheter til ytelser ulike brukergrupper har under
-utdanning.
-9
-
-Nicolaisen, H. og Kann, I. C. (2019). Hvem får hva og hvorfor? Utdanning, opplæring og unge NAV-brukere. Arbeid og
-velferd, 2019:1.
-10
-Oslo Economics, Proba samfunnsanalyse og Frischsenteret (2023). Områdegjennomgang av arbeidsmarkedstiltak:
-Kartlegging av kunnskap og praksis. Rapport 2023:33. Oslo:
-Oslo Economics.
-
-Lånekassen er statens virkemiddel for støtte til
-livsopphold for studenter og elever. Utdanningsstøtten fra Lånekassen er først og fremst rettet
-mot unge elever, heltidsstudenter og personer
-som ikke trenger individuell oppfølging og tilrettelegging. Lånekassens ordninger er basert på lån,
-og beløpet avkortes ved deltidsutdanning. Stipend
-behovsprøves mot andre inntektskilder og er
-avhengig av utdanningsprogresjon.
-Flere evalueringer og rapporter, blant annet en
-rapport fra Dahle m.fl. (2024), viser at det er krevende å sikre et forutsigbart og tilstrekkelig nivå
-på livsopphold ved gjennomføring av fag- og
-yrkesopplæring for enkelte av arbeids- og velferdsforvaltningens brukergrupper.11 Utfordringen er størst for de som ikke har rett til folketrygdytelser. Det gjelder blant annet innvandrere som
-har avsluttet introduksjonsprogrammet uten å
-komme i arbeid. De siste årene har imidlertid stadig flere mottatt flyktningstipend eller annen
-utdanningsstøtte fra Lånekassen for å fullføre
-videregående opplæring i etterkant av introduk11
-
-Dahle, M., Nordhagen, I.C., Jones, H. og Monsen, M.
-(2024). Fag- og yrkesopplæring på voksnes premisser. Sluttrapport fra følgeevaluering av forsøk med modulstrukturert
-fag- og yrkesopplæring. Rapport 2024:1. Bergen: Ideas2evidence.
-Jordell, H., Eggen, F.W. og Tønder, A. (2023). Fylkeskommunens utfordringer og muligheter i å utvikle et kompetansetilbud til voksne. Rapport 2023:3. Oslo: Samfunnsøkonomisk
-analyse.
-
-[Side 68]
-
-66
-
-Meld. St. 33
-
-En forsterket arbeidslinje
-
-sjonsprogrammet, se Meld. St. 17 (2023–2024)
-Om integreringspolitikken: Stille krav og stille opp.
-Det er en utfordring på tvers av sektorene å
-koble utdanningstilbud og livsoppholdsytelser til
-ulike brukergrupper slik at de virker godt
-sammen.
-Mangel på læreplasser
-Den norske modellen for fag- og yrkesopplæring
-er basert på en lærlingordning der arbeidsgivere
-står for en stor del av opplæringen, se nærmere
-beskrivelse i boks 4.4. Det er imidlertid en utfordring at en del søkere ikke får tilgang til læreplass. Voksne med behov for ekstra tilrettelegging
-og oppfølging kan ha særlige utfordringer med å
-få lærekontrakt.
-En forutsetning i fag- og yrkesopplæringen er
-lærebedriftenes rett til å velge lærling. Det må ses
-i sammenheng med at bedriftene har et formelt
-ansettelses- og opplæringsansvar som skal føre
-lærlingene fram til fagbrev. Det ordinære basistilskuddet en lærebedrift kan motta for lærlinger
-som er 21 år og eldre er på 66 991 kroner i året.
-Det er betydelig lavere enn for yngre lærlinger,
-der basistilskuddet er på 171 432 kroner.
-For brukere fra Arbeids- og velferdsetaten
-som deltar i opplæringstiltak vil det ofte være hensiktsmessig at mest mulig av opplæringen foregår
-i bedrift. Bruk av bedrift som opplæringsarena har
-vist seg å være både en motiverende og effektiv
-måte å lære på for voksne. Erfaringer viser imidlertid at det varierer når i opplæringsløpet den
-voksne får lærekontrakt. Mange vil ha behov for
-en opplæringsperiode før de er kvalifisert for
-læreplass og bedriften er villig til å ta inn vedkommende som lærling på lærlinglønn. Fylkeskommunen er ansvarlig for opplæringen som skjer før
-lærekontrakt inngås.
-Det finnes mye kunnskap om hva som fungerer bra, og hva som kan være barrierer for at brukere registrert i Arbeids- og velferdsetaten oppnår
-målet om å fullføre et fag- og yrkesopplæringsløp.
-Regjeringen vil videreføre og forsterke samarbeidet mellom utdanningssektoren og arbeids- og
-velferdsforvaltningen, og bidra til at virkemidler
-og systemer støtter bedre opp om hverandre. Se
-også avsnitt 4.1.5, hvor samarbeidet mellom
-Arbeids- og velferdsetaten og utdanningsmyndighetene med eksempler på ulike samarbeidsmodeller beskrives.
-
-2023–2024
-
-4.1.3 Bedre opplæringstiltak
-Opplæring som arbeidsmarkedstiltak tildeles på
-grunnlag av en behovs- eller arbeidsevnevurdering, hvor NAV-veileder på skjønnsmessig grunnlag avgjør om tiltak er hensiktsmessig og nødvendig for å komme i arbeid. Det vil derfor være den
-enkeltes behov for opplæring som avgjør om et
-bestemt arbeidsmarkedstiltak er aktuelt. Flere
-personer med nedsatt arbeidsevne deltar på opplæringstiltak sammenliknet med arbeidssøkere.
-Blant de med nedsatt arbeidsevne deltok omtrent
-like mange i arbeidsmarkedsopplæring (AMO),
-fag- og yrkesopplæring og yrkesfaglig utdanning,
-og høyere utdanning i 2023. Flertallet av arbeidssøkere var på AMO-kurs, se figur 4.3.
-Opplæring kan også tilbys som tiltak i introduksjonsprogram eller kvalifiseringsprogram.
-Opplæringstiltak gir gode effekter på overgang
-til arbeid
-Opplæringstiltaket er ett av arbeidsmarkedstiltakene som har vist størst positiv effekt på sannsynligheten for sysselsetting, med sterkere og mer
-stabil tilknytning til arbeidslivet som resultat. En
-kunnskapsoppsummering fra von Simson (2023)
-viser at lavt utdannede arbeidssøkere har spesielt
-stor gevinst av å delta på opplæringstiltak.12 En
-nyere evaluering fra Oslo Economics og Frischsenteret bekrefter opplæringstiltakets positive
-effekter på sysselsetting.13 Det gjelder både for
-arbeidsmarkedsopplæring (AMO) og for utdanning.
-Fordi utdanning tar tid og jobbsøking ofte blir
-satt på vent til man har fullført, er det store innlåsingseffekter de første årene i utdanningstiltaket.
-Positive effekter kommer senere, og resultatene
-tyder på at utdanning har betydelige positive
-effekter når tiltaket er ferdig. Faren for innlåsingseffekter vil være mindre i et arbeidsmarked med
-lav etterspørsel etter arbeidskraft enn i en situasjon med høy etterspørsel. I en slik situasjon kan
-det være fornuftig å benytte tiltak som kan øke
-kompetansen blant arbeidsledige, for å øke mulighetene for en god tilknytning til arbeidslivet når
-situasjonen i arbeidsmarkedet bedres. Innlåsingseffekten er mindre for personer som i
-12
-
-von Simson, K. (2023). Hva virker for hvem? Kunnskapsoversikt over effekter av aktiveringstiltak på sysselsetting og
-arbeidstilbud. Norske erfaringer. Rapport 2023:1. Arbeidsog velferdsdirektoratet.
-13 Oslo Economics og Frischsenteret (2024). Effekter av
-arbeidsmarkedstiltak. Rapport 2024:26. Oslo: Oslo Economics.
-
-[Side 69]
-
-2023–2024
-
-67
-
-Meld. St. 33
-
-En forsterket arbeidslinje
-
-12 000
-10 000
-8 000
-6 000
-4 000
-2 000
-0
-I alt
-
-AMO
-Arbeidssøkere på tiltak
-
-VGS/yrkesfaglig utdanning
-
-Høyere utdanning
-
-Nedsatt arbeidsevne på tiltak
-
-Figur 4.3 Tiltaksdeltakere på opplæring fordelt mellom arbeidssøkere og nedsatt arbeidsevne. Gjennomsnitt
-per måned. 2023
-Kilde: Arbeids- og velferdsdirektoratet
-
-utgangspunktet har små sjanser for å komme i
-arbeid, fordi de mangler kvalifikasjoner som
-arbeidsmarkedet etterspør.
-Behov for et mer fleksibelt opplæringstiltak
-For at flere arbeidssøkere skal få mulighet til å
-delta i opplæring og utdanning som kvalifiserer til
-ledige jobber, er det behov for et godt samspill
-mellom virkemidler og systemer i utdanningssektoren og i arbeids- og velferdsforvaltningen.
-Som nevnt, er det gjort en rekke endringer i
-utdanningssektoren som legger til rette for mer
-fleksible og tilpassede opplæringsløp for voksne.
-Med den nye opplæringsloven gis det viktige utvidelser i rett til opplæring som vil kunne bidra til at
-langt flere skal kunne fullføre videregående opplæring eller få kompetansepåfyll i voksen alder.
-Samtidig vil innføringen av modulstrukturert opplæring bidra til å forsterke samarbeidet mellom
-utdanningssektoren og arbeids- og velferdsforvaltningen. Det vil også gi en bedre kobling mellom utdanningssystemets tilbud, ordningene i
-integreringsloven og arbeidsmarkedstiltak i regi
-av Arbeids- og velferdsetaten, se boks 4.2.
-Regjeringen satser også på utvikling av et fleksibelt og desentralisert tilbud om høyere utdanning, hvor utdanning er tilgjengelig der folk bor
-og tilpasset ulike livssituasjoner. Det skal gjøre tilbudet mer tilgjengelig for en mangfoldig studentpopulasjon.
-
-Regjeringen vil legge til rette for økt bruk av
-opplæringstiltak som gir formell kompetanse, herunder videregående opplæring. Regjeringen vil
-videre se nærmere på forbedringer i Arbeids- og
-velferdsetatens opplæringstiltak for å gjøre det
-mer fleksibelt og tilpasset brukernes behov, og for
-å gjøre det bedre tilpasset utdanningstilbudet. Det
-kan innebære endringer både i innhold, innretning og varighet. Endringer i andre arbeidsmarkedstiltak som inneholder kompetanseelementer,
-som arbeidsforberedende trening, vil også bli vurdert. De ulike tiltaksvariantene og eventuelle forslag til endringer er nærmere beskrevet i de neste
-avsnittene.
-Arbeidsmarkedsopplæring
-Det er ikke alle som ønsker eller har forutsetninger
-for å gjennomføre et opplæringsløp som gir formell
-kompetanse. Det er også arbeidssøkere som kun
-har behov for å oppdatere kompetansen i form av
-kortere kurs for å komme i arbeid. Arbeidsmarkedsopplæring (AMO) kan være et aktuelt tiltak for
-disse gruppene.
-En kartlegging fra Oxford Research og BDO
-(2017) av AMO i syv fylker viser at kursene som
-tilbys er tilpasset brukerens behov og kunnskaper, samt behovet og mulighetene i det lokale
-og regionale arbeidsmarkedet.14 Kartleggingen
-viser at AMO brukes noe ulikt mellom fylkene og
-mellom NAV-kontorene. Forskjellene gjelder både
-
-[Side 70]
-
-68
-
-Meld. St. 33
-
-En forsterket arbeidslinje
-
-2023–2024
-
-Boks 4.2 Modulstrukturert opplæring
-Parallelt med ny opplæringslov innføres modulsluttkompetanse. Deltakeren kartlegges, realstrukturert opplæring som hovedmodell i
-kompetansevurderes og innplasseres i den
-grunnopplæring for voksne, både på nivået
-modulen i det enkelte faget som bygger på medunder videregående opplæring og i utvalgte
-brakt kompetanse. Deltakeren får utstedt komlærefag i videregående opplæring. Alle som har
-petansebevis etter gjennomførte moduler, eller
-fylt 19 år kan velge opplæring for voksne, og da
-går videre mot et fag- eller svennebrev. Kompemodulstrukturert opplæring. Modulstrukturetansebeviset vil også ha betydning når den
-ring innebærer å organisere kompetansemålene
-enkelte søker arbeid. Organiseringen i moduler
-i læreplanen og opplæringen i mindre enheter.
-vil gjøre det enklere å komme tilbake til opplæMålet er å gi et mer fleksibelt og tilrettelagt oppring, kombinere deltakelsen med andre typer tillæringstilbud ved at det skal bli enklere å bygge
-tak og å delta i opplæring mens man arbeider
-videre på den formelle kompetansen og realheltid eller deltid. Deltakere i grunnopplæring
-kompetansen som den enkelte allerede har, og
-med rettigheter etter integreringsloven eller
-at ingen trenger å gjennomføre mer opplæring
-med behov for norskopplæring, skal få opplæenn det som er nødvendig for å oppnå ønsket
-ring der fag og språk er integrert.
-
-innhold, målgruppe og mål med AMO-kursene.
-Ulike arbeidsmarkedsbehov og brukere med
-ulike behov gjør at AMO bør og skal innrettes
-ulikt. Enkelte fylker har utviklet kurstilbud som
-krever lite forkunnskaper og tar utgangspunkt i
-brukernes interesser, se eksempel i boks 4.3.
-Undersøkelser viser at det er behov for å
-bedre opplæringstilbudet til innvandrere med lav
-formell kompetanse, lite arbeidserfaring og svake
-norskferdigheter.15 AMO kan inneholde norskopplæring og opplæring i grunnleggende ferdigheter, men gir ikke mulighet for grunnskoleopplæring for voksne. Med ny opplæringslov fra høsten 2024, er grunnskole for voksne erstattet av forberedende opplæring for voksne. Målgruppen er
-personer som har behov for opplæring på nivået
-under videregående opplæring, enten for å kvalifisere seg til inntak til videregående opplæring,
-eller for å tilegne seg grunnleggende ferdigheter
-som er nødvendig for å delta i arbeids- og samfunnsliv. Det vil i den forbindelse være behov for å
-se på hvordan Arbeids- og velferdsetaten bør
-organisere sitt tilbud, og om det bør åpnes for å
-tilby elementer fra forberedende opplæring for
-voksne i opplæringstiltaket. Se nærmere drøfting
-av dette i avsnitt 4.4.
-
-Boks 4.3 Digitale talenter
-Det kan være et potensial for å videreutvikle
-og nyttiggjøre seg unge gameres digitale kompetanse i arbeidslivet, og koble dem opp mot
-bedrifter som trenger arbeidskraft.
-Det er behov for digital kunnskap i mange
-bransjer. Fylkeskontoret for NAV i Troms og
-Finnmark har anskaffet en rammeavtale på et
-arbeidsmarkedsopplæringskurs kalt «Digitale
-talenter». Opplæringens formål er å utvikle
-deltakernes digitale ferdigheter i tråd med
-egne interesser og karrieremål. Kompetanse
-og mestring som deltaker opparbeider seg
-gjennom opplæringen, skal bidra til at deltakeren kommer i arbeid eller utdanning.
-Alle deltakerne skal ha en individuell opplæringsplan, hvor interesser og jobbmål er
-bestemmende for læringsmålene.
-Opplæringen skal bidra til at deltakerne
-utvikler relasjoner til relevante bedrifter og tilegner seg kompetanse som er etterspurt og
-attraktiv for den ønskede bransjen.
-
-14
-
-Oxford Research og BDO (2017). AMO i syv norske fylker.
-Kartlegging av arbeidsmarkedsopplæring (AMO) i NAV.
-Kristiansand: Oxford Research.
-15
-Hageberg, E., Svanæs, S., Kristoffersen, E. og Skyberg H.
-(2023). Kompetanse for fremtiden. Utredning av behovet for
-et nytt arbeidsrettet kvalifiseringstilbud for innvandrere med
-lave norskferdigheter og lite formell kompetanse. Oslo og
-Bergen: Ideas2evidence.
-
-Fag- og yrkesopplæring
-Fag- og yrkesopplæring på videregående skoles
-nivå og høyere yrkesfaglig utdanning som opplæringstiltak innebærer at tiltaksdeltakere benytter relevante tilbud som er tilgjengelige i fylkes-
-
-[Side 71]
-
-2023–2024
-
-Meld. St. 33
-
-En forsterket arbeidslinje
-
-Boks 4.4 Modeller for
-fag- og yrkesopplæring
-Det finnes tre nasjonale modeller for fag- og
-svennebrev:
-– Den såkalte 2+2-modellen innebærer to års
-opplæring i skole og to år som lærling i
-bedrift. Det vanlige er å ta to år i skole først
-og deretter to år i bedrift, men opplæringen
-kan også organiseres i en vekslingsmodell.
-– Fagbrev på jobb er en ordning for voksne
-som er i et arbeidsforhold, hvor man beholder lønnen under opplæringen. Voksne får
-mulighet til å få fag- eller svennebrev på
-grunnlag av allsidig praksis, realkompetansevurdering og opplæring kombinert med
-veiledet praksis i vanlig arbeid. Det gjelder
-et minimumskrav om ett års allsidig praksis
-i faget for å tegne lærekontrakt, hvor ulønnet arbeid i form av deltakelse i tiltaket
-arbeidstrening kan inngå.
-– Praksiskandidatordningen er ikke en opplæringsordning, men en dokumentasjonsordning med privatisteksamen. Voksne
-som kan dokumentere minimum fem års
-allsidig yrkespraksis kan melde seg til fagog svenneprøve uten opplæring i skole og
-læretid i bedrift.
-
-kommunen, eller i samarbeid mellom kommunen,
-fylkeskommunen og Arbeids- og velferdsetaten.
-Dersom det ikke finnes tilbud, kan Arbeids- og
-velferdsetaten anskaffe opplæring og utdanning
-for sine brukere.
-Det finnes flere veier til fag- og svennebrev som
-kan benyttes av personer som har behov for fag- og
-yrkesopplæring som opplæringstiltak. Hovedmodellen for yrkesfag i Norge er lærlingordningen,
-som består av to år opplæring i skole og to år i
-bedrift. I tillegg finnes det modeller som er særlig
-tilpasset voksne. Det er også muligheter for opplæringsmodeller på lavere nivå enn yrkeskompetanse. Se nærmere beskrivelse i boks 4.4 og 4.5.
-Fagbrev på jobb ble etablert i 2018 som en
-alternativ vei til fag- og svennebrev. Ordningen
-kan være attraktiv for voksne som har økonomiske forpliktelser eller omsorgsforpliktelser som
-gjør det vanskelig å benytte seg av lærlingordningen for å kunne oppnå et fagbrev. En utredning fra
-2023 i regi av Utdanningsdirektoratet vurderte om
-Fagbrev på jobb også kan utvikles til å bli en ordning for arbeids- og velferdsforvaltningens bru-
-
-69
-
-Boks 4.5 Opplæringsmodeller som ikke
-har fagbrev som mål
-Det er to regulerte ordninger for å oppnå kompetanse på lavere nivå enn yrkeskompetanse:
-– Lærekandidatordningen er tilpasset dem
-som ønsker opplæring i bedrift, men som
-ikke har forutsetninger for å nå kravene til
-fag- eller svenneprøven i det ordinære opplæringsløpet. Etter endt opplæring i bedrift
-tar lærekandidaten en kompetanseprøve
-som er mindre omfattende enn fag- eller
-svenneprøven.
-– Praksisbrevordningen er et to-årig opplæringsløp, der en stor del av opplæringen
-foregår i bedrift. Målgruppen er elever fra
-grunnskolen som har svake karakterer og
-høyt fravær, men som ikke har lærevansker
-eller særskilte opplæringsbehov. Praksisbrevkandidater kan gå opp til en kompetanseprøve og få et praksisbrev som dokumenterer kompetansen.
-
-kere og deltakere i introduksjonsprogrammet,
-slik at de kan ta fagbrev samtidig som de får
-arbeidserfaring. Utredningen konkluderte med at
-dagens ordning legger til rette for stor grad av
-fleksibilitet i opplæring for voksne, også for disse
-gruppene. Samtidig viste utredningen varierende
-praktisering av Fagbrev på jobb mellom fylkeskommunene når det gjelder vurdering av inngangsvilkåret for å tegne lærekontrakt. Kunnskapsdepartementet vil gå i dialog med fylkeskommunene for å få bedre oversikt over hvordan
-ordningen praktiseres.
-Innenfor de nasjonale modellene er det
-utviklet en rekke lokale samarbeidsmodeller spesielt rettet mot å kvalifisere Arbeids- og velferdsetatenes brukere til fagbrev. Se nærmere beskrivelse i avsnitt 4.1.5. Også i Meld. St. 17 (2023–
-2024) Om integreringspolitikken: Stille krav og
-stille opp er det gitt eksempler på lokale samarbeidsmodeller rettet mot innvandrere med svake
-formelle kvalifikasjoner som trenger et tilpasset
-opplæringsløp og bistand fra et NAV-kontor for å
-få fagbrev.
-For arbeidssøkere som ønsker videregående
-opplæring i bedrift, men som på det aktuelle tidspunktet ikke har forutsetninger for å nå kravene
-til fag- eller svenneprøven, kan lærekandidatordningen være aktuell. Etter endt opplæring i bedrift
-
-[Side 72]
-
-70
-
-Meld. St. 33
-
-En forsterket arbeidslinje
-
-tar lærekandidaten en kompetanseprøve som er
-mindre omfattende enn fag- eller svenneprøven.
-Høyere utdanning
-Høyere utdanning som opplæringstiltak kan tilbys
-gjennom bruk av tilgjengelige studieplasser i det
-ordinære utdanningstilbudet ved universiteter og
-høyskoler. Tiltaket skaffes som regel av brukeren
-selv ved å søke studieplass gjennom ordinære prosedyrer for opptak.
-Høyere utdanning kan gis til personer over 22
-år med nedsatt arbeidsevne. Helseutfordringer
-kan legge store begrensninger på valg av yrke, og
-for noen vil det være få muligheter i arbeidsmarkedet uten høyere utdanning.
-Mange av dem som har nedsatt arbeidsevne
-mangler studiekompetanse. Det gjelder for eksempel personer som har arbeidet i ufaglærte yrker
-eller som fagarbeidere, men grunnet helseproblemer ikke kan ha fysisk krevende arbeid lenger.
-Flere av disse står i fare for å havne utenfor
-arbeidslivet dersom de ikke får bistand til å kvalifisere seg til et yrke de har helse til å stå i. Maksimal
-varighet for opplæringstiltaket er som hovedregel
-tre år. Det gir ikke rom for at brukere som først
-trenger studiekompetanse og deretter høyere
-utdanning kan få hele utdanningsløpet innvilget
-som opplæringstiltak. Slik regelverket er utformet
-i dag, er det primært personer med økonomi og
-helse til å ta siste del av den høyere utdanningen
-på egen hånd, som kan ta både studiekompetanse
-og høyere utdanning som opplæringstiltak.
-For å bidra til at flere med nedsatt arbeidsevne
-kan gjennomføre høyere utdanning som opplæringstiltak vil regjeringen vurdere å utvide
-varigheten i tilfeller hvor det er behov for studiespesialisering i forkant av høyere utdanning.
-Regjeringen vil også innhente mer kunnskap
-om bruk av opplæringstiltak i Arbeids- og velferdsetaten, herunder erfaringer med bruk av opplæring og utdanning som gir formell kompetanse
-for ulike målgrupper og barrierer for økt bruk. Det
-vil også innhentes erfaringer med arbeidsmarkedsopplæring (AMO).
-Opplæring i kombinasjon med andre tiltak
-Opplæringstiltak kan gjennomføres i kombinasjon
-med andre tiltak som skal bidra til at deltakerne
-klarer å mestre utdanningen. Det er ofte konkrete
-årsaker til at Arbeids- og velferdsetatens brukere
-ikke har fullført opplæring og utdanning tidligere.
-Mange kan ha hatt dårlige erfaringer og opplevd
-manglende mestring av skolesituasjonen. Andre
-
-2023–2024
-
-har helseutfordringer eller sosiale utfordringer
-som gjør det krevende å gjennomføre et lengre
-opplæringsløp uten støtte og veiledning. Opplæring i kombinasjon med mentor eller oppfølgingstiltak gir mennesker med omfattende bistandsbehov en mulighet til å fullføre et utdanningsløp. Det
-øker mulighetene for stabil tilknytning til arbeidslivet for grupper som ofte faller ut av et arbeidsforhold. Se kapittel 5 for en nærmere omtale av
-muligheter for kombinasjoner av tiltak.
-Flere muligheter til opplæring gjennom
-arbeidsmarkedstiltak
-Tilrettelagt opplæring med sikte på å oppnå reell
-og formell kompetanse er et sentralt element i tiltaket arbeidsforberedende trening (AFT), se nærmere beskrivelse av AFT i kapittel 5. For mange
-av de yngre tiltaksdeltakerne kan det være naturlig å jobbe mot å ta fagbrev eller annen utdanning.
-Det er i utgangspunktet ikke mulig å delta i utdanning eller være ordinær lærling samtidig som man
-deltar i AFT. Men en del tiltaksløp tilrettelegger
-for at deltakeren skal ha bedre forutsetninger for
-å delta i utdanning eller i en lærlingordning etter
-at tiltaket er avsluttet.
-I en kartlegging av AFT fra Oslo Economics
-(2020) er det pekt på at det kan være hensiktsmessig å åpne for bruk av oppfølging etter at deltakeren har begynt i læreplass hos eksterne.16 Videre
-kan det være aktuelt å bruke AFT også opp mot
-den delen av målgruppen som har utfordringer
-med å finne seg læreplass eksternt. I en evaluering fra Frischsenteret og Proba Samfunnsanalyse
-(2023) framkommer det at 70 prosent av tiltaksarrangørene for AFT er godkjente lærebedrifter.17
-Regjeringen vil vurdere endringer i AFT som
-kan gi muligheter for fag- og yrkesopplæring som
-leder fram mot et fagbrev. AFT kjøpes ved direkte
-tilskudd til forhåndsgodkjente tiltaksarrangører.
-Eventuelle endringer vil kreve en ny vurdering av
-forholdet til reglene for statsstøtte og offentlige
-anskaffelser.
-
-4.1.4
-
-Opplæring og utdanning med
-dagpenger
-Det er som nevnt i avsnitt 4.1.1 gjennomført
-endringer i regelverket for dagpenger for å styrke
-16
-
-Oslo Economics (2020). Arbeidsforberedende trening (AFT).
-Rapport 2020:73. Oslo.
-17 Berg, H., Gleinsvik, A., Golombek, R., Røed, K., Staalesen,
-P.D., Vestøl, G.M. og Zhang, T. (2023). Hvor godt virker
-arbeidsforberedende trening? Oslo: Frischsenteret og Proba
-Samfunnsanalyse.
-
-[Side 73]
-
-2023–2024
-
-Meld. St. 33
-
-En forsterket arbeidslinje
-
-insentivene og mulighetene for kompetanseheving. Tidligere var det hovedsakelig adgang til at
-dagpengemottakere kunne ta opplæring og utdanning utenfor normal arbeidstid med redusert studieprogresjon, alternativt kortvarig opplæring på
-fulltid på dagtid.
-Ved covid-19 pandemiens utbrudd våren 2020
-med påfølgende nedstengning av samfunnet og
-svært høye ledighetstall, oppsto behovet for å
-møte den høye ledigheten med kompetansehevende tiltak for dagpengemottakere. Det ble
-derfor vedtatt en midlertidig ordning som tillot all
-type opplæring og utdanning i dagpengeperioden.
-Den midlertidige ordningen ble avløst av et nytt
-regelverk for dagpenger under opplæring og
-utdanning som trådte i kraft 1. oktober 2021.
-Regelverket åpner nå for at grunnskole og
-videregående skole kan gjennomføres på fulltid,
-og høyere utdanning kan gjennomføres på deltid,
-samtidig som man mottar dagpenger. Målgruppen
-er helt ledige og helt permitterte over en viss
-alder, og ordningen er søknadsbasert. Det skal
-utarbeides en opplæringsplan for gjennomføringen av og målet for utdanningen. Det er fortsatt
-krav om å være reell arbeidssøker, dvs. plikt til å
-søke aktivt etter arbeid og til å være villig til å
-avbryte utdanningen ved tilbud om jobb, med
-visse unntak for de som tar utdanning på grunnskole og videregående skoles nivå. Dersom dagpengemottakerens utdanningsaktivitet avviker
-vesentlig fra planen, kan Arbeids- og velferdsetaten treffe vedtak om at adgangen til å ta opplæring
-eller utdanning i kombinasjon med dagpenger
-opphører.
-Oslo Economics og Frischsenteret skal, på
-oppdrag for Arbeids- og velferdsdirektoratet, evaluere disse endringene. Forskerne skal undersøke om ordningen benyttes av den tiltenkte målgruppen, hvordan reglene i ordningen tolkes og
-praktiseres, og hvilken virkning ordningen har for
-målgruppen. Sluttrapport vil foreligge i løpet av
-2024.
-
-4.1.5
-
-Nærmere om samarbeidet mellom
-Arbeids- og velferdsetaten og
-utdanningsmyndighetene
-Arbeids- og velferdsetaten og utdanningsmyndighetene har lang tradisjon for samarbeid. Fylkeskommunen har ansvaret for regional kompetansepolitikk, videregående opplæring, fagskoleutdanning og karriereveiledning. En samordnet innsats
-mellom Arbeids- og velferdsetaten og fylkeskommunene er en forutsetning for at flere av Arbeids-
-
-71
-
-og velferdsetatens brukere kan få mulighet til å
-fullføre videregående opplæring, med vekt på fagog yrkesopplæring.
-Fylkeskommunene og Arbeids- og velferdsetaten har inngått samarbeidsavtaler i alle fylkesregioner, hvor samarbeid om opplæring er en sentral
-del av avtalene. Innenfor dette samarbeidet finnes
-det mange lokale samarbeidsmodeller mellom
-Arbeids- og velferdsetaten, fylkeskommunene og
-arbeidsgivere om tilrettelagt fag- og yrkesopplæring. Samarbeidet bygger på lokale vurderinger
-og analyser av kompetanse- og arbeidskraftsbehovet i området. I noen tilfeller vil det også være
-hensiktsmessig å involvere andre aktører, som for
-eksempel helsetjenesten eller flyktningtjenesten.
-I 2021 fikk Arbeids- og velferdsdirektoratet og
-Kompetanse Norge, i dag Direktoratet for høyere
-utdanning og kompetanse, i oppdrag å inngå et
-samarbeid om å utvikle effektive og gode utdannings- og opplæringstjenester for arbeidsledige,
-permitterte og utsatte grupper i arbeidsmarkedet.
-Oppdragsgivere var Arbeids- og inkluderingsdepartementet og Kunnskapsdepartementet. Senere
-er samarbeidet utvidet til også å omfatte Integrerings- og mangfoldsdirektoratet.
-For å styrke samarbeidet mellom Arbeids- og
-velferdsetaten og utdanningssektoren, er det opprettet stillinger som opplæringskoordinator ved
-alle fylkeskontorene i Arbeids- og velferdsetaten.
-De har ansvar for å veilede de ansatte og legge til
-rette for bruk av opplæringstiltak for Arbeids- og
-velferdsetatens brukere. Opplæringskoordinatorene skal ha god kunnskap om muligheter i utdanningssystemet.
-Det har også vært jobbet med å utvikle bedre
-modeller for samarbeid om karriereveiledning, tilrettelagt fag- og yrkesopplæring og realkompetansevurdering. Disse har lokal eller regional karakter, se eksempler i boks 4.6. For å stimulere til
-utvikling og utprøving av modeller for tilpassede
-opplærings- og utdanningstiltak i hele landet er
-det etablert flere forsøk og tilskuddsordninger, se
-boks 4.7.
-Erfaringer fra forsøk og tilskuddsordninger vil
-være viktige innspill til videreutvikling av tilbud
-om tilrettelagt fag- og yrkesopplæring. Videre vil
-det ha betydning for hvordan samarbeidet bør
-organiseres for at det samlede virkemiddelapparatet kan bli utnyttet på best mulig måte. Regjeringen vil på denne bakgrunn etablere veiledende
-prinsipper for samarbeid mellom Arbeids- og velferdsetaten, fylkeskommunene og kommuner om
-tilrettelagt fag- og yrkesopplæring for å gi et mer
-likeverdig og kunnskapsbasert tilbud.
-
-[Side 74]
-
-72
-
-Meld. St. 33
-
-En forsterket arbeidslinje
-
-2023–2024
-
-Boks 4.6 Eksempler på samhandlingsmodeller for tilrettelagt fag- og yrkesopplæring
-Trøndelagsmodellen: NAV Trøndelag og TrøndeNAV Agder har ansatt arbeidsledere som har
-lag fylkeskommune har etablert en samhandlingsbakgrunn som helsefagarbeider eller sykepleier
-modell for tilrettelagt fag- og yrkesopplæring.
-med lang arbeidserfaring fra omsorgssenter.
-Målet er å få flere i arbeid og utdanning og sikre
-Arbeidssted er omsorgssentre i kommunen.
-rekruttering til bransjer med behov for arbeidsHver arbeidsleder har oppfølging av inntil ti delkraft. Med utgangspunkt i konkrete arbeidskraftstakere som bistår omsorgssenteret med
-behov, kobles arbeidssøker og arbeidsgiver, og
-ufaglærte oppgaver. Arbeidslederne jobber tett
-deretter legges det et opplæringsløp for den
-sammen med deltakerne for å sikre stabilitet,
-enkelte. Samhandlingsmodellen inkluderer prakspråk, mestring og mål i karrierevalg. Etter en
-sisperiode og sommerjobb hos bedrift før skoavklaringsperiode i prosjektet starter mange av
-lestart og tegning av lærekontrakt. Hver enkelt
-deltakerne opp i modulstrukturert fag- og yrkeskandidat får en individuell opplæringsplan basert
-opplæring.
-på tidligere skolegang og praksis. Planen viser
-Ved å jobbe med mestringsopplevelser i tidhva kandidaten skal gjennomgå av opplæring for å
-lig fase, er erfaringen at omsorgssentrene i
-oppnå fagbrev eller kompetansebrev (grunnkomstørre grad er villige til å inngå opplæringskonpetanse). Opplæringen tilpasses i henhold til
-trakt med deltakerne. Det senker terskelen slik
-behov og forutsetninger. Gjennom tett samarbeid
-at flere av Arbeids- og velferdsetatens brukere
-både på system- og individnivå, og god bruk av
-som normalt ikke ville klart å starte på et utdandet samlede virkemiddelapparatet øker sjansene
-ningsløp, likevel kommer i gang. Arbeidslederne
-for å lykkes.
-sikrer gode overganger fra prosjektet til oppModellen er et offentlig samarbeid med koststart i videregående opplæring, og har faste samnadsdeling mellom Arbeids- og velferdsetaten
-arbeidsmøter med veileder for helsefag hos
-og fylkeskommunen.
-Agder fylkeskommune og opplæringskoordinaKom i gang med utdanning – helsefag: Protor i NAV Agder.
-sjektet er et samarbeid mellom Agder fylkeskommune og NAV Agder, med samarbeidspartnere i utvalgte kommuner i Agder.
-
-4.1.6
-
-Utredning av ny dokumentasjonsordning for kortere opplæringsløp –
-minikvalifikasjoner
-I tillegg til en styrking av ordninger som skal
-bidra til at flere fullfører videregående opplæring
-eller får et kompetansebevis som dokumenterer
-deler av opplæringen, vil regjeringen utrede om
-det kan være aktuelt å innføre en ny dokumentasjonsordning som bygger på såkalte minikvalifikasjoner (micro credentials).
-Minikvalifikasjoner er et relativt nytt konsept.
-EUs strategi for minikvalifikasjoner ble vedtatt av
-Det europeiske råd i 2022. Strategien inneholder
-anbefalinger som skal hjelpe land, utdanningstilbydere og bedrifter i prosessen med å utvikle, ta i
-bruk og anerkjenne minikvalifikasjoner på en likeartet måte.
-Minikvalifikasjoner er en attest eller et sertifikat på hva en person har lært etter kortere kurs,
-
-opplæring eller annen type kompetanseutvikling,
-som er anerkjent av arbeidsgivere, utdanningsinstitusjoner, myndigheter og andre relevante interessenter. En minikvalifikasjon skal kunne ha verdi
-i seg selv og være påbyggbar.
-Minikvalifikasjoner erstatter ikke formelle
-kvalifikasjoner, men skal kunne supplere kvalifikasjoner som inngår i det formelle utdanningssystemet.
-I et arbeidsmarkedsperspektiv kan det være et
-potensial for å bruke minikvalifikasjoner til å dokumentere opplæringen etter gjennomført AMOkurs, som dokumentasjon av ikke formell kompetanse inn i en realkompetansevurdering eller som
-et grunnlag for å koble arbeidssøkers kompetanse
-og arbeidsgivers behov for arbeidskraft. Målet er å
-hjelpe arbeidssøkere med å utvikle ferdigheter og
-forbedre kvalifikasjoner, og å attestere ervervet
-kompetanse.
-
-[Side 75]
-
-2023–2024
-
-Meld. St. 33
-
-En forsterket arbeidslinje
-
-73
-
-Boks 4.7 Forsøk og tilskuddsordninger for tilrettelagt fag- og yrkesopplæring
-Ordningen med Tilskudd til etablering og gjenArbeids- og velferdsetaten og fylkeskommunene
-nomføring av tilbud om tilrettelagt fag- og yrkesom gjennomføring av tilrettelagt fag- og yrkesopplæring ble etablert i 2020 og forvaltes av Inteopplæring. Utvidet lokalt samarbeid skal bidra til
-grerings- og mangfoldsdirektoratet. Ordningen
-å identifisere metoder og samarbeidsmodeller
-skal stimulere fylkeskommunene til å gi tilbud
-som bør utvikles videre og som kan benyttes i
-om fag- og yrkesopplæring til voksne innvanandre fylker. Ordningen skal medvirke til å
-drere som har rett til videregående opplæring,
-utvikle og dekke tjenester som kommer i tillegg
-men som har for svake norskferdigheter til å
-til det som til vanlig er omfattet i ordinære skolefølge ordinær opplæring uten tilrettelegging.
-løp, men som mange arbeidssøkere trenger for å
-Tilskudd til forsøk for å utvikle en nasjonal
-kunne fullføre opplæringen. Forsøket har en
-samarbeidsmodell for tilrettelagt fag- og yrkesoppramme på fem år og evalueres av Ideas2evidence.
-læring for voksne innvandrere ble igangsatt i
-Forsøk med opplæringstiltak av lengre varig2022 i Agder, Nordland og Troms og Finnmark.
-het ble igangsatt i 2023 i Oslo, Vestland og
-Målet med forsøket er å utvikle en nasjonal samViken. Opplæring av lengre varighet kan gis i
-arbeidsmodell basert på erfaringer med bred
-inntil fire år, med adgang til forlengelse med innoverføringsverdi og som alle fylkeskommuner
-til ett år for tiltaksdeltakere som av særlige
-kan ta i bruk. Integrerings- og mangfoldsdirekgrunner ikke kan gjennomføre opplæringen i
-toratet følger opp forsøket i dialog med Direktoløpet av fire år. Ordningen er rettet mot arbeidsratet for høyere utdanning og kompetanse og
-søkere som har så svake grunnleggende ferdigArbeids- og velferdsdirektoratet.
-heter, blant annet norskferdigheter, at de har
-Forsøk med midler til tilrettelagt fag- og yrkesvanskeligheter med å gjennomføre nødvendig
-opplæring ble iverksatt i 2023 og forvaltes av
-opplæring innenfor de tidsrammene som er satt
-Arbeids- og velferdsdirektoratet. Forsøket skal
-for opplæringstiltaket i Arbeids- og velferdsetastimulere til et utvidet lokalt samarbeid mellom
-ten. Forsøket evalueres av Ideas2evidence.
-
-4.2
-
-Tiltak for å styrke den enkeltes
-helse og muligheter for deltakelse
-i arbeid
-
-Personer som helt eller delvis står uten arbeid
-som følge av helseutfordringer er en stor og viktig
-målgruppe i arbeids- og velferdsforvaltningen.
-Det er et mål at flere i denne gruppen kan utnytte
-og styrke sin arbeidsevne og delta i arbeidslivet.
-Arbeids- og velferdsforvaltningen skal foreta
-en arbeidsevnevurdering dersom det er grunn til
-å tro at en persons arbeidsevne er nedsatt. Nedsatt arbeidsevne innebærer at en på grunn av sykdom, skade eller andre hindringer (sosiale, språklige mv.) trenger mer omfattende oppfølging og
-bistand enn det som tilbys ordinære arbeidssøkere for å komme i arbeid.
-I 2023 var det i gjennomsnitt over 212 000 personer som var registrert med nedsatt arbeidsevne, noe som utgjør 6,1 prosent av befolkningen i
-alderen fra 18 til 66 år. Rundt to tredeler av disse
-mottok arbeidsavklaringspenger (AAP), som er
-en helserelatert ytelse.
-Felles for mange av dem som står utenfor
-arbeidslivet på grunn av helseutfordringer, er at de
-
-har behov for bistand både fra arbeids- og velferdsforvaltningen og helse- og omsorgstjenesten for å
-komme i jobb. Noen trenger også bistand fra
-andre sektorer, som utdanningssektoren.
-
-4.2.1
-
-Personer som trenger både
-arbeidsrettet bistand og helsetjenester
-Personer med nedsatt arbeidsevne grunnet helseutfordringer er en sammensatt gruppe. Mange
-kan være i jobb med noe arbeidsrettet bistand.
-Andre har helseutfordringer som tidvis lar seg
-kombinere med arbeid, og noen har medisinske
-tilstander som er uforenlige med arbeid. Slike tilstander kan være midlertidige eller varige.
-Det kan være vanskelig å anslå presist i hvilken grad en helseutfordring begrenser muligheten til å delta i arbeidslivet, og hva som bør være
-det rette innholdet i hjelpetilbudet og tidspunktet
-for arbeidsrettet bistand. Slike vurderinger forutsetter gjerne tett samarbeid og god informasjonsflyt mellom NAV-kontoret, helsetjenesten og brukeren selv. Her kan også de rådgivende legene i
-Arbeids- og velferdsetaten spille en viktig rolle.
-Mulighetene til å delta i arbeidslivet avhenger
+OECD har også pekt på at den arbeidsrettede oppfølgingen kommer for sent i gang for dem som mottar helserelaterte ytelser, og at det er nødvendig å styrke samarbeidet mellom arbeid og helse.[^57]
+
+Sykmeldte deltar i liten grad på arbeidsmarkedstiltak. Ifølge Arbeids- og velferdsdirektoratet deltok 3 400 (legemeldte) sykmeldte på tiltak som årsgjennomsnitt i 2023. For de som går fra sykepenger til arbeidsavklaringspenger (AAP), og deretter må vente på at eventuelle tiltak settes i gang, kan det derfor være en lang samlet periode uten arbeidsrettet aktivitet. For noen er dette trolig nødvendig for å kunne håndtere helseutfordringer eller konsentrere seg om den medisinske behandlingen. For andre kan det være behov for samordnede og samtidige tiltak langt tidligere. En undersøkelse gjennomført av Proba samfunnsanalyse (2024) ser nærmere på Arbeids- og velferdsetatens oppfølging av mottakere av arbeidsavklaringspenger.[^58] Rapporten benytter kvalitative forskningsmetoder for å undersøke hvordan oppfølgingen fungerer sett opp mot hensikten med arbeidsavklaringspenger. Forskernes hovedinntrykk er at det skjer mye god oppfølging av mottakerne, samtidig som de finner at det er forbedringspotensiale særlig knyttet til oppfølgingen av mottakere med et komplekst utfordringsbilde og uavklarte sider ved helsesituasjon, behandling og prognose. Rapporten har flere anbefalinger, blant annet en bedre tilpassing av tiltaksporteføljen til mottakernes behov. Det pekes på at det særlig er behov for å vurdere hvordan kompetanse på psykisk helse, men også annen helsekompetanse, kan inkluderes i tiltakene. Det blir også vist til behov for et lavterskel, helhetlig tiltak for personer med sammensatte utfordringer. Rapporten vil være en del av kunnskapsgrunnlaget for den videre utviklingen av oppfølgingsarbeidet i Arbeids- og velferdsetaten.
+
+Langtidssykefravær kan i seg selv gjøre tilbakevending til arbeid vanskeligere for den enkelte. Personer med gjentatte sykefravær, eller der helsen tilsier at en bør bytte yrke, eller sykmeldte uten arbeidsgiver, kan ha særlig nytte av arbeidsmarkedstiltak.
+
+Arbeids- og velferdsetaten har prøvd ut om mer bruk av opplæringstiltak for sykmeldte kan være hensiktsmessig. *Forsøk med kompetansetiltak for sykmeldte* som foregår i fem fylker, er forankret i IA-avtalen med partene i arbeidslivet. Målgruppen er nærmere avgrenset til personer som Arbeids- og velferdsetaten mener ikke kan være i sitt nåværende arbeid grunnet helseproblemer, men som vil kunne forbli i arbeid gjennom omskolering til et annet yrke. Forsøket har vært evaluert av Oslo Economics (2024).[^59] Evalueringen tyder på at mange som har deltatt på kompetansetiltak har hatt god nytte av tiltaket. Det er likevel relativt få personer som har deltatt. Det har vist seg å være svært tids- og ressurskrevende for Arbeids- og velferdsetaten å identifisere og følge opp kandidater som er aktuelle for tiltaket. At kompetansetiltaket som hovedregel skal gjennomføres innenfor sykepengeperioden (maksimalt 12 måneder) betyr at tilbudet er begrenset til relativt kortvarige kurs. Dette har gjort tilbudet i forsøket mindre aktuelt for mange sykmeldte.
+
+Forsøket har likevel vært nyttig da det har gitt Arbeids- og velferdsetaten erfaring med å utvikle arbeidsprosesser og systemer for å fange opp sykmeldte som har behov for å rettes mot nytt arbeid. Forhandlinger om en eventuell ny avtale om et mer inkluderende arbeidsliv (IA-avtalen) vil starte opp høsten 2024. IA-avtalens virkemidler vil bli vurdert i sammenheng med forhandlingene.
+
+Bruken av arbeidsmarkedstiltak for sykmeldte bør ses i sammenheng med ordningen *Friskmelding til arbeidsformidling*, som gjelder for sykmeldte som av helsemessige årsaker ikke kan returnere til sin arbeidsplass, men som ellers er arbeidsføre. Ordningen innebærer at den sykmeldte friskmeldes, men kan beholde retten til sykepenger i inntil tolv uker mens vedkommende søker nytt arbeid. Etaten kan vurdere om det er behov for oppfølging eller tiltak for at den enkelte kan finne ny jobb.
+
+En evaluering fra Oxford Research (2023) viser at NAV-veilederne opplever at ordningen er nyttig, og at den er et godt virkemiddel for å aktivisere sykmeldte og fremme jobbmobilitet.[^60] Samtidig er ordningen lite brukt og vurderes som utfordrende. Oxford Research har flere anbefalinger som kan gi økt bruk av ordningen, blant annet tettere samarbeid med fastlegene og bedre informasjon om ordningen. Regjeringen vurderer nå videre oppfølging av anbefalingene.
+
+Arbeids- og velferdsetaten har i en del tilfeller begrenset informasjon om de sykmeldte og det tar tid å manuelt kartlegge og avklare eventuelle behov for utdanning og jobbskifte. I utviklingen av Arbeids- og velferdsetatens fagsystemer, rutiner og metodikk for oppfølging av sykmeldte, er det behov for tidligere å kunne identifisere hvem som har behov for oppfølging, opplæringstiltak og andre relevante tiltak fra Arbeids- og velferdsetaten.
+
+Det er utviklet ulike modeller som predikerer retur til arbeid hvor en modell om jobbforventninger ser ut til å være lovende. Arbeids- og velferdsetaten har startet lokale forsøk hvor de sykmeldte svarer på enkle spørsmål knyttet til forventet varighet på sykefraværet.[^61] Treffsikkerheten med hensyn til predikert lengde gir grunn til optimisme med tanke på hvordan Arbeids- og velferdsetaten kan frigjøre tid for veiledere i sykefraværsoppfølgingen. Frigjort tid vil kunne brukes tidligere i sykeforløpet, særlig for brukere med behov for oppfølging.
+
+Bruken av arbeidsmarkedstiltak rettet mot sykmeldte vurderes av en arbeidsgruppe som utreder sykefraværsoppfølgingen. Arbeidsgruppen består av medlemmer fra Arbeids- og inkluderingsdepartementet og Arbeids- og velferdsdirektoratet. Gruppen skal levere sin rapport høsten 2024. Partene i arbeidslivet involveres i arbeidet med utredningen, blant annet i forbindelse med drøftingene om en eventuell ny IA-avtale.
+
+Regjeringen vil vurdere behovet for å øke bruken av arbeidsmarkedstiltak for sykmeldte, på bakgrunn av erfaringer fra forsøk og andre pågående prosesser på sykefraværsfeltet. Tidlig iverksetting av arbeidsrettede tiltak kan bidra til reduksjon i langtidssykefraværet og forhindre frafall fra arbeidslivet. Det vil imidlertid kreve ressurser og må derfor vurderes opp mot andre prioriteringer.
+
+## Flere unge i jobb
+
+Unge som faller utenfor arbeid og utdanning er en heterogen gruppe, med ulike kjennetegn, utfordringer og behov. De har gjerne flere problemer som opptrer samtidig. Det kan være utfordringer knyttet til skole, arbeid, helse og hverdagsliv. Det er vanlig at problemer følger gjennom livsfaser og livssituasjoner. Gruppen inkluderer også utsatte unge som lever under vanskelige levekår. Jo flere problemer som opptrer samtidig, jo større er oppfølgingsbehovet til unge. Å redusere antallet unge som blir stående varig uten arbeid, er en samfunnsutfordring som ikke kan løses av én sektor alene. Unge trenger ofte bistand på tvers av myndighetsområdene. Det innebærer støtte og oppfølging fra ulike deler av hjelpeapparatet, og gjerne samtidig.[^62]
+
+Det er iverksatt en rekke satsinger rettet mot inkludering av unge i arbeidslivet de senere årene. Statistikk fra Arbeids- og velferdsdirektoratet viser at unge deltar oftere på arbeidsmarkedstiltak, at de følges tettere opp og at langtidsledigheten blant unge er lavere enn for eldre aldersgrupper.
+
+Til tross for flere satsinger for å styrke den arbeidsrettede oppfølgingen, er det fortsatt behov for å videreutvikle tjenestene for unge ved NAV-kontorene. Riksrevisjonens undersøkelse av myndighetenes arbeidsrettede bistand til unge utenfor arbeidslivet, som ble lagt fram 26. august 2024, viser at bistanden ikke er tilstrekkelig tilpasset unge utenfor arbeidslivet. Flere unge har sammensatte utfordringer og behov for mer bistand fra Arbeids- og velferdsetaten.[^63]
+
+Ulike undersøkelser av tidligere og nåværende satsinger, viser at tidlig innsats, tett oppfølging og godt tverrfaglig samarbeid mellom helse-, arbeids- og utdanningsmyndighetene er viktig for å lykkes med å få unge i jobb eller utdanning. God tid til oppfølging og en fast kontaktperson løftes fram som grunnleggende forutsetninger. Den forsterkede ungdomsinnsatsen, som ble innført i Arbeids- og velferdsetaten i 2017 ga unge som trenger hjelp for å komme i arbeid arbeidsrettet oppfølging og tidlig innsats innen åtte uker, men ga ikke god nok oppfølging etter det, ifølge en evaluering Fafo har gjennomført.[^64]
+
+For å sikre at unge får tidlig, tilpasset og tett oppfølging helt fram til arbeid, innførte regjeringen en ny ungdomsgaranti i Arbeids- og velferdsetaten fra 1. juli 2023. Garantien gjelder for personer under 30 år som har fått fastslått at de har et behov for bistand fra Arbeids- og velferdsetaten for å komme i ordinært arbeid. Unge i målgruppen skal få tilbud om en fast kontaktperson som skal ha ansvar for færre brukere slik at de kan gi mer systematisk og helhetlig oppfølging. Det vil også gi mulighet for et tettere samarbeid med utdanningsmyndighetene og helsetjenesten. Hjelp til å fullføre utdanning som et ledd i å komme i arbeid, kan inngå i den arbeidsrettede bistanden.
+
+Ungdomsgarantien innebærer en tydelig prioritering av unge, og skal redusere passive perioder utenfor arbeid og utdanning. Målet er en varig tilknytning til arbeidslivet og at andelen som mottar helserelaterte ytelser går ned.
+
+I tillegg til ungdomsgarantien vil regjeringen iverksette en rekke nye tiltak, se nærmere omtale i de neste avsnittene og boks 4.10.
+
+En samlet innsats for å få flere unge i arbeid og utdanning
+
+Slik vil regjeringen sikre at flere unge kommer i arbeid og utdanning og færre blir stående varig utenfor arbeidslivet:
+
+*Ungdomsgarantien i Arbeids- og velferdsetaten.* Ungdomsgarantien skal sikre unge med behov for hjelp til å komme i arbeid tett oppfølging fra en fast kontaktperson så lenge det er nødvendig. Garantien innebærer at unge i alderen fra 16 til 29 år skal få tilbud om
+
+- regelmessige oppfølgingssamtaler,
+
+- veiledning om hvilke muligheter som finnes i arbeidsmarkedet,
+
+- vurdering av utdanningsmuligheter og kvalifiserende tiltak basert på den enkeltes forutsetninger og situasjonen i arbeidsmarkedet,
+
+- hjelp til og veiledning om arbeidsrelaterte, sosiale og økonomiske forhold,
+
+- bistand til å samhandle med andre relevante instanser, blant annet utdanningsmyndighetene, barneverntjenesten og helsetjenesten, og
+
+- tilrettelegging og hjelpemidler på arbeidsplassen.
+
+Oppfølgingen gis sammenhengende i hele garantiperioden, blant annet under deltakelse i arbeidsmarkedstiltak, arbeidsrettede aktiviteter, opplæring og utdanning, medisinsk behandling og på arbeidsplassen. Arbeidsgivere som ansetter deltakere som får oppfølging gjennom ungdomsgarantien, kan få tilbud om nødvendig oppfølging og veiledning.
+
+*Etablere forsøk med arbeidsrettet ungdomsprogram med en ny ungdomsytelse.* Et ungdomsprogram skal innebære arbeidsrettet aktivitet, tett oppfølging og strenge aktivitetskrav. Programmet skal gi mulighet for å komme raskt i gang med arbeidsrettet aktivitet og bidra til å øke overgangen til jobb og utdanning, og begrense tilstrømmingen til helserelaterte ytelser blant unge. Programmet skal være tidsavgrenset og ikke kreve at det stilles en medisinsk diagnose.
+
+*Utvikle bedre lavterskeltilbud og mer tilpassede tjenester.* Tjenestene skal bidra til at utsatte unge er bedre forberedt til arbeidslivet. Utviklingsarbeidet består i utarbeidelse og utprøving av: Lokale arbeidsrettede lavterskeltilbud i utvalgte kommuner, modeller for kvalifisering og opplæring på arbeidsplassen, og samarbeid lokalt om å forebygge frafall og om unge som har falt ut av videregående opplæring.
+
+*Vurdere om unge med uføretrygd bør få målrettet informasjon fra Arbeids- og velferdsetaten om muligheter for arbeidsrettet oppfølging etter at det har gått noe tid.* Flere unge med uføretrygd ønsker å prøve seg i arbeid etter noe tid som uføretrygdet. Det er likevel ikke gitt at unge med uføretrygd tar kontakt med Arbeids- og velferdsetaten selv om de ønsker å komme i jobb. Regjeringen vil derfor vurdere om unge med uføretrygd etter noe tid bør få målrettet informasjon fra Arbeids- og velferdsetaten om muligheter for arbeidsrettet oppfølging. Se nærmere omtale i kapittel 5.
+
+*Videreutvikle samarbeidet mellom arbeids- og velferdsforvaltningen og fylkeskommunens oppfølgingstjeneste.* NAV-kontoret samarbeider med oppfølgingstjenesten om unge som faller ut av videregående opplæring. Med ny opplæringslov høsten 2024 er oppfølgingstjenestens målgruppe utvidet fra 16–21 år til 16–24 år. Det medfører en større samarbeidsflate mellom oppfølgingstjenesten og arbeids- og velferdsforvaltningen og økt behov for samarbeid lokalt.
+
+*Bedre samarbeid og samordning mellom arbeid, helse og utdanning.* Regjeringen vil motvirke at ungdom og unge voksne faller på utsiden av skole og arbeid ved å legge til rette for et bedre tverrsektorielt samarbeid. Det er allerede iverksatt innsats overfor unge med psykiske lidelser og rusmiddelproblemer gjennom forsøket IPS ung, som inkluderer bistand knyttet til arbeid, helse og utdanning. Regjeringen vil vurdere om det bør utvikles egne modeller for systematisk tjenestesamhandling mellom Arbeids- og velferdsetaten og kommunehelsetjenestene rettet mot unge, hvor samarbeid med utdanningsmyndighetene kan inngå ved behov. Det vil bli innhentet mer kunnskap om hvordan samarbeid og samordning foregår lokalt. Målet er å gi en mer koordinert og helhetlig oppfølging av unge med sammensatte bistandsbehov.
+
+*Etablere et forsøk med langvarig lønnstilskudd for utsatte unge.* For unge som står langt unna arbeidslivet og med stor fare for å bli uføretrygdet eller allerede er uføretrygdet, er det behov for inkluderingstiltak som gir både arbeidsgiver og arbeidstaker forutsigbarhet over en lengre periode. Regjeringen ønsker derfor et forsøk med et fireårig lønnstilskudd, hvor kompensasjonen til arbeidsgiver trappes gradvis ned og målet er fast ansettelse uten lønnstilskudd. Forsøket vil være en mellomting mellom det midlertidige og det varige lønnstilskuddet, supplert med oppfølging, eventuelt opplæring og vurdering av behovet for tilpasning på arbeidsplassen. Se nærmere omtale i kapittel 5.
+
+I tillegg til innsats som er spesielt rettet mot unge vil en generell styrking av den aktive arbeidsmarkedspolitikken også komme unge til gode. Videre vil endringer i opplæringstiltaket, som er beskrevet i avsnitt 4.1.3, være viktig for unge som har behov for tilrettelagt opplæring og utdanning. Det er lagt opp til endringer som åpner for mulighet til å delta på forberedende opplæring for voksne, som særlig vil treffe unge innvandrere, og styrkede muligheter for å ta studiespesialisering og høyere utdanning, som vil gi et bedre tilbud for unge med helseutfordringer.
+
+\[Boks slutt\]
+
+### Mer tilpassede tjenester for unge
+
+Mange unge kommer sent til arbeids- og velferdsforvaltningen, blant annet grunnet lav systemkompetanse, ifølge Fafos evaluering av forsterket ungdomsinnsats. Systemkompetanse er viktig for å kunne forstå informasjonen fra Arbeids- og velferdsetaten og hvilke rettigheter og plikter den enkelte har. En evaluering fra Proba samfunnsanalyse av digital aktivitetsplan viser at unge NAV-brukere som mottar tjenester fra arbeids- og velferdsforvaltningen ofte er lite vant til å forholde seg til offentlig forvaltning og tjenester.[^65] Manglende kompetanse om Arbeids- og velferdsetatens ulike ordninger og systemer kan i sin tur gjøre digitale selvbetjeningsløsninger krevende for de unge. Unge bruker for eksempel offentlige digitale innsendingstjenester i mindre grad enn befolkningen generelt, ifølge Direktoratet for forvaltning og økonomistyrings innbyggerundersøkelse. Undersøkelsen viser videre at én av tre uten fullført utdanning ikke har erfaring med digitale nettjenester.[^66] For å bedre unges møte med Arbeids- og velferdsetaten, fikk Arbeids- og velferdsdirektoratet i 2024 et oppdrag om å utvikle digitale tjenester som er bedre tilpasset unges informasjonsbehov og digitale forutsetninger.
+
+I rapporten fra Fafo om forsterket ungdomsinnsats, ble det anbefalt å inkludere virkemidler hvor Arbeids- og velferdsetaten i samarbeid med andre etater i større grad tar kontakt med unge arbeidsledige som ikke har oppsøkt et NAV-kontor. Det kan dreie seg om å opprette tilbud med lav terskel for enkelte sårbare grupper unge, eller å utvikle tiltak med mer oppsøkende virksomhet rettet mot unge som står utenfor arbeid og utdanning.
+
+Tilbakemeldinger i forbindelse med intervjuer av NAV-veiledere i områdegjennomgangen av arbeidsmarkedstiltakene, bekrefter også behov for lavterskeltilbud for unge, med vekt på mestring, sosiale aktiviteter, samarbeid og jobbrettet aktivitet.[^67]
+
+Lavterskeltilbud benyttes blant annet for å tilby hensiktsmessig aktivitet i forbindelse med aktivitetsplikt til unge sosialhjelpsmottakere under 30 år. En nylig gjennomført kartlegging av arbeids- og velferdsforvaltningens tjenestetilbud til sosialhjelpsmottakere viser at mange kommuner har ingen eller lite hensiktsmessige aktivitetstilbud til sosialhjelpsmottakere generelt.[^68] Mangel på slike tiltak trekkes i rapporten fram som et tegn på at unge kanskje ikke får den arbeidsrettede bistanden de har behov for. Videre pekes det på at i de kommunene hvor det mangler hensiktsmessige lavterskeltilbud benyttes statlige tiltak i stedet. Det kan tyde på et hull i tilbudet for de som ikke kan nyttiggjøre seg eller er i målgruppen for statlige tiltak.
+
+For å øke kvaliteten i tilbudet til unge og for å nå målet for ungdomsgarantien, er det behov for å utvikle bedre lavterskeltilbud og mer tilpassede tjenester for utsatte unge. Regjeringen vil framover prioritere tre utviklingsområder som vil bli fulgt opp gjennom følgeevaluering:
+
+- Utvikle lokale arbeidsrettede lavterskeltilbud i utvalgte kommuner: Arbeidsrettede lavterskeltilbud er tradisjonelt en del av kommunens tilbud til unge utenfor arbeid og utdanning. Hva slags tilbud det er behov for vil være avhengig av hvilke utfordringer kommunen ser lokalt når det gjelder å redusere andelen unge som faller utenfor arbeid og utdanning.
+
+- Utvikle modeller for kvalifisering og opplæring på arbeidsplassen: Lavterskeltilbud for unge som ikke klarer å gjennomføre ordinære opplæringsløp. Stimulere til videreutvikling og utprøving av alternative varianter av arbeidsmarkedstiltak som involverer tett samarbeid med utdanningsinstitusjoner eller arbeidsgivere.
+
+- Samarbeide lokalt om å forebygge frafall og om unge som har falt ut av videregående opplæring: Her vil det være relevant å bygge på erfaringer fra forsøket med NAV-veileder i videregående skole og annet samarbeid med den fylkeskommunale oppfølgingstjenesten.
+
+### Arbeidsrettet ungdomsprogram – ny ungdomsytelse
+
+Det er sterkt bekymringsfullt at mange unge blir stående varig utenfor arbeid og utdanning. Det er uheldig at arbeidsavklaringspenger, som er en helserelatert ytelse, kan framstå som den eneste muligheten unge uten rett til dagpenger har for en forutsigbar og god inntektssikring. I 2023 var det i underkant av 13 000 personer i alderen 18–29 år som startet mottak av arbeidsavklaringspenger. For sterk vekt på helse som inngangsvilkår for inntektssikring kan medføre at oppfølgingsarbeidet av unge i stor grad preges av de unges begrensninger framfor deres ressurser.[^69] Det er også en bekymring at tilstander som i utgangspunktet ikke har en helsebegrunnelse, omgjøres til medisinske problemer som øker sannsynligheten for å bli stående varig utenfor arbeidsmarkedet (NOU 2021: 2 *Kompetanse, aktivitet og inntektssikring – Tiltak for økt sysselsetting*).
+
+Utviklingen tilsier at det er behov for å tenke nytt om virkemidlene. Regjeringen vil derfor etablere et forsøk med et nytt, arbeidsrettet ungdomsprogram med rett til en statlig finansiert inntektssikring hvor nedsatt helsetilstand ikke er et inngangsvilkår.
+
+Programmet skal ha høye krav til arbeidsrettet aktivitet. Det innebærer krav om å delta i arbeidsmarkedstiltak eller andre arbeidsrettede aktiviteter som er tilpasset den enkeltes behov. Programmet skal være tidsavgrenset, på tilnærmet fulltid, og inntektssikringen forutsetter at aktivitetene gjennomføres. Sammenliknet med arbeidsavklaringspenger bør et ungdomsprogram innvilges raskere og med mindre omfattende saksbehandling og dokumentasjonskrav.
+
+Et ungdomsprogram vil gi NAV-kontoret et nytt verktøy rettet mot unge med utfordringer. Det skal gi mulighet for å komme raskt i gang med arbeidsrettet aktivitet og bidra til å øke overgangen til jobb og utdanning, og begrense tilstrømmingen til arbeidsavklaringspenger blant unge.
+
+Den nærmere konkretiseringen av forsøket, målgruppe og kriterier for tildeling av program, varighet av programmet og nivå og utforming på inntektssikringen, vil utredes nærmere. Forsøket skal evalueres og det tas sikte på å utforme forsøket slik at effektene kan måles.
+
+### Tettere samarbeid om unge som har avbrutt eller står i fare for å avbryte videregående opplæring
+
+Fullført og bestått videregående opplæring gir den beste plattformen for unge til å være forberedt til arbeidslivet og eventuelt videre utdanning.
+
+Nesten alle ungdommer begynner i videregående opplæring, og det er der de skal få mulighet til å utvikle den kompetansen som de har behov for i videre utdanning og arbeid. Det er fylkeskommunen som har hovedansvaret for ungdom som gjennomfører videregående opplæring. Samtidig vil arbeids- og velferdsforvaltningen være en viktig samarbeidspartner for ungdom som avbryter opplæringen.
+
+Fylkeskommunen har også ansvar for unge som ikke er i opplæring eller arbeid, gjennom oppfølgingstjenesten. Oppfølgingstjenesten gir råd og veiledning om utdannings- og yrkesvalg og gir tilbud om opplæring, arbeid eller annen sysselsetting. Oppfølgingstjenesten kan også jobbe forebyggende for å hindre frafall fra videregående opplæring. Mange i målgruppen vil ha behov for bistand fra arbeids- og velferdsforvaltningen, og blir fulgt opp i samarbeid mellom oppfølgingstjenesten og NAV-kontoret. Samarbeidet med oppfølgingstjenesten er viktig blant annet for å nå unge som arbeids- og velferdsforvaltningen ellers ikke kommer i kontakt med.
+
+Statistikk fra Utdanningsdirektoratet viser at for skoleåret 2022–2023 var det registrert 14 700 ungdom i oppfølgingstjenesten. Av disse var nesten én av fire i tiltak i regi av Arbeids- og velferdsetaten.
+
+I 2022 fikk Arbeids- og velferdsdirektoratet i oppdrag å iverksette en avgrenset pilot for å prøve ut hvordan oppfølgingstjenesten kan samarbeide med NAV-kontoret og andre tjenester, som for eksempel skolehelsetjenesten, om å forebygge frafall fra videregående opplæring. Høsten 2023 startet en pilot i Kongsberg. Den er forankret i det lokale partnerskapet i NAV-kontoret, og innrettes mot tett oppfølging av elever på videregående skole, i samarbeid med andre tjenester. I tillegg vil piloten forsterke oppfølging av familier med levekårsutfordringer ved NAV-kontoret, med særlig vekt på overgangen mellom grunn- og videregående skole.
+
+Med innføring av ny opplæringslov høsten 2024 er oppfølgingstjenestens målgruppe utvidet fra 16–21 år til 16–24 år. Det medfører større samarbeidsflate mellom oppfølgingstjenesten og arbeids- og velferdsforvaltningen og behov for økt samarbeid lokalt.
+
+### Bedre samarbeid og samordning mellom arbeid, helse og utdanning om unge med sammensatte bistandsbehov
+
+Det er utviklet egne samhandlingsmodeller som skal sikre en bedre samordning av tiltak og tjenester overfor ulike målgrupper med helseutfordringer, blant annet Individuell jobbstøtte (IPS), IPS ung og HelseIArbeid. Videre vil det i 2024 bli utviklet to nye modeller for systematisk tjenestesamhandling mellom Arbeids- og velferdsetaten og kommunehelsetjenesten som innebærer samarbeid mellom Arbeids- og velferdsetaten og Rask psykisk helsehjelp, og samarbeid mellom Arbeids- og velferdsetaten, fastlegekontor og kognitiv terapeut. Basert på erfaringene med utprøving av modellene vil regjeringen vurdere om det skal utvikles egne modeller for systematisk tjenestesamhandling mellom Arbeids- og velferdsetaten og kommunehelsetjenestene rettet mot unge. Sykefravær for aldersgruppen 20–29 år med årsak psykiske lidelser økte fra 2022 til 2023 med 18 prosent, hvor størstedelen av dette består av milde til moderate lidelser. Unge med milde til moderate psykiske lidelser kan også ha nytte av et oppfølgingsløp fra NAV-kontorene og kommunehelsetjenesten for å forhindre at de faller utenfor arbeid og utdanning. Det vil også utredes nærmere hvordan utdanningsmyndighetene kan kobles på samarbeidet ved behov.
+
+Gjennom ungdomsgarantien legges det til rette for tettere samarbeid mellom arbeid, helse og utdanning om unge med sammensatte bistandsbehov. For å få mer kunnskap om hvordan samarbeidet og samordning foregår i praksis, vil det bli innhentet mer kunnskap om hvilke faktorer som har betydning for å fremme bedre samarbeid og en samordnet innsats. Hensikten er å få et bedre kunnskapsgrunnlag som kan benyttes i arbeidet med å utvikle en mer koordinert og helhetlig oppfølging av unge med behov for sammensatte tjenester.

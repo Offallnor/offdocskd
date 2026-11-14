@@ -1,1880 +1,244 @@
-# NOU 2017: 2, del 8 av 20 (side 95–108)
+# NOU 2017: 2, del 8 av 19
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2017/a12ffa1f-nou-2017-2.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2017-2/id2536701/
 - Original-PDF: https://www.regjeringen.no/contentassets/c072f7f37da747539d2a0b0fef22957f/no/pdfs/nou201720170002000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 36 tabeller, 78 figurer, 558 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 95]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-95
-
-Kapittel 5
-
-En studie fra Frischsenteret viser negative innlåsingseffekter og positive programeffekter av arbeidsmarkedstiltak.19 Innlåsingseffektene ser ut
-til å være noe mindre for innvandrere enn for andre. På lengre sikt gir tiltakene imidlertid økt
-overgang til jobb, og dette gjelder særlig for innvandrere pga. de mindre negative innlåsingseffektene for denne gruppen. Totaleffektene blir i beste
-fall moderate, også for innvandrere. Studien skiller ikke mellom ulike typer tiltak.
-En annen norsk studie skiller mellom AMO,
-lønnstilskudd og arbeidspraksis samt tiltakskjeding i form av AMO etterfulgt av arbeidspraksis eller lønnstilskudd.20 For alle tiltakene er det negative innlåsingseffekter i noe tid etter oppstart,
-men disse forsvinner og/eller blir positive etter
-hvert for AMO og lønnstilskudd. Det betyr at
-eventuelle innlåsingseffekter i begynnelsen av tiltakene opphører allerede mens tiltakene pågår for
-AMO og lønnstilskudd. Effektene ser ut til å være
-av omtrent samme størrelsesorden for innvandrere fra Asia, Afrika mfl. og majoritetsbefolkningen. Programeffektene på overgang til jobb er
-sterkt positive umiddelbart etter AMO og lønnstilskudd for både innvandrere og majoritetsbefolkningen, men avtar over tid. Arbeidspraksis ser
-ikke ut til å påvirke overgang til jobb etter tiltaket,
-verken for innvandrere eller for majoritetsbefolkningen. Mens tiltakskjeding i form av AMO etterfulgt av arbeidspraksis eller lønnstilskudd gir økt
-overgang til jobb etter (det siste) tiltaket for innvandrere fra Asia, Afrika mfl., finnes det ingen slik
-effekt for majoritetsbefolkningen.
-Tiltakskjeding er ikke uvanlig, særlig for personer som i utgangspunktet står langt fra arbeidsmarkedet. En studie fra Frischsenteret ser derfor
-nærmere på to former for tiltakskjeding:21 AMO
-etterfulgt av arbeidspraksis og arbeidspraksis etterfulgt av AMO. For disse formene for tiltakskjeding avdekkes det sterkere innlåsingseffekter på overgang til jobb for innvandrere enn
-for den øvrige befolkningen. Totaleffektene er
-små, både for innvandrere og for øvrig befolkning,
-men litt større for innvandrere. AMO etterfulgt av
-arbeidspraksis ser ut til å gi større effekt enn
-praksis etterfulgt av AMO (og enn AMO alene).
-Programeffekter av arbeidspraksis er positive for
-
-innvandrere, men ikke for den øvrige befolkningen, og mindre enn tilsvarende effekter for AMO
-alene.
-Et liknende tiltak som norsk arbeidspraksis/
-arbeidstrening finnes i Danmark («praktik»), hvor
-det ser ut til å ha positive effekter for både innvandrere22 og andre svake eller marginaliserte grupper.23 I Danmark er det også flere studier som viser positive program- og totaleffekter av privat
-lønnstilskudd for innvandrere, mens det finnes
-motstridende funn for effekter av «uddannelsesaktivering» innenfor arbeidsmarkedspolitikken
-(tilsvarende norsk AMO).
-Analysen av arbeidsmarkedstiltak og språkundervisning innenfor det danske introduksjonsprogrammet tyder på at programmet kan innebære
-visse innlåsingseffekter ved at sannsynligheten
-for arbeid og selvforsørgelsen minskes noe i programperioden.24 Innlåsingseffektene ser imidlertid ikke ut til å gjelde lønnstilskudd i privat sektor
-under introduksjonsprogrammet. Mangel på innlåsingseffekter koplet med sterke programeffekter betyr at lønnstilskudd i privat sektor kom klart
-best ut som tiltak innenfor det danske introduksjonsprogrammet. Mange av tiltakene med sterke
-innlåsingseffekter viste ingen eller små programeffekter og dermed ingen eller negative totaleffekter. Studien kunne bare avdekke korttidseffekter.
-Det er god grunn til å tro at mange av de positive
-effektene av arbeidsmarkedstiltak brukt innenfor
-introduksjonsprogrammet inntreffer først på mellomlang eller lengre sikt.
-Et forsøk i 20 svenske kommuner i perioden
-2003−2006 la vekt på bedre, strukturert veiledning
-og rådgivning for innvandrere gjennom metoden
-«supported employment». Resultater tyder på at
-programmet hadde en moderat effekt på sysselsettingen.25 Det hadde også en positiv effekt på
-deltakelse i tiltak som ga deltakerne mer arbeids-
-
-19
-
-24
-
-Røed, K. & Raaum, O. (2006). Do labour market programmes speed up the return to work?. Oxford Bulletin of Economics and Statistics, 68(5), 541-568.
-20
-Hardoy, I. & Zhang, T. (2011). Innvandrere i arbeid: Hjelper
-arbeidsmarkedstiltak?. Søkelys på arbeidslivet, 27(4), 343364.
-21
-Zhang, T. (2016). Virker arbeidspraksis i ordinær virksomhet etter sitt formål?. Søkelys på arbeidslivet, 32(1-2), 45-65.
-
-22
-
-23
-
-25
-
-Arendt, J.N. & Pozzoli, D. (2013). Effekter af beskæftigelsesog uddannelsesrettede indsatser for ikke-vestlige ledige indvandrere: En oversigt over danske og internationale kvantitative studier. KORA Det nationale Institut for Kommuners
-og Regioners Analyse og Forskning, København; Ekspertgruppen om udredning af den aktive beskæftigelsesindsats
-(2015). Delrapportering: Integrationsindsatsen for nyankomne flygtninge og familiesammenførte udlændinge.
-Ekspertgruppen om udredning af den aktive beskæftigelsesindsats (2015). Nye veje mod job – for borgere i udkanten
-af arbejdsmarkedet.
-Clausen, J., Heinesen, E., Hummelgaard, H., Husted, L. &
-Rosholm, M. (2009). The effect of integration policies on
-the time until regular employment of newly arrived immigrants: Evidence from Denmark. Labour Economics, 16 (4),
-409-417.
-Åslund, O. & Johansson, P. (2006). Virtues of SIN: Effects of
-an immigrnat workplace introduction program. IFAU Working Paper 2006:7.
-
-[Side 96]
-
-96
-
-NOU 2017: 2
-
-Kapittel 5
-
-Integrasjon og tillit
-
-erfaring, noe som kan være gunstig på noe lengre
-sikt, dvs. utover observasjonsperioden for analysen. Sensitivitetsanalyser trekker imidlertid konklusjonene om sysselsettingseffekten til en viss
-grad i tvil, og det er derfor usikkert om analysen
-klarer å fange opp effekten av tiltaket.
-I Sverige finnes det erfaringer med tiltakskjeding av to lønnstilskuddsordninger, «instegsjobb»
-og «nystartsjobb». Nystartsjobb er et tiltak som
-kan brukes for alle – ikke bare innvandrere – som
-har vært arbeidsledige i minst ett år eller for innvandrere som har vært bosatt i opptil tre år. «Instegsjobb» brukes utelukkende for innvandrere,
-og innvandrere får lov å ha 15 timer med
-svenskopplæring i uken som en del av arbeidstiden. Tilskudd til arbeidsgiveren er høyere for «instegsjobb» (80 pst. av lønn) enn for nystartsjobb.
-Kartlegginger viser at det forekommer tiltakskjeding med disse tiltakene, uten at det var intensjonen. «Instegsjobb» øker sannsynligheten for
-nystartsjobb.26 Deltakere som har vært gjennom
-både «insteg» og «nystart», som nesten utelukkende skjer med «insteg» først og så «nystart», viser de beste sysselsettingsresultatene, dvs. bedre
-enn både en sammenlikningsgruppe uten tiltak og
-dem som bare hadde gått på nystartsjobb-tiltaket.
-
-5.4
-
-Internasjonalt perspektiv: Norge
-som et arbeidsmarked med høye
-kompetansekrav
-
-Dette kapitlet gir en kort oversikt over internasjonale analyser og statistikker som setter situasjonen for innvandrere på det norske arbeidsmarkedet i et internasjonalt perspektiv. Tallene er hentet
-fra publikasjoner og statistikkbaser i OECD som i
-stor grad er basert på internasjonalt sammenliknbare tall fra arbeidskraftsundersøkelsene i de enkelte landene.
-OECD-statistikken skiller mellom innenlandsfødte og utenlandsfødte i analysene. Denne inndelingen skiller seg noe fra den som til vanlig brukes i norsk statistikk, og tall vil derfor ikke være
-direkte sammenliknbare med resten av kapitlet
-(se kap. 2.4).
-
-5.4.1 Sysselsettingsrater
-Sysselsettingsraten blant utenlandsfødte er høyere i Norge enn i de fleste andre OECD-land.27
-Det kan være flere årsaker til dette. Innvandrernes sammensetning etter innvandringsgrunn, utdanning, botid, kjønn og alder mv. er faktorer som
-påvirker sysselsetting, sammen med landenes
-evne til å integrere innvandrere i arbeidslivet.
-Sysselsettingsandelen blant utenlandsfødte er
-relativt høy i Norge sammenliknet med de fleste
-andre OECD-land, men sysselsettingsraten blant
-utenlandsfødte er betydelig lavere (10 prosentenheter) enn blant innenlandsfødte. Dette gapet er
-mindre i Norge enn i en del andre land, inkludert
-Sverige, Danmark og Finland, men likevel større
-enn i mange andre OECD-land. De høye sysselsettingsratene for innvandrere i Norge henger til
-dels sammen med at arbeidsinnvandrere har utgjort en større andel av innvandringen til Norge
-enn til de andre landene de siste ti årene.
-Figur 5.7 viser at bare en liten andel – godt under 5 pst. – av de innenlandsfødte sysselsatte i
-Norge har jobber som stiller små krav til kvalifikasjoner.28 Denne andelen er blant de laveste i
-OECD- landene. Blant sysselsatte i den utenlandsfødte befolkningen i Norge er andelen i slike jobber betydelig høyere, men det er likevel en forholdsvis lav andel av utenlandsfødte som er i jobber med små krav til kvalifikasjoner i Norge sammenliknet med de fleste andre land i OECD.
-Slik det framgår av figur 5.8, er sysselsettingsratene for utenlandsfødte med høy utdanning omtrent lik eller lavere enn for innenlandsfødte med
-tilsvarende utdanning i de fleste OECD-landene. I
-Norge er sysselsettingsraten for utenlandsfødte
-med høy utdanning om lag 10 prosentenheter lavere enn for innelandsfødte med tilsvarende utdanning (se også kap. 5.2.4). For omtrent halvparten av OECD-landene og for OECD-gjennomsnittet er sysselsettingsraten for utenlandsfødte med
-lav utdanning høyere enn for tilsvarende gruppe
-innenlandsfødte. Det motsatte gjelder imidlertid
-for Norge, men også for Danmark og Sverige. Gapet i Norge er på om lag 9 prosentenheter mellom
-innenlandsfødte og utenlandsfødte med dette utdanningsnivået.
-27
-28
-
-26
-
-Peterson, S. (2014). Utrikes födda på arbetsmarknaden – en
-forskningsöversikt. Stockholms universitets Linnécentrum
-för integrationsstudier (SULCIS).
-
-Se kap. 5.1 i OECD (2015). Indicators of Immigrant Integration 2015: Settling In. OECD Publishing.
-Jobbene er klassifisert som lavt, middels og høyt kvalifiserte basert på International Standard Classification of
-Occupations (ISCO) fra Internasjonal Labour Organization
-(ILO). Denne inndelingen er nærmere forklart i OECD
-(2015). Ibid., kap. 6.3.
-
-[Side 97]
-
-97
-
-NOU 2017: 2
-Integrasjon og tillit
-
-Kapittel 5
-
-Innenlandsfødte
-
-Utenlandsfødte
-Kypros
-Hellas
-Spania
-Italia
-Israel
-Belgia
-Slovenia
-Tyskland
-Østerrike
-EU totalt (28)
-Frankrike
-Danmark
-Portugal
-Island
-OECD totalt (29)
-Latvia
-Estland
-Luxembourg
-Kroatia
-Nederland
-Tyrkia
-Finland
-Irland
-Storbrittannia
-Litauen
-Norge
-Sveits
-Sverige
-Ungarn
-Tjekkia
-Slovakia
-Malta
-New Zealand
-Polen
-Canada
-Australia
-
-60
-
-50
-
-40
-
-30
-
-20
-
-10
-
-0
-
-0
-Kvinner
-
-10
-
-20
-
-30
-
-40
-
-50
-
-60
-
-Menn
-
-Figur 5.7 Sysselsetting med små krav til kvalifikasjonser blant utenlands- og innenlandsfødte personer
-i alderen 15­64 år, etter kjønn. 2012­2013. Prosent
-Kilde: OECD (2015). Indicators of Immigrant Integration 2015: Settling In. OECD Publishing
-
-5.4.2
-
-Andre relevante arbeidsmarkedsområder
-
-Norge er et av landene med den laveste andelen
-innenlandsfødte sysselsatte som er overkvalifiserte i stillingene sine.29 Andelen er om lag ti pst.
-i Norge, sammenliknet med om lag 20 og 30 pst.
-som gjennomsnitt for hhv. EU- og OECD-landene.
-Andelen overkvalifiserte blant utenlandsfødte i
-Norge er rundt 30 pst., som er litt lavere enn
-
-OECD- og EU-gjennomsnittene. Overkvalifisering ser dermed ut til å være et fenomen mest
-blant utenlandsfødte i Norge, mens overkvalifisering er mer jevnt fordelt mellom innenlands- og
-utenlandsfødte i mange andre OECD-land.
-Andelen utenlandsfødte med midlertidig arbeidskontrakt er høyere enn tilsvarende andel
-blant innenlandsfødte i Norge (se også kap. 5.5.3).30
-Andelen av både innenlandsfødte og utenlandsfødte sysselsatte med midlertidige stillinger i
-
-[Side 98]
-
-98
-
-NOU 2017: 2
-
-Kapittel 5
-
-Integrasjon og tillit
-
-20
-
-10
-
-0
-
--10
-
-N
-
-ed
-
-er
-Es lan
-D tla d
-an nd
-m
-Sv ark
-er
-i
-Ty ge
-rk
-S ia
-Ø ve
-st its
-er
-r
-Kr ike
-oa
-N tia
-or
-B ge
-Au elg
-s ia
-Ty tral
-sk ia
-la
-La nd
-F
-St ra tvia
-o n
-N rbr krik
-ew ita e
-Ze nni
-al a
-C and
-an
-Po a d
-rtu a
-S p gal
-an
-EU
-i
-to I s l a a
-ta n d
-lt
-(
-Fi 28)
-nl
-a
-M nd
-ex
-i
-O
-Irl co
-EC
-a
-D H nd
-to e l
-ta l a
-l s
-S l t (3
-ov 3)
-en
-M ia
-al
-Is ta
-ra
-e
-It l
-Tj alia
-ek
-ki
-C a
-Lu U h i l e
-xe ng
-m arn
-bo
-ur
-g
-U
-Ky SA
-pr
-os
-
--20
-
-Lav utdanning
-
-Høy utdanning
-
-Figur 5.8 Forskjellen (prosentenheter) i sysselsettingsrater for utenlandsfødte og innenlandsfødte i alderen 15­64 år etter utdanningsnivå. 2012–2013
-Kilde: OECD (2015). Indicators of Immigrant Integration 2015: Settling In. OECD Publishing
-
-Norge er imidlertid lav sammenliknet med Sverige og Finland og med gjennomsnittet i OECD og
-EU.
-Det er liten forskjell på innenlands- og utenlandsfødte i Norge når det gjelder å drive selvstendig virksomhet. Om lag 5 pst. av de sysselsatte i
-Norge er selvstendig næringsdrivende. Dette er
-en lav andel sammenliknet med EU-land og andre
-OECD-land.31
-
-5.5
-
-Innvandrernes situasjon
-i arbeidslivet
-
-5.5.1 Andel innvandrere i ulike næringer
-Innvandrere utgjorde om lag 15 pst. av de sysselsatte i Norge i 4. kvartal 2015 (se figur 5.9). Innvandrere, særlig fra landgruppe 2 og 3, er sterkt
-overrepresentert i noen næringer. Dette gjelder
-overnattings- og serveringsvirksomhet og forretningsmessig tjenesteyting, som omfatter utleie av
-arbeidskraft/vikarbyråer og rengjøring, ifølge statistikk fra SSB. Innvandrere utgjorde nesten to av
-tre av de ansatte innen rengjøring, nesten 40 pst.
-av de ansatte innenfor utleie av arbeidskraft og
-nærmere én av tre av de ansatte innenfor land29
-
-Se kap. 6.4 i OECD (2015). Indicators of Immigrant Integration 2015: Settling In. OECD Publishing.
-30
-Se kap. 6.1 i OECD (2015). Ibid.
-31
-Se kap. 6.5 i OECD (2015). Ibid.
-
-transport med passasjerer. Innvandrere fra landgruppe 2 er i tillegg klart overrepresentert i byggog anleggsnæringen og i industrien, mens innvandrere fra landgruppe 3 er underrepresentert i
-disse næringene. Innvandrere fra landgruppe 3 er
-imidlertid klart overrepresentert i helse- og sosialtjenester, mens det er forholdsvis få innvandrere
-fra andre land som jobber i denne næringen.
-
-5.5.2
-
-Arbeidstid og undersysselsatte
-
-Figur 5.10 viser relativt store forskjeller i arbeidstid mellom ulike grupper. Om lag 65 pst. av de sysselsatte fra landgruppe 3 jobbet 30 eller flere timer per uke, sammenliknet med litt over 70 pst. i
-landgruppe 2 og nærmere 75 pst. i befolkningen
-eksklusive innvandrere. Andelen med 30 eller
-flere timer fra landgruppe 1 ligger noe høyere enn
-for befolkningen utenom innvandrere. Arbeidstiden til de sysselsatte flyktningene fordeler seg
-omtrent på samme måte som for landgruppe 3,
-ifølge den registerbaserte sysselsettingsstatistikken. Om lag en fjerdedel av de sysselsatte fra landgruppe 3 og blant flyktningene jobber under 20 timer i uken. Flyktninger og innvandrere fra landgruppe 3 ser dermed ut til både å ha lavere sysselsettingsrater og å jobbe færre timer enn resten av
-befolkningen og andre innvandrergrupper.
-Kort arbeidstid for en person kan være uttrykk for undersysselsetting, dvs. at hun eller han
-
-[Side 99]
-
-99
-
-NOU 2017: 2
-Integrasjon og tillit
-
-Kapittel 5
-
-50
-45
-40
-35
-30
-25
-20
-15
-10
-5
-
-pg
-
-itt
-
-g
-or
-
-op
-U
-
-sj
-
-st
-
-na
-er
-
-nt
-,i
-
-rs
-le
-
-er
-
-el
-
--o
-iv
-
-at
-
-O
-
-e
-
-ff
-a
-
-tje
-
-ne
-
-st
-
-el
-H
-
-ne
-
-sn
-si
-
-al
-
-tje
-
-vi
-er
-nd
-g
-
-so
+Generelt er det få enslige mødre og fedre blant innvandrere i Norge. Både samboerskap, skilsmisse og barnefødsler utenfor ekteskap er mindre vanlig blant innvandrere enn blant befolkningen for øvrig. I levekårsundersøkelsen 2005/2006 besto bare 3 pst. av husholdningene med bakgrunn fra Tyrkia, Bosnia-Hercegovina, Irak, Sri Lanka og Pakistan av én voksen og ett barn.[^198] Det samme var tilfellet for 10 pst. av husholdningene fra Iran, 11 pst. av husholdningene fra Chile – og 16 pst. av husholdningene med bakgrunn fra Somalia. Nesten hver tredje husholdning med barn med bakgrunn fra Somalia var en eneforsørgerhusholdning, ifølge denne undersøkelsen. Studier av innvandreres stønadsbruk i Norge viste at 74 pst. av de somaliske kvinnene som kom til Norge i perioden 1989–1993, på et tidspunkt mottok overgangsstønad som enslige mødre. Andelen blant dem som kom i perioden 1998–2000, da stønadsperioden for overgangsstønad var blitt betydelig redusert, var 52 pst.[^199] Disse andelene er svært mye høyere enn for noen annen innvandrergruppe.
 
-U
-se
+Overgangsstønaden har blitt betydelig endret de senere årene. Den maksimale stønadsperioden er tre år, med mulighet for unntak i gitte situasjoner, f.eks. når mottakeren er i gang med nødvendig utdanning. Når yngste barn har fylt ett år, gjelder aktivitetskrav: Mottakeren må være i aktivitet – arbeid, utdanning, registrert som arbeidssøker – som utgjør minst halvparten av full tid. Før 2012 gjaldt aktivitetskrav først etter at yngste barn hadde fylt tre år. Dette innebar en lang periode uten krav til aktivitet og ble blant annet sett på som uheldig for integreringen.[^200] Retten til overgangsstønad ble videre strammet inn med virkning fra 1. januar 2016. Blant annet ble muligheten til å motta stønad under opphold i utlandet redusert fra seks måneder til seks uker innenfor en tolvmånedersperiode. Videre faller retten til stønad bort fra første dag hvis man inngår et nytt samboerskap, mens man tidligere kunne motta stønad i inntil ett år etter at man flyttet sammen med en ny partner, og man mister retten til stønad hvis man får flere barn med en partner man har barn med fra før.
 
-va
-rs
+Data fra sosialhjelpsstatistikken viser imidlertid at enslige mødre med innvandrerbakgrunn fortsatt er en sårbar gruppe.[^201] Samlet er det om lag 4 000 eneforsørgerfamilier som har økonomisk sosialhjelp som viktigste inntektskilde. Dette tallet har vært stabilt over flere år, men sammensetningen av denne gruppen har endret seg: i 2002 hadde 29 pst. av dem innvandrerbakgrunn, i 2012 gjaldt dette 53 pst. Det er altså få enslige mødre med innvandrerbakgrunn i Norge, men denne gruppen er sterkt overrepresentert blant sosialhjelpsmottakere.
 
-er
+1.  **Mottak av utvalgte trygdeytelser etter landbakgrunn**
 
-g
-in
+Tabell 6.2 oppsummerer mye av diskusjonen så langt, gjennom å gi en samlet oversikt over antall og andelen mottakere (20–66 år), og gjennomsnittlig utbetaling blant mottakerne, av utvalgte velferdsytelser i 2014 etter landbakgrunn. Forskjeller i alderssammensetning og botid i gruppene vil påvirke andelen mottakere av de ulike ytelsene når man ser på 20–66-åringer samlet. På grunn av dette omtales også antall mottakere og andeler for ulike aldersgrupper og for norskfødte med innvandrerforeldre i aldersgruppen 25–39 år for noen av ytelsene, hvor det er mange nok observasjoner.
 
-in
-g
+1.  Velferdsytelser for innvandrere, 20–66 år, etter landbakgrunn.<sup>1</sup> Antall mottakere, andel mottakere og gjennomsnittlig utbetaling av ytelser til mottakere. 2014
 
-g
+|  |  |  |  |  |
+|----|----|----|----|----|
+|  | Landgruppe 1 | Landgruppe 2 | Landgruppe 3 | Befolkningen eksklusive innvandrere |
+|  |  |  |  |  |
+| *Uførepensjon* |  |  |  |  |
+| Antall mottakere | 3 928 | 1 249 | 18 593 | 278 445 |
+| Andel mottakere (pst.) | 3,2 | 0,8 | 6,5 | 10,6 |
+| Gjennomsnittlig utbetaling til mottakere | 163 500 | 151 800 | 167 400 | 198 800 |
+| *Arbeidsavklaringspenger* |  |  |  |  |
+| Antall mottakere | 4 934 | 2 844 | 22 195 | 174 712 |
+| Andel mottakere (pst.) | 4,1 | 1,9 | 7,8 | 6,6 |
+| Gjennomsnittlig utbetaling til mottakere | 175 300 | 164 100 | 173 700 | 166 000 |
+| *Sykepenger* |  |  |  |  |
+| Antall mottakere | 23 461 | 24 616 | 51 433 | 622 709 |
+| Andel mottakere (pst.) | 19,3 | 16,5 | 18,0 | 23,7 |
+| Gjennomsnittlig utbetaling til mottakere | 51 600 | 45 700 | 52 700 | 51 873 |
+| *Dagpenger ved arbeidsløshet* |  |  |  |  |
+| Antall mottakere | 7 244 | 20 750 | 20 929 | 107 444 |
+| Andel mottakere (pst.) | 6,0 | 13,9 | 7,3 | 4,1 |
+| Gjennomsnittlig utbetaling til mottakere | 74 800 | 66 400 | 81 000 | 70 900 |
+| *Sosialhjelp* |  |  |  |  |
+| Antall mottakere | 2 452 | 2 335 | 39 095 | 72 285 |
+| Andel mottakere (pst.) | 2,0 | 1,6 | 13,7 | 2,8 |
+| Gjennomsnittlig utbetaling til mottakere | 42 200 | 36 400 | 62 800 | 37 200 |
+| *Kvalifiseringsstønad* |  |  |  |  |
+| Antall mottakere | 132 | 145 | 5 002 | 4153 |
+| Andel mottakere (pst.) | 0,1 | 0,1 | 1,8 | 0,2 |
+| Gjennomsnittlig utbetaling til mottakere | 89 600 | 81 700 | 101 700 | 88 485 |
+| *Overgangsstønad til enslig mor eller far* |  |  |  |  |
+| Antall mottakere | 453 | 687 | 4 957 | 20 075 |
+| Andel mottakere (pst.) | 0,4 | 0,5 | 1,7 | 0,8 |
+| Gjennomsnittlig utbetaling til mottakere | 85 600 | 81 600 | 116 100 | 87 300 |
+| *Kontantstøtte* |  |  |  |  |
+| Antall mottakere | 1 538 | 5 603 | 10 520 | 32 866 |
+| Andel mottakere (pst.) | 1,3 | 3,8 | 3,7 | 1,3 |
+| Gjennomsnittlig utbetaling til mottakere | 25 900 | 29 800 | 28 700 | 25 200 |
+|  |  |  |  |  |
 
-ik
-r
+<sup>1</sup> Se kap. 2.4 for definisjon av landgrupper
 
-tin
+Inntekts- og formuesstatistikk for husholdninger, SSB.
 
-rs
+Tabellen viser at innvandrere fra landgruppe 2 generelt mottar færre ytelser enn personer fra de andre landgruppene og befolkningen utenom innvandrere. Denne gruppen har likevel en høy andel mottakere av dagpenger (se tidligere omtale av arbeidsledighet i kap. 5.2). Andelen er her nesten dobbelt så stor som for landgruppe 3. Gjennomsnittlig utbetaling er likevel noe høyere for dem fra landgruppe 3. For sykepenger er forskjellene i andelene mellom gruppene og befolkningen uten innvandrere mindre. Lavest nivå finner man blant landgruppe 2 med 16,5 pst.
 
-ia
+Innvandrere fra landgruppe 2 har lavt uttak av uførepensjon, under 1 pst., mens den for landgruppe 3 er 6,5 pst. Andelen i befolkningen utenom innvandrere er her 10,6 pst. Andelen som mottar uføretrygd, stiger med alder og forskjeller i alderssammensetning mellom landgruppene og forskjeller i botid påvirker gjennomsnittstallene når man ser på gruppen 20–66 år. Analyser av botidseffekter (se kap. 6.3.3) som følger bosettingskohorter av flyktninger, viser at andelen uføre øker med økende botid. Ser vi kun på innvandrere fra landgruppe 3 i alderen 40–54 år, finner vi at andelen med uføretrygd er rett over 5 pst. for dem med 10–14 års botid, og nesten 14 pst. for dem med 15 års botid eller mer. For befolkningen eksklusive innvandrere i samme alder er andelen nesten 10 pst. For 55–66-åringer med en botid på over 15 år er andelen mottakere 16,4 pst. for landgruppe 1, 25,5 pst. for landgruppe 2 og 36 pst. for landgruppe 3. For befolkningen eksklusive innvandrere i alderen 55–66 år er andelen 24,5 pst. For etterkommere er andelen rett under 3 pst. for alle tre landgruppene, men antallet mottakere er lavt.
 
-lfo
+Andelen i landgruppe 2 som mottar arbeidsavklaringspenger, er i underkant av 2 pst. Dette er fremdeles lavt sett opp mot landgruppe 1 og landgruppe 3 med henholdsvis om lag 4 pst. og 8 pst. Den lave andelen mottakere fra landgruppe 2 kan delvis forklares med at mottaket av denne ytelsen øker med botid, og det er få fra landgruppe 2 som har botid på 15 år eller mer. For etterkommere er forskjellene mellom landgruppene mindre, fra 6 pst. for landgruppe 1 til 7 pst. for landgruppe 3. Her er det viktig å være oppmerksom på at antallet mottakere er lavt, om lag 70 personer i landgruppe 2 og 760 i landgruppe 3.
 
-st
+Noen av de største forskjellene finner vi i andelen mottakere av sosialhjelp og kvalifiseringsstønad. Når det gjelder sosialhjelp, er andelen 2 pst. for landgruppe 1, mens den er nesten 14 pst. for innvandrere med bakgrunn fra landgruppe 3. Andelen blant landgruppe 1 og 2 er også lavere enn for befolkningen utenom innvandrere. Lavest gjennomsnittlig utbetaling finner vi i landgruppe 2 med 36 400 kr, mot 62 800 kr i landgruppe 3. Blant etterkommere fra landgruppe 3 er antallet mottakere om lag 460, noe som utgjør en andel på litt over 4 pst. Gjennomsnittlig utbetaling for denne gruppen er 53 300 kr.
 
-ne
+Andelen mottakere er også betraktelig høyere i landgruppe 3 for overgangsstønad til enslig mor eller far: nesten 2 pst. Også den gjennomsnittlige utbetalingen av overgangsstønad til enslig mor eller far er høyere for denne gruppen med 116 100 kr. Gjennomsnittlig utbetaling for landgruppe 1 og 2 var på henholdsvis 85 600 kr og 81 600 kr.
 
-os
-r,
-s
+Andelen som mottar kontantstøtte i befolkningen uten innvandrere, er 1,3 pst. Blant landgruppe 2 og 3 er andelen nokså lik og betraktelig høyere enn for befolkningen ellers. Forskjellen i andelen kontantstøttemottakere blant innvandrere fra ulike landgrupper har blitt gradvis mindre de siste årene. Dette skyldes både en nedgang i antallet med bakgrunn fra landgruppe 3 og en økning blant mottakere fra landgruppe 1 og 2. Blant etterkommere fra landgruppe 3 er det under 700 mottakere av kontantstøtte. Dette utgjør en andel på litt over 6 pst.
 
-si
-es
-,fo
-dm
+Funnene i dette kapitlet er i tråd med konklusjonene i en analyse av utbetalingene av velferdsytelser per innbygger fordelt etter innvandrerbakgrunn.[^202] Denne studien bruker også tall fra 2014 og viser aldersstandardiserte tall for å ta høyde for at innvandrerne har en annen alders- og kjønnssammensetning enn befolkningen for øvrig. Om man ser på alle aldersgrupper under ett, er utbetalingene per innbygger høyere i befolkningen uten innvandrerbakgrunn enn blant innvandrere. Dette gjelder uavhengig av om man ser på tallene med eller uten aldersstandardisering. Dette skyldes at noen velferdsytelser, særlig alderspensjon og uføretrygd, i stor grad er avhengig av tidligere opptjening av rettigheter gjennom deltakelse i arbeidsmarkedet.
 
-in
-tn
+Dersom man ser på aldersgruppen 18–66 år og utelater pensjoner,[^203] finner man høyest utbetalinger til innvandrere med bakgrunn fra landgruppe 3. Dette skyldes særlig at mottaket av økonomisk sosialhjelp er svært høyt i denne gruppen. Lavest utbetalinger finner vi blant dem fra landgruppe 2. Mange av disse har nylig kommet som arbeidsinnvandrere og har allerede hatt en jobb ved ankomst.
 
-ey
+1.  **Insentiver til arbeid**
 
-tin
-ey
+De norske velferdsytelsene har som mål å sikre en akseptabel inntekt når arbeidsinntekten faller bort av årsaker den enkelte ikke har kontroll over, som arbeidsledighet eller sykdom. Samtidig skal ordningene være utformet på en slik måte at de motiverer til deltakelse i arbeidslivet framfor mottak av ulike ytelser. Et sentralt dilemma i arbeids- og velferdspolitikken går mellom hensynet til grunntrygghet og inntektssikring på den ene siden og at det skal lønne seg å jobbe på den andre. Dilemmaet illustreres blant annet i evalueringen av innføringen av *starthjælp* i Danmark. Sysselsettingen økte blant innvandrere som fikk *starthjælp* i stedet for den høyere kontanthjelpen, men levekårsutfordringene ble også betydelig større for mottakerne av *starthjælp* som ikke lyktes i å skaffe en jobb.[^204] De relativt høye minstesatsene i velferdssystemet i Norge kan være et disinsentiv til arbeid. På den andre siden stiller mange av de aktuelle ytelsene eksplisitte krav om arbeidssøking eller arbeidsrettet aktivitet og eventuelt tidligere deltakelse i arbeidsmarkedet (se kap. 5.3). I dette kapitlet gjennomgås kort hvilken kunnskap som foreligger om effekter av vilkårssetting og sanksjonering. Deretter diskuteres to forhold som kan gjøre norske velferdsytelser uforholdsmessig attraktive for bestemte grupper: høye kompensasjonsgrader og adgangen til stønadseksport.
 
-st
+1.  **Aktivitetskrav og sanksjoner**
 
-tje
+Å stille krav til aktivitet i velferdsytelsene skal bidra til å motvirke passivitet, å bedre insentivene for overgang til jobb og å gi legitimitet til velferdsordningene. På denne måten har aktivitetskravene en selvstendig funksjon i velferdsytelsene. I tillegg er de konkrete aktivitetene det stilles krav om i form av medisinsk behandling, arbeidsmarkedstiltak mv., ment å bidra til å bedre brukerens forutsetninger for å delta i arbeidslivet. Det stilles ulike aktivitetskrav i alle velferdsytelser (unntatt uføretrygd) som skal kompensere for tapt inntekt ved sykdom, arbeidsledighet eller andre sosiale problemer, men det er i liten grad foretatt undersøkelser eller lagt til rette for uttrekk av statistikk som kan si i hvilken grad arbeids- og velferdsforvaltningen håndhever disse aktivitetskravene. Ut fra kvalitative opplysninger er det grunn til å anta at kravene praktiseres forskjellig mellom de ulike ordningene og mellom de ulike NAV-kontorene.[^205] Rapporteringer fra Arbeids- og velferdsdirektoratet kan tyde på at reaksjonsbestemmelsene i folketrygdlovens ytelseskapitler er gjennomgående lite benyttet og brukes i mindre grad enn regelverket åpner for.
 
-ne
+En analyse av dagpengeordningen har vist at myke sanksjoner som søknad om ny periode og krav om deltakelse i tiltak en periode før ny periode med dagpenger, hadde positiv effekt for overgangen til jobb.[^206] Det er gjort en rekke analyser i andre land som ser på effekter av sanksjoner benyttet overfor personer som mottar ulike velferdsytelser.[^207] Analysene viser at sanksjoner fremmer overgang til ordinær jobb. Virkningene er til dels store, særlig ved stopp i ytelsen for en periode. Sanksjoner kan imidlertid også ha negative effekter for noen av dem som blir utsatt for det. De negative effektene er knyttet til overgang til jobb som i mindre grad matcher personens kvalifikasjoner (som kan ha negativ effekt på karrieren på sikt), overgang til deltids- i stedet for fulltidsjobb og avgang fra arbeidsstyrken (med fare for overgang til f.eks. svart arbeid eller annen kriminalitet). Noen av de negative effektene kan reduseres hvis sanksjonen er knyttet til manglende aktivitet (jobbsøking, oppmøte hos arbeidsformidlingen, deltakelse i tiltak mv.) i stedet for manglende villighet til å ta tilvist jobb.
 
-g
+NAV-kontoret kan stille vilkår om aktivitet ved tildeling av økonomisk sosialhjelp. Muligheten til å stille vilkår benyttes i varierende grad i dag, men bruken generelt har vært økende de senere årene.[^208] Fra 2017 er det innført aktivitetsplikt med det formål å styrke mulighetene for å komme i arbeid og bli selvforsørget for mottakere av økonomisk sosialhjelp under 30 år.[^209] En studie av innføring av aktivitetskrav for mottak av økonomisk sosialhjelp i fire kommuner viser at det kan ha stor betydning for resultatene hvordan aktivitetsvilkårene praktiseres, og hvilke typer aktivitet som tilbys.[^210] I de kommunene hvor det ble stilt krav om fulltids oppmøte med praktiske arbeidsoppgaver og tydelige sanksjoner, ble det oppnådd en stor reduksjon i antall mottakere av sosialhjelp. I de to øvrige kommunene som vektla å hjelpe unge ut i jobb gjennom pliktig oppmøte på kurs, har innføringen av aktivitetsvilkår ikke gitt tilsvarende resultater. Studien har ikke undersøkt om innføring av aktivitetskrav gir økt overgang til arbeid på sikt. Nedgangen i antall sosialhjelpsmottakere kan skyldes at flere valgte å bli forsørget av andre (foreldre), eller at det ble vanskeligere å kombinere svart arbeid og sosialhjelp. Det siste er også en positiv effekt av streng håndheving, men effekten er ikke nødvendigvis overførbar til andre grupper.
 
-tje
-gs
+1.  **Kompensasjonsgrader**
 
-m
+I den offentlige debatten reises det av og til spørsmålet om det lønner seg for innvandrere (og andre) å jobbe. Innvandrere har ofte begrensede muligheter på det norske arbeidsmarkedet, samtidig som de oftere enn befolkningen for øvrig har stor familie. Nivået på lønningene gjenspeiler produktiviteten til den ansatte, mens offentlige ytelser ofte utmåles for å gjenspeile mottakerens behov – inkludert behov for å forsørge en stor familie. *Kompensasjonsgraden* er et begrep som betegner hvor mye disponibel inntekt en person sitter igjen med som stønadsmottaker sammenliknet med det han eller hun ville hatt som lønnsmottaker. Kompensasjonsgradene er typisk høyere for personer som har hatt lave inntekter, enn for dem med høye inntekter, fordi mange ytelser kombinerer minimumsnivåer med tak på opptjeningen av rettigheter. Hvis arbeidsinntekter i tillegg skattlegges etter en høyere sats enn stønadsinntekter, går lønnsomheten ved yrkesaktivitet ned både for høytlønte og for lavtlønte. Dette innebærer at kompensasjonsgraden i stønadene øker. Hvis kompensasjonsgraden er nær eller over 100 pst., finnes det ingen gevinst ved å gå fra trygd til arbeid.
 
-te
-rre
+En fersk analyse av norske data tar utgangspunkt i denne problematikken og viser at det er store netto inntektsgevinster forbundet med å ha fulltidsjobb framfor trygd, i gjennomsnitt rundt 100 000 kr per år.[^211] Forskerne bak denne studien estimerer at bare om lag 5 pst. av trygdemottakerne står ovenfor kompensasjonsgrader på mer enn 100 pst. og dermed er i en situasjon der de netto vil tape penger på å komme i arbeid. I denne gruppen er kvinner sterkt overrepresenterte.
 
-Fo
+Konklusjonen at det lønner seg å jobbe, gjelder også personer med innvandrerbakgrunn, som illustrert i figur 6.9. Kompensasjonsgradene ligger på rundt 70 pst. for uførepensjon og rundt 80 pst. for arbeidsavklaringspenger og overgangsstønad. For dagpenger, overgangsstønad og sosialhjelp er det til dels store forskjeller mellom innvandrere fra landgruppe 2, innvandrere fra landgruppe 3 og befolkningen for øvrig. Kompensasjonsgraden for økonomisk sosialhjelp, f.eks., er i gjennomsnitt 50 pst. for personer uten innvandrerbakgrunn, i underkant av 60 pst. for personer fra landgruppe 2 og 70 pst. for personer fra landgruppe 3. Dette skyldes dels forskjeller i antall barn, dels at innvandrere fra landgruppe 3 oftere kombinerer økonomisk sosialhjelp med andre stønader, som bostøtte. Den hypotetiske arbeidsinntekten er ganske lik for sosialhjelpsmottakere i alle de tre gruppene, så forskjellen mellom grupper skyldes ulike nivåer på utbetalte stønader.
 
-sd
+**\[:figur:figX-X.jpg\]**
 
-g
+1.  Kompensasjonsgrad for ulike ytelser etter landbakgrunn for personer 20–61 år med yrkesinntekt under ½ G. 2010.<sup>1</sup> Prosent
 
-t
+<sup>1 </sup>Uførepensjon inkluderer kun dem med 100 pst. uførepensjon.
 
-n
-rk
-vi
+Frischsenteret
 
-k
-is
+I den grad den enkelte står i en situasjon der han eller hun må vurdere om det lønner seg å komme i betalt arbeid, er det sannsynlig at perspektivet vil være relativt kortsiktig: Man vurderer om man får mer utbetalt *nå* i et bestemt yrke enn som stønadsmottaker. Forskerne som har studert kompensasjonsgradene, påpeker imidlertid at arbeidstakere kan regne med en viss lønnsvekst, slik at kompensasjonsgradene på sikt er lavere enn kompensasjonsgraden «her og nå».[^212] Den som blir værende på offentlige overføringsordninger, vil ha svakere inntektsutvikling enn den som kommer i arbeid. Dette understreker hovedkonklusjonen, nemlig at lønnsarbeid i de aller fleste tilfeller gir en bedre økonomi enn stønadsmottak.
 
-kn
+En annen studie[^213] har sett på insentiveffekter av endringer i kompensasjonsgrader og finner at både for innvandrere og for sammenliknbare grupper i befolkningen gir høyere nivå på velferdsytelser større tilstrømning til ytelsen og lavere utstrømning til arbeid. Effekten for innvandrere er størst, men dette kan være et resultat av at innvandrere er overrepresentert i gruppen med potensielt lav inntekt.
 
-rin
-ik
-rs
+1.  **Stønadseksport**
 
-rif
+Muligheten til å eksportere norske velferdsytelser vekker av og til debatt i offentligheten. Stønadene er innført for å utjevne forskjeller i levekår i Norge og for å sikre inntekten til personer som oppholder seg i landet, og norske ytelser gjenspeiler et norsk lønns- og prisnivå. Fordi Norge er et høykostland, kan det være lukrativt å eksportere norske ytelser til de landene mange av arbeidsinnvandrerne kommer fra, som Polen og Litauen. Problematikken er relativt grundig diskutert i NOU 2011: 7, kapittel 10. Her er det blant annet beregnet at ett års kontantstøtte da tilsvarte omtrent en halv årslønn for en gjennomsnittlig industriarbeider i Polen, noe som gjør denne stønaden svært attraktiv for foreldre som jobber i Norge, men har barn i Polen. Stønadseksporten fra Norge til land i Sentral- og Øst-Europa ble mer enn doblet i perioden 2004–2008, men utgjorde likevel mindre enn 1 pst. av all stønadseksport fra Norge.[^214]
 
-t,
+I 2015 utbetalte NAV 6,8 mrd. kr til personer bosatt i utlandet. Av dette gikk 2,4 mrd. til personer som ikke var norske statsborgere.[^215] Mesteparten av den stønadseksporten som registreres, går altså til norske statsborgere, ofte alderspensjonister, som er bosatt i utlandet. Uavhengig av statsborgerskap gikk klart mest penger til Sverige (2,3 mrd. kr), etterfulgt av Spania (797 mill. kr) og Danmark (538 mill. kr). På fjerdeplass kom Polen (361 mill. kr), som det største «importlandet» i landgruppe 2. Det nest største «importlandet» i denne landgruppen var Litauen (46 mill. kr). Det er imidlertid store forskjeller mellom landene når man ser på hvor stor andel av utbetalingene som går til norske statsborgere: I land som Spania, Thailand og Filippinene er om lag 90 pst. av mottakerne av eksporterte stønader norske statsborgere, mens dette bare gjelder 10–15 pst. i Polen og Litauen. Det ble utbetalt 407 mill. kr til Polen og Litauen i 2015. Utbetalingene til disse landene utgjør en liten andel av alle utbetalinger gjennom NAV.
 
-fo
-m
-do
+Familieytelsene, særlig barnetrygd og kontantstøtte, trekkes av og til fram som ytelser som er særlig attraktive å eksportere. Dette har sammenheng med at dette er ytelser som ikke krever botid eller opptjening og dermed er tilgjengelige for alle som bor og/eller arbeider i Norge. I 2016 ble det utbetalt barnetrygd til 12 500 mottakere bosatt i utlandet.[^216] Dette utgjorde 1 pst. av alle barn som mottok barnetrygd. I tillegg ble det eksportert kontantstøtte for 965 barn på samme tidspunkt. 660 av disse eksporterte kontantstøttene gikk til Polen, 106 til Litauen. Eksport av familieytelser utgjør dermed en svært liten andel av de totale utgiftene til disse ytelsene. Eksporten av kontantstøtte er faktisk noe redusert sammenliknet med toppårene 2010–2011, noe som må antas å henge sammen med redusert tilstrømning av arbeidsinnvandrere de seneste årene.
 
-he
-m
+Det foreligger ingen statistikk som viser i hvilken utstrekning personer som har fått oppholdstillatelse i Norge med flyktningstatus, senere eksporterer norske trygdeytelser. Det er imidlertid viktig å merke seg at utbetalingene av ytelser som er innvilget og/eller beregnet etter folketrygdens særskilte bestemmelser for flyktninger, stanses dersom mottakeren flytter til utlandet. Det vedkommende eventuelt vil kunne ta med seg, er den ytelsen vedkommende måtte ha rett til etter de ordinære bestemmelsene i trygdelovgivningen. Disse ytelsene kan imidlertid flyktningene eksportere på samme vilkår som alle andre medlemmer av folketrygden.
 
-so
+1.  **Oppsummering**
 
-ik
-un
-m
+- Lavere sysselsettingsrater blant en del innvandrergrupper innebærer at de ofte er overrepresentert som mottakere av en rekke velferdsytelser og -tjenester. Om man ser på alle aldersgrupper under ett, er imidlertid utbetalingene per innbygger høyere i befolkningen uten innvandrerbakgrunn enn blant innvandrere. Dette skyldes at noen velferdsytelser i stor grad er avhengig av tidligere opptjening av rettigheter gjennom deltakelse i arbeidsmarkedet.
 
-gs
+- Selv om velferdsytelser som andel av samlet inntekt faller over tid for flyktninger og familieinnvandrere, ligger nivået selv etter mange år i Norge over nivået for befolkningen ellers. Dette gjelder spesielt for kvinner. Velferdsytelser utgjør en betydelig lavere andel av inntektene til arbeidsinnvandrere og nordiske innvandrere, selv om det øker noe med botid.
 
-m
-ko
+- Mottaket av økonomisk sosialhjelp er høyt for personer fra Asia, Afrika mfl. Andelen som mottar sosialhjelp, er lavere for dem med lang botid, men likevel vesentlig høyere enn for befolkningen for øvrig.
 
-og
-n
+- Mottaket av helserelaterte ytelser, som arbeidsavklaringspenger og uføretrygd, øker markant over tid for alle innvandrergruppene. Etter 15 års botid er andelen som mottar slike ytelser, klart høyest for innvandrere fra Asia, Afrika mfl.
 
-g
--o
+- Det er gjort flere endringer i familieytelsene de seneste årene for å styrke insentivene til arbeid. Oppdaterte analyser viser likevel at innvandrere, særlig fra EU-land i Sentral- og Øst-Europa og fra Asia, Afrika mfl., bruker kontantstøtte i vesentlig høyere grad enn befolkningen for øvrig.
 
-gs
+- Innvandrere fra EU-land i Sentral- og Øst-Europa mottar generelt færre ytelser enn andre innvandrere og befolkningen uten innvandrere. Dette må ses i sammenheng med at mange i denne gruppen har kortere botid i Norge enn innenfor de øvrige gruppene. EU-land i Sentral- og Øst-Europa har imidlertid en høy andel mottakere av dagpenger.
 
-en
+- Analyser av kompensasjonsgradene for ulike innvandrergrupper viser at kompensasjonsgradene for en del ytelser er høyere for innvandrere fra Asia, Afrika mfl. enn for innvandrere fra EU-land i Sentral- og Øst-Europa og befolkningen for øvrig, dette gjelder spesielt sosialhjelp. Innvandrere er mer sensitive enn befolkningen ellers for endringer i kompensasjonsgrader i ytelsene når det gjelder hvor mange som går over på ytelsen, og hvor mange som går over i arbeid.
 
-Fi
+- Eksporten av ytelser til utlandet øker, men er fremdeles på et svært lavt nivå. De fleste som mottar norske ytelser i utlandet, er norske statsborgere.
 
-Pr
+1.  **Levekår – inntekt, inkludering og deltakelse**
 
-Ei
-
-rin
-
-na
-
-as
-
-m
-so
-rk
-
-vi
-gs
-jo
-
-as
-rm
-fo
-
-ns
-
-ie
-
-In
-
-jo
-
-he
-
-he
-m
-
-so
-vi
-rk
-in
-er
-rv
-
-Se
-
-re
-l,
-de
-
-an
-eh
-Va
-r
-
-t
-
-t
-
-g
-in
-
-er
-la
-og
-
-gs
-
-rt
-
-O
-
-ve
-
-rn
-
-at
-
-tin
-
-po
-ns
-
-Tr
-a
-
-gr
-
-gn
-
-or
-
-m
-
-ot
-
-irk
-
-sv
-
-av
-on
-
-sj
-
-vo
-
-m
-
-he
-
-t
-
-jo
-n
-as
-
-st
-
-ov
-
-en
-pa
-
-ra
-
-og
-
-an
-
-le
-
-øp
-vl
-,a
-nn
-By
-
-gg
-
-e-
-
-va
-t,
-te
-
-gg
-
-,r
-
-rg
-be
-si
-tri
-
-ek
-El
-
-so
-
-ri
-
-t
-rif
-
-du
-In
-
-rk
-ve
-
-og
-k
-ru
-gb
-
-og
-
-ko
-
-ng
-
-,s
-
-ni
-
-uk
-
-tv
-
-in
-
-br
-U
-
-rd
-Jo
-
-sd
-
-fis
-
-Ia
-
-lt
-
-ke
-
-0
-
-Vest-Europa
-
-EU-land Øst-Europa
-
-Andre land
-
-Figur 5.9 Andel innvandrere i ulike næringer etter landbakgrunn. 4. kvartal 2015. Prosent
-Kilde: Registerbasert sysselsettingsstatistikk, Statistisk sentralbyrå
-
-Tabell 5.3 Undersysselsatte etter kjønn og landbakgrunn. Prosent av de deltidssysselsatte. 2015
-Begge kjønn
-
-Menn
-
-Kvinner
-
-Befolkningen ellers
-
-9,0
-
-7,6
-
-9,6
-
-Innvandrere i alt
-
-19,8
-
-23,5
-
-17,7
-
-Landgruppe 1 og 2 samlet
-
-18,2
-
-18,9
-
-17,8
-
-Landgruppe 3
-
-21,1
-
-26,6
-
-17,6
-
-Kilde: Arbeidskraftsundersøkelsene, Statistisk sentralbyrå
-
-ønsker å jobbe mer, eller det kan også gjenspeile
-at personen ønsker å jobbe deltid. Slike sammenhenger lar seg ikke avdekke så lett gjennom registre, men det stilles en rekke spørsmål om dette i
-AKU. I AKU er undersysselsatte definert som deltidssysselsatte personer som har forsøkt å få lengre arbeidstid, f.eks. ved å kontakte NAV, annonsere selv eller spørre nåværende arbeidsgiver, og
-i tillegg kan begynne med økt arbeidstid innen én
-måned. Tallene i AKU er usikre for forholdsvis
-små befolkningsgrupper, og det brukes noe grovere kategorier av innvandrergrupper i AKU enn i
-den registerbaserte sysselsettingsstatikken. Ut
-fra tabell 5.3 ser vi at nærmere én av fem deltidsansatte innvandrere er undersysselsatt, mens
-dette gjelder under 10 pst. i befolkningen ellers,
-
-ifølge AKU. Mens det er flere menn enn kvinner
-som kan defineres som undersysselsatte blant
-innvandrere, er dette motsatt i befolkningen ellers. Nesten 27 pst. av mannlige sysselsatte innvandrere fra landgruppe 3 er undersysselsatte
-sammenliknet med 18 pst. blant kvinner i samme
-gruppe og bare 8 pst. og 10 pst. blant henholdsvis
-menn og kvinner i den øvrige befolkningen.
-
-5.5.3
-
-Midlertidige stillinger
-
-Innvandrere er overrepresentert blant de midlertidig ansatte i Norge (se figur 5.11). Midlertidige
-ansettelser er særlig utbredt blant innvandrere
-med bakgrunn fra landgruppe 3. Generelt er andelen midlertidig ansatte høyere blant kvinner
-
-[Side 100]
-
-100
-
-NOU 2017: 2
-
-Kapittel 5
-
-Integrasjon og tillit
-
-enn blant menn innenfor hver av de angitte innvandrergruppene og i befolkningen ellers. Om lag
-14 pst. av de kvinnelige ansatte fra landgruppe 3
-hadde en midlertidig stilling, sammenliknet med
-100
-90
-80
-70
-60
-50
-40
-30
-20
-10
-0
-Uten
-innvandrerbakgrunn
-
-Landgruppe 1
-
-Uoppgitt
-
-Landgruppe 2
-
-Land- Flyktninger
-gruppe 3
-
-Under 10 timer
-
-10–19 timer
-
-20–29 timer
-
-30 timer og mer
-
-Figur 5.10 Arbeidstid blant sysselsatte for ulike
-grupper av befolkningen etter innvandrerbakgrunn. 2015. Prosent
-Kilde: Registerbasert sysselsettingsstatistikk, Statistisk sentralbyrå
-
-16
-14
-12
-10
-8
-6
-4
-
-9 pst. blant kvinnelig ansatte i den øvrige befolkningen, om lag 11 pst. blant menn i samme landgruppe og bare 6 pst. blant menn i den øvrige befolkningen.
-Det framgår av kapittel 5.5.1 at innvandrere
-var klart overrepresentert som sysselsatte innenfor vikarbyrånæringen. Betydningen av å være
-midlertidig ansett gjennom et vikarbyrå kan øke
-sannsynligheten for å få en ordinær jobb. En
-norsk undersøkelse antyder at sjansen for ordinær jobb øker med om lag 30 pst.32
-En annen norsk analyse av hele befolkningen
-viser videre at midlertidig ansettelse, uansett i
-hvilken form, ser ut til å øke sannsynligheten for
-en ordinær jobb. Denne «springbretteffekten» for
-menn generelt og for personer over 30 år ser ut til
-å være størst for dem med lav utdanning.33 En
-oppsummering av eksisterende internasjonal
-forskning rundt den mulige «springbretteffekten»
-av midlertidige stillinger fastslår imidlertid at det
-ikke foreligger entydig dokumentasjon av en slik
-effekt.34
-
-5.5.4 Organisasjonsgrad blant innvandrere
-Forskning basert på registerdata viser at organisasjonsgraden er lavere blant innvandrere enn i
-den øvrige befolkningen (se figur 5.12). Innvandrere med bakgrunn fra landgruppe 2, som i særlig grad er arbeidsinnvandrere, ser ut til å ha lavest organisasjonsgrad. Organisasjonsgraden er
-samtidig høyere blant innvandrere med lengre botid.35 Den lave organisasjonsgraden blant innvandrere fra landgruppe 2 kan dermed i noen grad
-henge sammen med at de gjennomgående har
-bodd i Norge i kort tid. En annen forklaring kan
-være at mange av dem jobber i bygg- og anleggsnæringen, hvor organisasjonsgraden generelt er lav. Flyktninger ser ut til å ha noe høyere
-organisasjonsgrad enn arbeidsinnvandrere (se figur 5.13).
-Innvandring kan bare forklare en liten del av
-nedgangen i organisasjonsgrad totalt i Norge siden 1995, men kan være en viktig forklaring på
-
-2
-32
-
-0
-Begge kjønn
-
-Menn
-
-Uten innvandrerbakgrunn
-Landgruppe 1 og 2
-
-Kvinner
-Innvandrere i alt
-Landgruppe 3
-
-Figur 5.11 Midlertidige ansatte etter landbakgrunn og kjønn. Prosent av alle ansatte i hver
-gruppe. 2015
-Kilde: Arbeidskraftsundersøkelsene, Statistisk sentralbyrå
-
-33
-
-34
-
-35
-
-von Simpson, K. (2009). Kan vikarbyråarbeid være et
-springbrett til arbeidsmarkedet for ikke-vestlige innvandrere? Søkelys på arbeidslivet 26(3), 341-351.
-Engebretsen, L.S., Salvanes, K. & Vassengen, J. (2012).
-Midlertidige stillinger – et springbrett til permanente stillinger? Økonomiske analyser 5/2012, 33-37.
-Eichhorst, W. (2014). Fixed-term contracts. Are fixed-term
-contracts a stepping stone to a permanent job or dead end?.
-IZA World of Labor 2014: 45.
-Nergaard, K., Barth, E. & Dale-Olsen, H. (2015). Lavere
-organisasjonsgrad, et spørsmål om nykommere? Søkelys på
-arbeidslivet, 32 (1-2), 91-110.
-
-[Side 101]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-101
-
-Kapittel 5
-
-ringsstruktur og bedriftsstørrelse, har betydd
-mer enn innvandring for nedgangen, uten at det
-er gjort spesifikke analyser som kan bekrefte
-dette.36
-
-90
-80
-70
-60
-50
-40
-30
-20
-10
-0
-Totalt
-
-Privat sektor
-
-Uten innvandrerbakgrunn
-Landgruppe 2
-
-Offentlig sektor
-Landgruppe 1
-
-Landgruppe 3
-
-Figur 5.12 Organisasjonsgrad etter innvandrerbakgrunn. 2012. Registerbaserte tall. Prosent
-Kilde: Nergaard, K., Barth, E. og Dale-Olsen, H. (2015), Lavere
-organisasjonsgrad, et spørsmål om nykommere? Søkelys på
-arbeidslivet, 32 (1–2), 91–110.
-
-60
-
-50
-
-40
-
-30
-
-20
-
-10
-
-5.5.5 Innvandrernes lønn og lønnsutvikling
-Lønnsvekst over botid har vært et sentralt tema i
-mange studier av innvandrere på arbeidsmarkedet, helt siden temaet først ble tatt opp av amerikanske forskere på 1970- og 1980-tallet.37 Det har
-også blitt gjennomført en rekke studier om innvandrernes lønnsutvikling i Norge de siste 20
-årene.38
-Utgangspunktet for slike studier har vært at
-innvandrernes lønn i begynnelsen av oppholdet i
-mottakerlandet ofte er lavere enn kompetansen
-skulle tilsi. Forklaringer på dette kan være manglende språkkunnskaper og misforhold mellom
-innvandrernes kompetanse og arbeidsgivernes
-behov. Skepsis og manglende kunnskap om den
-utdanningen og de ferdighetene innvandrerne
-bringer med seg, kan også – sammen med diskriminering – spille inn (se også kap 7.5). Det har
-vært en hypotese at slike lønnsforskjeller vil
-minke eller til og med helt forsvinne etter noen år,
-når innvandrerne har lært seg landets språk og tilpasset sin kompetanse til behovene på arbeidsmarkedet. Flere norske studier viser at lønnsnivået til innvandrerne ofte nærmer seg nivået til
-den øvrige befolkningen med botid, men at de
-sjelden når samme nivå.39 Etter om lag ti år i landet er årslønnen til mannlige flyktninger rundt
-20−40 pst. lavere enn lønnen til menn i den øvrige
-befolkningen, ifølge analyser fra Frischsenteret,
-også etter at det er blitt kontrollert for en rekke
-personkjennetegn.40 Noen grupper av kvinnelige
-flyktninger klarer etter hvert å lukke nesten hele
-36
-37
-
-0
-Uten innvandrer- Arbeidsinnvandrere
-bakgrunn
-
-Familieinnvandrere
-
-Flyktninger
-
-Figur 5.13 Andelen sysselsatte i alderen 20–66 år
-som har betalt fagforeningskontingent, etter innvandringsårsak. 2012. Prosent
-
-38
-
-Kilde: Djuve, A. B. (2016). Flyktninger – krise for den norske
-modellen? Foredrag for Cappelen-utvalget (NOU 2016: 15)
-21.06.2016. Upublisert.
-
-nedgangen i enkeltnæringer med stor arbeidsinnvandring de siste ti årene. Forskerne bak studien
-om organisasjonsgrad blant innvandrere hevder
-at strukturelle endringer i økonomien, f.eks. i næ-
-
-39
-40
-
-Nergaard, K., E. Barth & Dale-Olsen, H. (2015). Ibid.
-Chiswick, B. R. (1978). The effect of Americanization on
-the earnings of foreign-born men. The journal of political
-economy, 897-921 Borjas, G. J. (1985). Assimilation, changes in cohort quality, and the earnings of immigrants. Journal of labor Economics, 463-489.
-Hayfron, J. E. (1998). The performance of immigrants in
-the Norwegian labor market. Journal of Population Economics, 11(2), 293-303; Longva, P. & Raaum, O. (2003). Earnings assimilation of immigrants in Norway–A reappraisal.
-Journal of Population Economics, 16(1), 177-193; Barth, E.,
-Bratsberg, B. & Raaum, O. (2004). Identifying earnings
-assimilation of immigrants under changing macroeconomic conditions. The Scandinavian Journal of Economics,
-106(1), 1-22.
-Hayfron, J. E. (1998). Ibid.; Longva, P. & Raaum, O. (2003).
-Ibid.; Barth, E., Bratsberg, B. & Raaum, O. (2004). Ibid.
-Bratsberg, B., Raaum, O. & Røed, K. (2014). Immigrants,
-labour market performance and social insurance. The Economic Journal, 124(580), F644-F683.
-
-[Side 102]
-
-102
-
-NOU 2017: 2
-
-Kapittel 5
-
-Integrasjon og tillit
-
-lønnsgapet til øvrige kvinner. Ulike effekter av
-konjunkturer mellom innvandrere og den øvrige
-befolkningen har her vist seg også å spille en viss
-rolle.41
-En studie fra Institutt for samfunnsforskning
-(ISF) viser at timelønnen for innvandrere fra land
-i Asia, Afrika mfl. øker omtrent som for resten av
-befolkningen de første 10–15 årene i landet, men
-at lønnsveksten til disse innvandrerne deretter
-øker langsommere slik at lønnsgapet mellom innvandrere fra Asia, Afrika mfl. og personer uten
-innvandrerbakgrunn øker.42 Det ser ut som at
-personer uten innvandrerbakgrunn etter hvert
-oppnår høyere lønn ved å bytte jobb. Liknende
-konklusjoner finnes i tidligere forskning fra ISF
-og Frischsenteret43: Mens økning i lønn ved gitt
-ansiennitet (arbeidserfaring hos samme arbeidsgiver) er omtrent det samme for innvandrere og
-for den øvrige befolkningen, bytter personer i den
-øvrige befolkningen oftere arbeidsgiver og får da
-høyere lønn.
-Se også tabell 6.5 for statistikk om gjennomsnittlig yrkesinntekt blant ulike innvandrergrupper og kapittel 6.2 for mer detaljer rundt sammensetningen av innvandrernes inntekter i Norge.
-
-5.6
-
-Relevante utviklingstrekk ved det
-norske arbeidsmarkedet
-
-5.6.1 Den teknologiske utviklingen
-Teknologisk utvikling er en av de viktigste drivkreftene bak både produktivitetsvekst i økonomien og omstilling på arbeidsmarkedet. Den teknologiske utviklingen kan skje i mange former, og
-det brukes ofte begreper som «robotisering», «automatisering» og «digitalisering». Den teknologiske
-utviklingen kan ha stor betydning for integreringen av innvandrere, avhengig av hvordan den virker inn på næringer og yrker hvor innvandrere er
-overrepresentert (se kap. 5.5.1). Det er imidlertid
-usikkert hvordan den teknologiske utviklingen vil
-arte seg i framtiden. Det er derfor vanskelig å forutse hvilke næringer og yrker som eventuelt vil
-påvirkes mest. En analyse fra SSB anslår at om lag
-en tredel av dagens yrker i Norge kan forsvinne
-pga. den teknologiske utviklingen.44
-41
-
-Barth, E., Bratsberg, B. & Raaum, O. (2004). Ibid.
-42
-Kolsrud, D., Røed, M., Schøne, P. & von Simpson, K.
-(2016). Bidrag og belønning – om innvandrere i det norske
-arbeidsmarkedet, Rapport 2016:04, Institutt for samfunnsforskning.
-43
-Barth, E., Bratsberg, B. & Raaum, O. (2012). Immigrant
-wage profiles within and between establishments. Labour
-Economics, 19(4), 541-556.
-
-Det finnes to hovedretninger i synet på den pågående og den framtidige teknologiske utviklingen. Den ene legger vekt på at det pågår en kunnskapsbasert teknologisk utvikling som fører til
-økt etterspørsel etter særlig høyt utdannet arbeidskraft og sviktende etterspørsel etter personer med lave kvalifikasjoner. Den andre tar utgangspunkt i at den teknologiske utviklingen nå
-og i nær framtid i hovedsak vil rettes mot «kognitive rutineoppgaver». Dette er oppgaver som typisk krever noe utdanning eller kvalifikasjoner,
-men som i stigende grad lett kan programmeres
-og dermed utføres av maskiner. I scenariet med
-en teknologisk utvikling rettet mot kognitive rutineoppgaver er det særlig yrker i den midtre delen
-av lønns- eller kompetansefordelingen som kan
-komme til å forsvinne. Det vil dermed skje en polarisering på arbeidsmarkedet med sviktende etterspørsel etter personer med middels kvalifikasjoner.
-Slik polarisering har blitt dokumentert for
-USA og for en rekke land i Europa, blant annet
-Norge.45 Den europeiske studien viser at polariseringen i hovedsak kan forklares med automatisering/digitalisering av rutinemessige jobber på et
-middels kvalifikasjonsnivå. Utflytting av produksjon/virksomhet til andre land, som er en annen
-ofte nevnt kilde til endringer i sysselsettingsstrukturen i rike land, forklarer langt mindre av polariseringen som har skjedd på arbeidsmarkedet.
-Det er særlig tre faktorer som spiller inn i
-hvordan den teknologiske utviklingen vil kunne
-påvirke sysselsetting og lønn for ulike typer arbeidskraft i framtiden.46 Den første faktoren er i
-hvilken grad teknologiske nyvinninger erstatter
-eller utfyller arbeidskraft eller kompetansen til
-ulike grupper av arbeidstakere. Hvis en gruppe
-arbeidstakere i hovedsak driver med oppgaver
-som i dag og i nærmeste framtid kan overtas av
-datamaskiner eller «roboter», er det nærliggende
-å tro at gruppen kan oppleve en nedgang i etterspørselen etter egen kompetanse, eventuelt oppleve svak lønnsvekst.
-44
-
-45
-
-46
-
-Ekeland, A., Pajarinen, M. & Rouvinen, R. (2015). Computerization and the Future of Jobs in Norway. Utredning til Ludvigsen-utvalget.
-Goos, M., Manning, A. & Salomons, A. (2014). Explaining
-job polarization: Routine-biased technological change and
-offshoring. The American Economic Review, 104(8), 25092526; David, H., & Dorn, D. (2013). 1. Title: The Growth of
-Low-Skill Service Jobs and the Polarization of the US Labor
-Market. The American Economic Review, 103(5).
-David, H. (2015). Why are there still so many jobs? The history and future of workplace automation. The Journal of
-Economic Perspectives, 29(3), 3-30.
-
-[Side 103]
-
-NOU 2017: 2
-Integrasjon og tillit
-
-Den andre faktoren er muligheten for utdanning, etterutdanning eller omskolering. Hvis
-grupper av arbeidstakere som opplever at den teknologiske utviklingen fører til dårlige jobbutsikter
-eller liten lønnsvekst forholdsvis lett og raskt kan
-videreutdanne seg til andre yrker og andre typer
-jobber, vil eventuelle ugunstige effekter av den
-teknologiske utviklingen for disse arbeidstakerne
-dempes.
-For det tredje vil etterspørsel etter ulike typer
-arbeidskraft også være avhengig av preferansene
-til konsumentene. Når levestandarden og inntekten til befolkningen generelt øker, kan det generere økt etterspørsel etter visse typer tjenester,
-f.eks. restaurantmat, hjemmelevering av ulike produkter, personlige trenere, hagevedlikehold og
-renhold i hjemmet.
-
-5.6.2
-
-Framskrivning av tilbud og
-etterspørsel etter ulike utdanningsgrupper
-En rapport fra SSB viser framskrivninger av tilbud
-og etterspørsel etter ulike utdanninger fram mot
-2035.47 Framskrivningene viser at sysselsettingen
-i petroleumsnæringen blir redusert, mens den vil
-øke i bl.a. i tjenestenæringer og bygg- og anleggssektoren.48
-Framskrivingene viser god balanse mellom etterspørsel og tilbud når man ser på grunnskoleutdanning og uoppgitt utdanning samlet. Innvandrere utgjør en forholdsvis høy andel av både dem
-som bare har grunnskole, og dem som har uoppgitt utdanning.
-For fagutdannede på videregående skole-nivå vil
-etterspørselen vokse raskere enn tilbudet, og det
-vil bli et underskudd av denne typen arbeidskraft.
-Dette vil bl.a. gjelde fagutdannede rettet mot næringene industri og håndverk og helse- og sosialtjenester.
-For dem med kort og lang høyere utdanning viser framskrivingene noe større tilbud enn etterspørsel av arbeidskraft. Dette gjelder på aggregert nivå. For enkeltutdanninger er resultatene av
-framskrivningene mer sammensatte. Tilbudet av
-ingeniører blir større enn etterspørselen, mens
-det vil bli en god balanse for sivilingeniører. Det
-blir mangel på lærere og sykepleiere.
-
-5.7
-
-103
-
-Kapittel 5
-
-Arbeidsmarkeds- og utdanningsaktivitet blant unge med innvandrerbakgrunn
-
-Når man skal sammenlikne arbeidsmarkeds- og
-utdanningsaktiviteten mellom den øvrige befolkningen, innvandrere med bakgrunn fra landgruppe 3 og etterkommere av innvandrere fra
-samme landgruppe, er det viktig å ta hensyn til
-den skjeve aldersfordelingen i sistnevnte gruppe.
-Over 70 pst. av etterkommerne befinner seg i alderen 16 til 25 år, som er et alderssjikt der utdanning står sentralt for mange og sysselsetting er en
-supplerende aktivitet.49 Mange etterkommere har
-fremdeles ikke startet i arbeidslivet, noe som gjør
-at sysselsettingsnivået trekkes ned i denne gruppen. Av denne grunn kan det være hensiktsmessig å se på utdanning og sysselsetting samlet, for å
-få et bedre bilde av den samlede aktiviteten for etterkommere i alderen 16 til 34 år.
-Etterkommere av innvandrere ligger nærmere
-majoriteten enn innvandrere gjør når det gjelder
-andelen som er aktive i arbeid eller utdanning (se
-figur 5.14). For etterkommerne er differansen i
-forhold til den øvrige befolkningen på 4,8 prosentenheter, mens tilsvarende differanse for innvandrergruppen er nesten fem ganger så stor, nærmere 24 prosentenheter.
-Figur 5.14 viser videre at det her er små
-kjønnsforskjeller blant de unge etterkommerne.
-For gruppen av unge som selv har innvandret, er
-det imidlertid større kjønnsforskjeller. Her er andelen aktive kvinner langt lavere enn blant menn.
-
-5.7.1 Aktivitet etter utdanningsnivå
-Fullført utdanning utover grunnskolen gir betydelig bedre muligheter til å komme i arbeid. Figur
-5.15 viser at innvandrere og norskfødte med innvandrerbakgrunn har lavere andel aktive enn majoritetsbefolkningen, uansett hvilket utdanningsnivå personene har, men forskjellene blir
-mindre når vi sammenlikner dem på samme utdanningsnivå.50
-Gruppen med kun obligatorisk utdanning har
-desidert lavest andel i arbeid eller utdanning i alle
-tre befolkningsgruppene. Dermed trekker de lavest utdannede gjennomsnittet ned. Dette er sær-
-
-47
-
-Dapi, B., Gjefsen, H.M., Sparrman, V. & Stølen, N.M.
-(2016). Education-specific labour force and demand in Norway in times of transition. Rapporter 31/2016, Statistisk
-sentralbyrå.
-48
-Tilbudsframskrivingen er gjort basert på Mosart-modellen
-og gitt de siste fem års trender i utdanning. Etterspørselen
-er basert på den makroøkonomiske modellen MODAG.
-
-49
-
-50
-
-Olsen, B. (2016). Unge med innvandrerbakgrunn i arbeid og
-utdanning 2014. Eksklusive EØS/EU-innvandrere. Rapporter 9/2016, Statistisk sentralbyrå.
-Olsen, B. (2016). Ibid.
-
-[Side 104]
-
-104
-
-NOU 2017: 2
-
-Kapittel 5
-
-Integrasjon og tillit
-
-100
-90
-80
-70
-60
-50
-40
-30
-20
-10
-0
-Alle
-
-Menn
-
-Kvinner
-
-Alle
-
-Innvandrere
-Sysselsetting
-
-Menn
-
-Kvinner
-
-Alle
-
-Etterkommere av innvandrere
-Sysselsetting og utdanning
-
-Bare utdanning
-
-Menn
-
-Kvinner
-
-Uten innvandrerbakgrunn
-Arbeidsledig
-
-Annet
-
-Figur 5.14 Unge i alderen 16­34 år med og uten innvandrerbakgrunn etter kjønn og aktivitet. 4. kvartal
-2014. Prosent
-Kilde: Olsen, B. (2016). Ibid.
-
-gruppen etterkommere av innvandrere, mens det
-bare i liten grad gjelder den øvrige befolkningen.
-
-25–34 år
-
-Universitet/høyskole
-Videregående utdanning
-Kun obligatorisk utdanning
-
-20–24 år
-
-I alt
-
-Universitet/høyskole
-Videregående utdanning
-Kun obligatorisk utdanning
-I alt
-0
-
-20
-
-40
-
-60
-
-80
-
-100
-
-Innvandrere, landgruppe 3
-Norskfødte med innvandrerforeldre, landgruppe 3
-Uten innvandrerbakgrunn
-
-Figur 5.15 Aktive (sysselsatte eller under utdanning) 20–34 år (med registrert utdanning) etter
-alder, høyeste fullførte utdanning og innvandrerbakgrunn. Andel av personer i alt i hver gruppe. 4.
-kvartal 2014. Prosent
-Kilde: Olsen, B. (2016). Ibid.
-
-lig framtredende blant innvandrere, siden de har
-høyest andel med bare grunnskoleutdanning. I
-noen – men langt mindre – grad gjelder dette også
-
-5.7.2 Sysselsetting og yrke
-For etterkommere av innvandrere som i stor grad
-har fullført sin utdanning, dvs. aldersgruppene
-25−29 år og 30−39 år, ligger andelen sysselsatte på
-henholdsvis 73 og 77 pst.51 Dette er om lag 8 og 5
-prosentenheter over nivået for innvandrere i de
-samme aldersgruppene og rundt 5 prosentenheter under nivået for den øvrige befolkningen i
-begge aldersgruppene. Det er liten forskjell i sysselsetting mellom menn og kvinner blant etterkommerne.
-Det finnes en del forskjeller i hvilke yrker de
-unge (16−34 år) med og uten innvandrerbakgrunn
-jobber i. Salgs- og serviceyrker er den desidert
-største yrkesgruppen blant de unge sysselsatte
-med lavest utdanningsnivå i alle tre befolkningsgrupper og aller størst blant etterkommere, med
-nesten 54 pst., ifølge tall fra SSB.52 Innvandrergruppen har en andel på 46 pst. og majoriteten
-42 pst.
-Også blant dem med videregående utdanning
-som høyeste utdanningsnivå er salgs- og serviceyrker mest utbredt i alle gruppene, men aller
-51
-52
-
-Olsen, B. (2016). Ibid.
-Olsen, B. (2016). Ibid.
-
-[Side 105]
-
-105
-
-NOU 2017: 2
-Integrasjon og tillit
-
-mest hos innvandrere og deres etterkommere,
-med henholdsvis 48 og 44 pst. av de sysselsatte i
-denne yrkesgruppen, mot 33 pst. blant de unge
-uten innvandrerbakgrunn. Håndverkere utgjør
-om lag 23 pst. av de unge sysselsatte på dette utdanningsnivået i den øvrige befolkningen, men
-blant de to gruppene med innvandrerbakgrunn er
-den tilsvarende andelen bare halvparten så stor.
-Blant unge sysselsatte med høyere utdanning
-er det små forskjeller mellom dem uten innvandrerbakgrunn og etterkommere av innvandrere
-når det gjelder grove kategorier av yrker. De
-fleste – om lag 87 pst. – jobber naturlignok innenfor yrker som krever universitets- eller høyskoleutdanning.
-
-100
-90
-
-5.7.3
-
-Kapittel 5
-
-Sysselsetting og utdanning blant
-enslige mindreårige flyktninger
-
-Ifølge SSB var tre av fire enslige mindreårige
-flyktninger i alderen 18−29 år i arbeid, utdanning
-eller i introduksjonsprogram per 4. kvartal 2014.
-For menn var andelen 78 pst. og for kvinner
-70 pst.53 Mennene har en høyere andel sysselsatte enn kvinner, og kvinnene en høyere andel
-under utdanning enn menn.
-Andelen registrerte arbeidsledige blant enslige mindreårige flyktninger øker litt med botid
-(se figur 5.16). Andelen registrerte arbeidsledige
-var mellom 2 og 3 pst. fire år etter bosetting for
-dem som ble bosatt både i 2009 og i 2010. Fem år
-etter bosetting utgjorde de arbeidsledige 4 pst. av
-dem som ble bosatt i 2009. Gjennomsnittlig ledighet for jevnaldrende i hele befolkningen er litt
-over 1 pst. I gjennomsnitt mottar 3,5 pst. av de
-enslige mindreårige flyktningene sosialhjelp. Andelen for jevnaldrende i hele befolkningen er under 1 pst. (se figur 5.16).
-
-80
-70
-
-5.8
-
-60
-
-Som dette kapitlet viser, finnes det allerede mye
-kunnskap om situasjonen for innvandrere på det
-norske arbeidsmarkedet.
-– Det samme grunnleggende mønsteret i sysselsetting over tid viser seg for flyktninger i ulike
-ankomstkohorter og fra ulike land, til tross for
-at de nøyaktige sysselsettingsnivåene som oppnås, kan variere for ulike grupper og over konjunktursyklene. Få flyktninggrupper oppnår
-like høy sysselsetting som den øvrige befolkningen i Norge. Sysselsettingsratene for flyktninger pleier å flate ut eller gå litt ned etter 5–
-10 års botid.
-– Arbeidsinnvandringen til Norge har vært historisk høy siden EU-utvidelsene i 2004 og 2007.
-Arbeidsinnvandrere har stort sett høye sysselsettingsandeler de første årene etter ankomsten, men sysselsettingsandelene for noen
-grupper av arbeidsinnvandrere som kom på
-1970-tallet, har vært lave flere tiår etter ankomsten til Norge.
-– Arbeidsinnvandringen har gått noe ned de
-siste par årene pga. den relativt svake økonomiske utviklingen i Norge. Betydningen av ar-
-
-50
-40
-30
-20
-10
-0
-1 år
-
-2 år
-
-3 år
-Botid
-
-4 år
-
-Jevnaldrende
-i befolkning
-generelt
-
-Andre statuser
-
-Ukjent status
-
-Sosialhjelp
-
-Registrert helt
-arbeidsledig
-
-Andel aktive
-bosatt i 2010
-
-Figur 5.16 Aktivitetsstatus etter botid blant ikkeaktive enslige mindreårige flyktninger 15­18 år
-ved bosetting i 2009, sammenliknet med gjennomsnittet for den jevnaldrende befolkningen
-generelt. 4. kvartal 2014. Prosent
-Kilde: Dalgard, A.B. (2016). Enslige mindreårige flykninger i
-arbeid og utdanning, 2014. 90 pst. fra Afghanistan i arbeid eller
-utdanning etter fire år. Statistisk sentralbyrå, publisert 14. mars
-2016.
-
-53
-
-Oppsummering
-
-Dalgard, A.B. (2016). Enslige mindreårige flykninger i
-arbeid og utdanning , 2014. 90 pst. fra Afghanistan i arbeid
-eller utdanning etter fire år. Statistisk sentralbyrå, publisert
-14. mars 2016.
-
-[Side 106]
-
-106
-
-NOU 2017: 2
-
-Kapittel 5
-
-–
-
-–
-
-Integrasjon og tillit
-
-beidsinnvandring til Norge framover vil avhenge av omfang på tilstrømningen, om arbeidsinnvandrerne forblir i Norge og om de er
-i stand til å bidra med høy arbeidsinnsats over
-tid. Arbeidsledigheten blant arbeidsinnvandrere fra EU-land i Sentral- og Øst-Europa økte
-betraktelig etter finanskrisen. Den har også økt
-de siste par årene.
-Innvandrere, særlig fra EU-land i Sentral- og
-Øst-Europa og Asia, Afrika mfl., er overrepresentert i visse næringer, herunder overnattingsvirksomhet, serveringsvirksomhet, utleie
-av arbeidskraft, renhold og transport og lagring. Innvandrere fra EU-land i Sentral- og ØstEuropa er i tillegg klart overrepresentert
-innenfor industri og bygg og anlegg. Innvandrere fra Asia, Afrika mfl. er litt overrepresentert innenfor helse- og omsorgssektoreren.
-En større andel av innvandrere enn av den øvrige befolkningen har arbeidstid under 30 timer i uken. Dette gjelder særlig for innvan-
-
-–
-
-–
-
-drere i EU-land i Sentral- og Øst-Europa og
-Asia, Afrika mfl. Midlertidige stillinger er noe
-mer utbredt blant innvandrere enn blant den
-øvrige befolkningen. Organisasjonsgraden er
-lavere blant innvandrere, særlig arbeidsinnvandrere, enn i den øvrige befolkningen, men det
-er tegn til at organisasjonsgraden øker med tid
-i landet.
-Utdannings- og sysselsettingsaktiviteten blant
-unge etterkommere av innvandrere viser
-mange flere likhetstrekk med den øvrige befolkningen enn med unge innvandrere. Det er
-tegn til at enslige mindreårige flyktninger har
-aktivitetsrater som likner mye på unge uten
-innvandrerbakgrunn.
-Norge har et arbeidsmarked med høye kompetansekrav. Samtidig synes innvandreres medbrakte kompetanse å bli lite verdsatt i det norske arbeidslivet, og overkvalifisering er langt
-mer vanlig blant utenlandsfødte enn innenlandsfødte.
-
-[Side 107]
-
-107
-
-NOU 2017: 2
-Integrasjon og tillit
-
-Kapittel 6
-
-Kapittel 6
-
-Mottak av velferdsytelser
-6.1
-
-Innledning
+    1.  **Innledning**
 
 Utvalget er bedt om å
-[…] analysere sammenhengen mellom velferdsordninger og innvandring til Norge. Herunder skal utvalget analysere og vurdere om
-gjeldende generelle inntektssikringsordninger, […] er hensiktsmessig utformet og dimensjonert i en situasjon der flyktninger og deres
-familie utgjør en stor andel av innvandringen.
-Utvalget tolker dette som at det skal presenteres
-noen nøkkeltall for innvandreres bruk av sentrale
-velferdsytelser og noen sammenlikninger med befolkningen for øvrig. Utvalget går ikke inn i diskusjonen om velferdsordningenes mulige «magneteffekter».1 Økonomiske framskrivinger og en diskusjon av velferdsstatens framtidige bærekraft finnes i kapittel 8.
-I dette kapitlet presenteres noen sentrale tall
-og utviklingstrekk for innvandreres bruk av norske velferdsytelser. Som kapitlet vil vise, innebærer lavere sysselsettingsrater blant en del innvandrergrupper, som påvist i kapittel 5, at de ofte
-er overrepresentert som mottakere av en rekke
-velferdsytelser og -tjenester. De fleste tallene som
-presenteres her, viser mottak av velferdsytelser
-etter innvandringsgrunn, landbakgrunn, botid og
-kjønn. Kapitlet gjennomgår data om innvandreres
-mottak av velferdsytelser, og diskuterer kort insentivvirkninger, kompensasjonsgrader og stønadseksport.
-En del velferdsytelser stiller krav til opptjening, botid og/eller faktisk opphold i Norge. En
-detaljert oversikt over inngangskrav og muligheter til stønadseksport er gitt i NOU 2011: 7, kapittel 6. En kortfattet oppdatering av denne informasjonen samt andre hovedregler for utvalgte velferdsytelser finnes i vedlegg 1.
 
-6.2
+\[…\] vurdere \[…\] i hvilken grad innvandring kan føre til større økonomisk, sosial, kulturell og verdimessig ulikhet, og hvilken betydning dette i så fall kan ha for samfunnet på sikt og forholdet mellom ulike befolkningsgrupper.
 
-Et mål på i hvilken grad en person er selvforsørget, er hvor mye personen mottar i velferdsytelser fra det offentlige sammenliknet med yrkesog kapitalinntekter. I dette kapitlet presenteres
-statistikk over selvforsørgingsgraden til flyktninger, familieinnvandrere, arbeidsinnvandrere og
-nordiske innvandrere sammenliknet med befolkningen eksklusive innvandrere. Tallene er fordelt
-etter kjønn.
-Tabell 6.1 viser velferdsytelser og yrkes- og kapitalinntekter, og velferdsytelser som andel av
-samlet inntekt, for ulike innvandrergrupper på et
-gitt tidspunkt (2014). Figur 6.1 viser hvordan velferdsytelsenes andel av samlet inntekt endres over
-tid for flyktninger og familieinnvandrere, fordelt
-på kjønn. Et hovedbudskap i tabell 6.1 er at flyktninger og familieinnvandrere mottar mer i velferdsytelser og mindre i yrkes- og kapitalinntekter
-enn arbeidsinnvandrere og innvandrere fra Norden.2 Blant flyktninger og familieinnvandrere er
-det dessuten større forskjeller mellom kjønnene
-når det gjelder mottak av velferdsytelser. Blant
-kvinner som har kommet som flyktninger eller familieinnvandrere, er velferdsytelser som andel av
-inntekt henholdsvis 39 og 34 pst., mot 17 pst. for
-kvinner i den øvrige befolkningen. Derimot er nordiske innvandrere og arbeidsinnvandrere fra land
-utenfor Norden, både menn og kvinner, mindre avhengige av velferdsytelser enn befolkningen for
-øvrig.
-Figur 6.1 viser hvordan andelen velferdsytelser av samlet inntekt utvikler seg over tid for flyktninger og familieinnvandrere, og sammenlikner
-dette med utviklingen for en referansegruppe i befolkningen ellers.3 Velferdsytelser utgjør om lag
-70 pst. av den samlede inntekten for menn med
-fluktbakgrunn, og rundt 80 pst. for kvinner med
-2
+Spørsmålet om økt økonomisk og sosial ulikhet peker direkte mot spørsmålet om ulikhet i levekår. Levekårsforskjeller eksisterer i alle samfunn, også det moderne norske, men i den grad personer med innvandrerbakgrunn gjennomgående opplever dårligere levekår enn andre, vil dette potensielt være en utfordring for samfunnsutviklingen på sikt. Det å ha dårlige levekår kan skape eller forsterke en opplevelse av marginalisering, og det kan svekke livssjansene til barn og unge som vokser opp i utsatte familier. I dette kapitlet gjennomgås sentrale deler av den foreliggende kunnskapen om levekårene til innvandrere og deres etterkommere i Norge.
 
-1
+Forskjeller i levekår kan skyldes *individuelle ressurser* (bl.a. utdanning, sosial bakgrunn, sosiale relasjoner, helse, alder), *strukturelle forutsetninger* (arbeidsmarkedsforhold, insentivstrukturer, diskriminering) og *valg og verdier* (kulturelle føringer, livsstilspreferanser).[^217] Mønstre av ulikhet skyldes gjerne et samspill mellom disse faktorene. I nordisk levekårsforskning diskuteres levekår som et *forhold mellom ressurser og arenaer*, altså det å ha et sett av ressurser som kan settes inn på de arenaene man har tilgang til. Tilgang til arenaer tilsvarer det som kan kalles strukturelle forutsetninger, mens individuelle ressurser og valg og verdier sier noe om hvilke muligheter man har, og i hvilken grad man velger å tre inn på de aktuelle arenaene.
 
-Dette drøftes i NOU 2011: 7 Velferd og migrasjon, se særlig
-boks 3.3.
+Levekår er tilbake på den politiske dagsordenen i mange land, om enn ikke i den helt klassiske betydningen. Flere har tatt til orde for at man trenger flere og mer sammensatte mål på samfunnsmessig utvikling enn BNP.[^218] Helsedirektoratet har utarbeidet en rapport der begrepet «levekår» diskuteres i sin fulle bredde.[^219] Dokumentet illustrerer hvor kompleks den nye levekårsdiskusjonen er. Spørsmålet som stilles, er intet mindre enn «hva er det gode liv?», og i forsøket på å besvare dette kommer man innom de fleste sentrale bidragene i vestlig filosofi, i tillegg til mer moderne studier av hva som skaper tilfredshet. En viktig lærdom fra denne diskusjonen er at det finnes svært mange forestillinger om hva som utgjør «det gode liv». Ulike mennesker vil ulike ting, basert på preferanser, erfaringer og ideologiske/religiøse overbevisninger, og til syvende og sist kan ingen bestemme hva som er det gode liv for andre. Å gå inn i disse diskusjonene ligger likevel langt utenfor mandatet for denne utredningen. Utgangspunktet for diskusjonen her er at store forskjeller i materielle levekår er en utfordring, både på kort og på lang sikt, for opplevelsen av samhold og tillit i et samfunn. Det er neppe et problem i seg selv at mennesker har ulike idealer og preferanser, men mangel på tilgang til felles arenaer, og systematisk ulikhet i mulighetene til å oppnå det man opplever som et godt liv, kan skape frustrasjon og undergrave fellesskapsfølelsen.
 
-Velferdsytelser og annen inntekt
+De senere årene har det vært stadig større oppmerksomhet om økende inntektsforskjeller i Europa og resten av verden.[^220] Det meste av debatten om inntektsfordeling etter andre verdenskrig har handlet om fordeling rundt midten – «for folk flest» – eller om å bekjempe fattigdom. Den nye debatten dreier seg i større grad om de aller rikeste, som har store deler av inntekten sin fra kapitalavkastning. Disse antas i økende grad å utgjøre en global elite som på mange måter evner å frikople seg fra de omfordelende mekanismene på nasjonalt nivå. Samtidig har flere år med svak vekst i økonomiene ført til beskjeden inntektsvekst for store grupper. Denne utviklingen berører Norge i mindre grad enn mange andre land,[^221] men internasjonalt oppfatter mange den økende polariseringen som en viktig drivkraft for politisk uro og oppslutning om populistiske bevegelser. Dette utvalget går ikke dypere inn i disse problemstillingene, utover å notere at kombinasjonen av økonomisk polarisering og høy innvandring kan gjøre det vanskelig å opprettholde en situasjon med gode levekår for flertallet, og det kan også bidra til politisk polarisering.
 
-3
+Dette kapitlet beskriver ulikhet i materielle levekår og muligheter til deltakelse. De mest sentrale levekårsindikatorene gjennomgås: lavinntekt og materielle levekår, boligforhold, bosettingsmønster, helse, diskriminering, sosial og politisk deltakelse. Gjennomgangen er stort sett deskriptiv, men til grunn for beskrivelsen ligger en bekymring for at store og vedvarende forskjeller i levekår mellom innvandrere og andre kan forstås både som en indikator på at integreringspolitikken ikke fungerer godt nok, og som et varsel om uheldige samfunnsmessige virkninger på sikt.
 
-Nordiske innvandrere inngår ikke i statistikken for innvandringsgrunn (se kap. 2.4).
-Personer født i Norge med to norskfødte foreldre, 18–45 år
-i år 2000.
+1.  **Lavinntekt og materiell levestandard**
 
-[Side 108]
+    1.  **Utviklingen i lavinntekt**
 
-108
+Innvandrere som gruppe har lavere yrkesaktivitet og lavere inntekter enn majoritetsbefolkningen, men det er svært store forskjeller etter landbakgrunn og oppholdsgrunnlag, og også i noen grad etter botid (se kap. 5 og 6). I et levekårsperspektiv kan det imidlertid være særlig interessant å se på innvandrere med lavinntekt. Lavinntekt oppfattes i rike land som et relativt mål i den forstand at man ikke nødvendigvis lever på eksistensminimum om man har inntekter under dette nivået, men at man ikke har nok midler til å delta fullt ut i samfunnet man lever i. Det kan også føyes til at de fleste offentlige tjenester i Norge er gratis eller sterkt subsidierte, og dermed tilgjengelige også for lavinntektsfamilier. Dette kan bidra til å bedre levestandarden i familiene på måter som ikke synes i statistikken.
 
-NOU 2017: 2
+De gjennomgående lavere sysselsettingsratene blant innvandrere speiles i analysene av lavinntektsgruppen. Lavinntekt er her definert som vedvarende lavinntekt i en treårsperiode,[^222] som er et mer robust mål enn årlige inntekter. 28 pst. av innvandrere og deres etterkommere hadde vedvarende lavinntekt i treårsperioden 2012–2014, mot 10 pst. i befolkningen som helhet.[^223] Blant innvandrere med bakgrunn fra Asia, Afrika mfl.(landgruppe 3) var andelen 35 pst. Figur 7.1 viser at andelen med vedvarende lavinntekt er høy for dem med kortest botid i alle de tre landgruppene sammenliknet med befolkningen uten innvandrerbakgrunn.[^224] Med lengre botid reduseres andelene, særlig for dem med bakgrunn fra Vest-Europa, Nord-Amerika mfl. (landgruppe 1) og EU-land i Sentral- og Øst-Europa (landgruppe 2). I landgruppe 1 er andelen om lag på nivå med befolkningen ellers etter 15 års botid. For landgruppe 2 er forskjellen 5 prosentenheter. Andelen blant landgruppe 3 reduseres betydelig fra 3–4 års botid til 5–9 års botid, men det er deretter ingen nedgang før botiden passerer 15 år. Etter 15 år i Norge har 21 pst. av innvandrerne fra landgruppe 3 vedvarende lavinntekt, noe som er om lag 15 prosentenheter høyere enn i befolkningen ellers.
 
-Kapittel 6
+**\[:figur:figX-X.jpg\]**
 
-Integrasjon og tillit
+1.  Andel personer 20–66 år med vedvarende lavinntekt, etter landbakgrunn og botid. 2012–2014. Prosent
 
-Tabell 6.1 Gjennomsnittlig utbetaling av velferdsytelser og yrkes- og kapitalinntekt, og velferdsytelser
-som andel av samlet inntekt, etter kjønn og innvandringsgrunn. 20–66 år. 2014
+Statistisk sentralbyrå, Inntekts- og formuesstatistikk for husholdninger. EUs lavinntektsdefinisjon.
 
-Flyktninger
-Familieinnvandrere
-Arbeidsinnvandrere
-Nordiske innvandrere
-Befolkningen eksklusive
-innvandrere
+SSB presenterer regelmessig tall for utviklingen i vedvarende lavinntekt blant barnefamilier. «Barnefattigdom» er særlig urovekkende fordi man antar at det å vokse opp i en lavinntektsfamilie gir barn et dårlig utgangspunkt. Studier, også fra Norge, tyder på at barn som vokser opp i familier med vedvarende lavinntekt, selv skårer dårligere på sentrale levekårsindikatorer når de blir voksne.[^225] En opphoping av lavinntekt nettopp blant familier med innvandrerbakgrunn kan derfor bidra til å hemme langsiktig integrering. Figur 7.2 viser utviklingen i antall barn i lavinntektsfamilier (treårsperioder) fra perioden 2004–2006 til perioden 2011–2013, fordelt på barn med innvandrerbakgrunn og andre barn. Figuren viser at barn med innvandrerforeldre utgjør en stadig økende andel av de fattige barna i Norge, og økningen i barnefattigdom i Norge skjer hovedsakelig blant barn med slik bakgrunn.
 
-Velferdsytelser
+**\[:figur:figX-X.jpg\]**
 
-Yrkes- og
-kapitalinntekt
+1.  Barn i familier med vedvarende lavinntekt, etter innvandrerbakgrunn. Antall i 1 000 personer
 
-Kun lønns- Velferdsytelser som
-inntekt
-andel av inntekt
+Statistisk sentralbyrå, statistikkbanken. 3-årige inntektsintervaller, EUs fattigdomsdefinisjon
 
-Menn
+Treårsperioden 2011–2013 er den første perioden der det i absolutte tall er registrert flere barn med innvandrerbakgrunn i familier med lavinntekt enn barn fra majoritetsbefolkningen i denne situasjonen. Gitt at bare 13 pst. av alle barn bosatt i Norge har innvandrerbakgrunn, er dette en betydelig overrepresentasjon. Økningen i absolutte tall skyldes likevel ikke at innvandrere som gruppe får det dårligere i Norge, men at det i absolutte tall blir flere innvandrere. Andelen barn i familier med lavinntekt, som andel av alle barn med innvanderbakgrunn, var 36,4 pst. i 2006–2008 og 36,8 pst. i perioden 2011–2013.[^226] En ny studie viser også at perioden med lavinntekt oftere blir langvarig for barn med innvandrerbakgrunn enn for andre barn. Nærmere 54 pst. av barna som tilhørte en lavinntektshusholdning i åtte sammenhengende år (2007–2014) hadde bakgrunn fra land i Asia, Afrika mfl.[^227]
 
-83 899
+Blant barn med innvandrerbakgrunn er det store forskjeller etter landbakgrunn og botid, jf. figur 7.3.
 
-321 975
+**\[:figur:figX-X.jpg\]**
 
-213 181
+1.  Andel personer 0–18 år med vedvarende lavinntekt, etter landbakgrunn og botid. 2012–2014. Prosent
 
-26,1
+Statistisk sentralbyrå. 3-årige inntektsintervaller, EUs lavinntektsdefinisjon.
 
-Kvinner
+Figur 7.3 viser at barnefamilier som innvandrer til Norge, starter med relativt høye lavinntektsrater, men at disse faller over tid. Barnefamilier med botid på 15 år eller mer fra landgruppe 1 og 2 har ikke høyere fattigdomsrater enn barnefamilier uten innvandrerbakgrunn. Særlig barnefamilier fra landgruppe 2 har raskt fallende fattigdomsrater, slik at disse er omtrent på majoritetsbefolkningens nivå allerede etter ti år i Norge. Barnefamilier fra landgruppe 3 har som gruppe en langt mindre positiv utvikling, og selv etter 15 år i Norge er fattigdomsratene i denne gruppen på 44 pst. Det er imidlertid store forskjeller også innenfor landgruppe 3.[^228] Barnefamilier fra Sri Lanka, Iran og Vietnam har raskt fallende fattigdomsrater, mens om lag 70 pst. av familiene fra Somalia fortsatt har registrert lavinntekt etter mer enn ti år i Norge.
 
-111 137
+1.  **Bolig og materielle goder**
 
-284 798
+Inntektsfordelingen i samfunnet og andelen med lavinntekt sier noe om forbruksmuligheter i ulike grupper. Innsiktene fra studiene av inntekt kan suppleres av studier som kartlegger forbruk direkte. En slik studie er levekårsundersøkelsen EU-SILC, som gjennomføres i alle EU-landene og en del andre europeiske land, bl.a. Norge. I EU-SILC spørres respondentene blant annet om hvilke forbruksgoder de har tilgang til, og om eventuell mangel på gitte goder skyldes at de ikke har råd til å skaffe disse. Det kan påpekes at på samme måte som lavinntekt forstås som et relasjonelt mål, er forståelsen av hva som er «sentrale materielle goder» også kontekstuell. Mange goder som oppfattes som standard i EU-området, vil framstå som luksusgoder i andre kontekster. Siden EU-SILC er en utvalgsundersøkelse, lider den under de samme svakhetene som de fleste andre utvalgsundersøkelser som retter seg mot befolkningen som helhet, ved at utvalget av innvandrere blir relativt lite. Innvandrere kan også være underrepresentert i slike studier pga. lav svarprosent.[^229] EU-SILC er likevel den beste kilden vi har til oppdaterte tall om levekårssituasjonen i ulike grupper.
 
-164 671
+I figur 7.4 og 7.5 presenteres tall for befolkningen uten innvandrerbakgrunn, for innvandrere i Norge fra land i EU, Nord-Amerika mfl., og for innvandrere med bakgrunn fra landgruppe 3.[^230] Figur 7.4 viser andelene som mangler sentrale forbruksgoder (bil, PC, varme i boligen, kjøtt eller fisk annenhver dag, en ukes ferie per år) fordi de ikke har råd. Figur 7.5 viser hvor mange i ulike grupper som opplever det som lett/vanskelig å «få endene til å møtes».
 
-39,0
+**\[:figur:figX-X.jpg\]**
 
-Menn
+1.  Mangel på forbruksgoder, etter landbakgrunn. Prosent.
 
-54 164
+Thorsen, L. (2014), basert på EU-SILC 2013
 
-312 738
+**\[:figur:figX-X.jpg\]**
 
-232 497
+1.  Andel som opplever det som lett / vanskelig å få endene til å møtes, etter landbakgrunn<sup>1</sup>. Prosent
 
-17,3
+<sup>1</sup> Mellomalternativene «forholdsvis lett / forholdsvis vanskelig» er ikke oppgitt i publikasjonen fra SSB, og er lagt inn her med antatte tall som får kolonnene til å utgjøre 100 til sammen.
 
-Kvinner
+Thorsen, L. (2014), basert på EU-SILC 2013
 
-85 532
+De to figurene viser, for det første, at de fleste har svært gode materielle levekår i Norge. Andelen som må avstå fra sentrale forbruksgoder på grunn av dårlig økonomi, er liten, og det er også andelene som opplever det som vanskelig eller svært vanskelig å «få endene til å møtes». Det andre hovedpoenget de to figurene viser, er at andelene som har dårlige levekår, er langt høyere blant innvandrere fra Asia, Afrika mfl. enn i andre grupper i befolkningen. Innvandrere fra EU, Nord-Amerika mfl. likner mer på den øvrige befolkningen, enn på innvandrere fra andre deler av verden på de fleste av disse indikatorene.
 
-248 998
+Boligen er et sentral levekårsgode og også et viktig investeringsobjekt. Det er vanskelig å skape et godt liv og å bli integrert på en god måte, om man ikke har et tilfredsstillende og stabilt sted å bo.[^231] De siste tallene fra EUs levekårsundersøkelse EU-SILC viser at 84 pst. av befolkningen i Norge bor i en bolig de selv eier. Dette er det høyeste av alle de vesteuropeiske landene som deltar i undersøkelsen.[^232] Figur 7.6 viser andelen i ulike grupper som eier sin egen bolig, og andelen som leier.
 
-154 599
+**\[:figur:figX-X.jpg\]**
 
-34,4
+1.  Innvandrere og etterkommere i Norge etter landbakgrunn og eie-/leieform til boligen. 2015. Prosent
 
-Menn
+Statistisk sentralbyrå, Boforhold (registerbasert) 2015
 
-18 266
+Figuren bekrefter bildet av Norge som et land av boligeiere, i og med at 86 pst. av befolkningen uten innvandrerbakgrunn eier sin egen bolig, enten de er selveiere eller har aksje- eller andelsbolig. Andelen selveiere er noe høyere blant innvandrere fra EU, Nord-Amerika mfl. enn blant innvandrere fra Asia, Afrika mfl., men andelen eiere totalt er litt høyere blant innvandrere fra Asia, Afrika mfl. fordi andelen aksje-/andelsboligeiere er relativt høy i denne gruppa. Andelen boligeiere må ses i sammenheng med botid og tidsperspektiv på oppholdet i Norge. Nyankomne innvandrere og innvandrere som antar at oppholdet i Norge blir midlertidig, vil i liten grad eie bolig. Eierskap til bolig er et spørsmål om ressurser, all den tid det er vanskelig å få boliglån hvis man ikke har en stabil, tilstrekkelig inntekt. Men det kan også være et spørsmål om valg og verdier, noe som særlig kan være relevant for en del muslimer som forholder seg strengt til det religiøse forbudet mot å ta opp rentebærende lån.[^233]
 
-395 583
+Registerdata om boforhold inneholder lite informasjon om bokvalitet, men presenterer data om trangboddhet. 9 pst. av den øvrige befolkningen bor trangt, sammenliknet med 19 pst. av innvandrerne fra EU, Nord-Amerika mfl. og 31 pst. av innvandrerne fra Asia, Afrika mfl. At mange med innvandrerbakgrunn opplever boligproblemer, ble også dokumentert i levekårsundersøkelsen blant innvandrere 2005/2006. I denne undersøkelsen fikk respondentene følgende spørsmål: (1) Hvordan passer størrelsen på boligen for deg/dere? (2) Er noen av beboelsesrommene trekkfulle? (3) Har noen av beboelsesrommene råte-, mugg- eller soppskader? (4) Er du vanligvis utsatt for støy fra gate eller vei når du oppholder deg inne i boligen? 53 pst. av innvandrerne som deltok i undersøkelsen, oppga at de ikke opplevde noen av disse problemene, 29 pst. opplevde ett av dem, og 18 pst. opplevde to eller flere.[^234] Denne undersøkelsen er mer enn ti år gammel, men det er neppe grunn til å tro at hovedbildet er svært endret. Innvandrere kombinerer ofte lav husholdningsinntekt med store familier og bor også i større grad enn andre i de store byene der tilbudet av store boliger er mindre. Dette må antas å være hovedforklaringer på hvorfor flere bor trangt, og kanskje også hvorfor flere opplever andre boligproblemer.
 
-357 554
+1.  **Bosettingsmønster**
 
-4,6
+Ved inngangen til 2016 hadde hver tredje innbygger i Oslo innvandrerbakgrunn. 23 pst. av alle med innvandrerbakgrunn i Norge bodde i byen.[^235] I Oslo bor det innvandrere i alle bydelene, men det er store forskjeller i hvor stor andel de utgjør av befolkningen. Bydelene med størst andel innvandrere og etterkommere er Stovner, Søndre Nordstrand og Alna, hvor andelen med innvandrerbakgrunn var over 50 pst. Andelen var minst i Nordstrand, Vestre Aker og Nordre Aker, med 17 pst. hver.[^236] Andelen innvandrere med bakgrunn fra Asia, Afrika mfl. har særlig økt i Søndre Nordstrand og Groruddalen.[^237] En studie basert på et internasjonalt anerkjent mål på bostedssegregering finner imidlertid at segregeringen i Oslo for personer med bakgrunn fra land i Asia, Afrika mfl. ikke har økt i løpet av 2000-tallet.[^238] Innvandrere fra enkelte land bor imidlertid mer segregert enn andre, f.eks. personer med srilankisk, pakistansk og tyrkisk bakgrunn.
 
-Kvinner
+Innvandreres tilpasninger på boligmarkedet henger sammen med hvordan boligmarkedet faktisk fungerer. Mens Norge er et land av boligeiere, gir de andre nordiske landene andre rammebetingelser. En sammenliknende studie av segregering i fire nordiske hovedsteder viser at jo flere innvandrere det er i et land, jo sterkere er tendensen til segregering i hovedstedene.[^239] I de nordiske hovedstedene var bostedssegregering blant voksne innvandrere sterkest i Stockholm og lavest i Helsingfors. Bosettingsmønstre har imidlertid også en sammenheng med tilgang på boliger. Stockholm og København har store områder med utleieboliger sammenliknet med Oslo og Helsingfors, og særlig er kommunale (ikke-kommersielle) utleieboliger ujevnt fordelt. Innslaget av slike boliger er lavere i Oslo, og Oslo har en mye høyere andel av befolkningen bosatt i selveier- og andelsboliger enn de tre andre byene. Dette gjelder også innvandrere. Ser man på innvandreres mobilitet i de samme byene, finner man at innvandrere i større grad forblir boende i bydeler med høy andel personer med innvandrerbakgrunn i Oslo enn de gjør i Stockholm og København.[^240] Forskerne antar dette har sammenheng med at boligtilbudet i bydelene er mer sammensatt i Oslo enn i de to andre byene, slik at det i større grad er mulig å kjøpe seg opp i boligstandard innenfor samme bydel. Dette kan i så fall være et bedre utgangspunkt for inkludering, ved at innvandrere som lykkes i Norge, i den forstand at de blir i stand til å kjøpe en (bedre) bolig, kan bli boende i samme bydel som innvandrere som fortsatt strever. Dette kan i noen grad hindre at etnisk segregering også blir sosial segregering.
 
-21 703
+Man kan anta at tendensene til segregering skjer delvis fordi boliger relativt sett er rimeligere i noen områder enn i andre, og at mange innvandrere har lavere inntekt enn majoriteten.[^241] Innvandrere vil dermed oftere enn andre bo i områder der en større andel av befolkningen enn ellers har relativt sett dårlige levekår og boforhold, lavere utdanning, en mer usikker tilknytning til arbeidsliv og boligmarked og i større grad er avhengig av offentlige overføringer til livsoppholdet.[^242] NOU 2011: 14 (Integreringsutvalget) diskuterte problematikken rundt bosettingsmønster og segregeringstendenser. En hovedproblemstilling for Integreringsutvalget var om konsentrasjonen av innvandrere i enkelte boligområder innebærer at integreringsutfordringer forsterkes. Dokumentasjonen viste da ingen eller usikker mereffekt av slik konsentrasjon, men det ble påpekt at det kan være mer utfordrende å drive idrettslag, borettslag etc. i områder med høy andel innvandrere fra land i Asia, Afrika mfl. Utredningen viser til at det er andre årsaker enn høy andel beboere med innvandrerbakgrunn som særlig skaper utfordringer, bl.a. lav sysselsetting og lav inntekt.[^243]
 
-333 820
+En del forskning finner at det er en fordel for minoritetselever å gå på skole med høy minoritetsandel, men at det kan være en ulempe for majoritetselever dersom andelen kommer over 20–30 pst.[^244] Norske studier som har sett på elevenes sosioøkonomiske bakgrunn og foreldrenes utdanningsnivå i tillegg til etnisk bakgrunn, finner ingen, eller bare svake, sammenhenger mellom minoritetsandel og skoleprestasjoner.[^245] Det er dermed plausibelt å anta at eventuelle problemer knyttet til skoleprestasjoner i mindre grad er knyttet til innvandrerbakgrunn som sådan enn til sosioøkonomiske forhold og ressurser i hjemmet.
 
-282 658
+Generelt er det sammenhenger mellom årsaker til innvandring, ulike innvandrergruppers bosettingsmønster, deres levekår og deltakelse i samfunnslivet. Årsaken til innvandring vil ha betydning for hvor innvandrere bosetter seg, og i hvilken grad myndighetene kan påvirke bosettingen. For de fleste som kommer til Norge, er det ingen direkte offentlig styring av bosettingen. Arbeidsinnvandrere drar dit de finner en jobb, familieinnvandrere dit familiemedlemmer bor, og studenter til lærestedet de har fått plass ved. Bare flyktninger får tildelt en bosettingskommune etter at de har fått oppholdstillatelse, med medfølgende rett til introduksjonsprogram (se kap. 4.4.3).
 
-6,5
+Den styrte bosettingen av flyktninger innebærer at hele landet tas i bruk, og at konsentrasjon av innvandrere motvirkes, iallfall de første to årene etter bosetting (se kap. 3.3.4). Det foregår imidlertid betydelig sekundærflytting blant flyktninger, dvs. flytting fra den opprinnelige bosettingskommunen. Hovedbildet for Norge er, ifølge SSBs monitor for sekundærflytting, at flyktninger flytter fra små, mindre sentrale kommuner til større, mer sentrale kommuner.[^246] Denne monitoren inneholder ikke analyser av forhold mellom arbeidsmarkedsbetingelser og sekundærflytting, men annen forskning viser at flyktninger i Norge i stor grad flytter i samsvar med sysselsettingsutviklingen og/eller til regioner der flyktninger allerede utgjør en større andel av sysselsettingen fra før av.[^247] Forskningen fra Sverige og Danmark avdekker mange av de samme mønstrene i sekundærflytting blant flyktninger som først blir bosatt gjennom et bosettingsprogram.[^248] I Sverige og Danmark var det lavere sannsynlighet for sekundærflytting når flyktningene ble bosatt i en kommune med større andel av befolkningen fra samme opprinnelsesland, større befolkning generelt og lav arbeidsledighet. Tilflytting skjedde til større kommuner, kommuner med større andel personer med samme landbakgrunn og områder med lavere ledighet.
 
-Menn
+Monitoren for sekundærflytting dokumenterer en nedgang i sekundærflytting siden 2003, da monitoren startet. Tidligere flyttet de fleste ett til to år etter bosetting. I de senere årene flytter flest fire til fem år etter bosetting. Det vil si at de flytter i de første årene etter avsluttet introduksjonsprogram. Blant deltakerne i introduksjonsprogram som ble avsluttet i perioden 2007 til 2011, flyttet 19 pst. til en annen kommune innen ett år etter endt introduksjonsprogram, mens 24 pst. flyttet innen to år.[^249]
 
-31 252
+1.  **Helse**
 
-533 743
-
-455 033
-
-5,9
-
-Kvinner
-
-42 088
-
-411 199
-
-343 249
-
-10,2
-
-Menn
-
-55 937
-
-582 135
-
-452 252
-
-9,6
-
-Kvinner
-
-67 963
-
-406 912
-
-313 231
-
-16,7
-
-Kilde: Statistisk sentralbyrå
-
-samme bakgrunn, det første året de er bosatt i
-Norge. Andelen synker imidlertid raskt med
-økende botid. For menn synker andelen raskere
-enn for kvinner, til rundt 25 pst. etter rundt fire års
-botid. På dette nivået later utviklingen til å flate ut.
-For kvinner skjer det en tilsvarende utflating på
-rundt 40 pst. i 2014 for dem med sju års botid eller
-mer. Blant befolkningen eksklusive innvandrere
-utgjør velferdsytelsene om lag 5 pst. av inntekten
-til menn og 15 pst. av inntekten til kvinner. Velferdsytelser utgjør altså en større andel av inntektene til flyktninger og familieinnvandrere enn av
-inntektene til den øvrige befolkningen, også flere
-år etter at flyktningene har kommet til Norge.
-Blant familieinnvandrede menn synker også
-andelen noe med botid, men andelen faller likevel
-ikke under 15–20 pst. Velferdsytelser utgjør en vesentlig høyere andel av inntekten for familieinnvandrede kvinner enn for kvinner i den øvrige befolkningen. Andelen som velferdsytelsene utgjør,
-synker markant med økende botid, men faller likevel ikke under 40 pst.
-Utviklingen i inntektssammensetningen blant
-arbeidsinnvandrere og nordiske innvandrere er
-motsatt av det som framkommer for flyktninger
-og familieinnvandrere (se figur 6.2). Blant arbeidsinnvandrere som ankom før finanskrisen, utgjorde velferdsytelser 1 pst. av inntekten. For de
-senere kohortene var den noe høyere, men generelt er den under 5 pst., til tross for en viss økning
-med økende botid. Selvforsørgingsgraden til kvinnelige arbeidsinnvandrere er noe lavere – de har
-
-en høyere andel velferdsytelser – og den øker mer
-med økende botid. Også blant nordiske innvandrere (se figur 6.2) utgjør andelen velferdsytelser
-av samlet inntekt mer etter lengre botid, men den
-forblir på et lavere nivå enn for befolkningen uten
-innvandrerbakgrunn. Bildet er sammenfallende
-med det man ser for arbeidsinnvandrere fra land
-utenfor Norden.
-Funnene som presenteres her, harmonerer
-med bildet som presenteres i en studie fra SSB.4
-Denne studien viser at andelen av mannlige flyktningers inntekt som utgjøres av velferdsytelser,
-synker med økende botid, for å stabilisere seg på
-rundt 20 pst. Blant kvinnene i de tidlige ankomstkohortene stabiliserer andelen seg på 30–50 pst.
-etter flere år. Denne studien viser også at velferdsytelser utgjorde mindre enn 5 pst. av inntektene til mannlige arbeidsinnvandrere, og at andelen blant kvinnelige arbeidsinnvandrere er høyere: 12–14 pst. Denne andelen øker noe etter
-noen år i landet. En sannsynlig forklaring på dette
-mønsteret er at kvinnelige arbeidsinnvandrere
-kommer til Norge i en alder da mange ønsker å
-stifte familie, og at mange derfor vil motta familierelaterte ytelser. Disse resultatene tyder generelt
-på at overføringer utgjør en betydelig lavere andel
-av inntektene for arbeidsinnvandrere enn for personer i den øvrige befolkningen. Oppsummert
-4
-
-Blom, S. (2014). Sysselsetting og økonomiske overføringer
-blant sju ankomstkohorter av innvandrere observert i perioden 1993–2010. Rapporter 38/2014, Statistisk sentralbyrå.
+Helsetilstand påvirker mulighetene for samfunnsdeltakelse. Innvandrere med god helse kan delta mer aktivt i arbeids- og samfunnsliv for øvrig. Samtidig vil aktiv samfunnsdeltakelse kunne bidra til at innvandrere får bedre helse. Kjønn, alder, biologisk arv, risikoatferd (røyking, bruk av rusmidler) og bo- og arbeidsforhold er viktige faktorer som påvirker helsesituasjonen til den enkelte. Det blir gjerne antatt at migranter må ha relativt god helse for å reise til et annet land. Migranter som reiser frivillig, antas derfor ofte å ha bedre helse enn gjennomsnittet både i landet de reiser fra, og i landet de kommer til. Tilsvarende seleksjonseffekter er mindre sannsynlige der migrasjonen er påtvunget, som i fluktsituasjoner. Det å flykte kan også være starten på en migrasjonsprosess som i seg selv er en betydelig belastning både for fysisk og psykisk helse. Antakelsen om sunne migranter må derfor anses å gjelde sterkest for arbeidsinnvandrere og sannsynligvis avta med botid i landet.[^250]
