@@ -1,2258 +1,976 @@
-# Meld. St. 27 (2024–2025), del 3 av 3 (side 55–62)
+# Meld. St. 27 (2024–2025), del 3 av 4
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/meldinger/2025/a07ad2e4-meld-st-27-20242025.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/meld.-st.-27-20242025/id3107887/
 - Original-PDF: https://www.regjeringen.no/contentassets/38683886737244dca7de8c33d0af718c/nn-no/pdfs/stm202420250027000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 tabeller, 11 figurer, 1366 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 55]
-
-2024–2025
-
-53
-
-Meld. St. 27
-Regulering av pensjonar i 2025 og inntektstilhøve for pensjonistar
-
-Tabell 6.2 Utviklinga av minstesatsen i folketrygda for alderspensjonistar, uføretrygd og unge uføre i
-perioden 1.05.1992–30.04.2026 i kroner
-Minste pensjonsnivå
-Alderspensjonist
-
-Uføretrygd
-
-Einslege
-Pr. år
-
-Ektepar
-Pr. år
-
-Einslege
-Pr. år
-
-Ektepar
-Pr. år
-
-Enslege unge
-uføre Pr. år
-
-1.05.18–30.04.19
-
-194 192
-
-355 350
-
-240 270
-
-441 786
-
-281 930
-
-1.05.19–31.08.19
-
-198 818
-
-363 816
-
-247 648
-
-455 352
-
-290 587
-
-1.09.19–30.04.2017
-
-202 818
-
-363 816
-
-247 648
-
-455 352
-
-290 587
-
-1.05.20–30.04.2118
-
-208 690
-
-367 174
-
-251 350
-
-462 160
-
-294 931
-
-1.05.21–30.06.21
-
-219 878
-
-386 858
-
-263 870
-
-485 180
-
-309 621
-
-1.07.21–30.04.2219
-
-224 878
-
-386 858
-
-263 870
-
-485 180
-
-309 621
-
-1.05.22–31.12.22
-
-232 816
-
-400 514
-
-276 463
-
-508 336
-
-324 398
-
-1.01.23–30.04.23
-
-236 816
-
-400 514
-
-276 463
-
-508 336
-
-324 398
-
-1.05.23–30.04.24
-
-257 040
-
-434 718
-
-294 178
-
-540 908
-
-345 184
-
-264 134
-
-446 716
-
-307 589
-
-565 568
-
-360 921
-
-264 134
-
-446 716
-
-313 667
-
-577 722
-
-366 999
-
-279 933
-
-463 290
-
-329 175
-
-606 285
-
-385 143
-
-1.05.24–30.06.24
-1.07.24–30.04.25
-
-20
-
-1.05.25–30.04.26
-1
-
-Heving av sats for særtillegget for ektepar frå 1.01.1994. Ny sats 2 x 60,5 prosent av grunnbeløpet, dvs. dobbelt av ordinær sats
-og ny minstesats.
-2
-Heving av sats for særtillegget frå 1.01.1995. Ordinær sats utgjorde 61,55 prosent av grunnbeløpet.
-3
-Heving av sats for særtillegget frå 1.05.1997. Ordinær sats utgjorde 63,2 prosent av grunnbeløpet (minstesats 57,5 pst).
-4
-Heving av sats for særtillegget frå 1.05.1998. Ordinær sats utgjorde 79,33 prosent av grunnbeløpet, mens minstesats er
-74 prosent av grunnbeløpet.
-5
-Grunnpensjonen for ektepar auka frå 0,75 G til 0,8 G frå 1.05.2003.
-6
-Grunnpensjonen for ektepar auka til 0,825 G frå 1.05.2004.
-7
-Grunnpensjonen for ektepar auka til 0,85 G frå 1.05.2005.
-8
-Ordinær sats for særtillegget auka til 94 prosent av grunnbeløpet frå 1.05.2008.
-9
-Dei medrekna framtidige pensjonspoenga for unge uføre auka frå 3,30 til 3,50 frå 1.05.2008.
-10
-Ordinær sats for særtillegget auka 97 prosent av grunnbeløpet frå 1.05.2009.
-11
-Ordinær sats for særtillegget auka til 100 prosent av grunnbeløpet frå 1.05.2010.
-12
-Frå og med 1.05.2011 er satsane for minste pensjonsnivå for alderspensjonistar regulert i samsvar med lønnsveksten og deretter
-justert for effekten av levealdersjusteringa, medan minstepensjon for uførepensjonistar er regulerte i sam-svar med grunnbeløpet (lønnsveksten). Eit ektepar med alderspensjon er sikra eit samla pensjonsnivå tilsvarande to gonger ordinær sats.
-13
-Frå 1.01.2015 er uførepensjon endra til uføretrygd og blir skattlagt som lønn. For å føra vidare nivået etter skatt, er minstesatsane auka. Minstesatsen for gifte og sambuande er 2,28 G (ordinær sats) og for einslege 2,48 G (høg sats). For unge uføre er
-minstesatsane høvesvis 2,66 G og 2,91 G.
-14
-Frå 1.09.2016 auka grunnpensjonen til gifte og sambuande pensjonistar frå 0,85 G til 0,90 G. Låg og ordinær sats for minste
-pensjonsnivå for alderspensjonistar auka, og det vart innført ein ny, særskild sats for einslege alderspensjonistar. Minste årlege
-yting for gifte og sambuande uføretrygda er auka til 2,33 G dersom vedkommande får uføretrygd som er ein omregna uførepensjon.
-15
-Minstesatsen for gifte og sambuande uføretrygda med uføretrygd som er ein omregna uførepensjon er 2,33 G = 436 334 kroner
-frå 1.05.2017 (inga endring frå 1.09.2017).
-16
-Frå 1.09.2017 auka alle satsane for minste pensjonsnivå for alderspensjonistar.
-17
-Frå 1.09.2019 auka minste pensjonsnivå særskilt sats etter sjette ledd bokstav a.
-18
-Med virkning frå 1.05.2020 auka minste pensjonsnivå særskilt sats etter sjette ledd bokstav a med 4 000 kroner.
-19
-Frå 1.07.2021 auka minste pensjonsnivå særskilt sats etter sjette ledd bokstav a.
-20 Frå 1.07.2024 auka satsane for minsteytingane i uføretrygda.
+# \[Vedleggsnr\]
+
+6.
+
+Tabellar
+
+Oversikt over grunnbeløpet i folketrygda frå 1967
+
+05J2xt2
+
+<table>
+<colgroup>
+<col style="width: 23%" />
+<col style="width: 19%" />
+<col style="width: 15%" />
+<col style="width: 25%" />
+<col style="width: 15%" />
+</colgroup>
+<tbody>
+<tr>
+<td></td>
+<td colspan="2" style="text-align: right;">Storleiken på grunnbeløpet</td>
+<td colspan="2" style="text-align: right;">Gjennomsnittleg årleg grunnbeløp</td>
+</tr>
+<tr>
+<td>Frå</td>
+<td style="text-align: right;">Pr. år kr</td>
+<td style="text-align: right;">Pr. md. kr</td>
+<td style="text-align: right;">År</td>
+<td style="text-align: right;">Beløp kr</td>
+</tr>
+<tr>
+<td>1.01.1967</td>
+<td style="text-align: right;">5 400</td>
+<td style="text-align: right;">450</td>
+<td style="text-align: right;">1967</td>
+<td style="text-align: right;">5 400</td>
+</tr>
+<tr>
+<td>1.01.1968</td>
+<td style="text-align: right;">5 900</td>
+<td style="text-align: right;">492</td>
+<td style="text-align: right;">1968</td>
+<td style="text-align: right;">5 900</td>
+</tr>
+<tr>
+<td>1.01.1969</td>
+<td style="text-align: right;">6 400</td>
+<td style="text-align: right;">533</td>
+<td style="text-align: right;">1969</td>
+<td style="text-align: right;">6 400</td>
+</tr>
+<tr>
+<td>1.01.1970</td>
+<td style="text-align: right;">6 800</td>
+<td style="text-align: right;">567</td>
+<td style="text-align: right;">1970</td>
+<td style="text-align: right;">6 800</td>
+</tr>
+<tr>
+<td>1.01.1971</td>
+<td style="text-align: right;">7 200</td>
+<td style="text-align: right;">600</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+<tr>
+<td>1.05.1971</td>
+<td style="text-align: right;">7 500</td>
+<td style="text-align: right;">625</td>
+<td style="text-align: right;">1971</td>
+<td style="text-align: right;">7 400</td>
+</tr>
+<tr>
+<td>1.01.1972</td>
+<td style="text-align: right;">7 900</td>
+<td style="text-align: right;">658</td>
+<td style="text-align: right;">1972</td>
+<td style="text-align: right;">7 900</td>
+</tr>
+<tr>
+<td>1.01.1973</td>
+<td style="text-align: right;">8 500</td>
+<td style="text-align: right;">708</td>
+<td style="text-align: right;">1973</td>
+<td style="text-align: right;">8 500</td>
+</tr>
+<tr>
+<td>1.01.1974</td>
+<td style="text-align: right;">9 200</td>
+<td style="text-align: right;">767</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+<tr>
+<td>1.05.1974</td>
+<td style="text-align: right;">9 700</td>
+<td style="text-align: right;">808</td>
+<td style="text-align: right;">1974</td>
+<td style="text-align: right;">9 533</td>
+</tr>
+<tr>
+<td>1.01.1975</td>
+<td style="text-align: right;">10 400</td>
+<td style="text-align: right;">867</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+<tr>
+<td>1.05.1975</td>
+<td style="text-align: right;">11 000</td>
+<td style="text-align: right;">917</td>
+<td style="text-align: right;">1975</td>
+<td style="text-align: right;">10 800</td>
+</tr>
+<tr>
+<td>1.01.1976</td>
+<td style="text-align: right;">11 800</td>
+<td style="text-align: right;">983</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+<tr>
+<td>1.05.1976</td>
+<td style="text-align: right;">12 100</td>
+<td style="text-align: right;">1 008</td>
+<td style="text-align: right;">1976</td>
+<td style="text-align: right;">12 000</td>
+</tr>
+<tr>
+<td>1.01.1977</td>
+<td style="text-align: right;">13 100</td>
+<td style="text-align: right;">1 092</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+<tr>
+<td>1.05.1977</td>
+<td style="text-align: right;">13 400</td>
+<td style="text-align: right;">1 117</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+<tr>
+<td>1.12.1977</td>
+<td style="text-align: right;">14 400</td>
+<td style="text-align: right;">1 200</td>
+<td style="text-align: right;">1977</td>
+<td style="text-align: right;">13 383</td>
+</tr>
+<tr>
+<td>1.07.1978</td>
+<td style="text-align: right;">14 700</td>
+<td style="text-align: right;">1 225</td>
+<td style="text-align: right;">1978</td>
+<td style="text-align: right;">14 550</td>
+</tr>
+<tr>
+<td>1.01.1979</td>
+<td style="text-align: right;">15 200</td>
+<td style="text-align: right;">1 267</td>
+<td style="text-align: right;">1979</td>
+<td style="text-align: right;">15 200</td>
+</tr>
+<tr>
+<td>1.01.1980</td>
+<td style="text-align: right;">16 100</td>
+<td style="text-align: right;">1 342</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+<tr>
+<td>1.05.1980</td>
+<td style="text-align: right;">16 900</td>
+<td style="text-align: right;">1 408</td>
+<td style="text-align: right;">1980</td>
+<td style="text-align: right;">16 633</td>
+</tr>
+<tr>
+<td>1.01.1981</td>
+<td style="text-align: right;">17 400</td>
+<td style="text-align: right;">1 450</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+<tr>
+<td>1.05.1981</td>
+<td style="text-align: right;">19 100</td>
+<td style="text-align: right;">1 592</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+<tr>
+<td>1.10.1981</td>
+<td style="text-align: right;">19 600</td>
+<td style="text-align: right;">1 633</td>
+<td style="text-align: right;">1981</td>
+<td style="text-align: right;">18 658</td>
+</tr>
+<tr>
+<td>1.05.1982</td>
+<td style="text-align: right;">21 200</td>
+<td style="text-align: right;">1 767</td>
+<td style="text-align: right;">1982</td>
+<td style="text-align: right;">20 667</td>
+</tr>
+<tr>
+<td>1.01.1983</td>
+<td style="text-align: right;">21 800</td>
+<td style="text-align: right;">1 817</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+<tr>
+<td>1.05.1983</td>
+<td style="text-align: right;">22 600</td>
+<td style="text-align: right;">1 883</td>
+<td style="text-align: right;">1983</td>
+<td style="text-align: right;">22 333</td>
+</tr>
+<tr>
+<td>1.05.1984</td>
+<td style="text-align: right;">24 200</td>
+<td style="text-align: right;">2 017</td>
+<td style="text-align: right;">1984</td>
+<td style="text-align: right;">23 667</td>
+</tr>
+<tr>
+<td>1.05.1985</td>
+<td style="text-align: right;">25 900</td>
+<td style="text-align: right;">2 158</td>
+<td style="text-align: right;">1985</td>
+<td style="text-align: right;">25 333</td>
+</tr>
+<tr>
+<td>1.01.1986</td>
+<td style="text-align: right;">26 300</td>
+<td style="text-align: right;">2 192</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+<tr>
+<td>1.05.1986</td>
+<td style="text-align: right;">28 000</td>
+<td style="text-align: right;">2 333</td>
+<td style="text-align: right;">1986</td>
+<td style="text-align: right;">27 433</td>
+</tr>
+<tr>
+<td>1.05.1987</td>
+<td style="text-align: right;">29 900</td>
+<td style="text-align: right;">2 492</td>
+<td style="text-align: right;">1987</td>
+<td style="text-align: right;">29 267</td>
+</tr>
+<tr>
+<td>1.01.1988</td>
+<td style="text-align: right;">30 400</td>
+<td style="text-align: right;">2 533</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+<tr>
+<td>1.04.1988</td>
+<td style="text-align: right;">31 000</td>
+<td style="text-align: right;">2 583</td>
+<td style="text-align: right;">1988</td>
+<td style="text-align: right;">30 850</td>
+</tr>
+<tr>
+<td>1.04.1989</td>
+<td style="text-align: right;">32 700</td>
+<td style="text-align: right;">2 725</td>
+<td style="text-align: right;">1989</td>
+<td style="text-align: right;">32 275</td>
+</tr>
+<tr>
+<td>1.05.1990</td>
+<td style="text-align: right;">34 000</td>
+<td style="text-align: right;">2 833</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+<tr>
+<td>1.12.1990</td>
+<td style="text-align: right;">34 100</td>
+<td style="text-align: right;">2 842</td>
+<td style="text-align: right;">1990</td>
+<td style="text-align: right;">33 575</td>
+</tr>
+<tr>
+<td>1.05.1991</td>
+<td style="text-align: right;">35 500</td>
+<td style="text-align: right;">2 958</td>
+<td style="text-align: right;">1991</td>
+<td style="text-align: right;">35 033</td>
+</tr>
+<tr>
+<td>1.05.1992</td>
+<td style="text-align: right;">36 500</td>
+<td style="text-align: right;">3 042</td>
+<td style="text-align: right;">1992</td>
+<td style="text-align: right;">36 167</td>
+</tr>
+<tr>
+<td>1.05.1993</td>
+<td style="text-align: right;">37 300</td>
+<td style="text-align: right;">3 108</td>
+<td style="text-align: right;">1993</td>
+<td style="text-align: right;">37 033</td>
+</tr>
+<tr>
+<td>1.05.1994</td>
+<td style="text-align: right;">38 080</td>
+<td style="text-align: right;">3 173</td>
+<td style="text-align: right;">1994</td>
+<td style="text-align: right;">37 820</td>
+</tr>
+<tr>
+<td>1.05.1995</td>
+<td style="text-align: right;">39 230</td>
+<td style="text-align: right;">3 269</td>
+<td style="text-align: right;">1995</td>
+<td style="text-align: right;">38 847</td>
+</tr>
+<tr>
+<td>1.05.1996</td>
+<td style="text-align: right;">41 000</td>
+<td style="text-align: right;">3 417</td>
+<td style="text-align: right;">1996</td>
+<td style="text-align: right;">40 410</td>
+</tr>
+<tr>
+<td>1.05.1997</td>
+<td style="text-align: right;">42 500</td>
+<td style="text-align: right;">3 542</td>
+<td style="text-align: right;">1997</td>
+<td style="text-align: right;">42 000</td>
+</tr>
+<tr>
+<td>1.05.1998</td>
+<td style="text-align: right;">45 370</td>
+<td style="text-align: right;">3 781</td>
+<td style="text-align: right;">1998</td>
+<td style="text-align: right;">44 413</td>
+</tr>
+<tr>
+<td>1.05.1999</td>
+<td style="text-align: right;">46 950</td>
+<td style="text-align: right;">3 913</td>
+<td style="text-align: right;">1999</td>
+<td style="text-align: right;">46 423</td>
+</tr>
+<tr>
+<td>1.05.2000</td>
+<td style="text-align: right;">49 090</td>
+<td style="text-align: right;">4 091</td>
+<td style="text-align: right;">2000</td>
+<td style="text-align: right;">48 377</td>
+</tr>
+<tr>
+<td>1.05.2001</td>
+<td style="text-align: right;">51 360</td>
+<td style="text-align: right;">4 280</td>
+<td style="text-align: right;">2001</td>
+<td style="text-align: right;">50 603</td>
+</tr>
+<tr>
+<td>1.05.2002</td>
+<td style="text-align: right;">54 170</td>
+<td style="text-align: right;">4 514</td>
+<td style="text-align: right;">2002</td>
+<td style="text-align: right;">53 233</td>
+</tr>
+<tr>
+<td>1.05.2003</td>
+<td style="text-align: right;">56 861</td>
+<td style="text-align: right;">4 738</td>
+<td style="text-align: right;">2003</td>
+<td style="text-align: right;">55 964</td>
+</tr>
+<tr>
+<td>1.05.2004</td>
+<td style="text-align: right;">58 778</td>
+<td style="text-align: right;">4 898</td>
+<td style="text-align: right;">2004</td>
+<td style="text-align: right;">58 139</td>
+</tr>
+<tr>
+<td>1.05.2005</td>
+<td style="text-align: right;">60 699</td>
+<td style="text-align: right;">5 058</td>
+<td style="text-align: right;">2005</td>
+<td style="text-align: right;">60 059</td>
+</tr>
+<tr>
+<td>1.05.2006</td>
+<td style="text-align: right;">62 892</td>
+<td style="text-align: right;">5 241</td>
+<td style="text-align: right;">2006</td>
+<td style="text-align: right;">62 161</td>
+</tr>
+<tr>
+<td>1.05.2007</td>
+<td style="text-align: right;">66 812</td>
+<td style="text-align: right;">5 568</td>
+<td style="text-align: right;">2007</td>
+<td style="text-align: right;">65 505</td>
+</tr>
+<tr>
+<td>1.05.2008</td>
+<td style="text-align: right;">70 256</td>
+<td style="text-align: right;">5 855</td>
+<td style="text-align: right;">2008</td>
+<td style="text-align: right;">69 108</td>
+</tr>
+<tr>
+<td>1.05.2009</td>
+<td style="text-align: right;">72 881</td>
+<td style="text-align: right;">6 073</td>
+<td style="text-align: right;">2009</td>
+<td style="text-align: right;">72 006</td>
+</tr>
+<tr>
+<td>1.05.2010</td>
+<td style="text-align: right;">75 641</td>
+<td style="text-align: right;">6 303</td>
+<td style="text-align: right;">2010</td>
+<td style="text-align: right;">74 721</td>
+</tr>
+<tr>
+<td>1.05.2011</td>
+<td style="text-align: right;">79 216</td>
+<td style="text-align: right;">6 601</td>
+<td style="text-align: right;">2011</td>
+<td style="text-align: right;">78 024</td>
+</tr>
+<tr>
+<td>1.05.2012</td>
+<td style="text-align: right;">82 122</td>
+<td style="text-align: right;">6 844</td>
+<td style="text-align: right;">2012</td>
+<td style="text-align: right;">81 153</td>
+</tr>
+<tr>
+<td>1.05.2013</td>
+<td style="text-align: right;">85 245</td>
+<td style="text-align: right;">7 104</td>
+<td style="text-align: right;">2013</td>
+<td style="text-align: right;">84 204</td>
+</tr>
+<tr>
+<td>1.05.2014</td>
+<td style="text-align: right;">88 370</td>
+<td style="text-align: right;">7 364</td>
+<td style="text-align: right;">2014</td>
+<td style="text-align: right;">87 328</td>
+</tr>
+<tr>
+<td>1.05.2015</td>
+<td style="text-align: right;">90 068</td>
+<td style="text-align: right;">7 506</td>
+<td style="text-align: right;">2015</td>
+<td style="text-align: right;">89 502</td>
+</tr>
+<tr>
+<td>1.05.2016</td>
+<td style="text-align: right;">92 576</td>
+<td style="text-align: right;">7 715</td>
+<td style="text-align: right;">2016</td>
+<td style="text-align: right;">91 740</td>
+</tr>
+<tr>
+<td>1.05.2017</td>
+<td style="text-align: right;">93 634</td>
+<td style="text-align: right;">7 803</td>
+<td style="text-align: right;">2017</td>
+<td style="text-align: right;">93 281</td>
+</tr>
+<tr>
+<td>1.05.2018</td>
+<td style="text-align: right;">96 883</td>
+<td style="text-align: right;">8 074</td>
+<td style="text-align: right;">2018</td>
+<td style="text-align: right;">95 800</td>
+</tr>
+<tr>
+<td>1.05.2019</td>
+<td style="text-align: right;">99 858</td>
+<td style="text-align: right;">8 322</td>
+<td style="text-align: right;">2019</td>
+<td style="text-align: right;">98 866</td>
+</tr>
+<tr>
+<td>1.05.2020</td>
+<td style="text-align: right;">101 351</td>
+<td style="text-align: right;">8 446</td>
+<td style="text-align: right;">2020</td>
+<td style="text-align: right;">100 853</td>
+</tr>
+<tr>
+<td>1.05.2021</td>
+<td style="text-align: right;">106 399</td>
+<td style="text-align: right;">8 867</td>
+<td style="text-align: right;">2021</td>
+<td style="text-align: right;">104 716</td>
+</tr>
+<tr>
+<td>1.05.2022</td>
+<td style="text-align: right;">111 477</td>
+<td style="text-align: right;">9 290</td>
+<td style="text-align: right;">2022</td>
+<td style="text-align: right;">109 784</td>
+</tr>
+<tr>
+<td>1.05.2023</td>
+<td style="text-align: right;">118 620</td>
+<td style="text-align: right;">9 885</td>
+<td style="text-align: right;">2023</td>
+<td style="text-align: right;">116 239</td>
+</tr>
+<tr>
+<td>1.05.2024</td>
+<td style="text-align: right;">124 028</td>
+<td style="text-align: right;">10 336</td>
+<td style="text-align: right;">2024</td>
+<td style="text-align: right;">122 225</td>
+</tr>
+<tr>
+<td>1.05.2025</td>
+<td style="text-align: right;">130 160</td>
+<td style="text-align: right;">10 847</td>
+<td style="text-align: right;">2025</td>
+<td style="text-align: right;">128 116</td>
+</tr>
+</tbody>
+</table>
+
+Utviklinga av minstesatsen i folketrygda for alderspensjonistar, uføretrygd og unge uføre i perioden 1.05.1992–30.04.2026 i kroner
+
+06J3xt2
+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 26%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+</colgroup>
+<tbody>
+<tr>
+<td></td>
+<td colspan="4" style="text-align: center;">Minste pensjonsnivå</td>
+<td style="text-align: right;"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2" style="text-align: center;">Alderspensjonist</td>
+<td colspan="2" style="text-align: center;">Uføretrygd</td>
+<td style="text-align: right;"></td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: right;">Einslege<br />
+Pr. år</td>
+<td style="text-align: right;">Ektepar<br />
+Pr. år</td>
+<td style="text-align: right;">Einslege<br />
+Pr. år</td>
+<td style="text-align: right;">Ektepar<br />
+Pr. år</td>
+<td style="text-align: right;">Enslege unge uføre Pr. år</td>
+</tr>
+<tr>
+<td>1.05.92–30.04.93</td>
+<td style="text-align: right;">58 583</td>
+<td style="text-align: right;">94 752</td>
+<td style="text-align: right;">58 583</td>
+<td style="text-align: right;">94 752</td>
+<td style="text-align: right;">87 096</td>
+</tr>
+<tr>
+<td>1.05.93–31.12.93</td>
+<td style="text-align: right;">59 868</td>
+<td style="text-align: right;">96 816</td>
+<td style="text-align: right;">59 868</td>
+<td style="text-align: right;">96 816</td>
+<td style="text-align: right;">88 992</td>
+</tr>
+<tr>
+<td>1.01.94–30.04.94</td>
+<td style="text-align: right;">59 868</td>
+<td style="text-align: right;">101 088<sup>1</sup></td>
+<td style="text-align: right;">59 868</td>
+<td style="text-align: right;">101 088<sup>1</sup></td>
+<td style="text-align: right;">88 991</td>
+</tr>
+<tr>
+<td>1.05.94–31.12.94</td>
+<td style="text-align: right;">61 116</td>
+<td style="text-align: right;">103 200</td>
+<td style="text-align: right;">61 116</td>
+<td style="text-align: right;">103 200</td>
+<td style="text-align: right;">90 852</td>
+</tr>
+<tr>
+<td>1.01.95–30.04.95<sup>2</sup></td>
+<td style="text-align: right;">61 512</td>
+<td style="text-align: right;">103 992</td>
+<td style="text-align: right;">61 512</td>
+<td style="text-align: right;">103 992</td>
+<td style="text-align: right;">90 852</td>
+</tr>
+<tr>
+<td>1.05.95–30.04.96</td>
+<td style="text-align: right;">63 372</td>
+<td style="text-align: right;">107 136</td>
+<td style="text-align: right;">63 372</td>
+<td style="text-align: right;">107 136</td>
+<td style="text-align: right;">93 600</td>
+</tr>
+<tr>
+<td>1.05.96–30.04.97</td>
+<td style="text-align: right;">66 240</td>
+<td style="text-align: right;">111 984</td>
+<td style="text-align: right;">66 240</td>
+<td style="text-align: right;">111 984</td>
+<td style="text-align: right;">97 836</td>
+</tr>
+<tr>
+<td>1.05.97–30.04.98<sup>3</sup></td>
+<td style="text-align: right;">69 360</td>
+<td style="text-align: right;">117 456</td>
+<td style="text-align: right;">69 360</td>
+<td style="text-align: right;">117 456</td>
+<td style="text-align: right;">101 412</td>
+</tr>
+<tr>
+<td>1.05.98–30.04.99<sup>4</sup></td>
+<td style="text-align: right;">81 360</td>
+<td style="text-align: right;">140 040</td>
+<td style="text-align: right;">81 360</td>
+<td style="text-align: right;">140 040</td>
+<td style="text-align: right;">108 252</td>
+</tr>
+<tr>
+<td>1.05.99–30.04.00</td>
+<td style="text-align: right;">84 204</td>
+<td style="text-align: right;">144 912</td>
+<td style="text-align: right;">84 204</td>
+<td style="text-align: right;">144 912</td>
+<td style="text-align: right;">112 032</td>
+</tr>
+<tr>
+<td>1.05.00–30.04.01</td>
+<td style="text-align: right;">88 032</td>
+<td style="text-align: right;">151 512</td>
+<td style="text-align: right;">88 032</td>
+<td style="text-align: right;">151 512</td>
+<td style="text-align: right;">117 132</td>
+</tr>
+<tr>
+<td>1.05.01–30.04.02</td>
+<td style="text-align: right;">92 100</td>
+<td style="text-align: right;">158 520</td>
+<td style="text-align: right;">92 100</td>
+<td style="text-align: right;">158 520</td>
+<td style="text-align: right;">122 544</td>
+</tr>
+<tr>
+<td>1.05.02–30.04.03</td>
+<td style="text-align: right;">97 140</td>
+<td style="text-align: right;">167 208</td>
+<td style="text-align: right;">97 140</td>
+<td style="text-align: right;">167 208</td>
+<td style="text-align: right;">129 252</td>
+</tr>
+<tr>
+<td>1.05.03–30.04.04</td>
+<td style="text-align: right;">101 964</td>
+<td style="text-align: right;">181 200<sup>5</sup></td>
+<td style="text-align: right;">101 964</td>
+<td style="text-align: right;">181 200<sup>5</sup></td>
+<td style="text-align: right;">135 660</td>
+</tr>
+<tr>
+<td>1.05.04–30.04.05</td>
+<td style="text-align: right;">105 408</td>
+<td style="text-align: right;">190 248<sup>6</sup></td>
+<td style="text-align: right;">105 408</td>
+<td style="text-align: right;">190 248<sup>6</sup></td>
+<td style="text-align: right;">140 244</td>
+</tr>
+<tr>
+<td>1.05.05–30.04.06</td>
+<td style="text-align: right;">108 852</td>
+<td style="text-align: right;">199 512<sup>7</sup></td>
+<td style="text-align: right;">108 852</td>
+<td style="text-align: right;">199 512<sup>7</sup></td>
+<td style="text-align: right;">144 828</td>
+</tr>
+<tr>
+<td>1.05.06–30.04.07</td>
+<td style="text-align: right;">112 788</td>
+<td style="text-align: right;">206 712</td>
+<td style="text-align: right;">112 788</td>
+<td style="text-align: right;">206 712</td>
+<td style="text-align: right;">150 060</td>
+</tr>
+<tr>
+<td>1.05.07–30.04.08</td>
+<td style="text-align: right;">119 820</td>
+<td style="text-align: right;">219 600</td>
+<td style="text-align: right;">119 820</td>
+<td style="text-align: right;">219 600</td>
+<td style="text-align: right;">159 420</td>
+</tr>
+<tr>
+<td>1.05.08–30.04.09<sup>8</sup></td>
+<td style="text-align: right;">136 296</td>
+<td style="text-align: right;">251 496</td>
+<td style="text-align: right;">136 296</td>
+<td style="text-align: right;">251 496</td>
+<td style="text-align: right;">173 532<sup>9</sup></td>
+</tr>
+<tr>
+<td>1.05.09–30.04.10<sup>10</sup></td>
+<td style="text-align: right;">143 568</td>
+<td style="text-align: right;">265 272</td>
+<td style="text-align: right;">143 568</td>
+<td style="text-align: right;">265 272</td>
+<td style="text-align: right;">180 012</td>
+</tr>
+<tr>
+<td>1.05.10–30.04.11<sup>11</sup></td>
+<td style="text-align: right;">151 272</td>
+<td style="text-align: right;">279 864</td>
+<td style="text-align: right;">151 272</td>
+<td style="text-align: right;">279 864</td>
+<td style="text-align: right;">186 828</td>
+</tr>
+<tr>
+<td>1.05.11–30.04.12<sup>12</sup></td>
+<td style="text-align: right;">157 639</td>
+<td style="text-align: right;">291 644</td>
+<td style="text-align: right;">158 424</td>
+<td style="text-align: right;">293 088</td>
+<td style="text-align: right;">195 660</td>
+</tr>
+<tr>
+<td>1.05.12–30.04.13</td>
+<td style="text-align: right;">162 615</td>
+<td style="text-align: right;">300 850</td>
+<td style="text-align: right;">164 256</td>
+<td style="text-align: right;">303 864</td>
+<td style="text-align: right;">202 848</td>
+</tr>
+<tr>
+<td>1.05.13–30.04.14</td>
+<td style="text-align: right;">167 963</td>
+<td style="text-align: right;">310 744</td>
+<td style="text-align: right;">170 496</td>
+<td style="text-align: right;">315 408</td>
+<td style="text-align: right;">210 564</td>
+</tr>
+<tr>
+<td>1.05.14–31.12.14</td>
+<td style="text-align: right;">173 274</td>
+<td style="text-align: right;">320 570</td>
+<td style="text-align: right;">176 736</td>
+<td style="text-align: right;">326 976</td>
+<td style="text-align: right;">218 268</td>
+</tr>
+<tr>
+<td>1.01.15–30.04.15<sup>13</sup></td>
+<td style="text-align: right;">173 274</td>
+<td style="text-align: right;">320 570</td>
+<td style="text-align: right;">219 158</td>
+<td style="text-align: right;">402 968</td>
+<td style="text-align: right;">257 157</td>
+</tr>
+<tr>
+<td>1.05.15–30.04.16</td>
+<td style="text-align: right;">175 739</td>
+<td style="text-align: right;">325 132</td>
+<td style="text-align: right;">223 369</td>
+<td style="text-align: right;">410 710</td>
+<td style="text-align: right;">262 098</td>
+</tr>
+<tr>
+<td>1.05.16–31.08.16</td>
+<td style="text-align: right;">179 748</td>
+<td style="text-align: right;">332 548</td>
+<td style="text-align: right;">229 588</td>
+<td style="text-align: right;">422 146</td>
+<td style="text-align: right;">269 396</td>
+</tr>
+<tr>
+<td>1.09.16–30.04.17<sup>14</sup></td>
+<td style="text-align: right;">183 748</td>
+<td style="text-align: right;">341 530</td>
+<td style="text-align: right;">229 588</td>
+<td style="text-align: right;">431 404</td>
+<td style="text-align: right;">269 396</td>
+</tr>
+<tr>
+<td>1.05.17–31.08.17</td>
+<td style="text-align: right;">184 766</td>
+<td style="text-align: right;">343 422</td>
+<td style="text-align: right;">232 212</td>
+<td style="text-align: right;">426 972<sup>15</sup></td>
+<td style="text-align: right;">272 475</td>
+</tr>
+<tr>
+<td>1.09.17–30.04.18<sup>16</sup></td>
+<td style="text-align: right;">188 766</td>
+<td style="text-align: right;">345 422</td>
+<td style="text-align: right;">232 212</td>
+<td style="text-align: right;">426 972</td>
+<td style="text-align: right;">272 475</td>
+</tr>
+<tr>
+<td>1.05.18–30.04.19</td>
+<td style="text-align: right;">194 192</td>
+<td style="text-align: right;">355 350</td>
+<td style="text-align: right;">240 270</td>
+<td style="text-align: right;">441 786</td>
+<td style="text-align: right;">281 930</td>
+</tr>
+<tr>
+<td>1.05.19–31.08.19</td>
+<td style="text-align: right;">198 818</td>
+<td style="text-align: right;">363 816</td>
+<td style="text-align: right;">247 648</td>
+<td style="text-align: right;">455 352</td>
+<td style="text-align: right;">290 587</td>
+</tr>
+<tr>
+<td>1.09.19–30.04.20<sup>17</sup></td>
+<td style="text-align: right;">202 818</td>
+<td style="text-align: right;">363 816</td>
+<td style="text-align: right;">247 648</td>
+<td style="text-align: right;">455 352</td>
+<td style="text-align: right;">290 587</td>
+</tr>
+<tr>
+<td>1.05.20–30.04.21<sup>18</sup></td>
+<td style="text-align: right;">208 690</td>
+<td style="text-align: right;">367 174</td>
+<td style="text-align: right;">251 350</td>
+<td style="text-align: right;">462 160</td>
+<td style="text-align: right;">294 931</td>
+</tr>
+<tr>
+<td>1.05.21–30.06.21</td>
+<td style="text-align: right;">219 878</td>
+<td style="text-align: right;">386 858</td>
+<td style="text-align: right;">263 870</td>
+<td style="text-align: right;">485 180</td>
+<td style="text-align: right;">309 621</td>
+</tr>
+<tr>
+<td>1.07.21–30.04.22<sup>19</sup></td>
+<td style="text-align: right;">224 878</td>
+<td style="text-align: right;">386 858</td>
+<td style="text-align: right;">263 870</td>
+<td style="text-align: right;">485 180</td>
+<td style="text-align: right;">309 621</td>
+</tr>
+<tr>
+<td>1.05.22–31.12.22</td>
+<td style="text-align: right;">232 816</td>
+<td style="text-align: right;">400 514</td>
+<td style="text-align: right;">276 463</td>
+<td style="text-align: right;">508 336</td>
+<td style="text-align: right;">324 398</td>
+</tr>
+<tr>
+<td>1.01.23–30.04.23</td>
+<td style="text-align: right;">236 816</td>
+<td style="text-align: right;">400 514</td>
+<td style="text-align: right;">276 463</td>
+<td style="text-align: right;">508 336</td>
+<td style="text-align: right;">324 398</td>
+</tr>
+<tr>
+<td>1.05.23–30.04.24</td>
+<td style="text-align: right;">257 040</td>
+<td style="text-align: right;">434 718</td>
+<td style="text-align: right;">294 178</td>
+<td style="text-align: right;">540 908</td>
+<td style="text-align: right;">345 184</td>
+</tr>
+<tr>
+<td>1.05.24–30.06.24</td>
+<td style="text-align: right;">264 134</td>
+<td style="text-align: right;">446 716</td>
+<td style="text-align: right;">307 589</td>
+<td style="text-align: right;">565 568</td>
+<td style="text-align: right;">360 921</td>
+</tr>
+<tr>
+<td>1.07.24–30.04.25<sup>20</sup></td>
+<td style="text-align: right;">264 134</td>
+<td style="text-align: right;">446 716</td>
+<td style="text-align: right;">313 667</td>
+<td style="text-align: right;">577 722</td>
+<td style="text-align: right;">366 999</td>
+</tr>
+<tr>
+<td>1.05.25–30.04.26</td>
+<td style="text-align: right;">279 933</td>
+<td style="text-align: right;">463 290</td>
+<td style="text-align: right;">329 175</td>
+<td style="text-align: right;">606 285</td>
+<td style="text-align: right;">385 143</td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup> Heving av sats for særtillegget for ektepar frå 1.01.1994. Ny sats 2 x 60,5 prosent av grunnbeløpet, dvs. dobbelt av ordinær sats og ny minstesats.
+
+<sup>2</sup> Heving av sats for særtillegget frå 1.01.1995. Ordinær sats utgjorde 61,55 prosent av grunnbeløpet.
+
+<sup>3</sup> Heving av sats for særtillegget frå 1.05.1997. Ordinær sats utgjorde 63,2 prosent av grunnbeløpet (minstesats 57,5 pst).
+
+<sup>4</sup> Heving av sats for særtillegget frå 1.05.1998. Ordinær sats utgjorde 79,33 prosent av grunnbeløpet, mens minstesats er 74 prosent av grunnbeløpet.
+
+<sup>5</sup> Grunnpensjonen for ektepar auka frå 0,75 G til 0,8 G frå 1.05.2003.
+
+<sup>6</sup> Grunnpensjonen for ektepar auka til 0,825 G frå 1.05.2004.
+
+<sup>7</sup> Grunnpensjonen for ektepar auka til 0,85 G frå 1.05.2005.
+
+<sup>8</sup> Ordinær sats for særtillegget auka til 94 prosent av grunnbeløpet frå 1.05.2008.
+
+<sup>9</sup> Dei medrekna framtidige pensjonspoenga for unge uføre auka frå 3,30 til 3,50 frå 1.05.2008.
+
+<sup>10</sup> Ordinær sats for særtillegget auka 97 prosent av grunnbeløpet frå 1.05.2009.
+
+<sup>11</sup> Ordinær sats for særtillegget auka til 100 prosent av grunnbeløpet frå 1.05.2010.
+
+<sup>12</sup> Frå og med 1.05.2011 er satsane for minste pensjonsnivå for alderspensjonistar regulert i samsvar med lønnsveksten og deretter justert for effekten av levealdersjusteringa, medan minstepensjon for uførepensjonistar er regulerte i sam-svar med grunnbeløpet (lønnsveksten). Eit ektepar med alderspensjon er sikra eit samla pensjonsnivå tilsvarande to gonger ordinær sats.
+
+<sup>13</sup> Frå 1.01.2015 er uførepensjon endra til uføretrygd og blir skattlagt som lønn. For å føra vidare nivået etter skatt, er minstesatsane auka. Minstesatsen for gifte og sambuande er 2,28 G (ordinær sats) og for einslege 2,48 G (høg sats). For unge uføre er minstesatsane høvesvis 2,66 G og 2,91 G.
+
+<sup>14</sup> Frå 1.09.2016 auka grunnpensjonen til gifte og sambuande pensjonistar frå 0,85 G til 0,90 G. Låg og ordinær sats for minste pensjonsnivå for alderspensjonistar auka, og det vart innført ein ny, særskild sats for einslege alderspensjonistar. Minste årlege yting for gifte og sambuande uføretrygda er auka til 2,33 G dersom vedkommande får uføretrygd som er ein omregna uførepensjon.
+
+<sup>15</sup> Minstesatsen for gifte og sambuande uføretrygda med uføretrygd som er ein omregna uførepensjon er 2,33 G = 436 334 kroner frå 1.05.2017 (inga endring frå 1.09.2017).
+
+<sup>16</sup> Frå 1.09.2017 auka alle satsane for minste pensjonsnivå for alderspensjonistar.
+
+<sup>17</sup> Frå 1.09.2019 auka minste pensjonsnivå særskilt sats etter sjette ledd bokstav a.
+
+<sup>18</sup> Med virkning frå 1.05.2020 auka minste pensjonsnivå særskilt sats etter sjette ledd bokstav a med 4 000 kroner.
+
+<sup>19</sup> Frå 1.07.2021 auka minste pensjonsnivå særskilt sats etter sjette ledd bokstav a.
+
+<sup>20 Frå 1.07.2024 auka satsane for minsteytingane i uføretrygda.</sup>
 
 Kjelde: Arbeids- og velferdsdirektoratet
 
-[Side 56]
+Minstesats (årleg gjennomsnitt) for einslege og ektepar og grunnbeløpet (årleg gjennomsnitt). Endring i realverdien. 1970–2024
 
-54
-
-2024–2025
-
-Meld. St. 27
-Regulering av pensjonar i 2025 og inntektstilhøve for pensjonistar
-
-Tabell 6.3 Minstesats (årleg gjennomsnitt) for einslege og ektepar og grunnbeløpet (årleg gjennomsnitt).
-Endring i realverdien. 1970–2024
-Endring i realverdi frå året før
-Minstesats
-uføretrygd
-
-Minste pensjonsnivå
-alderspensjon
-
-Gj.sn.
-grunnbeløp kr
-
-Minstesats
-uføretrygd
-
-Minste pensjonsnivå
-alderspensjon
-
-Einsleg Ektepar
-prosent prosent
-
-Einsleg Ektepar
-prosent prosent
-
-Gj.sn.
-grunnbeløp
-
-År
-
-Einsleg
-
-Ektepar3
-
-Einsleg
-
-Ektepar
-
-1970
-
-7 810
-
-11 970
-
-7 810
-
-11 970
-
-6 800
-
--
-
--
-
--
-
--
-
--
-
-1971
-
-8 900
-
-13 850
-
-8 900
-
-13 850
-
-7 400
-
-6,8
-
-8,4
-
-6,8
-
-8,4
-
-2,0
-
-1972
-
-9 664
-
-15 023
-
-9 664
-
-15 023
-
-7 900
-
-1,7
-
-1,6
-
-1,7
-
-1,6
-
--0,0
-
-1973
-
-10 445
-
-16 220
-
-10 445
-
-16 220
-
-8 500
-
-0,2
-
-0,1
-
-0,2
-
-0,1
-
--0,2
-
-1974
-
-11 655
-
-18 101
-
-11 655
-
-18 101
-
-9 533
-
-2,3
-
-2,3
-
-2,3
-
-2,3
-
-2,8
-
-1975
-
-13 308
-
-20 696
-
-13 308
-
-20 696
-
-10 800
-
-2,3
-
-2,4
-
-2,3
-
-2,4
-
-1,5
-
-1976
-
-15 363
-
-24 215
-
-15 363
-
-24 215
-
-12 000
-
-5,6
-
-7,0
-
-5,6
-
-7,0
-
-1,6
-
-1977
-
-17 770
-
-28 331
-
-17 770
-
-28 331
-
-13 383
-
-5,9
-
-7,1
-
-5,9
-
-7,1
-
-2,1
-
-1978
-
-20 228
-
-32 760
-
-20 228
-
-32 760
-
-14 550
-
-5,3
-
-6,9
-
-5,3
-
-6,9
-
-0,6
-
-1979
-
-21 780
-
-35 406
-
-21 780
-
-35 406
-
-15 200
-
-2,9
-
-3,3
-
-2,9
-
-3,3
-
--0,1
-
-1980
-
-24 345
-
-39 339
-
-24 345
-
-39 339
-
-16 633
-
-0,7
-
-0,1
-
-0,7
-
-0,1
-
--1,5
-
-1981
-
-27 882
-
-45 066
-
-27 882
-
-45 066
-
-18 658
-
-1,0
-
-1,0
-
-1,0
-
-1,0
-
--1,1
-
-1982
-
-31 228
-
-50 633
-
-31 228
-
-50 633
-
-20 667
-
-0,5
-
-0,9
-
-0,5
-
-0,9
-
--0,6
-
-1983
-
-34 153
-
-55 248
-
-34 153
-
-55 248
-
-22 333
-
-0,8
-
-0,6
-
-0,8
-
-0,6
-
--0,4
-
-1984
-
-36 516
-
-59 056
-
-36 516
-
-59 056
-
-23 667
-
-0,5
-
-0,5
-
-0,5
-
-0,5
-
--0,4
-
-1985
-
-39 220
-
-63 496
-
-39 220
-
-63 496
-
-25 333
-
-1,7
-
-1,8
-
-1,7
-
-1,8
-
-1,3
-
-1986
-
-42 884
-
-69 196
-
-42 884
-
-69 196
-
-27 433
-
-2,1
-
-1,7
-
-2,1
-
-1,7
-
-1,1
-
-1987
-
-45 724
-
-73 776
-
-45 724
-
-73 776
-
-29 267
-
--2,0
-
--2,0
-
--2,0
-
--2,0
-
--1,9
-
-1988
-
-48 786
-
-78 966
-
-48 786
-
-78 966
-
-30 850
-
-0,0
-
-0,4
-
-0,0
-
-0,4
-
--1,2
-
-1989
-
-51 174
-
-82 896
-
-51 174
-
-82 896
-
-32 275
-
-0,3
-
-0,4
-
-0,3
-
-0,4
-
-0,1
-
-1990
-
-53 438
-
-86 652
-
-53 438
-
-86 652
-
-33 575
-
-0,3
-
-0,4
-
-0,3
-
-0,4
-
--0,1
-
-1991
-
-56 112
-
-90 840
-
-56 112
-
-90 840
-
-35 033
-
-1,5
-
-1,3
-
-1,5
-
-1,3
-
-0,8
-
-1992
-
-58 048
-
-93 890
-
-58 048
-
-93 890
-
-36 167
-
-1,1
-
-1,0
-
-1,1
-
-1,0
-
-0,9
-
-1993
-
-59 440
-
-96 128
-
-59 440
-
-96 128
-
-37 033
-
-0,1
-
-0,1
-
-0,1
-
-0,1
-
-0,1
-
-1994
-
-60 700
-
-102 496
-
-60 700
-
-102 496
-
-37 820
-
-0,7
-
-5,1
-
-0,7
-
-5,1
-
-0,7
-
-1995
-
-62 752
-
-106 088
-
-62 752
-
-106 088
-
-38 847
-
-0,9
-
-1,0
-
-0,9
-
-1,0
-
-0,2
-
-1996
-
-65 284
-
-110 368
-
-65 284
-
-110 368
-
-40 410
-
-2,8
-
-2,8
-
-2,8
-
-2,8
-
-2,8
-
-1997
-
-68 320
-
-115 632
-
-68 320
-
-115 632
-
-42 000
-
-2,0
-
-2,1
-
-2,0
-
-2,1
-
-1,3
-
-1998
-
-77 360
-
-132 512
-
-77 360
-
-132 512
-
-44 413
-
-10,7
-
-12,1
-
-10,7
-
-12,1
-
-3,4
-
-1999
-
-83 256
-
-143 288
-
-83 256
-
-143 288
-
-46 423
-
-5,2
-
-5,7
-
-5,2
-
-5,7
-
-2,2
-
-[Side 57]
-
-2024–2025
-
-55
-
-Meld. St. 27
-Regulering av pensjonar i 2025 og inntektstilhøve for pensjonistar
-
-Tabell 6.3 Minstesats (årleg gjennomsnitt) for einslege og ektepar og grunnbeløpet (årleg gjennomsnitt).
-Endring i realverdien. 1970–2024
-Endring i realverdi frå året før
-Minstesats
-uføretrygd
-
-Minste pensjonsnivå
-alderspensjon
-
-Gj.sn.
-grunnbeløp kr
-
-Minstesats
-uføretrygd
-
-Minste pensjonsnivå
-alderspensjon
-
-Einsleg Ektepar
-prosent prosent
-
-Einsleg Ektepar
-prosent prosent
-
-Gj.sn.
-grunnbeløp
-
-År
-
-Einsleg
-
-Ektepar3
-
-Einsleg
-
-Ektepar
-
-2000
-
-86 756
-
-149 312
-
-86 756
-
-149 312
-
-48 377
-
-1,0
-
-1,0
-
-1,0
-
-1,0
-
-1,0
-
-2001
-
-90 744
-
-156 184
-
-90 744
-
-156 184
-
-50 603
-
-1,5
-
-1,5
-
-1,5
-
-1,5
-
-1,5
-
-2002
-
-95 460
-
-164 312
-
-95 460
-
-164 312
-
-53 233
-
-3,9
-
-3,9
-
-3,9
-
-3,9
-
-3,9
-
-2003
-
-100 356
-
-176 536
-
-100 356
-
-176 536
-
-55 964
-
-2,6
-
-4,9
-
-2,6
-
-4,9
-
-2,6
-
-2004
-
-104 260
-
-187 232
-
-104 260
-
-187 232
-
-58 139
-
-3,4
-
-5,6
-
-3,4
-
-5,6
-
-3,4
-
-2005
-
-107 704
-
-196 424
-
-107 704
-
-196 424
-
-60 059
-
-1,7
-
-3,3
-
-1,7
-
-3,3
-
-1,7
-
-2006
-
-111 476
-
-204 312
-
-111 476
-
-204 312
-
-62 161
-
-1,2
-
-1,7
-
-1,2
-
-1,7
-
-1,2
-
-2007
-
-117 476
-
-215 304
-
-117 476
-
-215 304
-
-65 505
-
-4,6
-
-4,6
-
-4,6
-
-4,6
-
-4,6
-
-2008
-
-130 804
-
-240 864
-
-130 804
-
-240 864
-
-69 108
-
-7,3
-
-7,8
-
-7,3
-
-7,8
-
-1,6
-
-2009
-
-141 144
-
-260 680
-
-141 144
-
-260 680
-
-72 006
-
-5,7
-
-6,0
-
-5,7
-
-6,0
-
-2,0
-
-2010
-
-148 704
-
-275 000
-
-148 704
-
-275 000
-
-74 721
-
-2,8
-
-3,0
-
-2,8
-
-3,0
-
-1,3
-
-2011
-
-156 040
-
-288 680
-
-155 517
-
-287 717
-
-78 024
-
-3,6
-
-3,6
-
-3,2
-
-3,3
-
-3,1
-
-2012
-
-162 312
-
-300 272
-
-160 956
-
-297 781
-
-81 153
-
-3,4
-
-3,4
-
-2,8
-
-2,8
-
-3,3
-
-2013
-
-168 416
-
-311 560
-
-166 180
-
-307 446
-
-84 204
-
-1,6
-
-1,6
-
-1,1
-
-1,1
-
-1,6
-
-2014
-
-174 656
-
-323 120
-
-171 504
-
-317 295
-
-87 328
-
-1,6
-
-1,6
-
-1,1
-
-1,1
-
-1,6
-
-20151
-
-221 965
-
-408 129
-
-174 917
-
-323 611
-
-89 502
-
-24,4
-
-23,7
-
--0,1
-
--0,1
-
-0,3
-
-20162
-
-227 515
-
-421 420
-
-179 745
-
-333 070
-
-91 740
-
--1,1
-
--0,3
-
--0,8
-
--0,7
-
--1,1
-
-2017
-
-231 337
-
-434 691
-
-185 760
-
-343 458
-
-93 281
-
--0,2
-
-1,3
-
-1,5
-
-1,3
-
--0,2
-
-2018
-
-237 584
-
-446 427
-
-192 383
-
-352 040
-
-95 800
-
-0,0
-
-0,0
-
-0,8
-
--0,2
-
-0,0
-
-2019
-
-245 189
-
-460 717
-
-198 609
-
-360 994
-
-98 866
-
-1,0
-
-1,0
-
-1,0
-
-0,3
-
-1,0
-
-2020
-
-250 116
-
-469 977
-
-206 733
-
-366 054
-
-100 853
-
-0,7
-
-0,7
-
-2,84
-
-0,1
-
-0,7
-
-2021
-
-259 697
-
-487 979
-
-218 649
-
-380 296
-
-104 716
-
-0,3
-
-0,3
-
-2,2
-
-0,4
-
-0,3
-
-2022
-
-272 265
-
-511 595
-
-230 170
-
-395 962
-
-109 784
-
--0,9
-
--0,9
-
--0,5
-
--1,6
-
--0,9
-
-2023
-
-288 273
-
-541 674
-
-250 299
-
-423 316
-
-116 239
-
-0,3
-
-0,3
-
-3,0
-
-1,3
-
-0,3
-
-2024
-
-303 119
-
-569 570
-
-261 769
-
-442 716
-
-122 225
-
-2,0
-
-2,0
-
-1,5
-
-1,5
-
-2,0
-
-1
-
-Frå 1.01.2015 er uførepensjon endra til uføretrygd og blir skattlagt som lønn. For å føra vidare nivået etter skatt, er minstesatsane auka.
-2
-Frå 1.09.2016 er minste årlege yting for gifte og sambuande uføretrygda auka til 2,33 G dersom vedkommande får uføretrygd
-som er ein omregnet uførepensjon.
-3
-Som minstesats uføre, ektepar er det nytta ein sats på 2,33 per person, nivået for dei som vart uføre før 2015
-4
-Inkluderer auken på 4000 kroner med verknad frå 1. mai 2020
-Kjelde: Arbeids- og velferdsdirektoratet
-
-[Side 58]
-
-56
-
-2024–2025
-
-Meld. St. 27
-Regulering av pensjonar i 2025 og inntektstilhøve for pensjonistar
-
-Tabell 6.4 Personar med pensjon/uføretrygd/overgangsstønad frå folketrygda
-
-Alderspensjonistar
-
-Pr.31.desember 2022
-
-Pr.31.desember 2023
-
-Pr.31.desember 2024
-
-Av dette
-med
-Antall minstepersonar
-ytelse
-
-Av dette
-med
-Antall minstepersonar
-ytelse
-
-Av dette
-med
-Antall minstepersonar
-ytelse
-
-I pst
-av
-alle
-
-13 1 039 502 133 256
-
-13 1 060 537 121 170
-
-11
-
-1 018 215 134 523
-
-I pst
-av
-alle
-
-I pst
-av
-alle
-
-Uføretrygda
-
-364 437
-
-88 431
-
-24
-
-366 627
-
-90 246
-
-25
-
-373 036
-
-97 522
-
-26
-
-Attlevande ektefeller
-
-13 586
-
-4 182
-
-31
-
-13 442
-
-4 212
-
-31
-
-13 364
-
-5 121
-
-38
-
-8
-
-8
-
-100
-
-5
-
-5
-
-100
-
-*
-
-*
-
-*
-
-9 630
-
-9 630
-
-100
-
-9 494
-
-9 494
-
-100
-
-9 143
-
-9 143
-
-100
-
-17 1 456 080 232 956
-
-16
-
-Kvinner
-
-Menn
-
-I alt
-
-100 651
-
-20 519
-
-121 170
-
-67–69 år
-
-1 392
-
-1 270
-
-2 662
-
-70 år og over
-
-99 259
-
-19 249
-
-118 508
-
-Uføre i alt
-
-66 476
-
-31 046
-
-97 522
-
-Under 50 år
-
-24 533
-
-12 894
-
-37 427
-
-50–59 år
-
-21 610
-
-9 784
-
-31 394
-
-60–67 år
-
-20 333
-
-8 368
-
-28 701
-
-167 127
-
-51 565
-
-218 692
-
-Tidligere familiepleiarar
-Ugifte forsørgjarar og
-skilde eller separerte
-forsørgjarar
-I alt
-
-1 405 876 236 774
-
-17 1 429 070 237 213
-
-Kjelde: Arbeids- og velferdsdirektoratet
-
-Tabell 6.5 Alders- og uføre med minsteyting pr. 31.12.2024
-
-Alderspensjonistar i alt
-
-I alt
-Kjelde: Arbeids- og velferdsdirektoratet
-
-[Side 59]
-
-2024–2025
-
-57
-
-Meld. St. 27
-Regulering av pensjonar i 2025 og inntektstilhøve for pensjonistar
-
-Tabell 6.6 Alderspensjonistar og uføre med full pensjon samt attlevande ektefeller med og uten
-tilleggspensjon pr. 31.12.2024
-Bare pensjonistar med full pensjon
-Alderspensjonistar
-med full pensjon
-
-Uføre med
-full pensjon1
-
-Attlevande ektefeller
-med pensjon/
-overgangsstønad
-
-I alt
-
-Utan tilleggspensjon
-
-23 406
-
-260
-
-23 406
-
-Under 0,55G
-
-129 024
-
-7 231
-
-129 024
-
-0,55–0,60
-
-12 383
-
-440
-
-12 383
-
-0,60–0,80
-
-59 239
-
-1 421
-
-59 239
-
-0,80–1,00
-
-74 079
-
-1 107
-
-74 079
-
-1,00–1,50
-
-244 498
-
-1 376
-
-244 498
-
-1,50–2,00
-
-247 883
-
-263
-
-247 883
-
-Over 2,00G
-
-250 342
-
-0
-
-250 342
-
-12 098
-
-1 344 282
-
-I alt
-
-1 040 854
-
-303 428
-
-1
-
-Ettersom uføretrygda ikkje lenger har tilleggspensjon som del av uføretrygda, er det ikkje mogleg å fordela desse etter
-inndelinga i tabellen.
-Kjelde: Arbeids- og velferdsdirektoratet
-
-Tabell 6.7 Personar med pensjonsgivande inntekt1. 2010–2023
-I prosent av befolkning
-13–75 år
-
-Antall personar
-
-Befolkning
-13–75 år
-
-Kvinner
-
-Menn
-
-I alt
-
-Kvinner
-
-Menn
-
-Kvinner
-
-Menn
-
-2010
-
-1 434 603
-
-1 546 340
-
-2 980 943
-
-76,6 %
-
-80,1 %
-
-1 872 055
-
-1 930 455
-
-2011
-
-1 448 859
-
-1 567 593
-
-3 016 452
-
-76,3 %
-
-79,7 %
-
-1 899 239
-
-1 965 819
-
-2012
-
-1 464 198
-
-1 587 510
-
-3 051 708
-
-76,0 %
-
-79,4 %
-
-1 926 847
-
-1 999 923
-
-2013
-
-1 481 036
-
-1 609 306
-
-3 090 342
-
-75,9 %
-
-79,3 %
-
-1 952 239
-
-2 028 700
-
-2014
-
-1 496 259
-
-1 628 947
-
-3 125 206
-
-75,8 %
-
-79,3 %
-
-1 975 088
-
-2 055 370
-
-2015
-
-1 504 525
-
-1 637 253
-
-3 141 778
-
-75,5 %
-
-78,9 %
-
-1 993 945
-
-2 076 129
-
-2016
-
-1 512 527
-
-1 644 105
-
-3 156 632
-
-75,2 %
-
-78,5 %
-
-2 011 583
-
-2 094 555
-
-2017
-
-1 522 415
-
-1 657 210
-
-3 179 625
-
-75,0 %
-
-78,5 %
-
-2 029 207
-
-2 111 032
-
-2018
-
-1 530 967
-
-1 672 206
-
-3 203 173
-
-74,9 %
-
-78,7 %
-
-2 044 370
-
-2 124 319
-
-2019
-
-1 537 231
-
-1 684 641
-
-3 221 872
-
-74,6 %
-
-78,6 %
-
-2 060 390
-
-2 142 134
-
-2020
-
-1 528 641
-
-1 680 241
-
-3 208 882
-
-73,9 %
-
-78,1 %
-
-2 068 662
-
-2 150 799
-
-2021
-
-1 554 363
-
-1 708 436
-
-3 262 799
-
-74,7 %
-
-79,0 %
-
-2 080 112
-
-2 163 462
-
-2022
-
-1 566 082
-
-1 717 546
-
-3 283 628
-
-74,3 %
-
-78,7 %
-
-2 108 082
-
-2 183 097
-
-2023
-
-1 595 260
-
-1 742 872
-
-3 338 132
-
-74,8 %
-
-79,0 %
-
-2 132 717
-
-2 205 787
-
-1
-
-Alle med inntekt større enn 0. Dette vil ikkje inkludera personar som berre har andre former for pensjonsopptening som
-omsorgsopptening, opptening for uføretrygda med meir.
-Opptening 13–75 vart innførte frå og med 1943-kullet, og gjaldt alle aldrar 13 –75 år først i 2018, då 1943-kullet fylte 75 år.
-Kjelde: Arbeids- og velferdsdirektoratet
-
-[Side 60]
-
-58
-
-Meld. St. 27
-Regulering av pensjonar i 2025 og inntektstilhøve for pensjonistar
-
-2024–2025
-
-Tabell 6.8 Utvikling av gjennomsnittleg pensjonsgivande inntekt1 målt i antall G (avgrensa oppover til 7,1 G).
-2010–2023
-Gjennomsnittleg pensjonsgivande inntekt
-Kvinner
-
-Menn
-
-2010
-
-3,71
-
-4,66
-
-2011
-
-3,71
-
-4,63
-
-2012
-
-3,72
-
-4,64
-
-2013
-
-3,73
-
-4,63
-
-2014
-
-3,71
-
-4,59
-
-2015
-
-3,73
-
-4,58
-
-2016
-
-3,74
-
-4,54
-
-2017
-
-3,78
-
-4,55
-
-2018
-
-3,80
-
-4,56
-
-2019
-
-3,83
-
-4,58
-
-2020
-
-3,89
-
-4,62
-
-2021
-
-3,90
-
-4,62
-
-2022
-
-3,90
-
-4,61
-
-2023
-
-3,89
-
-4,59
-
-1
-
-Gjeld for alle med inntekt større enn 0. Dette vil ikkje inkludera personar som berre har andre former for pensjonsopptening
-som omsorgsopptening, opptening for uføretrygda med meir.
-Kjelde: Arbeids- og velferdsdirektoratet
-
-[Side 61]
-
-[Side 62]
-
-Bestilling av publikasjonar
-Tryggings- og serviceorganisasjonen til departementa
-publikasjoner.dep.no
-Telefon: 22 24 00 00
-Publikasjonane er også tilgjengelege på
-www.regjeringen.no
-
-N
-VA
-
-E MER K
-
-Trykksak
-2041 0446
-
-E
-
-T
-
-S
-
-Trykk: Tryggings- og serviceorganisasjonen til
-departementa – 06/2025
+11J3xt2
